@@ -13,7 +13,7 @@ devices, commerce, business, maps, weather, nature, health, design, objects, tim
 | Web Components / CDN | `@icon-monks/web` | [packages/web](packages/web) |
 | Icon font (OTF + WOFF2, CSS) | `@icon-monks/font` | [packages/font](packages/font) |
 | Flutter | `icon_monks` | [packages/flutter](packages/flutter) |
-| Android (Compose + VectorDrawable) | `com.designmonks:icon-monks` | [packages/android](packages/android) |
+| Android (Compose + VectorDrawable) | `com.github.designmonks:icon-monks` (JitPack) | [packages/android](packages/android) |
 | iOS / macOS / tvOS / watchOS (SwiftUI + UIKit) | Swift Package `IconMonks` | [packages/swift](packages/swift) |
 
 Browse, search and copy icons at **https://designmonks.github.io/icon-monks/** (built from `docs/template.html` into `index.html`).

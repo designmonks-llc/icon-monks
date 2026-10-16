@@ -1,12 +1,21 @@
 // Builds the icon browser from docs/template.html and build/icons.json:
 //   index.html           full page served by GitHub Pages (repo root)
 //   build/artifact.html  page fragment for the claude.ai preview artifact
+//   data/<weight>.json   path data per weight, fetched by the page (publish next to the artifact)
 //   sitemap.xml, robots.txt, site.webmanifest for search engines (brand images come from scripts/brand.cjs)
-import { readFileSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 
 const root = new URL('..', import.meta.url);
 const data = JSON.parse(readFileSync(new URL('build/icons.json', root)));
-const page = readFileSync(new URL('docs/template.html', root), 'utf8').replace('/*__ICONS__*/null', JSON.stringify(data))
+// The page inlines only names, categories and tags; path data goes to data/<weight>.json, fetched on demand.
+mkdirSync(new URL('data/', root), { recursive: true });
+for (const w of data.weights) writeFileSync(new URL(`data/${w}.json`, root), JSON.stringify(data.icons.map((i) => i.paths[w])));
+const meta = {
+  weights: data.weights,
+  searchPath: data.icons.find((i) => i.name === 'magnifying-glass').paths.bold,
+  icons: data.icons.map((i, n) => ({ i: n, name: i.name, category: i.category, tags: i.tags })),
+};
+const page = readFileSync(new URL('docs/template.html', root), 'utf8').replace('/*__ICONS__*/null', JSON.stringify(meta))
   .replace('<b id="stat-icons">0</b>', `<b id="stat-icons">${data.icons.length}</b>`);
 
 const split = page.indexOf('</style>') + '</style>'.length;

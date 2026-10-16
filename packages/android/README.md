@@ -14,8 +14,13 @@ Two ways to use the icons, both in this library:
 
 **Jetpack Compose**
 
+Each icon is an extension property in its weight's package, so only the icons you import are compiled into your app.
+
 ```kotlin
 import com.designmonks.icons.IconMonks
+import com.designmonks.icons.regular.House
+import com.designmonks.icons.bold.Heart
+import com.designmonks.icons.duotone.Star
 
 Icon(IconMonks.Regular.House, contentDescription = "Home")
 Icon(IconMonks.Bold.Heart, contentDescription = null, tint = Color.Red)

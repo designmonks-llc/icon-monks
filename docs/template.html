@@ -56,6 +56,8 @@ input:focus-visible, button:focus-visible, select:focus-visible { outline: 2px s
 .knob input[type=color] { width: 34px; height: 30px; border: 1px solid var(--rule); border-radius: 8px; padding: 2px; background: var(--sheet); }
 main.wrap { padding-block: 20px 56px; display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 24px; align-items: start; }
 .count { font: 12px var(--mono); color: var(--muted); margin-bottom: 10px; }
+.more { display: block; margin: 16px auto 0; font: 500 13px var(--body); border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); border-radius: 999px; padding: 8px 16px; cursor: pointer; }
+.more[hidden] { display: none; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 8px; }
 .tile { appearance: none; border: 1px solid transparent; background: var(--sheet); border-radius: 12px; padding: 18px 6px 10px; display: flex; flex-direction: column; align-items: center; gap: 12px; cursor: pointer; color: var(--ink); min-width: 0; }
 .tile:hover { border-color: var(--rule); }
@@ -142,6 +144,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var
   <div>
     <div class="count" id="count"></div>
     <div class="grid" id="grid" role="listbox" aria-label="Icons"></div>
+    <button class="more" id="more" type="button" hidden>Show more icons</button>
     <div class="empty" id="empty" hidden>No icons match that search. Try a broader word like “arrow” or “file”.</div>
   </div>
   <aside class="detail" id="detail" aria-live="polite">
@@ -202,8 +205,18 @@ const pascal = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).j
 const camel = (n) => { const p = pascal(n); return p[0].toLowerCase() + p.slice(1); };
 const byName = Object.fromEntries(DATA.icons.map((i) => [i.name, i]));
 
+// Path data lives in data/<weight>.json (one array per weight, in DATA.icons order), loaded on demand.
+const PATHS = {};
+const pending = {};
+function loadWeight(w) {
+  if (!pending[w]) pending[w] = fetch(`data/${w}.json`).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((a) => { PATHS[w] = a; return a; }).catch((e) => { delete pending[w]; throw e; });
+  return pending[w];
+}
+const pathOf = (icon, w) => (PATHS[w] ? PATHS[w][icon.i] : null);
 function body(icon, weight) {
-  const d = icon.paths[weight];
+  const d = pathOf(icon, weight);
+  if (!d) return '';
   return weight === 'duotone' ? (d[0] ? `<path d="${d[0]}" opacity="0.2"/>` : '') + `<path d="${d[1]}"/>` : `<path d="${d}"/>`;
 }
 function svg(icon, weight, size, color) {
@@ -215,13 +228,34 @@ function matches(icon, q) {
   return q.split(/\s+/).every((t) => icon.name.includes(t) || icon.category.toLowerCase().includes(t) || icon.tags.some((g) => g.includes(t)));
 }
 
+// The grid renders in chunks as you scroll, so thousands of icons stay fast.
+const CHUNK = 240;
+let shown = [];
+let drawn = 0;
+const tile = (i) => `<button class="tile" role="option" type="button" data-name="${i.name}" aria-selected="${i.name === state.selected}" title="${i.name}">${svg(i, state.weight, state.size, state.color)}<span>${i.name}</span></button>`;
+function drawMore(upTo) {
+  const end = Math.min(shown.length, Math.max(drawn + CHUNK, upTo || 0));
+  $('grid').insertAdjacentHTML('beforeend', shown.slice(drawn, end).map(tile).join(''));
+  drawn = end;
+  $('more').hidden = drawn >= shown.length;
+}
 function renderGrid() {
   const q = state.q.trim().toLowerCase();
-  const list = DATA.icons.filter((i) => (!state.cat || i.category === state.cat) && matches(i, q));
-  $('grid').innerHTML = list.map((i) => `<button class="tile" role="option" type="button" data-name="${i.name}" aria-selected="${i.name === state.selected}" title="${i.name}">${svg(i, state.weight, state.size, state.color)}<span>${i.name}</span></button>`).join('');
-  $('empty').hidden = list.length > 0;
-  $('count').textContent = `${list.length} of ${DATA.icons.length} icons · ${state.weight}`;
+  shown = DATA.icons.filter((i) => (!state.cat || i.category === state.cat) && matches(i, q));
+  $('empty').hidden = shown.length > 0;
+  if (!PATHS[state.weight]) {
+    $('count').textContent = `Loading ${state.weight} icons…`;
+    loadWeight(state.weight).then(renderGrid, () => { $('count').textContent = 'Could not load the icons. Check your connection and reload.'; });
+    return;
+  }
+  $('grid').innerHTML = ''; drawn = 0;
+  drawMore(shown.findIndex((i) => i.name === state.selected) + 1);
+  $('count').textContent = `${shown.length} of ${DATA.icons.length} icons · ${state.weight}`;
 }
+if ('IntersectionObserver' in window) {
+  new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting) && drawn < shown.length) drawMore(); }, { rootMargin: '800px' }).observe($('more'));
+}
+$('more').addEventListener('click', () => drawMore());
 
 const SNIPPETS = {
   React: (n, w) => `import { ${pascal(n)} } from '@icon-monks/react';\n\n<${pascal(n)}${w !== 'regular' ? ` weight="${w}"` : ''} size={32} />`,
@@ -230,7 +264,7 @@ const SNIPPETS = {
   Font: (n, w) => w === 'duotone' ? 'Icon fonts are single-colour, so duotone is not in the font.\nUse the SVG, React, Vue, web component or native packages.' : `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font/dist/index.css">\n\n<i class="${w === 'regular' ? 'im' : 'im-' + w} im-${n}"></i>`,
   Flutter: (n, w) => w === 'duotone' ? 'Duotone is not available in the Flutter font package.' : (w === 'regular' ? `Icon(IconMonks.${camel(n)})` : `Icon(IconMonks.${w}.${camel(n)})`),
   SwiftUI: (n, w) => `import IconMonks\n\nImage(iconMonks: .${camel(n)}${w !== 'regular' ? `, weight: .${w}` : ''})\n    .resizable()\n    .frame(width: 24, height: 24)`,
-  Compose: (n, w) => `import com.designmonks.icons.IconMonks\n\nIcon(IconMonks.${pascal(w)}.${pascal(n)}, contentDescription = null)`,
+  Compose: (n, w) => `import com.designmonks.icons.IconMonks\nimport com.designmonks.icons.${w}.${pascal(n)}\n\nIcon(IconMonks.${pascal(w)}.${pascal(n)}, contentDescription = null)`,
   SVG: (n, w) => svg(byName[n], w, 32),
 };
 
@@ -297,7 +331,7 @@ function pdfPath(d, k, size) {
 function makePdf(icon, w, size) {
   const hex = exportColor().replace('#', '');
   const rgb = [0, 2, 4].map((o) => (parseInt(hex.slice(o, o + 2), 16) / 255).toFixed(3)).join(' ');
-  const k = size / 256; const paths = icon.paths[w];
+  const k = size / 256; const paths = pathOf(icon, w);
   let content = `${rgb} rg\n`;
   if (w === 'duotone') { if (paths[0]) content += `q /GS1 gs\n${pdfPath(paths[0], k, size)}\nf\nQ\n`; content += `${pdfPath(paths[1], k, size)}\nf\n`; }
   else content += `${pdfPath(paths, k, size)}\nf\n`;
@@ -325,6 +359,7 @@ document.querySelector('.dl').addEventListener('click', async (e) => {
   const name = `${icon.name}${w === 'regular' ? '' : '-' + w}${fmt === 'svg' ? '' : '-' + px}.${fmt}`;
   $('dl-note').textContent = 'Preparing…';
   try {
+    await loadWeight(w);
     let blob;
     if (fmt === 'svg') blob = new Blob([svg(icon, w, px, state.color || 'currentColor')], { type: MIME.svg });
     else if (fmt === 'pdf') blob = makePdf(icon, w, px);
@@ -366,7 +401,7 @@ $('copy').addEventListener('click', async () => {
 let lines = '';
 for (let i = 16; i < 256; i += 16) lines += `<line x1="${i}" y1="0" x2="${i}" y2="256"/><line x1="0" y1="${i}" x2="256" y2="${i}"/>`;
 $('gridlines').innerHTML = lines;
-$('search-path').setAttribute('d', byName['magnifying-glass'].paths.bold);
+$('search-path').setAttribute('d', DATA.searchPath);
 $('stat-icons').textContent = DATA.icons.length;
 if (!WEIGHTS.includes(state.weight)) state.weight = 'regular';
 if (!SNIPPETS[state.tab]) state.tab = 'React';
@@ -397,8 +432,14 @@ function syncUrl() {
 ['grid', 'weights'].forEach((id) => $(id).addEventListener('click', syncUrl));
 ['q', 'cat'].forEach((id) => $(id).addEventListener('input', syncUrl));
 $('cat').addEventListener('change', syncUrl);
-renderWeights(); renderGrid(); renderDetail();
-if (params.get('icon')) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrollIntoView({ block: 'center' });
+renderWeights(); renderGrid();
+loadWeight(state.weight).then(() => {
+  renderDetail();
+  if (params.get('icon')) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrollIntoView({ block: 'center' });
+  // The weight strip and downloads need every weight; fetch the rest in the background.
+  Promise.all(WEIGHTS.map((w) => loadWeight(w).catch(() => null))).then(renderDetail);
+}, () => {});
+if (false) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrollIntoView({ block: 'center' });
 
 /* Visitor counter: counts each browser once (no personal data is sent) */
 (async () => {
