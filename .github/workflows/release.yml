@@ -17,7 +17,7 @@ jobs:
   npm:
     runs-on: ubuntu-latest
     env:
-      NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      HAS_NPM_TOKEN: ${{ secrets.NPM_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -26,10 +26,12 @@ jobs:
         if: github.event_name == 'push'
         run: test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME"
       - name: Publish @icon-monks packages
-        if: env.NODE_AUTH_TOKEN != ''
+        if: env.HAS_NPM_TOKEN == 'true'
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: for p in core react vue web font; do (cd packages/$p && npm publish --access public --provenance); done
       - name: Skip npm (no NPM_TOKEN secret)
-        if: env.NODE_AUTH_TOKEN == ''
+        if: env.HAS_NPM_TOKEN != 'true'
         run: echo "::warning::NPM_TOKEN is not set, npm packages were not published"
 
   pub:
