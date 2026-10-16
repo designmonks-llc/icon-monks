@@ -4,7 +4,7 @@ export const paths = {"arrow-clockwise":{"thin":"M137.74 74.26Q136.94 74.26 136.
 
 export function toSvg(name, { weight = 'regular', size = 24, color = 'currentColor', mirrored = false, title } = {}) {
   const icon = paths[name];
-  if (!icon) throw new Error(`Unknown Monks icon: ${name}`);
+  if (!icon) throw new Error(`Unknown Icon Monks icon: ${name}`);
   const d = icon[weight] ?? icon.regular;
   const body = weight === 'duotone'
     ? (d[0] ? `<path d="${d[0]}" opacity="0.2"/>` : '') + `<path d="${d[1]}"/>`

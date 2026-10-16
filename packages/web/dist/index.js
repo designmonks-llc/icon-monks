@@ -21,14 +21,14 @@ function render(el) {
   else { el.setAttribute('aria-hidden', 'true'); }
 }
 
-class MonksIconElement extends HTMLElement {
+class IconMonkElement extends HTMLElement {
   static get observedAttributes() { return ATTRS; }
   connectedCallback() { this.style.display ||= 'inline-block'; this.style.lineHeight ||= '0'; render(this); }
   attributeChangedCallback() { if (this.isConnected) render(this); }
 }
 
-if (typeof customElements !== 'undefined' && !customElements.get('monks-icon')) {
-  customElements.define('monks-icon', MonksIconElement);
+if (typeof customElements !== 'undefined' && !customElements.get('icon-monks')) {
+  customElements.define('icon-monks', IconMonkElement);
 }
 
-export { MonksIconElement, PATHS as paths };
+export { IconMonkElement, PATHS as paths };

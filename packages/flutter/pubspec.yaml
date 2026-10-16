@@ -1,5 +1,5 @@
-name: monks_icons
-description: Monks Icons for Flutter. 97 open source icons in thin, light, regular, bold and fill weights.
+name: icon_monks
+description: Icon Monks for Flutter. 97 open source icons in thin, light, regular, bold and fill weights.
 version: 0.1.0
 homepage: https://github.com/designmonks/icon-monks
 repository: https://github.com/designmonks/icon-monks
@@ -14,18 +14,18 @@ dependencies:
 
 flutter:
   fonts:
-    - family: MonksIconsThin
+    - family: IconMonksThin
       fonts:
-        - asset: fonts/MonksIcons-Thin.otf
-    - family: MonksIconsLight
+        - asset: fonts/IconMonks-Thin.otf
+    - family: IconMonksLight
       fonts:
-        - asset: fonts/MonksIcons-Light.otf
-    - family: MonksIconsRegular
+        - asset: fonts/IconMonks-Light.otf
+    - family: IconMonksRegular
       fonts:
-        - asset: fonts/MonksIcons-Regular.otf
-    - family: MonksIconsBold
+        - asset: fonts/IconMonks-Regular.otf
+    - family: IconMonksBold
       fonts:
-        - asset: fonts/MonksIcons-Bold.otf
-    - family: MonksIconsFill
+        - asset: fonts/IconMonks-Bold.otf
+    - family: IconMonksFill
       fonts:
-        - asset: fonts/MonksIcons-Fill.otf
+        - asset: fonts/IconMonks-Fill.otf

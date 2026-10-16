@@ -2,8 +2,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "MonksIcons",
+    name: "IconMonks",
     platforms: [.iOS(.v14), .macOS(.v11), .tvOS(.v14), .watchOS(.v7)],
-    products: [.library(name: "MonksIcons", targets: ["MonksIcons"])],
-    targets: [.target(name: "MonksIcons", path: "Sources/MonksIcons", resources: [.process("Resources")])]
+    products: [.library(name: "IconMonks", targets: ["IconMonks"])],
+    targets: [.target(name: "IconMonks", path: "Sources/IconMonks", resources: [.process("Resources")])]
 )

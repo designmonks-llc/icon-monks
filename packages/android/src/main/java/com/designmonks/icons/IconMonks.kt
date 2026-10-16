@@ -7,8 +7,8 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.addPathNodes
 import androidx.compose.ui.unit.dp
 
-/** Monks Icons for Jetpack Compose: `Icon(MonksIcons.Regular.House, contentDescription = null)`. */
-object MonksIcons {
+/** Icon Monks for Jetpack Compose: `Icon(IconMonks.Regular.House, contentDescription = null)`. */
+object IconMonks {
     object Thin {
     val ArrowClockwise: ImageVector by lazy {
         ImageVector.Builder("ArrowClockwiseThin", 24.dp, 24.dp, 256f, 256f).apply {

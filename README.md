@@ -1,23 +1,23 @@
-# Monks Icons
+# Icon Monks
 
 An open source icon family by Design Monks: **97 original icons × 6 weights** (thin, light, regular, bold, fill,
 duotone), drawn on a 256-unit grid and generated into native packages for every major platform.
 
 | Platform | Package | Folder |
 | --- | --- | --- |
-| SVG, sprites, metadata | `@monks-icons/core` | [packages/core](packages/core) |
-| React | `@monks-icons/react` | [packages/react](packages/react) |
-| Vue 3 | `@monks-icons/vue` | [packages/vue](packages/vue) |
-| Web Components / CDN | `@monks-icons/web` | [packages/web](packages/web) |
-| Icon font (OTF + WOFF2, CSS) | `@monks-icons/font` | [packages/font](packages/font) |
-| Flutter | `monks_icons` | [packages/flutter](packages/flutter) |
-| Android (Compose + VectorDrawable) | `com.designmonks:monks-icons` | [packages/android](packages/android) |
-| iOS / macOS / tvOS / watchOS (SwiftUI + UIKit) | Swift Package `MonksIcons` | [packages/swift](packages/swift) |
+| SVG, sprites, metadata | `@icon-monks/core` | [packages/core](packages/core) |
+| React | `@icon-monks/react` | [packages/react](packages/react) |
+| Vue 3 | `@icon-monks/vue` | [packages/vue](packages/vue) |
+| Web Components / CDN | `@icon-monks/web` | [packages/web](packages/web) |
+| Icon font (OTF + WOFF2, CSS) | `@icon-monks/font` | [packages/font](packages/font) |
+| Flutter | `icon_monks` | [packages/flutter](packages/flutter) |
+| Android (Compose + VectorDrawable) | `com.designmonks:icon-monks` | [packages/android](packages/android) |
+| iOS / macOS / tvOS / watchOS (SwiftUI + UIKit) | Swift Package `IconMonks` | [packages/swift](packages/swift) |
 
 Open [docs/index.html](docs/index.html) to browse, search and copy icons.
 
 ```jsx
-import { House, Heart } from '@monks-icons/react';
+import { House, Heart } from '@icon-monks/react';
 <House size={24} />  <Heart weight="fill" color="crimson" />
 ```
 

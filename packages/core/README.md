@@ -1,13 +1,13 @@
-# @monks-icons/core
+# @icon-monks/core
 
-Framework-free Monks Icons: 97 icons in 6 weights as SVG files, SVG sprites and path data.
+Framework-free Icon Monks: 97 icons in 6 weights as SVG files, SVG sprites and path data.
 
 ```sh
-npm install @monks-icons/core
+npm install @icon-monks/core
 ```
 
 ```js
-import { toSvg, icons } from '@monks-icons/core';
+import { toSvg, icons } from '@icon-monks/core';
 document.body.innerHTML = toSvg('house', { weight: 'bold', size: 32, color: '#6d28d9' });
 ```
 

@@ -1,9 +1,9 @@
-# Monks Icons for iOS, macOS, tvOS and watchOS
+# Icon Monks for iOS, macOS, tvOS and watchOS
 
 Add the package in Xcode (File > Add Package Dependencies) and point it at this folder or the repository.
 
 ```swift
-import MonksIcons
+import IconMonks
 
 Image(monks: .house)
     .resizable()
@@ -11,7 +11,7 @@ Image(monks: .house)
     .foregroundStyle(.purple)
 
 Image(monks: .heart, weight: .fill)
-let tabIcon = MonksIcon.gear.uiImage(.bold)   // UIKit
+let tabIcon = IconMonk.gear.uiImage(.bold)   // UIKit
 ```
 
 Icons ship as vector SVG assets (preserved vector data, template rendering), so they stay sharp at any size and take

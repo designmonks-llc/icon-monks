@@ -1,6 +1,6 @@
 import { defineComponent, h, inject } from 'vue';
 
-export const IconContextKey = Symbol('monks-icons');
+export const IconContextKey = Symbol('icon-monks');
 
 export function createIcon(name, paths) {
   return defineComponent({

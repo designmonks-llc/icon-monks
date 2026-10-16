@@ -4,7 +4,7 @@
   packages/core     SVG assets, sprites, metadata, toSvg()      (npm)
   packages/react    React components                            (npm)
   packages/vue      Vue 3 components                            (npm)
-  packages/web      <monks-icon> custom element + CDN bundle     (npm)
+  packages/web      <icon-monks> custom element + CDN bundle     (npm)
   packages/font     OTF/WOFF2 icon fonts + CSS                   (npm)
   packages/flutter  IconData constants + fonts                   (pub.dev)
   packages/android  VectorDrawables + Jetpack Compose ImageVectors
@@ -72,7 +72,7 @@ def npm_package(path, name, description, extra):
         'name': name, 'version': VERSION, 'description': description, 'license': 'MIT',
         'author': 'Design Monks', 'homepage': 'https://github.com/designmonks/icon-monks',
         'repository': {'type': 'git', 'url': 'git+https://github.com/designmonks/icon-monks.git'},
-        'keywords': ['icons', 'icon', 'svg', 'monks-icons'],
+        'keywords': ['icons', 'icon', 'svg', 'icon-monks'],
     }
     pkg.update(extra)
     write(os.path.join(path, 'package.json'), json.dumps(pkg, indent=2) + '\n')
@@ -101,7 +101,7 @@ export const paths = {json.dumps(PATHS, separators=(',', ':'))};
 
 export function toSvg(name, {{ weight = 'regular', size = 24, color = 'currentColor', mirrored = false, title }} = {{}}) {{
   const icon = paths[name];
-  if (!icon) throw new Error(`Unknown Monks icon: ${{name}}`);
+  if (!icon) throw new Error(`Unknown Icon Monks icon: ${{name}}`);
   const d = icon[weight] ?? icon.regular;
   const body = weight === 'duotone'
     ? (d[0] ? `<path d="${{d[0]}}" opacity="{DUO}"/>` : '') + `<path d="${{d[1]}}"/>`
@@ -121,22 +121,22 @@ export declare const paths: Record<IconName, Record<Exclude<IconWeight, 'duotone
 export interface ToSvgOptions {{ weight?: IconWeight; size?: number | string; color?: string; mirrored?: boolean; title?: string; }}
 export declare function toSvg(name: IconName, options?: ToSvgOptions): string;
 """)
-    npm_package(path, '@monks-icons/core', 'Monks Icons: raw SVG assets, sprites, metadata and a toSvg() helper.', {
+    npm_package(path, '@icon-monks/core', 'Icon Monks: raw SVG assets, sprites, metadata and a toSvg() helper.', {
         'type': 'module', 'main': './dist/index.js', 'types': './dist/index.d.ts', 'sideEffects': False,
         'exports': {'.': {'types': './dist/index.d.ts', 'default': './dist/index.js'},
                     './icons.json': './dist/icons.json', './sprite/*': './dist/sprite/*', './assets/*': './assets/*'},
         'files': ['dist', 'assets'],
     })
-    write(os.path.join(path, 'README.md'), f"""# @monks-icons/core
+    write(os.path.join(path, 'README.md'), f"""# @icon-monks/core
 
-Framework-free Monks Icons: {len(ICONS)} icons in {len(WEIGHTS)} weights as SVG files, SVG sprites and path data.
+Framework-free Icon Monks: {len(ICONS)} icons in {len(WEIGHTS)} weights as SVG files, SVG sprites and path data.
 
 ```sh
-npm install @monks-icons/core
+npm install @icon-monks/core
 ```
 
 ```js
-import {{ toSvg, icons }} from '@monks-icons/core';
+import {{ toSvg, icons }} from '@icon-monks/core';
 document.body.innerHTML = toSvg('house', {{ weight: 'bold', size: 32, color: '#6d28d9' }});
 ```
 
@@ -152,7 +152,7 @@ REACT_LIB = """import { createContext, createElement, forwardRef, useContext } f
 export const IconContext = createContext({ color: 'currentColor', size: '1em', weight: 'regular', mirrored: false });
 
 export function createIcon(displayName, paths) {
-  const Icon = forwardRef(function MonksIcon(props, ref) {
+  const Icon = forwardRef(function IconMonk(props, ref) {
     const ctx = useContext(IconContext);
     const { color = ctx.color, size = ctx.size, weight = ctx.weight, mirrored = ctx.mirrored, children, ...rest } = props;
     const d = paths[weight] ?? paths.regular;
@@ -207,20 +207,20 @@ def react():
         dts.append(f"export declare const {n}: Icon;\nexport declare const {n}Icon: Icon;")
     write(os.path.join(path, 'dist', 'index.js'), '\n'.join(index) + '\n')
     write(os.path.join(path, 'dist', 'index.d.ts'), '\n'.join(dts) + '\n')
-    npm_package(path, '@monks-icons/react', 'Monks Icons for React: tree-shakeable components in six weights.', {
+    npm_package(path, '@icon-monks/react', 'Icon Monks for React: tree-shakeable components in six weights.', {
         'type': 'module', 'main': './dist/index.js', 'types': './dist/index.d.ts', 'sideEffects': False,
         'exports': {'.': {'types': './dist/index.d.ts', 'default': './dist/index.js'},
                     './icons/*': {'types': './dist/icons/*.d.ts', 'default': './dist/icons/*.js'}},
         'files': ['dist'], 'peerDependencies': {'react': '>=16.8'},
     })
-    write(os.path.join(path, 'README.md'), """# @monks-icons/react
+    write(os.path.join(path, 'README.md'), """# @icon-monks/react
 
 ```sh
-npm install @monks-icons/react
+npm install @icon-monks/react
 ```
 
 ```jsx
-import { House, Heart, IconContext } from '@monks-icons/react';
+import { House, Heart, IconContext } from '@icon-monks/react';
 
 <House />                                   // 1em, currentColor, regular
 <Heart size={32} color="crimson" weight="fill" />
@@ -231,14 +231,14 @@ import { House, Heart, IconContext } from '@monks-icons/react';
 ```
 
 Props: `size`, `color`, `weight` (`thin` `light` `regular` `bold` `fill` `duotone`), `mirrored`, plus any SVG attribute.
-Every icon is also exported with an `Icon` suffix (`HouseIcon`) and as a deep import (`@monks-icons/react/icons/House`).
+Every icon is also exported with an `Icon` suffix (`HouseIcon`) and as a deep import (`@icon-monks/react/icons/House`).
 """)
 
 
 # ---------------------------------------------------------------------------- vue
 VUE_LIB = """import { defineComponent, h, inject } from 'vue';
 
-export const IconContextKey = Symbol('monks-icons');
+export const IconContextKey = Symbol('icon-monks');
 
 export function createIcon(name, paths) {
   return defineComponent({
@@ -285,26 +285,26 @@ export declare function createIcon(name: string, paths: Record<string, string | 
         n = pascal(ic['name'])
         write(os.path.join(path, 'dist', 'icons', f'{n}.js'),
               f"import {{ createIcon }} from '../lib.js';\n\n"
-              f"export const {n} = createIcon('Monks{n}', {json.dumps(ic['paths'], separators=(',', ':'))});\n"
+              f"export const {n} = createIcon('IconMonks{n}', {json.dumps(ic['paths'], separators=(',', ':'))});\n"
               f"export {{ {n} as {n}Icon }};\nexport default {n};\n")
         index.append(f"export {{ {n}, {n}Icon }} from './icons/{n}.js';")
         dts.append(f"export declare const {n}: Icon;\nexport declare const {n}Icon: Icon;")
     write(os.path.join(path, 'dist', 'index.js'), '\n'.join(index) + '\n')
     write(os.path.join(path, 'dist', 'index.d.ts'), '\n'.join(dts) + '\n')
-    npm_package(path, '@monks-icons/vue', 'Monks Icons for Vue 3: tree-shakeable components in six weights.', {
+    npm_package(path, '@icon-monks/vue', 'Icon Monks for Vue 3: tree-shakeable components in six weights.', {
         'type': 'module', 'main': './dist/index.js', 'types': './dist/index.d.ts', 'sideEffects': False,
         'exports': {'.': {'types': './dist/index.d.ts', 'default': './dist/index.js'}, './icons/*': './dist/icons/*.js'},
         'files': ['dist'], 'peerDependencies': {'vue': '>=3.2'},
     })
-    write(os.path.join(path, 'README.md'), """# @monks-icons/vue
+    write(os.path.join(path, 'README.md'), """# @icon-monks/vue
 
 ```sh
-npm install @monks-icons/vue
+npm install @icon-monks/vue
 ```
 
 ```vue
 <script setup>
-import { House, Heart, IconContextKey } from '@monks-icons/vue';
+import { House, Heart, IconContextKey } from '@icon-monks/vue';
 import { provide } from 'vue';
 provide(IconContextKey, { size: 24, weight: 'bold' }); // optional defaults for descendants
 </script>
@@ -340,14 +340,14 @@ function render(el) {
   else { el.setAttribute('aria-hidden', 'true'); }
 }
 
-class MonksIconElement extends HTMLElement {
+class IconMonkElement extends HTMLElement {
   static get observedAttributes() { return ATTRS; }
   connectedCallback() { this.style.display ||= 'inline-block'; this.style.lineHeight ||= '0'; render(this); }
   attributeChangedCallback() { if (this.isConnected) render(this); }
 }
 
-if (typeof customElements !== 'undefined' && !customElements.get('monks-icon')) {
-  customElements.define('monks-icon', MonksIconElement);
+if (typeof customElements !== 'undefined' && !customElements.get('icon-monks')) {
+  customElements.define('icon-monks', IconMonkElement);
 }
 """ % DUO
 
@@ -356,30 +356,30 @@ def web():
     path = fresh('web')
     data = f"const PATHS = {json.dumps(PATHS, separators=(',', ':'))};\n"
     write(os.path.join(path, 'dist', 'index.js'),
-          data + WEB_ELEMENT + "\nexport { MonksIconElement, PATHS as paths };\n")
-    write(os.path.join(path, 'dist', 'monks-icons.js'), '(function () {\n' + data + WEB_ELEMENT + '})();\n')
-    write(os.path.join(path, 'dist', 'index.d.ts'), """export declare class MonksIconElement extends HTMLElement {}
+          data + WEB_ELEMENT + "\nexport { IconMonkElement, PATHS as paths };\n")
+    write(os.path.join(path, 'dist', 'icon-monks.js'), '(function () {\n' + data + WEB_ELEMENT + '})();\n')
+    write(os.path.join(path, 'dist', 'index.d.ts'), """export declare class IconMonkElement extends HTMLElement {}
 export declare const paths: Record<string, Record<string, string | [string, string]>>;
-declare global { interface HTMLElementTagNameMap { 'monks-icon': MonksIconElement; } }
+declare global { interface HTMLElementTagNameMap { 'icon-monks': IconMonkElement; } }
 """)
-    npm_package(path, '@monks-icons/web', 'Monks Icons as a <monks-icon> custom element. Works in any framework or plain HTML.', {
-        'type': 'module', 'main': './dist/index.js', 'types': './dist/index.d.ts', 'unpkg': './dist/monks-icons.js',
-        'jsdelivr': './dist/monks-icons.js', 'exports': {'.': {'types': './dist/index.d.ts', 'default': './dist/index.js'},
-                                                          './cdn': './dist/monks-icons.js'},
+    npm_package(path, '@icon-monks/web', 'Icon Monks as a <icon-monks> custom element. Works in any framework or plain HTML.', {
+        'type': 'module', 'main': './dist/index.js', 'types': './dist/index.d.ts', 'unpkg': './dist/icon-monks.js',
+        'jsdelivr': './dist/icon-monks.js', 'exports': {'.': {'types': './dist/index.d.ts', 'default': './dist/index.js'},
+                                                          './cdn': './dist/icon-monks.js'},
         'files': ['dist'], 'sideEffects': True,
     })
-    write(os.path.join(path, 'README.md'), f"""# @monks-icons/web
+    write(os.path.join(path, 'README.md'), f"""# @icon-monks/web
 
-A dependency-free `<monks-icon>` custom element for plain HTML, Angular, Svelte, Astro, WordPress or anything else.
+A dependency-free `<icon-monks>` custom element for plain HTML, Angular, Svelte, Astro, WordPress or anything else.
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@monks-icons/web@{VERSION}"></script>
+<script src="https://cdn.jsdelivr.net/npm/@icon-monks/web@{VERSION}"></script>
 
-<monks-icon name="house"></monks-icon>
-<monks-icon name="heart" weight="fill" size="32" color="crimson" label="Favorite"></monks-icon>
+<icon-monks name="house"></icon-monks>
+<icon-monks name="heart" weight="fill" size="32" color="crimson" label="Favorite"></icon-monks>
 ```
 
-Or `npm install @monks-icons/web` and `import '@monks-icons/web';` once in your app.
+Or `npm install @icon-monks/web` and `import '@icon-monks/web';` once in your app.
 
 Attributes: `name`, `weight`, `size`, `color`, `mirrored`, `label` (sets an accessible name; icons are hidden from screen readers otherwise).
 """)
@@ -397,15 +397,15 @@ def build_font(weight, cps, out_dir):
     charstrings['.notdef'] = pen.getCharString()
     metrics['.notdef'] = (256, 0)
     for ic in ICONS:
-        gname = 'mi_' + ic['name'].replace('-', '_')
+        gname = 'im_' + ic['name'].replace('-', '_')
         pen = T2CharStringPen(256, None)
         parse_path(ic['paths'][weight], TransformPen(pen, (1, 0, 0, -1, 0, ASC)))
         charstrings[gname] = pen.getCharString()
         cmap[cps[ic['name']]] = gname
         metrics[gname] = (256, 0)
         glyphs[gname] = None
-    fam = 'Monks Icons' if weight == 'regular' else f'Monks Icons {FAMILY[weight]}'
-    ps = f'MonksIcons-{FAMILY[weight]}'
+    fam = 'Icon Monks' if weight == 'regular' else f'Icon Monks {FAMILY[weight]}'
+    ps = f'IconMonks-{FAMILY[weight]}'
     fb = FontBuilder(256, isTTF=False)
     fb.setupGlyphOrder(list(glyphs))
     fb.setupCharacterMap(cmap)
@@ -432,7 +432,7 @@ def font(cps):
     css_all = []
     for w in SOLID_WEIGHTS:
         fam, ps = build_font(w, cps, out)
-        cls = 'mi' if w == 'regular' else f'mi-{w}'
+        cls = 'im' if w == 'regular' else f'im-{w}'
         rules = [f"""@font-face {{
   font-family: '{fam}';
   src: url('./{ps}.woff2') format('woff2'), url('./{ps}.otf') format('opentype');
@@ -452,22 +452,22 @@ def font(cps):
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }}"""]
-        rules += [f'.{cls}.mi-{ic["name"]}::before {{ content: "\\{cps[ic["name"]]:x}"; }}' for ic in ICONS]
+        rules += [f'.{cls}.im-{ic["name"]}::before {{ content: "\\{cps[ic["name"]]:x}"; }}' for ic in ICONS]
         write(os.path.join(out, f'{w}.css'), '\n'.join(rules) + '\n')
         css_all.append(f"@import url('./{w}.css');")
     write(os.path.join(out, 'index.css'), '\n'.join(css_all) + '\n')
     write(os.path.join(out, 'codepoints.json'), json.dumps({k: f'{v:x}' for k, v in cps.items()}, indent=1) + '\n')
-    npm_package(path, '@monks-icons/font', 'Monks Icons as icon fonts (OTF + WOFF2) with CSS classes.', {
+    npm_package(path, '@icon-monks/font', 'Icon Monks as icon fonts (OTF + WOFF2) with CSS classes.', {
         'style': './dist/index.css', 'files': ['dist'],
         'exports': {'.': './dist/index.css', './*': './dist/*'},
     })
-    write(os.path.join(path, 'README.md'), f"""# @monks-icons/font
+    write(os.path.join(path, 'README.md'), f"""# @icon-monks/font
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@monks-icons/font@{VERSION}/dist/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@{VERSION}/dist/index.css">
 
-<i class="mi mi-house"></i>          <!-- regular -->
-<i class="mi-bold mi-house"></i>     <!-- thin, light, bold, fill: mi-thin / mi-light / mi-bold / mi-fill -->
+<i class="im im-house"></i>          <!-- regular -->
+<i class="im-bold im-house"></i>     <!-- thin, light, bold, fill: im-thin / im-light / im-bold / im-fill -->
 ```
 
 Load only the weights you use with `dist/regular.css`, `dist/bold.css`, and so on. Glyphs live in the Private Use Area
@@ -482,11 +482,11 @@ def flutter(cps):
     fonts = os.path.join(path, 'fonts')
     os.makedirs(fonts)
     for w in SOLID_WEIGHTS:
-        shutil.copy(os.path.join(PKG, 'font', 'dist', f'MonksIcons-{FAMILY[w]}.otf'), fonts)
-    font_yaml = '\n'.join(f"    - family: MonksIcons{FAMILY[w]}\n      fonts:\n        - asset: fonts/MonksIcons-{FAMILY[w]}.otf"
+        shutil.copy(os.path.join(PKG, 'font', 'dist', f'IconMonks-{FAMILY[w]}.otf'), fonts)
+    font_yaml = '\n'.join(f"    - family: IconMonks{FAMILY[w]}\n      fonts:\n        - asset: fonts/IconMonks-{FAMILY[w]}.otf"
                           for w in SOLID_WEIGHTS)
-    write(os.path.join(path, 'pubspec.yaml'), f"""name: monks_icons
-description: Monks Icons for Flutter. {len(ICONS)} open source icons in thin, light, regular, bold and fill weights.
+    write(os.path.join(path, 'pubspec.yaml'), f"""name: icon_monks
+description: Icon Monks for Flutter. {len(ICONS)} open source icons in thin, light, regular, bold and fill weights.
 version: {VERSION}
 homepage: https://github.com/designmonks/icon-monks
 repository: https://github.com/designmonks/icon-monks
@@ -505,47 +505,47 @@ flutter:
 """)
     classes = []
     for w in SOLID_WEIGHTS:
-        cls = f'MonksIcons{FAMILY[w]}'
+        cls = f'IconMonks{FAMILY[w]}'
         consts = '\n'.join(f"  final IconData {camel(ic['name'])} = const IconData(0x{cps[ic['name']]:x}, "
-                           f"fontFamily: '{cls}', fontPackage: 'monks_icons');" for ic in ICONS)
-        classes.append(f"""/// Monks Icons, {w} weight.
+                           f"fontFamily: '{cls}', fontPackage: 'icon_monks');" for ic in ICONS)
+        classes.append(f"""/// Icon Monks, {w} weight.
 class {cls} {{
   const {cls}._();
 {consts}
 }}""")
-    write(os.path.join(path, 'lib', 'monks_icons.dart'), f"""// GENERATED by scripts/packages.py. Do not edit.
-library monks_icons;
+    write(os.path.join(path, 'lib', 'icon_monks.dart'), f"""// GENERATED by scripts/packages.py. Do not edit.
+library icon_monks;
 
 import 'package:flutter/widgets.dart';
 
-/// Entry point: `Icon(MonksIcons.regular.house)` or the shorthand `Icon(MonksIcons.house)`.
-class MonksIcons {{
-  const MonksIcons._();
-  static const thin = MonksIconsThin._();
-  static const light = MonksIconsLight._();
-  static const regular = MonksIconsRegular._();
-  static const bold = MonksIconsBold._();
-  static const fill = MonksIconsFill._();
+/// Entry point: `Icon(IconMonks.regular.house)` or the shorthand `Icon(IconMonks.house)`.
+class IconMonks {{
+  const IconMonks._();
+  static const thin = IconMonksThin._();
+  static const light = IconMonksLight._();
+  static const regular = IconMonksRegular._();
+  static const bold = IconMonksBold._();
+  static const fill = IconMonksFill._();
 
-  // Regular-weight shorthands, usable in const contexts: `const Icon(MonksIcons.house)`.
-{chr(10).join(f"  static const IconData {camel(ic['name'])} = IconData(0x{cps[ic['name']]:x}, fontFamily: 'MonksIconsRegular', fontPackage: 'monks_icons');" for ic in ICONS)}
+  // Regular-weight shorthands, usable in const contexts: `const Icon(IconMonks.house)`.
+{chr(10).join(f"  static const IconData {camel(ic['name'])} = IconData(0x{cps[ic['name']]:x}, fontFamily: 'IconMonksRegular', fontPackage: 'icon_monks');" for ic in ICONS)}
 }}
 
 {chr(10).join(classes)}
 """)
-    write(os.path.join(path, 'README.md'), """# monks_icons
+    write(os.path.join(path, 'README.md'), """# icon_monks
 
 ```yaml
 dependencies:
-  monks_icons: ^%s
+  icon_monks: ^%s
 ```
 
 ```dart
-import 'package:monks_icons/monks_icons.dart';
+import 'package:icon_monks/icon_monks.dart';
 
-Icon(MonksIcons.house)                         // regular
-Icon(MonksIcons.bold.heart, color: Colors.red)
-Icon(MonksIcons.fill.star, size: 32)
+Icon(IconMonks.house)                         // regular
+Icon(IconMonks.bold.heart, color: Colors.red)
+Icon(IconMonks.fill.star, size: 32)
 ```
 
 Weights: `thin`, `light`, `regular`, `bold`, `fill`. Icon fonts are single-colour, so duotone is not offered here.
@@ -564,7 +564,7 @@ def android():
         obj = pascal(w)
         vals = []
         for ic in ICONS:
-            base = 'mi_' + ic['name'].replace('-', '_') + suffix
+            base = 'im_' + ic['name'].replace('-', '_') + suffix
             d = ic['paths'][w]
             if w == 'duotone':
                 xml_paths = (f'  <path android:fillColor="@android:color/white" android:fillAlpha="{DUO}" android:pathData="{d[0]}"/>\n'
@@ -586,7 +586,7 @@ def android():
         }}.build()
     }}""")
         kt.append(f'    object {obj} {{\n' + '\n\n'.join(vals) + '\n    }')
-    write(os.path.join(path, 'src', 'main', 'java', 'com', 'designmonks', 'icons', 'MonksIcons.kt'),
+    write(os.path.join(path, 'src', 'main', 'java', 'com', 'designmonks', 'icons', 'IconMonks.kt'),
           """// GENERATED by scripts/packages.py. Do not edit.
 package com.designmonks.icons
 
@@ -596,8 +596,8 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.addPathNodes
 import androidx.compose.ui.unit.dp
 
-/** Monks Icons for Jetpack Compose: `Icon(MonksIcons.Regular.House, contentDescription = null)`. */
-object MonksIcons {
+/** Icon Monks for Jetpack Compose: `Icon(IconMonks.Regular.House, contentDescription = null)`. */
+object IconMonks {
 """ + '\n\n'.join(kt) + '\n}\n')
     write(os.path.join(path, 'src', 'main', 'AndroidManifest.xml'), '<manifest />\n')
     write(os.path.join(path, 'build.gradle.kts'), f"""plugins {{
@@ -632,32 +632,32 @@ afterEvaluate {{
             create<MavenPublication>("release") {{
                 from(components["release"])
                 groupId = "com.designmonks"
-                artifactId = "monks-icons"
+                artifactId = "icon-monks"
                 version = "{VERSION}"
             }}
         }}
     }}
 }}
 """)
-    write(os.path.join(path, 'README.md'), f"""# Monks Icons for Android
+    write(os.path.join(path, 'README.md'), f"""# Icon Monks for Android
 
 Two ways to use the icons, both in this library module:
 
 **Jetpack Compose**
 
 ```kotlin
-import com.designmonks.icons.MonksIcons
+import com.designmonks.icons.IconMonks
 
-Icon(MonksIcons.Regular.House, contentDescription = "Home")
-Icon(MonksIcons.Bold.Heart, contentDescription = null, tint = Color.Red)
-Icon(MonksIcons.Duotone.Star, contentDescription = null)
+Icon(IconMonks.Regular.House, contentDescription = "Home")
+Icon(IconMonks.Bold.Heart, contentDescription = null, tint = Color.Red)
+Icon(IconMonks.Duotone.Star, contentDescription = null)
 ```
 
-**Views / XML**: VectorDrawables named `mi_<name>` (regular) and `mi_<name>_<weight>`.
+**Views / XML**: VectorDrawables named `im_<name>` (regular) and `im_<name>_<weight>`.
 
 ```xml
-<ImageView android:src="@drawable/mi_house" app:tint="@color/brand" />
-<ImageView android:src="@drawable/mi_heart_fill" />
+<ImageView android:src="@drawable/im_house" app:tint="@color/brand" />
+<ImageView android:src="@drawable/im_heart_fill" />
 ```
 
 Drawables use `?attr/colorControlNormal` as their tint, matching Material icons. Copy `src/main/res/drawable` into
@@ -668,7 +668,7 @@ your app if you only need a few icons.
 # ---------------------------------------------------------------------------- swift
 def swift():
     path = fresh('swift')
-    cat = os.path.join(path, 'Sources', 'MonksIcons', 'Resources', 'MonksIcons.xcassets')
+    cat = os.path.join(path, 'Sources', 'IconMonks', 'Resources', 'IconMonks.xcassets')
     write(os.path.join(cat, 'Contents.json'), json.dumps({'info': {'author': 'xcode', 'version': 1}}, indent=2) + '\n')
     for w in WEIGHTS:
         for ic in ICONS:
@@ -682,7 +682,7 @@ def swift():
                 'properties': {'preserves-vector-representation': True, 'template-rendering-intent': 'template'},
             }, indent=2) + '\n')
     cases = '\n'.join(f'    case {camel(ic["name"])} = "{ic["name"]}"' for ic in ICONS)
-    write(os.path.join(path, 'Sources', 'MonksIcons', 'MonksIcons.swift'), f"""// GENERATED by scripts/packages.py. Do not edit.
+    write(os.path.join(path, 'Sources', 'IconMonks', 'IconMonks.swift'), f"""// GENERATED by scripts/packages.py. Do not edit.
 import SwiftUI
 #if canImport(UIKit)
 import UIKit
@@ -690,27 +690,27 @@ import UIKit
 import AppKit
 #endif
 
-public enum MonksIconWeight: String, CaseIterable, Sendable {{
+public enum IconMonkWeight: String, CaseIterable, Sendable {{
     case thin, light, regular, bold, fill, duotone
 }}
 
-public enum MonksIcon: String, CaseIterable, Sendable {{
+public enum IconMonk: String, CaseIterable, Sendable {{
 {cases}
 
     /// Asset catalog name for this icon in the given weight.
-    public func assetName(_ weight: MonksIconWeight = .regular) -> String {{ "\\(rawValue)-\\(weight.rawValue)" }}
+    public func assetName(_ weight: IconMonkWeight = .regular) -> String {{ "\\(rawValue)-\\(weight.rawValue)" }}
 
     /// A template SwiftUI image; size it with `.resizable().frame(...)` and colour it with `.foregroundStyle(...)`.
-    public func image(_ weight: MonksIconWeight = .regular) -> Image {{
+    public func image(_ weight: IconMonkWeight = .regular) -> Image {{
         Image(assetName(weight), bundle: .module).renderingMode(.template)
     }}
 
     #if canImport(UIKit)
-    public func uiImage(_ weight: MonksIconWeight = .regular) -> UIImage? {{
+    public func uiImage(_ weight: IconMonkWeight = .regular) -> UIImage? {{
         UIImage(named: assetName(weight), in: .module, with: nil)?.withRenderingMode(.alwaysTemplate)
     }}
     #elseif canImport(AppKit)
-    public func nsImage(_ weight: MonksIconWeight = .regular) -> NSImage? {{
+    public func nsImage(_ weight: IconMonkWeight = .regular) -> NSImage? {{
         Bundle.module.image(forResource: assetName(weight))
     }}
     #endif
@@ -718,7 +718,7 @@ public enum MonksIcon: String, CaseIterable, Sendable {{
 
 public extension Image {{
     /// `Image(monks: .house, weight: .bold)`
-    init(monks icon: MonksIcon, weight: MonksIconWeight = .regular) {{
+    init(monks icon: IconMonk, weight: IconMonkWeight = .regular) {{
         self = icon.image(weight)
     }}
 }}
@@ -727,18 +727,18 @@ public extension Image {{
 import PackageDescription
 
 let package = Package(
-    name: "MonksIcons",
+    name: "IconMonks",
     platforms: [.iOS(.v14), .macOS(.v11), .tvOS(.v14), .watchOS(.v7)],
-    products: [.library(name: "MonksIcons", targets: ["MonksIcons"])],
-    targets: [.target(name: "MonksIcons", path: "Sources/MonksIcons", resources: [.process("Resources")])]
+    products: [.library(name: "IconMonks", targets: ["IconMonks"])],
+    targets: [.target(name: "IconMonks", path: "Sources/IconMonks", resources: [.process("Resources")])]
 )
 """)
-    write(os.path.join(path, 'README.md'), """# Monks Icons for iOS, macOS, tvOS and watchOS
+    write(os.path.join(path, 'README.md'), """# Icon Monks for iOS, macOS, tvOS and watchOS
 
 Add the package in Xcode (File > Add Package Dependencies) and point it at this folder or the repository.
 
 ```swift
-import MonksIcons
+import IconMonks
 
 Image(monks: .house)
     .resizable()
@@ -746,7 +746,7 @@ Image(monks: .house)
     .foregroundStyle(.purple)
 
 Image(monks: .heart, weight: .fill)
-let tabIcon = MonksIcon.gear.uiImage(.bold)   // UIKit
+let tabIcon = IconMonk.gear.uiImage(.bold)   // UIKit
 ```
 
 Icons ship as vector SVG assets (preserved vector data, template rendering), so they stay sharp at any size and take

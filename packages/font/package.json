@@ -1,7 +1,7 @@
 {
-  "name": "@monks-icons/font",
+  "name": "@icon-monks/font",
   "version": "0.1.0",
-  "description": "Monks Icons as icon fonts (OTF + WOFF2) with CSS classes.",
+  "description": "Icon Monks as icon fonts (OTF + WOFF2) with CSS classes.",
   "license": "MIT",
   "author": "Design Monks",
   "homepage": "https://github.com/designmonks/icon-monks",
@@ -13,7 +13,7 @@
     "icons",
     "icon",
     "svg",
-    "monks-icons"
+    "icon-monks"
   ],
   "style": "./dist/index.css",
   "files": [

@@ -12,10 +12,10 @@ try { playwright = require('playwright'); } catch { playwright = require('/opt/n
 const root = fileURLToPath(new URL('..', import.meta.url));
 const types = { '.js': 'text/javascript', '.css': 'text/css', '.woff2': 'font/woff2', '.otf': 'font/otf', '.svg': 'image/svg+xml', '.html': 'text/html' };
 const page = `<!doctype html><link rel="stylesheet" href="/packages/font/dist/index.css">
-<script src="/packages/web/dist/monks-icons.js"></script>
+<script src="/packages/web/dist/icon-monks.js"></script>
 <style>body{font:14px sans-serif;margin:16px;color:#222} .row{display:flex;gap:12px;align-items:center;margin:8px 0;font-size:32px}</style>
-<div class="row" id="wc">${['thin','light','regular','bold','fill','duotone'].map(w => `<monks-icon name="gear" weight="${w}" size="32"></monks-icon>`).join('')}<monks-icon name="heart" weight="fill" size="32" color="crimson" label="Like"></monks-icon></div>
-<div class="row" id="font">Text <i class="mi-thin mi-gear"></i><i class="mi-light mi-gear"></i><i class="mi mi-gear"></i><i class="mi-bold mi-gear"></i><i class="mi-fill mi-gear"></i> baseline</div>
+<div class="row" id="wc">${['thin','light','regular','bold','fill','duotone'].map(w => `<icon-monks name="gear" weight="${w}" size="32"></icon-monks>`).join('')}<icon-monks name="heart" weight="fill" size="32" color="crimson" label="Like"></icon-monks></div>
+<div class="row" id="font">Text <i class="im-thin im-gear"></i><i class="im-light im-gear"></i><i class="im im-gear"></i><i class="im-bold im-gear"></i><i class="im-fill im-gear"></i> baseline</div>
 <div class="row" id="sprite"><svg width="32" height="32"><use href="/packages/core/dist/sprite/regular.svg#house"/></svg><svg width="32" height="32" style="color:teal"><use href="/packages/core/dist/sprite/duotone.svg#house"/></svg></div>`;
 
 const server = http.createServer(async (req, res) => {
@@ -32,10 +32,10 @@ const p = await browser.newPage({ viewport: { width: 640, height: 220 } });
 await p.goto(url);
 await p.evaluate(() => document.fonts.ready);
 const result = await p.evaluate(() => ({
-  wc: [...document.querySelectorAll('monks-icon svg')].length,
-  label: document.querySelector('monks-icon[label]').getAttribute('aria-label'),
+  wc: [...document.querySelectorAll('icon-monks svg')].length,
+  label: document.querySelector('icon-monks[label]').getAttribute('aria-label'),
   fonts: [...document.fonts].filter((f) => f.status === 'loaded').map((f) => f.family),
-  glyphWidth: document.querySelector('.mi.mi-gear').getBoundingClientRect().width,
+  glyphWidth: document.querySelector('.im.im-gear').getBoundingClientRect().width,
 }));
 await p.screenshot({ path: process.argv[2] || 'browser-test.png' });
 await browser.close();

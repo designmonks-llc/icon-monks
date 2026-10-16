@@ -3,7 +3,7 @@ import { createContext, createElement, forwardRef, useContext } from 'react';
 export const IconContext = createContext({ color: 'currentColor', size: '1em', weight: 'regular', mirrored: false });
 
 export function createIcon(displayName, paths) {
-  const Icon = forwardRef(function MonksIcon(props, ref) {
+  const Icon = forwardRef(function IconMonk(props, ref) {
     const ctx = useContext(IconContext);
     const { color = ctx.color, size = ctx.size, weight = ctx.weight, mirrored = ctx.mirrored, children, ...rest } = props;
     const d = paths[weight] ?? paths.regular;

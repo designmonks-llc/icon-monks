@@ -6,11 +6,11 @@ import UIKit
 import AppKit
 #endif
 
-public enum MonksIconWeight: String, CaseIterable, Sendable {
+public enum IconMonkWeight: String, CaseIterable, Sendable {
     case thin, light, regular, bold, fill, duotone
 }
 
-public enum MonksIcon: String, CaseIterable, Sendable {
+public enum IconMonk: String, CaseIterable, Sendable {
     case arrowClockwise = "arrow-clockwise"
     case arrowCounterClockwise = "arrow-counter-clockwise"
     case arrowDown = "arrow-down"
@@ -110,19 +110,19 @@ public enum MonksIcon: String, CaseIterable, Sendable {
     case xCircle = "x-circle"
 
     /// Asset catalog name for this icon in the given weight.
-    public func assetName(_ weight: MonksIconWeight = .regular) -> String { "\(rawValue)-\(weight.rawValue)" }
+    public func assetName(_ weight: IconMonkWeight = .regular) -> String { "\(rawValue)-\(weight.rawValue)" }
 
     /// A template SwiftUI image; size it with `.resizable().frame(...)` and colour it with `.foregroundStyle(...)`.
-    public func image(_ weight: MonksIconWeight = .regular) -> Image {
+    public func image(_ weight: IconMonkWeight = .regular) -> Image {
         Image(assetName(weight), bundle: .module).renderingMode(.template)
     }
 
     #if canImport(UIKit)
-    public func uiImage(_ weight: MonksIconWeight = .regular) -> UIImage? {
+    public func uiImage(_ weight: IconMonkWeight = .regular) -> UIImage? {
         UIImage(named: assetName(weight), in: .module, with: nil)?.withRenderingMode(.alwaysTemplate)
     }
     #elseif canImport(AppKit)
-    public func nsImage(_ weight: MonksIconWeight = .regular) -> NSImage? {
+    public func nsImage(_ weight: IconMonkWeight = .regular) -> NSImage? {
         Bundle.module.image(forResource: assetName(weight))
     }
     #endif
@@ -130,7 +130,7 @@ public enum MonksIcon: String, CaseIterable, Sendable {
 
 public extension Image {
     /// `Image(monks: .house, weight: .bold)`
-    init(monks icon: MonksIcon, weight: MonksIconWeight = .regular) {
+    init(monks icon: IconMonk, weight: IconMonkWeight = .regular) {
         self = icon.image(weight)
     }
 }

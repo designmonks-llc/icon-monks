@@ -1,7 +1,7 @@
 {
-  "name": "@monks-icons/react",
+  "name": "@icon-monks/react",
   "version": "0.1.0",
-  "description": "Monks Icons for React: tree-shakeable components in six weights.",
+  "description": "Icon Monks for React: tree-shakeable components in six weights.",
   "license": "MIT",
   "author": "Design Monks",
   "homepage": "https://github.com/designmonks/icon-monks",
@@ -13,7 +13,7 @@
     "icons",
     "icon",
     "svg",
-    "monks-icons"
+    "icon-monks"
   ],
   "type": "module",
   "main": "./dist/index.js",

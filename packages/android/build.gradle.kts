@@ -30,7 +30,7 @@ afterEvaluate {
             create<MavenPublication>("release") {
                 from(components["release"])
                 groupId = "com.designmonks"
-                artifactId = "monks-icons"
+                artifactId = "icon-monks"
                 version = "0.1.0"
             }
         }

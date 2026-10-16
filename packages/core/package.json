@@ -1,7 +1,7 @@
 {
-  "name": "@monks-icons/core",
+  "name": "@icon-monks/core",
   "version": "0.1.0",
-  "description": "Monks Icons: raw SVG assets, sprites, metadata and a toSvg() helper.",
+  "description": "Icon Monks: raw SVG assets, sprites, metadata and a toSvg() helper.",
   "license": "MIT",
   "author": "Design Monks",
   "homepage": "https://github.com/designmonks/icon-monks",
@@ -13,7 +13,7 @@
     "icons",
     "icon",
     "svg",
-    "monks-icons"
+    "icon-monks"
   ],
   "type": "module",
   "main": "./dist/index.js",

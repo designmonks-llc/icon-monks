@@ -1,12 +1,12 @@
-# @monks-icons/vue
+# @icon-monks/vue
 
 ```sh
-npm install @monks-icons/vue
+npm install @icon-monks/vue
 ```
 
 ```vue
 <script setup>
-import { House, Heart, IconContextKey } from '@monks-icons/vue';
+import { House, Heart, IconContextKey } from '@icon-monks/vue';
 import { provide } from 'vue';
 provide(IconContextKey, { size: 24, weight: 'bold' }); // optional defaults for descendants
 </script>

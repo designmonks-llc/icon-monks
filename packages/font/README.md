@@ -1,10 +1,10 @@
-# @monks-icons/font
+# @icon-monks/font
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@monks-icons/font@0.1.0/dist/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@0.1.0/dist/index.css">
 
-<i class="mi mi-house"></i>          <!-- regular -->
-<i class="mi-bold mi-house"></i>     <!-- thin, light, bold, fill: mi-thin / mi-light / mi-bold / mi-fill -->
+<i class="im im-house"></i>          <!-- regular -->
+<i class="im-bold im-house"></i>     <!-- thin, light, bold, fill: im-thin / im-light / im-bold / im-fill -->
 ```
 
 Load only the weights you use with `dist/regular.css`, `dist/bold.css`, and so on. Glyphs live in the Private Use Area
