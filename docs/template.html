@@ -98,6 +98,11 @@ section.install > p { color: var(--muted); margin: 0 0 20px; max-width: 64ch; }
 .platform h3 { margin: 0; font: 600 15px var(--body); }
 .platform p { margin: 0; color: var(--muted); font-size: 13px; }
 .platform code { font: 12px var(--mono); background: var(--paper); padding: 6px 8px; border-radius: 6px; overflow-x: auto; white-space: nowrap; display: block; }
+/* Visitor counter pill, same pattern as AI Metadata Remover */
+.visits { display: inline-flex; align-items: center; gap: 8px; margin-top: 16px; padding: 5px 12px; border-radius: 99px; background: var(--sheet); border: 1px solid var(--rule); font-size: 13px; color: var(--muted); }
+.visits[hidden] { display: none; }
+.visits b { color: var(--ink); font-weight: 650; font-variant-numeric: tabular-nums; }
+.vdot { width: 7px; height: 7px; border-radius: 50%; background: #1f9d55; box-shadow: 0 0 0 3px rgba(31, 157, 85, .18); }
 footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var(--muted); font-size: 13px; }
 @media (max-width: 900px) {
   main.wrap { grid-template-columns: minmax(0, 1fr); }
@@ -113,6 +118,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var
     <div class="eyebrow">Open source · MIT · by Design Monks · <a href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">GitHub</a></div>
     <h1>Icon Monks</h1>
     <p class="lede">A flexible icon family drawn on a 256-unit grid, in six weights, with native packages for React, Vue, Web Components, icon fonts, Flutter, Android and Apple platforms.</p>
+    <div class="visits" id="visits" hidden><span class="vdot"></span><b id="visitCount"></b> people have visited</div>
   </div>
   <div class="specs">
     <div><b id="stat-icons">0</b>icons</div>
@@ -368,4 +374,21 @@ const cats = {};
 DATA.icons.forEach((i) => { cats[i.category] = (cats[i.category] || 0) + 1; });
 $('cat').insertAdjacentHTML('beforeend', Object.keys(cats).sort().map((c) => `<option value="${c}">${c} (${cats[c]})</option>`).join(''));
 renderWeights(); renderGrid(); renderDetail();
+
+/* Visitor counter: counts each browser once (no personal data is sent) */
+(async () => {
+  if (!/^https?:$/.test(location.protocol) || /^(localhost|127\.)/.test(location.hostname)) return;
+  const API = 'https://abacus.jasoncameron.dev', NS = 'icon-monks-designmonks', KEY = 'visitors';
+  let seen = false;
+  try { seen = localStorage.getItem('im-visited') === '1'; } catch (e) {}
+  try {
+    const r = await fetch(`${API}/${seen ? 'get' : 'hit'}/${NS}/${KEY}`);
+    if (!r.ok) return;
+    const { value } = await r.json();
+    if (typeof value !== 'number') return;
+    if (!seen) try { localStorage.setItem('im-visited', '1'); } catch (e) {}
+    $('visitCount').textContent = value.toLocaleString('en-US');
+    $('visits').hidden = false;
+  } catch (e) { /* counter is optional; stay hidden if it fails */ }
+})();
 </script>
