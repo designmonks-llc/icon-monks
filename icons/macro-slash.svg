@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="macro,off,disabled,hidden,close up">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 56 L100 84 L128 48 L156 84 L184 56 V104 A56 56 0 0 1 72 104 Z"/>
+    <path d="M128 160 L128 224"/>
+    <path d="M128 216 C120 192 104 180 76 180 C80 204 100 216 128 216 Z"/>
+    <path d="M128 216 C136 192 152 180 180 180 C176 204 156 216 128 216 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

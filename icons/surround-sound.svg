@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="surround,speakers,audio,5.1">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="100" y="72" width="56" height="112" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="72" width="56" height="112" rx="14"/>
+    <path d="M182.28 94.09 A64 64 0 0 1 182.28 161.91"/>
+    <path d="M73.72 161.91 A64 64 0 0 1 73.72 94.09"/>
+    <path d="M205.67 71.57 A96 96 0 0 1 205.67 184.43"/>
+    <path d="M50.33 184.43 A96 96 0 0 1 50.33 71.57"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="148" r="12"/>
+  </g>
+</svg>

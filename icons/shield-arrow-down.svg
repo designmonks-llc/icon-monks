@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="shield,download,down,decrease">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M125.39 196.83 C122.93 197.96 120.47 199.01 118 200 C83 186 48 158 48 109 L48 60 L118 32 L188 60 L188 109 C188 114.26 187.6 119.28 186.83 124.07 A60 60 0 0 0 125.39 196.83 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125.39 196.83 C122.93 197.96 120.47 199.01 118 200 C83 186 48 158 48 109 L48 60 L118 32 L188 60 L188 109 C188 114.26 187.6 119.28 186.83 124.07"/>
+    <path d="M184 154 L184 214"/>
+    <path d="M160 190 L184 214 L208 190"/>
+  </g>
+</svg>

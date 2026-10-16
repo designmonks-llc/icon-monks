@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="seat,chair,booking,car seat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M67.81 41.85 L88.19 38.15 Q100 36 102.35 47.77 L117.65 124.23 Q120 136 132 136 L188 136 Q200 136 200 148 L200 156 Q200 168 188 168 L92 168 Q76 168 73.45 152.2 L57.91 55.85 Q56 44 67.81 41.85 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M67.81 41.85 L88.19 38.15 Q100 36 102.35 47.77 L117.65 124.23 Q120 136 132 136 L188 136 Q200 136 200 148 L200 156 Q200 168 188 168 L92 168 Q76 168 73.45 152.2 L57.91 55.85 Q56 44 67.81 41.85 Z"/>
+    <path d="M136 168 L136 216"/>
+    <path d="M96 216 L176 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 136 L120 136"/>
+  </g>
+</svg>

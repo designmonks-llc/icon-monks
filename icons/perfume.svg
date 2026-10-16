@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="perfume,fragrance,scent,bottle,spray">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="112" width="160" height="112" rx="28"/>
+    <rect x="92" y="64" width="56" height="48" rx="10"/>
+    <circle cx="200" cy="80" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="112" width="160" height="112" rx="28"/>
+    <rect x="92" y="64" width="56" height="48" rx="10"/>
+    <path d="M148 80 L180 80"/>
+    <circle cx="200" cy="80" r="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 168 L148 168"/>
+  </g>
+</svg>

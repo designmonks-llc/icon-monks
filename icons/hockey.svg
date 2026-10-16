@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="hockey stick,puck,ice hockey,sport,hockey">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 176 L156 208 H200 A16 16 0 0 0 200 176 Z"/>
+    <rect x="32" y="176" width="80" height="32" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 32 L144 176"/>
+    <path d="M144 176 L156 208 H200 A16 16 0 0 0 200 176 Z"/>
+    <rect x="32" y="176" width="80" height="32" rx="16"/>
+  </g>
+</svg>

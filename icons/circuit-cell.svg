@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit cell,circuit,electronics,schematic,cell">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L112 128"/>
+    <path d="M112 64 L112 192"/>
+    <path d="M144 96 L144 160"/>
+    <path d="M144 128 L224 128"/>
+  </g>
+</svg>

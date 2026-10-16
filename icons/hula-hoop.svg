@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="hula hoop,exercise,ring,play">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="56" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="56" r="20"/>
+    <path d="M128 92 L128 152"/>
+    <path d="M80 68 L128 104 L176 68"/>
+    <path d="M96 220 L128 152 L160 220"/>
+    <path d="M223.07 126.64 A96 28 -8 1 1 32.93 153.36 A96 28 -8 1 1 223.07 126.64 Z"/>
+  </g>
+</svg>

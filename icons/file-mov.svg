@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="mov,video,movie,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M32 224 L32 164 L56 201.2 L80 164 L80 224"/>
-    <rect x="110" y="164" width="40" height="60" rx="20"/>
-    <path d="M180 164 L202 224 L224 164"/>
+    <path d="M35.8 224 L35.8 160 L57.8 198.4 L79.8 160 L79.8 224"/>
+    <rect x="111.78" y="160" width="38" height="64" rx="19"/>
+    <path d="M178.2 160 L199.2 224 L220.2 160"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

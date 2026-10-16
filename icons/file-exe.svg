@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="exe,executable,program,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M76 164 L44 164 L44 224 L76 224"/>
-    <path d="M44 194 L69.6 194"/>
-    <path d="M108 164 L148 224"/>
-    <path d="M148 164 L108 224"/>
-    <path d="M212 164 L180 164 L180 224 L212 224"/>
-    <path d="M180 194 L205.6 194"/>
+    <path d="M77 160 L45 160 L45 224 L77 224"/>
+    <path d="M45 192 L70.6 192"/>
+    <path d="M109 160 L147 224"/>
+    <path d="M147 160 L109 224"/>
+    <path d="M211 160 L179 160 L179 224 L211 224"/>
+    <path d="M179 192 L204.6 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

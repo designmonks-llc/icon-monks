@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="taxi,cab,car,ride">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="112" width="192" height="72" rx="16"/>
+    <path d="M104 72 V52 A8 8 0 0 1 112 44 H144 A8 8 0 0 1 152 52 V72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="112" width="192" height="72" rx="16"/>
+    <path d="M56 112 L76 72 H180 L200 112"/>
+    <path d="M104 72 V52 A8 8 0 0 1 112 44 H144 A8 8 0 0 1 152 52 V72"/>
+    <path d="M56 184 V200 A8 8 0 0 0 64 208 H80 A8 8 0 0 0 88 200 V184"/>
+    <path d="M168 184 V200 A8 8 0 0 0 176 208 H192 A8 8 0 0 0 200 200 V184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 152 L144 152"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="72" cy="148" r="16"/>
+    <circle cx="184" cy="148" r="16"/>
+  </g>
+</svg>

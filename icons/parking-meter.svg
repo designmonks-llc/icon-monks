@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="parking meter,pay parking,meter,street,coin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 88 A56 56 0 0 1 184 88 V132 A12 12 0 0 1 172 144 H84 A12 12 0 0 1 72 132 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 88 A56 56 0 0 1 184 88 V132 A12 12 0 0 1 172 144 H84 A12 12 0 0 1 72 132 Z"/>
+    <path d="M128 144 L128 216"/>
+    <path d="M96 216 L160 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="76" width="56" height="36" rx="8"/>
+  </g>
+</svg>

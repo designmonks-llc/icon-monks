@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="lock scan,off,disabled,hidden,lock">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <path d="M151.94 118 L160 118 A12 12 0 0 1 172 130 L172 138.06"/>
+    <path d="M148.06 182 L96 182 A12 12 0 0 1 84 170 L84 130 A12 12 0 0 1 87.54 121.49"/>
+    <path d="M114.02 80.08 A26 26 0 0 1 154 102 L154 118"/>
+    <path d="M60 60 L196 196"/>
+  </g>
+</svg>

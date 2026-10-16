@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="contacts list,members,user,lines">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="88" cy="96" r="36"/>
+    <path d="M32 216 C32 180 56 160 88 160 C120 160 144 180 144 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="96" r="36"/>
+    <path d="M32 216 C32 180 56 160 88 160 C120 160 144 180 144 216"/>
+    <path d="M176 72 L224 72"/>
+    <path d="M176 120 L224 120"/>
+    <path d="M184 168 L224 168"/>
+  </g>
+</svg>

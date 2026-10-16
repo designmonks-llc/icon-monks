@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="extinguisher,fire safety,emergency,safety,red">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="100" width="104" height="124" rx="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="100" width="104" height="124" rx="28"/>
+    <path d="M108 100 L108 68"/>
+    <path d="M108 68 L64 44"/>
+    <path d="M108 68 H164 C192 68 208 84 208 112 V176"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 152 L160 152"/>
+  </g>
+</svg>

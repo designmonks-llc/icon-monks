@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="car lifter,car,vehicle,auto,lifter">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M70.4 90.88H185.6C191.96 90.88 197.12 96.04 197.12 102.4V131.2C197.12 137.56 191.96 142.72 185.6 142.72H70.4C64.04 142.72 58.88 137.56 58.88 131.2V102.4C58.88 96.04 64.04 90.88 70.4 90.88Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70.4 90.88H185.6C191.96 90.88 197.12 96.04 197.12 102.4V131.2C197.12 137.56 191.96 142.72 185.6 142.72H70.4C64.04 142.72 58.88 137.56 58.88 131.2V102.4C58.88 96.04 64.04 90.88 70.4 90.88Z"/>
+    <path d="M76.16 90.88 93.44 50.56H162.56L179.84 90.88"/>
+    <path d="M76.16 142.72V154.24C76.16 157.42 78.74 160 81.92 160H93.44C96.62 160 99.2 157.42 99.2 154.24V142.72"/>
+    <path d="M156.8 142.72V154.24C156.8 157.42 159.38 160 162.56 160H174.08C177.26 160 179.84 157.42 179.84 154.24V142.72"/>
+    <path d="M40 168 L216 168"/>
+    <path d="M88 168 L168 216"/>
+    <path d="M168 168 L88 216"/>
+    <path d="M64 216 L192 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116.48 119.68H139.52"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="87.68" cy="116.8" r="12"/>
+    <circle cx="168.32" cy="116.8" r="12"/>
+  </g>
+</svg>

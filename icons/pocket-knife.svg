@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="swiss army knife,multitool,camping,blade">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="144" width="192" height="56" rx="28"/>
+    <path d="M64 144 L48 56 C96 72 124 104 128 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="144" width="192" height="56" rx="28"/>
+    <path d="M64 144 L48 56 C96 72 124 104 128 144"/>
+    <path d="M184 144 L208 64"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="64" cy="172" r="12"/>
+    <circle cx="192" cy="172" r="12"/>
+  </g>
+</svg>

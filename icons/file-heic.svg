@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="heic,photo,image,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M32 164 L32 224"/>
-    <path d="M70 164 L70 224"/>
-    <path d="M32 194 L70 194"/>
-    <path d="M130.67 164 L98.67 164 L98.67 224 L130.67 224"/>
-    <path d="M98.67 194 L124.27 194"/>
-    <path d="M159.33 164 L159.33 224"/>
-    <path d="M222.91 175.84 A18 18 0 0 0 188 182 V206 A18 18 0 0 0 222.91 212.16"/>
+    <path d="M32 160 L32 224"/>
+    <path d="M68 160 L68 224"/>
+    <path d="M32 192 L68 192"/>
+    <path d="M129.33 160 L97.33 160 L97.33 224 L129.33 224"/>
+    <path d="M97.33 192 L122.93 192"/>
+    <path d="M158.67 160 L158.67 224"/>
+    <path d="M221.59 169 A18 18 0 0 0 188 178 V206 A18 18 0 0 0 221.59 215"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

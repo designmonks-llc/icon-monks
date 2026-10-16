@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="mask,masquerade,carnival,disguise">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 88 C160 64 204 60 220 88 C232 120 212 176 172 176 C150 176 144 156 128 156 C112 156 106 176 84 176 C44 176 24 120 36 88 C52 60 96 64 128 88 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <ellipse cx="84" cy="124" rx="18" ry="8"/>
+    <ellipse cx="172" cy="124" rx="18" ry="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 88 C160 64 204 60 220 88 C232 120 212 176 172 176 C150 176 144 156 128 156 C112 156 106 176 84 176 C44 176 24 120 36 88 C52 60 96 64 128 88 Z"/>
+    <ellipse cx="84" cy="124" rx="26" ry="16"/>
+    <ellipse cx="172" cy="124" rx="26" ry="16"/>
+  </g>
+</svg>

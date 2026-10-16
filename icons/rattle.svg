@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="rattle,baby toy,infant,toy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="152" cy="96" r="64"/>
+    <circle cx="60.08" cy="187.92" r="22"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="60.08" cy="187.92" r="13"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="152" cy="96" r="64"/>
+    <path d="M106.75 141.25 L75.63 172.37"/>
+    <circle cx="60.08" cy="187.92" r="22"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="127" cy="71" r="12"/>
+    <circle cx="152" cy="96" r="12"/>
+    <circle cx="177" cy="121" r="12"/>
+  </g>
+</svg>

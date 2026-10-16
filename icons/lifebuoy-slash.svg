@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="lifebuoy,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <circle cx="128" cy="128" r="44"/>
+    <path d="M96.89 159.11 L60.12 195.88"/>
+    <path d="M159.11 96.89 L195.88 60.12"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

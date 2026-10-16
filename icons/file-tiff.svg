@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="tiff,image,print,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 112 V32 H152 L200 80 V112"/>
-    <path d="M41 152 L81 152"/>
-    <path d="M61 152 L61 216"/>
-    <path d="M103 152 L103 216"/>
-    <path d="M125 216 L125 152 L159 152"/>
-    <path d="M125 184 L152.2 184"/>
-    <path d="M181 216 L181 152 L215 152"/>
-    <path d="M181 184 L208.2 184"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M32 160 L68 160"/>
+    <path d="M50 160 L50 224"/>
+    <path d="M100 160 L100 224"/>
+    <path d="M162 160 L132 160 L132 224"/>
+    <path d="M132 192 L156 192"/>
+    <path d="M224 160 L194 160 L194 224"/>
+    <path d="M194 192 L218 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

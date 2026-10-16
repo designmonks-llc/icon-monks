@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="soccer ball,disabled,off,sports">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M128 90 L164.14 116.26 L150.34 158.74 L105.66 158.74 L91.86 116.26 Z"/>
+    <path d="M128 90 L128 32"/>
+    <path d="M164.14 116.26 L219.3 98.33"/>
+    <path d="M150.34 158.74 L184.43 205.67"/>
+    <path d="M105.66 158.74 L71.57 205.67"/>
+    <path d="M91.86 116.26 L36.7 98.33"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

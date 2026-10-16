@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="pdf,document,file type,acrobat,file">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M42 224 V164 H61.2 A16.8 16.8 0 0 1 61.2 197.6 H42"/>
-    <path d="M110 164 H126 A24 24 0 0 1 150 188 V200 A24 24 0 0 1 126 224 H110 Z"/>
-    <path d="M214 164 L182 164 L182 224"/>
-    <path d="M182 194 L207.6 194"/>
+    <path d="M45.02 224 V160 H61.74 A17.28 17.28 0 0 1 61.74 194.56 H45.02"/>
+    <path d="M110.99 160 H126.19 A22.8 22.8 0 0 1 148.99 182.8 V201.2 A22.8 22.8 0 0 1 126.19 224 H110.99 Z"/>
+    <path d="M210.98 160 L180.98 160 L180.98 224"/>
+    <path d="M180.98 192 L204.98 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

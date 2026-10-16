@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="tsunami,wave,disaster,flood">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 168 C48 104 96 56 160 56 C200 56 224 80 224 112 C224 136 204 152 180 152 C156 152 144 132 152 112"/>
+    <path d="M32 206 Q48 194 64 206 Q80 218 96 206 Q112 194 128 206 Q144 218 160 206 Q176 194 192 206 Q208 218 224 206"/>
+  </g>
+</svg>

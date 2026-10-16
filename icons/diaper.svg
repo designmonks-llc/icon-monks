@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="diaper,nappy,baby,infant">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 72 H216 V112 C216 168 176 208 128 208 C80 208 40 168 40 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 72 H216 V112 C216 168 176 208 128 208 C80 208 40 168 40 112 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 L216 104"/>
+    <path d="M76 136 C92 152 100 172 100 196"/>
+    <path d="M180 136 C164 152 156 172 156 196"/>
+  </g>
+</svg>

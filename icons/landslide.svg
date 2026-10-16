@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="landslide,rockfall,hazard,mudslide">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 72 L176 216 H32 Z"/>
+    <path d="M129.73 88.87 L123.57 105.79 L105.84 108.91 L94.27 95.13 L100.43 78.21 L118.16 75.09 Z"/>
+    <path d="M177.67 135.82 L163.52 152.67 L141.86 148.85 L134.33 128.18 L148.48 111.33 L170.14 115.15 Z"/>
+    <path d="M224.43 175.11 L219.92 200.71 L195.49 209.61 L175.57 192.89 L180.08 167.29 L204.51 158.39 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 L176 216 H32 Z"/>
+    <path d="M129.73 88.87 L123.57 105.79 L105.84 108.91 L94.27 95.13 L100.43 78.21 L118.16 75.09 Z"/>
+    <path d="M177.67 135.82 L163.52 152.67 L141.86 148.85 L134.33 128.18 L148.48 111.33 L170.14 115.15 Z"/>
+    <path d="M224.43 175.11 L219.92 200.71 L195.49 209.61 L175.57 192.89 L180.08 167.29 L204.51 158.39 Z"/>
+  </g>
+</svg>

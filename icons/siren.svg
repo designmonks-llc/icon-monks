@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="alarm,warning light,emergency,beacon,siren">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 176 V140 A52 52 0 0 1 180 140 V176 Z"/>
+    <rect x="56" y="176" width="144" height="40" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 176 V140 A52 52 0 0 1 180 140 V176"/>
+    <rect x="56" y="176" width="144" height="40" rx="12"/>
+    <path d="M128 32 L128 52"/>
+    <path d="M189.28 88.58 L204.6 75.72"/>
+    <path d="M66.72 88.58 L51.4 75.72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 156 V140 A24 24 0 0 1 128 116"/>
+  </g>
+</svg>

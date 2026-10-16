@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="acrobat,gymnastics,circus,person">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="50" r="18"/>
+    <circle cx="128" cy="190" r="34"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="50" r="18"/>
+    <path d="M60 68 L128 92 L196 68"/>
+    <path d="M128 84 L128 116"/>
+    <path d="M106 154 L128 116 L150 154"/>
+    <circle cx="128" cy="190" r="34"/>
+  </g>
+</svg>

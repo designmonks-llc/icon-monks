@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music note,favorite,like,love,music">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="88" cy="184" r="32"/>
+    <path d="M188 211.44 C188 211.44 157.28 194.8 157.28 174.96 A16 16 0 0 1 188 168.56 A16 16 0 0 1 218.72 174.96 C218.72 194.8 188 211.44 188 211.44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="184" r="32"/>
+    <path d="M120 184 L120 40"/>
+    <path d="M120 40 C152 48 192 64 184 112"/>
+    <path d="M188 211.44 C188 211.44 157.28 194.8 157.28 174.96 A16 16 0 0 1 188 168.56 A16 16 0 0 1 218.72 174.96 C218.72 194.8 188 211.44 188 211.44 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="comb,hair pick,hair,grooming">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="84" y="112" width="88" height="104" rx="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 112 L192 112"/>
+    <path d="M64 112 L64 36"/>
+    <path d="M101 112 L101 36"/>
+    <path d="M155 112 L155 36"/>
+    <path d="M192 112 L192 36"/>
+    <rect x="84" y="112" width="88" height="104" rx="22"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M114 140 L114 168"/>
+    <path d="M142 140 L142 168"/>
+  </g>
+</svg>

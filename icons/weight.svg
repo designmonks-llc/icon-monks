@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="weight,kettlebell,heavy,kg">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 216 A68 68 0 1 1 160 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 216 A68 68 0 1 1 160 216 Z"/>
+    <path d="M80 112 L70 66 A24 24 0 0 1 94 36 H162 A24 24 0 0 1 186 66 L176 112"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="timesheet,attendance,shift">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M133.9 223.82 A96 96 0 1 1 224 128 A96 96 0 0 1 223.82 133.9 A64 64 0 0 0 133.9 223.82 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133.9 223.82 A96 96 0 1 1 224 128 A96 96 0 0 1 223.82 133.9"/>
+    <path d="M156 218 A28 28 0 0 1 212 218"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 128 L88 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="166" r="18"/>
+  </g>
+</svg>

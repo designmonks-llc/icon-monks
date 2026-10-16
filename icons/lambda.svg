@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="lambda,greek,function,math">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 40 H80 C94 40 100 48 106 62 L166 202 C170 212 178 216 196 216"/>
+    <path d="M136 132 L64 216"/>
+  </g>
+</svg>

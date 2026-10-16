@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="tram,light rail,streetcar,rail,trolley">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="72" width="144" height="128" rx="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="72" width="144" height="128" rx="24"/>
+    <path d="M92 200 L80 224"/>
+    <path d="M164 200 L176 224"/>
+    <path d="M48 32 L208 32"/>
+    <path d="M128 72 L108 52 L128 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="100" width="88" height="40" rx="8"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="92" cy="168" r="16"/>
+    <circle cx="164" cy="168" r="16"/>
+  </g>
+</svg>

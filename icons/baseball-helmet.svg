@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="baseball,batting helmet,sport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 196 C44 176 40 152 40 132 C40 84 80 52 132 52 C180 52 208 84 210 124 L224 136 L176 140 L172 180 C170 192 160 200 148 200 H72 C66 200 62 198 60 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 196 C44 176 40 152 40 132 C40 84 80 52 132 52 C180 52 208 84 210 124 L224 136 L176 140 L172 180 C170 192 160 200 148 200 H72 C66 200 62 198 60 196 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="116" cy="148" r="16"/>
+  </g>
+</svg>

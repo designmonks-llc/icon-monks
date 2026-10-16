@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="account off,no user,disabled,user">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M171.27 213.7 A96 96 0 0 1 32 128 A96 96 0 0 1 42.3 84.73"/>
+    <path d="M67.56 53.42 A96 96 0 0 1 224 128 A96 96 0 0 1 202.58 188.44"/>
+    <path d="M99.53 85.39 A32 32 0 0 1 160 100 A32 32 0 0 1 142.61 128.47"/>
+    <path d="M57.79 193.47 C74.63 175.47 96.42 165.56 121.74 164.17"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

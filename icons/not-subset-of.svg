@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="not subset,set,math">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 56 H128 A72 72 0 0 0 128 200 H196"/>
+    <path d="M164 36 L92 220"/>
+  </g>
+</svg>

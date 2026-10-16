@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="stacking toy,rings,baby toy,pyramid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="176" width="176" height="40" rx="20"/>
+    <rect x="64" y="136" width="128" height="40" rx="20"/>
+    <rect x="88" y="96" width="80" height="40" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="176" width="176" height="40" rx="20"/>
+    <rect x="64" y="136" width="128" height="40" rx="20"/>
+    <rect x="88" y="96" width="80" height="40" rx="20"/>
+    <path d="M128 96 L128 64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 176 L172 176"/>
+    <path d="M108 136 L148 136"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="52" r="16"/>
+  </g>
+</svg>

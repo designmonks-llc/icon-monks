@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="vest,waistcoat,clothing,sleeveless">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 40 L128 112 L156 40 H180 C180 80 192 100 208 104 V196 A12 12 0 0 1 198 208 L128 216 L58 208 A12 12 0 0 1 48 196 V104 C64 100 76 80 76 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 40 L128 112 L156 40 H180 C180 80 192 100 208 104 V196 A12 12 0 0 1 198 208 L128 216 L58 208 A12 12 0 0 1 48 196 V104 C64 100 76 80 76 40 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="148" r="12"/>
+    <circle cx="128" cy="184" r="12"/>
+  </g>
+</svg>

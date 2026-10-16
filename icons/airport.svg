@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="airport,terminal,flight">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 64 L112 64 L100 104 L60 104 Z"/>
+    <path d="M128 216 V144 A8 8 0 0 1 136 136 H200 A8 8 0 0 1 208 144 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 L112 64 L100 104 L60 104 Z"/>
+    <path d="M80 64 L80 40"/>
+    <path d="M64 104 L64 216"/>
+    <path d="M96 104 L96 216"/>
+    <path d="M128 216 V144 A8 8 0 0 1 136 136 H200 A8 8 0 0 1 208 144 V216"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 176 L184 176"/>
+  </g>
+</svg>

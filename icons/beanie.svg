@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="winter hat,knit cap,clothing,beanie,hat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 152 C56 100 88 72 128 72 C168 72 200 100 200 152 Z"/>
+    <rect x="40" y="152" width="176" height="56" rx="16"/>
+    <circle cx="128" cy="52" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 152 C56 100 88 72 128 72 C168 72 200 100 200 152"/>
+    <rect x="40" y="152" width="176" height="56" rx="16"/>
+    <circle cx="128" cy="52" r="18"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 172 L80 188"/>
+    <path d="M112 172 L112 188"/>
+    <path d="M144 172 L144 188"/>
+    <path d="M176 172 L176 188"/>
+  </g>
+</svg>

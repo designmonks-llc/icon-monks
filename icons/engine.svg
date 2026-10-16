@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="engine,motor,car,mechanic">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 112H180C186.63 112 192 117.37 192 124V188C192 194.63 186.63 200 180 200H76C69.37 200 64 194.63 64 188V124C64 117.37 69.37 112 76 112Z"/>
+    <path d="M192 140H204L224 124V196L204 180H192V140Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 112H180C186.63 112 192 117.37 192 124V188C192 194.63 186.63 200 180 200H76C69.37 200 64 194.63 64 188V124C64 117.37 69.37 112 76 112Z"/>
+    <path d="M88 112V88C88 83.58 91.58 80 96 80H160C164.42 80 168 83.58 168 88V112"/>
+    <path d="M128 56V80"/>
+    <path d="M32 132V180"/>
+    <path d="M32 156H64"/>
+    <path d="M192 140H204L224 124V196L204 180H192"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="customer support,agent,help desk,service,customer service">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="104" r="36"/>
+    <rect x="48" y="96" width="24" height="48" rx="12"/>
+    <rect x="184" y="96" width="24" height="48" rx="12"/>
+    <path d="M56 220 C56 194 88 180 128 180 C168 180 200 194 200 220 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="104" r="36"/>
+    <path d="M60 104 A68 68 0 0 1 196 104"/>
+    <rect x="48" y="96" width="24" height="48" rx="12"/>
+    <rect x="184" y="96" width="24" height="48" rx="12"/>
+    <path d="M196 144 C196 156 188 162 172 164"/>
+    <path d="M56 220 C56 194 88 180 128 180 C168 180 200 194 200 220"/>
+  </g>
+</svg>

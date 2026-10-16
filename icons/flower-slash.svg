@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="flower,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97.55 52.3 A30 30 0 0 1 99.5 52.64 A30 30 0 0 1 156.5 52.64 A30 30 0 0 1 185 102 A30 30 0 0 1 186.03 140.77"/>
+    <path d="M126.71 171.96 A30 30 0 0 1 99.5 151.36 A30 30 0 0 1 65.54 110.79"/>
+    <path d="M128 173.25 L128 224"/>
+    <path d="M154.22 199.48 C146.84 202.49 137.92 204 128 204 C128 194.72 130.99 187.23 136.28 181.54"/>
+    <path d="M127.27 82.01 A20 20 0 0 1 148 102 A20 20 0 0 1 147.99 102.73"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

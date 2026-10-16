@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock duration,disabled,off,duration,timer">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84.73 42.3 A96 96 0 0 1 213.7 171.27"/>
+    <path d="M171.27 213.7 A96 96 0 0 1 42.3 84.73"/>
+    <path d="M128 85.57 L128 68 A60 60 0 0 1 188 128 L170.43 128"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

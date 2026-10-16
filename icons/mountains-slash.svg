@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="mountains,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154.75 200 L32 200 L79.73 124.99"/>
+    <path d="M141.92 96.66 L160 56 L207 161.74"/>
+    <path d="M156.98 111.73 L166 104 L181.3 104"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

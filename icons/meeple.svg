@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="meeple,board game,piece,token">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108.5 99.85 A34 34 0 1 1 147.5 99.85 C176 108 220 112 220 136 C220 156 196 156 172 160 L196 208 A12 12 0 0 1 184 224 H152 L128 188 L104 224 H72 A12 12 0 0 1 60 208 L84 160 C60 156 36 156 36 136 C36 112 80 108 108.5 99.85 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108.5 99.85 A34 34 0 1 1 147.5 99.85 C176 108 220 112 220 136 C220 156 196 156 172 160 L196 208 A12 12 0 0 1 184 224 H152 L128 188 L104 224 H72 A12 12 0 0 1 60 208 L84 160 C60 156 36 156 36 136 C36 112 80 108 108.5 99.85 Z"/>
+  </g>
+</svg>

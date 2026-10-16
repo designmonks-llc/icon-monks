@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="open safe,unlocked vault,access,vault,safe">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="32" width="144" height="168" rx="16"/>
+    <path d="M80 32 L32 56 L32 176 L80 200 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <rect x="108" y="60" width="88" height="112" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="32" width="144" height="168" rx="16"/>
+    <path d="M80 32 L32 56 L32 176 L80 200 Z"/>
+    <path d="M112 200 L112 216"/>
+    <path d="M192 200 L192 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="108" y="60" width="88" height="112" rx="6"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="56" cy="116" r="12"/>
+  </g>
+</svg>

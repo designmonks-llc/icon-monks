@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sword,blade,weapon,knight,fight">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208.61 47.39 L207.2 79.92 L123.76 163.36 L92.64 132.24 L176.08 48.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208.61 47.39 L207.2 79.92 L123.76 163.36 L92.64 132.24 L176.08 48.8 Z"/>
+    <path d="M70.02 109.62 L146.38 185.98"/>
+    <path d="M108.2 147.8 L70.02 185.98"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="57.29" cy="198.71" r="16"/>
+  </g>
+</svg>

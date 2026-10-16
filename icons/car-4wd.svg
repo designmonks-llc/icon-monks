@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="4x4,off-road,four wheel drive">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="40" width="96" height="176" rx="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="40" width="96" height="176" rx="32"/>
+    <path d="M48 64 L48 104"/>
+    <path d="M48 152 L48 192"/>
+    <path d="M208 64 L208 104"/>
+    <path d="M208 152 L208 192"/>
+    <path d="M48 84 L80 84"/>
+    <path d="M48 172 L80 172"/>
+    <path d="M176 84 L208 84"/>
+    <path d="M176 172 L208 172"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 104 Q128 92 152 104"/>
+    <path d="M108 172 L148 172"/>
+  </g>
+</svg>

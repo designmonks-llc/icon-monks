@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="adjustable wrench,spanner,tool,repair">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M180.33 46.22 L153.46 73.09 L178.91 98.54 L194.47 82.99 L212.85 101.37 C198.71 121.17 176.08 132.49 153.46 126.83 L79.92 200.37 A20 20 0 0 1 51.63 172.08 L125.17 98.54 C119.51 75.92 130.83 53.29 149.21 37.73 C156.28 33.49 170.43 36.32 180.33 46.22 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180.33 46.22 L153.46 73.09 L178.91 98.54 L194.47 82.99 L212.85 101.37 C198.71 121.17 176.08 132.49 153.46 126.83 L79.92 200.37 A20 20 0 0 1 51.63 172.08 L125.17 98.54 C119.51 75.92 130.83 53.29 149.21 37.73 C156.28 33.49 170.43 36.32 180.33 46.22 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="77.09" cy="174.91" r="9"/>
+  </g>
+</svg>

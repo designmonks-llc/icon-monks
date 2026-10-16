@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="grand piano,music,instrument,keys,piano">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="112" width="192" height="48" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="112" width="192" height="48" rx="8"/>
+    <path d="M48 112 L200 44"/>
+    <path d="M148 112 L164 61"/>
+    <path d="M56 160 L56 216"/>
+    <path d="M200 160 L200 216"/>
+    <path d="M128 160 L128 200"/>
+    <path d="M112 200 L144 200"/>
+  </g>
+</svg>

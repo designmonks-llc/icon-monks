@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="summit,peak,goal,achievement">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 208 L128 96 L224 208 Z"/>
+    <path d="M128 40 L176 56 L128 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 208 L128 96 L224 208 Z"/>
+    <path d="M128 96 L128 40"/>
+    <path d="M128 40 L176 56 L128 72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101.6 126.8 L116 140 L128 128 L140 140 L154.4 126.8"/>
+  </g>
+</svg>

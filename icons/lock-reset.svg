@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="reset password,lock reset,recover,refresh">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="98" y="126" width="60" height="46" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44.12 132.4 A84 84 0 1 0 68.6 68.6"/>
+    <path d="M102.6 68.6 L68.6 68.6 L68.6 34.6"/>
+    <rect x="98" y="126" width="60" height="46" rx="10"/>
+    <path d="M110 126 V116 A18 18 0 0 1 146 116 V126"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="leaderboard,ranking,winners,podium,top">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 L32 160 L96 160 L96 120 L160 120 L160 176 L224 176 L224 216 Z"/>
+    <path d="M128 36 L135.64 55.48 L156.53 56.73 L140.36 70.02 L145.63 90.27 L128 79 L110.37 90.27 L115.64 70.02 L99.47 56.73 L120.36 55.48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 L32 160 L96 160 L96 120 L160 120 L160 176 L224 176 L224 216 Z"/>
+    <path d="M128 36 L135.64 55.48 L156.53 56.73 L140.36 70.02 L145.63 90.27 L128 79 L110.37 90.27 L115.64 70.02 L99.47 56.73 L120.36 55.48 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 160 L96 216"/>
+    <path d="M160 176 L160 216"/>
+  </g>
+</svg>

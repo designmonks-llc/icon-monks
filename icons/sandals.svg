@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sandals,flip flops,footwear,summer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="80" cy="116" rx="32" ry="84"/>
+    <ellipse cx="176" cy="140" rx="32" ry="84"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="80" cy="116" rx="32" ry="84"/>
+    <ellipse cx="176" cy="140" rx="32" ry="84"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 L80 68 L112 112"/>
+    <path d="M144 136 L176 92 L208 136"/>
+  </g>
+</svg>

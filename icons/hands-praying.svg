@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="pray,thanks,please,folded hands,bless">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32C144 32 158 44 162 60L192 148C198 168 186 184 164 184H92C70 184 58 168 64 148L94 60C98 44 112 32 128 32Z"/>
+    <rect x="60" y="184" width="136" height="40" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32C144 32 158 44 162 60L192 148C198 168 186 184 164 184H92C70 184 58 168 64 148L94 60C98 44 112 32 128 32Z"/>
+    <rect x="60" y="184" width="136" height="40" rx="12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 60 L128 184"/>
+    <path d="M96 184 V136 A16 16 0 0 1 128 136"/>
+    <path d="M160 184 V136 A16 16 0 0 0 128 136"/>
+  </g>
+</svg>

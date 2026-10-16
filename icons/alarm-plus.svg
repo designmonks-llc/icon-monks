@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="add alarm,new,reminder,clock,alarm">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M137.64 215.42 A80 80 0 0 1 67.26 83.94 A80 80 0 0 1 207.96 133.38 A56 56 0 0 0 137.64 215.42 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M137.64 215.42 A80 80 0 0 1 67.26 83.94 A80 80 0 0 1 207.96 133.38"/>
+    <path d="M36 84 A48 48 0 0 1 84 36"/>
+    <path d="M220 84 A48 48 0 0 0 172 36"/>
+    <path d="M82.11 201.53 L68.35 221.19"/>
+    <path d="M184 158 L184 210"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 96 L128 136 L96 136"/>
+  </g>
+</svg>

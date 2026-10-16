@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="oil,lubricant,oil can,maintenance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="128" width="128" height="88" rx="16"/>
+    <rect x="80" y="100" width="48" height="28" rx="8"/>
+    <path d="M212 120 C220 132 224 140 224 148 A12 12 0 0 1 200 148 C200 140 204 132 212 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="128" width="128" height="88" rx="16"/>
+    <path d="M80 128 V108 A8 8 0 0 1 88 100 H120 A8 8 0 0 1 128 108 V128"/>
+    <path d="M168 152 L216 80"/>
+    <path d="M212 120 C220 132 224 140 224 148 A12 12 0 0 1 200 148 C200 140 204 132 212 120 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 172 L136 172"/>
+  </g>
+</svg>

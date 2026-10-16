@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="coat,jacket,outerwear,winter">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 36 L128 76 L156 36 L192 52 Q208 60 208 76 L216 208 Q216 220 204 220 H52 Q40 220 40 208 L48 76 Q48 60 64 52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 36 L128 76 L156 36 L192 52 Q208 60 208 76 L216 208 Q216 220 204 220 H52 Q40 220 40 208 L48 76 Q48 60 64 52 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 104 L128 192"/>
+    <path d="M80 92 L96 124"/>
+    <path d="M176 92 L160 124"/>
+  </g>
+</svg>

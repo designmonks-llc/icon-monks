@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="slippers,flip flops,sandals,home">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="168" width="192" height="40" rx="20"/>
+    <path d="M84 168 C84 124 104 96 132 96 C172 96 204 128 212 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="168" width="192" height="40" rx="20"/>
+    <path d="M84 168 C84 124 104 96 132 96 C172 96 204 128 212 168"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 188 L200 188"/>
+  </g>
+</svg>

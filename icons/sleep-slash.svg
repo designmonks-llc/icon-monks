@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="sleep,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 144 L108 144 L36 216 L108 216"/>
+    <path d="M156 44 L212 44 L156 100 L212 100"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

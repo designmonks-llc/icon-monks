@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="water level,gauge,flood,tank">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 116 Q92 96 128 116 T200 116 V200 A16 16 0 0 1 184 216 H72 A16 16 0 0 1 56 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="40" width="144" height="176" rx="16"/>
+    <path d="M56 116 Q92 96 128 116 T200 116"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 152 L116 152"/>
+    <path d="M88 184 L116 184"/>
+  </g>
+</svg>

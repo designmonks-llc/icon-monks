@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="banner,ribbon,label,bunting,party">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 64 H196 V144 H60 Z"/>
+    <path d="M60 104 H32 L52 140 L32 176 H92 V144 Z"/>
+    <path d="M196 104 H224 L204 140 L224 176 H164 V144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 64 H196 V144 H60 Z"/>
+    <path d="M60 104 H32 L52 140 L32 176 H92 V144"/>
+    <path d="M196 104 H224 L204 140 L224 176 H164 V144"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="drop,share,send,water,liquid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M163.74 127.52 C152.81 93.65 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130.13 210.42 A60 60 0 0 1 163.74 127.52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163.74 127.52 C152.81 93.65 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130.13 210.42"/>
+    <path d="M156 212 V200 A24 24 0 0 1 180 176 H212"/>
+    <path d="M192 156 L212 176 L192 196"/>
+  </g>
+</svg>

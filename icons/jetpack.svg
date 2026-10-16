@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="jetpack,fly,rocket pack,future">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="40" width="56" height="120" rx="28"/>
+    <rect x="144" y="40" width="56" height="120" rx="28"/>
+    <path d="M84 224 C76 212 72 202 72 194 A12 12 0 0 1 96 194 C96 202 92 212 84 224 Z"/>
+    <path d="M172 224 C164 212 160 202 160 194 A12 12 0 0 1 184 194 C184 202 180 212 172 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="40" width="56" height="120" rx="28"/>
+    <rect x="144" y="40" width="56" height="120" rx="28"/>
+    <path d="M112 80 L144 80"/>
+    <path d="M112 128 L144 128"/>
+    <path d="M84 224 C76 212 72 202 72 194 A12 12 0 0 1 96 194 C96 202 92 212 84 224 Z"/>
+    <path d="M172 224 C164 212 160 202 160 194 A12 12 0 0 1 184 194 C184 202 180 212 172 224 Z"/>
+  </g>
+</svg>

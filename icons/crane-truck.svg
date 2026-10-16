@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="crane,tow,construction">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 128 H152 V100 A12 12 0 0 1 164 88 H186 A12 12 0 0 1 195 92 L220 120 A12 12 0 0 1 224 128 V152 A8 8 0 0 1 216 160 H40 A8 8 0 0 1 32 152 V136 A8 8 0 0 1 40 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 128 H152 V100 A12 12 0 0 1 164 88 H186 A12 12 0 0 1 195 92 L220 120 A12 12 0 0 1 224 128 V152 A8 8 0 0 1 216 160 H40 A8 8 0 0 1 32 152 V136 A8 8 0 0 1 40 128 Z"/>
+    <circle cx="72" cy="188" r="20"/>
+    <circle cx="184" cy="188" r="20"/>
+    <path d="M124 128 L80 56 L52 56"/>
+    <path d="M52 56 L52 84"/>
+    <path d="M52 84 V94 A12 12 0 0 0 76 94"/>
+  </g>
+</svg>

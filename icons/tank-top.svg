@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sleeveless,singlet,clothing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 32 H108 C108 72 148 72 148 32 H180 C180 72 200 88 200 112 V208 A8 8 0 0 1 192 216 H64 A8 8 0 0 1 56 208 V112 C56 88 76 72 76 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 32 H108 C108 72 148 72 148 32 H180 C180 72 200 88 200 112 V208 A8 8 0 0 1 192 216 H64 A8 8 0 0 1 56 208 V112 C56 88 76 72 76 32 Z"/>
+  </g>
+</svg>

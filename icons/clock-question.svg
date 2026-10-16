@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock,help,unknown,time,hour">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136.33 223.64 A96 96 0 1 1 224 128 A96 96 0 0 1 223.64 136.33 A62 62 0 0 0 136.33 223.64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136.33 223.64 A96 96 0 1 1 224 128 A96 96 0 0 1 223.64 136.33"/>
+    <path d="M166 164 A18 18 0 1 1 190 181 C185 184 184 187 184 192"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 128 L88 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="216" r="14"/>
+  </g>
+</svg>

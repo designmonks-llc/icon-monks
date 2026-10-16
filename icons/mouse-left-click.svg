@@ -7,4 +7,7 @@
     <path d="M128 32 L128 136"/>
     <path d="M72 136 L184 136"/>
   </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M102 72 L102 108"/>
+  </g>
 </svg>

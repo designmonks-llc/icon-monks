@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="ufo,alien spaceship,flying saucer,sci fi,alien craft">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="148" rx="96" ry="36"/>
+    <path d="M84 116 A44 44 0 0 1 172 116 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="148" rx="96" ry="36"/>
+    <path d="M84 116 A44 44 0 0 1 172 116"/>
+    <path d="M100 192 L84 216"/>
+    <path d="M156 192 L172 216"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="88" cy="152" r="10"/>
+    <circle cx="128" cy="156" r="10"/>
+    <circle cx="168" cy="152" r="10"/>
+  </g>
+</svg>

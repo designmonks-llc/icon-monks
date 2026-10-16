@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="no access,key off,revoked,disabled">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139.62 184.88 A52 52 0 1 1 71.12 116.38"/>
+    <path d="M150.63 105.37 L208 48"/>
+    <path d="M192 64 L216 88"/>
+    <path d="M164 92 L184 112"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

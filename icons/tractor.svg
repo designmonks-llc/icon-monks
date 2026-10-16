@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="tractor,farm,agriculture,vehicle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="40" width="72" height="72" rx="8"/>
+    <path d="M128 112 H200 A16 16 0 0 1 216 128 V152 A8 8 0 0 1 208 160 H128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="168" r="48"/>
+    <circle cx="192" cy="196" r="16"/>
+    <path d="M56 112 V48 A8 8 0 0 1 64 40 H120 A8 8 0 0 1 128 48 V112 H200 A16 16 0 0 1 216 128 V152 A8 8 0 0 1 208 160 H140"/>
+    <path d="M176 112 L176 72"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="80" cy="168" r="16"/>
+  </g>
+</svg>

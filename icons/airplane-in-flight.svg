@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="flight,in flight,travel,flying,airplane">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M188 88 A16 16 0 0 1 188 120 L148 120 L116 176 L92 176 L108 120 L84 120 L66 148 L54 148 L62 104 L54 60 L66 60 L84 88 L108 88 L92 32 L116 32 L148 88 L188 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 88 A16 16 0 0 1 188 120 L148 120 L116 176 L92 176 L108 120 L84 120 L66 148 L54 148 L62 104 L54 60 L66 60 L84 88 L108 88 L92 32 L116 32 L148 88 L188 88 Z"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+</svg>

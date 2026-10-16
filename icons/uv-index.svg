@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="uv index,ultraviolet,sun,exposure">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="86" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="86" r="20"/>
+    <path d="M168 86 L178 86"/>
+    <path d="M156.28 114.28 L163.36 121.36"/>
+    <path d="M128 126 L128 136"/>
+    <path d="M99.72 114.28 L92.64 121.36"/>
+    <path d="M88 86 L78 86"/>
+    <path d="M99.72 57.72 L92.64 50.64"/>
+    <path d="M128 46 L128 36"/>
+    <path d="M156.28 57.72 L163.36 50.64"/>
+    <path d="M56 164 V190 A28 28 0 0 0 112 190 V164"/>
+    <path d="M144 164 L172 218 L200 164"/>
+  </g>
+</svg>

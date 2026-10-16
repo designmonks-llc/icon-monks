@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="sum,summation,math,sigma,greek">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 76 L188 48 L68 48 L136 128 L68 208 L188 208 L188 180"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="loader,construction,bulldozer,machine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 160 V120 A8 8 0 0 1 40 112 H72 V72 A16 16 0 0 1 88 56 H112 A16 16 0 0 1 128 72 V160 Z"/>
+    <path d="M184 96 V152 A8 8 0 0 0 192 160 H224 L208 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 160 V120 A8 8 0 0 1 40 112 H72 V72 A16 16 0 0 1 88 56 H112 A16 16 0 0 1 128 72 V160 Z"/>
+    <path d="M128 128 L184 128"/>
+    <path d="M184 96 V152 A8 8 0 0 0 192 160 H224 L208 96 Z"/>
+    <circle cx="64" cy="192" r="24"/>
+    <circle cx="144" cy="192" r="24"/>
+  </g>
+</svg>

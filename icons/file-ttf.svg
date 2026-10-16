@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="ttf,font,typeface,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 112 V32 H152 L200 80 V112"/>
-    <path d="M49 152 L89 152"/>
-    <path d="M69 152 L69 216"/>
-    <path d="M111 152 L151 152"/>
-    <path d="M131 152 L131 216"/>
-    <path d="M173 216 L173 152 L207 152"/>
-    <path d="M173 184 L200.2 184"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M45 160 L81 160"/>
+    <path d="M63 160 L63 224"/>
+    <path d="M113 160 L149 160"/>
+    <path d="M131 160 L131 224"/>
+    <path d="M211 160 L181 160 L181 224"/>
+    <path d="M181 192 L205 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

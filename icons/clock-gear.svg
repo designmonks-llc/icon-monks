@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="time settings,schedule settings,history settings,clock,settings">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M131.46 223.94 A96 96 0 1 1 224 128 A96 96 0 0 1 223.94 131.46 A66 66 0 0 0 131.46 223.94 Z"/>
+    <path d="M176.89 162.13 L177.8 149.55 L190.2 149.55 L191.11 162.13 A23 23 0 0 1 199.39 166.91 L210.73 161.41 L216.93 172.14 L206.5 179.22 A23 23 0 0 1 206.5 188.78 L216.93 195.86 L210.73 206.59 L199.39 201.09 A23 23 0 0 1 191.11 205.87 L190.2 218.45 L177.8 218.45 L176.89 205.87 A23 23 0 0 1 168.61 201.09 L157.27 206.59 L151.07 195.86 L161.5 188.78 A23 23 0 0 1 161.5 179.22 L151.07 172.14 L157.27 161.41 L168.61 166.91 A23 23 0 0 1 176.89 162.13 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="184" cy="184" r="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M131.46 223.94 A96 96 0 1 1 224 128 A96 96 0 0 1 223.94 131.46"/>
+    <path d="M176.89 162.13 L177.8 149.55 L190.2 149.55 L191.11 162.13 A23 23 0 0 1 199.39 166.91 L210.73 161.41 L216.93 172.14 L206.5 179.22 A23 23 0 0 1 206.5 188.78 L216.93 195.86 L210.73 206.59 L199.39 201.09 A23 23 0 0 1 191.11 205.87 L190.2 218.45 L177.8 218.45 L176.89 205.87 A23 23 0 0 1 168.61 201.09 L157.27 206.59 L151.07 195.86 L161.5 188.78 A23 23 0 0 1 161.5 179.22 L151.07 172.14 L157.27 161.41 L168.61 166.91 A23 23 0 0 1 176.89 162.13 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 128 L88 128"/>
+  </g>
+</svg>

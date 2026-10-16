@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="kung fu,karate,martial arts,fight,kick">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="84" cy="56" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="84" cy="56" r="22"/>
+    <path d="M96 96 L112 152"/>
+    <path d="M112 152 L88 220"/>
+    <path d="M112 152 L212 104"/>
+    <path d="M98 104 L136 96 L156 72"/>
+    <path d="M98 104 L60 120 L44 100"/>
+  </g>
+</svg>

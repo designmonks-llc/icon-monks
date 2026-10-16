@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="gear stick,transmission,shifter,manual,gear shift">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="88" r="56"/>
+    <path d="M72 216 A56 32 0 0 1 184 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="88" r="56"/>
+    <path d="M128 144 L128 184"/>
+    <path d="M72 216 A56 32 0 0 1 184 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 68 L108 108"/>
+    <path d="M148 68 L148 108"/>
+    <path d="M108 88 L148 88"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="wizard hat,magic,sorcerer,fantasy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="188" rx="96" ry="28"/>
+    <path d="M72 176 C96 136 112 80 152 36 C152 80 164 136 184 176 A96 28 0 0 1 72 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="188" rx="96" ry="28"/>
+    <path d="M72 176 C96 136 112 80 152 36 C152 80 164 136 184 176"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 110 Q138.16 125.84 154 132 Q138.16 138.16 132 154 Q125.84 138.16 110 132 Q125.84 125.84 132 110 Z"/>
+    <path d="M72 176 A96 28 0 0 0 184 176"/>
+  </g>
+</svg>

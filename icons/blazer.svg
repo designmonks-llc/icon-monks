@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="suit,jacket,blazer,formal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 40 L60 56 Q40 64 40 84 V200 Q40 216 56 216 H200 Q216 216 216 200 V84 Q216 64 196 56 L156 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 40 L60 56 Q40 64 40 84 V200 Q40 216 56 216 H200 Q216 216 216 200 V84 Q216 64 196 56 L156 40 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 56 L76 104 L128 184"/>
+    <path d="M156 56 L180 104 L128 184"/>
+    <path d="M125.44 63.07 Q128 60 130.56 63.07 L135.44 68.93 Q138 72 137.87 76 L136.13 128 Q136 132 134.02 135.47 L129.98 142.53 Q128 146 126.02 142.53 L121.98 135.47 Q120 132 119.87 128 L118.13 76 Q118 72 120.56 68.93 Z"/>
+  </g>
+</svg>

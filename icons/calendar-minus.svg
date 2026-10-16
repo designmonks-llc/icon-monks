@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="calendar,remove,minus,event,remove event">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
+    <path d="M88 32 L88 72"/>
+    <path d="M168 32 L168 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 L216 104"/>
+    <path d="M100 160 L156 160"/>
+  </g>
+</svg>

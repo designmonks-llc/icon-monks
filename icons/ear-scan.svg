@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="ear,biometric,scan">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M93.2 110 A36 36 0 0 1 165.2 110 C165.2 134 148.4 138.8 143.6 153.2 C138.8 170 129.2 182 112.4 182 C102.8 182 95.6 177.2 90.8 170 C86 158 93.2 134 93.2 110 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <path d="M93.2 110 A36 36 0 0 1 165.2 110 C165.2 134 148.4 138.8 143.6 153.2 C138.8 170 129.2 182 112.4 182 C102.8 182 95.6 177.2 90.8 170"/>
+  </g>
+</svg>

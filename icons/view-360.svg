@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="360 view,panorama,rotate,vr,360">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54.8 70 H89.6 L60.5 92.72 A19.8 19.8 0 1 1 53.58 121.56"/>
+    <circle cx="126.8" cy="110.8" r="19.2"/>
+    <path d="M108.76 104.23 L135.25 70"/>
+    <rect x="164" y="70" width="39.6" height="60" rx="19.8"/>
+    <path d="M40.99 158.88 A96 92 0 0 0 212.76 163.19"/>
+    <path d="M180.63 170.63 L212.76 163.19 L220.2 195.33"/>
+  </g>
+</svg>

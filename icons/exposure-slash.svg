@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="exposure,photo,plus minus,camera,adjust">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M173.57 216 L56 216 A16 16 0 0 1 40 200 L40 82.43"/>
+    <path d="M82.43 40 L200 40 A16 16 0 0 1 216 56 L216 173.57"/>
+    <path d="M32 32 L224 224"/>
+    <path d="M164 68 L164 112"/>
+    <path d="M142 90 L186 90"/>
+    <path d="M70 164 L114 164"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="ring,wedding,engagement,jewelry,diamond ring">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="160" r="64"/>
+    <path d="M110 32 L146 32 Q152 32 155.84 36.61 L168.16 51.39 Q172 56 167.56 60.04 L132.44 91.96 Q128 96 123.56 91.96 L88.44 60.04 Q84 56 87.84 51.39 L100.16 36.61 Q104 32 110 32 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="128" cy="160" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="160" r="64"/>
+    <path d="M110 32 L146 32 Q152 32 155.84 36.61 L168.16 51.39 Q172 56 167.56 60.04 L132.44 91.96 Q128 96 123.56 91.96 L88.44 60.04 Q84 56 87.84 51.39 L100.16 36.61 Q104 32 110 32 Z"/>
+  </g>
+</svg>

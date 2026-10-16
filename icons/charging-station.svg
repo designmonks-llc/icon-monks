@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="ev charging,charger,electric car,ev charger,electric vehicle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 216 V56 A16 16 0 0 1 64 40 H128 A16 16 0 0 1 144 56 V216 Z"/>
+    <rect x="176" y="156" width="32" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 V56 A16 16 0 0 1 64 40 H128 A16 16 0 0 1 144 56 V216"/>
+    <path d="M32 216 L160 216"/>
+    <path d="M144 104 H172 A20 20 0 0 1 192 124 V156"/>
+    <rect x="176" y="156" width="32" height="40" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 76 L80 120 L112 120 L88 164"/>
+  </g>
+</svg>

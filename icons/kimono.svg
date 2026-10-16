@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="robe,kimono,hanfu,traditional">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 40 L32 56 V120 H80 V224 H176 V120 H224 V56 L160 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 L32 56 V120 H80 V224 H176 V120 H224 V56 L160 40 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 L148 148"/>
+    <path d="M160 40 L123 92"/>
+    <path d="M80 148 L176 148"/>
+    <path d="M80 184 L176 184"/>
+  </g>
+</svg>

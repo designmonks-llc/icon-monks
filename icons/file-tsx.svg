@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="tsx,code,component,file type,typescript">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 112 V32 H152 L200 80 V112"/>
-    <path d="M48 152 L88 152"/>
-    <path d="M68 152 L68 216"/>
-    <path d="M146 152 H126 A16 16 0 0 0 126 184 H130 A16 16 0 0 1 130 216 H110"/>
-    <path d="M168 152 L208 216"/>
-    <path d="M208 152 L168 216"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M42.38 160 L78.38 160"/>
+    <path d="M60.38 160 L60.38 224"/>
+    <path d="M143.62 160 H123.62 A16 16 0 0 0 123.62 192 H127.62 A16 16 0 0 1 127.62 224 H107.62"/>
+    <path d="M175.62 160 L213.62 224"/>
+    <path d="M213.62 160 L175.62 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

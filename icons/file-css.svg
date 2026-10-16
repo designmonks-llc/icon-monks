@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="css,stylesheet,code,file type,code file">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 120 V32 H152 L200 80 V120 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 120 V32 H152 L200 80 V120"/>
-    <path d="M86.91 171.84 A18 18 0 0 0 52 178 V198 A18 18 0 0 0 86.91 204.16"/>
-    <path d="M146 160 H122 A14 14 0 0 0 122 188 H132 A14 14 0 0 1 132 216 H108"/>
-    <path d="M204 160 H180 A14 14 0 0 0 180 188 H190 A14 14 0 0 1 190 216 H166"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M78.44 169 A18 18 0 0 0 44.85 178 V206 A18 18 0 0 0 78.44 215"/>
+    <path d="M145.9 160 H125.9 A16 16 0 0 0 125.9 192 H129.9 A16 16 0 0 1 129.9 224 H109.9"/>
+    <path d="M211.15 160 H191.15 A16 16 0 0 0 191.15 192 H195.15 A16 16 0 0 1 195.15 224 H175.15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

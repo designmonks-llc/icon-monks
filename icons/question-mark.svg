@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="question,help,unknown,glyph,question mark">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M86 84 A42 42 0 1 1 146 121.5 C134 127.5 128 135 128 147 V153"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="204" r="16"/>
+  </g>
+</svg>

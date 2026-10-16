@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="boot,footwear,hiking,boots,shoes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 36 H144 V132 L196 152 Q216 160 216 184 V204 A12 12 0 0 1 204 216 H76 A12 12 0 0 1 64 204 V52 Q64 36 80 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 36 H144 V132 L196 152 Q216 160 216 184 V204 A12 12 0 0 1 204 216 H76 A12 12 0 0 1 64 204 V52 Q64 36 80 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 184 L188 184"/>
+    <path d="M92 72 L116 72"/>
+  </g>
+</svg>

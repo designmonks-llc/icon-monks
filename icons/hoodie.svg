@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="hoodie,sweatshirt,clothing,hood">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 52 L60 68 C48 74 44 84 42 96 L32 172 L64 180 L80 116 V216 H176 V116 L192 180 L224 172 L214 96 C212 84 208 74 196 68 L160 52 Z"/>
+    <path d="M96 52 C92 38 108 32 128 32 C148 32 164 38 160 52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 52 L60 68 C48 74 44 84 42 96 L32 172 L64 180 L80 116 V216 H176 V116 L192 180 L224 172 L214 96 C212 84 208 74 196 68 L160 52"/>
+    <path d="M96 52 C92 38 108 32 128 32 C148 32 164 38 160 52"/>
+    <path d="M96 52 C100 80 114 92 128 92 C142 92 156 80 160 52"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 108 L116 128"/>
+    <path d="M140 108 L140 128"/>
+  </g>
+</svg>

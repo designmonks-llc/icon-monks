@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="workspace,office,person,work">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="64" r="32"/>
+    <path d="M64 152 C64 120 92 108 128 108 C164 108 192 120 192 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="64" r="32"/>
+    <path d="M64 152 C64 120 92 108 128 108 C164 108 192 120 192 152"/>
+    <path d="M32 176 L224 176"/>
+    <path d="M56 176 L56 224"/>
+    <path d="M200 176 L200 224"/>
+  </g>
+</svg>

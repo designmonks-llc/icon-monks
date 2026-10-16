@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="polyhedral dice,rpg,d20">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L211.14 80 L211.14 176 L128 224 L44.86 176 L44.86 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L211.14 80 L211.14 176 L128 224 L44.86 176 L44.86 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 80 L169.57 152 L86.43 152 Z"/>
+    <path d="M128 80 L211.14 80"/>
+    <path d="M169.57 152 L211.14 80"/>
+    <path d="M169.57 152 L128 224"/>
+    <path d="M86.43 152 L128 224"/>
+    <path d="M86.43 152 L44.86 80"/>
+    <path d="M128 80 L44.86 80"/>
+  </g>
+</svg>

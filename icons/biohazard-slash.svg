@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="biohazard,disabled,off,science">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M137.03 94.61 A30 30 0 0 0 146.49 42.38"/>
+    <path d="M214.86 160.8 A30 30 0 0 0 178.24 135.81"/>
+    <path d="M41.14 160.8 A30 30 0 1 1 59.63 192.82"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

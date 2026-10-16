@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="taxiing,runway,ground">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M188 96 A16 16 0 0 1 188 128 L148 128 L116 184 L92 184 L108 128 L84 128 L66 156 L54 156 L62 112 L54 68 L66 68 L84 96 L108 96 L92 40 L116 40 L148 96 L188 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 96 A16 16 0 0 1 188 128 L148 128 L116 184 L92 184 L108 128 L84 128 L66 156 L54 156 L62 112 L54 68 L66 68 L84 96 L108 96 L92 40 L116 40 L148 96 L188 96 Z"/>
+    <path d="M32 216 L64 216"/>
+    <path d="M104 216 L152 216"/>
+    <path d="M192 216 L224 216"/>
+  </g>
+</svg>

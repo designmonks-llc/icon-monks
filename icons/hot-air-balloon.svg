@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="balloon,flight,travel,air,hot air balloon">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 176 C80 156 48 140 48 112 A80 80 0 0 1 208 112 C208 140 176 156 152 176 Z"/>
+    <rect x="104" y="200" width="48" height="24" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 176 C80 156 48 140 48 112 A80 80 0 0 1 208 112 C208 140 176 156 152 176 Z"/>
+    <path d="M108 176 L112 200"/>
+    <path d="M148 176 L144 200"/>
+    <rect x="104" y="200" width="48" height="24" rx="6"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 C98 88 96 124 110 148"/>
+    <path d="M144 64 C158 88 160 124 146 148"/>
+  </g>
+</svg>

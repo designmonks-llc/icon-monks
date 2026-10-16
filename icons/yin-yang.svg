@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="yin yang,balance,taoism,harmony">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 A48 48 0 0 0 128 128 A48 48 0 0 1 128 224 A96 96 0 0 1 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M128 32 A48 48 0 0 0 128 128 A48 48 0 0 1 128 224"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="80" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="176" r="16"/>
+  </g>
+</svg>

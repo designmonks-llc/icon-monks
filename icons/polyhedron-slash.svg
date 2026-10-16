@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="polyhedron,off,disabled,hidden">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 32 L220 120 L128 224 L36 120 Z"/>
-    <path d="M36 120 L110 150 L220 120"/>
-    <path d="M128 32 L110 150"/>
-    <path d="M110 150 L128 224"/>
+    <path d="M87.56 45.14 L128 32 L184.43 50.33 L219.3 98.33 L219.3 157.67 L211.22 168.79"/>
+    <path d="M168.44 210.86 L128 224 L71.57 205.67 L36.7 157.67 L36.7 98.33 L44.78 87.21"/>
+    <path d="M125.93 83.5 L128 82 L171.75 113.79 L167.94 125.51"/>
+    <path d="M122.79 165.21 L100.96 165.21 L90.46 132.88"/>
+    <path d="M128 82 L128 32"/>
+    <path d="M171.75 113.79 L219.3 98.33"/>
+    <path d="M100.96 165.21 L71.57 205.67"/>
+    <path d="M65.15 107.58 L36.7 98.33"/>
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="cold,freezing,snow,thermometer,temperature">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M 56 140 V 68 A 28 28 0 0 1 112 68 V 140 A 44 44 0 1 1 56 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 56 140 V 68 A 28 28 0 0 1 112 68 V 140 A 44 44 0 1 1 56 140 Z"/>
+    <path d="M180 112 L180 52"/>
+    <path d="M205.98 97 L154.02 67"/>
+    <path d="M154.02 97 L205.98 67"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 84 172 L 84 104"/>
+  </g>
+</svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="doc,word,document,file type,word document">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M38 164 H54 A24 24 0 0 1 78 188 V200 A24 24 0 0 1 54 224 H38 Z"/>
-    <rect x="110" y="164" width="40" height="60" rx="20"/>
-    <path d="M216.91 175.84 A18 18 0 0 0 182 182 V206 A18 18 0 0 0 216.91 212.16"/>
+    <path d="M40.01 160 H55.21 A22.8 22.8 0 0 1 78.01 182.8 V201.2 A22.8 22.8 0 0 1 55.21 224 H40.01 Z"/>
+    <rect x="110.01" y="160" width="38" height="64" rx="19"/>
+    <path d="M213.58 169 A18 18 0 0 0 179.99 178 V206 A18 18 0 0 0 213.58 215"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

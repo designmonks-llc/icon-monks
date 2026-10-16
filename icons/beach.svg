@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="sea,holiday,summer,beach,maps">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="92" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="92" r="32"/>
+    <path d="M78 92 L64 92"/>
+    <path d="M92.64 56.64 L82.75 46.75"/>
+    <path d="M128 42 L128 28"/>
+    <path d="M163.36 56.64 L173.25 46.75"/>
+    <path d="M178 92 L192 92"/>
+    <path d="M32 168 C48 156 64 156 80 168 C96 180 112 180 128 168 C144 156 160 156 176 168 C192 180 208 180 224 168"/>
+    <path d="M32 208 C48 196 64 196 80 208 C96 220 112 220 128 208 C144 196 160 196 176 208 C192 220 208 220 224 208"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit ground digital,circuit,electronics,schematic,ground">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 120 L192 120 L128 204 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 44 L128 120"/>
+    <path d="M64 120 L192 120 L128 204 Z"/>
+  </g>
+</svg>

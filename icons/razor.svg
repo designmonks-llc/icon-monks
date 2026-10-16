@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="razor,shave,grooming,barber,blade">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="40" width="160" height="56" rx="14"/>
+    <rect x="112" y="116" width="32" height="108" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="40" width="160" height="56" rx="14"/>
+    <path d="M128 96 L128 116"/>
+    <rect x="112" y="116" width="32" height="108" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 68 L180 68"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="time zone,world clock,global time,globe,timezone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M126.55 223.99 A96 96 0 1 1 223.99 126.55 A70 70 0 0 0 126.55 223.99 Z"/>
+    <circle cx="184" cy="184" r="34"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126.55 223.99 A96 96 0 1 1 223.99 126.55"/>
+    <circle cx="184" cy="184" r="34"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126.51 223.93 C105.11 222.05 88 179.82 88 128 C88 74.98 105.91 32 128 32 C148.39 32 165.21 68.61 167.69 115.93"/>
+    <path d="M32 128 L142 128"/>
+    <path d="M184 170 L184 184 L195 191"/>
+  </g>
+</svg>

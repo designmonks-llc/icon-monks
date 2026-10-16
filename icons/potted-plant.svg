@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="houseplant,pot plant,decor,plant pot,indoor plant">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 128 Q168 82 128 36 Q88 82 128 128 Z"/>
+    <path d="M112 140 Q98.02 91.17 48 100 Q61.98 148.83 112 140 Z"/>
+    <path d="M144 140 Q194.02 148.83 208 100 Q157.98 91.17 144 140 Z"/>
+    <rect x="56" y="144" width="144" height="32" rx="8"/>
+    <path d="M72 176 L80 206 Q83 216 94 216 H162 Q173 216 176 206 L184 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 128 Q168 82 128 36 Q88 82 128 128 Z"/>
+    <path d="M112 140 Q98.02 91.17 48 100 Q61.98 148.83 112 140 Z"/>
+    <path d="M144 140 Q194.02 148.83 208 100 Q157.98 91.17 144 140 Z"/>
+    <rect x="56" y="144" width="144" height="32" rx="8"/>
+    <path d="M72 176 L80 206 Q83 216 94 216 H162 Q173 216 176 206 L184 176"/>
+  </g>
+</svg>

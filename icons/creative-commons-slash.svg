@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="creative commons,disabled,off,symbols,no creative commons">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M108.71 108.08 A26 26 0 1 0 108.71 147.92"/>
+    <path d="M180.71 108.08 A26 26 0 1 0 180.71 147.92"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

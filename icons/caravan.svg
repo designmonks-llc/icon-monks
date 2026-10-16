@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="caravan,camper,trailer,rv">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 56 H164 A44 44 0 0 1 208 100 V152 A16 16 0 0 1 192 168 H56 A16 16 0 0 1 40 152 V72 A16 16 0 0 1 56 56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 56 H164 A44 44 0 0 1 208 100 V152 A16 16 0 0 1 192 168 H56 A16 16 0 0 1 40 152 V72 A16 16 0 0 1 56 56 Z"/>
+    <circle cx="100" cy="196" r="20"/>
+    <path d="M200 168 L224 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="68" y="84" width="48" height="36" rx="8"/>
+    <rect x="144" y="96" width="32" height="56" rx="8"/>
+  </g>
+</svg>

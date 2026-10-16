@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="hairbrush,brush,grooming,hair">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M190.23 65.77 A56 56 0 0 1 190.23 144.97 L173.25 161.94 A56 56 0 0 1 94.06 82.75 L111.03 65.77 A56 56 0 0 1 190.23 65.77 Z"/>
+    <path d="M81.33 146.38 L50.22 180.33 A18 18 0 0 0 75.67 205.78 L109.62 174.67 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190.23 65.77 A56 56 0 0 1 190.23 144.97 L173.25 161.94 A56 56 0 0 1 94.06 82.75 L111.03 65.77 A56 56 0 0 1 190.23 65.77 Z"/>
+    <path d="M81.33 146.38 L50.22 180.33 A18 18 0 0 0 75.67 205.78 L109.62 174.67"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="144.97" cy="82.75" r="12"/>
+    <circle cx="173.25" cy="111.03" r="12"/>
+    <circle cx="116.69" cy="111.03" r="12"/>
+    <circle cx="144.97" cy="139.31" r="12"/>
+  </g>
+</svg>

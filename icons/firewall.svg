@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="firewall,network,protection,brick wall">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.01 208 L44 208 A12 12 0 0 1 32 196 L32 60 A12 12 0 0 1 44 48 L212 48 A12 12 0 0 1 224 60 L224 139.28 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M184 216.56 C169.6 216.56 158.08 206.48 158.08 190.64 C158.08 173.36 173.92 166.16 178.24 147.44 C189.76 156.08 196.96 166.16 196.96 177.68 C201.28 174.8 204.16 170.48 204.88 166.16 C208.48 173.36 209.92 182 209.92 190.64 C209.92 206.48 198.4 216.56 184 216.56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.01 208 L44 208 A12 12 0 0 1 32 196 L32 60 A12 12 0 0 1 44 48 L212 48 A12 12 0 0 1 224 60 L224 139.28"/>
+    <path d="M184 216.56 C169.6 216.56 158.08 206.48 158.08 190.64 C158.08 173.36 173.92 166.16 178.24 147.44 C189.76 156.08 196.96 166.16 196.96 177.68 C201.28 174.8 204.16 170.48 204.88 166.16 C208.48 173.36 209.92 182 209.92 190.64 C209.92 206.48 198.4 216.56 184 216.56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 L224 88"/>
+    <path d="M32 128 L149.07 128"/>
+    <path d="M32 168 L119.97 168"/>
+    <path d="M96 48 L96 88"/>
+    <path d="M160 48 L160 88"/>
+    <path d="M64 88 L64 128"/>
+    <path d="M128 88 L128 128"/>
+    <path d="M192 88 L192 118.49"/>
+    <path d="M96 128 L96 168"/>
+    <path d="M64 168 L64 208"/>
+  </g>
+</svg>

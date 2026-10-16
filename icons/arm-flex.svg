@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="muscle,strong,flex,bicep">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 136 C56 104 96 92 120 104 C140 114 152 132 156 148 L148 104 C124 100 120 64 140 48 C160 32 200 36 212 60 C220 76 216 92 208 100 L216 172 C220 200 204 216 176 216 H40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 136 C56 104 96 92 120 104 C140 114 152 132 156 148 L148 104 C124 100 120 64 140 48 C160 32 200 36 212 60 C220 76 216 92 208 100 L216 172 C220 200 204 216 176 216 H40"/>
+    <path d="M40 136 L40 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 148 C148 160 136 168 120 168"/>
+  </g>
+</svg>

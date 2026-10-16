@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="unicycle,circus,wheel,ride">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="92" y="40" width="72" height="24" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="168" r="56"/>
+    <path d="M128 64 L128 156"/>
+    <circle cx="128" cy="168" r="12"/>
+    <rect x="92" y="40" width="72" height="24" rx="12"/>
+    <path d="M136 176 L152 192 L172 192"/>
+  </g>
+</svg>

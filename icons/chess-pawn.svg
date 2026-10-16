@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="pawn,chess,game,piece,strategy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="80" r="28"/>
+    <path d="M84 184 C92 160 108 140 112 120 H144 C148 140 164 160 172 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="80" r="28"/>
+    <path d="M84 184 C92 160 108 140 112 120 H144 C148 140 164 160 172 184 Z"/>
+    <path d="M56 216 L200 216"/>
+  </g>
+</svg>

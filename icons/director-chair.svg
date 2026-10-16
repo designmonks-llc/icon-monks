@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="film director,movie set,folding chair,film,director">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="40" width="144" height="44" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="40" width="144" height="44" rx="10"/>
+    <path d="M72 84 L72 152"/>
+    <path d="M184 84 L184 152"/>
+    <path d="M40 116 L216 116"/>
+    <path d="M48 152 L208 152"/>
+    <path d="M72 152 L184 224"/>
+    <path d="M184 152 L72 224"/>
+  </g>
+</svg>

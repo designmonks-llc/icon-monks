@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="history off,no history,private,disabled">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 136 A88 88 0 0 0 45.9 167.68"/>
+    <path d="M85.42 213.01 A88 88 0 0 0 205.01 93.42"/>
+    <path d="M159.68 53.9 A88 88 0 0 0 65.77 73.77"/>
+    <path d="M65.77 33.77 L65.77 73.77 L105.77 73.77"/>
+    <path d="M208 48 L48 208"/>
+  </g>
+</svg>

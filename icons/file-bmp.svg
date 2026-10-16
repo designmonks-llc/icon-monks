@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="bmp,image,file type,extension,file bmp">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 120 V32 H152 L200 80 V120 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 120 V32 H152 L200 80 V120"/>
-    <path d="M47 185.76 H67.88 A15.12 15.12 0 0 1 67.88 216 H47 V160 H66.12 A12.88 12.88 0 0 1 66.12 185.76"/>
-    <path d="M105 216 L105 160 L129 194.72 L153 160 L153 216"/>
-    <path d="M173 216 V160 H192.76 A16.24 16.24 0 0 1 192.76 192.48 H173"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M39.01 190.08 H58.05 A16.96 16.96 0 0 1 58.05 224 H39.01 V160 H55.97 A15.04 15.04 0 0 1 55.97 190.08"/>
+    <path d="M106.99 224 L106.99 160 L128.99 198.4 L150.99 160 L150.99 224"/>
+    <path d="M182.99 224 V160 H199.71 A17.28 17.28 0 0 1 199.71 194.56 H182.99"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

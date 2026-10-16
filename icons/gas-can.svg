@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="jerrycan,fuel can,petrol">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 64 H184 A16 16 0 0 1 200 80 V208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 64 H184 A16 16 0 0 1 200 80 V208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 V112 Z"/>
+    <path d="M136 64 V40 A8 8 0 0 1 144 32 H184 A8 8 0 0 1 192 40 V64"/>
+    <path d="M80 88 L48 56"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 120 L164 184"/>
+    <path d="M164 120 L100 184"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="disc golf,frisbee,sport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 128 H200 L184 168 H72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 48 L192 48"/>
+    <path d="M72 52 C76 88 92 112 100 128"/>
+    <path d="M184 52 C180 88 164 112 156 128"/>
+    <path d="M128 40 L128 216"/>
+    <path d="M88 216 L168 216"/>
+    <path d="M56 128 H200 L184 168 H72 Z"/>
+  </g>
+</svg>

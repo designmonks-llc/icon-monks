@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="jet ski,water scooter,boat,sea">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 136 H136 L160 112 H184 L224 144 C216 160 200 168 184 168 H48 A8 8 0 0 1 40 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 136 H136 L160 112 H184 L224 144 C216 160 200 168 184 168 H48 A8 8 0 0 1 40 160 Z"/>
+    <path d="M60 136 V116 A12 12 0 0 1 72 104 H108 A12 12 0 0 1 120 116 V136"/>
+    <path d="M172 112 L156 72"/>
+    <path d="M140 72 L172 72"/>
+    <path d="M40 204 Q60 192 80 204 T120 204 T160 204 T200 204"/>
+  </g>
+</svg>

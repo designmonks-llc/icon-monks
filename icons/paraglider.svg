@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="paragliding,glider,flying,parachute">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 92 Q128 0 220 92 Q128 52 36 92 Z"/>
+    <circle cx="128" cy="150" r="18"/>
+    <path d="M100 216 C100 198 112 190 128 190 C144 190 156 198 156 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 92 Q128 0 220 92 Q128 52 36 92 Z"/>
+    <path d="M48 92 L106 192"/>
+    <path d="M208 92 L150 192"/>
+    <circle cx="128" cy="150" r="18"/>
+    <path d="M100 216 C100 198 112 190 128 190 C144 190 156 198 156 216"/>
+  </g>
+</svg>

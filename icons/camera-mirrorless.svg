@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="mirrorless,dslr,camera,lens">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="64" width="192" height="144" rx="16"/>
+    <path d="M48 64 V56 A8 8 0 0 1 56 48 H96 A8 8 0 0 1 104 56 V64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="64" width="192" height="144" rx="16"/>
+    <path d="M48 64 V56 A8 8 0 0 1 56 48 H96 A8 8 0 0 1 104 56 V64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="140" cy="136" r="46"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="140" cy="136" r="14"/>
+    <circle cx="68" cy="100" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="no water,dry,drop,slash,water off">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C104 64 64 112 64 152 A64 64 0 0 0 192 152 C192 112 152 64 128 32 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

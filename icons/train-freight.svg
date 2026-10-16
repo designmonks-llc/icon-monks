@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="freight,cargo train,rail,locomotive">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="80" width="88" height="80" rx="10"/>
+    <path d="M144 160 L144 112 Q144 104 152 104 L176 104 L176 80 Q176 72 184 72 L216 72 Q224 72 224 80 L224 160 L144 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="80" width="88" height="80" rx="10"/>
+    <path d="M144 160 L144 112 Q144 104 152 104 L176 104 L176 80 Q176 72 184 72 L216 72 Q224 72 224 80 L224 160 L144 160 Z"/>
+    <path d="M120 144 L144 144"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62 108 L62 132"/>
+    <path d="M90 108 L90 132"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="56" cy="188" r="16"/>
+    <circle cx="96" cy="188" r="16"/>
+    <circle cx="168" cy="188" r="16"/>
+    <circle cx="208" cy="188" r="16"/>
+  </g>
+</svg>

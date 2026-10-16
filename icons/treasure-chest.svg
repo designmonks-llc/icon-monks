@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="chest,treasure,loot,reward,treasure chest">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 208 V96 C32 72 48 56 72 56 H184 C208 56 224 72 224 96 V208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 208 V96 C32 72 48 56 72 56 H184 C208 56 224 72 224 96 V208 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 112 L106 112"/>
+    <path d="M150 112 L224 112"/>
+    <rect x="106" y="92" width="44" height="48" rx="10"/>
+  </g>
+</svg>

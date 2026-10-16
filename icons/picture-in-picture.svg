@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="pip,mini player,overlay,video,float">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="120" y="120" width="72" height="56" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+    <rect x="120" y="120" width="72" height="56" rx="8"/>
+  </g>
+</svg>

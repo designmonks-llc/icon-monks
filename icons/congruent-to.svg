@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="congruent,math,equal,geometry">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 92 C72 60 104 60 128 80 C152 100 184 100 208 68"/>
+    <path d="M48 148 L208 148"/>
+    <path d="M48 196 L208 196"/>
+  </g>
+</svg>

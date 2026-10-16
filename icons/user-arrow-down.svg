@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="download user,import contact,person,arrow,download">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM154.95 216C146.94 207.72 142 196.44 142 184C142 175.4 144.36 167.35 148.47 160.46C136.26 152.25 120.84 148 104 148C64 148 32 172 32 216H154.95Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
+    <path d="M32 216 C32 172 64 148 104 148 C120.84 148 136.26 152.25 148.48 160.46"/>
+    <path d="M188 150 L188 214"/>
+    <path d="M164 190 L188 214 L212 190"/>
+  </g>
+</svg>

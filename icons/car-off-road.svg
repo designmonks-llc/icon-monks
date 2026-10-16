@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="off-road,jeep,4x4,vehicle,suv">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 60 H130 A8 8 0 0 1 137.6 65.4 L150 104 H212 A12 12 0 0 1 224 116 V144 A12 12 0 0 1 212 156 H68 A12 12 0 0 1 56 144 V72 A12 12 0 0 1 68 60 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 60 H130 A8 8 0 0 1 137.6 65.4 L150 104 H212 A12 12 0 0 1 224 116 V144 A12 12 0 0 1 212 156 H68 A12 12 0 0 1 56 144 V72 A12 12 0 0 1 68 60 Z"/>
+    <path d="M56 84 A24 24 0 0 0 56 132"/>
+    <circle cx="98" cy="190" r="26"/>
+    <circle cx="186" cy="190" r="26"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="76" y="80" width="44" height="36" rx="8"/>
+  </g>
+</svg>

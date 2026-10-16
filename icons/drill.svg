@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="drill,power tool,diy,construction,power drill">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="56" width="136" height="56" rx="16"/>
+    <path d="M72 112 L120 112 L112 180 L64 180 Z"/>
+    <path d="M176 68 L200 76 L200 92 L176 100 Z"/>
+    <rect x="40" y="180" width="104" height="44" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="56" width="136" height="56" rx="16"/>
+    <path d="M72 112 L64 180"/>
+    <path d="M120 112 L112 180"/>
+    <path d="M176 68 L200 76 L200 92 L176 100 Z"/>
+    <path d="M200 84 L224 84"/>
+    <rect x="40" y="180" width="104" height="44" rx="12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 84 L108 84"/>
+  </g>
+</svg>

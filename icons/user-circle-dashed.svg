@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="guest,placeholder user,anonymous">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="100" r="32"/>
+    <path d="M57.79 193.47 C76 174 100 164 128 164 C156 164 180 174 198.21 193.47 A96 96 0 0 1 57.79 193.47 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139.7 32.72 A96 96 0 0 1 165.51 39.63"/>
+    <path d="M185.77 51.33 A96 96 0 0 1 204.67 70.23"/>
+    <path d="M216.37 90.49 A96 96 0 0 1 223.28 116.3"/>
+    <path d="M223.28 139.7 A96 96 0 0 1 216.37 165.51"/>
+    <path d="M204.67 185.77 A96 96 0 0 1 185.77 204.67"/>
+    <path d="M165.51 216.37 A96 96 0 0 1 139.7 223.28"/>
+    <path d="M116.3 223.28 A96 96 0 0 1 90.49 216.37"/>
+    <path d="M70.23 204.67 A96 96 0 0 1 51.33 185.77"/>
+    <path d="M39.63 165.51 A96 96 0 0 1 32.72 139.7"/>
+    <path d="M32.72 116.3 A96 96 0 0 1 39.63 90.49"/>
+    <path d="M51.33 70.23 A96 96 0 0 1 70.23 51.33"/>
+    <path d="M90.49 39.63 A96 96 0 0 1 116.3 32.72"/>
+    <circle cx="128" cy="100" r="32"/>
+    <path d="M57.79 193.47 C76 174 100 164 128 164 C156 164 180 174 198.21 193.47"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="remove moderator,unprotected,shield off,security off,no security">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M89.73 47.31 L128 32 L208 64 L208 120 C208 134.32 205.38 147.08 200.82 158.39"/>
+    <path d="M162.76 205.18 C151.88 213.02 139.94 219.22 128 224 C88 208 48 176 48 120 L48 90.43"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

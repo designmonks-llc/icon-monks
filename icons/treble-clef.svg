@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="clef,music,notation">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 200 C112 224 148 228 148 200 L132 56 C128 24 172 28 164 64 C156 100 84 112 84 156 C84 196 172 200 172 160 C172 124 120 120 116 152"/>
+  </g>
+</svg>

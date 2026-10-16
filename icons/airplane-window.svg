@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="window,flight,porthole,cabin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="144" height="192" rx="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="144" height="192" rx="64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="64" width="80" height="128" rx="40"/>
+    <path d="M88 104 L168 104"/>
+  </g>
+</svg>

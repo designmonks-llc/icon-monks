@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="mushroom,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 136 C40 80 80 40 128 40 C176 40 216 80 216 136 Q216 148 204 148 H52 Q40 148 40 136 Z"/>
+    <path d="M100 148 L94 198 A16 16 0 0 0 110 216 H146 A16 16 0 0 0 162 198 L156 148"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="88" cy="112" r="14"/>
+    <circle cx="128" cy="80" r="14"/>
+    <circle cx="168" cy="112" r="14"/>
+  </g>
+</svg>

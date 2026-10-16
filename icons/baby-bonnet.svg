@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="bonnet,hat,baby,child">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 148 A88 88 0 0 1 216 148 H176 A48 48 0 0 0 80 148 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 148 A88 88 0 0 1 216 148 H176 A48 48 0 0 0 80 148 Z"/>
+    <path d="M68 156 L128 196 L188 156"/>
+    <path d="M128 196 L100 184 L100 212 Z"/>
+    <path d="M128 196 L156 184 L156 212 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="108" cy="136" r="10"/>
+    <circle cx="148" cy="136" r="10"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="light off,lightbulb,disabled,idea,lights off">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 176 C96 152 64 136 64 96 A64 64 0 0 1 192 96 C192 136 160 152 160 176 Z"/>
+    <path d="M104 208 L152 208"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

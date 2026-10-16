@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="bucket,water,fill">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 104 H208 L190 204 Q188 216 176 216 H80 Q68 216 66 204 Z"/>
+    <path d="M128 30 C120 42 110 52 110 62 A18 18 0 0 0 146 62 C146 52 136 42 128 30 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 104 H208 L190 204 Q188 216 176 216 H80 Q68 216 66 204 Z"/>
+    <path d="M128 30 C120 42 110 52 110 62 A18 18 0 0 0 146 62 C146 52 136 42 128 30 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 144 L172 144"/>
+  </g>
+</svg>

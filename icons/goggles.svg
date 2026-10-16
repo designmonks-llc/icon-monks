@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="goggles,swimming,ski,eyewear">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 88 H176 A32 32 0 0 1 208 120 V136 A32 32 0 0 1 176 168 H156 C146 168 140 152 128 152 C116 152 110 168 100 168 H80 A32 32 0 0 1 48 136 V120 A32 32 0 0 1 80 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 88 H176 A32 32 0 0 1 208 120 V136 A32 32 0 0 1 176 168 H156 C146 168 140 152 128 152 C116 152 110 168 100 168 H80 A32 32 0 0 1 48 136 V120 A32 32 0 0 1 80 88 Z"/>
+    <rect x="32" y="112" width="16" height="32" rx="4"/>
+    <rect x="208" y="112" width="16" height="32" rx="4"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 120 C88 114 96 112 104 112"/>
+  </g>
+</svg>

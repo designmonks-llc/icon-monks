@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="scorpio,zodiac,astrology,horoscope">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 A20 20 0 0 1 60 108 V192"/>
+    <path d="M60 108 A26 26 0 0 1 112 108 V192"/>
+    <path d="M112 108 A26 26 0 0 1 164 108 V168 A28 28 0 0 0 192 196 H216"/>
+    <path d="M196 176 L216 196 L196 216"/>
+  </g>
+</svg>

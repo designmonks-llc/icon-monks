@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="todo,agenda,calendar,tasks">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
+    <path d="M88 32 L88 72"/>
+    <path d="M168 32 L168 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 L216 104"/>
+    <path d="M112 142 L176 142"/>
+    <path d="M112 182 L176 182"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="142" r="12"/>
+    <circle cx="80" cy="182" r="12"/>
+  </g>
+</svg>

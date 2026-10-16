@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="party,disco,dance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="120" cy="144" r="80"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="144" r="80"/>
+    <path d="M120 32 L120 64"/>
+    <path d="M196 36 C198 52 202 56 218 58 C202 60 198 64 196 80 C194 64 190 60 174 58 C190 56 194 52 196 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="144" rx="40" ry="80"/>
+    <path d="M46.68 112 L193.32 112"/>
+    <path d="M46.68 176 L193.32 176"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="balloon,love,party,valentine,heart balloon">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 160.64 C128 160.64 55.04 121.12 55.04 74 A38 38 0 0 1 128 58.8 A38 38 0 0 1 200.96 74 C200.96 121.12 128 160.64 128 160.64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 160.64 C128 160.64 55.04 121.12 55.04 74 A38 38 0 0 1 128 58.8 A38 38 0 0 1 200.96 74 C200.96 121.12 128 160.64 128 160.64 Z"/>
+    <path d="M128 160.64 L116 174.64 L140 174.64 Z"/>
+    <path d="M128 174.64 C128 188.64 114 196.64 122 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 104 A28 28 0 0 1 100 76"/>
+  </g>
+</svg>

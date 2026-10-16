@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="ice skating,skate,winter,rink,ice skate">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 52 A12 12 0 0 1 84 40 H124 A12 12 0 0 1 136 52 V100 L180 116 A40 40 0 0 1 208 154 V160 A12 12 0 0 1 196 172 H84 A12 12 0 0 1 72 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 52 A12 12 0 0 1 84 40 H124 A12 12 0 0 1 136 52 V100 L180 116 A40 40 0 0 1 208 154 V160 A12 12 0 0 1 196 172 H84 A12 12 0 0 1 72 160 Z"/>
+    <path d="M96 172 L96 208"/>
+    <path d="M176 172 L176 208"/>
+    <path d="M48 208 H196 A20 20 0 0 0 216 188"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 76 L136 76"/>
+    <path d="M112 108 L144 108"/>
+  </g>
+</svg>

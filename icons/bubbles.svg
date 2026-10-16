@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="bubbles,soap,foam,fizz,clean">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="96" cy="156" r="56"/>
+    <circle cx="180" cy="76" r="36"/>
+    <circle cx="196" cy="180" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="156" r="56"/>
+    <circle cx="180" cy="76" r="36"/>
+    <circle cx="196" cy="180" r="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68.43 151.14 A28 28 0 0 1 91.14 128.43"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="60" cy="64" r="14"/>
+  </g>
+</svg>

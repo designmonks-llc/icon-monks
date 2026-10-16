@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="casino,chip,gambling,bet,poker chip">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="44"/>
+    <path d="M194.52 155.55 L216.69 164.74"/>
+    <path d="M155.55 194.52 L164.74 216.69"/>
+    <path d="M100.45 194.52 L91.26 216.69"/>
+    <path d="M61.48 155.55 L39.31 164.74"/>
+    <path d="M61.48 100.45 L39.31 91.26"/>
+    <path d="M100.45 61.48 L91.26 39.31"/>
+    <path d="M155.55 61.48 L164.74 39.31"/>
+    <path d="M194.52 100.45 L216.69 91.26"/>
+  </g>
+</svg>

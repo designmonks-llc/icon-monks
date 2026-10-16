@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="cap,hat,baseball cap,clothing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 168 C40 108 72 68 116 68 C160 68 186 100 188 152 H212 A12 12 0 0 1 224 164 V168 A12 12 0 0 1 212 180 H52 A12 12 0 0 1 40 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 168 C40 108 72 68 116 68 C160 68 186 100 188 152 H212 A12 12 0 0 1 224 164 V168 A12 12 0 0 1 212 180 H52 A12 12 0 0 1 40 168 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 72 C104 96 100 120 102 148"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="116" cy="60" r="10"/>
+  </g>
+</svg>

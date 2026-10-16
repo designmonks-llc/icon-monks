@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="gymnastics,acrobat,flip,athlete,sport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="202" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="202" r="16"/>
+    <path d="M202 216 L128 156 L54 216"/>
+    <path d="M128 156 L128 98"/>
+    <path d="M190 32 L128 98 L66 32"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="american football,rugby,ball,nfl,sports">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 204 A126.3 126.3 0 0 1 204 52 A126.3 126.3 0 0 1 52 204 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 204 A126.3 126.3 0 0 1 204 52 A126.3 126.3 0 0 1 52 204 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M94 162 L162 94"/>
+    <path d="M94.06 139.31 L116.69 161.94"/>
+    <path d="M116.69 116.69 L139.31 139.31"/>
+    <path d="M139.31 94.06 L161.94 116.69"/>
+  </g>
+</svg>

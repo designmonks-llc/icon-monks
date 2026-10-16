@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="tally marks,count,five,score,tally">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 52 L68 204"/>
+    <path d="M108 52 L108 204"/>
+    <path d="M148 52 L148 204"/>
+    <path d="M188 52 L188 204"/>
+    <path d="M36 180 L220 76"/>
+  </g>
+</svg>

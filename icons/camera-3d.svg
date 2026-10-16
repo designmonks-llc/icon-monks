@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="3d camera,depth,scanner">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 88 A16 16 0 0 1 48 72 H80 L96 48 H160 L176 72 H208 A16 16 0 0 1 224 88 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 A16 16 0 0 1 48 72 H80 L96 48 H160 L176 72 H208 A16 16 0 0 1 224 88 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 100 L162.64 120 L162.64 160 L128 180 L93.36 160 L93.36 120 Z"/>
+    <path d="M93.36 120 L128 140 L162.64 120"/>
+    <path d="M128 140 L128 180"/>
+  </g>
+</svg>

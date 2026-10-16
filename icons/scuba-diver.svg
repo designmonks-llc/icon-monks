@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="diving,scuba,underwater,swimming,scuba diving">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="184" cy="136" r="20"/>
+    <path d="M80 154 L152 154 A14 14 0 0 0 152 126 L80 126 A14 14 0 0 0 80 154 Z"/>
+    <rect x="88" y="92" width="64" height="24" rx="12"/>
+    <path d="M52 140 L32 116 L32 164 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="184" cy="136" r="20"/>
+    <rect x="194" y="124" width="30" height="24" rx="10"/>
+    <path d="M80 154 L152 154 A14 14 0 0 0 152 126 L80 126 A14 14 0 0 0 80 154 Z"/>
+    <rect x="88" y="92" width="64" height="24" rx="12"/>
+    <path d="M66 140 L52 140"/>
+    <path d="M52 140 L32 116 L32 164 Z"/>
+    <path d="M176 116 L176 84"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="204" cy="84" r="10"/>
+    <circle cx="216" cy="56" r="8"/>
+  </g>
+</svg>

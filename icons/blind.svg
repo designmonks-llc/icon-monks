@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="blind,cane,visually impaired,accessibility">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="108" cy="52" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="108" cy="52" r="20"/>
+    <path d="M104 88 L96 144"/>
+    <path d="M64 216 L76 180 L96 144 L120 176 L128 216"/>
+    <path d="M80 136 L104 100 L140 128"/>
+    <path d="M140 128 L196 216"/>
+  </g>
+</svg>

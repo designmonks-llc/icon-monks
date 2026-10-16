@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="lipstick,makeup,cosmetics,beauty">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="144" width="112" height="80" rx="14"/>
+    <rect x="88" y="112" width="80" height="32" rx="8"/>
+    <path d="M100 112 V72 L156 40 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="144" width="112" height="80" rx="14"/>
+    <rect x="88" y="112" width="80" height="32" rx="8"/>
+    <path d="M100 112 V72 L156 40 V112"/>
+  </g>
+</svg>

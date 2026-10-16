@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="ichthys,christian fish,religion,faith">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 76 C96 204 180 188 220 128 C180 68 96 52 36 180 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 76 C96 204 180 188 220 128 C180 68 96 52 36 180"/>
+  </g>
+</svg>

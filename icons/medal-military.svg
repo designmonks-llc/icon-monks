@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="military medal,honor,award,ribbon">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="32" width="96" height="64" rx="8"/>
+    <path d="M128 112 L143.28 146.97 L181.26 150.7 L152.73 176.03 L160.92 213.3 L128 194 L95.08 213.3 L103.27 176.03 L74.74 150.7 L112.72 146.97 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="32" width="96" height="64" rx="8"/>
+    <path d="M128 96 L128 112"/>
+    <path d="M128 112 L143.28 146.97 L181.26 150.7 L152.73 176.03 L160.92 213.3 L128 194 L95.08 213.3 L103.27 176.03 L74.74 150.7 L112.72 146.97 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 32 L112 96"/>
+    <path d="M144 32 L144 96"/>
+  </g>
+</svg>

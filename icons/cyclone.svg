@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="cyclone,hurricane,typhoon,storm,tropical storm">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="32"/>
+    <path d="M205.32 59.69 A76 76 0 0 0 96 128"/>
+    <path d="M50.68 196.31 A76 76 0 0 0 160 128"/>
+  </g>
+</svg>

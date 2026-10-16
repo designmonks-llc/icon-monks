@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="group off,no users,disabled,group">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82.62 68.47 A36 36 0 0 1 136 100 A36 36 0 0 1 131.53 117.38"/>
+    <path d="M92.86 135.28 A36 36 0 0 1 64.72 107.14"/>
+    <path d="M32 208 C32 168 60 152 100 152 C103.4 152 106.71 152.12 109.92 152.35"/>
+    <path d="M152 56 A32 32 0 1 1 168 116"/>
+    <path d="M184 144 C212 148 228 168 228 200"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

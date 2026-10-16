@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="foggy,haze,sun,mist">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="102" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="102" r="28"/>
+    <path d="M178 102 L192 102"/>
+    <path d="M163.36 137.36 L173.25 147.25"/>
+    <path d="M92.64 137.36 L82.75 147.25"/>
+    <path d="M78 102 L64 102"/>
+    <path d="M92.64 66.64 L82.75 56.75"/>
+    <path d="M128 52 L128 38"/>
+    <path d="M163.36 66.64 L173.25 56.75"/>
+    <path d="M40 188 L216 188"/>
+    <path d="M72 220 L184 220"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="no car,car off,no parking,slash">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 184 L45.99 183.88 L38.86 181.13 L33.87 175.52 L32.12 170.01 L32.49 124.06 L36.04 117.37 L42.22 113.08 L72 112"/>
+    <path d="M152 112 L211.94 112.49 L218.63 116.04 L222.92 122.22 L223.88 170.01 L221.13 177.14 L219.96 178.63"/>
+    <path d="M56 112 L60.8 100.8"/>
+    <path d="M96 56 L176 56 L200 112"/>
+    <path d="M56 184 V200 A8 8 0 0 0 64 208 H80 A8 8 0 0 0 88 200 V184"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="72" cy="148" r="16"/>
+  </g>
+</svg>

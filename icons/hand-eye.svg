@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="hamsa,protection,eye in hand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M35.21 114.5C31.62 105.23 36.23 94.8 45.5 91.21C54.77 87.62 65.2 92.23 68.79 101.5L74 114.96V72C74 62.06 82.06 54 92 54C101.94 54 110 62.06 110 72V54C110 44.06 118.06 36 128 36C137.94 36 146 44.06 146 54V72C146 62.06 154.06 54 164 54C173.94 54 182 62.06 182 72V114.96L187.21 101.5C190.8 92.23 201.23 87.62 210.5 91.21C219.77 94.8 224.38 105.23 220.79 114.5L210.92 140H212V160C212 200 176 224 128 224C80 224 44 200 44 160V140H45.08Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35.21 114.5C31.62 105.23 36.23 94.8 45.5 91.21C54.77 87.62 65.2 92.23 68.79 101.5L74 114.96V72C74 62.06 82.06 54 92 54C101.94 54 110 62.06 110 72V54C110 44.06 118.06 36 128 36C137.94 36 146 44.06 146 54V72C146 62.06 154.06 54 164 54C173.94 54 182 62.06 182 72V114.96L187.21 101.5C190.8 92.23 201.23 87.62 210.5 91.21C219.77 94.8 224.38 105.23 220.79 114.5L210.92 140H212V160C212 200 176 224 128 224C80 224 44 200 44 160V140H45.08Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 72 L110 110"/>
+    <path d="M146 72 L146 110"/>
+    <path d="M88 166 A42.57 42.57 0 0 1 168 166 A42.57 42.57 0 0 1 88 166 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="166" r="13"/>
+  </g>
+</svg>

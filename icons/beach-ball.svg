@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="beach,summer,ball">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="24"/>
+    <path d="M128 104 C129.81 76.03 174.97 58.36 212.76 82.93"/>
+    <path d="M148.78 140 C172.1 155.56 164.82 203.5 124.65 223.94"/>
+    <path d="M107.22 140 C82.09 152.41 44.2 122.14 46.59 77.13"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="footprints,baby,newborn,feet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="84" cy="168" rx="26" ry="42"/>
+    <ellipse cx="172" cy="112" rx="26" ry="42"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="84" cy="168" rx="26" ry="42"/>
+    <ellipse cx="172" cy="112" rx="26" ry="42"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="96" cy="106" r="15"/>
+    <circle cx="70" cy="110" r="12"/>
+    <circle cx="50" cy="124" r="10"/>
+    <circle cx="160" cy="50" r="15"/>
+    <circle cx="186" cy="54" r="12"/>
+    <circle cx="206" cy="68" r="10"/>
+  </g>
+</svg>

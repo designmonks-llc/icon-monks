@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="yoga,meditation,pose,wellness">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="60" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="60" r="24"/>
+    <path d="M128 104 L128 168"/>
+    <path d="M128 112 C104 116 88 136 72 168"/>
+    <path d="M128 112 C152 116 168 136 184 168"/>
+    <path d="M40 200 C72 176 104 176 128 188 C152 176 184 176 216 200"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="washer fluid,windshield,car,spray">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M43.18 154.37 L64.82 61.63 Q68 48 82 48 L174 48 Q188 48 191.18 61.63 L212.82 154.37 Q216 168 202 168 L54 168 Q40 168 43.18 154.37 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43.18 154.37 L64.82 61.63 Q68 48 82 48 L174 48 Q188 48 191.18 61.63 L212.82 154.37 Q216 168 202 168 L54 168 Q40 168 43.18 154.37 Z"/>
+    <path d="M112 204 L144 204"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100.44 151.9 L91.97 138.33"/>
+    <path d="M83.49 124.76 L75.01 111.2"/>
+    <path d="M128 144 L128 128"/>
+    <path d="M128 112 L128 96"/>
+    <path d="M155.56 151.9 L164.03 138.33"/>
+    <path d="M172.51 124.76 L180.99 111.2"/>
+  </g>
+</svg>

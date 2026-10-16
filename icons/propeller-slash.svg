@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="propeller,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M127.55 164 L118.79 161.76 L111.94 155.93 L108.68 149.18 L108 143.55"/>
+    <path d="M95.74 58.94 L98.66 53.85 L103.15 50.8 L108.45 50.3 L113.85 52.55 L127.64 74.23 L133.44 97.45"/>
+    <path d="M174.19 137.25 L200.31 144.7 L216.6 157.16 L220.75 163.66 L221.15 169.07 L218.93 173.91 L214.27 177.47"/>
+    <path d="M123.05 163.09C115.27 187.84 94.06 211.88 68.61 214.71C60.83 215.42 55.17 209.76 55.88 201.98C61.54 179.36 85.57 158.14 108.91 148.95"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

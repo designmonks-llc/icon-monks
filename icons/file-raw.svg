@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="raw,photo,camera,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 112 V32 H152 L200 80 V112"/>
-    <path d="M35 216 V152 H57 A16 16 0 0 1 57 184 H35"/>
-    <path d="M55 184 L73 216"/>
-    <path d="M95 216 L117 152 L139 216"/>
-    <path d="M102.48 194.24 L131.52 194.24"/>
-    <path d="M161 152 L176 216 L191 173.76 L206 216 L221 152"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M34.63 224 V160 H53.35 A17.28 17.28 0 0 1 53.35 194.56 H34.63"/>
+    <path d="M50.83 194.56 L70.63 224"/>
+    <path d="M102.63 224 L124.63 160 L146.63 224"/>
+    <path d="M110.55 200.96 L138.71 200.96"/>
+    <path d="M165.37 160 L179.37 224 L193.37 179.2 L207.37 224 L221.37 160"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

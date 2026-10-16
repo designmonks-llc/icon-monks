@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="airplane ticket,flight,boarding,travel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 64 H212 A12 12 0 0 1 224 76 V104 A24 24 0 0 0 224 152 V180 A12 12 0 0 1 212 192 H44 A12 12 0 0 1 32 180 V152 A24 24 0 0 0 32 104 V76 A12 12 0 0 1 44 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 64 H212 A12 12 0 0 1 224 76 V104 A24 24 0 0 0 224 152 V180 A12 12 0 0 1 212 192 H44 A12 12 0 0 1 32 180 V152 A24 24 0 0 0 32 104 V76 A12 12 0 0 1 44 64 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 96 L168 160"/>
+    <path d="M134.42 117.08 A10.92 10.92 0 0 1 134.42 138.92 L114.14 138.92 L96.98 163.88 L82.94 163.88 L90.74 138.92 L78.26 138.92 L70.46 151.4 L64.22 151.4 L68.9 128 L64.22 104.6 L70.46 104.6 L78.26 117.08 L90.74 117.08 L82.94 92.12 L96.98 92.12 L114.14 117.08 L134.42 117.08 Z"/>
+  </g>
+</svg>

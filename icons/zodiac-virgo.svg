@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="virgo,zodiac,astrology,horoscope">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 84 A20 20 0 0 1 56 104 V192"/>
+    <path d="M56 104 A22 22 0 0 1 100 104 V192"/>
+    <path d="M100 104 A22 22 0 0 1 144 104 V224"/>
+    <path d="M144 164 C164 120 224 116 220 160 C216 200 180 212 124 212"/>
+  </g>
+</svg>

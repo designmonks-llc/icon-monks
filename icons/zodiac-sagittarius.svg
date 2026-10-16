@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="sagittarius,zodiac,astrology,horoscope">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 208 L208 48"/>
+    <path d="M120 48 L208 48 L208 136"/>
+    <path d="M76 116 L140 180"/>
+  </g>
+</svg>

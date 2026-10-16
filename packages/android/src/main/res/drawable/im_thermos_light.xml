@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+  android:width="24dp" android:height="24dp"
+  android:viewportWidth="256" android:viewportHeight="256"
+  android:tint="?android:attr/colorControlNormal" android:autoMirrored="false">
+  <path android:fillColor="@android:color/white" android:pathData="M90 42V62Q90 64.97 90.94 67.54Q85.8 69.43 81.62 73.62Q74 81.23 74 92V196Q74 206.77 81.62 214.38Q89.23 222 100 222H156Q166.77 222 174.38 214.38Q182 206.77 182 196V92Q182 81.23 174.38 73.62Q170.2 69.43 165.06 67.54Q166 64.97 166 62V42Q166 35.37 161.31 30.69Q156.63 26 150 26H106Q99.37 26 94.69 30.69Q90 35.37 90 42ZM102 42Q102 38 106 38H150Q154 38 154 42V62Q154 66 150 66H106Q102 66 102 62V42ZM165.9 82.1Q170 86.2 170 92V102H86V92Q86 86.2 90.1 82.1Q94.2 78 100 78H156Q161.8 78 165.9 82.1ZM86 174V114H170V174H86ZM165.9 205.9Q161.8 210 156 210H100Q94.2 210 90.1 205.9Q86 201.8 86 196V186H170V196Q170 201.8 165.9 205.9Z"/>
+</vector>

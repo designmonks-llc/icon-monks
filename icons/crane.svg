@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="crane,construction,lifting,building,building site">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="64" width="32" height="152"/>
+    <rect x="32" y="64" width="32" height="32" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 L224 64"/>
+    <path d="M40 64 L104 32 L216 64"/>
+    <rect x="88" y="64" width="32" height="152"/>
+    <path d="M64 216 L144 216"/>
+    <rect x="32" y="64" width="32" height="32" rx="6"/>
+    <path d="M184 64 L184 136"/>
+    <path d="M184 136 V156 A16 16 0 0 1 152 156"/>
+  </g>
+</svg>

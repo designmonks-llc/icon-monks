@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="loop,curly,symbol">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 184 C100 184 180 160 180 104 A52 52 0 0 0 76 104 C76 160 156 184 224 184"/>
+  </g>
+</svg>

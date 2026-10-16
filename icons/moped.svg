@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="e-bike,scooter,moped,electric,vespa">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 160 C32 128 56 112 88 112 H120 V160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 160 C32 128 56 112 88 112 H120 V160 Z"/>
+    <circle cx="64" cy="194" r="22"/>
+    <circle cx="196" cy="194" r="22"/>
+    <path d="M120 160 L189 160"/>
+    <path d="M172 64 L192 170"/>
+    <path d="M152 64 L188 64"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="necklace,jewelry,pendant,diamond">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M106 148 L150 148 Q156 148 159.9 152.56 L176.1 171.44 Q180 176 175.59 180.07 L132.41 219.93 Q128 224 123.59 219.93 L80.41 180.07 Q76 176 79.9 171.44 L96.1 152.56 Q100 148 106 148 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 32 C52 96 72 128 100 148"/>
+    <path d="M204 32 C204 96 184 128 156 148"/>
+    <path d="M106 148 L150 148 Q156 148 159.9 152.56 L176.1 171.44 Q180 176 175.59 180.07 L132.41 219.93 Q128 224 123.59 219.93 L80.41 180.07 Q76 176 79.9 171.44 L96.1 152.56 Q100 148 106 148 Z"/>
+  </g>
+</svg>

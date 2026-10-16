@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="passkey,login,user key,passwordless">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="96" cy="88" r="36"/>
+    <path d="M32 208 C32 168 60 148 96 148 C132 148 156 168 156 208 Z"/>
+    <circle cx="192" cy="92" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="88" r="36"/>
+    <path d="M32 208 C32 168 60 148 96 148 C132 148 156 168 156 208"/>
+    <circle cx="192" cy="92" r="28"/>
+    <path d="M192 120 L192 212"/>
+    <path d="M192 180 L216 180"/>
+    <path d="M192 208 L212 208"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="192" cy="92" r="12"/>
+  </g>
+</svg>

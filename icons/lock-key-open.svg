@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="unlocked,keyhole lock,open">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M62 104 H194 A14 14 0 0 1 208 118 V202 A14 14 0 0 1 194 216 H62 A14 14 0 0 1 48 202 V118 A14 14 0 0 1 62 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62 104 H194 A14 14 0 0 1 208 118 V202 A14 14 0 0 1 194 216 H62 A14 14 0 0 1 48 202 V118 A14 14 0 0 1 62 104 Z"/>
+    <path d="M88 104 V72 A40 40 0 0 1 166 60"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 150 L128 180"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="150" r="16"/>
+  </g>
+</svg>

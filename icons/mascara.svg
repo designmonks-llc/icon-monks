@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="mascara,makeup,lashes,cosmetics">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="72" width="56" height="152" rx="20"/>
+    <rect x="148" y="32" width="40" height="64" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="72" width="56" height="152" rx="20"/>
+    <rect x="148" y="32" width="40" height="64" rx="12"/>
+    <path d="M168 96 L168 220"/>
+    <path d="M148 160 L188 160"/>
+    <path d="M148 196 L188 196"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 124 L112 124"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="add to playlist,queue,add,music,plus">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L216 64"/>
+    <path d="M40 112 L144 112"/>
+    <path d="M40 160 L112 160"/>
+    <path d="M180 136 L180 208"/>
+    <path d="M144 172 L216 172"/>
+  </g>
+</svg>

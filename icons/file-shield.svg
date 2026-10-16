@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="privacy policy,secure document,protected file,shield,safe">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M139.28 224 L56 224 L56 32 L152 32 L200 80 L200 126.17 A60 60 0 0 0 139.28 224 Z"/>
+    <path d="M184 151.36 L211.2 162.24 L211.2 181.28 C211.2 200.32 197.6 211.2 184 216.64 C170.4 211.2 156.8 200.32 156.8 181.28 L156.8 162.24 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139.28 224 L56 224 L56 32 L152 32 L200 80 L200 126.17"/>
+    <path d="M184 151.36 L211.2 162.24 L211.2 181.28 C211.2 200.32 197.6 211.2 184 216.64 C170.4 211.2 156.8 200.32 156.8 181.28 L156.8 162.24 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

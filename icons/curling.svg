@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="curling,stone,ice,winter sport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 152 C48 124 60 112 88 112 H168 C196 112 208 124 208 152 V168 C208 196 196 208 168 208 H88 C60 208 48 196 48 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 152 C48 124 60 112 88 112 H168 C196 112 208 124 208 152 V168 C208 196 196 208 168 208 H88 C60 208 48 196 48 168 Z"/>
+    <path d="M96 112 V92 A20 20 0 0 1 116 72 H196"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 160 L180 160"/>
+  </g>
+</svg>

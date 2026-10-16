@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="kayak,paddle,canoe,water,water sport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 152 C72 124 184 124 224 152 C184 188 72 188 32 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 152 C72 124 184 124 224 152 C184 188 72 188 32 152 Z"/>
+    <path d="M79.24 98.55 L176.76 181.45"/>
+    <path d="M39.69 83.31 L64.07 104.04 A14 14 0 0 0 82.21 82.7 L57.83 61.98 A14 14 0 0 0 39.69 83.31 Z"/>
+    <path d="M173.79 197.3 L198.17 218.02 A14 14 0 1 0 216.31 196.69 L191.93 175.96 A14 14 0 0 0 173.79 197.3 Z"/>
+  </g>
+</svg>

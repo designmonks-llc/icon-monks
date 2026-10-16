@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="rollercoaster,amusement park,ride,fun">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="76" y="56" width="56" height="40" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 184 C64 184 64 96 104 96 C144 96 144 160 172 160 C196 160 204 128 224 128"/>
+    <rect x="76" y="56" width="56" height="40" rx="10"/>
+    <path d="M104 128 L104 216"/>
+    <path d="M172 192 L172 216"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+</svg>

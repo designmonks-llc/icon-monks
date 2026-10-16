@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="chess,rook,castle piece,castle,piece">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 184 L100 112 L64 96 V40 H86 V68 H116 V40 H140 V68 H170 V40 H192 V96 L156 112 L172 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 184 L100 112 L64 96 V40 H86 V68 H116 V40 H140 V68 H170 V40 H192 V96 L156 112 L172 184 Z"/>
+    <path d="M56 216 L200 216"/>
+  </g>
+</svg>

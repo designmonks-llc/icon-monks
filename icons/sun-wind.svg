@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="sunny windy,breeze,weather,sun">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="92" cy="92" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="92" cy="92" r="24"/>
+    <path d="M62.3 121.7 L52.4 131.6"/>
+    <path d="M50 92 L36 92"/>
+    <path d="M62.3 62.3 L52.4 52.4"/>
+    <path d="M92 50 L92 36"/>
+    <path d="M121.7 62.3 L131.6 52.4"/>
+    <path d="M134 92 L148 92"/>
+    <path d="M121.7 121.7 L131.6 131.6"/>
+    <path d="M104 168 H184 A20 20 0 1 0 164 148"/>
+    <path d="M48 208 L200 208"/>
+  </g>
+</svg>

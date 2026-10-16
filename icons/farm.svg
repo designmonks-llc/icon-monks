@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="farm,barn,agriculture,rural">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V128 L48 92 L92 68 L136 92 L152 128 V216 Z"/>
+    <path d="M188 216 V84 A18 18 0 0 1 224 84 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V128 L48 92 L92 68 L136 92 L152 128 V216"/>
+    <path d="M188 216 V84 A18 18 0 0 1 224 84 V216"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 216 V160 H116 V216"/>
+    <path d="M68 160 L116 216"/>
+    <path d="M116 160 L68 216"/>
+    <path d="M188 128 L224 128"/>
+  </g>
+</svg>

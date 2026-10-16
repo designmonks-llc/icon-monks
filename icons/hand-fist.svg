@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="fist,power,solidarity,punch">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 92 A18 18 0 0 1 100 92 A18 18 0 0 1 136 92 A18 18 0 0 1 172 92 A18 18 0 0 1 208 92 V160 C208 196 184 220 148 220 H116 C84 220 64 200 64 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 92 A18 18 0 0 1 100 92 A18 18 0 0 1 136 92 A18 18 0 0 1 172 92 A18 18 0 0 1 208 92 V160 C208 196 184 220 148 220 H116 C84 220 64 200 64 168 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 92 L100 120"/>
+    <path d="M136 92 L136 120"/>
+    <path d="M172 92 L172 120"/>
+    <path d="M64 152 H128 A16 16 0 0 0 144 136"/>
+  </g>
+</svg>

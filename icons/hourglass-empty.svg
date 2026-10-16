@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="hourglass,time up,timer,waiting">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 32 H184 V64 C184 100 136 112 136 128 C136 144 184 156 184 192 V224 H72 V192 C72 156 120 144 120 128 C120 112 72 100 72 64 Z"/>
+    <path d="M48 32 L208 32"/>
+    <path d="M48 224 L208 224"/>
+  </g>
+</svg>

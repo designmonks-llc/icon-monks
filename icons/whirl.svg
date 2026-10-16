@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="whirl,swirl,vortex,spiral">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M37.79 95.17 A96 96 0 1 1 128 224"/>
+    <path d="M173.96 89.43 A60 60 0 1 1 76.04 98"/>
+    <path d="M132.17 151.64 A24 24 0 1 1 148.78 116"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="hourglass,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74.43 32 L184 32 L184 64 C184 86.06 165.97 99.11 152.02 109.59"/>
+    <path d="M181.57 224 L72 224 L72 192 C72 169.94 90.03 156.89 103.98 146.41"/>
+    <path d="M74.43 32 L208 32"/>
+    <path d="M48 224 L181.57 224"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

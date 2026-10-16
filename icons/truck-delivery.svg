@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="delivery truck,shipping,courier,fast">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 56 H136 A16 16 0 0 1 152 72 V160 H88 V72 A16 16 0 0 1 104 56 Z"/>
+    <path d="M152 96 H188 L224 136 V160 H152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 56 H136 A16 16 0 0 1 152 72 V160 H88 V72 A16 16 0 0 1 104 56 Z"/>
+    <path d="M152 96 H188 L224 136 V160 H152"/>
+    <circle cx="116" cy="188" r="20"/>
+    <circle cx="192" cy="188" r="20"/>
+    <path d="M32 96 L56 96"/>
+    <path d="M40 128 L56 128"/>
+  </g>
+</svg>

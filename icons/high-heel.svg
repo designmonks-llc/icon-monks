@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="heels,shoe,fashion,high heels,stiletto">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 72 V140 L56 216 H72 L80 152 C108 156 128 180 152 200 H204 A20 20 0 0 0 220 172 C200 160 176 154 152 150 C112 142 84 108 72 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 72 V140 L56 216 H72 L80 152 C108 156 128 180 152 200 H204 A20 20 0 0 0 220 172 C200 160 176 154 152 150 C112 142 84 108 72 72 Z"/>
+  </g>
+</svg>

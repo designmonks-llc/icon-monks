@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="identification card,off,disabled,hidden,identification">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101.25 56 L210 56 A14 14 0 0 1 224 70 L224 178.75"/>
+    <path d="M154.75 200 L46 200 A14 14 0 0 1 32 186 L32 77.25"/>
+    <path d="M153.25 108 L188 108"/>
+    <path d="M119.85 165.1 L119.94 166.04 L120 168 L60 168 L60.06 166.04 L60.25 164.17 L60.55 162.38 L60.97 160.67 L61.51 159.04 L62.16 157.5 L62.91 156.04 L63.78 154.67 L64.75 153.38 L65.82 152.17 L66.98 151.04 L68.25 150 L69.61 149.04 L71.06 148.17 L72.6 147.38 L74.22 146.67 L75.93 146.04 L77.72 145.5 L79.59 145.04 L81.53 144.67 L83.54 144.38 L85.63 144.17 L87.78 144.04 L90 144 L92.22 144.04 L94.37 144.17 L96.46 144.38 L98.47 144.67 L99.64 144.89"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

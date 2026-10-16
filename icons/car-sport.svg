@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="roadster,sports car,convertible,car">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 124 H140 L196 134 C212 137 224 148 224 160 V164 H44 A12 12 0 0 1 32 152 V136 A12 12 0 0 1 44 124 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 124 H140 L196 134 C212 137 224 148 224 160 V164 H44 A12 12 0 0 1 32 152 V136 A12 12 0 0 1 44 124 Z"/>
+    <path d="M142 124 L118 92"/>
+    <path d="M80 124 L90 102"/>
+    <circle cx="80" cy="192" r="20"/>
+    <circle cx="180" cy="192" r="20"/>
+  </g>
+</svg>

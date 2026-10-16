@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="flat bed,first class,airline seat,sleep">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 L32 168 L224 168"/>
+    <circle cx="80" cy="124" r="20"/>
+    <path d="M120 128 L208 128"/>
+    <path d="M128 168 L128 216"/>
+    <path d="M88 216 L168 216"/>
+  </g>
+</svg>

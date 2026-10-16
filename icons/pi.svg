@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="pi,math,constant,greek">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 96 Q56 72 88 72 H212"/>
+    <path d="M104 72 Q104 164 76 204"/>
+    <path d="M164 72 V176 Q164 204 192 204"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="baseball,bat,sports,softball">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M54.49 190.2 L82.77 161.92 C111.05 133.63 115.3 109.59 142.17 79.89 L161.97 60.09 A24 24 0 0 1 195.91 94.03 L176.11 113.83 C146.41 140.7 122.37 144.95 94.08 173.23 L65.8 201.51 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54.49 190.2 L82.77 161.92 C111.05 133.63 115.3 109.59 142.17 79.89 L161.97 60.09 A24 24 0 0 1 195.91 94.03 L176.11 113.83 C146.41 140.7 122.37 144.95 94.08 173.23 L65.8 201.51 Z"/>
+    <path d="M37.51 190.2 L65.8 218.49"/>
+  </g>
+</svg>

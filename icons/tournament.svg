@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="tournament,bracket,competition,matches">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="204" cy="128" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L88 48 L88 96 L32 96"/>
+    <path d="M32 160 L88 160 L88 208 L32 208"/>
+    <path d="M88 72 L144 72 L144 184 L88 184"/>
+    <path d="M144 128 L180 128"/>
+    <circle cx="204" cy="128" r="20"/>
+  </g>
+</svg>

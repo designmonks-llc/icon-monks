@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="face id,face scan,recognition,scan,smiley">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="60"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 L32 32 L72 32"/>
+    <path d="M184 32 L224 32 L224 72"/>
+    <path d="M224 184 L224 224 L184 224"/>
+    <path d="M72 224 L32 224 L32 184"/>
+    <circle cx="128" cy="128" r="60"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 144 A30 30 0 0 0 156 144"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="106" cy="114" r="12"/>
+    <circle cx="150" cy="114" r="12"/>
+  </g>
+</svg>

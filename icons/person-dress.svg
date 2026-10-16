@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="woman,person,dress,female">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="52" r="20"/>
+    <path d="M104 92 H152 C160 92 166 97 168 104 L188 164 C190 172 186 176 178 176 H78 C70 176 66 172 68 164 L88 104 C90 97 96 92 104 92 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="52" r="20"/>
+    <path d="M104 92 H152 C160 92 166 97 168 104 L188 164 C190 172 186 176 178 176 H78 C70 176 66 172 68 164 L88 104 C90 97 96 92 104 92 Z"/>
+    <path d="M108 176 L108 216"/>
+    <path d="M148 176 L148 216"/>
+  </g>
+</svg>

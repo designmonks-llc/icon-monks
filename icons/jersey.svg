@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="jersey,tank top,uniform,sports,sports shirt">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 32 H104 C104 56 114 68 128 68 C142 68 152 56 152 32 H176 C176 72 188 92 208 104 V208 A16 16 0 0 1 192 224 H64 A16 16 0 0 1 48 208 V104 C68 92 80 72 80 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 32 H104 C104 56 114 68 128 68 C142 68 152 56 152 32 H176 C176 72 188 92 208 104 V208 A16 16 0 0 1 192 224 H64 A16 16 0 0 1 48 208 V104 C68 92 80 72 80 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 120 L152 120 L120 184"/>
+  </g>
+</svg>

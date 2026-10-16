@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="police car,cop,emergency,patrol">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 120H208C216.84 120 224 127.16 224 136V176C224 184.84 216.84 192 208 192H48C39.16 192 32 184.84 32 176V136C32 127.16 39.16 120 48 120Z"/>
+    <path d="M108 64 V56 A20 20 0 0 1 148 56 V64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 120H208C216.84 120 224 127.16 224 136V176C224 184.84 216.84 192 208 192H48C39.16 192 32 184.84 32 176V136C32 127.16 39.16 120 48 120Z"/>
+    <path d="M56 120 80 64H176L200 120"/>
+    <path d="M56 192V208C56 212.42 59.58 216 64 216H80C84.42 216 88 212.42 88 208V192"/>
+    <path d="M168 192V208C168 212.42 171.58 216 176 216H192C196.42 216 200 212.42 200 208V192"/>
+    <path d="M108 64 V56 A20 20 0 0 1 148 56 V64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 160H144"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="72" cy="156" r="16"/>
+    <circle cx="184" cy="156" r="16"/>
+  </g>
+</svg>

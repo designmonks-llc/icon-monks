@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="beach,disabled,off,maps">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110.48 65.22 A32 32 0 0 1 160 92 A32 32 0 0 1 154.78 109.52"/>
+    <path d="M128 42 L128 28"/>
+    <path d="M163.36 56.64 L173.25 46.75"/>
+    <path d="M178 92 L192 92"/>
+    <path d="M32 168 C48 156 64 156 80 168 C94.97 179.23 109.94 179.95 124.91 170.17"/>
+    <path d="M32 208 C48 196 64 196 80 208 C96 220 112 220 128 208 C136.6 201.55 145.2 198.57 153.8 199.05"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

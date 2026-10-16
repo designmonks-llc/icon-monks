@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="added to playlist,queue,done,music,playlist">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="168" cy="120" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L136 64"/>
+    <path d="M40 120 L104 120"/>
+    <path d="M40 176 L120 176"/>
+    <circle cx="168" cy="120" r="24"/>
+    <path d="M192 120 L192 40"/>
+    <path d="M192 40 L224 56"/>
+    <path d="M162 202 L180 220 L214 184"/>
+  </g>
+</svg>

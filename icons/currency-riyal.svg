@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency riyal,currency,money,riyal,saudi arabia,qatar,yemen,oman,iran,sar">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 40 V176 A24 24 0 0 1 76 200"/>
+    <path d="M156 56 L156 176"/>
+    <path d="M48 132 L208 100"/>
+    <path d="M48 172 L208 140"/>
+    <path d="M148 216 L208 204"/>
+  </g>
+</svg>

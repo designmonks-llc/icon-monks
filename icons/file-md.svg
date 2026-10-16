@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="md,markdown,text,file type,readme">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M68 224 L68 164 L92 201.2 L116 164 L116 224"/>
-    <path d="M148 164 H164 A24 24 0 0 1 188 188 V200 A24 24 0 0 1 164 224 H148 Z"/>
+    <path d="M71 224 L71 160 L93 198.4 L115 160 L115 224"/>
+    <path d="M147 160 H162.2 A22.8 22.8 0 0 1 185 182.8 V201.2 A22.8 22.8 0 0 1 162.2 224 H147 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

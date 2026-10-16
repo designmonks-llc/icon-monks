@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="engineer,builder,hard hat,worker,construction worker">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 88 A44 44 0 0 1 172 88 Z"/>
+    <path d="M48 216 C48 188 84 176 128 176 C172 176 208 188 208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 88 A44 44 0 0 1 172 88"/>
+    <path d="M60 88 L196 88"/>
+    <path d="M100 88 A36 36 0 1 0 156 88"/>
+    <path d="M48 216 C48 188 84 176 128 176 C172 176 208 188 208 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 56 L128 88"/>
+  </g>
+</svg>

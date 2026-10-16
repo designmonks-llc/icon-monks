@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="grass,lawn,blades,field">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 L224 216"/>
+    <path d="M56 216 C56 180 52 152 36 128"/>
+    <path d="M92 216 C92 168 96 128 84 88"/>
+    <path d="M128 216 C128 152 136 96 160 56"/>
+    <path d="M164 216 C164 172 172 140 196 112"/>
+    <path d="M200 216 C200 192 204 172 220 156"/>
+  </g>
+</svg>

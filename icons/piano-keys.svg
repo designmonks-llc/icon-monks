@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="piano,keyboard instrument,music,keys,synth">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="68" y="48" width="24" height="80" rx="6"/>
+    <rect x="164" y="48" width="24" height="80" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+    <path d="M128 48 L128 208"/>
+    <path d="M80 128 L80 208"/>
+    <path d="M176 128 L176 208"/>
+    <rect x="68" y="48" width="24" height="80" rx="6"/>
+    <rect x="164" y="48" width="24" height="80" rx="6"/>
+  </g>
+</svg>

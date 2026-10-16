@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="nonbinary,gender,symbol">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="164" r="60"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="164" r="60"/>
+    <path d="M128 104 L128 32"/>
+    <path d="M106 46 L150 82"/>
+    <path d="M150 46 L106 82"/>
+  </g>
+</svg>

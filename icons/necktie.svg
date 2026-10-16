@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tie,necktie,formal,business">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 36 L148 36 Q156 36 153.9 43.72 L146.1 72.28 Q144 80 136 80 L120 80 Q112 80 109.9 72.28 L102.1 43.72 Q100 36 108 36 Z"/>
+    <path d="M120 80 L136 80 Q144 80 146.08 87.72 L169.92 176.28 Q172 184 166.08 189.38 L133.92 218.62 Q128 224 122.08 218.62 L89.92 189.38 Q84 184 86.08 176.28 L109.92 87.72 Q112 80 120 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 36 L148 36 Q156 36 153.9 43.72 L146.1 72.28 Q144 80 136 80 L120 80 Q112 80 109.9 72.28 L102.1 43.72 Q100 36 108 36 Z"/>
+    <path d="M120 80 L136 80 Q144 80 146.08 87.72 L169.92 176.28 Q172 184 166.08 189.38 L133.92 218.62 Q128 224 122.08 218.62 L89.92 189.38 Q84 184 86.08 176.28 L109.92 87.72 Q112 80 120 80 Z"/>
+  </g>
+</svg>

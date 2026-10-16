@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="php,code,server,file type,script">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M41 224 V164 H60.2 A16.8 16.8 0 0 1 60.2 197.6 H41"/>
-    <path d="M109 164 L109 224"/>
-    <path d="M147 164 L147 224"/>
-    <path d="M109 194 L147 194"/>
-    <path d="M179 224 V164 H198.2 A16.8 16.8 0 0 1 198.2 197.6 H179"/>
+    <path d="M44.02 224 V160 H60.74 A17.28 17.28 0 0 1 60.74 194.56 H44.02"/>
+    <path d="M109.98 160 L109.98 224"/>
+    <path d="M145.98 160 L145.98 224"/>
+    <path d="M109.98 192 L145.98 192"/>
+    <path d="M177.98 224 V160 H194.7 A17.28 17.28 0 0 1 194.7 194.56 H177.98"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

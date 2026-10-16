@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="pickleball,paddle,ball,racket">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M164.53 49.67 L184.33 69.47 A38 38 0 0 1 184.33 123.21 L153.21 154.33 A38 38 0 0 1 99.47 154.33 L79.67 134.53 A38 38 0 0 1 79.67 80.79 L110.79 49.67 A38 38 0 0 1 164.53 49.67 Z"/>
+    <path d="M64.12 147.25 L44.32 167.05 A16 16 0 1 0 66.95 189.68 L86.75 169.88 A16 16 0 0 0 64.12 147.25 Z"/>
+    <circle cx="188" cy="188" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M164.53 49.67 L184.33 69.47 A38 38 0 0 1 184.33 123.21 L153.21 154.33 A38 38 0 0 1 99.47 154.33 L79.67 134.53 A38 38 0 0 1 79.67 80.79 L110.79 49.67 A38 38 0 0 1 164.53 49.67 Z"/>
+    <path d="M89.57 144.43 L79.67 154.33"/>
+    <path d="M64.12 147.25 L44.32 167.05 A16 16 0 1 0 66.95 189.68 L86.75 169.88 A16 16 0 0 0 64.12 147.25 Z"/>
+    <circle cx="188" cy="188" r="32"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="176" cy="176" r="8"/>
+    <circle cx="200" cy="180" r="8"/>
+    <circle cx="184" cy="202" r="8"/>
+  </g>
+</svg>

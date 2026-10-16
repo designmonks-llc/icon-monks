@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="coffin,death,funeral,halloween">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M90.05 42.42 Q96 32 108 32 L148 32 Q160 32 165.95 42.42 L186.05 77.58 Q192 88 189.91 99.82 L170.09 212.18 Q168 224 156 224 L100 224 Q88 224 85.91 212.18 L66.09 99.82 Q64 88 69.95 77.58 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90.05 42.42 Q96 32 108 32 L148 32 Q160 32 165.95 42.42 L186.05 77.58 Q192 88 189.91 99.82 L170.09 212.18 Q168 224 156 224 L100 224 Q88 224 85.91 212.18 L66.09 99.82 Q64 88 69.95 77.58 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 156"/>
+    <path d="M100 100 L156 100"/>
+  </g>
+</svg>

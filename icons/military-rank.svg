@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="military rank,chevrons,insignia,sergeant">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 108 L128 60 L208 108"/>
+    <path d="M48 152 L128 104 L208 152"/>
+    <path d="M48 196 L128 148 L208 196"/>
+  </g>
+</svg>

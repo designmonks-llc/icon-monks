@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="changing table,restroom,diaper,baby">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="52" r="20"/>
+    <path d="M64 88 L64 148"/>
+    <path d="M44 216 L64 148 L84 216"/>
+    <path d="M64 104 L100 132"/>
+    <path d="M104 164 L224 164"/>
+    <path d="M208 164 L208 216"/>
+    <circle cx="128" cy="132" r="16"/>
+    <path d="M160 140 L208 140"/>
+  </g>
+</svg>

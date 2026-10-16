@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="trees,forest,woods,nature">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M143.04 64.46 A60 60 0 1 0 99.93 155.47 A72 72 0 0 1 143.04 64.46 Z"/>
+    <circle cx="168" cy="132" r="48"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M143.04 64.46 A60 60 0 1 0 99.93 155.47"/>
+    <path d="M92 156 L92 224"/>
+    <circle cx="168" cy="132" r="48"/>
+    <path d="M168 180 L168 224"/>
+  </g>
+</svg>

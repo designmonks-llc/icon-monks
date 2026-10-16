@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit resistor,circuit,electronics,schematic,resistor">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L56 128 L68 96 L92 160 L116 96 L140 160 L164 96 L188 160 L200 128 L224 128"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="soundwave,audio,waveform,sound,voiceprint">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 104 L48 152"/>
+    <path d="M80 68 L80 188"/>
+    <path d="M112 36 L112 220"/>
+    <path d="M144 72 L144 184"/>
+    <path d="M176 52 L176 204"/>
+    <path d="M208 100 L208 156"/>
+  </g>
+</svg>

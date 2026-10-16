@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="point left,finger,back,gesture,hand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M134 76 L58 76 A18 18 0 0 0 58 112 L112 112 A18 18 0 0 0 112 148 L116 148 A18 18 0 0 0 116 184 L122 184 A18 18 0 0 0 122 220 L152 220 C196 220 224 192 224 152 L224 132 C224 108 214 92 196 78 L146 40 A18 18 0 0 0 124 68 L134 76 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M134 76 L58 76 A18 18 0 0 0 58 112 L112 112 A18 18 0 0 0 112 148 L116 148 A18 18 0 0 0 116 184 L122 184 A18 18 0 0 0 122 220 L152 220 C196 220 224 192 224 152 L224 132 C224 108 214 92 196 78 L146 40 A18 18 0 0 0 124 68 L134 76 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 148 L150 148"/>
+    <path d="M122 184 L150 184"/>
+  </g>
+</svg>

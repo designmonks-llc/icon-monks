@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="family,parents,child,household">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="68" cy="72" r="24"/>
+    <circle cx="188" cy="72" r="24"/>
+    <circle cx="128" cy="132" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="68" cy="72" r="24"/>
+    <circle cx="188" cy="72" r="24"/>
+    <circle cx="128" cy="132" r="18"/>
+    <path d="M32 200 V156 C32 128 48 112 68 112 C88 112 104 128 104 148"/>
+    <path d="M224 200 V156 C224 128 208 112 188 112 C168 112 152 128 152 148"/>
+    <path d="M96 216 C96 188 108 172 128 172 C148 172 160 188 160 216"/>
+  </g>
+</svg>

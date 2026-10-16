@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sewing,needle,thread,tailor">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="48" width="64" height="160"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L144 48"/>
+    <path d="M32 208 L144 208"/>
+    <path d="M56 48 V208"/>
+    <path d="M120 48 V208"/>
+    <path d="M120 168 C160 168 176 120 196 84"/>
+    <path d="M214.7 79 L220.46 55.72 A14 14 0 0 0 193.3 49 L187.54 72.28 A14 14 0 0 0 214.7 79 Z"/>
+    <path d="M197.76 89.22 L188 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 96 L96 96"/>
+    <path d="M80 128 L96 128"/>
+    <path d="M80 160 L96 160"/>
+  </g>
+</svg>

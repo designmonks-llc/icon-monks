@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="repeat off,no loop,playback,disabled">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 136 V104 A40 40 0 0 1 80 64 H216"/>
+    <path d="M184 32 L216 64 L184 96"/>
+    <path d="M216 120 V152 A40 40 0 0 1 176 192 H40"/>
+    <path d="M72 224 L40 192 L72 160"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

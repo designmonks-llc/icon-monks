@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music collection,albums,playlist,songs,library">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="96" width="128" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="96" width="128" height="128" rx="14"/>
+    <path d="M64 64 H176 A16 16 0 0 1 192 80 V192"/>
+    <path d="M96 32 H208 A16 16 0 0 1 224 48 V160"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="84" cy="184" r="14"/>
+    <path d="M98 184 L98 128"/>
+    <path d="M98 128 L126 142"/>
+  </g>
+</svg>

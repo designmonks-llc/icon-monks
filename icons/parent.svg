@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="parent,child,family,guardian">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="84" cy="56" r="24"/>
+    <circle cx="184" cy="124" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="84" cy="56" r="24"/>
+    <path d="M84 100 L84 152"/>
+    <path d="M40 144 L84 108"/>
+    <path d="M52 220 L84 152 L116 220"/>
+    <circle cx="184" cy="124" r="16"/>
+    <path d="M184 154 L184 184"/>
+    <path d="M84 108 L140 150 L184 162 L212 184"/>
+    <path d="M162 220 L184 184 L206 220"/>
+  </g>
+</svg>

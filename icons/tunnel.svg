@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="underpass,road tunnel,passage,tunnel,road">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V128 A96 96 0 0 1 224 128 V216 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M80 208 V136 A48 48 0 0 1 176 136 V208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V128 A96 96 0 0 1 224 128 V216"/>
+    <path d="M72 216 V136 A56 56 0 0 1 184 136 V216"/>
+    <path d="M32 216 L224 216"/>
+    <path d="M128 176 L128 216"/>
+  </g>
+</svg>

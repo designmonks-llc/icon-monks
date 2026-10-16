@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="flask,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M85.67 128.1 L44 192 C36 204 44 216 60 216 L173.57 216"/>
+    <path d="M169.95 127.52 L152 100 L152 40"/>
+    <path d="M88 40 L168 40"/>
+    <path d="M70.09 152 L109.57 152"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

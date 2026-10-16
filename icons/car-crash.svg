@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="accident,collision,crash,car,insurance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44.8 132.8 L172.8 132.8 A12.8 12.8 0 0 1 185.6 145.6 L185.6 177.6 A12.8 12.8 0 0 1 172.8 190.4 L44.8 190.4 A12.8 12.8 0 0 1 32 177.6 L32 145.6 A12.8 12.8 0 0 1 44.8 132.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44.8 132.8 L172.8 132.8 A12.8 12.8 0 0 1 185.6 145.6 L185.6 177.6 A12.8 12.8 0 0 1 172.8 190.4 L44.8 190.4 A12.8 12.8 0 0 1 32 177.6 L32 145.6 A12.8 12.8 0 0 1 44.8 132.8 Z"/>
+    <path d="M51.2 132.8 L70.4 88 L147.2 88 L166.4 132.8"/>
+    <path d="M51.2 190.4 L51.2 203.2 A6.4 6.4 0 0 0 57.6 209.6 L70.4 209.6 A6.4 6.4 0 0 0 76.8 203.2 L76.8 190.4"/>
+    <path d="M140.8 190.4 L140.8 203.2 A6.4 6.4 0 0 0 147.2 209.6 L160 209.6 A6.4 6.4 0 0 0 166.4 203.2 L166.4 190.4"/>
+    <path d="M176 72 L168 44"/>
+    <path d="M196 88 L220 64"/>
+    <path d="M204 112 L224 108"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 164.8 L121.6 164.8"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="64" cy="161.6" r="14"/>
+    <circle cx="153.6" cy="161.6" r="14"/>
+  </g>
+</svg>

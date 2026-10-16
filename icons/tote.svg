@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tote bag,beach bag,carry bag">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 H208 L192 208 A12 12 0 0 1 180 216 H76 A12 12 0 0 1 64 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 H208 L192 208 A12 12 0 0 1 180 216 H76 A12 12 0 0 1 64 208 Z"/>
+    <path d="M88 112 V88 A40 40 0 0 1 168 88 V112"/>
+  </g>
+</svg>

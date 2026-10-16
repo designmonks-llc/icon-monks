@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="cube puzzle,twisty puzzle,brain teaser">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 84 L80 40 L220 40 L220 180 L176 224 L36 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 84 L80 40 L220 40 L220 180 L176 224 L36 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 84 L176 84 L176 224"/>
+    <path d="M176 84 L220 40"/>
+    <path d="M82.67 224 L82.67 84 L126.67 40"/>
+    <path d="M36 130.67 L176 130.67 L220 86.67"/>
+    <path d="M129.33 224 L129.33 84 L173.33 40"/>
+    <path d="M36 177.33 L176 177.33 L220 133.33"/>
+  </g>
+</svg>

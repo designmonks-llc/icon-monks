@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="heat,heating,hot,warm">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 212 Q64 190 80 168 Q96 146 80 124 Q64 102 80 80 Q96 58 80 36"/>
+    <path d="M128 212 Q112 190 128 168 Q144 146 128 124 Q112 102 128 80 Q144 58 128 36"/>
+    <path d="M176 212 Q160 190 176 168 Q192 146 176 124 Q160 102 176 80 Q192 58 176 36"/>
+  </g>
+</svg>

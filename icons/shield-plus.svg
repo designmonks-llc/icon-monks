@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="shield,add,plus,security,health insurance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L208 64 V120 C208 176 168 208 128 224 C88 208 48 176 48 120 V64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L208 64 V120 C208 176 168 208 128 224 C88 208 48 176 48 120 V64 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 92 L128 164"/>
+    <path d="M92 128 L164 128"/>
+  </g>
+</svg>

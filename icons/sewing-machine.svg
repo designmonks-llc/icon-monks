@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sewing,tailor,machine,stitch">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 56 L200 56 Q216 56 216 72 L216 180 Q216 184 212 184 L172 184 Q168 184 168 180 L168 116 Q168 104 156 104 L108 104 Q96 104 96 116 L96 128 Q96 136 88 136 L56 136 Q48 136 48 128 L48 72 Q48 56 64 56 Z"/>
+    <rect x="32" y="184" width="192" height="32" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 56 L200 56 Q216 56 216 72 L216 180 Q216 184 212 184 L172 184 Q168 184 168 180 L168 116 Q168 104 156 104 L108 104 Q96 104 96 116 L96 128 Q96 136 88 136 L56 136 Q48 136 48 128 L48 72 Q48 56 64 56 Z"/>
+    <rect x="32" y="184" width="192" height="32" rx="10"/>
+    <path d="M72 136 L72 164"/>
+    <path d="M120 56 L120 36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 80 L200 80"/>
+  </g>
+</svg>

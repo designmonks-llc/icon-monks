@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="ferry,boat,ship,transport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 160 H224 L200 208 H64 Z"/>
+    <path d="M56 160 V124 A12 12 0 0 1 68 112 H180 L200 160 Z"/>
+    <path d="M88 112 V84 A8 8 0 0 1 96 76 H148 L164 112 Z"/>
+    <path d="M104 76 L108 48 H132 L136 76 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 160 H224 L200 208 H64 Z"/>
+    <path d="M56 160 V124 A12 12 0 0 1 68 112 H180 L200 160"/>
+    <path d="M88 112 V84 A8 8 0 0 1 96 76 H148 L164 112"/>
+    <path d="M104 76 L108 48 H132 L136 76"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="88" cy="136" r="12"/>
+    <circle cx="120" cy="136" r="12"/>
+    <circle cx="152" cy="136" r="12"/>
+  </g>
+</svg>

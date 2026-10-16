@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="lotus,yoga,zen,flower,spa">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 196 C96 172 92 108 128 52 C164 108 160 172 128 196 Z"/>
+    <path d="M128 196 C84 196 56 160 52 104 C76 108 94 116 106 128 L128 196 Z"/>
+    <path d="M128 196 C172 196 200 160 204 104 C180 108 162 116 150 128 L128 196 Z"/>
+    <path d="M112 198 C72 204 44 188 32 160 C48 152 60 150 72 152 L112 198 Z"/>
+    <path d="M144 198 C184 204 212 188 224 160 C208 152 196 150 184 152 L144 198 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 196 C96 172 92 108 128 52 C164 108 160 172 128 196 Z"/>
+    <path d="M128 196 C84 196 56 160 52 104 C76 108 94 116 106 128"/>
+    <path d="M128 196 C172 196 200 160 204 104 C180 108 162 116 150 128"/>
+    <path d="M112 198 C72 204 44 188 32 160 C48 152 60 150 72 152"/>
+    <path d="M144 198 C184 204 212 188 224 160 C208 152 196 150 184 152"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M106 128 C104 156 112 182 128 196"/>
+    <path d="M150 128 C152 156 144 182 128 196"/>
+  </g>
+</svg>

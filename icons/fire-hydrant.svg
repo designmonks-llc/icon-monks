@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="hydrant,firefighter,street,water,fire">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 96 A48 48 0 0 1 176 96 Z"/>
+    <path d="M88 96 V120 H64 V160 H88 V216 H168 V160 H192 V120 H168 V96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 96 A48 48 0 0 1 176 96"/>
+    <path d="M64 96 L192 96"/>
+    <path d="M88 96 V120 H64 V160 H88 V216 M168 216 V160 H192 V120 H168 V96"/>
+    <path d="M64 216 L192 216"/>
+    <path d="M128 32 L128 48"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="140" r="16"/>
+  </g>
+</svg>

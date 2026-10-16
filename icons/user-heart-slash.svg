@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="empathy,care,disabled">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133.72 119.58 A40 40 0 0 0 192 84 A40 40 0 0 0 112 84 A40 40 0 0 0 116.42 102.28"/>
+    <path d="M223.77 209.63 C221.1 173.52 195.68 152.34 162.74 148.6"/>
+    <path d="M68 210.48 C68 210.48 100.64 192.8 100.64 171.72 A17 17 0 0 0 68 164.92 A17 17 0 0 0 35.36 171.72 C35.36 192.8 68 210.48 68 210.48 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

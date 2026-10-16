@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="comet,space,astronomy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="84" cy="172" r="44"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="84" cy="172" r="44"/>
+    <path d="M115.11 140.89 L208 48"/>
+    <path d="M52.89 140.89 L117.94 75.83"/>
+    <path d="M115.11 203.11 L180.17 138.06"/>
+  </g>
+</svg>

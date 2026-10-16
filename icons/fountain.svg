@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="fountain,water,park,plaza">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 176 H216 V192 A24 24 0 0 1 192 216 H64 A24 24 0 0 1 40 192 Z"/>
+    <path d="M80 112 H176 C176 136 156 148 128 148 C100 148 80 136 80 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 176 H216 V192 A24 24 0 0 1 192 216 H64 A24 24 0 0 1 40 192 Z"/>
+    <path d="M80 112 H176 C176 136 156 148 128 148 C100 148 80 136 80 112 Z"/>
+    <path d="M128 148 L128 176"/>
+    <path d="M128 112 L128 56"/>
+    <path d="M128 56 C80 48 52 80 48 140"/>
+    <path d="M128 56 C176 48 204 80 208 140"/>
+  </g>
+</svg>

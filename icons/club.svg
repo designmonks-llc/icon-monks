@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="club,cards,suit,poker">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96.65 107.95 A42 42 0 1 0 123.47 162.36 Q124 196 96 212 H160 Q132 196 132.53 162.36 A42 42 0 1 0 159.35 107.95 A42 42 0 1 0 96.65 107.95 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96.65 107.95 A42 42 0 1 0 123.47 162.36 Q124 196 96 212 H160 Q132 196 132.53 162.36 A42 42 0 1 0 159.35 107.95 A42 42 0 1 0 96.65 107.95 Z"/>
+  </g>
+</svg>

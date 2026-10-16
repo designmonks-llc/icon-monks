@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="drop,favorite,starred,water,liquid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M163.74 127.52 C152.81 93.65 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130.13 210.42 A60 60 0 0 1 163.74 127.52 Z"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163.74 127.52 C152.81 93.65 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130.13 210.42"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+</svg>

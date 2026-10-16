@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="favourite person,friend,care,user,love">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM130.26 216C125 206.52 122 195.61 122 184C122 172.33 125.03 161.37 130.34 151.86C122.2 149.3 113.32 148 104 148C64 148 32 172 32 216H130.26Z"/>
+    <path d="M188 210.48 C188 210.48 155.36 192.8 155.36 171.72 A17 17 0 0 1 188 164.92 A17 17 0 0 1 220.64 171.72 C220.64 192.8 188 210.48 188 210.48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
+    <path d="M32 216 C32 172 64 148 104 148 C113.32 148 122.21 149.3 130.36 151.86"/>
+    <path d="M188 210.48 C188 210.48 155.36 192.8 155.36 171.72 A17 17 0 0 1 188 164.92 A17 17 0 0 1 220.64 171.72 C220.64 192.8 188 210.48 188 210.48 Z"/>
+  </g>
+</svg>

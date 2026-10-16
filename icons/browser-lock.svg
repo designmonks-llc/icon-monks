@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="locked page,secure browser,private window">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M130.9 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 136.63 A62 62 0 0 0 130.9 216 Z"/>
+    <rect x="156" y="180" width="56" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130.9 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 136.63"/>
+    <rect x="156" y="180" width="56" height="40" rx="8"/>
+    <path d="M169 180 V166 A15 15 0 0 1 199 166 V180"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 L224 104"/>
+    <path d="M104 72 L192 72"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="64" cy="72" r="10"/>
+  </g>
+</svg>

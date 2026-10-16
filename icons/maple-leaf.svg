@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="maple leaf,autumn,fall,canada">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L150 80 L180 68 L170 120 L216 100 L204 140 L224 152 L168 184 L176 204 L128 192 L80 204 L88 184 L32 152 L52 140 L40 100 L86 120 L76 68 L106 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L150 80 L180 68 L170 120 L216 100 L204 140 L224 152 L168 184 L176 204 L128 192 L80 204 L88 184 L32 152 L52 140 L40 100 L86 120 L76 68 L106 80 Z"/>
+    <path d="M128 192 L128 224"/>
+  </g>
+</svg>

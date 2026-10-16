@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="taurus,zodiac,astrology,horoscope">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="164" r="56"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="164" r="56"/>
+    <path d="M48 48 C56 92 88 108 128 108 C168 108 200 92 208 48"/>
+  </g>
+</svg>

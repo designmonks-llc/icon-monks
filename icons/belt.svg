@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="belt,buckle,clothing,fashion">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 96 H192 L224 128 L192 160 H32 Z"/>
+    <rect x="56" y="72" width="80" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 L56 96"/>
+    <path d="M32 160 L56 160"/>
+    <path d="M136 96 H192 L224 128 L192 160 H136"/>
+    <rect x="56" y="72" width="80" height="112" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 128 L136 128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="168" cy="128" r="10"/>
+    <circle cx="196" cy="128" r="9"/>
+  </g>
+</svg>

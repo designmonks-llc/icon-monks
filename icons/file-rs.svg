@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="rust,rs,source,code">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 112 V32 H152 L200 80 V112"/>
-    <path d="M80 216 V152 H102 A16 16 0 0 1 102 184 H80"/>
-    <path d="M100 184 L118 216"/>
-    <path d="M176 152 H156 A16 16 0 0 0 156 184 H160 A16 16 0 0 1 160 216 H140"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M76 224 V160 H94.72 A17.28 17.28 0 0 1 94.72 194.56 H76"/>
+    <path d="M92.2 194.56 L112 224"/>
+    <path d="M180 160 H160 A16 16 0 0 0 160 192 H164 A16 16 0 0 1 164 224 H144"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

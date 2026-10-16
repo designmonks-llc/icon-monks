@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="turbine,turbo,car,engine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M186.93 104 H204 A12 12 0 0 0 216 92 V76 A12 12 0 0 0 204 64 H120 A76 76 0 1 0 186.93 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M186.93 104 H204 A12 12 0 0 0 216 92 V76 A12 12 0 0 0 204 64 H120 A76 76 0 1 0 186.93 104 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132.73 127.27 Q148.28 111.72 167.82 144.18"/>
+    <path d="M132.73 152.73 Q148.28 168.28 115.82 187.82"/>
+    <path d="M107.27 152.73 Q91.72 168.28 72.18 135.82"/>
+    <path d="M107.27 127.27 Q91.72 111.72 124.18 92.18"/>
+  </g>
+</svg>

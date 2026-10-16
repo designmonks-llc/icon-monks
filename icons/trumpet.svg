@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="trumpet,brass,horn,music">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M172 108 L224 68 L224 172 L172 132 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 L32 136"/>
+    <path d="M32 120 L172 120"/>
+    <path d="M172 108 L224 68 L224 172 L172 132 Z"/>
+    <path d="M72 120 V156 A28 28 0 0 0 100 184 H116 A28 28 0 0 0 144 156 V120"/>
+    <path d="M72 64 L72 120"/>
+    <path d="M108 64 L108 120"/>
+    <path d="M144 64 L144 120"/>
+  </g>
+</svg>

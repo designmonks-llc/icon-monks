@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="maze,labyrinth,puzzle,path">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 32 L224 32 L224 224 L176 224"/>
+    <path d="M128 224 L32 224 L32 32"/>
+    <path d="M80 80 L176 80 L176 176"/>
+    <path d="M80 80 L80 176 L128 176"/>
+    <path d="M128 128 L176 128"/>
+    <path d="M80 176 L80 224"/>
+  </g>
+</svg>

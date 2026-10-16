@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="cone,construction,road,caution,roadwork">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 40 H144 L184 184 H72 Z"/>
+    <rect x="32" y="184" width="192" height="32" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 40 H144 L184 184 H72 Z"/>
+    <rect x="32" y="184" width="192" height="32" rx="10"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M93.33 88 L162.67 88"/>
+    <path d="M74.67 136 L181.33 136"/>
+  </g>
+</svg>

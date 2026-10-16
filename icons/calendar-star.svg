@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="special day,favourite,event,calendar">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
+    <path d="M88 32 L88 72"/>
+    <path d="M168 32 L168 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 L216 104"/>
+    <path d="M128 128 L137.4 151.06 L162.24 152.88 L143.22 168.94 L149.16 193.12 L128 180 L106.84 193.12 L112.78 168.94 L93.76 152.88 L118.6 151.06 Z"/>
+  </g>
+</svg>

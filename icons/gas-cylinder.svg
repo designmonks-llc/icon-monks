@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="propane tank,gas bottle,lpg,fuel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="96" width="144" height="128" rx="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="96" width="144" height="128" rx="36"/>
+    <path d="M128 96 L128 56"/>
+    <path d="M100 56 L156 56"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 140 L200 140"/>
+    <path d="M56 180 L200 180"/>
+  </g>
+</svg>

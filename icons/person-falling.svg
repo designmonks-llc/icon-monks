@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="fall,falling,accident,safety,slip">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="60" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="60" r="24"/>
+    <path d="M100 96 L128 152"/>
+    <path d="M44 116 L106 106 L164 76"/>
+    <path d="M204 124 L128 152 L112 216"/>
+    <path d="M152 216 L216 216"/>
+  </g>
+</svg>

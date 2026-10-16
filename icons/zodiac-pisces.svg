@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="pisces,zodiac,astrology,horoscope">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 40 A125.6 125.6 0 0 1 64 216"/>
+    <path d="M192 40 A125.6 125.6 0 0 0 192 216"/>
+    <path d="M48 128 L208 128"/>
+  </g>
+</svg>

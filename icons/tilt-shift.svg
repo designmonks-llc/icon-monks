@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="tilt shift,lens,focus,photography">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="48"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="48"/>
+    <path d="M109.68 33.76 A96 96 0 0 1 146.32 33.76"/>
+    <path d="M181.68 48.41 A96 96 0 0 1 207.59 74.32"/>
+    <path d="M222.24 109.68 A96 96 0 0 1 222.24 146.32"/>
+    <path d="M207.59 181.68 A96 96 0 0 1 181.68 207.59"/>
+    <path d="M146.32 222.24 A96 96 0 0 1 109.68 222.24"/>
+    <path d="M74.32 207.59 A96 96 0 0 1 48.41 181.68"/>
+    <path d="M33.76 146.32 A96 96 0 0 1 33.76 109.68"/>
+    <path d="M48.41 74.32 A96 96 0 0 1 74.32 48.41"/>
+  </g>
+</svg>

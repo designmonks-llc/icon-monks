@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="protected image,copyright,photo,shield">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.01 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139.28 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M184 151.36 L211.2 162.24 L211.2 181.28 C211.2 200.32 197.6 211.2 184 216.64 C170.4 211.2 156.8 200.32 156.8 181.28 L156.8 162.24 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.01 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139.28"/>
+    <path d="M184 151.36 L211.2 162.24 L211.2 181.28 C211.2 200.32 197.6 211.2 184 216.64 C170.4 211.2 156.8 200.32 156.8 181.28 L156.8 162.24 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 188 L96 136 L117 157"/>
+    <circle cx="152" cy="96" r="16"/>
+  </g>
+</svg>

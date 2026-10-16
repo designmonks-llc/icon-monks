@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="hoop,net,basket,sport,backboard">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="32" width="176" height="96" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="32" width="176" height="96" rx="14"/>
+    <path d="M80 144 L176 144"/>
+    <path d="M88 144 L104 216"/>
+    <path d="M168 144 L152 216"/>
+    <path d="M104 216 L152 216"/>
+    <path d="M96 148 L152 212"/>
+    <path d="M160 148 L104 212"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="64" width="56" height="36" rx="6"/>
+  </g>
+</svg>

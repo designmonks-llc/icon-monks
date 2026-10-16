@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="exercise,stretch,workout,sport,stretching">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="56" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="56" r="22"/>
+    <path d="M128 96 L128 152"/>
+    <path d="M72 56 L128 108 L184 56"/>
+    <path d="M80 220 L128 152 L176 220"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="play pause,toggle,media,control,toggle playback">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 64 L128 128 L40 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L128 128 L40 192 Z"/>
+    <path d="M168 64 L168 192"/>
+    <path d="M216 64 L216 192"/>
+  </g>
+</svg>

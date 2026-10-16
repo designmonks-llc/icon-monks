@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency afghani,currency,money,afghani,afghanistan,afn">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M164 134 H134 A30 30 0 1 1 164 104 V168 A40 40 0 0 1 124 208 H56"/>
+    <path d="M108 164 L116 184"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="134" cy="44" r="16"/>
+  </g>
+</svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="py,python,code,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M73 224 V164 H92.2 A16.8 16.8 0 0 1 92.2 197.6 H73"/>
-    <path d="M141 164 L162 194 L183 164"/>
-    <path d="M162 194 L162 224"/>
+    <path d="M76.58 224 V160 H93.3 A17.28 17.28 0 0 1 93.3 194.56 H76.58"/>
+    <path d="M139.42 160 L159.42 192 L179.42 160"/>
+    <path d="M159.42 192 L159.42 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

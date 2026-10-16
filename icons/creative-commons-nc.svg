@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="non commercial,cc nc,license,no money">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154 102 C150 92 140 88 128 88 C112 88 102 96 102 108 C102 134 154 122 154 148 C154 160 144 168 128 168 C116 168 106 164 102 154"/>
+    <path d="M128 68 L128 188"/>
+    <path d="M78.5 78.5 L177.5 177.5"/>
+  </g>
+</svg>

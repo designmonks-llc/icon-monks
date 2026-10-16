@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="trident,poseidon,spear,fork">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 220"/>
+    <path d="M64 52 V96 C64 120 88 136 128 136 C168 136 192 120 192 96 V52"/>
+    <path d="M110 58 L128 38 L146 58"/>
+    <path d="M48 72 L64 52 L80 72"/>
+    <path d="M176 72 L192 52 L208 72"/>
+  </g>
+</svg>

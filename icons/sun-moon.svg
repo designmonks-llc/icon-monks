@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="day night,light dark,theme,cycle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="84" cy="84" r="22"/>
+    <path d="M168.81 132.12 A44 44 0 1 0 215.52 182.51 A36 36 0 0 1 168.81 132.12 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="84" cy="84" r="22"/>
+    <path d="M122 84 L134 84"/>
+    <path d="M84 122 L84 134"/>
+    <path d="M57.13 110.87 L48.64 119.36"/>
+    <path d="M46 84 L34 84"/>
+    <path d="M57.13 57.13 L48.64 48.64"/>
+    <path d="M84 46 L84 34"/>
+    <path d="M110.87 57.13 L119.36 48.64"/>
+    <path d="M168.81 132.12 A44 44 0 1 0 215.52 182.51 A36 36 0 0 1 168.81 132.12 Z"/>
+    <path d="M208 48 L48 208"/>
+  </g>
+</svg>

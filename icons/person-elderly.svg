@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="elderly,old person,senior,cane">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="60" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="60" r="22"/>
+    <path d="M108 96 C96 112 92 132 92 152"/>
+    <path d="M68 216 L92 152 L120 216"/>
+    <path d="M104 108 L148 140"/>
+    <path d="M160 216 V144 A14 14 0 0 0 132 144"/>
+  </g>
+</svg>

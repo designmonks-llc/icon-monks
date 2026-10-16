@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="rickshaw,tuk tuk,auto rickshaw,three wheeler">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 164 A16 16 0 0 1 32 148 V100 C32 70 56 48 86 48 H162 A12 12 0 0 1 172.7 54.6 L222 152 A8 8 0 0 1 214.9 164 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M60 140 V100 A20 20 0 0 1 80 80 H144 L174 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 164 A16 16 0 0 1 32 148 V100 C32 70 56 48 86 48 H162 A12 12 0 0 1 172.7 54.6 L222 152 A8 8 0 0 1 214.9 164 Z"/>
+    <path d="M60 140 V100 A20 20 0 0 1 80 80 H144 L174 140 Z"/>
+    <circle cx="76" cy="192" r="20"/>
+    <circle cx="192" cy="196" r="16"/>
+  </g>
+</svg>

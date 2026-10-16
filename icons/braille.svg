@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="braille,blind,accessibility,dots">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="72" r="20"/>
+    <circle cx="48" cy="128" r="20"/>
+    <circle cx="48" cy="184" r="20"/>
+    <circle cx="96" cy="72" r="20"/>
+    <circle cx="96" cy="184" r="20"/>
+    <circle cx="160" cy="72" r="20"/>
+    <circle cx="160" cy="128" r="20"/>
+    <circle cx="208" cy="128" r="20"/>
+    <circle cx="208" cy="184" r="20"/>
+    <circle cx="96" cy="128" r="6"/>
+    <circle cx="160" cy="184" r="6"/>
+    <circle cx="208" cy="72" r="6"/>
+  </g>
+</svg>

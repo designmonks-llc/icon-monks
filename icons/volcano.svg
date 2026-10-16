@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="volcano,eruption,mountain,steam,lava">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M46 216 Q32 216 39.2 204 L84.8 128 Q92 116 106 116 L150 116 Q164 116 171.2 128 L216.8 204 Q224 216 210 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 216 Q32 216 39.2 204 L84.8 128 Q92 116 106 116 L150 116 Q164 116 171.2 128 L216.8 204 Q224 216 210 216 Z"/>
+    <path d="M108 92 C96 76 120 64 108 44"/>
+    <path d="M148 92 C136 76 160 64 148 44"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 168 L112 152 L128 168 L144 152 L160 168"/>
+  </g>
+</svg>

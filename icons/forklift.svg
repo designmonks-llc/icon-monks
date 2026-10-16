@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="forklift,warehouse,lifting,logistics">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="128" width="104" height="48" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="128" width="104" height="48" rx="12"/>
+    <path d="M56 128 L72 64 L136 64 L136 128"/>
+    <path d="M176 48 L176 200 L224 200"/>
+    <path d="M144 152 L176 152"/>
+    <circle cx="64" cy="206" r="18"/>
+    <circle cx="130" cy="206" r="18"/>
+  </g>
+</svg>

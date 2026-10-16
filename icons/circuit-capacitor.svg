@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit capacitor,circuit,electronics,schematic,capacitor">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L108 128"/>
+    <path d="M108 72 L108 184"/>
+    <path d="M148 72 L148 184"/>
+    <path d="M148 128 L224 128"/>
+  </g>
+</svg>

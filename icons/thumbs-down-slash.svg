@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="thumbs down,off,disabled,hidden,thumbs">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 125.25 L80 144 L108 208 C112 218 120 222 128 222 C142.14 222 153.16 212.63 152.77 198.02"/>
+    <path d="M197.23 151.97 C212.61 151.28 223.9 137.59 220 122 L208 64 C206 52 196 44 184 44 L89.25 44"/>
+    <path d="M80 125.25 L80 136 A8 8 0 0 1 72 144 L40 144 A8 8 0 0 1 32 136 L32 77.25"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

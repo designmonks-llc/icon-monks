@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="om,aum,hindu,meditation">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 88 A34 30 0 1 1 90 124 A42 42 0 1 1 52 184"/>
+    <path d="M120 156 C140 116 196 120 200 164 C204 200 168 212 148 192"/>
+    <path d="M144 80 A28 20 0 0 0 200 80"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="172" cy="44" r="14"/>
+  </g>
+</svg>

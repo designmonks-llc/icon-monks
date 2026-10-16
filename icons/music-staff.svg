@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="staff,music,notation,clef,treble clef">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 210 C80 228 108 228 108 206 V72 C108 36 140 28 140 60 C140 96 40 112 40 162 C40 184 56 198 74 198 C94 198 108 184 108 164 C108 146 92 134 74 140"/>
+    <path d="M160 64 L224 64"/>
+    <path d="M160 96 L224 96"/>
+    <path d="M160 128 L224 128"/>
+    <path d="M160 160 L224 160"/>
+    <path d="M160 192 L224 192"/>
+  </g>
+</svg>

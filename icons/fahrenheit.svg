@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="fahrenheit,temperature,degrees,imperial">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="76" r="20"/>
+    <path d="M200 72 L120 72 L120 200"/>
+    <path d="M120 136 L184 136"/>
+  </g>
+</svg>

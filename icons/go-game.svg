@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="go,board game,stones,weiqi">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 32 L64 146"/>
+    <path d="M32 64 L142 64"/>
+    <path d="M128 32 L128 82"/>
+    <path d="M128 174 L128 224"/>
+    <path d="M32 128 L82 128"/>
+    <path d="M174 128 L224 128"/>
+    <path d="M192 114 L192 224"/>
+    <path d="M110 192 L224 192"/>
+    <circle cx="192" cy="64" r="28"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="128" r="36"/>
+    <circle cx="64" cy="192" r="36"/>
+  </g>
+</svg>

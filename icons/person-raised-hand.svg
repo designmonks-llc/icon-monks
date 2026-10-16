@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="raise hand,question,participant,person,volunteer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="56" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="56" r="24"/>
+    <path d="M128 100 L128 152"/>
+    <path d="M68 148 L128 108 L184 100 L196 40"/>
+    <path d="M84 220 L128 152 L172 220"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="grave,tombstone,rip,cemetery">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 224 V112 A72 72 0 0 1 200 112 V224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 224 V112 A72 72 0 0 1 200 112 V224"/>
+    <path d="M32 224 L224 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 92 L128 172"/>
+    <path d="M100 120 L156 120"/>
+  </g>
+</svg>

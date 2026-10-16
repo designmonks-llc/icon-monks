@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="tropical island,palm,vacation,island,holiday">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 184 C72 160 184 160 208 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 184 C72 160 184 160 208 184 Z"/>
+    <path d="M40 216 C54.67 206.67 69.33 206.67 84 216 C98.67 225.33 113.33 225.33 128 216 C142.67 206.67 157.33 206.67 172 216 C186.67 225.33 201.33 225.33 216 216"/>
+    <path d="M132 166 C132 136 138 112 152 88"/>
+    <path d="M152 86 C124 64 92 70 64 100"/>
+    <path d="M152 86 C176 64 204 70 220 100"/>
+    <path d="M152 86 C140 60 120 46 92 46"/>
+    <path d="M152 86 C168 56 188 44 212 46"/>
+  </g>
+</svg>

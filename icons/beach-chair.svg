@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sunbathing,lounger,beach,vacation">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 48 L104 152 L216 152"/>
+    <path d="M120 152 L192 216"/>
+    <path d="M192 152 L120 216"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="bowling,pins,ball,strike,sport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M184 36 C196 36 202 46 202 58 C202 74 194 82 194 96 C194 116 214 132 214 160 C214 184 204 200 202 216 H166 C164 200 154 184 154 160 C154 132 174 116 174 96 C174 82 166 74 166 58 C166 46 172 36 184 36 Z"/>
+    <circle cx="80" cy="168" r="48"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 36 C196 36 202 46 202 58 C202 74 194 82 194 96 C194 116 214 132 214 160 C214 184 204 200 202 216 H166 C164 200 154 184 154 160 C154 132 174 116 174 96 C174 82 166 74 166 58 C166 46 172 36 184 36 Z"/>
+    <circle cx="80" cy="168" r="48"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="68" cy="154" r="10"/>
+    <circle cx="94" cy="148" r="10"/>
+    <circle cx="84" cy="178" r="10"/>
+  </g>
+</svg>

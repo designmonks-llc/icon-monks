@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="makeup brush,powder,cosmetics,beauty">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="172" r="44"/>
+    <path d="M147.53 54.49 L199.48 40.99 L180.59 110.58 L141.47 102.27 Z"/>
+    <path d="M141.47 102.27 L180.59 110.58 L170.03 141.05 L138.73 134.4 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="172" r="44"/>
+    <path d="M147.53 54.49 L199.48 40.99 L180.59 110.58 L141.47 102.27 Z"/>
+    <path d="M141.47 102.27 L180.59 110.58 L170.03 141.05 L138.73 134.4 Z"/>
+    <path d="M154.38 137.73 L137.74 215.98"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="172" r="16"/>
+  </g>
+</svg>

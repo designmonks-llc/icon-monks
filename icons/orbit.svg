@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="orbit,planet,space,rotation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="40"/>
+    <path d="M212.69 92.05 A92 92 0 1 1 163.95 43.31"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="193.05" cy="62.95" r="20"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="phishing,scam,hook,bait,fishing">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 72 V152 A56 56 0 0 1 60 152 V104"/>
+    <path d="M60 104 L86 130"/>
+    <circle cx="172" cy="52" r="20"/>
+  </g>
+</svg>

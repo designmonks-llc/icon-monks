@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="gloves,mittens,winter,clothing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 176 V156 C60 156 40 140 40 116 C40 100 52 92 64 96 C74 100 80 108 84 116 V96 A56 56 0 0 1 196 96 V176 Z"/>
+    <rect x="76" y="176" width="128" height="48" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 176 V156 C60 156 40 140 40 116 C40 100 52 92 64 96 C74 100 80 108 84 116 V96 A56 56 0 0 1 196 96 V176 Z"/>
+    <rect x="76" y="176" width="128" height="48" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 176 L180 176"/>
+  </g>
+</svg>

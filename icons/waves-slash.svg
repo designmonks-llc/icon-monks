@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="waves,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 76 Q48 60 64 76 Q80 92 96 76 Q112 60 128 76 Q144 92 160 76 Q176 60 192 76 Q208 92 224 76"/>
+    <path d="M32 128 Q48 112 64 128 Q80 144 96 128 Q112 112 128 128 Q144 144 160 128 Q176 112 192 128 Q208 144 224 128"/>
+    <path d="M32 180 Q48 164 64 180 Q80 196 96 180 Q112 164 128 180 Q144 196 160 180 Q176 164 192 180 Q208 196 224 180"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

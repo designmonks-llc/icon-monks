@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="jackhammer,construction,drill,road work">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="72" width="112" height="104" rx="20"/>
+    <path d="M112 176 L144 176 L144 204 L128 224 L112 204 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 72 L40 40 L216 40 L216 72"/>
+    <path d="M128 40 L128 72"/>
+    <rect x="72" y="72" width="112" height="104" rx="20"/>
+    <path d="M112 176 L144 176 L144 204 L128 224 L112 204 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 124 L152 124"/>
+  </g>
+</svg>

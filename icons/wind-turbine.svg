@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="wind power,renewable,energy,turbine,wind turbine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M122 86 C146 68 140 48 128 32 C122 52 120 68 122 86 Z"/>
+    <path d="M150.05 113.8 C153.64 143.59 173.96 148.39 193.82 146 C179.5 130.8 166.64 121.07 150.05 113.8 Z"/>
+    <path d="M111.95 124.2 C84.36 112.41 70.04 127.61 62.18 146 C82.5 141.2 97.36 134.93 111.95 124.2 Z"/>
+    <circle cx="128" cy="108" r="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M122 86 C146 68 140 48 128 32 C122 52 120 68 122 86 Z"/>
+    <path d="M150.05 113.8 C153.64 143.59 173.96 148.39 193.82 146 C179.5 130.8 166.64 121.07 150.05 113.8 Z"/>
+    <path d="M111.95 124.2 C84.36 112.41 70.04 127.61 62.18 146 C82.5 141.2 97.36 134.93 111.95 124.2 Z"/>
+    <circle cx="128" cy="108" r="14"/>
+    <path d="M120 128 L112 216 M136 128 L144 216"/>
+    <path d="M88 216 L168 216"/>
+  </g>
+</svg>

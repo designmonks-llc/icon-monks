@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="comb,hair,grooming,barber">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="64" width="192" height="56" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="64" width="192" height="56" rx="14"/>
+    <path d="M56 120 L56 192"/>
+    <path d="M92 120 L92 192"/>
+    <path d="M128 120 L128 192"/>
+    <path d="M164 120 L164 192"/>
+    <path d="M200 120 L200 192"/>
+  </g>
+</svg>

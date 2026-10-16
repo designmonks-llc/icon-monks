@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="speaker,voice,talking,person,speaking">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="96" cy="92" r="40"/>
+    <path d="M32 216 C32 176 60 156 96 156 C132 156 160 176 160 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="92" r="40"/>
+    <path d="M32 216 C32 176 60 156 96 156 C132 156 160 176 160 216"/>
+    <path d="M154.22 43.15 A76 76 0 0 1 159.01 134.5"/>
+    <path d="M194.73 35 A114 114 0 0 1 198.46 141.97"/>
+  </g>
+</svg>

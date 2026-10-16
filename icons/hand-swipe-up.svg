@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="swipe up,gesture,scroll,touch">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M61.28 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 219.1 217.22 217.41 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M61.28 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 219.1 217.22 217.41 224"/>
+    <circle cx="184" cy="48" r="16"/>
+    <path d="M184 96 L184 64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 166 L148 200"/>
+    <path d="M184 172 L184 200"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="128" r="14"/>
+  </g>
+</svg>

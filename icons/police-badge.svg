@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="police,sheriff,badge,law,officer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 36 C152 56 180 60 208 52 V120 C208 172 172 204 128 224 C84 204 48 172 48 120 V52 C76 60 104 56 128 36 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M128 84 L138.58 113.44 L169.85 114.4 L145.12 133.56 L153.86 163.6 L128 146 L102.14 163.6 L110.88 133.56 L86.15 114.4 L117.42 113.44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 36 C152 56 180 60 208 52 V120 C208 172 172 204 128 224 C84 204 48 172 48 120 V52 C76 60 104 56 128 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 84 L138.58 113.44 L169.85 114.4 L145.12 133.56 L153.86 163.6 L128 146 L102.14 163.6 L110.88 133.56 L86.15 114.4 L117.42 113.44 Z"/>
+  </g>
+</svg>

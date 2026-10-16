@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="fullscreen video,play,expand,theater,video">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 84 L172 128 L104 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 96 L40 40 L96 40"/>
+    <path d="M160 40 L216 40 L216 96"/>
+    <path d="M216 160 L216 216 L160 216"/>
+    <path d="M96 216 L40 216 L40 160"/>
+    <path d="M104 84 L172 128 L104 172 Z"/>
+  </g>
+</svg>

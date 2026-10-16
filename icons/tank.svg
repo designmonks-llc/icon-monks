@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="tank,military,armored vehicle,army">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="152" width="192" height="56" rx="28"/>
+    <path d="M48 152 L64 120 L192 120 L208 152 Z"/>
+    <path d="M88 120 V92 A20 20 0 0 1 108 72 H148 A20 20 0 0 1 168 92 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="152" width="192" height="56" rx="28"/>
+    <path d="M48 152 L64 120 L192 120 L208 152"/>
+    <path d="M88 120 V92 A20 20 0 0 1 108 72 H148 A20 20 0 0 1 168 92 V120"/>
+    <path d="M168 88 L224 88"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="72" cy="180" r="16"/>
+    <circle cx="128" cy="180" r="16"/>
+    <circle cx="184" cy="180" r="16"/>
+  </g>
+</svg>

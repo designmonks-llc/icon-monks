@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="bong,disabled,off,smoking,pipe">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 40 V120 A52 52 0 1 0 148 120 V40"/>
+    <path d="M100 40 L156 40"/>
+    <path d="M112 180 L72 140"/>
+    <path d="M50.06 123.43 Q48 120 51.92 119.22 L84.08 112.78 Q88 112 87.22 115.92 L84.78 128.08 Q84 132 80.21 133.26 L63.79 138.74 Q60 140 57.94 136.57 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

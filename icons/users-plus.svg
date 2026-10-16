@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="add group member,invite,group,users,add members">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 100C136 80.12 119.88 64 100 64C80.12 64 64 80.12 64 100C64 119.88 80.12 136 100 136C119.88 136 136 119.88 136 100ZM141.86 208C138.12 200.82 136 192.66 136 184C136 175.51 138.04 167.49 141.65 160.41C130.44 154.63 116.21 152 100 152C60 152 32 168 32 208H141.86Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 100 A36 36 0 0 1 136 100 A36 36 0 0 1 64 100 Z"/>
+    <path d="M32 208 C32 168 60 152 100 152 C116.21 152 130.45 154.63 141.66 160.42"/>
+    <path d="M152 56 A32 32 0 1 1 168 116"/>
+    <path d="M160 184 L216 184"/>
+    <path d="M188 156 L188 212"/>
+  </g>
+</svg>

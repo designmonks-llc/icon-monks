@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="turnstile,gate,subway,access">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="56" height="160" rx="14"/>
+    <rect x="168" y="56" width="56" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="56" height="160" rx="14"/>
+    <rect x="168" y="56" width="56" height="160" rx="14"/>
+    <path d="M88 136 L112 136"/>
+    <path d="M144 136 L168 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="60" cy="92" r="16"/>
+    <circle cx="196" cy="92" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="football boots,soccer shoes,cleats,studs">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 80 H92 C104 108 128 120 160 124 C196 128 216 140 216 160 V168 A8 8 0 0 1 208 176 H48 A8 8 0 0 1 40 168 V88 A8 8 0 0 1 48 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 80 H92 C104 108 128 120 160 124 C196 128 216 140 216 160 V168 A8 8 0 0 1 208 176 H48 A8 8 0 0 1 40 168 V88 A8 8 0 0 1 48 80 Z"/>
+    <path d="M72 184 L72 204"/>
+    <path d="M128 184 L128 204"/>
+    <path d="M184 184 L184 204"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 148 L168 148"/>
+  </g>
+</svg>

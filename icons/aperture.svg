@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="aperture,shutter,camera,lens,camera lens">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 88 L222.86 142.77"/>
+    <path d="M162.64 108 L162.64 217.53"/>
+    <path d="M162.64 148 L67.78 202.77"/>
+    <path d="M128 168 L33.14 113.23"/>
+    <path d="M93.36 148 L93.36 38.47"/>
+    <path d="M93.36 108 L188.22 53.23"/>
+  </g>
+</svg>

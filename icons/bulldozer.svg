@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="bulldozer,construction,vehicle,dig">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="168" width="136" height="48" rx="24"/>
+    <path d="M96 168 V136 A8 8 0 0 1 104 128 H200 A8 8 0 0 1 208 136 V168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="168" width="136" height="48" rx="24"/>
+    <path d="M96 168 V136 A8 8 0 0 1 104 128 H200 A8 8 0 0 1 208 136 V168 Z"/>
+    <path d="M120 128 V72 A8 8 0 0 1 128 64 H176 A8 8 0 0 1 184 72 V128"/>
+    <path d="M64 104 A96 96 0 0 0 48 216 H72"/>
+    <path d="M62 152 L96 152"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="192" r="12"/>
+    <circle cx="192" cy="192" r="12"/>
+  </g>
+</svg>

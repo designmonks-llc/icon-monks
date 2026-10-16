@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="raindrops,moisture,humidity,water,liquid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 76 C82 102 44 138 44 172 A52 52 0 0 0 148 172 C148 138 118 102 100 76 Z"/>
+    <path d="M184 32 C174 46 154 70 154 90 A30 30 0 0 0 214 90 C214 70 194 46 184 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 76 C82 102 44 138 44 172 A52 52 0 0 0 148 172 C148 138 118 102 100 76 Z"/>
+    <path d="M184 32 C174 46 154 70 154 90 A30 30 0 0 0 214 90 C214 70 194 46 184 32 Z"/>
+  </g>
+</svg>

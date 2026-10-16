@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="rock on,horns,metal,gesture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 134 V58 A18 18 0 0 1 112 58 V118 A18 18 0 0 1 148 118 V122 A18 18 0 0 1 184 122 V82 A18 18 0 0 1 220 82 V152 C220 196 192 224 152 224 H132 C100 224 76 204 76 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 134 V58 A18 18 0 0 1 112 58 V118 A18 18 0 0 1 148 118 V122 A18 18 0 0 1 184 122 V82 A18 18 0 0 1 220 82 V152 C220 196 192 224 152 224 H132 C100 224 76 204 76 172 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 118 L112 146"/>
+    <path d="M148 122 L148 150"/>
+    <path d="M184 122 L184 150"/>
+    <path d="M76 176 H124 A16 16 0 0 0 140 160"/>
+  </g>
+</svg>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="xml,markup,data,file type,code">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 112 V32 H152 L200 80 V112"/>
-    <path d="M46 152 L86 216"/>
-    <path d="M86 152 L46 216"/>
-    <path d="M108 216 L108 152 L132 190.4 L156 152 L156 216"/>
-    <path d="M178 152 L178 216 L210 216"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M40 160 L78 224"/>
+    <path d="M78 160 L40 224"/>
+    <path d="M110 224 L110 160 L132 198.4 L154 160 L154 224"/>
+    <path d="M186 160 L186 224 L216 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

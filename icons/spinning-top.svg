@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="spinning top,toy,spin,game">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 64 C176 64 216 88 216 112 C216 120 212 128 204 136 L136 212 A11 11 0 0 1 120 212 L52 136 C44 128 40 120 40 112 C40 88 80 64 128 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 64 C176 64 216 88 216 112 C216 120 212 128 204 136 L136 212 A11 11 0 0 1 120 212 L52 136 C44 128 40 120 40 112 C40 88 80 64 128 64 Z"/>
+    <path d="M128 64 L128 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 124 L184 124"/>
+  </g>
+</svg>

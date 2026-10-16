@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="nuclear plant,power station,energy,cooling tower">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 216 C80 168 80 136 68 100 H148 C136 136 136 168 168 216 Z"/>
+    <path d="M184 216 V180 A20 20 0 0 1 224 180 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 C80 168 80 136 68 100 H148 C136 136 136 168 168 216"/>
+    <path d="M184 216 V180 A20 20 0 0 1 224 180 V216"/>
+    <path d="M32 216 L224 216"/>
+    <path d="M80 80 H140 A20 20 0 0 0 144 40.4 A28 28 0 0 0 92 44 A18 18 0 0 0 80 80 Z"/>
+  </g>
+</svg>

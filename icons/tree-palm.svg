@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="palm tree,tropical,beach,palm,coconut">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 224 C112 176 128 136 128 92"/>
+    <path d="M128 92 C104 60 64 60 40 100"/>
+    <path d="M128 92 C152 60 192 60 216 100"/>
+    <path d="M128 92 C116 64 92 44 60 44"/>
+    <path d="M128 92 C140 64 164 44 196 44"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="112" cy="112" r="14"/>
+    <circle cx="144" cy="112" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="excavator,construction,digger,machinery,vehicle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="176" width="144" height="40" rx="20"/>
+    <path d="M56 176 V96 A16 16 0 0 1 72 80 H100 A12 12 0 0 1 112 92 V128 H140 A12 12 0 0 1 152 140 V176 Z"/>
+    <path d="M212 104 V132 A20 20 0 0 1 192 152 H180 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="176" width="144" height="40" rx="20"/>
+    <path d="M56 176 V96 A16 16 0 0 1 72 80 H100 A12 12 0 0 1 112 92 V128 H140 A12 12 0 0 1 152 140 V176"/>
+    <path d="M136 128 L176 56 L212 104"/>
+    <path d="M212 104 V132 A20 20 0 0 1 192 152 H180 Z"/>
+  </g>
+</svg>

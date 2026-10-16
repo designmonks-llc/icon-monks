@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="mustache,moustache,facial hair,gentleman,beard">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 108 C112 88 84 88 68 106 C58 118 46 124 32 116 C34 146 58 162 86 158 C106 155 120 146 128 136 C136 146 150 155 170 158 C198 162 222 146 224 116 C210 124 198 118 188 106 C172 88 144 88 128 108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 108 C112 88 84 88 68 106 C58 118 46 124 32 116 C34 146 58 162 86 158 C106 155 120 146 128 136 C136 146 150 155 170 158 C198 162 222 146 224 116 C210 124 198 118 188 106 C172 88 144 88 128 108 Z"/>
+  </g>
+</svg>

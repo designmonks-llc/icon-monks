@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="subway,metro,underground,train">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="80" width="112" height="112" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 224 V128 A96 96 0 0 1 224 128 V224"/>
+    <rect x="72" y="80" width="112" height="112" rx="20"/>
+    <path d="M96 192 L84 216"/>
+    <path d="M160 192 L172 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 116 L156 116"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="102" cy="160" r="16"/>
+    <circle cx="154" cy="160" r="16"/>
+  </g>
+</svg>

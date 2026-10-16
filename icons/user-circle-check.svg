@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="verified user,approved,member">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M160 100C160 82.33 145.67 68 128 68C110.33 68 96 82.33 96 100C96 117.67 110.33 132 128 132C145.67 132 160 117.67 160 100ZM139.95 223.25C130.65 212.82 125 199.07 125 184C125 176.98 126.23 170.25 128.48 164C128.32 164 128.16 164 128 164C100 164 76 174 57.79 193.47C75.95 212.94 101.38 224 128 224C132.02 224 136.01 223.75 139.95 223.25Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139.95 223.25 A96 96 0 0 1 32 128 A96 96 0 0 1 224 128 A96 96 0 0 1 223.25 139.95"/>
+    <path d="M96 100 A32 32 0 0 1 160 100 A32 32 0 0 1 96 100 Z"/>
+    <path d="M57.79 193.47 C76 174 100 164 128 164 C128.16 164 128.33 164 128.49 164"/>
+    <path d="M156 186 L176 206 L212 166"/>
+  </g>
+</svg>

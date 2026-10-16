@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit,electronics,pcb,traces">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="64" r="16"/>
+    <path d="M48 80 L48 128 L88 168 L88 224"/>
+    <circle cx="128" cy="48" r="16"/>
+    <path d="M128 64 L128 224"/>
+    <circle cx="208" cy="96" r="16"/>
+    <path d="M208 112 L208 128 L168 168 L168 224"/>
+  </g>
+</svg>

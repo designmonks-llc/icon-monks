@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="fishing,reel,rod,angling">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="144" r="48"/>
+    <rect x="36" y="120" width="32" height="48" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L224 48"/>
+    <path d="M128 48 L128 96"/>
+    <circle cx="128" cy="144" r="48"/>
+    <rect x="36" y="120" width="32" height="48" rx="10"/>
+    <path d="M68 144 L80 144"/>
+    <path d="M176 144 L208 144"/>
+    <path d="M208 144 L208 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 144 L176 144"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="144" r="14"/>
+  </g>
+</svg>

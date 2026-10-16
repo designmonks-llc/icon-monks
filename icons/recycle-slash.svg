@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="recycle,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M93.12 96.42 L113.31 61.44 Q128 36 142.69 61.44 L164.72 99.6"/>
+    <path d="M135.74 91.84 L164.72 99.6 L172.48 70.62"/>
+    <path d="M184.92 134.58 L205.11 169.56 Q219.8 195 190.42 195 L146.36 195"/>
+    <path d="M167.57 173.79 L146.36 195 L167.57 216.21"/>
+    <path d="M105.97 195 L65.58 195 Q36.2 195 50.89 169.56 L72.92 131.4"/>
+    <path d="M80.69 160.38 L72.92 131.4 L43.94 139.16"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

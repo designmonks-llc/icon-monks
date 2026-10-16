@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="security camera,disabled,off,cctv,surveillance">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M83.04 40.62 A12 12 0 0 1 89.2 41.17 L201.96 82.21 A12 12 0 0 1 209.13 97.59 L198.19 127.66 A12 12 0 0 1 182.8 134.83 L174.08 131.66"/>
+    <path d="M104 146.43 L104 168 L40 168"/>
+    <path d="M40 128 L40 208"/>
+    <path d="M190.68 78.11 L171.96 129.54"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

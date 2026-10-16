@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="winter,clothing,warm">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 48 Q128 104 208 48 A12 12 0 0 1 224 60 V84 Q128 168 32 84 V60 A12 12 0 0 1 48 48 Z"/>
+    <path d="M95.92 112.78 L128.08 119.22 Q132 120 130.98 123.87 L114.04 188.26 Q112 196 104.34 193.7 L79.66 186.3 Q72 184 74.14 176.29 L90.93 115.85 Q92 112 95.92 112.78 Z"/>
+    <path d="M143.83 118.85 L176.17 109.15 Q180 108 180.28 111.99 L187.45 216.02 Q188 224 180 224 L152 224 Q144 224 143.69 216.01 L140.15 124 Q140 120 143.83 118.85 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 Q128 104 208 48 A12 12 0 0 1 224 60 V84 Q128 168 32 84 V60 A12 12 0 0 1 48 48 Z"/>
+    <path d="M95.92 112.78 L128.08 119.22 Q132 120 130.98 123.87 L114.04 188.26 Q112 196 104.34 193.7 L79.66 186.3 Q72 184 74.14 176.29 L90.93 115.85 Q92 112 95.92 112.78 Z"/>
+    <path d="M143.83 118.85 L176.17 109.15 Q180 108 180.28 111.99 L187.45 216.02 Q188 224 180 224 L152 224 Q144 224 143.69 216.01 L140.15 124 Q140 120 143.83 118.85 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 184 L172 184"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="menorah,hanukkah,jewish,candles">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 48 V92 A32 32 0 0 0 160 92 V48"/>
+    <path d="M64 48 V92 A64 64 0 0 0 192 92 V48"/>
+    <path d="M32 48 V92 A96 96 0 0 0 224 92 V48"/>
+    <path d="M128 48 L128 212"/>
+    <path d="M88 212 L168 212"/>
+  </g>
+</svg>

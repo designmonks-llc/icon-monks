@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="star of david,judaism,hexagram,jewish,religion">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L155.71 80 L211.14 80 L183.43 128 L211.14 176 L155.71 176 L128 224 L100.29 176 L44.86 176 L72.57 128 L44.86 80 L100.29 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L211.14 176 L44.86 176 Z"/>
+    <path d="M128 224 L44.86 80 L211.14 80 Z"/>
+  </g>
+</svg>

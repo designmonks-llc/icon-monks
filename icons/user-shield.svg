@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="protected user,security,admin,person,user security">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM129.12 216C123.94 206.49 121 195.59 121 184C121 172.23 124.04 161.17 129.37 151.56C121.49 149.2 112.94 148 104 148C64 148 32 172 32 216H129.12Z"/>
+    <path d="M188 146 L218 158 V180 C218 204 204 216 188 222 C172 216 158 204 158 180 V158 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
+    <path d="M32 216 C32 172 64 148 104 148 C112.95 148 121.5 149.2 129.38 151.56"/>
+    <path d="M188 146 L218 158 V180 C218 204 204 216 188 222 C172 216 158 204 158 180 V158 Z"/>
+  </g>
+</svg>

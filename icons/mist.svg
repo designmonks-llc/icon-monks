@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="mist,haze,fog,weather">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 56 A42.5 42.5 0 0 1 88 56 A42.5 42.5 0 0 0 128 56 A42.5 42.5 0 0 1 168 56 A42.5 42.5 0 0 0 208 56"/>
+    <path d="M32 104 A42.5 42.5 0 0 1 72 104 A42.5 42.5 0 0 0 112 104 A42.5 42.5 0 0 1 152 104 A42.5 42.5 0 0 0 192 104"/>
+    <path d="M64 152 A42.5 42.5 0 0 1 104 152 A42.5 42.5 0 0 0 144 152 A42.5 42.5 0 0 1 184 152 A42.5 42.5 0 0 0 224 152"/>
+    <path d="M48 200 A42.5 42.5 0 0 1 88 200 A42.5 42.5 0 0 0 128 200 A42.5 42.5 0 0 1 168 200"/>
+  </g>
+</svg>

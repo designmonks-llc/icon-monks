@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="carbon dioxide,emissions,air,gas">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97.46 94.54 A36 36 0 1 0 97.46 145.46"/>
+    <ellipse cx="146" cy="120" rx="26" ry="36"/>
+    <path d="M192 176 A13 13 0 1 1 215 184 L192 208 H220"/>
+  </g>
+</svg>

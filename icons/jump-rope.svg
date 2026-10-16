@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="jump rope,skipping,cardio,fitness,exercise">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84.78 91.03 L73 48.64 A13 13 0 0 0 47.95 55.6 L59.73 97.99 A13 13 0 0 0 84.78 91.03 Z"/>
+    <path d="M196.27 97.99 L208.05 55.6 A13 13 0 0 0 183 48.64 L171.22 91.03 A13 13 0 0 0 196.27 97.99 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84.78 91.03 L73 48.64 A13 13 0 0 0 47.95 55.6 L59.73 97.99 A13 13 0 0 0 84.78 91.03 Z"/>
+    <path d="M196.27 97.99 L208.05 55.6 A13 13 0 0 0 183 48.64 L171.22 91.03 A13 13 0 0 0 196.27 97.99 Z"/>
+    <path d="M76 108 C80 236 176 236 180 108"/>
+  </g>
+</svg>

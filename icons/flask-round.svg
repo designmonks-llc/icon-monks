@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="potion,round bottom,chemistry,lab,round-bottom flask">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 156 A64 64 0 0 0 192 156 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 40 V95.21 A64 64 0 1 0 148 95.21 V40"/>
+    <path d="M92 40 L164 40"/>
+    <path d="M64 156 L192 156"/>
+  </g>
+</svg>

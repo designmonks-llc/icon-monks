@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="acorn,nut,oak,autumn">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 120 C48 84 84 68 128 68 C172 68 208 84 208 120 Z"/>
+    <path d="M68 120 C68 172 96 204 128 220 C160 204 188 172 188 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 120 C48 84 84 68 128 68 C172 68 208 84 208 120 Z"/>
+    <path d="M68 120 C68 172 96 204 128 220 C160 204 188 172 188 120"/>
+    <path d="M128 68 C128 54 132 44 144 36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 120 L188 120"/>
+  </g>
+</svg>

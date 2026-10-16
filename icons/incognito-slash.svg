@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="incognito,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M91.41 46.15 A12 12 0 0 1 93.5 46 L162.5 46 A12 12 0 0 1 174 54 L192 112"/>
+    <path d="M32 112 L66.75 112"/>
+    <path d="M157.25 112 L224 112"/>
+    <path d="M80 140 A32 32 0 0 1 80 204 A32 32 0 0 1 80 140"/>
+    <path d="M187.33 142.07 A32 32 0 0 1 205.93 160.67"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

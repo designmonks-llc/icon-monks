@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="js,javascript,code,file type,script">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M109 164 V208 A16 16 0 0 1 77 208"/>
-    <path d="M179 164 H156 A15 15 0 0 0 156 194 H164 A15 15 0 0 1 164 224 H141"/>
+    <path d="M109.02 160 V209 A15 15 0 0 1 79.02 209"/>
+    <path d="M176.98 160 H156.98 A16 16 0 0 0 156.98 192 H160.98 A16 16 0 0 1 160.98 224 H140.98"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

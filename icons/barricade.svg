@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="construction,roadblock,under construction,detour,barricade">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="192" height="96" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="192" height="96" rx="14"/>
+    <path d="M72 152 L56 216"/>
+    <path d="M184 152 L200 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 126 L94 82"/>
+    <path d="M114 126 L142 82"/>
+    <path d="M162 126 L190 82"/>
+  </g>
+</svg>

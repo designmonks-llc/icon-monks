@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="biohazard,danger,toxic,warning">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M109.51 42.38 A30 30 0 1 0 146.49 42.38 A20 20 0 1 1 109.51 42.38 Z"/>
+    <path d="M214.86 160.8 A30 30 0 1 0 196.37 192.82 A20 20 0 1 1 214.86 160.8 Z"/>
+    <path d="M41.14 160.8 A30 30 0 1 1 59.63 192.82 A20 20 0 1 0 41.14 160.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M109.51 42.38 A30 30 0 1 0 146.49 42.38"/>
+    <path d="M214.86 160.8 A30 30 0 1 0 196.37 192.82"/>
+    <path d="M41.14 160.8 A30 30 0 1 1 59.63 192.82"/>
+    <path d="M164.89 98.25 A50 50 0 0 1 175.67 116.93"/>
+    <path d="M138.78 180.82 A50 50 0 0 1 117.22 180.82"/>
+    <path d="M80.33 116.93 A50 50 0 0 1 91.11 98.25"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="132" r="16"/>
+  </g>
+</svg>

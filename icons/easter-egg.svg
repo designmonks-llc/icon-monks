@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="easter egg,decorated egg,holiday,spring">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C172 32 200 108 200 148 A72 72 0 0 1 56 148 C56 108 84 32 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C172 32 200 108 200 148 A72 72 0 0 1 56 148 C56 108 84 32 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 132 L108 112 L128 132 L148 112 L168 132"/>
+    <path d="M92 176 L164 176"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="folded shirt,laundry,clothing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="64" width="176" height="160" rx="16"/>
+    <path d="M88 64 L104 36 L152 36 L168 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="64" width="176" height="160" rx="16"/>
+    <path d="M88 64 L104 36 L152 36 L168 64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 36 L128 92 L152 36"/>
+    <path d="M128 92 L128 192"/>
+  </g>
+</svg>

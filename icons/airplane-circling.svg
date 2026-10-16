@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="holding pattern,flight loop,aircraft">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M114 90 A14 14 0 0 1 142 90 L142 116 L174 138 L174 156 L142 146 L142 162 L158 172 L158 180 L128 174 L98 180 L98 172 L114 162 L114 146 L82 156 L82 138 L114 116 L114 90 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M114 90 A14 14 0 0 1 142 90 L142 116 L174 138 L174 156 L142 146 L142 162 L158 172 L158 180 L128 174 L98 180 L98 172 L114 162 L114 146 L82 156 L82 138 L114 116 L114 90 Z"/>
+    <path d="M171.19 46.77 A92 92 0 1 1 79.25 49.98"/>
+    <path d="M47.24 44.04 L79.25 49.98 L70.55 81.35"/>
+  </g>
+</svg>

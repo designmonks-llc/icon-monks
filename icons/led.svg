@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="led,diode,light,electronics">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 160 V104 A48 48 0 0 1 176 104 V160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 160 V104 A48 48 0 0 1 176 104 V160"/>
+    <path d="M64 160 L192 160"/>
+    <path d="M104 160 L104 224"/>
+    <path d="M152 160 L152 208"/>
+  </g>
+</svg>

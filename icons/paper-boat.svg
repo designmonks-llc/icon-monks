@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="paper boat,origami,toy,boat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 136 L216 136 Q224 136 220.08 142.97 L191.92 193.03 Q188 200 180 200 L76 200 Q68 200 64.08 193.03 L35.92 142.97 Q32 136 40 136 Z"/>
+    <path d="M79.94 129.04 L124.06 50.96 Q128 44 131.94 50.96 L176.06 129.04 Q180 136 172 136 L84 136 Q76 136 79.94 129.04 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 136 L216 136 Q224 136 220.08 142.97 L191.92 193.03 Q188 200 180 200 L76 200 Q68 200 64.08 193.03 L35.92 142.97 Q32 136 40 136 Z"/>
+    <path d="M79.94 129.04 L124.06 50.96 Q128 44 131.94 50.96 L176.06 129.04 Q180 136 172 136 L84 136 Q76 136 79.94 129.04 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 96 L128 168"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="drop,warning,error,water,liquid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M164.34 129.43 C153.93 95 123.62 58.16 104 32 C80 64 40 112 40 152 A64 64 0 0 0 131.94 209.58 A58 58 0 0 1 164.34 129.43 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M164.34 129.43 C153.93 95 123.62 58.16 104 32 C80 64 40 112 40 152 A64 64 0 0 0 131.94 209.58"/>
+    <path d="M184 152 L184 184"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="216" r="16"/>
+  </g>
+</svg>

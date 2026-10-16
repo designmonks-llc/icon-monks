@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="clock,record,recording,time,hour">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M143.55 222.73 A96 96 0 1 1 224 128 A96 96 0 0 1 222.73 143.55 A56 56 0 0 0 143.55 222.73 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M143.55 222.73 A96 96 0 1 1 224 128 A96 96 0 0 1 222.73 143.55"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 128 L88 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="184" r="32"/>
+  </g>
+</svg>

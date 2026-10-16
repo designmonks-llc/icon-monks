@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit changeover,circuit,electronics,schematic,changeover">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L56 128"/>
+    <circle cx="72" cy="128" r="16"/>
+    <circle cx="184" cy="72" r="16"/>
+    <circle cx="184" cy="184" r="16"/>
+    <path d="M200 72 L224 72"/>
+    <path d="M200 184 L224 184"/>
+    <path d="M86.31 120.84 L169.69 79.16"/>
+  </g>
+</svg>

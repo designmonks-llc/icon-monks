@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="mute music,no music,note,slash,music off">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="184" r="32"/>
+    <path d="M120 184 L120 40"/>
+    <path d="M120 40 C152 48 192 64 184 112"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

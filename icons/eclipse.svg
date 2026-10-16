@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="eclipse,moon,sun,astronomy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="152" cy="112" r="72"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="152" cy="112" r="72"/>
+    <path d="M157.84 183.76 A68 68 0 0 1 100 216 A68 68 0 0 1 86.89 81.28"/>
+  </g>
+</svg>

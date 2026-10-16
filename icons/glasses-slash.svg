@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="glasses,disabled,off,objects">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="152" r="40"/>
+    <circle cx="184" cy="152" r="40"/>
+    <path d="M112 152 A16 16 0 0 1 144 152"/>
+    <path d="M32 152 L56 80 L76 72"/>
+    <path d="M224 152 L200 80 L180 72"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

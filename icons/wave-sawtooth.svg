@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="sawtooth,signal,waveform,sawtooth wave,audio">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 176 L96 80 L96 176 L160 80 L160 176 L224 80"/>
+  </g>
+</svg>

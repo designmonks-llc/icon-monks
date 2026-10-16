@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="tyre,wheel,car,tire repair,puncture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 A96 96 0 1 1 224 128 A96 96 0 1 1 32 128 Z M84 128 A44 44 0 1 0 172 128 A44 44 0 1 0 84 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <circle cx="128" cy="128" r="44"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62.22 104.06 A70 70 0 0 1 93 67.38"/>
+    <path d="M115.84 59.06 A70 70 0 0 1 163 67.38"/>
+    <path d="M181.62 83 A70 70 0 0 1 198 128"/>
+    <path d="M193.78 151.94 A70 70 0 0 1 163 188.62"/>
+    <path d="M140.16 196.94 A70 70 0 0 1 93 188.62"/>
+    <path d="M74.38 173 A70 70 0 0 1 58 128"/>
+  </g>
+</svg>

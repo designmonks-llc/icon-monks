@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit inductor,circuit,electronics,schematic,inductor">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 144 H50 A26 26 0 0 1 102 144 A26 26 0 0 1 154 144 A26 26 0 0 1 206 144 H224"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="surfing,surf,wave,beach">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M207.2 48.8 C204.37 91.23 170.43 142.14 128 184.57 C92.64 219.92 65.77 224.17 48.8 207.2 C31.83 190.23 36.08 163.36 71.43 128 C113.86 85.57 164.77 51.63 207.2 48.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M207.2 48.8 C204.37 91.23 170.43 142.14 128 184.57 C92.64 219.92 65.77 224.17 48.8 207.2 C31.83 190.23 36.08 163.36 71.43 128 C113.86 85.57 164.77 51.63 207.2 48.8 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M178.91 77.09 L68.6 187.4"/>
+  </g>
+</svg>

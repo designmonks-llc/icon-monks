@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="badge,id,employee,lanyard,id badge">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="52" y="56" width="152" height="168" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="52" y="56" width="152" height="168" rx="16"/>
+    <path d="M108 56 L108 32 L148 32 L148 56"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="118" r="22"/>
+    <path d="M84 196 C84 176 102 166 128 166 C154 166 172 176 172 196 Z"/>
+  </g>
+</svg>

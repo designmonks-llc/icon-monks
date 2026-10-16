@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="personal transporter,self balancing,scooter,ride">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="152" width="32" height="72" rx="14"/>
+    <rect x="184" y="152" width="32" height="72" rx="14"/>
+    <rect x="72" y="172" width="112" height="32" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="152" width="32" height="72" rx="14"/>
+    <rect x="184" y="152" width="32" height="72" rx="14"/>
+    <rect x="72" y="172" width="112" height="32" rx="8"/>
+    <path d="M128 172 L128 56"/>
+    <path d="M92 48 L164 48"/>
+  </g>
+</svg>

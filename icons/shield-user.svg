@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="user protection,account security,admin,guard,privacy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L208 64 V120 C208 176 168 208 128 224 C88 208 48 176 48 120 V64 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="128" cy="94" r="18"/>
+    <path d="M92 172 C92 154 108 146 128 146 C148 146 164 154 164 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L208 64 V120 C208 176 168 208 128 224 C88 208 48 176 48 120 V64 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="94" r="18"/>
+    <path d="M92 172 C92 154 108 146 128 146 C148 146 164 154 164 172 Z"/>
+  </g>
+</svg>

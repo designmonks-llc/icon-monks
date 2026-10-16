@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="crescent,islam,star">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M176 60.12 A88 88 0 1 0 176 195.88 A72 72 0 1 1 176 60.12 Z"/>
+    <path d="M176 96 L185.31 119.19 L210.24 120.88 L191.06 136.89 L197.16 161.12 L176 147.84 L154.84 161.12 L160.94 136.89 L141.76 120.88 L166.69 119.19 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M176 60.12 A88 88 0 1 0 176 195.88 A72 72 0 1 1 176 60.12 Z"/>
+    <path d="M176 96 L185.31 119.19 L210.24 120.88 L191.06 136.89 L197.16 161.12 L176 147.84 L154.84 161.12 L160.94 136.89 L141.76 120.88 L166.69 119.19 Z"/>
+  </g>
+</svg>

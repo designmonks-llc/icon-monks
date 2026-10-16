@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="walking,pedestrian,walk,person,directions">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M120 58 A24 24 0 0 1 168 58 A24 24 0 0 1 120 58 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 58 A24 24 0 0 1 168 58 A24 24 0 0 1 120 58 Z"/>
+    <path d="M134 104 L116 158"/>
+    <path d="M132 114 L102 132 L86 158"/>
+    <path d="M132 114 L156 140 L184 144"/>
+    <path d="M116 158 L94 190 L70 222"/>
+    <path d="M116 158 L146 186 L154 222"/>
+  </g>
+</svg>

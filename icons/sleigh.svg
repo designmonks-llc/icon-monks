@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="sleigh,sled,winter,christmas">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 64 H64 Q72 64 72 72 V120 H160 Q200 120 216 96 Q216 168 160 168 H56 Q40 168 40 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 H64 Q72 64 72 72 V120 H160 Q200 120 216 96 Q216 168 160 168 H56 Q40 168 40 152 Z"/>
+    <path d="M32 200 H184 A24 24 0 0 0 208 176"/>
+    <path d="M80 168 L80 200"/>
+    <path d="M160 168 L160 200"/>
+  </g>
+</svg>

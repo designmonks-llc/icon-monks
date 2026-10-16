@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="tow truck,towing,breakdown,roadside">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M152 160 V104 A8 8 0 0 1 160 96 H188 L224 136 V160 Z"/>
+    <rect x="96" y="128" width="56" height="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 160 V104 A8 8 0 0 1 160 96 H188 L224 136 V160 Z"/>
+    <rect x="96" y="128" width="56" height="32"/>
+    <path d="M112 128 L64 64"/>
+    <path d="M64 64 V116 A12 12 0 0 1 40 116"/>
+    <circle cx="120" cy="188" r="20"/>
+    <circle cx="192" cy="188" r="20"/>
+  </g>
+</svg>

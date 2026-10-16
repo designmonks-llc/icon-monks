@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="joker,jester,playing card,clown">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 176 C60 140 56 116 44 100 C76 104 98 120 106 144 C106 108 114 80 128 56 C142 80 150 108 150 144 C158 120 180 104 212 100 C200 116 196 140 192 176 Z"/>
+    <rect x="56" y="176" width="144" height="40" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 176 C60 140 56 116 44 100 C76 104 98 120 106 144 C106 108 114 80 128 56 C142 80 150 108 150 144 C158 120 180 104 212 100 C200 116 196 140 192 176 Z"/>
+    <rect x="56" y="176" width="144" height="40" rx="12"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="44" cy="96" r="16"/>
+    <circle cx="128" cy="52" r="16"/>
+    <circle cx="212" cy="96" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="monorail,train,elevated rail,transit">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 152 V80 A40 40 0 0 1 88 40 H168 A40 40 0 0 1 208 80 V152 A16 16 0 0 1 192 168 H64 A16 16 0 0 1 48 152 Z"/>
+    <path d="M108 168 V224 H148 V168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 152 V80 A40 40 0 0 1 88 40 H168 A40 40 0 0 1 208 80 V152 A16 16 0 0 1 192 168 H64 A16 16 0 0 1 48 152 Z"/>
+    <path d="M108 168 V224 H148 V168"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="76" y="68" width="104" height="44" rx="10"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="88" cy="140" r="14"/>
+    <circle cx="168" cy="140" r="14"/>
+  </g>
+</svg>

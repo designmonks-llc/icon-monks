@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="closed umbrella,rain,folded,accessory">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 48 C152 84 164 120 160 156 H96 C92 120 104 84 128 48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 48 C152 84 164 120 160 156 H96 C92 120 104 84 128 48 Z"/>
+    <path d="M128 32 L128 48"/>
+    <path d="M128 156 V196 A20 20 0 0 1 88 196"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 124 L158 124"/>
+  </g>
+</svg>

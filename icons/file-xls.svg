@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="xls,excel,spreadsheet,file type,excel file">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 112 V32 H152 L200 80 V112"/>
-    <path d="M52 152 L92 216"/>
-    <path d="M92 152 L52 216"/>
-    <path d="M114 152 L114 216 L146 216"/>
-    <path d="M204 152 H184 A16 16 0 0 0 184 184 H188 A16 16 0 0 1 188 216 H168"/>
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M44 160 L82 224"/>
+    <path d="M82 160 L44 224"/>
+    <path d="M114 160 L114 224 L144 224"/>
+    <path d="M212 160 H192 A16 16 0 0 0 192 192 H196 A16 16 0 0 1 196 224 H176"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="hiking,trekking,backpack,walk,walking stick">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="52" r="20"/>
+    <rect x="68" y="88" width="40" height="64" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="52" r="20"/>
+    <path d="M123 92 L112 144"/>
+    <path d="M112 144 L148 180 L144 220"/>
+    <path d="M112 144 L92 184 L76 216"/>
+    <path d="M124 96 L152 124 L172 116"/>
+    <path d="M176 88 L192 216"/>
+    <rect x="68" y="88" width="40" height="64" rx="14"/>
+  </g>
+</svg>

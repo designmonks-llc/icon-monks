@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="stationary bike,spin,fitness,gym">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="168" cy="160" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 L216 216"/>
+    <path d="M64 88 L112 88"/>
+    <path d="M92 88 L104 160 L168 160"/>
+    <path d="M104 160 L84 216"/>
+    <circle cx="168" cy="160" r="40"/>
+    <path d="M168 160 L148 56"/>
+    <path d="M132 56 L180 56"/>
+  </g>
+</svg>

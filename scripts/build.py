@@ -86,15 +86,28 @@ def union(*paths):
     if not paths:
         return pathops.Path()
     acc = pathops.Path()
-    for p in paths:
+    oriented = [_oriented(p) for p in paths]
+    for p in oriented:
         # Orient each input first: raw shapes and pathops output can wind opposite ways, and under
         # nonzero filling an overlap of opposite windings would cancel out instead of merging.
-        acc.addPath(_oriented(p))
+        acc.addPath(p)
     try:
         acc.simplify(fix_winding=False, keep_starting_points=False)
     except pathops.PathOpsError:
         return _union_pairwise(paths)
-    return fix_winding(acc)
+    out = fix_winding(acc)
+    # simplify can also "succeed" on near-coincident edges and drop most of the shape; a union is
+    # never smaller than its largest input, so treat that as a failure too.
+    if _area(out) < 0.98 * max(_area(p) for p in oriented):
+        return _union_pairwise(paths)
+    return out
+
+
+def _area(p):
+    try:
+        return abs(fix_winding(p).area)
+    except Exception:
+        return 0.0
 
 
 def _union_pairwise(paths):
@@ -104,7 +117,10 @@ def _union_pairwise(paths):
     for p in paths:
         q = _oriented(p)
         try:
-            acc = pathops.op(acc, q, pathops.PathOp.UNION, fix_winding=False, keep_starting_points=False)
+            nxt = pathops.op(acc, q, pathops.PathOp.UNION, fix_winding=False, keep_starting_points=False)
+            if _area(nxt) < 0.98 * max(_area(acc), _area(q)):
+                raise pathops.PathOpsError('union lost area')
+            acc = nxt
         except pathops.PathOpsError:
             acc.addPath(q)
     return fix_winding(acc)

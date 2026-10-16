@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="aqi,pollution,smog,air">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M85.57 138.43 A60 60 0 1 1 170.43 138.43 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M85.57 138.43 A60 60 0 1 1 170.43 138.43 Z"/>
+    <path d="M40 178 Q56 166 72 178 Q88 190 104 178 Q120 166 136 178 Q152 190 168 178 Q184 166 200 178 Q208 190 216 178"/>
+    <path d="M40 216 Q56 204 72 216 Q88 228 104 216 Q120 204 136 216 Q152 228 168 216 Q184 204 200 216 Q208 228 216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 104 L152 76"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="104" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="fire engine,emergency,firefighter,truck,vehicle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 104 H152 V96 A8 8 0 0 1 160 88 H184 A12 12 0 0 1 193 92 L220 124 A12 12 0 0 1 224 132 V152 A8 8 0 0 1 216 160 H40 A8 8 0 0 1 32 152 V112 A8 8 0 0 1 40 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 H152 V96 A8 8 0 0 1 160 88 H184 A12 12 0 0 1 193 92 L220 124 A12 12 0 0 1 224 132 V152 A8 8 0 0 1 216 160 H40 A8 8 0 0 1 32 152 V112 A8 8 0 0 1 40 104 Z"/>
+    <circle cx="72" cy="188" r="20"/>
+    <circle cx="184" cy="188" r="20"/>
+    <path d="M44 72 L124 72"/>
+    <path d="M44 72 L44 104"/>
+    <path d="M84 72 L84 104"/>
+    <path d="M124 72 L124 104"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 132 L124 132"/>
+  </g>
+</svg>

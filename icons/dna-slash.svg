@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="dna,disabled,off,science">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116.66 74.23 C143.77 88.49 176 100.19 176 128 C176 129.79 175.87 131.52 175.61 133.18"/>
+    <path d="M131.71 174.14 C106.54 186.79 80 198.76 80 224"/>
+    <path d="M176 32 C176 57.24 149.46 69.21 124.29 81.86"/>
+    <path d="M80.39 122.82 C80.13 124.48 80 126.21 80 128 C80 155.81 112.23 167.51 139.34 181.77"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

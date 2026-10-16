@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="landing,arrival,flight,airplane,land">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M183.96 130.14 A16 16 0 0 1 167.96 157.86 L133.32 137.86 L77.61 170.35 L56.82 158.35 L98.68 117.86 L77.89 105.86 L48.31 121.11 L37.91 115.11 L66.84 81 L81.91 38.89 L92.31 44.89 L93.89 78.14 L114.68 90.14 L128.82 33.65 L149.61 45.65 L149.32 110.14 L183.96 130.14 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M183.96 130.14 A16 16 0 0 1 167.96 157.86 L133.32 137.86 L77.61 170.35 L56.82 158.35 L98.68 117.86 L77.89 105.86 L48.31 121.11 L37.91 115.11 L66.84 81 L81.91 38.89 L92.31 44.89 L93.89 78.14 L114.68 90.14 L128.82 33.65 L149.61 45.65 L149.32 110.14 L183.96 130.14 Z"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+</svg>

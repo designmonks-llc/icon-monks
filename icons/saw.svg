@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="saw,carpenter,woodwork,tool">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 76 L216 116 L216 148 L204 160.4 L192 152.8 L180 165.2 L168 157.6 L156 170 L144 162.4 L132 174.8 L120 167.2 L108 179.6 L96 172 Z"/>
+    <rect x="32" y="72" width="64" height="112" rx="20"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <rect x="52" y="100" width="24" height="56" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 76 L216 116 L216 148 L204 160.4 L192 152.8 L180 165.2 L168 157.6 L156 170 L144 162.4 L132 174.8 L120 167.2 L108 179.6 L96 172 Z"/>
+    <rect x="32" y="72" width="64" height="112" rx="20"/>
+    <rect x="52" y="100" width="24" height="56" rx="12"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="detective,investigator,incognito,mystery,spy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 96 L88 52 C90 44 98 40 106 43 L128 52 L150 43 C158 40 166 44 168 52 L180 96 Z"/>
+    <path d="M84 132 H120 V140 A16 16 0 0 1 104 156 H100 A16 16 0 0 1 84 140 Z"/>
+    <path d="M136 132 H172 V140 A16 16 0 0 1 156 156 H152 A16 16 0 0 1 136 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 96 L88 52 C90 44 98 40 106 43 L128 52 L150 43 C158 40 166 44 168 52 L180 96"/>
+    <path d="M32 100 C64 90 192 90 224 100"/>
+    <path d="M84 104 C80 168 100 208 128 208 C156 208 176 168 172 104"/>
+    <path d="M84 132 H120 V140 A16 16 0 0 1 104 156 H100 A16 16 0 0 1 84 140 Z"/>
+    <path d="M136 132 H172 V140 A16 16 0 0 1 156 156 H152 A16 16 0 0 1 136 140 Z"/>
+    <path d="M120 136 L136 136"/>
+  </g>
+</svg>

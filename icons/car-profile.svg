@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="car side view,vehicle,sedan">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 H176 C196 112 212 116 219 123 A12 12 0 0 1 224 132 V148 A12 12 0 0 1 212 160 H44 A12 12 0 0 1 32 148 V128 A16 16 0 0 1 48 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 H176 C196 112 212 116 219 123 A12 12 0 0 1 224 132 V148 A12 12 0 0 1 212 160 H44 A12 12 0 0 1 32 148 V128 A16 16 0 0 1 48 112 Z"/>
+    <path d="M60 112 L88 64 L156 64 L196 112"/>
+    <path d="M124 64 L124 112"/>
+    <circle cx="76" cy="188" r="20"/>
+    <circle cx="180" cy="188" r="20"/>
+  </g>
+</svg>

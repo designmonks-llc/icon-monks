@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="switch camera,flip,selfie,rotate,flip camera">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 88 A16 16 0 0 1 48 72 H80 L96 48 H160 L176 72 H208 A16 16 0 0 1 224 88 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 A16 16 0 0 1 48 72 H80 L96 48 H160 L176 72 H208 A16 16 0 0 1 224 88 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92.55 133.75 A36 36 0 0 1 155.58 116.86"/>
+    <path d="M135.65 115.12 L155.58 116.86 L157.32 96.94"/>
+    <path d="M163.45 146.25 A36 36 0 0 1 100.42 163.14"/>
+    <path d="M120.35 164.88 L100.42 163.14 L98.68 183.06"/>
+  </g>
+</svg>

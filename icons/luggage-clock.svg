@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="baggage,delay,luggage,travel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 64H184C192.84 64 200 71.16 200 80V130.32C194.93 128.81 189.56 128 184 128C153.07 128 128 153.07 128 184C128 195.9 131.71 206.93 138.04 216H72C63.16 216 56 208.84 56 200V80C56 71.16 63.16 64 72 64Z"/>
+    <circle cx="184" cy="184" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 216 L68.06 215.51 L61.37 211.96 L57.08 205.78 L56.12 77.99 L58.87 70.86 L64.48 65.87 L69.99 64.12 L186.01 64.12 L193.14 66.87 L198.13 72.48 L199.88 77.99 L200 122"/>
+    <path d="M96 64 V48 A16 16 0 0 1 112 32 H144 A16 16 0 0 1 160 48 V64"/>
+    <circle cx="184" cy="184" r="40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 100 L96 180"/>
+    <path d="M160 100 L160 124"/>
+    <path d="M184 162 L184 184 L198 194"/>
+  </g>
+</svg>

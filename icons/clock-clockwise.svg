@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="later,forward in time,schedule">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 136 A88 88 0 1 1 190.23 73.77"/>
+    <path d="M150.23 73.77 L190.23 73.77 L190.23 33.77"/>
+    <path d="M128 92 L128 136 L160 156"/>
+  </g>
+</svg>

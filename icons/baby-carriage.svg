@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="stroller,pram,baby,child friendly,carriage">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 96 H216 C216 132 184 152 128 152 C72 152 40 132 40 96 Z"/>
+    <path d="M128 96 V32 A88 64 0 0 0 40 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 96 H216 C216 132 184 152 128 152 C72 152 40 132 40 96 Z"/>
+    <path d="M128 96 V32 A88 64 0 0 0 40 96 Z"/>
+    <path d="M204 96 L220 56"/>
+    <circle cx="84" cy="196" r="20"/>
+    <circle cx="172" cy="196" r="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 96 L128 96"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="exposure,remove,subtract,photo,camera">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M154 224 L48 224 A16 16 0 0 1 32 208 L32 48 A16 16 0 0 1 48 32 L208 32 A16 16 0 0 1 224 48 L224 154 A50 50 0 1 0 154 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154 224 L48 224 A16 16 0 0 1 32 208 L32 48 A16 16 0 0 1 48 32 L208 32 A16 16 0 0 1 224 48 L224 154"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36.69 36.69 L148.64 148.64"/>
+    <path d="M168 64 L168 112"/>
+    <path d="M144 88 L192 88"/>
+    <path d="M64 168 L112 168"/>
+  </g>
+</svg>

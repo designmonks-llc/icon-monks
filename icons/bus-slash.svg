@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="bus,disabled,off,transport">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M149.57 192 L68 192 A20 20 0 0 1 48 172 L48 90.43"/>
+    <path d="M74.43 32 L188 32 A20 20 0 0 1 208 52 L208 165.57"/>
+    <path d="M72 192 L72 208 A8 8 0 0 0 80 216 L96 216 A8 8 0 0 0 104 208 L104 192"/>
+    <path d="M152 194.43 L152 208 A8 8 0 0 0 160 216 L173.57 216"/>
+    <path d="M106.43 64 L176 64 A8 8 0 0 1 184 72 L184 112 A8 8 0 0 1 176 120 L162.43 120"/>
+    <path d="M76.98 119.41 A8 8 0 0 1 72.59 115.02"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="88" cy="156" r="16"/>
+  </g>
+</svg>

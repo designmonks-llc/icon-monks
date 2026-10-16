@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="square meter,area,m2,unit">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 120 V208 M44 146 A26 26 0 0 1 96 146 V208 M96 146 A26 26 0 0 1 148 146 V208"/>
+    <path d="M172.75 64.31 A22 22 0 1 1 210.85 84.14 L172 116 H218"/>
+  </g>
+</svg>

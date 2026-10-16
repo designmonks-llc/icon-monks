@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="torii,shrine gate,japan,shinto">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 Q128 80 224 48"/>
+    <path d="M48 108 L208 108"/>
+    <path d="M80 60 L80 216"/>
+    <path d="M176 60 L176 216"/>
+    <path d="M128 64 L128 108"/>
+  </g>
+</svg>

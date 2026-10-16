@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="diamond,cards,poker,suit,diamonds">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 Q156 88 196 128 Q156 168 128 224 Q100 168 60 128 Q100 88 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 Q156 88 196 128 Q156 168 128 224 Q100 168 60 128 Q100 88 128 32 Z"/>
+  </g>
+</svg>

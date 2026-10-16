@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="car door,car,vehicle,auto,door">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 40 H192 A16 16 0 0 1 208 56 V200 A16 16 0 0 1 192 216 H64 A16 16 0 0 1 48 200 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 40 H192 A16 16 0 0 1 208 56 V200 A16 16 0 0 1 192 216 H64 A16 16 0 0 1 48 200 V112 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 68 L180 68 L180 112 L84 112 Z"/>
+    <path d="M148 148 L180 148"/>
+  </g>
+</svg>

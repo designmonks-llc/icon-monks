@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="wheat,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 108 L128 224"/>
+    <path d="M128 108 Q152 76 128 44 Q104 76 128 108 Z"/>
+    <path d="M128 124 Q123.97 86.03 86 82 Q90.03 119.97 128 124 Z"/>
+    <path d="M128 124 Q165.97 119.97 170 82 Q132.03 86.03 128 124 Z"/>
+    <path d="M128 176 Q123.97 138.03 86 134 Q90.03 171.97 128 176 Z"/>
+    <path d="M128 176 Q165.97 171.97 170 134 Q132.03 138.03 128 176 Z"/>
+    <path d="M80 74 L64 52"/>
+    <path d="M176 74 L192 52"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

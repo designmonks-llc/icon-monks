@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="christmas tree,disabled,off,nature">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M114.98 69.73 L116.59 63.71 L101.37 51.35 L120.95 50.29 L128 32 L135.05 50.29 L154.63 51.35 L139.41 63.71 L144.46 82.65 L128 72 L121.48 76.22"/>
+    <path d="M150.75 196 L52 196 L100 148 L84 148 L92.59 137.85"/>
+    <path d="M128 196 L128 224"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="104" cy="176" r="14"/>
+  </g>
+</svg>

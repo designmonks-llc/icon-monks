@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="user,bitcoin,crypto">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM142.04 216C135.71 206.93 132 195.9 132 184C132 173.6 134.83 163.87 139.77 155.53C129.25 150.56 117.05 148 104 148C64 148 32 172 32 216H142.04Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
+    <path d="M32 216 C32 172 64 148 104 148 C117.06 148 129.26 150.56 139.78 155.53"/>
+    <path d="M170 158 L194 158 A13 13 0 0 1 194 184 L178 184"/>
+    <path d="M178 184 L197 184 A13 13 0 0 1 197 210 L170 210"/>
+    <path d="M178 158 L178 210"/>
+    <path d="M188 146 L188 158"/>
+    <path d="M188 210 L188 222"/>
+  </g>
+</svg>

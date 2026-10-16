@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="shovel,dig,spade,garden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M106.06 104.37 L155.08 145.51 Q161.21 150.65 156.07 156.78 L140.64 175.16 Q127.79 190.48 108.1 194.02 L72.2 200.48 Q66.29 201.54 66.31 195.54 L66.44 159.06 Q66.5 139.06 79.36 123.74 L94.79 105.35 Q99.93 99.22 106.06 104.37 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M106.06 104.37 L155.08 145.51 Q161.21 150.65 156.07 156.78 L140.64 175.16 Q127.79 190.48 108.1 194.02 L72.2 200.48 Q66.29 201.54 66.31 195.54 L66.44 159.06 Q66.5 139.06 79.36 123.74 L94.79 105.35 Q99.93 99.22 106.06 104.37 Z"/>
+    <path d="M168.75 42.1 L205.52 72.95"/>
+    <path d="M187.14 57.52 L130.57 124.94"/>
+  </g>
+</svg>

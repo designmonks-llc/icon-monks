@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="luggage trolley,hand truck,airport,cart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="112" y="104" width="88" height="96" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 32 H80 V200 H216"/>
+    <rect x="112" y="104" width="88" height="96" rx="14"/>
+    <circle cx="72" cy="208" r="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 132 L140 172"/>
+    <path d="M172 132 L172 172"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sun hat,straw hat,summer,beach">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="156" rx="96" ry="36"/>
+    <path d="M80 124.8 V108 A48 48 0 0 1 176 108 V124.8 A96 36 0 0 0 80 124.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="156" rx="96" ry="36"/>
+    <path d="M80 124.8 V108 A48 48 0 0 1 176 108 V124.8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 124.8 A96 36 0 0 1 176 124.8"/>
+  </g>
+</svg>

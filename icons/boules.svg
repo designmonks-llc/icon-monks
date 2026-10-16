@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="petanque,bocce,balls">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="72" cy="172" r="40"/>
+    <circle cx="184" cy="172" r="40"/>
+    <circle cx="128" cy="79" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="172" r="40"/>
+    <circle cx="184" cy="172" r="40"/>
+    <circle cx="128" cy="79" r="40"/>
+  </g>
+</svg>

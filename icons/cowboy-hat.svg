@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="western,cowboy,hat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 124 C48 148 80 160 128 160 C176 160 208 148 224 124 C224 168 184 196 128 196 C72 196 32 168 32 124 Z"/>
+    <path d="M80 158 L90 84 C92 68 106 62 118 70 L128 78 L138 70 C150 62 164 68 166 84 L176 158 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 124 C48 148 80 160 128 160 C176 160 208 148 224 124 C224 168 184 196 128 196 C72 196 32 168 32 124 Z"/>
+    <path d="M80 158 L90 84 C92 68 106 62 118 70 L128 78 L138 70 C150 62 164 68 166 84 L176 158"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 126 L172 126"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="jacket,coat,clothing,outerwear">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 52 L60 68 C48 74 44 84 42 96 L32 172 L64 180 L80 116 V216 H176 V116 L192 180 L224 172 L214 96 C212 84 208 74 196 68 L160 52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 52 L60 68 C48 74 44 84 42 96 L32 172 L64 180 L80 116 V216 H176 V116 L192 180 L224 172 L214 96 C212 84 208 74 196 68 L160 52"/>
+    <path d="M96 52 L128 100 L160 52"/>
+    <path d="M96 52 C112 44 144 44 160 52"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 100 L128 216"/>
+    <path d="M96 52 L104 92 L124 94"/>
+    <path d="M160 52 L152 92 L132 94"/>
+  </g>
+</svg>

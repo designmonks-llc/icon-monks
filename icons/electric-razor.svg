@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="electric razor,shaver,grooming,shave">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="144" height="56" rx="16"/>
+    <path d="M80 88 L88 208 A16 16 0 0 0 104 224 H152 A16 16 0 0 0 168 208 L176 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="144" height="56" rx="16"/>
+    <path d="M80 88 L88 208 A16 16 0 0 0 104 224 H152 A16 16 0 0 0 168 208 L176 88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 32 L104 88"/>
+    <path d="M152 32 L152 88"/>
+    <path d="M128 128 L128 160"/>
+  </g>
+</svg>

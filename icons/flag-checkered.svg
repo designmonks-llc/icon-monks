@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="finish line,race,checkered flag,score">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 32 L56 224"/>
+    <rect x="56" y="40" width="144" height="96" rx="4"/>
+    <path d="M104 40 L104 136"/>
+    <path d="M152 40 L152 136"/>
+    <path d="M56 88 L200 88"/>
+    <path d="M72 56 H88 V72 H72 Z M72 56 L88 72 M88 56 L72 72"/>
+    <path d="M168 56 H184 V72 H168 Z M168 56 L184 72 M184 56 L168 72"/>
+    <path d="M120 104 H136 V120 H120 Z M120 104 L136 120 M136 104 L120 120"/>
+  </g>
+</svg>

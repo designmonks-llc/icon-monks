@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="headlights,high beam,car lights">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M120 56 V200 C72 200 40 168 40 128 C40 88 72 56 120 56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 56 V200 C72 200 40 168 40 128 C40 88 72 56 120 56 Z"/>
+    <path d="M152 72 L216 72"/>
+    <path d="M152 112 L216 112"/>
+    <path d="M152 152 L216 152"/>
+    <path d="M152 192 L216 192"/>
+  </g>
+</svg>

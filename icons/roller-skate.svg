@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="roller skating,skate,rink,quad skate,roller skate">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 52 A12 12 0 0 1 84 40 H124 A12 12 0 0 1 136 52 V96 L180 112 A40 40 0 0 1 208 150 V152 A12 12 0 0 1 196 164 H84 A12 12 0 0 1 72 152 Z"/>
+    <circle cx="100" cy="200" r="20"/>
+    <circle cx="180" cy="200" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 52 A12 12 0 0 1 84 40 H124 A12 12 0 0 1 136 52 V96 L180 112 A40 40 0 0 1 208 150 V152 A12 12 0 0 1 196 164 H84 A12 12 0 0 1 72 152 Z"/>
+    <circle cx="100" cy="200" r="20"/>
+    <circle cx="180" cy="200" r="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 128 L136 128"/>
+  </g>
+</svg>

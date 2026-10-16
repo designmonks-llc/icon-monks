@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="holding hands,couple,together,love">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="64" r="22"/>
+    <circle cx="180" cy="64" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="64" r="22"/>
+    <path d="M76 104 L76 156"/>
+    <path d="M36 148 L76 112 L128 152 L180 112 L220 148"/>
+    <path d="M44 220 L76 156 L108 220"/>
+    <circle cx="180" cy="64" r="22"/>
+    <path d="M180 104 L180 156"/>
+    <path d="M148 220 L180 156 L212 220"/>
+  </g>
+</svg>

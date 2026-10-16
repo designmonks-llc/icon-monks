@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="engine,disabled,off,transport">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 112 L181.95 112.16 L187.09 114.31 L190.66 118.48 L192 124 L192 152"/>
+    <path d="M160 200 L74.05 199.84 L68.91 197.69 L65.34 193.52 L64 188 L64.16 122.05 L66.31 116.91 L70.48 113.34 L72.21 112.61"/>
+    <path d="M120 80 L162.13 80.29 L165.66 82.34 L167.71 85.87 L168 112"/>
+    <path d="M128 56V80"/>
+    <path d="M32 132V180"/>
+    <path d="M32 156H64"/>
+    <path d="M192 140 L204 140 L224 124 L224 184"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="moonset,moon,horizon,night">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M149.97 179.99 A64 64 0 0 0 163.3 149.47 A52.36 52.36 0 0 1 95.35 76.17 A64 64 0 0 0 50.03 179.99 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M149.97 179.99 A64 64 0 0 0 163.3 149.47 A52.36 52.36 0 0 1 95.35 76.17 A64 64 0 0 0 50.03 179.99"/>
+    <path d="M32 180 L224 180"/>
+    <path d="M88 214 L168 214"/>
+    <path d="M192 40 L192 120"/>
+    <path d="M168 96 L192 120 L216 96"/>
+  </g>
+</svg>

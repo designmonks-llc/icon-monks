@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="prop plane,propeller,small aircraft">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 116 H208 A16 16 0 0 1 208 148 H48 A16 16 0 0 1 48 116 Z"/>
+    <circle cx="128" cy="132" r="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M95.75 148 L48 148 A16 16 0 0 1 32 132 L32 132 A16 16 0 0 1 48 116 L95.75 116"/>
+    <path d="M160.25 116 L208 116 A16 16 0 0 1 224 132 L224 132 A16 16 0 0 1 208 148 L160.25 148"/>
+    <circle cx="128" cy="132" r="36"/>
+    <path d="M128 44 L128 220"/>
+    <path d="M72 148 L72 184"/>
+    <path d="M184 148 L184 184"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="72" cy="200" r="16"/>
+    <circle cx="184" cy="200" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="132" r="12"/>
+  </g>
+</svg>

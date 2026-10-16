@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="toy brick,building block,toy,construction">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="104" width="192" height="96" rx="14"/>
+    <path d="M56 104 V76 A8 8 0 0 1 64 68 H96 A8 8 0 0 1 104 76 V104 Z"/>
+    <path d="M152 104 V76 A8 8 0 0 1 160 68 H192 A8 8 0 0 1 200 76 V104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="104" width="192" height="96" rx="14"/>
+    <path d="M56 104 V76 A8 8 0 0 1 64 68 H96 A8 8 0 0 1 104 76 V104"/>
+    <path d="M152 104 V76 A8 8 0 0 1 160 68 H192 A8 8 0 0 1 200 76 V104"/>
+  </g>
+</svg>

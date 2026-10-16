@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="tulip,spring,flower">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 64 L104 88 L128 56 L152 88 L176 64 V112 A48 48 0 0 1 80 112 Z"/>
+    <path d="M128 216 C128 188 148 172 180 172 C180 200 160 214 128 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 64 L104 88 L128 56 L152 88 L176 64 V112 A48 48 0 0 1 80 112 Z"/>
+    <path d="M128 160 L128 224"/>
+    <path d="M128 216 C128 188 148 172 180 172 C180 200 160 214 128 216 Z"/>
+  </g>
+</svg>

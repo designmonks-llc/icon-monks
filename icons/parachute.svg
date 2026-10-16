@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="parachute,skydive,drop,air">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 112 A96 80 0 0 1 224 112 A32 16 0 0 0 160 112 A32 16 0 0 0 96 112 A32 16 0 0 0 32 112 Z"/>
+    <rect x="108" y="184" width="40" height="32" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 112 A96 80 0 0 1 224 112 A32 16 0 0 0 160 112 A32 16 0 0 0 96 112 A32 16 0 0 0 32 112 Z"/>
+    <path d="M32 112 L112 184"/>
+    <path d="M96 112 L116 184"/>
+    <path d="M160 112 L140 184"/>
+    <path d="M224 112 L144 184"/>
+    <rect x="108" y="184" width="40" height="32" rx="8"/>
+  </g>
+</svg>

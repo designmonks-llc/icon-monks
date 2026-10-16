@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="briefs,underpants,clothing,underwear,undergarment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 56 H216 V104 C216 136 212 160 204 172 C180 174 158 188 152 208 H104 C98 188 76 174 52 172 C44 160 40 136 40 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 56 H216 V104 C216 136 212 160 204 172 C180 174 158 188 152 208 H104 C98 188 76 174 52 172 C44 160 40 136 40 104 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 92 L216 92"/>
+  </g>
+</svg>

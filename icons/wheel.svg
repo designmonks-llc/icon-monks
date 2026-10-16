@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="wheel,tire,car,spokes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 A96 96 0 1 1 224 128 A96 96 0 1 1 32 128 Z M64 128 A64 64 0 1 0 192 128 A64 64 0 1 0 64 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <circle cx="128" cy="128" r="64"/>
+    <path d="M128 128 L128 64"/>
+    <path d="M128 128 L188.87 108.22"/>
+    <path d="M128 128 L165.62 179.78"/>
+    <path d="M128 128 L90.38 179.78"/>
+    <path d="M128 128 L67.13 108.22"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="128" r="20"/>
+  </g>
+</svg>

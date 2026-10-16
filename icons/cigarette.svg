@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="smoking,cigarette,tobacco,smoking area,smoke area">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="156" width="192" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="156" width="192" height="40" rx="8"/>
+    <path d="M168 132 C152 116 184 100 168 84 C160 76 164 68 168 60"/>
+    <path d="M204 132 C188 116 220 100 204 84 C196 76 200 68 204 60"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 156 L80 196"/>
+  </g>
+</svg>

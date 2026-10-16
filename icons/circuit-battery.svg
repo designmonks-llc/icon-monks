@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit battery,circuit,electronics,schematic,battery">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L80 128"/>
+    <path d="M80 64 L80 192"/>
+    <path d="M112 96 L112 160"/>
+    <path d="M144 64 L144 192"/>
+    <path d="M176 96 L176 160"/>
+    <path d="M176 128 L224 128"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="twig,branch,stick,wood">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 112 Q106.73 64.15 56 56 Q37.27 103.85 88 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 L200 56"/>
+    <path d="M104 152 L88 112"/>
+    <path d="M152 104 L208 112"/>
+    <path d="M88 112 Q106.73 64.15 56 56 Q37.27 103.85 88 112 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="calipers,measure,diameter,precision">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 64 H44 A12 12 0 0 0 32 76 V164 L72 204 V92 H112 Z"/>
+    <rect x="112" y="52" width="52" height="52" rx="10"/>
+    <path d="M120 104 V204 L156 168 V104 Z"/>
+    <path d="M164 64 H210 A14 14 0 0 1 210 92 H164 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 H44 A12 12 0 0 0 32 76 V164 L72 204 V92 H112"/>
+    <rect x="112" y="52" width="52" height="52" rx="10"/>
+    <path d="M120 104 V204 L156 168 V104"/>
+    <path d="M164 64 H210 A14 14 0 0 1 210 92 H164"/>
+  </g>
+</svg>

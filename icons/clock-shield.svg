@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock,secure,protected,time,hour">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M131.46 223.94 A96 96 0 1 1 224 128 A96 96 0 0 1 223.94 131.46 A66 66 0 0 0 131.46 223.94 Z"/>
+    <path d="M184 150 L212 162 V182 C212 204 199 214 184 220 C169 214 156 204 156 182 V162 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M131.46 223.94 A96 96 0 1 1 224 128 A96 96 0 0 1 223.94 131.46"/>
+    <path d="M184 150 L212 162 V182 C212 204 199 214 184 220 C169 214 156 204 156 182 V162 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 128 L88 128"/>
+  </g>
+</svg>

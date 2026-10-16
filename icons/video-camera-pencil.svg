@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="video editor,edit video,media,clip">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 160 H46 A14 14 0 0 1 32 146 V62 A14 14 0 0 1 46 48 H154 A14 14 0 0 1 168 62 V124 L132 160 Z"/>
+    <path d="M168 88 L224 60 L224 148 L168 120 Z"/>
+    <path d="M136 224 L144.49 187.23 L184.08 147.63 L212.37 175.92 L172.77 215.51 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 160 H46 A14 14 0 0 1 32 146 V62 A14 14 0 0 1 46 48 H154 A14 14 0 0 1 168 62 V124"/>
+    <path d="M168 88 L224 60 L224 148 L168 120 Z"/>
+    <path d="M136 224 L144.49 187.23 L184.08 147.63 L212.37 175.92 L172.77 215.51 Z"/>
+  </g>
+</svg>

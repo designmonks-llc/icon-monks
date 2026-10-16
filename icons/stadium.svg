@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="stadium,arena,venue,sports ground,sports">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 108 A96 40 0 0 1 224 108 V168 A96 40 0 0 1 32 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 108 A96 40 0 0 1 224 108 V168 A96 40 0 0 1 32 168 Z"/>
+    <path d="M64 78.19 L64 36 L92 46 L64 56"/>
+    <path d="M192 78.19 L192 36 L220 46 L192 56"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 108 A96 40 0 0 0 224 108"/>
+    <path d="M32 140 A96 40 0 0 0 224 140"/>
+    <ellipse cx="128" cy="108" rx="52" ry="14"/>
+  </g>
+</svg>

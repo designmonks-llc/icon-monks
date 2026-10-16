@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="album,disabled,off,media">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 194.43 L152 210 A14 14 0 0 1 138 224 L46 224 A14 14 0 0 1 32 210 L32 118 A14 14 0 0 1 46 104 L61.57 104"/>
+    <path d="M109.45 67.02 A60 60 0 1 1 188.98 146.55"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="164" cy="92" r="14"/>
+  </g>
+</svg>

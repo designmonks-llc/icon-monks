@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="soap,lotion,pump,dispenser,soap dispenser">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="112" width="128" height="112" rx="24"/>
+    <rect x="104" y="88" width="48" height="24" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="112" width="128" height="112" rx="24"/>
+    <path d="M104 112 V96 A8 8 0 0 1 112 88 H144 A8 8 0 0 1 152 96 V112"/>
+    <path d="M128 88 L128 56"/>
+    <path d="M96 56 L176 56 L176 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 168 L156 168"/>
+  </g>
+</svg>

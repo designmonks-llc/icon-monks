@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="skateboard,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 92 C40 108 50 116 68 116 H188 C206 116 216 108 220 92"/>
+    <circle cx="80" cy="156" r="20"/>
+    <circle cx="176" cy="156" r="20"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

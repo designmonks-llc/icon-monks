@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="surveying,theodolite,tripod,measure">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="56" width="128" height="44" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="56" width="128" height="44" rx="12"/>
+    <path d="M40 78 L64 78"/>
+    <path d="M128 100 L128 124"/>
+    <path d="M92 124 L164 124"/>
+    <path d="M116 124 L72 216"/>
+    <path d="M140 124 L184 216"/>
+    <path d="M128 124 L128 216"/>
+  </g>
+</svg>

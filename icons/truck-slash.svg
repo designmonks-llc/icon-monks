@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="truck,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 56 H136 A16 16 0 0 1 152 72 V160 H24 V72 A16 16 0 0 1 40 56 Z"/>
+    <path d="M152 96 H188 L224 136 V160 H152"/>
+    <circle cx="72" cy="188" r="20"/>
+    <circle cx="184" cy="188" r="20"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

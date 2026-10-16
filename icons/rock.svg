@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="rock,stone,boulder,geology">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M42 212 Q32 212 33.64 202.14 L38.36 173.86 Q40 164 46.25 156.19 L65.75 131.81 Q72 124 81.7 121.57 L94.3 118.43 Q104 116 109.37 107.56 L126.63 80.44 Q132 72 141.97 71.17 L170.03 68.83 Q180 68 185.73 76.19 L202.27 99.81 Q208 108 210.58 117.66 L221.42 158.34 Q224 168 223.09 177.96 L220.91 202.04 Q220 212 210 212 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 212 Q32 212 33.64 202.14 L38.36 173.86 Q40 164 46.25 156.19 L65.75 131.81 Q72 124 81.7 121.57 L94.3 118.43 Q104 116 109.37 107.56 L126.63 80.44 Q132 72 141.97 71.17 L170.03 68.83 Q180 68 185.73 76.19 L202.27 99.81 Q208 108 210.58 117.66 L221.42 158.34 Q224 168 223.09 177.96 L220.91 202.04 Q220 212 210 212 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 156 L144 120 L180 132"/>
+  </g>
+</svg>

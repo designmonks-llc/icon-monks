@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="capricorn,zodiac,astrology,horoscope">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 64 L76 176 L112 64 V176 C112 206 148 214 168 198 C190 180 184 142 158 142 C132 142 126 178 140 210"/>
+  </g>
+</svg>

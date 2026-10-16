@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="team,community,group,people,three people">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="96" r="32"/>
+    <path d="M68 208 C68 172 92 156 128 156 C164 156 188 172 188 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="96" r="32"/>
+    <path d="M68 208 C68 172 92 156 128 156 C164 156 188 172 188 208"/>
+    <path d="M171.29 64.08 A26 26 0 1 1 179.11 108.43"/>
+    <path d="M204 136 C216 142 224 160 224 184"/>
+    <path d="M84.71 64.08 A26 26 0 1 0 76.89 108.43"/>
+    <path d="M52 136 C40 142 32 160 32 184"/>
+  </g>
+</svg>

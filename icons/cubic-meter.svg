@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="cubic meter,volume,m3,unit">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 200 V112"/>
+    <path d="M40 140 A24 24 0 0 1 88 140 V200"/>
+    <path d="M88 140 A24 24 0 0 1 136 140 V200"/>
+    <path d="M176 52 H198 A16 16 0 0 1 198 84 H188"/>
+    <path d="M188 84 H200 A18 18 0 0 1 200 120 H176"/>
+  </g>
+</svg>

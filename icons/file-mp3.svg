@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="mp3,audio,music,file type">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M36 224 L36 164 L60 201.2 L84 164 L84 224"/>
-    <path d="M116 224 V164 H135.2 A16.8 16.8 0 0 1 135.2 197.6 H116"/>
-    <path d="M184 164 H220 L202 188 A18 18 0 1 1 186.41 215"/>
+    <path d="M41.58 224 L41.58 160 L63.58 198.4 L85.58 160 L85.58 224"/>
+    <path d="M117.58 224 V160 H134.3 A17.28 17.28 0 0 1 134.3 194.56 H117.58"/>
+    <path d="M180.42 160 H195.38 A15.04 15.04 0 0 1 195.38 190.08 H190.62"/>
+    <path d="M195.38 190.08 H197.46 A16.96 16.96 0 0 1 197.46 224 H180.42"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

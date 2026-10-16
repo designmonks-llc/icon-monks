@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="retina scan,biometric,iris,iris scan,eye recognition">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M65.6 128 C84.8 94.4 108.8 84.8 128 84.8 C147.2 84.8 171.2 94.4 190.4 128 C171.2 161.6 147.2 171.2 128 171.2 C108.8 171.2 84.8 161.6 65.6 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <path d="M65.6 128 C84.8 94.4 108.8 84.8 128 84.8 C147.2 84.8 171.2 94.4 190.4 128 C171.2 161.6 147.2 171.2 128 171.2 C108.8 171.2 84.8 161.6 65.6 128 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="128" r="22"/>
+  </g>
+</svg>

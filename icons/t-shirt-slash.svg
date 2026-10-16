@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="t shirt,off,disabled,hidden,shirt">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 A32 32 0 0 0 160 40 L204 56 L224 104 L184 116 V216 H72 V116 L32 104 L52 56 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

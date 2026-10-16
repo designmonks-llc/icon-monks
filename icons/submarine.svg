@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="submarine,underwater,navy,sub">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 192 L184 192 A40 40 0 0 0 184 112 L88 112 A40 40 0 0 0 88 192 Z"/>
+    <path d="M104 112 V88 A8 8 0 0 1 112 80 H152 A8 8 0 0 1 160 88 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 192 L184 192 A40 40 0 0 0 184 112 L88 112 A40 40 0 0 0 88 192 Z"/>
+    <path d="M104 112 V88 A8 8 0 0 1 112 80 H152 A8 8 0 0 1 160 88 V112"/>
+    <path d="M136 80 L136 48 L156 48"/>
+    <path d="M32 128 L32 176"/>
+    <path d="M32 152 L48 152"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="152" r="16"/>
+    <circle cx="144" cy="152" r="16"/>
+    <circle cx="184" cy="152" r="16"/>
+  </g>
+</svg>

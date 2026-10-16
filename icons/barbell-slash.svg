@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="barbell,disabled,off,sports">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="64" width="40" height="128" rx="12"/>
+    <rect x="160" y="64" width="40" height="128" rx="12"/>
+    <path d="M96 128 L160 128"/>
+    <path d="M32 128 L56 128"/>
+    <path d="M200 128 L224 128"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

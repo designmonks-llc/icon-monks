@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="rugby,ball,sport,oval">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 196 A104 104 0 0 1 196 60 A104 104 0 0 1 60 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 196 A104 104 0 0 1 196 60 A104 104 0 0 1 60 196 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96.89 159.11 L159.11 96.89"/>
+    <path d="M94.06 139.31 L116.69 161.94"/>
+    <path d="M116.69 116.69 L139.31 139.31"/>
+    <path d="M139.31 94.06 L161.94 116.69"/>
+  </g>
+</svg>

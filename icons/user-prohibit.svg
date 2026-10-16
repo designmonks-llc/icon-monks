@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="block user,banned,forbidden,person">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM139.62 216C133.54 206.83 130 195.83 130 184C130 173.31 132.89 163.29 137.94 154.69C127.85 150.27 116.3 148 104 148C64 148 32 172 32 216H139.62Z"/>
+    <circle cx="188" cy="184" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
+    <path d="M32 216 C32 172 64 148 104 148 C116.31 148 127.85 150.27 137.95 154.7"/>
+    <circle cx="188" cy="184" r="28"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168.2 164.2 L207.8 203.8"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="camping,fire,logs,campfire,outdoors">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 168 C100 168 80 148 80 120 C80 88 108 72 116 40 C140 56 156 80 156 100 C164 96 170 88 172 80 C180 96 176 108 176 120 C176 148 156 168 128 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 168 C100 168 80 148 80 120 C80 88 108 72 116 40 C140 56 156 80 156 100 C164 96 170 88 172 80 C180 96 176 108 176 120 C176 148 156 168 128 168 Z"/>
+    <path d="M52 216 L204 184"/>
+    <path d="M52 184 L204 216"/>
+  </g>
+</svg>

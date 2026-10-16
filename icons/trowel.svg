@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="trowel,garden,masonry,tool">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M200.12 55.88 C202.95 92.64 193.05 116.69 176.08 133.66 C160.53 149.21 140.73 146.38 125.17 130.83 C109.62 115.27 106.79 95.47 122.34 79.92 C139.31 62.95 163.36 53.05 200.12 55.88 Z"/>
+    <path d="M89.82 143.56 L55.88 177.5 A16 16 0 1 0 78.5 200.12 L112.44 166.18 A16 16 0 0 0 89.82 143.56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200.12 55.88 C202.95 92.64 193.05 116.69 176.08 133.66 C160.53 149.21 140.73 146.38 125.17 130.83 C109.62 115.27 106.79 95.47 122.34 79.92 C139.31 62.95 163.36 53.05 200.12 55.88 Z"/>
+    <path d="M125.17 130.83 L106.79 149.21"/>
+    <path d="M89.82 143.56 L55.88 177.5 A16 16 0 1 0 78.5 200.12 L112.44 166.18 A16 16 0 0 0 89.82 143.56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174.67 81.33 L142.14 113.86"/>
+  </g>
+</svg>

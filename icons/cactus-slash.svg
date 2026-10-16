@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="cactus,disabled,off,nature">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 197.25 L152 216 L104 216 L104 172 L54 172 A18 18 0 0 1 36 154 L36 100 A18 18 0 0 1 41.65 86.9"/>
+    <path d="M72 117.25 L72 136 L90.75 136"/>
+    <path d="M104.48 59.22 A24 24 0 0 1 152 64 L152 100 L184 100 L184 76 A18 18 0 0 1 220 76 L220 118 A18 18 0 0 1 202 136 L181.25 136"/>
+    <path d="M64 216 L170.75 216"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

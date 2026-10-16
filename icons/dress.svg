@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="dress,clothing,fashion,gown">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 32 V72 C100 88 106 100 112 112 L52 212 Q128 228 204 212 L144 112 C150 100 156 88 156 72 V32 C146 52 110 52 100 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 32 V72 C100 88 106 100 112 112 L52 212 Q128 228 204 212 L144 112 C150 100 156 88 156 72 V32 C146 52 110 52 100 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 112 L144 112"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="long sleeve,shirt,clothing,top">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 40 A28 28 0 0 0 156 40 L196 52 L224 180 L192 192 L168 116 V216 H88 V116 L64 192 L32 180 L60 52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 40 A28 28 0 0 0 156 40 L196 52 L224 180 L192 192 L168 116 V216 H88 V116 L64 192 L32 180 L60 52 Z"/>
+  </g>
+</svg>

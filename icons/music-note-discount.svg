@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music note,discount,sale,percent,music">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="88" cy="184" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="184" r="32"/>
+    <path d="M120 184 L120 40"/>
+    <path d="M120 40 C152 48 192 64 184 112"/>
+    <path d="M162 214 L214 162"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="166" cy="166" r="14"/>
+    <circle cx="210" cy="210" r="14"/>
+  </g>
+</svg>

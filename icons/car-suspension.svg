@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="car suspension,car,vehicle,auto,suspension">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="192" height="48" rx="14"/>
+    <rect x="56" y="180" width="32" height="44" rx="14"/>
+    <rect x="168" y="180" width="32" height="44" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="192" height="48" rx="14"/>
+    <path d="M56 72 L78 32 L178 32 L200 72"/>
+    <path d="M72 120 L92 128 L52 144 L92 160 L72 168 L72 180"/>
+    <path d="M184 120 L204 128 L164 144 L204 160 L184 168 L184 180"/>
+    <rect x="56" y="180" width="32" height="44" rx="14"/>
+    <rect x="168" y="180" width="32" height="44" rx="14"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="72" cy="96" r="14"/>
+    <circle cx="184" cy="96" r="14"/>
+  </g>
+</svg>

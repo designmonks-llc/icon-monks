@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="team,group,four people">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="52" r="20"/>
+    <path d="M40 116 C40 100 56 92 76 92 C96 92 112 100 112 116 Z"/>
+    <circle cx="76" cy="148" r="20"/>
+    <path d="M40 212 C40 196 56 188 76 188 C96 188 112 196 112 212 Z"/>
+    <circle cx="180" cy="52" r="20"/>
+    <path d="M144 116 C144 100 160 92 180 92 C200 92 216 100 216 116 Z"/>
+    <circle cx="180" cy="148" r="20"/>
+    <path d="M144 212 C144 196 160 188 180 188 C200 188 216 196 216 212 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="52" r="20"/>
+    <path d="M40 116 C40 100 56 92 76 92 C96 92 112 100 112 116"/>
+    <circle cx="76" cy="148" r="20"/>
+    <path d="M40 212 C40 196 56 188 76 188 C96 188 112 196 112 212"/>
+    <circle cx="180" cy="52" r="20"/>
+    <path d="M144 116 C144 100 160 92 180 92 C200 92 216 100 216 116"/>
+    <circle cx="180" cy="148" r="20"/>
+    <path d="M144 212 C144 196 160 188 180 188 C200 188 216 196 216 212"/>
+  </g>
+</svg>

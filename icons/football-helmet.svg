@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="american football,helmet,sport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 192 C44 176 40 152 40 128 C40 80 80 48 132 48 C176 48 204 76 208 112 H160 C152 112 148 120 148 128 V168 C148 184 136 192 120 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 192 C44 176 40 152 40 128 C40 80 80 48 132 48 C176 48 204 76 208 112 H160 C152 112 148 120 148 128 V168 C148 184 136 192 120 192 Z"/>
+    <path d="M148 144 H216 V172 C216 186 208 196 196 196 H152"/>
+    <path d="M184 144 L184 196"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="136" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="verified,biometric ok,authenticated">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M37.79 172.83 A96 96 0 0 1 184.43 128"/>
+    <path d="M64 200 L64 140 A64 64 0 0 1 190.95 128.43"/>
+    <path d="M96 176 L96 140 A32 32 0 0 1 159.37 133.7"/>
+    <path d="M128 140 L128 216"/>
+    <path d="M158 186 L176 204 L210 168"/>
+  </g>
+</svg>

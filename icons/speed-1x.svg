@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="1x,normal speed,playback,video">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M69.28 107.2 L106.72 76 L106.72 180"/>
+    <path d="M134.72 119.68 L186.72 180"/>
+    <path d="M186.72 119.68 L134.72 180"/>
+  </g>
+</svg>

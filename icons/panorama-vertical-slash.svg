@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="panorama vertical,off,disabled,hidden,panorama">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 40 C104 56 152 56 192 40 V216 C152 200 104 200 64 216 Z"/>
+    <path d="M76 196 L112 148 L140 176 L156 160 L180 188"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

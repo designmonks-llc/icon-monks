@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="oxygen tank,scuba,diving,air,scuba tank">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 208 V120 A48 48 0 0 1 176 120 V208 A16 16 0 0 1 160 224 H96 A16 16 0 0 1 80 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 208 V120 A48 48 0 0 1 176 120 V208 A16 16 0 0 1 160 224 H96 A16 16 0 0 1 80 208 Z"/>
+    <path d="M128 48 L128 72"/>
+    <path d="M104 40 L152 40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 144 L176 144"/>
+    <path d="M80 184 L176 184"/>
+  </g>
+</svg>

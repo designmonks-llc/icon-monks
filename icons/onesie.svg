@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="onesie,romper,baby clothes,infant">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 40 C110 56 146 56 152 40 L184 52 L224 92 L196 120 L184 108 V168 C184 188 172 200 156 204 C150 206 148 212 148 220 H108 C108 212 106 206 100 204 C84 200 72 188 72 168 V108 L60 120 L32 92 L72 52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 40 C110 56 146 56 152 40 L184 52 L224 92 L196 120 L184 108 V168 C184 188 172 200 156 204 C150 206 148 212 148 220 H108 C108 212 106 206 100 204 C84 200 72 188 72 168 V108 L60 120 L32 92 L72 52 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="116" cy="188" r="9"/>
+    <circle cx="140" cy="188" r="9"/>
+  </g>
+</svg>

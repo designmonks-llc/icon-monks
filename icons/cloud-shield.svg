@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="cloud security,protection,backup,shield">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 109.36 L155.2 120.24 V139.28 C155.2 158.32 141.6 169.2 128 174.64 C114.4 169.2 100.8 158.32 100.8 139.28 V120.24 Z"/>
+  </g>
+</svg>

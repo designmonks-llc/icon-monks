@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="plant,growth,seedling,care">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 152 H108 C120 152 126 160 132 168 H160 L194 146 A15 15 0 0 1 212 168 L168 212 H64 Z"/>
+    <path d="M148 96 C148 72 132 56 100 56 C100 80 116 96 148 96 Z"/>
+    <path d="M148 84 C148 56 164 40 196 40 C196 68 180 84 148 84 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="144" width="32" height="72" rx="8"/>
+    <path d="M64 152 H108 C120 152 126 160 132 168 H160 L194 146 A15 15 0 0 1 212 168 L168 212 H64 Z"/>
+    <path d="M148 128 L148 84"/>
+    <path d="M148 96 C148 72 132 56 100 56 C100 80 116 96 148 96 Z"/>
+    <path d="M148 84 C148 56 164 40 196 40 C196 68 180 84 148 84 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 184 L140 184"/>
+  </g>
+</svg>
