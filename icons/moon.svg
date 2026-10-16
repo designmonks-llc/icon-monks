@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="night,dark mode,sleep,crescent">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M113.51 48.24 A88 88 0 1 0 207.04 148.97 A72 72 0 0 1 113.51 48.24 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M113.51 48.24 A88 88 0 1 0 207.04 148.97 A72 72 0 0 1 113.51 48.24 Z"/>
+  </g>
+</svg>

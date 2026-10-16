@@ -1,0 +1,960 @@
+[
+ {
+  "name": "arrow-clockwise",
+  "category": "Arrows",
+  "tags": [
+   "refresh",
+   "reload",
+   "redo",
+   "rotate"
+  ]
+ },
+ {
+  "name": "arrow-counter-clockwise",
+  "category": "Arrows",
+  "tags": [
+   "undo",
+   "back",
+   "rotate",
+   "reset"
+  ]
+ },
+ {
+  "name": "arrow-down",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "down",
+   "pointer"
+  ]
+ },
+ {
+  "name": "arrow-left",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "left",
+   "pointer"
+  ]
+ },
+ {
+  "name": "arrow-right",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "right",
+   "pointer"
+  ]
+ },
+ {
+  "name": "arrow-up",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "up",
+   "pointer"
+  ]
+ },
+ {
+  "name": "battery",
+  "category": "Devices",
+  "tags": [
+   "power",
+   "charge",
+   "energy",
+   "level"
+  ]
+ },
+ {
+  "name": "bell",
+  "category": "Interface",
+  "tags": [
+   "notification",
+   "alert",
+   "alarm",
+   "ring"
+  ]
+ },
+ {
+  "name": "bell-ringing",
+  "category": "Communication",
+  "tags": [
+   "notification",
+   "alert",
+   "active",
+   "ring"
+  ]
+ },
+ {
+  "name": "bookmark",
+  "category": "Interface",
+  "tags": [
+   "save",
+   "favorite",
+   "read later"
+  ]
+ },
+ {
+  "name": "calendar",
+  "category": "Files",
+  "tags": [
+   "date",
+   "schedule",
+   "event",
+   "month"
+  ]
+ },
+ {
+  "name": "camera",
+  "category": "Media",
+  "tags": [
+   "photo",
+   "picture",
+   "snapshot",
+   "lens"
+  ]
+ },
+ {
+  "name": "caret-down",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "direction",
+   "down"
+  ]
+ },
+ {
+  "name": "caret-left",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "direction",
+   "left"
+  ]
+ },
+ {
+  "name": "caret-right",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "direction",
+   "right"
+  ]
+ },
+ {
+  "name": "caret-up",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "direction",
+   "up"
+  ]
+ },
+ {
+  "name": "chart-bar",
+  "category": "Files",
+  "tags": [
+   "graph",
+   "analytics",
+   "statistics",
+   "data"
+  ]
+ },
+ {
+  "name": "chat",
+  "category": "Communication",
+  "tags": [
+   "message",
+   "comment",
+   "bubble",
+   "talk"
+  ]
+ },
+ {
+  "name": "chat-text",
+  "category": "Communication",
+  "tags": [
+   "message",
+   "comment",
+   "bubble",
+   "conversation"
+  ]
+ },
+ {
+  "name": "check",
+  "category": "Interface",
+  "tags": [
+   "done",
+   "confirm",
+   "tick",
+   "ok"
+  ]
+ },
+ {
+  "name": "check-circle",
+  "category": "Interface",
+  "tags": [
+   "success",
+   "done",
+   "complete",
+   "verified"
+  ]
+ },
+ {
+  "name": "clock",
+  "category": "Interface",
+  "tags": [
+   "time",
+   "watch",
+   "hour",
+   "schedule"
+  ]
+ },
+ {
+  "name": "cloud",
+  "category": "Weather",
+  "tags": [
+   "weather",
+   "storage",
+   "sky",
+   "overcast"
+  ]
+ },
+ {
+  "name": "code",
+  "category": "Development",
+  "tags": [
+   "programming",
+   "developer",
+   "html",
+   "brackets"
+  ]
+ },
+ {
+  "name": "coffee",
+  "category": "Commerce",
+  "tags": [
+   "cup",
+   "drink",
+   "cafe",
+   "break"
+  ]
+ },
+ {
+  "name": "copy",
+  "category": "Interface",
+  "tags": [
+   "duplicate",
+   "clipboard",
+   "clone"
+  ]
+ },
+ {
+  "name": "corners-out",
+  "category": "Arrows",
+  "tags": [
+   "fullscreen",
+   "expand",
+   "maximize"
+  ]
+ },
+ {
+  "name": "credit-card",
+  "category": "Commerce",
+  "tags": [
+   "payment",
+   "card",
+   "money",
+   "billing"
+  ]
+ },
+ {
+  "name": "cube",
+  "category": "Files",
+  "tags": [
+   "box",
+   "3d",
+   "package",
+   "product"
+  ]
+ },
+ {
+  "name": "cursor",
+  "category": "Interface",
+  "tags": [
+   "pointer",
+   "mouse",
+   "click",
+   "select"
+  ]
+ },
+ {
+  "name": "device-mobile",
+  "category": "Devices",
+  "tags": [
+   "phone",
+   "smartphone",
+   "mobile",
+   "cell"
+  ]
+ },
+ {
+  "name": "dots-three",
+  "category": "Interface",
+  "tags": [
+   "more",
+   "menu",
+   "ellipsis",
+   "overflow"
+  ]
+ },
+ {
+  "name": "download",
+  "category": "Files",
+  "tags": [
+   "save",
+   "import",
+   "get",
+   "arrow"
+  ]
+ },
+ {
+  "name": "drop",
+  "category": "Weather",
+  "tags": [
+   "water",
+   "rain",
+   "liquid",
+   "humidity"
+  ]
+ },
+ {
+  "name": "envelope",
+  "category": "Communication",
+  "tags": [
+   "email",
+   "mail",
+   "message",
+   "inbox"
+  ]
+ },
+ {
+  "name": "eye",
+  "category": "Interface",
+  "tags": [
+   "view",
+   "visible",
+   "show",
+   "watch",
+   "see"
+  ]
+ },
+ {
+  "name": "file",
+  "category": "Files",
+  "tags": [
+   "document",
+   "page",
+   "paper",
+   "blank"
+  ]
+ },
+ {
+  "name": "file-text",
+  "category": "Files",
+  "tags": [
+   "document",
+   "text",
+   "article",
+   "notes"
+  ]
+ },
+ {
+  "name": "flag",
+  "category": "Maps",
+  "tags": [
+   "report",
+   "milestone",
+   "country",
+   "goal"
+  ]
+ },
+ {
+  "name": "folder",
+  "category": "Files",
+  "tags": [
+   "directory",
+   "files",
+   "organize",
+   "archive"
+  ]
+ },
+ {
+  "name": "funnel",
+  "category": "Interface",
+  "tags": [
+   "filter",
+   "sort",
+   "refine"
+  ]
+ },
+ {
+  "name": "gear",
+  "category": "Interface",
+  "tags": [
+   "settings",
+   "preferences",
+   "cog",
+   "options"
+  ]
+ },
+ {
+  "name": "gift",
+  "category": "Commerce",
+  "tags": [
+   "present",
+   "reward",
+   "birthday",
+   "surprise"
+  ]
+ },
+ {
+  "name": "globe",
+  "category": "Maps",
+  "tags": [
+   "world",
+   "earth",
+   "internet",
+   "language",
+   "web"
+  ]
+ },
+ {
+  "name": "hash",
+  "category": "Interface",
+  "tags": [
+   "hashtag",
+   "number",
+   "channel",
+   "tag"
+  ]
+ },
+ {
+  "name": "heart",
+  "category": "Interface",
+  "tags": [
+   "like",
+   "love",
+   "favorite",
+   "health"
+  ]
+ },
+ {
+  "name": "house",
+  "category": "Maps",
+  "tags": [
+   "home",
+   "building",
+   "residence",
+   "main"
+  ]
+ },
+ {
+  "name": "image",
+  "category": "Media",
+  "tags": [
+   "photo",
+   "picture",
+   "gallery",
+   "landscape"
+  ]
+ },
+ {
+  "name": "info",
+  "category": "Interface",
+  "tags": [
+   "information",
+   "help",
+   "about",
+   "details"
+  ]
+ },
+ {
+  "name": "key",
+  "category": "Security",
+  "tags": [
+   "password",
+   "access",
+   "unlock",
+   "login"
+  ]
+ },
+ {
+  "name": "laptop",
+  "category": "Devices",
+  "tags": [
+   "computer",
+   "notebook",
+   "macbook",
+   "device"
+  ]
+ },
+ {
+  "name": "lightbulb",
+  "category": "Devices",
+  "tags": [
+   "idea",
+   "light",
+   "tip",
+   "innovation"
+  ]
+ },
+ {
+  "name": "lightning",
+  "category": "Weather",
+  "tags": [
+   "flash",
+   "energy",
+   "power",
+   "fast",
+   "bolt"
+  ]
+ },
+ {
+  "name": "link",
+  "category": "Development",
+  "tags": [
+   "chain",
+   "url",
+   "hyperlink",
+   "connect"
+  ]
+ },
+ {
+  "name": "list",
+  "category": "Interface",
+  "tags": [
+   "menu",
+   "hamburger",
+   "navigation",
+   "lines"
+  ]
+ },
+ {
+  "name": "list-bullets",
+  "category": "Interface",
+  "tags": [
+   "list",
+   "items",
+   "todo",
+   "unordered"
+  ]
+ },
+ {
+  "name": "lock",
+  "category": "Security",
+  "tags": [
+   "secure",
+   "private",
+   "password",
+   "locked"
+  ]
+ },
+ {
+  "name": "lock-open",
+  "category": "Security",
+  "tags": [
+   "unlocked",
+   "unsecure",
+   "open",
+   "access"
+  ]
+ },
+ {
+  "name": "magnifying-glass",
+  "category": "Interface",
+  "tags": [
+   "search",
+   "find",
+   "zoom",
+   "lookup"
+  ]
+ },
+ {
+  "name": "map-pin",
+  "category": "Maps",
+  "tags": [
+   "location",
+   "place",
+   "marker",
+   "gps"
+  ]
+ },
+ {
+  "name": "microphone",
+  "category": "Media",
+  "tags": [
+   "record",
+   "voice",
+   "audio",
+   "mic"
+  ]
+ },
+ {
+  "name": "minus",
+  "category": "Interface",
+  "tags": [
+   "subtract",
+   "remove"
+  ]
+ },
+ {
+  "name": "monitor",
+  "category": "Devices",
+  "tags": [
+   "desktop",
+   "screen",
+   "display",
+   "computer"
+  ]
+ },
+ {
+  "name": "moon",
+  "category": "Weather",
+  "tags": [
+   "night",
+   "dark mode",
+   "sleep",
+   "crescent"
+  ]
+ },
+ {
+  "name": "music-note",
+  "category": "Media",
+  "tags": [
+   "music",
+   "song",
+   "audio",
+   "melody"
+  ]
+ },
+ {
+  "name": "paper-plane",
+  "category": "Communication",
+  "tags": [
+   "send",
+   "message",
+   "submit",
+   "share"
+  ]
+ },
+ {
+  "name": "pause",
+  "category": "Media",
+  "tags": [
+   "stop",
+   "hold",
+   "video",
+   "music"
+  ]
+ },
+ {
+  "name": "pencil",
+  "category": "Interface",
+  "tags": [
+   "edit",
+   "write",
+   "compose",
+   "draw"
+  ]
+ },
+ {
+  "name": "play",
+  "category": "Media",
+  "tags": [
+   "start",
+   "video",
+   "music",
+   "resume"
+  ]
+ },
+ {
+  "name": "plus",
+  "category": "Interface",
+  "tags": [
+   "add",
+   "new",
+   "create"
+  ]
+ },
+ {
+  "name": "plus-circle",
+  "category": "Interface",
+  "tags": [
+   "add",
+   "create",
+   "new"
+  ]
+ },
+ {
+  "name": "power",
+  "category": "Interface",
+  "tags": [
+   "on",
+   "off",
+   "shutdown",
+   "start"
+  ]
+ },
+ {
+  "name": "question",
+  "category": "Interface",
+  "tags": [
+   "help",
+   "faq",
+   "support",
+   "unknown"
+  ]
+ },
+ {
+  "name": "share-network",
+  "category": "Communication",
+  "tags": [
+   "share",
+   "connect",
+   "social",
+   "nodes"
+  ]
+ },
+ {
+  "name": "shield",
+  "category": "Security",
+  "tags": [
+   "protection",
+   "security",
+   "safe",
+   "guard"
+  ]
+ },
+ {
+  "name": "shield-check",
+  "category": "Security",
+  "tags": [
+   "verified",
+   "secure",
+   "protected",
+   "trust"
+  ]
+ },
+ {
+  "name": "shopping-bag",
+  "category": "Commerce",
+  "tags": [
+   "bag",
+   "store",
+   "buy",
+   "shop"
+  ]
+ },
+ {
+  "name": "shopping-cart",
+  "category": "Commerce",
+  "tags": [
+   "cart",
+   "buy",
+   "checkout",
+   "ecommerce"
+  ]
+ },
+ {
+  "name": "sliders",
+  "category": "Interface",
+  "tags": [
+   "settings",
+   "controls",
+   "adjust",
+   "equalizer"
+  ]
+ },
+ {
+  "name": "smiley",
+  "category": "People",
+  "tags": [
+   "face",
+   "emoji",
+   "happy",
+   "smile"
+  ]
+ },
+ {
+  "name": "sparkle",
+  "category": "Interface",
+  "tags": [
+   "ai",
+   "magic",
+   "new",
+   "shine",
+   "star"
+  ]
+ },
+ {
+  "name": "speaker-high",
+  "category": "Media",
+  "tags": [
+   "volume",
+   "sound",
+   "audio",
+   "loud"
+  ]
+ },
+ {
+  "name": "squares-four",
+  "category": "Interface",
+  "tags": [
+   "grid",
+   "apps",
+   "dashboard",
+   "layout"
+  ]
+ },
+ {
+  "name": "stack",
+  "category": "Files",
+  "tags": [
+   "layers",
+   "stacked",
+   "levels",
+   "depth"
+  ]
+ },
+ {
+  "name": "star",
+  "category": "Interface",
+  "tags": [
+   "favorite",
+   "rating",
+   "bookmark",
+   "like"
+  ]
+ },
+ {
+  "name": "sun",
+  "category": "Weather",
+  "tags": [
+   "light",
+   "day",
+   "bright",
+   "weather"
+  ]
+ },
+ {
+  "name": "tag",
+  "category": "Commerce",
+  "tags": [
+   "label",
+   "price",
+   "sale",
+   "discount"
+  ]
+ },
+ {
+  "name": "terminal",
+  "category": "Development",
+  "tags": [
+   "console",
+   "command line",
+   "shell",
+   "cli"
+  ]
+ },
+ {
+  "name": "trash",
+  "category": "Interface",
+  "tags": [
+   "delete",
+   "remove",
+   "bin",
+   "garbage"
+  ]
+ },
+ {
+  "name": "trend-up",
+  "category": "Arrows",
+  "tags": [
+   "chart",
+   "growth",
+   "increase",
+   "stocks"
+  ]
+ },
+ {
+  "name": "upload",
+  "category": "Files",
+  "tags": [
+   "export",
+   "send",
+   "publish",
+   "arrow"
+  ]
+ },
+ {
+  "name": "user",
+  "category": "People",
+  "tags": [
+   "person",
+   "account",
+   "profile",
+   "avatar"
+  ]
+ },
+ {
+  "name": "users",
+  "category": "People",
+  "tags": [
+   "people",
+   "team",
+   "group",
+   "community"
+  ]
+ },
+ {
+  "name": "warning",
+  "category": "Interface",
+  "tags": [
+   "alert",
+   "caution",
+   "danger",
+   "triangle"
+  ]
+ },
+ {
+  "name": "wifi",
+  "category": "Devices",
+  "tags": [
+   "wireless",
+   "internet",
+   "network",
+   "signal"
+  ]
+ },
+ {
+  "name": "x",
+  "category": "Interface",
+  "tags": [
+   "close",
+   "cancel",
+   "dismiss",
+   "times"
+  ]
+ },
+ {
+  "name": "x-circle",
+  "category": "Interface",
+  "tags": [
+   "error",
+   "close",
+   "cancel",
+   "fail"
+  ]
+ }
+]

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="on,off,shutdown,start">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 120"/>
+    <path d="M88 72 A80 80 0 1 0 168 72"/>
+  </g>
+</svg>

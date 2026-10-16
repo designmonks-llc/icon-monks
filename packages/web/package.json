@@ -1,0 +1,34 @@
+{
+  "name": "@monks-icons/web",
+  "version": "0.1.0",
+  "description": "Monks Icons as a <monks-icon> custom element. Works in any framework or plain HTML.",
+  "license": "MIT",
+  "author": "Design Monks",
+  "homepage": "https://github.com/designmonks/monks-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designmonks/monks-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "icon",
+    "svg",
+    "monks-icons"
+  ],
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "unpkg": "./dist/monks-icons.js",
+  "jsdelivr": "./dist/monks-icons.js",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./cdn": "./dist/monks-icons.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": true
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@monks-icons/core",
+  "version": "0.1.0",
+  "description": "Monks Icons: raw SVG assets, sprites, metadata and a toSvg() helper.",
+  "license": "MIT",
+  "author": "Design Monks",
+  "homepage": "https://github.com/designmonks/monks-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designmonks/monks-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "icon",
+    "svg",
+    "monks-icons"
+  ],
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./icons.json": "./dist/icons.json",
+    "./sprite/*": "./dist/sprite/*",
+    "./assets/*": "./assets/*"
+  },
+  "files": [
+    "dist",
+    "assets"
+  ]
+}

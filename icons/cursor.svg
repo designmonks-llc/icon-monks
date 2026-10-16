@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="pointer,mouse,click,select">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 40 L208 112 L136 136 L112 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 40 L208 112 L136 136 L112 208 Z"/>
+  </g>
+</svg>

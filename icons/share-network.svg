@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="share,connect,social,nodes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="128" r="24"/>
+    <circle cx="184" cy="64" r="24"/>
+    <circle cx="184" cy="192" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="128" r="24"/>
+    <circle cx="184" cy="64" r="24"/>
+    <circle cx="184" cy="192" r="24"/>
+    <path d="M85.18 116.71 L162.82 75.29"/>
+    <path d="M85.18 139.29 L162.82 180.71"/>
+  </g>
+</svg>

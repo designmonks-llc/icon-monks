@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'Monks Icons';
+  src: url('./MonksIcons-Regular.woff2') format('woff2'), url('./MonksIcons-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+.mi {
+  font-family: 'Monks Icons' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  speak: never;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.mi.mi-arrow-clockwise::before { content: "\e000"; }
+.mi.mi-arrow-counter-clockwise::before { content: "\e001"; }
+.mi.mi-arrow-down::before { content: "\e002"; }
+.mi.mi-arrow-left::before { content: "\e003"; }
+.mi.mi-arrow-right::before { content: "\e004"; }
+.mi.mi-arrow-up::before { content: "\e005"; }
+.mi.mi-battery::before { content: "\e006"; }
+.mi.mi-bell::before { content: "\e007"; }
+.mi.mi-bell-ringing::before { content: "\e008"; }
+.mi.mi-bookmark::before { content: "\e009"; }
+.mi.mi-calendar::before { content: "\e00a"; }
+.mi.mi-camera::before { content: "\e00b"; }
+.mi.mi-caret-down::before { content: "\e00c"; }
+.mi.mi-caret-left::before { content: "\e00d"; }
+.mi.mi-caret-right::before { content: "\e00e"; }
+.mi.mi-caret-up::before { content: "\e00f"; }
+.mi.mi-chart-bar::before { content: "\e010"; }
+.mi.mi-chat::before { content: "\e011"; }
+.mi.mi-chat-text::before { content: "\e012"; }
+.mi.mi-check::before { content: "\e013"; }
+.mi.mi-check-circle::before { content: "\e014"; }
+.mi.mi-clock::before { content: "\e015"; }
+.mi.mi-cloud::before { content: "\e016"; }
+.mi.mi-code::before { content: "\e017"; }
+.mi.mi-coffee::before { content: "\e018"; }
+.mi.mi-copy::before { content: "\e019"; }
+.mi.mi-corners-out::before { content: "\e01a"; }
+.mi.mi-credit-card::before { content: "\e01b"; }
+.mi.mi-cube::before { content: "\e01c"; }
+.mi.mi-cursor::before { content: "\e01d"; }
+.mi.mi-device-mobile::before { content: "\e01e"; }
+.mi.mi-dots-three::before { content: "\e01f"; }
+.mi.mi-download::before { content: "\e020"; }
+.mi.mi-drop::before { content: "\e021"; }
+.mi.mi-envelope::before { content: "\e022"; }
+.mi.mi-eye::before { content: "\e023"; }
+.mi.mi-file::before { content: "\e024"; }
+.mi.mi-file-text::before { content: "\e025"; }
+.mi.mi-flag::before { content: "\e026"; }
+.mi.mi-folder::before { content: "\e027"; }
+.mi.mi-funnel::before { content: "\e028"; }
+.mi.mi-gear::before { content: "\e029"; }
+.mi.mi-gift::before { content: "\e02a"; }
+.mi.mi-globe::before { content: "\e02b"; }
+.mi.mi-hash::before { content: "\e02c"; }
+.mi.mi-heart::before { content: "\e02d"; }
+.mi.mi-house::before { content: "\e02e"; }
+.mi.mi-image::before { content: "\e02f"; }
+.mi.mi-info::before { content: "\e030"; }
+.mi.mi-key::before { content: "\e031"; }
+.mi.mi-laptop::before { content: "\e032"; }
+.mi.mi-lightbulb::before { content: "\e033"; }
+.mi.mi-lightning::before { content: "\e034"; }
+.mi.mi-link::before { content: "\e035"; }
+.mi.mi-list::before { content: "\e036"; }
+.mi.mi-list-bullets::before { content: "\e037"; }
+.mi.mi-lock::before { content: "\e038"; }
+.mi.mi-lock-open::before { content: "\e039"; }
+.mi.mi-magnifying-glass::before { content: "\e03a"; }
+.mi.mi-map-pin::before { content: "\e03b"; }
+.mi.mi-microphone::before { content: "\e03c"; }
+.mi.mi-minus::before { content: "\e03d"; }
+.mi.mi-monitor::before { content: "\e03e"; }
+.mi.mi-moon::before { content: "\e03f"; }
+.mi.mi-music-note::before { content: "\e040"; }
+.mi.mi-paper-plane::before { content: "\e041"; }
+.mi.mi-pause::before { content: "\e042"; }
+.mi.mi-pencil::before { content: "\e043"; }
+.mi.mi-play::before { content: "\e044"; }
+.mi.mi-plus::before { content: "\e045"; }
+.mi.mi-plus-circle::before { content: "\e046"; }
+.mi.mi-power::before { content: "\e047"; }
+.mi.mi-question::before { content: "\e048"; }
+.mi.mi-share-network::before { content: "\e049"; }
+.mi.mi-shield::before { content: "\e04a"; }
+.mi.mi-shield-check::before { content: "\e04b"; }
+.mi.mi-shopping-bag::before { content: "\e04c"; }
+.mi.mi-shopping-cart::before { content: "\e04d"; }
+.mi.mi-sliders::before { content: "\e04e"; }
+.mi.mi-smiley::before { content: "\e04f"; }
+.mi.mi-sparkle::before { content: "\e050"; }
+.mi.mi-speaker-high::before { content: "\e051"; }
+.mi.mi-squares-four::before { content: "\e052"; }
+.mi.mi-stack::before { content: "\e053"; }
+.mi.mi-star::before { content: "\e054"; }
+.mi.mi-sun::before { content: "\e055"; }
+.mi.mi-tag::before { content: "\e056"; }
+.mi.mi-terminal::before { content: "\e057"; }
+.mi.mi-trash::before { content: "\e058"; }
+.mi.mi-trend-up::before { content: "\e059"; }
+.mi.mi-upload::before { content: "\e05a"; }
+.mi.mi-user::before { content: "\e05b"; }
+.mi.mi-users::before { content: "\e05c"; }
+.mi.mi-warning::before { content: "\e05d"; }
+.mi.mi-wifi::before { content: "\e05e"; }
+.mi.mi-x::before { content: "\e05f"; }
+.mi.mi-x-circle::before { content: "\e060"; }

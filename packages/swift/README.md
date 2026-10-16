@@ -1,0 +1,18 @@
+# Monks Icons for iOS, macOS, tvOS and watchOS
+
+Add the package in Xcode (File > Add Package Dependencies) and point it at this folder or the repository.
+
+```swift
+import MonksIcons
+
+Image(monks: .house)
+    .resizable()
+    .frame(width: 24, height: 24)
+    .foregroundStyle(.purple)
+
+Image(monks: .heart, weight: .fill)
+let tabIcon = MonksIcon.gear.uiImage(.bold)   // UIKit
+```
+
+Icons ship as vector SVG assets (preserved vector data, template rendering), so they stay sharp at any size and take
+the tint colour like SF Symbols. All six weights, including duotone, are available.

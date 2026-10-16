@@ -1,0 +1,17 @@
+{
+  "name": "monks-icons-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Monks Icons: an open source icon family in six weights with packages for web and native platforms.",
+  "license": "MIT",
+  "scripts": {
+    "build": "python3 scripts/build.py && python3 scripts/packages.py && node scripts/docs.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "@vue/server-renderer": "^3.5.13",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vue": "^3.5.13"
+  }
+}

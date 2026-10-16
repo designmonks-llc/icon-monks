@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="report,milestone,country,goal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 48 C104 24 136 72 200 48 V160 C136 184 104 136 56 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 224 L56 40"/>
+    <path d="M56 48 C104 24 136 72 200 48 V160 C136 184 104 136 56 160 Z"/>
+  </g>
+</svg>

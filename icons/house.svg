@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="home,building,residence,main">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 L128 44 L208 112 V208 H48 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M116 208 V164 A12 12 0 0 1 140 164 V208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 V208 H208 V112"/>
+    <path d="M32 124 L128 40 L224 124"/>
+    <path d="M108 208 V164 A20 20 0 0 1 148 164 V208"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="chain,url,hyperlink,connect">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M99.17 199.25 L147.25 151.17 A30 30 0 0 0 104.83 108.75 L56.75 156.83 A30 30 0 0 0 99.17 199.25 Z"/>
+    <path d="M151.17 147.25 L199.25 99.17 A30 30 0 0 0 156.83 56.75 L108.75 104.83 A30 30 0 0 0 151.17 147.25 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,256 @@
+<title>Monks Icons</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: specimen sheet. Sticky tool rail over a dense icon grid; a detail drawer shows the 256-unit keyline grid. */
+:root {
+  --paper: #f4f5f8;
+  --sheet: #ffffff;
+  --ink: #1b1e3a;
+  --muted: #5d6280;
+  --rule: #dfe2ec;
+  --saffron: #c96a00;
+  --saffron-soft: #fbe9d2;
+  --grid: #e9ebf3;
+  --display: 'Bricolage Grotesque', 'Segoe UI', system-ui, sans-serif;
+  --body: 'Figtree', 'Segoe UI', system-ui, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #11132a; --sheet: #191c38; --ink: #e8e9f4; --muted: #a0a4c4; --rule: #2c3058;
+    --saffron: #f5a53a; --saffron-soft: #3a2a14; --grid: #24284a; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #11132a; --sheet: #191c38; --ink: #e8e9f4; --muted: #a0a4c4; --rule: #2c3058;
+  --saffron: #f5a53a; --saffron-soft: #3a2a14; --grid: #24284a; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
+.wrap { max-width: 1240px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header.top { padding-block: 40px 24px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: end; }
+.eyebrow { font: 500 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--saffron); }
+h1 { font: 700 clamp(40px, 7vw, 76px)/.95 var(--display); letter-spacing: -.03em; margin: 10px 0 14px; text-wrap: balance; }
+.lede { max-width: 60ch; color: var(--muted); margin: 0; font-size: 17px; }
+.specs { display: grid; grid-template-columns: repeat(3, auto); gap: 4px 28px; font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.specs b { display: block; font: 700 30px/1.1 var(--display); color: var(--ink); letter-spacing: -.02em; }
+.rail { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-block: 1px solid var(--rule); }
+.rail .wrap { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding-block: 12px; }
+.search { flex: 1 1 220px; min-width: 0; position: relative; }
+.search input { width: 100%; font: inherit; padding: 10px 12px 10px 38px; border: 1px solid var(--rule); border-radius: 10px; background: var(--sheet); color: var(--ink); }
+.search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); width: 18px; height: 18px; fill: var(--muted); }
+input:focus-visible, button:focus-visible, select:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; }
+.weights { display: flex; flex-wrap: wrap; border: 1px solid var(--rule); border-radius: 10px; overflow: hidden; background: var(--sheet); }
+.weights button { font: 500 13px var(--body); border: 0; background: none; color: var(--muted); padding: 9px 12px; cursor: pointer; }
+.weights button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.knob { display: flex; align-items: center; gap: 8px; font: 12px var(--mono); color: var(--muted); }
+.knob input[type=range] { width: 96px; accent-color: var(--saffron); }
+.knob input[type=color] { width: 34px; height: 30px; border: 1px solid var(--rule); border-radius: 8px; padding: 2px; background: var(--sheet); }
+main.wrap { padding-block: 20px 56px; display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 24px; align-items: start; }
+.count { font: 12px var(--mono); color: var(--muted); margin-bottom: 10px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 8px; }
+.tile { appearance: none; border: 1px solid transparent; background: var(--sheet); border-radius: 12px; padding: 18px 6px 10px; display: flex; flex-direction: column; align-items: center; gap: 12px; cursor: pointer; color: var(--ink); min-width: 0; }
+.tile:hover { border-color: var(--rule); }
+.tile[aria-selected="true"] { border-color: var(--saffron); box-shadow: inset 0 0 0 1px var(--saffron); }
+.tile span { font: 11px/1.2 var(--mono); color: var(--muted); overflow-wrap: anywhere; text-align: center; }
+.tile svg { display: block; }
+.empty { padding: 40px 0; color: var(--muted); }
+aside.detail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 84px); background: var(--sheet); border: 1px solid var(--rule); border-radius: 16px; padding: 18px; display: grid; gap: 14px; min-width: 0; }
+.detail h2 { font: 700 26px/1.1 var(--display); margin: 0; letter-spacing: -.02em; overflow-wrap: anywhere; }
+.detail .meta { font: 12px var(--mono); color: var(--muted); }
+.stage { position: relative; aspect-ratio: 1; max-width: 100%; border-radius: 12px; background: var(--paper); overflow: hidden; }
+.stage svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+.stage .keylines * { fill: none; stroke: var(--grid); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.stage .keylines .live { stroke: var(--saffron); stroke-dasharray: 3 4; opacity: .7; }
+.stage .label { position: absolute; left: 10px; bottom: 8px; font: 11px var(--mono); color: var(--muted); }
+.strip { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; }
+.strip button { border: 1px solid var(--rule); background: none; border-radius: 10px; padding: 8px 0 6px; display: grid; justify-items: center; gap: 4px; cursor: pointer; color: var(--ink); font: 10px var(--mono); }
+.strip button[aria-pressed="true"] { border-color: var(--saffron); background: var(--saffron-soft); }
+.tabs { display: flex; flex-wrap: wrap; gap: 4px; }
+.tabs button { font: 500 12px var(--body); border: 1px solid var(--rule); background: none; color: var(--muted); border-radius: 999px; padding: 5px 10px; cursor: pointer; }
+.tabs button[aria-selected="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.code { position: relative; }
+.code pre { margin: 0; background: var(--paper); border-radius: 10px; padding: 12px; font: 12px/1.55 var(--mono); overflow-x: auto; white-space: pre; max-height: 220px; }
+.copy { position: absolute; top: 6px; right: 6px; font: 500 12px var(--body); border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); border-radius: 8px; padding: 4px 10px; cursor: pointer; }
+section.install { padding-block: 8px 72px; }
+section.install h2 { font: 700 32px/1.1 var(--display); letter-spacing: -.02em; margin: 0 0 6px; }
+section.install > p { color: var(--muted); margin: 0 0 20px; max-width: 64ch; }
+.platforms { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); border-radius: 14px; overflow: hidden; }
+.platform { background: var(--sheet); padding: 16px; display: grid; gap: 6px; align-content: start; min-width: 0; }
+.platform h3 { margin: 0; font: 600 15px var(--body); }
+.platform p { margin: 0; color: var(--muted); font-size: 13px; }
+.platform code { font: 12px var(--mono); background: var(--paper); padding: 6px 8px; border-radius: 6px; overflow-x: auto; white-space: nowrap; display: block; }
+footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var(--muted); font-size: 13px; }
+@media (max-width: 900px) {
+  main.wrap { grid-template-columns: minmax(0, 1fr); }
+  aside.detail { position: static; order: -1; }
+  header.top { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 480px) { .grid { grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); } .knob input[type=range] { width: 72px; } }
+@media (prefers-reduced-motion: no-preference) { .tile { transition: border-color .12s, transform .12s; } .tile:active { transform: scale(.97); } }
+</style>
+
+<header class="wrap top">
+  <div>
+    <div class="eyebrow">Open source · MIT · by Design Monks</div>
+    <h1>Monks Icons</h1>
+    <p class="lede">A flexible icon family drawn on a 256-unit grid, in six weights, with native packages for React, Vue, Web Components, icon fonts, Flutter, Android and Apple platforms.</p>
+  </div>
+  <div class="specs">
+    <div><b id="stat-icons">0</b>icons</div>
+    <div><b>6</b>weights</div>
+    <div><b>8</b>platforms</div>
+  </div>
+</header>
+
+<div class="rail">
+  <div class="wrap">
+    <label class="search"><svg viewBox="0 0 256 256" aria-hidden="true"><path id="search-path"/></svg>
+      <input id="q" type="search" placeholder="Search icons, e.g. home, mail, settings" autocomplete="off" aria-label="Search icons"></label>
+    <div class="weights" role="group" aria-label="Weight" id="weights"></div>
+    <label class="knob" for="size">Size <input id="size" type="range" min="16" max="64" step="4" value="32"><span id="size-out">32px</span></label>
+    <label class="knob" for="color">Color <input id="color" type="color" value="#1b1e3a"></label>
+  </div>
+</div>
+
+<main class="wrap">
+  <div>
+    <div class="count" id="count"></div>
+    <div class="grid" id="grid" role="listbox" aria-label="Icons"></div>
+    <div class="empty" id="empty" hidden>No icons match that search. Try a broader word like “arrow” or “file”.</div>
+  </div>
+  <aside class="detail" id="detail" aria-live="polite">
+    <div>
+      <h2 id="d-name"></h2>
+      <div class="meta" id="d-meta"></div>
+    </div>
+    <div class="stage">
+      <svg viewBox="0 0 256 256" class="keylines" aria-hidden="true">
+        <g id="gridlines"></g>
+        <rect class="live" x="32" y="32" width="192" height="192"/>
+        <circle class="live" cx="128" cy="128" r="96"/>
+      </svg>
+      <svg viewBox="0 0 256 256" id="d-icon" aria-hidden="true"></svg>
+      <span class="label" id="d-stroke"></span>
+    </div>
+    <div class="strip" id="d-weights" role="group" aria-label="Preview weight"></div>
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <div class="code"><pre id="snippet"></pre><button class="copy" id="copy" type="button">Copy</button></div>
+  </aside>
+</main>
+
+<section class="wrap install">
+  <h2>Use it anywhere</h2>
+  <p>Every package is generated from the same SVG sources, so an icon looks identical in a React app, a Flutter screen and an iOS tab bar.</p>
+  <div class="platforms">
+    <div class="platform"><h3>React</h3><p>Tree-shakeable components with an IconContext for defaults.</p><code>npm i @monks-icons/react</code></div>
+    <div class="platform"><h3>Vue 3</h3><p>Components with provide/inject defaults.</p><code>npm i @monks-icons/vue</code></div>
+    <div class="platform"><h3>Web Components</h3><p>A &lt;monks-icon&gt; element for plain HTML, Svelte, Angular or WordPress.</p><code>npm i @monks-icons/web</code></div>
+    <div class="platform"><h3>Icon font</h3><p>OTF and WOFF2 with CSS classes, five weights.</p><code>npm i @monks-icons/font</code></div>
+    <div class="platform"><h3>SVG &amp; sprites</h3><p>Raw files, sprites, metadata and a toSvg() helper.</p><code>npm i @monks-icons/core</code></div>
+    <div class="platform"><h3>Flutter</h3><p>IconData constants backed by bundled fonts.</p><code>flutter pub add monks_icons</code></div>
+    <div class="platform"><h3>Android</h3><p>Jetpack Compose ImageVectors and XML VectorDrawables.</p><code>com.designmonks:monks-icons</code></div>
+    <div class="platform"><h3>iOS &amp; macOS</h3><p>Swift Package with vector assets for SwiftUI and UIKit.</p><code>Image(monks: .house)</code></div>
+  </div>
+</section>
+
+<footer><div class="wrap">Monks Icons is free under the MIT license. Contributions welcome: draw a source SVG on the 256 grid and the build makes every weight and package.</div></footer>
+
+<script>
+const DATA = /*__ICONS__*/null;
+const WEIGHTS = ['thin', 'light', 'regular', 'bold', 'fill', 'duotone'];
+const STROKE = { thin: 8, light: 12, regular: 16, bold: 24 };
+const $ = (id) => document.getElementById(id);
+const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+const state = { q: '', weight: store.get('mi-weight') || 'regular', size: 32, color: '', selected: 'house', previewWeight: null, tab: store.get('mi-tab') || 'React' };
+const pascal = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join('');
+const camel = (n) => { const p = pascal(n); return p[0].toLowerCase() + p.slice(1); };
+const byName = Object.fromEntries(DATA.icons.map((i) => [i.name, i]));
+
+function body(icon, weight) {
+  const d = icon.paths[weight];
+  return weight === 'duotone' ? (d[0] ? `<path d="${d[0]}" opacity="0.2"/>` : '') + `<path d="${d[1]}"/>` : `<path d="${d}"/>`;
+}
+function svg(icon, weight, size, color) {
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 256 256" fill="${color || 'currentColor'}">${body(icon, weight)}</svg>`;
+}
+
+function matches(icon, q) {
+  if (!q) return true;
+  return q.split(/\s+/).every((t) => icon.name.includes(t) || icon.category.toLowerCase().includes(t) || icon.tags.some((g) => g.includes(t)));
+}
+
+function renderGrid() {
+  const q = state.q.trim().toLowerCase();
+  const list = DATA.icons.filter((i) => matches(i, q));
+  $('grid').innerHTML = list.map((i) => `<button class="tile" role="option" type="button" data-name="${i.name}" aria-selected="${i.name === state.selected}" title="${i.name}">${svg(i, state.weight, state.size, state.color)}<span>${i.name}</span></button>`).join('');
+  $('empty').hidden = list.length > 0;
+  $('count').textContent = `${list.length} of ${DATA.icons.length} icons · ${state.weight}`;
+}
+
+const SNIPPETS = {
+  React: (n, w) => `import { ${pascal(n)} } from '@monks-icons/react';\n\n<${pascal(n)}${w !== 'regular' ? ` weight="${w}"` : ''} size={32} />`,
+  Vue: (n, w) => `<script setup>\nimport { ${pascal(n)} } from '@monks-icons/vue';\n<\/script>\n\n<${pascal(n)}${w !== 'regular' ? ` weight="${w}"` : ''} :size="32" />`,
+  HTML: (n, w) => `<script src="https://cdn.jsdelivr.net/npm/@monks-icons/web"><\/script>\n\n<monks-icon name="${n}"${w !== 'regular' ? ` weight="${w}"` : ''} size="32"></monks-icon>`,
+  Font: (n, w) => w === 'duotone' ? 'Icon fonts are single-colour, so duotone is not in the font.\nUse the SVG, React, Vue, web component or native packages.' : `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@monks-icons/font/dist/index.css">\n\n<i class="${w === 'regular' ? 'mi' : 'mi-' + w} mi-${n}"></i>`,
+  Flutter: (n, w) => w === 'duotone' ? 'Duotone is not available in the Flutter font package.' : (w === 'regular' ? `Icon(MonksIcons.${camel(n)})` : `Icon(MonksIcons.${w}.${camel(n)})`),
+  SwiftUI: (n, w) => `import MonksIcons\n\nImage(monks: .${camel(n)}${w !== 'regular' ? `, weight: .${w}` : ''})\n    .resizable()\n    .frame(width: 24, height: 24)`,
+  Compose: (n, w) => `import com.designmonks.icons.MonksIcons\n\nIcon(MonksIcons.${pascal(w)}.${pascal(n)}, contentDescription = null)`,
+  SVG: (n, w) => svg(byName[n], w, 32),
+};
+
+function renderDetail() {
+  const icon = byName[state.selected];
+  if (!icon) return;
+  const w = state.previewWeight || state.weight;
+  $('d-name').textContent = icon.name;
+  $('d-meta').textContent = `${icon.category} · ${icon.tags.join(', ')}`;
+  $('d-icon').innerHTML = body(icon, w);
+  $('d-icon').style.fill = state.color || 'currentColor';
+  $('d-stroke').textContent = STROKE[w] ? `${w} · stroke ${STROKE[w]}/256` : `${w} · 256 × 256 grid`;
+  $('d-weights').innerHTML = WEIGHTS.map((x) => `<button type="button" data-w="${x}" aria-pressed="${x === w}">${svg(icon, x, 26)}${x}</button>`).join('');
+  $('tabs').innerHTML = Object.keys(SNIPPETS).map((t) => `<button type="button" role="tab" data-tab="${t}" aria-selected="${t === state.tab}">${t}</button>`).join('');
+  $('snippet').textContent = SNIPPETS[state.tab](icon.name, w);
+}
+
+function renderWeights() {
+  $('weights').innerHTML = WEIGHTS.map((w) => `<button type="button" data-w="${w}" aria-pressed="${w === state.weight}">${w[0].toUpperCase() + w.slice(1)}</button>`).join('');
+}
+
+$('weights').addEventListener('click', (e) => {
+  const b = e.target.closest('button'); if (!b) return;
+  state.weight = b.dataset.w; state.previewWeight = null; store.set('mi-weight', state.weight);
+  renderWeights(); renderGrid(); renderDetail();
+});
+$('grid').addEventListener('click', (e) => {
+  const b = e.target.closest('.tile'); if (!b) return;
+  state.selected = b.dataset.name; state.previewWeight = null;
+  document.querySelectorAll('.tile[aria-selected="true"]').forEach((t) => t.setAttribute('aria-selected', 'false'));
+  b.setAttribute('aria-selected', 'true');
+  renderDetail();
+  if (window.matchMedia('(max-width: 900px)').matches) $('detail').scrollIntoView({ block: 'start' });
+});
+$('d-weights').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.previewWeight = b.dataset.w; renderDetail(); });
+$('tabs').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.tab = b.dataset.tab; store.set('mi-tab', state.tab); renderDetail(); });
+$('q').addEventListener('input', (e) => { state.q = e.target.value; renderGrid(); });
+$('size').addEventListener('input', (e) => { state.size = +e.target.value; $('size-out').textContent = state.size + 'px'; renderGrid(); });
+$('color').addEventListener('input', (e) => { state.color = e.target.value; renderGrid(); renderDetail(); });
+$('copy').addEventListener('click', async () => {
+  const text = $('snippet').textContent;
+  try { await navigator.clipboard.writeText(text); $('copy').textContent = 'Copied'; }
+  catch { const r = document.createRange(); r.selectNodeContents($('snippet')); const s = getSelection(); s.removeAllRanges(); s.addRange(r); $('copy').textContent = 'Selected'; }
+  setTimeout(() => { $('copy').textContent = 'Copy'; }, 1400);
+});
+
+let lines = '';
+for (let i = 16; i < 256; i += 16) lines += `<line x1="${i}" y1="0" x2="${i}" y2="256"/><line x1="0" y1="${i}" x2="256" y2="${i}"/>`;
+$('gridlines').innerHTML = lines;
+$('search-path').setAttribute('d', byName['magnifying-glass'].paths.bold);
+$('stat-icons').textContent = DATA.icons.length;
+if (!WEIGHTS.includes(state.weight)) state.weight = 'regular';
+if (!SNIPPETS[state.tab]) state.tab = 'React';
+renderWeights(); renderGrid(); renderDetail();
+</script>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="people,team,group,community">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="100" cy="100" r="36"/>
+    <path d="M32 208 C32 168 60 152 100 152 C140 152 168 168 168 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="100" r="36"/>
+    <path d="M32 208 C32 168 60 152 100 152 C140 152 168 168 168 208"/>
+    <path d="M152 56 A32 32 0 1 1 168 116"/>
+    <path d="M184 144 C212 148 228 168 228 200"/>
+  </g>
+</svg>

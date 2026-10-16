@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="alert,caution,danger,triangle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 40 L224 208 L32 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L224 208 L32 208 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 104 L128 144"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="176" r="16"/>
+  </g>
+</svg>

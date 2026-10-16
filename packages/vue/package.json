@@ -1,0 +1,35 @@
+{
+  "name": "@monks-icons/vue",
+  "version": "0.1.0",
+  "description": "Monks Icons for Vue 3: tree-shakeable components in six weights.",
+  "license": "MIT",
+  "author": "Design Monks",
+  "homepage": "https://github.com/designmonks/monks-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designmonks/monks-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "icon",
+    "svg",
+    "monks-icons"
+  ],
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./icons/*": "./dist/icons/*.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "vue": ">=3.2"
+  }
+}

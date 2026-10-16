@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="unlocked,unsecure,open,access">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="104" width="160" height="112" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="104" width="160" height="112" rx="14"/>
+    <path d="M88 104 V72 A40 40 0 0 1 166 60"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 144 L128 176"/>
+  </g>
+</svg>

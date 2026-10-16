@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="person,account,profile,avatar">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="88" r="44"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="88" r="44"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216"/>
+  </g>
+</svg>

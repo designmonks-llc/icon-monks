@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="flash,energy,power,fast,bolt">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 32 L56 144 H120 L104 224 L200 108 H136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 32 L56 144 H120 L104 224 L200 108 H136 Z"/>
+  </g>
+</svg>

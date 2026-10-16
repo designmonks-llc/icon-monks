@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'Monks Icons Thin';
+  src: url('./MonksIcons-Thin.woff2') format('woff2'), url('./MonksIcons-Thin.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+.mi-thin {
+  font-family: 'Monks Icons Thin' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  speak: never;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.mi-thin.mi-arrow-clockwise::before { content: "\e000"; }
+.mi-thin.mi-arrow-counter-clockwise::before { content: "\e001"; }
+.mi-thin.mi-arrow-down::before { content: "\e002"; }
+.mi-thin.mi-arrow-left::before { content: "\e003"; }
+.mi-thin.mi-arrow-right::before { content: "\e004"; }
+.mi-thin.mi-arrow-up::before { content: "\e005"; }
+.mi-thin.mi-battery::before { content: "\e006"; }
+.mi-thin.mi-bell::before { content: "\e007"; }
+.mi-thin.mi-bell-ringing::before { content: "\e008"; }
+.mi-thin.mi-bookmark::before { content: "\e009"; }
+.mi-thin.mi-calendar::before { content: "\e00a"; }
+.mi-thin.mi-camera::before { content: "\e00b"; }
+.mi-thin.mi-caret-down::before { content: "\e00c"; }
+.mi-thin.mi-caret-left::before { content: "\e00d"; }
+.mi-thin.mi-caret-right::before { content: "\e00e"; }
+.mi-thin.mi-caret-up::before { content: "\e00f"; }
+.mi-thin.mi-chart-bar::before { content: "\e010"; }
+.mi-thin.mi-chat::before { content: "\e011"; }
+.mi-thin.mi-chat-text::before { content: "\e012"; }
+.mi-thin.mi-check::before { content: "\e013"; }
+.mi-thin.mi-check-circle::before { content: "\e014"; }
+.mi-thin.mi-clock::before { content: "\e015"; }
+.mi-thin.mi-cloud::before { content: "\e016"; }
+.mi-thin.mi-code::before { content: "\e017"; }
+.mi-thin.mi-coffee::before { content: "\e018"; }
+.mi-thin.mi-copy::before { content: "\e019"; }
+.mi-thin.mi-corners-out::before { content: "\e01a"; }
+.mi-thin.mi-credit-card::before { content: "\e01b"; }
+.mi-thin.mi-cube::before { content: "\e01c"; }
+.mi-thin.mi-cursor::before { content: "\e01d"; }
+.mi-thin.mi-device-mobile::before { content: "\e01e"; }
+.mi-thin.mi-dots-three::before { content: "\e01f"; }
+.mi-thin.mi-download::before { content: "\e020"; }
+.mi-thin.mi-drop::before { content: "\e021"; }
+.mi-thin.mi-envelope::before { content: "\e022"; }
+.mi-thin.mi-eye::before { content: "\e023"; }
+.mi-thin.mi-file::before { content: "\e024"; }
+.mi-thin.mi-file-text::before { content: "\e025"; }
+.mi-thin.mi-flag::before { content: "\e026"; }
+.mi-thin.mi-folder::before { content: "\e027"; }
+.mi-thin.mi-funnel::before { content: "\e028"; }
+.mi-thin.mi-gear::before { content: "\e029"; }
+.mi-thin.mi-gift::before { content: "\e02a"; }
+.mi-thin.mi-globe::before { content: "\e02b"; }
+.mi-thin.mi-hash::before { content: "\e02c"; }
+.mi-thin.mi-heart::before { content: "\e02d"; }
+.mi-thin.mi-house::before { content: "\e02e"; }
+.mi-thin.mi-image::before { content: "\e02f"; }
+.mi-thin.mi-info::before { content: "\e030"; }
+.mi-thin.mi-key::before { content: "\e031"; }
+.mi-thin.mi-laptop::before { content: "\e032"; }
+.mi-thin.mi-lightbulb::before { content: "\e033"; }
+.mi-thin.mi-lightning::before { content: "\e034"; }
+.mi-thin.mi-link::before { content: "\e035"; }
+.mi-thin.mi-list::before { content: "\e036"; }
+.mi-thin.mi-list-bullets::before { content: "\e037"; }
+.mi-thin.mi-lock::before { content: "\e038"; }
+.mi-thin.mi-lock-open::before { content: "\e039"; }
+.mi-thin.mi-magnifying-glass::before { content: "\e03a"; }
+.mi-thin.mi-map-pin::before { content: "\e03b"; }
+.mi-thin.mi-microphone::before { content: "\e03c"; }
+.mi-thin.mi-minus::before { content: "\e03d"; }
+.mi-thin.mi-monitor::before { content: "\e03e"; }
+.mi-thin.mi-moon::before { content: "\e03f"; }
+.mi-thin.mi-music-note::before { content: "\e040"; }
+.mi-thin.mi-paper-plane::before { content: "\e041"; }
+.mi-thin.mi-pause::before { content: "\e042"; }
+.mi-thin.mi-pencil::before { content: "\e043"; }
+.mi-thin.mi-play::before { content: "\e044"; }
+.mi-thin.mi-plus::before { content: "\e045"; }
+.mi-thin.mi-plus-circle::before { content: "\e046"; }
+.mi-thin.mi-power::before { content: "\e047"; }
+.mi-thin.mi-question::before { content: "\e048"; }
+.mi-thin.mi-share-network::before { content: "\e049"; }
+.mi-thin.mi-shield::before { content: "\e04a"; }
+.mi-thin.mi-shield-check::before { content: "\e04b"; }
+.mi-thin.mi-shopping-bag::before { content: "\e04c"; }
+.mi-thin.mi-shopping-cart::before { content: "\e04d"; }
+.mi-thin.mi-sliders::before { content: "\e04e"; }
+.mi-thin.mi-smiley::before { content: "\e04f"; }
+.mi-thin.mi-sparkle::before { content: "\e050"; }
+.mi-thin.mi-speaker-high::before { content: "\e051"; }
+.mi-thin.mi-squares-four::before { content: "\e052"; }
+.mi-thin.mi-stack::before { content: "\e053"; }
+.mi-thin.mi-star::before { content: "\e054"; }
+.mi-thin.mi-sun::before { content: "\e055"; }
+.mi-thin.mi-tag::before { content: "\e056"; }
+.mi-thin.mi-terminal::before { content: "\e057"; }
+.mi-thin.mi-trash::before { content: "\e058"; }
+.mi-thin.mi-trend-up::before { content: "\e059"; }
+.mi-thin.mi-upload::before { content: "\e05a"; }
+.mi-thin.mi-user::before { content: "\e05b"; }
+.mi-thin.mi-users::before { content: "\e05c"; }
+.mi-thin.mi-warning::before { content: "\e05d"; }
+.mi-thin.mi-wifi::before { content: "\e05e"; }
+.mi-thin.mi-x::before { content: "\e05f"; }
+.mi-thin.mi-x-circle::before { content: "\e060"; }

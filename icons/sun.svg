@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="light,day,bright,weather">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="44"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="44"/>
+    <path d="M196 128 L220 128"/>
+    <path d="M176.08 176.08 L193.05 193.05"/>
+    <path d="M128 196 L128 220"/>
+    <path d="M79.92 176.08 L62.95 193.05"/>
+    <path d="M60 128 L36 128"/>
+    <path d="M79.92 79.92 L62.95 62.95"/>
+    <path d="M128 60 L128 36"/>
+    <path d="M176.08 79.92 L193.05 62.95"/>
+  </g>
+</svg>

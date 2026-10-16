@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="volume,sound,audio,loud">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 104 V152 H72 L128 200 V56 L72 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 V152 H72 L128 200 V56 L72 104 Z"/>
+    <path d="M164 96 A48 48 0 0 1 164 160"/>
+    <path d="M192 64 A88 88 0 0 1 192 192"/>
+  </g>
+</svg>

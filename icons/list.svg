@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="menu,hamburger,navigation,lines">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L216 64"/>
+    <path d="M40 128 L216 128"/>
+    <path d="M40 192 L216 192"/>
+  </g>
+</svg>
