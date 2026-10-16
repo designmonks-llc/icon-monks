@@ -600,6 +600,15 @@ import androidx.compose.ui.unit.dp
 object IconMonks {
 """ + '\n\n'.join(kt) + '\n}\n')
     write(os.path.join(path, 'src', 'main', 'AndroidManifest.xml'), '<manifest />\n')
+    write(os.path.join(path, 'settings.gradle.kts'), """pluginManagement {
+    repositories { google(); mavenCentral(); gradlePluginPortal() }
+}
+dependencyResolutionManagement {
+    repositories { google(); mavenCentral() }
+}
+rootProject.name = "icon-monks"
+""")
+    write(os.path.join(path, 'gradle.properties'), 'android.useAndroidX=true\norg.gradle.jvmargs=-Xmx2g\nkotlin.code.style=official\n')
     write(os.path.join(path, 'build.gradle.kts'), f"""plugins {{
     id("com.android.library") version "8.5.2"
     id("org.jetbrains.kotlin.android") version "2.0.20"
@@ -631,9 +640,9 @@ afterEvaluate {{
         publications {{
             create<MavenPublication>("release") {{
                 from(components["release"])
-                groupId = "com.designmonks"
+                groupId = "com.github.designmonks"
                 artifactId = "icon-monks"
-                version = "{VERSION}"
+                version = System.getenv("VERSION") ?: "{VERSION}"
             }}
         }}
     }}
@@ -641,7 +650,17 @@ afterEvaluate {{
 """)
     write(os.path.join(path, 'README.md'), f"""# Icon Monks for Android
 
-Two ways to use the icons, both in this library module:
+Published through JitPack. Add the repository and the dependency:
+
+```kotlin
+// settings.gradle.kts
+dependencyResolutionManagement {{ repositories {{ google(); mavenCentral(); maven("https://jitpack.io") }} }}
+
+// app/build.gradle.kts
+implementation("com.github.designmonks:icon-monks:v{VERSION}")
+```
+
+Two ways to use the icons, both in this library:
 
 **Jetpack Compose**
 
@@ -723,20 +742,28 @@ public extension Image {{
     }}
 }}
 """)
-    write(os.path.join(path, 'Package.swift'), """// swift-tools-version:5.7
+    # SwiftPM needs the manifest at the repository root.
+    if os.path.exists(os.path.join(path, 'Package.swift')):
+        os.remove(os.path.join(path, 'Package.swift'))
+    write(os.path.join(ROOT, 'Package.swift'), """// swift-tools-version:5.7
 import PackageDescription
 
 let package = Package(
     name: "IconMonks",
     platforms: [.iOS(.v14), .macOS(.v11), .tvOS(.v14), .watchOS(.v7)],
     products: [.library(name: "IconMonks", targets: ["IconMonks"])],
-    targets: [.target(name: "IconMonks", path: "Sources/IconMonks", resources: [.process("Resources")])]
+    targets: [.target(name: "IconMonks", path: "packages/swift/Sources/IconMonks", resources: [.process("Resources")])]
 )
 """)
     write(os.path.join(path, 'README.md'), """# Icon Monks for iOS, macOS, tvOS and watchOS
 
-Add the package in Xcode (File > Add Package Dependencies) and point it at this folder or the repository.
+In Xcode choose File > Add Package Dependencies and enter `https://github.com/designmonks/icon-monks`, or in
+`Package.swift`:
 
+```swift
+.package(url: "https://github.com/designmonks/icon-monks", from: "%s")
+```
+""" % VERSION + """
 ```swift
 import IconMonks
 

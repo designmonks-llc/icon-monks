@@ -1,6 +1,11 @@
 # Icon Monks for iOS, macOS, tvOS and watchOS
 
-Add the package in Xcode (File > Add Package Dependencies) and point it at this folder or the repository.
+In Xcode choose File > Add Package Dependencies and enter `https://github.com/designmonks/icon-monks`, or in
+`Package.swift`:
+
+```swift
+.package(url: "https://github.com/designmonks/icon-monks", from: "0.1.0")
+```
 
 ```swift
 import IconMonks

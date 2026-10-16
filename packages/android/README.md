@@ -1,6 +1,16 @@
 # Icon Monks for Android
 
-Two ways to use the icons, both in this library module:
+Published through JitPack. Add the repository and the dependency:
+
+```kotlin
+// settings.gradle.kts
+dependencyResolutionManagement { repositories { google(); mavenCentral(); maven("https://jitpack.io") } }
+
+// app/build.gradle.kts
+implementation("com.github.designmonks:icon-monks:v0.1.0")
+```
+
+Two ways to use the icons, both in this library:
 
 **Jetpack Compose**
 

@@ -1,0 +1,5 @@
+# JitPack builds the Android library from packages/android: com.github.designmonks:icon-monks:<tag>
+jdk:
+  - openjdk17
+install:
+  - cd packages/android && VERSION=$VERSION ./gradlew publishToMavenLocal
