@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="coin rupee,coin,money,rupee,commerce">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="108" cy="128" rx="76" ry="96"/>
+    <path d="M108 32 H144 A76 96 0 0 1 144 224 H108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="108" cy="128" rx="76" ry="96"/>
+    <path d="M108 32 H144 A76 96 0 0 1 144 224 H108"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156.85 54.46 A76 96 0 0 1 156.85 201.54"/>
+    <path d="M80 76 L140 76"/>
+    <path d="M80 108 L140 108"/>
+    <path d="M84 76 H100 A32 32 0 0 1 100 140 H84 L136 188"/>
+  </g>
+</svg>

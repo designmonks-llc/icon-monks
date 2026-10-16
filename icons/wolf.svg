@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="wild animal,wolf,canine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 36 L104 76 H152 L196 36 L200 112 L220 152 L172 168 L140 208 Q128 220 116 208 L84 168 L36 152 L56 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 36 L104 76 H152 L196 36 L200 112 L220 152 L172 168 L140 208 Q128 220 116 208 L84 168 L36 152 L56 112 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 150 L128 172 L148 150"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="124" r="12"/>
+    <circle cx="156" cy="124" r="12"/>
+    <circle cx="128" cy="186" r="12"/>
+  </g>
+</svg>

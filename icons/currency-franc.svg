@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="franc,chf,currency,money,currency franc">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 48 H88 V216"/>
+    <path d="M88 120 L168 120"/>
+    <path d="M48 172 L136 172"/>
+  </g>
+</svg>

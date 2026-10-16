@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="payment terminal,pos,card machine,smart card reader,card terminal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="112" width="160" height="112" rx="16"/>
+    <path d="M80 112 V44 A12 12 0 0 1 92 32 H164 A12 12 0 0 1 176 44 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="112" width="160" height="112" rx="16"/>
+    <path d="M80 112 V44 A12 12 0 0 1 92 32 H164 A12 12 0 0 1 176 44 V112"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 68 L176 68"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="92" cy="152" r="14"/>
+    <circle cx="128" cy="152" r="14"/>
+    <circle cx="164" cy="152" r="14"/>
+    <circle cx="92" cy="188" r="14"/>
+    <circle cx="128" cy="188" r="14"/>
+    <circle cx="164" cy="188" r="14"/>
+  </g>
+</svg>

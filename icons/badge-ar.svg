@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="augmented reality,ar,label,badge">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="192" height="144" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="192" height="144" rx="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 160 L94 96 L116 160"/>
+    <path d="M79.48 138.24 L108.52 138.24"/>
+    <path d="M144 160 V96 H166.08 A17.92 17.92 0 0 1 166.08 131.84 H144"/>
+    <path d="M162 131.84 L184 160"/>
+  </g>
+</svg>

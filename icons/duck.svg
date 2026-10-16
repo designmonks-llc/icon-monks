@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="duck,bird,pond,rubber duck">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56.04 78.26C56.95 56.98 74.49 40 96 40C118.09 40 136 57.91 136 80C136 102.09 118.09 120 96 120C80.17 120 66.48 110.8 60 97.46V104L32 92L56.04 78.26ZM88 200C60 200 40 180 40 152C40 128 64 120 96 124H160L216 96C224 140 200 200 128 200H88Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56.04 78.26C56.95 56.98 74.49 40 96 40C118.09 40 136 57.91 136 80C136 102.09 118.09 120 96 120C80.17 120 66.48 110.8 60 97.46V104L32 92L56.04 78.26ZM88 200C60 200 40 180 40 152C40 128 64 120 96 124H160L216 96C224 140 200 200 128 200H88Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 152 C120 176 160 176 176 148"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="72" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,dollar,price,money,shopping">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.52 160 L84 160 L65 80 L216 80 L202.87 123.75 A64 64 0 0 0 129.52 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 40 L56 40 L84 160 L129.52 160"/>
+    <path d="M202.87 123.75 L216 80 L65 80"/>
+    <circle cx="96" cy="204" r="16"/>
+    <path d="M188 148 L188 224"/>
+    <path d="M210 158 H182 A14 14 0 0 0 182 186 H194 A14 14 0 0 1 194 214 H166"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="building,office,settings,gear,building settings">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V128.25 A58 58 0 0 0 135.63 216 Z"/>
+    <path d="M204.67 176.48 L215.41 177.89 L215.41 190.11 L204.67 191.52 A22 22 0 0 1 200.85 198.14 L204.99 208.15 L194.42 214.26 L187.82 205.67 A22 22 0 0 1 180.18 205.67 L173.58 214.26 L163.01 208.15 L167.15 198.14 A22 22 0 0 1 163.33 191.52 L152.59 190.11 L152.59 177.89 L163.33 176.48 A22 22 0 0 1 167.15 169.86 L163.01 159.85 L173.58 153.74 L180.18 162.33 A22 22 0 0 1 187.82 162.33 L194.42 153.74 L204.99 159.85 L200.85 169.86 A22 22 0 0 1 204.67 176.48 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="184" cy="184" r="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V128.25"/>
+    <path d="M32 216 L135.63 216"/>
+    <path d="M204.67 176.48 L215.41 177.89 L215.41 190.11 L204.67 191.52 A22 22 0 0 1 200.85 198.14 L204.99 208.15 L194.42 214.26 L187.82 205.67 A22 22 0 0 1 180.18 205.67 L173.58 214.26 L163.01 208.15 L167.15 198.14 A22 22 0 0 1 163.33 191.52 L152.59 190.11 L152.59 177.89 L163.33 176.48 A22 22 0 0 1 167.15 169.86 L163.01 159.85 L173.58 153.74 L180.18 162.33 A22 22 0 0 1 187.82 162.33 L194.42 153.74 L204.99 159.85 L200.85 169.86 A22 22 0 0 1 204.67 176.48 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 72 L112 72"/>
+    <path d="M144 72 L168 72"/>
+    <path d="M88 108 L112 108"/>
+    <path d="M144 108 L168 108"/>
+    <path d="M88 144 L112 144"/>
+  </g>
+</svg>

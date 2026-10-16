@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency peso,currency,money,peso,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 216 V40 H136 A48 48 0 0 1 136 136 H88"/>
+    <path d="M48 72 L208 72"/>
+    <path d="M48 104 L208 104"/>
+  </g>
+</svg>

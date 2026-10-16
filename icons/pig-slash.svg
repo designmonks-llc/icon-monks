@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="pig,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98.4 61.65C107.56 58.01 117.54 56 128 56C138.46 56 148.44 58.01 157.6 61.65L204 40L193.33 89.81C202.57 102.86 208 118.79 208 136C208 180.18 172.18 216 128 216C83.82 216 48 180.18 48 136C48 118.79 53.43 102.86 62.67 89.81L52 40L98.4 61.65Z"/>
+    <ellipse cx="128" cy="160" rx="36" ry="26"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="96" cy="116" r="12"/>
+    <circle cx="160" cy="116" r="12"/>
+    <circle cx="114" cy="160" r="10"/>
+    <circle cx="142" cy="160" r="10"/>
+  </g>
+</svg>

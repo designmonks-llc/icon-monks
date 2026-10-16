@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="bell,money,price,notification,alert">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 116.13 184.13 120.13 184.4 124 A60 60 0 0 0 124 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 116.13 184.13 120.13 184.4 124"/>
+    <path d="M128 40 L128 56"/>
+    <path d="M200 160 H180 A12 12 0 0 0 180 184 H188 A12 12 0 0 1 188 208 H168"/>
+    <path d="M184 146 L184 160"/>
+    <path d="M184 208 L184 222"/>
+  </g>
+</svg>

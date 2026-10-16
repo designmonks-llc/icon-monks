@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="coin pound,coin,money,pound,commerce">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="108" cy="128" rx="76" ry="96"/>
+    <path d="M108 32 H144 A76 96 0 0 1 144 224 H108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="108" cy="128" rx="76" ry="96"/>
+    <path d="M108 32 H144 A76 96 0 0 1 144 224 H108"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156.85 54.46 A76 96 0 0 1 156.85 201.54"/>
+    <path d="M144.03 91.13 A21 21 0 0 0 104 100 V160 C104 174 98 180 84 182 H144"/>
+    <path d="M84 136 L128 136"/>
+  </g>
+</svg>

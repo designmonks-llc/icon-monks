@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="transaction,payment,transfer,money">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="46"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43.43 97.22 A90 90 0 0 1 205.94 83"/>
+    <path d="M212.18 53.66 L205.94 83 L177.41 73.73"/>
+    <path d="M212.57 158.78 A90 90 0 0 1 50.06 173"/>
+    <path d="M43.82 202.34 L50.06 173 L78.59 182.27"/>
+    <circle cx="128" cy="128" r="46"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="16"/>
+  </g>
+</svg>

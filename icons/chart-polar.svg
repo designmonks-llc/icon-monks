@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="radar chart,polar,spider chart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 A96 96 0 0 1 224 128 L192 128 A64 64 0 0 1 128 192 L128 212 A84 84 0 0 1 44 128 L72 128 A56 56 0 0 1 128 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 A96 96 0 0 1 224 128 L192 128 A64 64 0 0 1 128 192 L128 212 A84 84 0 0 1 44 128 L72 128 A56 56 0 0 1 128 72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 192"/>
+    <path d="M72 128 L192 128"/>
+  </g>
+</svg>

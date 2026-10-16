@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency dinar,currency,money,dinar,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 48 C156 72 196 112 196 160 V176 A24 24 0 0 1 172 200 H100"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="56" cy="200" r="16"/>
+  </g>
+</svg>

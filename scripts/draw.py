@@ -135,6 +135,11 @@ def _protected():
     return set(open(p).read().split()) if os.path.exists(p) else set()
 
 
+def _attr(v):
+    import re
+    return re.sub(r'&(?!amp;|lt;|gt;|quot;)', '&amp;', v).replace('"', '&quot;').replace('<', '&lt;')
+
+
 def save(overwrite=False):
     """Write every icon() registered so far to icons/<name>.svg. Returns the list of names."""
     out = os.path.join(ROOT, 'icons')
@@ -147,7 +152,7 @@ def save(overwrite=False):
         if os.path.exists(path) and not overwrite:
             raise SystemExit(f'{ic["name"]} already exists; pick another name or pass overwrite=True')
         svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" '
-               f'data-category="{ic["category"]}" data-tags="{",".join(ic["tags"])}">\n'
+               f'data-category="{_attr(ic["category"])}" data-tags="{_attr(",".join(ic["tags"]))}">\n'
                + _group('area', ic['area'], 'fill="currentColor" opacity="0.2"')
                + _group('hole', ic['hole'], 'fill="none"')
                + _group('line', ic['line'], STROKE)

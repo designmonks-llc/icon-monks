@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="exchange,conversion,currency,forex,convert">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="80" r="44"/>
+    <circle cx="176" cy="176" r="44"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="80" r="44"/>
+    <circle cx="176" cy="176" r="44"/>
+    <path d="M149.77 40.67 A90 90 0 0 1 211.45 94.29"/>
+    <path d="M185.67 83.34 L211.45 94.29 L222.39 68.51"/>
+    <path d="M106.23 215.33 A90 90 0 0 1 44.55 161.71"/>
+    <path d="M70.33 172.66 L44.55 161.71 L33.61 187.49"/>
+  </g>
+</svg>

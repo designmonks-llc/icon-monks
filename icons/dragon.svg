@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="dragon,mythical,fantasy,zodiac">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 216 L76 182 L48 174 L78 156 L56 134 L88 124 L88 100 L44 44 L112 80 H148 L204 100 Q222 108 212 124 L152 134 L196 152 Q202 164 188 166 L140 166 L132 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 216 L76 182 L48 174 L78 156 L56 134 L88 124 L88 100 L44 44 L112 80 H148 L204 100 Q222 108 212 124 L152 134 L196 152 Q202 164 188 166 L140 166 L132 216 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="132" cy="106" r="12"/>
+  </g>
+</svg>

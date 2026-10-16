@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrows,decrease,download,direction">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L216 64"/>
+    <path d="M184 32 L216 64 L184 96"/>
+    <path d="M136 136 L40 136"/>
+    <path d="M72 168 L40 136 L72 104"/>
+    <path d="M184 156 L184 216"/>
+    <path d="M154 186 L184 216 L214 186"/>
+  </g>
+</svg>

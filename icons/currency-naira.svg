@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="naira,ngn,nigeria money,currency naira,currency">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 216 V40 L184 216 V40"/>
+    <path d="M40 112 L216 112"/>
+    <path d="M40 148 L216 148"/>
+  </g>
+</svg>

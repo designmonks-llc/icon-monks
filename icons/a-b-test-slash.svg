@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="ab testing,experiment,disabled">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 L68 140 L96 216"/>
+    <path d="M48.8 192 L87.2 192"/>
+    <path d="M160 40 H186 A18 18 0 0 1 186 76 H160 Z"/>
+    <path d="M160 76 H190 A20 20 0 0 1 190 116 H160 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

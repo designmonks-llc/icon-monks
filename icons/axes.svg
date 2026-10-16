@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="xyz,coordinates,3d axes,axes,graph">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 156 L100 40"/>
+    <path d="M100 156 L220 156"/>
+    <path d="M100 156 L44 212"/>
+    <path d="M83.03 56.97 L100 40 L116.97 56.97"/>
+    <path d="M203.03 139.03 L220 156 L203.03 172.97"/>
+    <path d="M68 212 L44 212 L44 188"/>
+  </g>
+</svg>

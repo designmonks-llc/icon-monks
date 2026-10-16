@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="gantt,timeline,schedule,steps">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="36" width="104" height="40" rx="10"/>
+    <rect x="76" y="108" width="104" height="40" rx="10"/>
+    <rect x="120" y="180" width="104" height="40" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="36" width="104" height="40" rx="10"/>
+    <rect x="76" y="108" width="104" height="40" rx="10"/>
+    <rect x="120" y="180" width="104" height="40" rx="10"/>
+  </g>
+</svg>

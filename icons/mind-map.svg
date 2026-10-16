@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="mind map,brainstorm,diagram,nodes,ideas">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="84" y="108" width="88" height="40" rx="20"/>
+    <circle cx="52" cy="56" r="20"/>
+    <circle cx="204" cy="56" r="20"/>
+    <circle cx="52" cy="200" r="20"/>
+    <circle cx="204" cy="200" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="108" width="88" height="40" rx="20"/>
+    <circle cx="52" cy="56" r="20"/>
+    <circle cx="204" cy="56" r="20"/>
+    <circle cx="52" cy="200" r="20"/>
+    <circle cx="204" cy="200" r="20"/>
+    <path d="M104 108 C104 80 96 56 72 56"/>
+    <path d="M152 108 C152 80 160 56 184 56"/>
+    <path d="M104 148 C104 176 96 200 72 200"/>
+    <path d="M152 148 C152 176 160 200 184 200"/>
+  </g>
+</svg>

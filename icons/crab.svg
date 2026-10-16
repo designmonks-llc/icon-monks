@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="crab,seafood,sea,crustacean">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M192 152 A64 40 0 1 1 64 152 A64 40 0 1 1 192 152 Z"/>
+    <path d="M64 76 L88.72 62.85 A28 28 0 1 1 63.02 48.02 Z"/>
+    <path d="M192 76 L192.98 48.02 A28 28 0 1 1 167.28 62.85 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 152 A64 40 0 1 1 64 152 A64 40 0 1 1 192 152 Z"/>
+    <path d="M64 76 L88.72 62.85 A28 28 0 1 1 63.02 48.02 Z"/>
+    <path d="M192 76 L192.98 48.02 A28 28 0 1 1 167.28 62.85 Z"/>
+    <path d="M80 100 L98 118"/>
+    <path d="M176 100 L158 118"/>
+    <path d="M68 164 L36 184"/>
+    <path d="M92 186 L68 216"/>
+    <path d="M188 164 L220 184"/>
+    <path d="M164 186 L188 216"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="144" r="12"/>
+    <circle cx="148" cy="144" r="12"/>
+  </g>
+</svg>

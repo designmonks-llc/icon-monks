@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="scatter plot,dots,correlation,data,chart scatter">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="80" cy="160" r="16"/>
+    <circle cx="116" cy="104" r="16"/>
+    <circle cx="152" cy="152" r="16"/>
+    <circle cx="176" cy="72" r="16"/>
+    <circle cx="200" cy="124" r="16"/>
+  </g>
+</svg>

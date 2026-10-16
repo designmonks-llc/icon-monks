@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="area chart,graph,analytics,trend,filled">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 184 L64 152 L108 108 L148 140 L208 80 L208 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+    <path d="M64 184 L64 152 L108 108 L148 140 L208 80 L208 184 Z"/>
+  </g>
+</svg>

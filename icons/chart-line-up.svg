@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="growth,graph,increase,trend,rising">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+    <path d="M72 160 L112 112 L152 144 L208 80"/>
+    <path d="M180.06 81.86 L208 80 L209.86 107.94"/>
+  </g>
+</svg>

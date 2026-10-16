@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="grouped bars,comparison,bar chart,analytics">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="36" y="96" width="36" height="88" rx="8"/>
+    <rect x="72" y="136" width="36" height="48" rx="8"/>
+    <rect x="148" y="56" width="36" height="128" rx="8"/>
+    <rect x="184" y="112" width="36" height="72" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="36" y="96" width="36" height="88" rx="8"/>
+    <rect x="72" y="136" width="36" height="48" rx="8"/>
+    <rect x="148" y="56" width="36" height="128" rx="8"/>
+    <rect x="184" y="112" width="36" height="72" rx="8"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+</svg>

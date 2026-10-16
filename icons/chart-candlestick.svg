@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="stock,candlestick,trading,market,stocks">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="36" y="100" width="40" height="64" rx="8"/>
+    <rect x="108" y="64" width="40" height="72" rx="8"/>
+    <rect x="180" y="120" width="40" height="68" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="36" y="100" width="40" height="64" rx="8"/>
+    <rect x="108" y="64" width="40" height="72" rx="8"/>
+    <rect x="180" y="120" width="40" height="68" rx="8"/>
+    <path d="M56 72 L56 100"/>
+    <path d="M56 164 L56 196"/>
+    <path d="M128 40 L128 64"/>
+    <path d="M128 136 L128 168"/>
+    <path d="M200 92 L200 120"/>
+    <path d="M200 188 L200 216"/>
+  </g>
+</svg>

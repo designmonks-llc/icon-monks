@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="boxes,inventory,stock,warehouse">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 140 A12 12 0 0 1 44 128 H80 V44 A12 12 0 0 1 92 32 H164 A12 12 0 0 1 176 44 V128 H212 A12 12 0 0 1 224 140 V212 A12 12 0 0 1 212 224 H44 A12 12 0 0 1 32 212 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 140 A12 12 0 0 1 44 128 H80 V44 A12 12 0 0 1 92 32 H164 A12 12 0 0 1 176 44 V128 H212 A12 12 0 0 1 224 140 V212 A12 12 0 0 1 212 224 H44 A12 12 0 0 1 32 212 Z"/>
+    <path d="M80 128 L176 128"/>
+    <path d="M128 128 L128 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M94 128 L162 128"/>
+    <path d="M128 142 L128 210"/>
+    <path d="M112 72 L144 72"/>
+    <path d="M64 168 L96 168"/>
+    <path d="M160 168 L192 168"/>
+  </g>
+</svg>

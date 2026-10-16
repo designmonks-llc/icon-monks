@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="scanner,checkout,barcode reader,retail">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M140 44 H210 A14 14 0 0 1 224 58 V94 A14 14 0 0 1 210 108 H200 L188 202 A14 14 0 0 1 174 214 H160 A12 12 0 0 1 148 200 L156 108 H140 A32 32 0 0 1 140 44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 44 H210 A14 14 0 0 1 224 58 V94 A14 14 0 0 1 210 108 H200 L188 202 A14 14 0 0 1 174 214 H160 A12 12 0 0 1 148 200 L156 108 H140 A32 32 0 0 1 140 44 Z"/>
+    <path d="M92 64 L40 44"/>
+    <path d="M92 88 L40 108"/>
+    <path d="M40 156 L40 208"/>
+    <path d="M72 156 L72 208"/>
+    <path d="M104 156 L104 208"/>
+  </g>
+</svg>

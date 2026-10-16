@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="caret,chevron,double,down,right">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M194 106 L194 194 L106 194"/>
+    <path d="M150 62 L150 150 L62 150"/>
+  </g>
+</svg>

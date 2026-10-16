@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrow fork triple,arrow,direction,fork,triple">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 216 L128 40"/>
+    <path d="M98 70 L128 40 L158 70"/>
+    <path d="M128 184 L56 112"/>
+    <path d="M56 148.77 L56 112 L92.77 112"/>
+    <path d="M128 184 L200 112"/>
+    <path d="M163.23 112 L200 112 L200 148.77"/>
+  </g>
+</svg>

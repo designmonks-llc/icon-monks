@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="horse,pony,equine,farm,equestrian">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M184 216 C188 160 180 112 160 72 L160 32 L140 56 C112 60 84 96 60 136 C48 156 52 176 72 180 C92 184 108 176 120 168 C128 184 128 200 120 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 216 C188 160 180 112 160 72 L160 32 L140 56 C112 60 84 96 60 136 C48 156 52 176 72 180 C92 184 108 176 120 168 C128 184 128 200 120 216 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="124" cy="96" r="12"/>
+    <circle cx="72" cy="160" r="10"/>
+  </g>
+</svg>

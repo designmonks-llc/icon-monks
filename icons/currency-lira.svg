@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="lira,try,turkey,currency,money">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 V208 H120 A72 72 0 0 0 192 136"/>
+    <path d="M56 140 L140 104"/>
+    <path d="M56 180 L140 144"/>
+  </g>
+</svg>

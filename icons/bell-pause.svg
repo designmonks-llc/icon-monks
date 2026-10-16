@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="bell,paused,hold,notification,alert">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M130 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 118.31 184.31 124.32 184.93 130.01 A54 54 0 0 0 130 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 118.31 184.31 124.32 184.93 130.01"/>
+    <path d="M128 40 L128 56"/>
+    <path d="M168 160 L168 208"/>
+    <path d="M200 160 L200 208"/>
+  </g>
+</svg>

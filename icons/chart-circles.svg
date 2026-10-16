@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart circles,chart,graph,analytics,circles">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="104" cy="104" r="72"/>
+    <circle cx="168" cy="168" r="56"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="104" cy="104" r="72"/>
+    <path d="M175.5 112.5 A56 56 0 1 1 112.5 175.5"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M175.5 112.5 A56 56 0 0 0 112.5 175.5"/>
+  </g>
+</svg>

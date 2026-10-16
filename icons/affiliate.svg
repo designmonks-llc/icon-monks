@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="affiliate,network,referral,nodes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="136" r="32"/>
+    <circle cx="128" cy="52" r="20"/>
+    <circle cx="52" cy="188" r="20"/>
+    <circle cx="204" cy="188" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="136" r="32"/>
+    <circle cx="128" cy="52" r="20"/>
+    <circle cx="52" cy="188" r="20"/>
+    <circle cx="204" cy="188" r="20"/>
+    <path d="M128 104 L128 72"/>
+    <path d="M101.59 154.07 L68.51 176.71"/>
+    <path d="M154.41 154.07 L187.49 176.71"/>
+  </g>
+</svg>

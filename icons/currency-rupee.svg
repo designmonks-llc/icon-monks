@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="rupee,inr,india money,currency,money">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 48 L192 48"/>
+    <path d="M64 88 L192 88"/>
+    <path d="M144 48 A40 40 0 0 1 144 128 H72 L176 216"/>
+  </g>
+</svg>

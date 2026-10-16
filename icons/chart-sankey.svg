@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart sankey,chart,graph,analytics,sankey">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 48 L40 176"/>
+    <path d="M216 40 L216 72"/>
+    <path d="M216 152 L216 224"/>
+    <path d="M40 64 C128 64 128 56 216 56"/>
+    <path d="M40 112 C128 112 128 168 216 168"/>
+    <path d="M40 160 C128 160 128 208 216 208"/>
+  </g>
+</svg>

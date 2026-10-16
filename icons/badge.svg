@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="badge,id,staff,employee,rank">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 72 H184 A16 16 0 0 1 200 88 V208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 V88 A16 16 0 0 1 72 72 Z"/>
+    <rect x="104" y="40" width="48" height="52" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 72 H72 A16 16 0 0 0 56 88 V208 A16 16 0 0 0 72 224 H184 A16 16 0 0 0 200 208 V88 A16 16 0 0 0 184 72 H152"/>
+    <rect x="104" y="40" width="48" height="52" rx="12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="144" r="20"/>
+    <path d="M100 192 L156 192"/>
+    <path d="M120 62 L136 62"/>
+  </g>
+</svg>

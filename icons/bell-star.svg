@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="bell,favorite,starred,notification,alert">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 116.13 184.13 120.13 184.4 124 A60 60 0 0 0 124 184 Z"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 116.13 184.13 120.13 184.4 124"/>
+    <path d="M128 40 L128 56"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+</svg>

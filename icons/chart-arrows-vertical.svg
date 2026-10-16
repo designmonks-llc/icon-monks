@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart arrows vertical,chart,graph,analytics,arrows">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 L224 216"/>
+    <path d="M72 216 L72 104"/>
+    <path d="M55.03 120.97 L72 104 L88.97 120.97"/>
+    <path d="M128 216 L128 40"/>
+    <path d="M111.03 56.97 L128 40 L144.97 56.97"/>
+    <path d="M184 216 L184 128"/>
+    <path d="M167.03 144.97 L184 128 L200.97 144.97"/>
+  </g>
+</svg>

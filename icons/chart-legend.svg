@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="legend,key,chart,toggle legend">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="40" width="40" height="40" rx="8"/>
+    <rect x="32" y="108" width="40" height="40" rx="8"/>
+    <rect x="32" y="176" width="40" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="40" height="40" rx="8"/>
+    <rect x="32" y="108" width="40" height="40" rx="8"/>
+    <rect x="32" y="176" width="40" height="40" rx="8"/>
+    <path d="M104 60 L216 60"/>
+    <path d="M104 128 L184 128"/>
+    <path d="M104 196 L200 196"/>
+  </g>
+</svg>

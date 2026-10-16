@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="vote,election,poll,ballot">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="120" width="176" height="96" rx="16"/>
+    <path d="M80 120 V44 A12 12 0 0 1 92 32 H164 A12 12 0 0 1 176 44 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="120" width="176" height="96" rx="16"/>
+    <path d="M80 120 V44 A12 12 0 0 1 92 32 H164 A12 12 0 0 1 176 44 V120"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 80 L122 98 L152 68"/>
+    <path d="M96 168 L160 168"/>
+  </g>
+</svg>

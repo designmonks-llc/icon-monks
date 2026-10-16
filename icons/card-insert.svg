@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="insert card,chip,atm,payment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 88 V194 A14 14 0 0 0 62 208 H194 A14 14 0 0 0 208 194 V88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 56 L224 56"/>
+    <path d="M48 88 V194 A14 14 0 0 0 62 208 H194 A14 14 0 0 0 208 194 V88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="120" width="44" height="36" rx="10"/>
+    <path d="M164 180 L164 116"/>
+    <path d="M148 132 L164 116 L180 132"/>
+  </g>
+</svg>

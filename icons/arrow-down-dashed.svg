@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrow down dashed,arrow,direction,down,dashed">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 64"/>
+    <path d="M128 104 L128 128"/>
+    <path d="M128 168 L128 216"/>
+    <path d="M184 160 L128 216 L72 160"/>
+  </g>
+</svg>

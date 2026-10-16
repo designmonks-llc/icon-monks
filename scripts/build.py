@@ -87,9 +87,21 @@ def union(*paths):
         return pathops.Path()
     acc = pathops.Path()
     for p in paths:
-        acc.addPath(p)
+        # Orient each input first: raw shapes and pathops output can wind opposite ways, and under
+        # nonzero filling an overlap of opposite windings would cancel out instead of merging.
+        acc.addPath(_oriented(p))
     acc.simplify(fix_winding=False, keep_starting_points=False)
     return fix_winding(acc)
+
+
+def _oriented(p):
+    q = pathops.Path()
+    q.addPath(p)
+    try:
+        q.simplify(fix_winding=False, keep_starting_points=False)
+    except pathops.PathOpsError:
+        return p
+    return fix_winding(q)
 
 
 def difference(a, *subs):

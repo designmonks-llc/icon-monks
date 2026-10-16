@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="d-pad,arrows,directions,navigate">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 62 L146 84 L110 84 Z"/>
+    <path d="M194 128 L172 146 L172 110 Z"/>
+    <path d="M128 194 L110 172 L146 172 Z"/>
+    <path d="M62 128 L84 110 L84 146 Z"/>
+  </g>
+</svg>

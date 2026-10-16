@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="frog,toad,amphibian,pond">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52.74 109.51C47.29 103.2 44 94.99 44 86C44 66.12 60.12 50 80 50C99.88 50 116 66.12 116 86C116 86.16 116 86.32 116 86.48C119.93 86.16 123.93 86 128 86C132.07 86 136.07 86.16 140 86.48C140 86.32 140 86.16 140 86C140 66.12 156.12 50 176 50C195.88 50 212 66.12 212 86C212 94.99 208.71 103.2 203.26 109.51C216.25 120.08 224 133.46 224 148C224 182.24 181.02 210 128 210C74.98 210 32 182.24 32 148C32 133.46 39.75 120.08 52.74 109.51Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52.74 109.51C47.29 103.2 44 94.99 44 86C44 66.12 60.12 50 80 50C99.88 50 116 66.12 116 86C116 86.16 116 86.32 116 86.48C119.93 86.16 123.93 86 128 86C132.07 86 136.07 86.16 140 86.48C140 86.32 140 86.16 140 86C140 66.12 156.12 50 176 50C195.88 50 212 66.12 212 86C212 94.99 208.71 103.2 203.26 109.51C216.25 120.08 224 133.46 224 148C224 182.24 181.02 210 128 210C74.98 210 32 182.24 32 148C32 133.46 39.75 120.08 52.74 109.51Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 164 C108 184 148 184 172 164"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="86" r="16"/>
+    <circle cx="176" cy="86" r="16"/>
+  </g>
+</svg>

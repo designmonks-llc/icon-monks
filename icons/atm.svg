@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="cash machine,bank,withdraw,money">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 136 H46 A14 14 0 0 1 32 122 V46 A14 14 0 0 1 46 32 H210 A14 14 0 0 1 224 46 V122 A14 14 0 0 1 210 136 H176 Z"/>
+    <path d="M80 80 V210 A14 14 0 0 0 94 224 H162 A14 14 0 0 0 176 210 V80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 136 H46 A14 14 0 0 1 32 122 V46 A14 14 0 0 1 46 32 H210 A14 14 0 0 1 224 46 V122 A14 14 0 0 1 210 136 H176"/>
+    <path d="M80 80 V210 A14 14 0 0 0 94 224 H162 A14 14 0 0 0 176 210 V80"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 80 L200 80"/>
+    <circle cx="128" cy="180" r="18"/>
+  </g>
+</svg>

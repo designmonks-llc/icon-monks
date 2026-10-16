@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="volatile,up and down,trend,fluctuation">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 80 L104 144 L144 104 L216 176"/>
+    <path d="M96 80 L40 80 L40 136"/>
+    <path d="M160 176 L216 176 L216 120"/>
+  </g>
+</svg>

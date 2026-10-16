@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrow zig zag,arrow,direction,zig,zag">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 176 L96 120 L144 168 L216 96"/>
+    <path d="M160 96 L216 96 L216 152"/>
+  </g>
+</svg>

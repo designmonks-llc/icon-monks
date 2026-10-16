@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency kip,currency,money,kip,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 L96 216"/>
+    <path d="M176 40 L96 128 L176 216"/>
+    <path d="M48 128 L208 128"/>
+  </g>
+</svg>

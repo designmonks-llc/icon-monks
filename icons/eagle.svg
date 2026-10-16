@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="eagle,bird of prey,hawk,freedom">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M200 216 L180 176 L212 168 L184 148 L216 132 L184 116 C188 84 164 60 132 60 C108 60 96 72 88 84 C64 88 44 104 40 128 C40 136 48 140 52 132 C56 124 64 120 76 124 L104 132 L112 152 L120 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 216 L180 176 L212 168 L184 148 L216 132 L184 116 C188 84 164 60 132 60 C108 60 96 72 88 84 C64 88 44 104 40 128 C40 136 48 140 52 132 C56 124 64 120 76 124 L104 132 L112 152 L120 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 84 C100 100 104 116 104 132"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="132" cy="96" r="12"/>
+  </g>
+</svg>

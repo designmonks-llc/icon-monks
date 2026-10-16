@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="split,diverge,fork">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 208 L128 128"/>
+    <path d="M128 128 L48 48"/>
+    <path d="M48 100 L48 48 L100 48"/>
+    <path d="M128 128 L208 48"/>
+    <path d="M208 100 L208 48 L156 48"/>
+  </g>
+</svg>

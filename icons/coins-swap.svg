@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="exchange,convert currency,swap">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="76" r="40"/>
+    <circle cx="180" cy="180" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="76" r="40"/>
+    <circle cx="180" cy="180" r="40"/>
+    <path d="M144 52 H176 A28 28 0 0 1 204 80 V112"/>
+    <path d="M184 92 L204 112 L224 92"/>
+    <path d="M112 204 H80 A28 28 0 0 1 52 176 V144"/>
+    <path d="M32 164 L52 144 L72 164"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="76" cy="76" r="14"/>
+    <circle cx="180" cy="180" r="14"/>
+  </g>
+</svg>

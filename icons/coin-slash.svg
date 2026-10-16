@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="no money,free,coin off,slash">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="108" cy="128" rx="76" ry="96"/>
+    <path d="M108 32 H144 A76 96 0 0 1 144 224 H108"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

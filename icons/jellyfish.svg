@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="sea creature,ocean,jelly">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 120 A80 80 0 0 1 208 120 V128 A12 12 0 0 1 196 140 H60 A12 12 0 0 1 48 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 120 A80 80 0 0 1 208 120 V128 A12 12 0 0 1 196 140 H60 A12 12 0 0 1 48 128 Z"/>
+    <path d="M88 160 C80 176 96 196 88 216"/>
+    <path d="M128 160 C120 176 136 196 128 216"/>
+    <path d="M168 160 C160 176 176 196 168 216"/>
+  </g>
+</svg>

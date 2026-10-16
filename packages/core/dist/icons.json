@@ -1,5 +1,42 @@
 [
  {
+  "name": "a-b-test",
+  "category": "Charts",
+  "tags": [
+   "ab test",
+   "split test",
+   "experiment",
+   "compare"
+  ]
+ },
+ {
+  "name": "a-b-test-slash",
+  "category": "Development",
+  "tags": [
+   "ab testing",
+   "experiment",
+   "disabled"
+  ]
+ },
+ {
+  "name": "ad-circle",
+  "category": "Business",
+  "tags": [
+   "advertisement",
+   "ad",
+   "marketing"
+  ]
+ },
+ {
+  "name": "ad-circle-slash",
+  "category": "Business",
+  "tags": [
+   "advertisement",
+   "no ads",
+   "ad blocker"
+  ]
+ },
+ {
   "name": "address-book",
   "category": "People",
   "tags": [
@@ -7,6 +44,35 @@
    "directory",
    "phonebook",
    "people"
+  ]
+ },
+ {
+  "name": "address-book-slash",
+  "category": "Communication",
+  "tags": [
+   "address book",
+   "disabled",
+   "off",
+   "communication"
+  ]
+ },
+ {
+  "name": "affiliate",
+  "category": "Business",
+  "tags": [
+   "affiliate",
+   "network",
+   "referral",
+   "nodes"
+  ]
+ },
+ {
+  "name": "agile",
+  "category": "Business",
+  "tags": [
+   "sprint",
+   "iteration",
+   "scrum"
   ]
  },
  {
@@ -40,6 +106,25 @@
    "space",
    "martian",
    "et"
+  ]
+ },
+ {
+  "name": "analyze",
+  "category": "Charts",
+  "tags": [
+   "analyze",
+   "analysis",
+   "insight",
+   "chart"
+  ]
+ },
+ {
+  "name": "analyze-slash",
+  "category": "Charts",
+  "tags": [
+   "analysis off",
+   "disabled",
+   "chart"
   ]
  },
  {
@@ -96,6 +181,196 @@
   ]
  },
  {
+  "name": "arrow-arc-left",
+  "category": "Arrows",
+  "tags": [
+   "undo",
+   "back",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-arc-right",
+  "category": "Arrows",
+  "tags": [
+   "redo",
+   "forward",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-autofit-content",
+  "category": "Arrows",
+  "tags": [
+   "arrow autofit content",
+   "arrow",
+   "direction",
+   "autofit",
+   "content"
+  ]
+ },
+ {
+  "name": "arrow-autofit-down",
+  "category": "Arrows",
+  "tags": [
+   "arrow autofit",
+   "decrease",
+   "download",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-autofit-height",
+  "category": "Arrows",
+  "tags": [
+   "arrow autofit height",
+   "arrow",
+   "direction",
+   "autofit",
+   "height"
+  ]
+ },
+ {
+  "name": "arrow-autofit-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow autofit left",
+   "arrow",
+   "direction",
+   "autofit",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-autofit-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow autofit right",
+   "arrow",
+   "direction",
+   "autofit",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-autofit-up",
+  "category": "Arrows",
+  "tags": [
+   "arrow autofit",
+   "increase",
+   "upload",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-autofit-width",
+  "category": "Arrows",
+  "tags": [
+   "arrow autofit width",
+   "arrow",
+   "direction",
+   "autofit",
+   "width"
+  ]
+ },
+ {
+  "name": "arrow-badge-down",
+  "category": "Arrows",
+  "tags": [
+   "arrow badge",
+   "decrease",
+   "download",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-badge-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow badge left",
+   "arrow",
+   "direction",
+   "badge",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-badge-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow badge right",
+   "arrow",
+   "direction",
+   "badge",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-badge-up",
+  "category": "Arrows",
+  "tags": [
+   "arrow badge",
+   "increase",
+   "upload",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-bar-both",
+  "category": "Arrows",
+  "tags": [
+   "expand",
+   "both sides",
+   "width"
+  ]
+ },
+ {
+  "name": "arrow-bear-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow bear left",
+   "arrow",
+   "direction",
+   "bear",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-bear-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow bear right",
+   "arrow",
+   "direction",
+   "bear",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-bend-double-up-left",
+  "category": "Arrows",
+  "tags": [
+   "reply all",
+   "back",
+   "return",
+   "respond",
+   "email"
+  ]
+ },
+ {
+  "name": "arrow-bend-double-up-right",
+  "category": "Arrows",
+  "tags": [
+   "forward all",
+   "share",
+   "send"
+  ]
+ },
+ {
   "name": "arrow-bend-down-left",
   "category": "Arrows",
   "tags": [
@@ -113,6 +388,50 @@
    "direction",
    "bend",
    "right"
+  ]
+ },
+ {
+  "name": "arrow-bend-left-down",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "bend",
+   "direction",
+   "elbow",
+   "left down"
+  ]
+ },
+ {
+  "name": "arrow-bend-left-up",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "bend",
+   "direction",
+   "elbow",
+   "left up"
+  ]
+ },
+ {
+  "name": "arrow-bend-right-down",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "bend",
+   "direction",
+   "elbow",
+   "right down"
+  ]
+ },
+ {
+  "name": "arrow-bend-right-up",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "bend",
+   "direction",
+   "elbow",
+   "right up"
   ]
  },
  {
@@ -136,6 +455,26 @@
   ]
  },
  {
+  "name": "arrow-bounce",
+  "category": "Arrows",
+  "tags": [
+   "arrow bounce",
+   "arrow",
+   "direction",
+   "bounce",
+   "arrows"
+  ]
+ },
+ {
+  "name": "arrow-capsule",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "capsule",
+   "scroll"
+  ]
+ },
+ {
   "name": "arrow-circle-down",
   "category": "Arrows",
   "tags": [
@@ -143,6 +482,28 @@
    "down",
    "circle",
    "button"
+  ]
+ },
+ {
+  "name": "arrow-circle-down-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "circle",
+   "down left",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-circle-down-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "circle",
+   "down right",
+   "direction"
   ]
  },
  {
@@ -176,12 +537,43 @@
   ]
  },
  {
+  "name": "arrow-circle-up-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "circle",
+   "up left",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-circle-up-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "circle",
+   "up right",
+   "direction"
+  ]
+ },
+ {
   "name": "arrow-clockwise",
   "category": "Arrows",
   "tags": [
    "refresh",
    "reload",
    "redo",
+   "rotate"
+  ]
+ },
+ {
+  "name": "arrow-clockwise-circle",
+  "category": "Arrows",
+  "tags": [
+   "redo",
+   "forward",
    "rotate"
   ]
  },
@@ -196,12 +588,76 @@
   ]
  },
  {
+  "name": "arrow-counter-clockwise-circle",
+  "category": "Arrows",
+  "tags": [
+   "undo",
+   "back",
+   "rotate"
+  ]
+ },
+ {
+  "name": "arrow-curve-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow curve left",
+   "arrow",
+   "direction",
+   "curve",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-curve-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow curve right",
+   "arrow",
+   "direction",
+   "curve",
+   "right"
+  ]
+ },
+ {
   "name": "arrow-down",
   "category": "Arrows",
   "tags": [
    "direction",
    "down",
    "pointer"
+  ]
+ },
+ {
+  "name": "arrow-down-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow down dashed",
+   "arrow",
+   "direction",
+   "down",
+   "dashed"
+  ]
+ },
+ {
+  "name": "arrow-down-from-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow down from arc",
+   "arrow",
+   "direction",
+   "down",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-down-from-line",
+  "category": "Arrows",
+  "tags": [
+   "arrow down from line",
+   "arrow",
+   "direction",
+   "down",
+   "line"
   ]
  },
  {
@@ -215,6 +671,17 @@
   ]
  },
  {
+  "name": "arrow-down-rhombus",
+  "category": "Arrows",
+  "tags": [
+   "arrow down rhombus",
+   "arrow",
+   "direction",
+   "down",
+   "rhombus"
+  ]
+ },
+ {
   "name": "arrow-down-right",
   "category": "Arrows",
   "tags": [
@@ -225,12 +692,306 @@
   ]
  },
  {
+  "name": "arrow-down-tail",
+  "category": "Arrows",
+  "tags": [
+   "arrow down tail",
+   "arrow",
+   "direction",
+   "down",
+   "tail"
+  ]
+ },
+ {
+  "name": "arrow-down-to-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow down to arc",
+   "arrow",
+   "direction",
+   "down",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-elbow-down",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "down",
+   "90 degrees"
+  ]
+ },
+ {
+  "name": "arrow-elbow-left",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "left",
+   "90 degrees",
+   "elbow arrow"
+  ]
+ },
+ {
+  "name": "arrow-elbow-right",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "right",
+   "90 degrees",
+   "elbow arrow"
+  ]
+ },
+ {
+  "name": "arrow-elbow-up",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "up",
+   "90 degrees"
+  ]
+ },
+ {
+  "name": "arrow-fat-down",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "down",
+   "bold arrow",
+   "arrow big",
+   "decrease"
+  ]
+ },
+ {
+  "name": "arrow-fat-left",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "left",
+   "bold arrow",
+   "arrow big left",
+   "arrow"
+  ]
+ },
+ {
+  "name": "arrow-fat-line-down",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "down",
+   "end"
+  ]
+ },
+ {
+  "name": "arrow-fat-line-left",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "left",
+   "start"
+  ]
+ },
+ {
+  "name": "arrow-fat-line-right",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "right",
+   "end"
+  ]
+ },
+ {
+  "name": "arrow-fat-line-up",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "up",
+   "top"
+  ]
+ },
+ {
+  "name": "arrow-fat-lines-down",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "down",
+   "speed",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-fat-lines-left",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "left",
+   "speed",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-fat-lines-right",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "right",
+   "speed",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-fat-lines-up",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "caps lock",
+   "shift",
+   "upvote",
+   "increase"
+  ]
+ },
+ {
+  "name": "arrow-fat-right",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "right",
+   "bold arrow",
+   "arrow big right",
+   "arrow"
+  ]
+ },
+ {
+  "name": "arrow-fat-up",
+  "category": "Arrows",
+  "tags": [
+   "block arrow",
+   "shift",
+   "bold arrow",
+   "upvote",
+   "up"
+  ]
+ },
+ {
+  "name": "arrow-fork",
+  "category": "Arrows",
+  "tags": [
+   "arrow fork",
+   "arrow",
+   "direction",
+   "fork",
+   "arrows"
+  ]
+ },
+ {
+  "name": "arrow-fork-triple",
+  "category": "Arrows",
+  "tags": [
+   "arrow fork triple",
+   "arrow",
+   "direction",
+   "fork",
+   "triple"
+  ]
+ },
+ {
+  "name": "arrow-guide",
+  "category": "Arrows",
+  "tags": [
+   "guide",
+   "route",
+   "path"
+  ]
+ },
+ {
+  "name": "arrow-iteration",
+  "category": "Arrows",
+  "tags": [
+   "iteration",
+   "loop",
+   "cycle"
+  ]
+ },
+ {
   "name": "arrow-left",
   "category": "Arrows",
   "tags": [
    "direction",
    "left",
    "pointer"
+  ]
+ },
+ {
+  "name": "arrow-left-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow left dashed",
+   "arrow",
+   "direction",
+   "left",
+   "dashed"
+  ]
+ },
+ {
+  "name": "arrow-left-from-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow left from arc",
+   "arrow",
+   "direction",
+   "left",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-left-from-line",
+  "category": "Arrows",
+  "tags": [
+   "arrow left from line",
+   "arrow",
+   "direction",
+   "left",
+   "line"
+  ]
+ },
+ {
+  "name": "arrow-left-rhombus",
+  "category": "Arrows",
+  "tags": [
+   "arrow left rhombus",
+   "arrow",
+   "direction",
+   "left",
+   "rhombus"
+  ]
+ },
+ {
+  "name": "arrow-left-tail",
+  "category": "Arrows",
+  "tags": [
+   "arrow left tail",
+   "arrow",
+   "direction",
+   "left",
+   "tail"
+  ]
+ },
+ {
+  "name": "arrow-left-to-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow left to arc",
+   "arrow",
+   "direction",
+   "left",
+   "arc"
   ]
  },
  {
@@ -244,6 +1005,79 @@
   ]
  },
  {
+  "name": "arrow-line-down-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "line",
+   "down",
+   "dashed"
+  ]
+ },
+ {
+  "name": "arrow-line-down-left",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "corner",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-line-down-right",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "corner",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-line-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "left",
+   "start",
+   "line",
+   "skip"
+  ]
+ },
+ {
+  "name": "arrow-line-left-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "line",
+   "left",
+   "dashed"
+  ]
+ },
+ {
+  "name": "arrow-line-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "right",
+   "end",
+   "line",
+   "skip"
+  ]
+ },
+ {
+  "name": "arrow-line-right-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "line",
+   "right",
+   "dashed"
+  ]
+ },
+ {
   "name": "arrow-line-up",
   "category": "Arrows",
   "tags": [
@@ -254,12 +1088,424 @@
   ]
  },
  {
+  "name": "arrow-line-up-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "line",
+   "up",
+   "dashed"
+  ]
+ },
+ {
+  "name": "arrow-line-up-left",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "corner",
+   "direction",
+   "insert",
+   "top left"
+  ]
+ },
+ {
+  "name": "arrow-line-up-right",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "corner",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-loop-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow loop left",
+   "arrow",
+   "direction",
+   "loop",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-loop-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow loop right",
+   "arrow",
+   "direction",
+   "loop",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-merge-both",
+  "category": "Arrows",
+  "tags": [
+   "arrow merge both",
+   "arrow",
+   "direction",
+   "merge",
+   "both"
+  ]
+ },
+ {
+  "name": "arrow-merge-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow merge left",
+   "arrow",
+   "direction",
+   "merge",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-merge-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow merge right",
+   "arrow",
+   "direction",
+   "merge",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-move-down",
+  "category": "Arrows",
+  "tags": [
+   "arrow move",
+   "decrease",
+   "download",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-move-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow move left",
+   "arrow",
+   "direction",
+   "move",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-move-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow move right",
+   "arrow",
+   "direction",
+   "move",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-move-up",
+  "category": "Arrows",
+  "tags": [
+   "arrow move",
+   "increase",
+   "upload",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-ramp-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow ramp left",
+   "arrow",
+   "direction",
+   "ramp",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-ramp-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow ramp right",
+   "arrow",
+   "direction",
+   "ramp",
+   "right"
+  ]
+ },
+ {
   "name": "arrow-right",
   "category": "Arrows",
   "tags": [
    "direction",
    "right",
    "pointer"
+  ]
+ },
+ {
+  "name": "arrow-right-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow right dashed",
+   "arrow",
+   "direction",
+   "right",
+   "dashed"
+  ]
+ },
+ {
+  "name": "arrow-right-from-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow right from arc",
+   "arrow",
+   "direction",
+   "right",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-right-from-line",
+  "category": "Arrows",
+  "tags": [
+   "arrow right from line",
+   "arrow",
+   "direction",
+   "right",
+   "line"
+  ]
+ },
+ {
+  "name": "arrow-right-rhombus",
+  "category": "Arrows",
+  "tags": [
+   "arrow right rhombus",
+   "arrow",
+   "direction",
+   "right",
+   "rhombus"
+  ]
+ },
+ {
+  "name": "arrow-right-tail",
+  "category": "Arrows",
+  "tags": [
+   "arrow right tail",
+   "arrow",
+   "direction",
+   "right",
+   "tail"
+  ]
+ },
+ {
+  "name": "arrow-right-to-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow right to arc",
+   "arrow",
+   "direction",
+   "right",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-rotary-first-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "rotary",
+   "first",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-rotary-first-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "rotary",
+   "first",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-rotary-last-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "rotary",
+   "last",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-rotary-last-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "rotary",
+   "last",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-rotary-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow rotary left",
+   "arrow",
+   "direction",
+   "rotary",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-rotary-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow rotary right",
+   "arrow",
+   "direction",
+   "rotary",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-rotary-straight",
+  "category": "Arrows",
+  "tags": [
+   "arrow rotary straight",
+   "arrow",
+   "direction",
+   "rotary",
+   "straight"
+  ]
+ },
+ {
+  "name": "arrow-roundabout-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow roundabout left",
+   "arrow",
+   "direction",
+   "roundabout",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-roundabout-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow roundabout right",
+   "arrow",
+   "direction",
+   "roundabout",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-s-turn-down",
+  "category": "Arrows",
+  "tags": [
+   "s turn",
+   "curve",
+   "road",
+   "down"
+  ]
+ },
+ {
+  "name": "arrow-s-turn-left",
+  "category": "Arrows",
+  "tags": [
+   "s turn",
+   "curve",
+   "road",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-s-turn-right",
+  "category": "Arrows",
+  "tags": [
+   "s turn",
+   "curve",
+   "road",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-s-turn-up",
+  "category": "Arrows",
+  "tags": [
+   "s turn",
+   "curve",
+   "road",
+   "up"
+  ]
+ },
+ {
+  "name": "arrow-sharp-turn-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "sharp",
+   "turn",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-sharp-turn-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "direction",
+   "sharp",
+   "turn",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-square-down",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "down",
+   "square",
+   "box",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-square-down-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "square",
+   "down left",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-square-down-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "square",
+   "down right",
+   "direction"
   ]
  },
  {
@@ -273,6 +1519,17 @@
   ]
  },
  {
+  "name": "arrow-square-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "left",
+   "square",
+   "box",
+   "direction"
+  ]
+ },
+ {
   "name": "arrow-square-out",
   "category": "Arrows",
   "tags": [
@@ -280,6 +1537,121 @@
    "open",
    "new window",
    "launch"
+  ]
+ },
+ {
+  "name": "arrow-square-out-slash",
+  "category": "Arrows",
+  "tags": [
+   "arrow square out",
+   "disabled",
+   "off",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-square-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "right",
+   "square",
+   "box",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-square-up",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "up",
+   "square",
+   "box",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-square-up-left",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "square",
+   "up left",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-square-up-right",
+  "category": "Arrows",
+  "tags": [
+   "arrow",
+   "diagonal",
+   "square",
+   "up right",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-u-down-left",
+  "category": "Arrows",
+  "tags": [
+   "u-turn",
+   "return",
+   "back",
+   "turn around",
+   "u turn"
+  ]
+ },
+ {
+  "name": "arrow-u-down-right",
+  "category": "Arrows",
+  "tags": [
+   "u-turn",
+   "return",
+   "forward",
+   "u turn",
+   "turn back"
+  ]
+ },
+ {
+  "name": "arrow-u-left-down",
+  "category": "Arrows",
+  "tags": [
+   "u-turn",
+   "return",
+   "back"
+  ]
+ },
+ {
+  "name": "arrow-u-left-up",
+  "category": "Arrows",
+  "tags": [
+   "u-turn",
+   "return",
+   "back",
+   "undo",
+   "curve"
+  ]
+ },
+ {
+  "name": "arrow-u-right-down",
+  "category": "Arrows",
+  "tags": [
+   "u-turn",
+   "return",
+   "forward"
+  ]
+ },
+ {
+  "name": "arrow-u-right-up",
+  "category": "Arrows",
+  "tags": [
+   "u-turn",
+   "return",
+   "forward"
   ]
  },
  {
@@ -293,6 +1665,15 @@
   ]
  },
  {
+  "name": "arrow-u-up-left-double",
+  "category": "Arrows",
+  "tags": [
+   "undo all",
+   "reply all",
+   "back"
+  ]
+ },
+ {
   "name": "arrow-u-up-right",
   "category": "Arrows",
   "tags": [
@@ -303,12 +1684,54 @@
   ]
  },
  {
+  "name": "arrow-u-up-right-double",
+  "category": "Arrows",
+  "tags": [
+   "redo all",
+   "forward all",
+   "arrows"
+  ]
+ },
+ {
   "name": "arrow-up",
   "category": "Arrows",
   "tags": [
    "direction",
    "up",
    "pointer"
+  ]
+ },
+ {
+  "name": "arrow-up-dashed",
+  "category": "Arrows",
+  "tags": [
+   "arrow up dashed",
+   "arrow",
+   "direction",
+   "up",
+   "dashed"
+  ]
+ },
+ {
+  "name": "arrow-up-from-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow up from arc",
+   "arrow",
+   "direction",
+   "up",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-up-from-line",
+  "category": "Arrows",
+  "tags": [
+   "raise",
+   "lift",
+   "upload",
+   "arrow up from line",
+   "arrow"
   ]
  },
  {
@@ -322,6 +1745,17 @@
   ]
  },
  {
+  "name": "arrow-up-rhombus",
+  "category": "Arrows",
+  "tags": [
+   "arrow up rhombus",
+   "arrow",
+   "direction",
+   "up",
+   "rhombus"
+  ]
+ },
+ {
   "name": "arrow-up-right",
   "category": "Arrows",
   "tags": [
@@ -329,6 +1763,83 @@
    "diagonal",
    "up right",
    "pointer"
+  ]
+ },
+ {
+  "name": "arrow-up-tail",
+  "category": "Arrows",
+  "tags": [
+   "arrow up tail",
+   "arrow",
+   "direction",
+   "up",
+   "tail"
+  ]
+ },
+ {
+  "name": "arrow-up-to-arc",
+  "category": "Arrows",
+  "tags": [
+   "arrow up to arc",
+   "arrow",
+   "direction",
+   "up",
+   "arc"
+  ]
+ },
+ {
+  "name": "arrow-wave-left-down",
+  "category": "Arrows",
+  "tags": [
+   "arrow wave left",
+   "decrease",
+   "download",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-wave-left-up",
+  "category": "Arrows",
+  "tags": [
+   "arrow wave left",
+   "increase",
+   "upload",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-wave-right-down",
+  "category": "Arrows",
+  "tags": [
+   "arrow wave right",
+   "decrease",
+   "download",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-wave-right-up",
+  "category": "Arrows",
+  "tags": [
+   "arrow wave right",
+   "increase",
+   "upload",
+   "arrow",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrow-zig-zag",
+  "category": "Arrows",
+  "tags": [
+   "arrow zig zag",
+   "arrow",
+   "direction",
+   "zig",
+   "zag"
   ]
  },
  {
@@ -342,6 +1853,115 @@
   ]
  },
  {
+  "name": "arrows-clockwise-circle",
+  "category": "Arrows",
+  "tags": [
+   "refresh",
+   "sync",
+   "reload"
+  ]
+ },
+ {
+  "name": "arrows-clockwise-dot",
+  "category": "Arrows",
+  "tags": [
+   "sync",
+   "refresh",
+   "status"
+  ]
+ },
+ {
+  "name": "arrows-counter-clockwise",
+  "category": "Arrows",
+  "tags": [
+   "sync",
+   "refresh",
+   "reverse"
+  ]
+ },
+ {
+  "name": "arrows-cross",
+  "category": "Arrows",
+  "tags": [
+   "crossing",
+   "swap",
+   "intersect"
+  ]
+ },
+ {
+  "name": "arrows-diagonal",
+  "category": "Arrows",
+  "tags": [
+   "resize",
+   "diagonal",
+   "double arrow",
+   "scale"
+  ]
+ },
+ {
+  "name": "arrows-diff",
+  "category": "Arrows",
+  "tags": [
+   "diff",
+   "compare",
+   "versions"
+  ]
+ },
+ {
+  "name": "arrows-double-ne-sw",
+  "category": "Arrows",
+  "tags": [
+   "arrows",
+   "direction",
+   "double",
+   "ne",
+   "sw"
+  ]
+ },
+ {
+  "name": "arrows-double-nw-se",
+  "category": "Arrows",
+  "tags": [
+   "arrows",
+   "direction",
+   "double",
+   "nw",
+   "se"
+  ]
+ },
+ {
+  "name": "arrows-double-se-nw",
+  "category": "Arrows",
+  "tags": [
+   "arrows",
+   "direction",
+   "double",
+   "se",
+   "nw"
+  ]
+ },
+ {
+  "name": "arrows-double-sw-ne",
+  "category": "Arrows",
+  "tags": [
+   "arrows",
+   "direction",
+   "double",
+   "sw",
+   "ne"
+  ]
+ },
+ {
+  "name": "arrows-down",
+  "category": "Arrows",
+  "tags": [
+   "arrows",
+   "decrease",
+   "download",
+   "direction"
+  ]
+ },
+ {
   "name": "arrows-down-up",
   "category": "Arrows",
   "tags": [
@@ -349,6 +1969,16 @@
    "swap",
    "exchange",
    "vertical"
+  ]
+ },
+ {
+  "name": "arrows-horizontal",
+  "category": "Arrows",
+  "tags": [
+   "resize",
+   "horizontal",
+   "width",
+   "double arrow"
   ]
  },
  {
@@ -362,6 +1992,86 @@
   ]
  },
  {
+  "name": "arrows-in-cardinal",
+  "category": "Arrows",
+  "tags": [
+   "collapse",
+   "compress",
+   "center"
+  ]
+ },
+ {
+  "name": "arrows-in-horizontal",
+  "category": "Arrows",
+  "tags": [
+   "shrink",
+   "collapse horizontal",
+   "narrow",
+   "compress"
+  ]
+ },
+ {
+  "name": "arrows-in-line-horizontal",
+  "category": "Arrows",
+  "tags": [
+   "compress",
+   "collapse",
+   "horizontal",
+   "merge",
+   "contract"
+  ]
+ },
+ {
+  "name": "arrows-in-line-vertical",
+  "category": "Arrows",
+  "tags": [
+   "compress",
+   "collapse",
+   "vertical",
+   "merge",
+   "contract"
+  ]
+ },
+ {
+  "name": "arrows-in-simple",
+  "category": "Arrows",
+  "tags": [
+   "collapse",
+   "minimize",
+   "shrink"
+  ]
+ },
+ {
+  "name": "arrows-in-vertical",
+  "category": "Arrows",
+  "tags": [
+   "shrink",
+   "collapse vertical",
+   "compress",
+   "height"
+  ]
+ },
+ {
+  "name": "arrows-join",
+  "category": "Arrows",
+  "tags": [
+   "arrows join",
+   "arrows",
+   "direction",
+   "join"
+  ]
+ },
+ {
+  "name": "arrows-left",
+  "category": "Arrows",
+  "tags": [
+   "arrows left",
+   "arrows",
+   "direction",
+   "left"
+  ]
+ },
+ {
   "name": "arrows-left-right",
   "category": "Arrows",
   "tags": [
@@ -369,6 +2079,48 @@
    "exchange",
    "transfer",
    "horizontal"
+  ]
+ },
+ {
+  "name": "arrows-merge",
+  "category": "Arrows",
+  "tags": [
+   "merge",
+   "combine",
+   "join",
+   "arrows",
+   "converge"
+  ]
+ },
+ {
+  "name": "arrows-merge-vertical",
+  "category": "Arrows",
+  "tags": [
+   "merge",
+   "converge",
+   "join"
+  ]
+ },
+ {
+  "name": "arrows-move-horizontal",
+  "category": "Arrows",
+  "tags": [
+   "arrows move horizontal",
+   "arrows",
+   "direction",
+   "move",
+   "horizontal"
+  ]
+ },
+ {
+  "name": "arrows-move-vertical",
+  "category": "Arrows",
+  "tags": [
+   "arrows move vertical",
+   "arrows",
+   "direction",
+   "move",
+   "vertical"
   ]
  },
  {
@@ -389,6 +2141,131 @@
    "drag",
    "pan",
    "directions"
+  ]
+ },
+ {
+  "name": "arrows-out-line-horizontal",
+  "category": "Arrows",
+  "tags": [
+   "expand",
+   "width",
+   "horizontal",
+   "arrows",
+   "split"
+  ]
+ },
+ {
+  "name": "arrows-out-line-vertical",
+  "category": "Arrows",
+  "tags": [
+   "expand",
+   "vertical",
+   "spread",
+   "split",
+   "height"
+  ]
+ },
+ {
+  "name": "arrows-out-simple",
+  "category": "Arrows",
+  "tags": [
+   "expand",
+   "maximize",
+   "fullscreen"
+  ]
+ },
+ {
+  "name": "arrows-right",
+  "category": "Arrows",
+  "tags": [
+   "arrows right",
+   "arrows",
+   "direction",
+   "right"
+  ]
+ },
+ {
+  "name": "arrows-split",
+  "category": "Arrows",
+  "tags": [
+   "split",
+   "diverge",
+   "fork",
+   "alternate route",
+   "branch"
+  ]
+ },
+ {
+  "name": "arrows-split-vertical",
+  "category": "Arrows",
+  "tags": [
+   "split",
+   "diverge",
+   "fork"
+  ]
+ },
+ {
+  "name": "arrows-transfer-down",
+  "category": "Arrows",
+  "tags": [
+   "arrows transfer",
+   "decrease",
+   "download",
+   "arrows",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrows-transfer-up",
+  "category": "Arrows",
+  "tags": [
+   "arrows transfer",
+   "increase",
+   "upload",
+   "arrows",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrows-transfer-up-down",
+  "category": "Arrows",
+  "tags": [
+   "arrows transfer up",
+   "decrease",
+   "download",
+   "arrows",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrows-up",
+  "category": "Arrows",
+  "tags": [
+   "arrows",
+   "increase",
+   "upload",
+   "direction"
+  ]
+ },
+ {
+  "name": "arrows-up-left",
+  "category": "Arrows",
+  "tags": [
+   "arrows up left",
+   "arrows",
+   "direction",
+   "up",
+   "left"
+  ]
+ },
+ {
+  "name": "arrows-vertical",
+  "category": "Arrows",
+  "tags": [
+   "resize",
+   "vertical",
+   "height",
+   "double arrow"
   ]
  },
  {
@@ -423,6 +2300,26 @@
   ]
  },
  {
+  "name": "at-slash",
+  "category": "Communication",
+  "tags": [
+   "at",
+   "disabled",
+   "off",
+   "communication"
+  ]
+ },
+ {
+  "name": "atm",
+  "category": "Commerce",
+  "tags": [
+   "cash machine",
+   "bank",
+   "withdraw",
+   "money"
+  ]
+ },
+ {
   "name": "atom",
   "category": "Health",
   "tags": [
@@ -431,6 +2328,39 @@
    "nuclear",
    "energy",
    "react"
+  ]
+ },
+ {
+  "name": "axes",
+  "category": "Charts",
+  "tags": [
+   "xyz",
+   "coordinates",
+   "3d axes",
+   "axes",
+   "graph"
+  ]
+ },
+ {
+  "name": "axis-x",
+  "category": "Charts",
+  "tags": [
+   "axis",
+   "remove",
+   "cancel",
+   "chart",
+   "graph"
+  ]
+ },
+ {
+  "name": "axis-y",
+  "category": "Charts",
+  "tags": [
+   "axis y",
+   "axis",
+   "chart",
+   "graph",
+   "y"
   ]
  },
  {
@@ -456,6 +2386,358 @@
   ]
  },
  {
+  "name": "badge",
+  "category": "Business",
+  "tags": [
+   "badge",
+   "id",
+   "staff",
+   "employee",
+   "rank"
+  ]
+ },
+ {
+  "name": "badge-0-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "0+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-10-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "10+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-12-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "12+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-13-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "13+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-16-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "16+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-17-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "17+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-18-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "18+",
+   "adult",
+   "restriction",
+   "adults only"
+  ]
+ },
+ {
+  "name": "badge-21-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "21+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-2k",
+  "category": "Media",
+  "tags": [
+   "badge 2k",
+   "badge",
+   "label",
+   "resolution",
+   "2k"
+  ]
+ },
+ {
+  "name": "badge-3-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "3+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-3d",
+  "category": "Media",
+  "tags": [
+   "3d",
+   "three dimensional",
+   "view",
+   "stereoscopic",
+   "format"
+  ]
+ },
+ {
+  "name": "badge-3k",
+  "category": "Media",
+  "tags": [
+   "badge 3k",
+   "badge",
+   "label",
+   "resolution",
+   "3k"
+  ]
+ },
+ {
+  "name": "badge-4k",
+  "category": "Media",
+  "tags": [
+   "4k",
+   "ultra hd",
+   "resolution",
+   "video"
+  ]
+ },
+ {
+  "name": "badge-5k",
+  "category": "Media",
+  "tags": [
+   "badge 5k",
+   "badge",
+   "label",
+   "resolution",
+   "5k"
+  ]
+ },
+ {
+  "name": "badge-6-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "age rating",
+   "6+",
+   "adult",
+   "restriction"
+  ]
+ },
+ {
+  "name": "badge-8k",
+  "category": "Media",
+  "tags": [
+   "8k",
+   "resolution",
+   "video",
+   "ultra hd"
+  ]
+ },
+ {
+  "name": "badge-ad",
+  "category": "Commerce",
+  "tags": [
+   "advertisement",
+   "ad",
+   "sponsored",
+   "promo",
+   "marketing"
+  ]
+ },
+ {
+  "name": "badge-ad-slash",
+  "category": "Business",
+  "tags": [
+   "advertisement",
+   "ad blocker",
+   "no ads"
+  ]
+ },
+ {
+  "name": "badge-ai",
+  "category": "Interface",
+  "tags": [
+   "ai",
+   "artificial intelligence",
+   "machine learning",
+   "smart"
+  ]
+ },
+ {
+  "name": "badge-ar",
+  "category": "Symbols",
+  "tags": [
+   "augmented reality",
+   "ar",
+   "label",
+   "badge"
+  ]
+ },
+ {
+  "name": "badge-explicit",
+  "category": "Media",
+  "tags": [
+   "explicit",
+   "e",
+   "parental advisory",
+   "content"
+  ]
+ },
+ {
+  "name": "badge-gif",
+  "category": "Media",
+  "tags": [
+   "gif",
+   "animation",
+   "image",
+   "badge",
+   "animated image"
+  ]
+ },
+ {
+  "name": "badge-hd",
+  "category": "Media",
+  "tags": [
+   "hd",
+   "high definition",
+   "resolution",
+   "full hd",
+   "1080p"
+  ]
+ },
+ {
+  "name": "badge-hdr",
+  "category": "Media",
+  "tags": [
+   "hdr",
+   "high dynamic range",
+   "photo",
+   "video",
+   "badge"
+  ]
+ },
+ {
+  "name": "badge-hq",
+  "category": "Media",
+  "tags": [
+   "high quality",
+   "hq",
+   "video",
+   "badge"
+  ]
+ },
+ {
+  "name": "badge-sd",
+  "category": "Media",
+  "tags": [
+   "sd",
+   "standard definition",
+   "resolution",
+   "video"
+  ]
+ },
+ {
+  "name": "badge-slash",
+  "category": "Interface",
+  "tags": [
+   "badge",
+   "disabled",
+   "off",
+   "label",
+   "resolution"
+  ]
+ },
+ {
+  "name": "badge-uhd",
+  "category": "Media",
+  "tags": [
+   "uhd",
+   "4k",
+   "ultra hd",
+   "video quality"
+  ]
+ },
+ {
+  "name": "badge-vip",
+  "category": "Commerce",
+  "tags": [
+   "vip",
+   "premium",
+   "exclusive",
+   "member"
+  ]
+ },
+ {
+  "name": "badge-vip-slash",
+  "category": "Commerce",
+  "tags": [
+   "badge vip",
+   "off",
+   "disabled",
+   "hidden",
+   "badge"
+  ]
+ },
+ {
+  "name": "badge-vo",
+  "category": "Media",
+  "tags": [
+   "voice over",
+   "vo",
+   "audio",
+   "narration"
+  ]
+ },
+ {
+  "name": "badge-vr",
+  "category": "Symbols",
+  "tags": [
+   "virtual reality",
+   "vr",
+   "label",
+   "badge",
+   "headset"
+  ]
+ },
+ {
+  "name": "badge-wc",
+  "category": "Maps",
+  "tags": [
+   "wc",
+   "restroom",
+   "toilet",
+   "bathroom"
+  ]
+ },
+ {
   "name": "balloon",
   "category": "Objects",
   "tags": [
@@ -463,6 +2745,16 @@
    "birthday",
    "celebrate",
    "event"
+  ]
+ },
+ {
+  "name": "ballot-box",
+  "category": "Business",
+  "tags": [
+   "vote",
+   "election",
+   "poll",
+   "ballot"
   ]
  },
  {
@@ -509,6 +2801,37 @@
   ]
  },
  {
+  "name": "barcode-scan",
+  "category": "Commerce",
+  "tags": [
+   "scan barcode",
+   "upc",
+   "scanner",
+   "checkout",
+   "scan line"
+  ]
+ },
+ {
+  "name": "barcode-scanner",
+  "category": "Commerce",
+  "tags": [
+   "scanner",
+   "checkout",
+   "barcode reader",
+   "retail"
+  ]
+ },
+ {
+  "name": "barcode-slash",
+  "category": "Commerce",
+  "tags": [
+   "barcode",
+   "disabled",
+   "off",
+   "commerce"
+  ]
+ },
+ {
   "name": "basket",
   "category": "Commerce",
   "tags": [
@@ -520,6 +2843,226 @@
   ]
  },
  {
+  "name": "basket-arrow-down",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "decrease",
+   "download",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-arrow-up",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "increase",
+   "upload",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-check",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "done",
+   "approved",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-code",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "developer",
+   "code",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-currency-dollar",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "money",
+   "price",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-discount",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "sale",
+   "percent",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-gear",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "settings",
+   "configure",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-heart",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "favorite",
+   "like",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-lightning",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "fast",
+   "power",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-magnifying-glass",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "search",
+   "find",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-minus",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "remove",
+   "subtract",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-pause",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "paused",
+   "hold",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-plus",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "add",
+   "new",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-push-pin",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "pinned",
+   "pin",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-question",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "help",
+   "unknown",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-share",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "share",
+   "send",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-slash",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "disabled",
+   "off",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-star",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "favorite",
+   "starred",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-warning",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "warning",
+   "error",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "basket-x",
+  "category": "Commerce",
+  "tags": [
+   "basket",
+   "remove",
+   "cancel",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
   "name": "basketball",
   "category": "Sports",
   "tags": [
@@ -528,6 +3071,16 @@
    "nba",
    "game",
    "hoops"
+  ]
+ },
+ {
+  "name": "bat",
+  "category": "Animals",
+  "tags": [
+   "bat",
+   "halloween",
+   "night",
+   "animal"
   ]
  },
  {
@@ -571,6 +3124,17 @@
   ]
  },
  {
+  "name": "bear",
+  "category": "Animals",
+  "tags": [
+   "bear",
+   "teddy",
+   "animal",
+   "face",
+   "wildlife"
+  ]
+ },
+ {
   "name": "bed",
   "category": "Maps",
   "tags": [
@@ -579,6 +3143,16 @@
    "bedroom",
    "rest",
    "accommodation"
+  ]
+ },
+ {
+  "name": "bee",
+  "category": "Animals",
+  "tags": [
+   "bee",
+   "insect",
+   "honey",
+   "nature"
   ]
  },
  {
@@ -592,6 +3166,171 @@
   ]
  },
  {
+  "name": "bell-arrow-down",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "decrease",
+   "download",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-arrow-up",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "increase",
+   "upload",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-check",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "done",
+   "approved",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-code",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "developer",
+   "code",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-currency-dollar",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "money",
+   "price",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-dot",
+  "category": "Communication",
+  "tags": [
+   "unread",
+   "notification badge",
+   "alert",
+   "unread notification",
+   "new alert"
+  ]
+ },
+ {
+  "name": "bell-gear",
+  "category": "Communication",
+  "tags": [
+   "notification settings",
+   "alert settings",
+   "bell",
+   "configure",
+   "settings"
+  ]
+ },
+ {
+  "name": "bell-heart",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "favorite",
+   "like",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-lightning",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "fast",
+   "power",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-magnifying-glass",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "search",
+   "find",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-minus",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "remove",
+   "subtract",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-pause",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "paused",
+   "hold",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-plus",
+  "category": "Communication",
+  "tags": [
+   "add alert",
+   "notification",
+   "new reminder",
+   "bell",
+   "add notification"
+  ]
+ },
+ {
+  "name": "bell-push-pin",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "pinned",
+   "pin",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-question",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "help",
+   "unknown",
+   "notification",
+   "alert"
+  ]
+ },
+ {
   "name": "bell-ringing",
   "category": "Communication",
   "tags": [
@@ -599,6 +3338,17 @@
    "alert",
    "active",
    "ring"
+  ]
+ },
+ {
+  "name": "bell-share",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "share",
+   "send",
+   "notification",
+   "alert"
   ]
  },
  {
@@ -610,6 +3360,39 @@
    "silent",
    "off",
    "disabled"
+  ]
+ },
+ {
+  "name": "bell-star",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "favorite",
+   "starred",
+   "notification",
+   "alert"
+  ]
+ },
+ {
+  "name": "bell-warning",
+  "category": "Communication",
+  "tags": [
+   "important notification",
+   "urgent alert",
+   "bell",
+   "exclamation",
+   "warning"
+  ]
+ },
+ {
+  "name": "bell-x",
+  "category": "Communication",
+  "tags": [
+   "bell",
+   "remove",
+   "cancel",
+   "notification",
+   "alert"
   ]
  },
  {
@@ -678,6 +3461,16 @@
   ]
  },
  {
+  "name": "bone-slash",
+  "category": "Animals",
+  "tags": [
+   "bone",
+   "disabled",
+   "off",
+   "animals"
+  ]
+ },
+ {
   "name": "book",
   "category": "Files",
   "tags": [
@@ -728,6 +3521,16 @@
   ]
  },
  {
+  "name": "boxes",
+  "category": "Commerce",
+  "tags": [
+   "boxes",
+   "inventory",
+   "stock",
+   "warehouse"
+  ]
+ },
+ {
   "name": "brackets-curly",
   "category": "Editor",
   "tags": [
@@ -771,6 +3574,16 @@
   ]
  },
  {
+  "name": "briefcase-slash",
+  "category": "Business",
+  "tags": [
+   "briefcase",
+   "disabled",
+   "off",
+   "business"
+  ]
+ },
+ {
   "name": "broadcast",
   "category": "Communication",
   "tags": [
@@ -779,6 +3592,16 @@
    "stream",
    "live",
    "antenna"
+  ]
+ },
+ {
+  "name": "broadcast-slash",
+  "category": "Communication",
+  "tags": [
+   "broadcast",
+   "disabled",
+   "off",
+   "communication"
   ]
  },
  {
@@ -803,6 +3626,16 @@
   ]
  },
  {
+  "name": "building-government",
+  "category": "Business",
+  "tags": [
+   "government",
+   "capitol",
+   "civic",
+   "building"
+  ]
+ },
+ {
   "name": "building-office",
   "category": "Business",
   "tags": [
@@ -811,6 +3644,90 @@
    "workplace",
    "corporate",
    "tower"
+  ]
+ },
+ {
+  "name": "building-office-arrow-down",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "download",
+   "arrow"
+  ]
+ },
+ {
+  "name": "building-office-arrow-up",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "upload",
+   "arrow"
+  ]
+ },
+ {
+  "name": "building-office-check",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "verified",
+   "check"
+  ]
+ },
+ {
+  "name": "building-office-gear",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "settings",
+   "gear",
+   "building settings"
+  ]
+ },
+ {
+  "name": "building-office-lock",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "secure",
+   "lock"
+  ]
+ },
+ {
+  "name": "building-office-minus",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "remove",
+   "minus",
+   "subtract"
+  ]
+ },
+ {
+  "name": "building-office-plus",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "add",
+   "plus",
+   "add building"
+  ]
+ },
+ {
+  "name": "building-office-slash",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "closed",
+   "disabled",
+   "building closed"
   ]
  },
  {
@@ -929,6 +3846,16 @@
   ]
  },
  {
+  "name": "canary",
+  "category": "Animals",
+  "tags": [
+   "bird",
+   "canary",
+   "testing",
+   "release"
+  ]
+ },
+ {
   "name": "car",
   "category": "Maps",
   "tags": [
@@ -937,6 +3864,27 @@
    "drive",
    "transport",
    "automobile"
+  ]
+ },
+ {
+  "name": "card-insert",
+  "category": "Commerce",
+  "tags": [
+   "insert card",
+   "chip",
+   "atm",
+   "payment"
+  ]
+ },
+ {
+  "name": "card-reader",
+  "category": "Commerce",
+  "tags": [
+   "payment terminal",
+   "pos",
+   "card machine",
+   "smart card reader",
+   "card terminal"
   ]
  },
  {
@@ -951,6 +3899,70 @@
   ]
  },
  {
+  "name": "caret-bar-contract",
+  "category": "Arrows",
+  "tags": [
+   "collapse",
+   "chevrons",
+   "bar",
+   "inward"
+  ]
+ },
+ {
+  "name": "caret-bar-expand",
+  "category": "Arrows",
+  "tags": [
+   "expand",
+   "chevrons",
+   "bar",
+   "outward"
+  ]
+ },
+ {
+  "name": "caret-circle-double-down",
+  "category": "Arrows",
+  "tags": [
+   "expand all",
+   "scroll down",
+   "more",
+   "double",
+   "circle"
+  ]
+ },
+ {
+  "name": "caret-circle-double-left",
+  "category": "Arrows",
+  "tags": [
+   "rewind",
+   "first",
+   "back",
+   "double",
+   "circle"
+  ]
+ },
+ {
+  "name": "caret-circle-double-right",
+  "category": "Arrows",
+  "tags": [
+   "forward",
+   "last",
+   "next",
+   "double",
+   "circle"
+  ]
+ },
+ {
+  "name": "caret-circle-double-up",
+  "category": "Arrows",
+  "tags": [
+   "collapse all",
+   "scroll up",
+   "top",
+   "double",
+   "circle"
+  ]
+ },
+ {
   "name": "caret-circle-down",
   "category": "Arrows",
   "tags": [
@@ -961,6 +3973,58 @@
   ]
  },
  {
+  "name": "caret-circle-left",
+  "category": "Arrows",
+  "tags": [
+   "caret",
+   "chevron",
+   "left",
+   "circle",
+   "previous"
+  ]
+ },
+ {
+  "name": "caret-circle-right",
+  "category": "Arrows",
+  "tags": [
+   "caret",
+   "chevron",
+   "right",
+   "circle",
+   "next"
+  ]
+ },
+ {
+  "name": "caret-circle-up",
+  "category": "Arrows",
+  "tags": [
+   "caret",
+   "chevron",
+   "up",
+   "circle",
+   "collapse"
+  ]
+ },
+ {
+  "name": "caret-circle-up-down",
+  "category": "Arrows",
+  "tags": [
+   "sort",
+   "select",
+   "dropdown"
+  ]
+ },
+ {
+  "name": "caret-contract",
+  "category": "Arrows",
+  "tags": [
+   "collapse",
+   "chevrons",
+   "contract",
+   "inward"
+  ]
+ },
+ {
   "name": "caret-double-down",
   "category": "Arrows",
   "tags": [
@@ -968,6 +4032,28 @@
    "direction",
    "down",
    "skip"
+  ]
+ },
+ {
+  "name": "caret-double-down-left",
+  "category": "Arrows",
+  "tags": [
+   "caret",
+   "chevron",
+   "double",
+   "down",
+   "left"
+  ]
+ },
+ {
+  "name": "caret-double-down-right",
+  "category": "Arrows",
+  "tags": [
+   "caret",
+   "chevron",
+   "double",
+   "down",
+   "right"
   ]
  },
  {
@@ -1001,12 +4087,56 @@
   ]
  },
  {
+  "name": "caret-double-up-left",
+  "category": "Arrows",
+  "tags": [
+   "caret",
+   "chevron",
+   "double",
+   "up",
+   "left"
+  ]
+ },
+ {
+  "name": "caret-double-up-right",
+  "category": "Arrows",
+  "tags": [
+   "caret",
+   "chevron",
+   "double",
+   "up",
+   "right"
+  ]
+ },
+ {
   "name": "caret-down",
   "category": "Arrows",
   "tags": [
    "chevron",
    "direction",
    "down"
+  ]
+ },
+ {
+  "name": "caret-down-left",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "chevron",
+   "down left",
+   "corner",
+   "caret down left"
+  ]
+ },
+ {
+  "name": "caret-down-right",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "chevron",
+   "down right",
+   "corner",
+   "caret down right"
   ]
  },
  {
@@ -1019,12 +4149,111 @@
   ]
  },
  {
+  "name": "caret-left-right",
+  "category": "Arrows",
+  "tags": [
+   "caret left right",
+   "caret",
+   "chevron",
+   "left",
+   "right"
+  ]
+ },
+ {
+  "name": "caret-line-down",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "bar",
+   "down",
+   "end",
+   "bottom"
+  ]
+ },
+ {
+  "name": "caret-line-left",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "bar",
+   "left",
+   "start",
+   "first"
+  ]
+ },
+ {
+  "name": "caret-line-right",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "bar",
+   "right",
+   "end",
+   "last"
+  ]
+ },
+ {
+  "name": "caret-line-up",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "bar",
+   "up",
+   "top",
+   "first"
+  ]
+ },
+ {
   "name": "caret-right",
   "category": "Arrows",
   "tags": [
    "chevron",
    "direction",
    "right"
+  ]
+ },
+ {
+  "name": "caret-square-down",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "square",
+   "down",
+   "dropdown",
+   "caret down"
+  ]
+ },
+ {
+  "name": "caret-square-left",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "square",
+   "left",
+   "back",
+   "previous"
+  ]
+ },
+ {
+  "name": "caret-square-right",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "square",
+   "right",
+   "next",
+   "forward"
+  ]
+ },
+ {
+  "name": "caret-square-up",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "square",
+   "up",
+   "collapse",
+   "caret up"
   ]
  },
  {
@@ -1047,6 +4276,28 @@
   ]
  },
  {
+  "name": "caret-up-left",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "chevron",
+   "up left",
+   "corner",
+   "caret up left"
+  ]
+ },
+ {
+  "name": "caret-up-right",
+  "category": "Arrows",
+  "tags": [
+   "diagonal",
+   "chevron",
+   "up right",
+   "corner",
+   "caret up right"
+  ]
+ },
+ {
   "name": "cash-register",
   "category": "Commerce",
   "tags": [
@@ -1055,6 +4306,16 @@
    "till",
    "sale",
    "store"
+  ]
+ },
+ {
+  "name": "cat",
+  "category": "Animals",
+  "tags": [
+   "cat",
+   "pet",
+   "kitten",
+   "animal"
   ]
  },
  {
@@ -1069,6 +4330,16 @@
   ]
  },
  {
+  "name": "cell-signal-warning",
+  "category": "Communication",
+  "tags": [
+   "signal alert",
+   "network problem",
+   "cell",
+   "mobile"
+  ]
+ },
+ {
   "name": "certificate",
   "category": "Business",
   "tags": [
@@ -1077,6 +4348,50 @@
    "document",
    "credential",
    "license"
+  ]
+ },
+ {
+  "name": "chart-arcs",
+  "category": "Charts",
+  "tags": [
+   "chart arcs",
+   "chart",
+   "graph",
+   "analytics",
+   "arcs"
+  ]
+ },
+ {
+  "name": "chart-area",
+  "category": "Charts",
+  "tags": [
+   "area chart",
+   "graph",
+   "analytics",
+   "trend",
+   "filled"
+  ]
+ },
+ {
+  "name": "chart-arrows",
+  "category": "Charts",
+  "tags": [
+   "chart arrows",
+   "chart",
+   "graph",
+   "analytics",
+   "arrows"
+  ]
+ },
+ {
+  "name": "chart-arrows-vertical",
+  "category": "Charts",
+  "tags": [
+   "chart arrows vertical",
+   "chart",
+   "graph",
+   "analytics",
+   "arrows"
   ]
  },
  {
@@ -1090,6 +4405,125 @@
   ]
  },
  {
+  "name": "chart-bar-grouped",
+  "category": "Charts",
+  "tags": [
+   "grouped bars",
+   "comparison",
+   "bar chart",
+   "analytics"
+  ]
+ },
+ {
+  "name": "chart-bar-horizontal",
+  "category": "Charts",
+  "tags": [
+   "horizontal bar",
+   "bar chart",
+   "ranking",
+   "analytics",
+   "horizontal bars"
+  ]
+ },
+ {
+  "name": "chart-bar-popular",
+  "category": "Charts",
+  "tags": [
+   "chart bar popular",
+   "chart",
+   "graph",
+   "analytics",
+   "bar"
+  ]
+ },
+ {
+  "name": "chart-bar-slash",
+  "category": "Charts",
+  "tags": [
+   "chart bar",
+   "disabled",
+   "off",
+   "chart",
+   "graph"
+  ]
+ },
+ {
+  "name": "chart-bar-square",
+  "category": "Charts",
+  "tags": [
+   "bar chart",
+   "report",
+   "analytics",
+   "box"
+  ]
+ },
+ {
+  "name": "chart-bar-stacked",
+  "category": "Charts",
+  "tags": [
+   "stacked bars",
+   "bar chart",
+   "composition",
+   "analytics",
+   "stacked bar"
+  ]
+ },
+ {
+  "name": "chart-bubble",
+  "category": "Charts",
+  "tags": [
+   "bubble chart",
+   "scatter",
+   "graph",
+   "circles",
+   "chart bubble"
+  ]
+ },
+ {
+  "name": "chart-candlestick",
+  "category": "Charts",
+  "tags": [
+   "stock",
+   "candlestick",
+   "trading",
+   "market",
+   "stocks"
+  ]
+ },
+ {
+  "name": "chart-circles",
+  "category": "Charts",
+  "tags": [
+   "chart circles",
+   "chart",
+   "graph",
+   "analytics",
+   "circles"
+  ]
+ },
+ {
+  "name": "chart-cohort",
+  "category": "Charts",
+  "tags": [
+   "chart cohort",
+   "chart",
+   "graph",
+   "analytics",
+   "cohort"
+  ]
+ },
+ {
+  "name": "chart-covariate",
+  "category": "Charts",
+  "tags": [
+   "chart covariate",
+   "chart",
+   "graph",
+   "analytics",
+   "covariate"
+  ]
+ },
+ {
   "name": "chart-donut",
   "category": "Charts",
   "tags": [
@@ -1097,6 +4531,59 @@
    "analytics",
    "statistics",
    "ring"
+  ]
+ },
+ {
+  "name": "chart-funnel",
+  "category": "Charts",
+  "tags": [
+   "chart funnel",
+   "chart",
+   "graph",
+   "analytics",
+   "funnel"
+  ]
+ },
+ {
+  "name": "chart-gantt",
+  "category": "Charts",
+  "tags": [
+   "gantt",
+   "timeline",
+   "schedule",
+   "steps"
+  ]
+ },
+ {
+  "name": "chart-histogram",
+  "category": "Charts",
+  "tags": [
+   "histogram",
+   "distribution",
+   "bars",
+   "statistics",
+   "frequency"
+  ]
+ },
+ {
+  "name": "chart-infographic",
+  "category": "Charts",
+  "tags": [
+   "chart infographic",
+   "chart",
+   "graph",
+   "analytics",
+   "infographic"
+  ]
+ },
+ {
+  "name": "chart-legend",
+  "category": "Charts",
+  "tags": [
+   "legend",
+   "key",
+   "chart",
+   "toggle legend"
   ]
  },
  {
@@ -1110,6 +4597,28 @@
   ]
  },
  {
+  "name": "chart-line-down",
+  "category": "Charts",
+  "tags": [
+   "decline",
+   "graph",
+   "decrease",
+   "trend",
+   "falling"
+  ]
+ },
+ {
+  "name": "chart-line-up",
+  "category": "Charts",
+  "tags": [
+   "growth",
+   "graph",
+   "increase",
+   "trend",
+   "rising"
+  ]
+ },
+ {
   "name": "chart-pie",
   "category": "Charts",
   "tags": [
@@ -1117,6 +4626,100 @@
    "analytics",
    "statistics",
    "share"
+  ]
+ },
+ {
+  "name": "chart-pie-slash",
+  "category": "Charts",
+  "tags": [
+   "chart pie",
+   "disabled",
+   "off",
+   "chart",
+   "graph"
+  ]
+ },
+ {
+  "name": "chart-pie-slice",
+  "category": "Charts",
+  "tags": [
+   "pie slice",
+   "share",
+   "segment"
+  ]
+ },
+ {
+  "name": "chart-plus",
+  "category": "Charts",
+  "tags": [
+   "add chart",
+   "new graph",
+   "chart",
+   "insert"
+  ]
+ },
+ {
+  "name": "chart-polar",
+  "category": "Charts",
+  "tags": [
+   "radar chart",
+   "polar",
+   "spider chart"
+  ]
+ },
+ {
+  "name": "chart-radar",
+  "category": "Charts",
+  "tags": [
+   "radar chart",
+   "spider chart",
+   "polar",
+   "comparison",
+   "chart radar"
+  ]
+ },
+ {
+  "name": "chart-sankey",
+  "category": "Charts",
+  "tags": [
+   "chart sankey",
+   "chart",
+   "graph",
+   "analytics",
+   "sankey"
+  ]
+ },
+ {
+  "name": "chart-scatter",
+  "category": "Charts",
+  "tags": [
+   "scatter plot",
+   "dots",
+   "correlation",
+   "data",
+   "chart scatter"
+  ]
+ },
+ {
+  "name": "chart-scatter-3d",
+  "category": "Charts",
+  "tags": [
+   "chart scatter 3d",
+   "chart",
+   "graph",
+   "analytics",
+   "scatter"
+  ]
+ },
+ {
+  "name": "chart-treemap",
+  "category": "Charts",
+  "tags": [
+   "chart treemap",
+   "chart",
+   "graph",
+   "analytics",
+   "treemap"
   ]
  },
  {
@@ -1130,6 +4733,59 @@
   ]
  },
  {
+  "name": "chat-arrow-clockwise",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "redo",
+   "refresh",
+   "message"
+  ]
+ },
+ {
+  "name": "chat-arrow-down",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "download",
+   "receive",
+   "message",
+   "download message"
+  ]
+ },
+ {
+  "name": "chat-arrow-up",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "upload",
+   "send",
+   "message",
+   "send message"
+  ]
+ },
+ {
+  "name": "chat-chart",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "chart",
+   "stats",
+   "message"
+  ]
+ },
+ {
+  "name": "chat-check",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "verified",
+   "read",
+   "message",
+   "message sent"
+  ]
+ },
+ {
   "name": "chat-circle",
   "category": "Communication",
   "tags": [
@@ -1137,6 +4793,237 @@
    "comment",
    "bubble",
    "talk"
+  ]
+ },
+ {
+  "name": "chat-circle-arrow-down",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "decrease",
+   "download",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-arrow-up",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "increase",
+   "upload",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-check",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "done",
+   "approved",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-code",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "developer",
+   "code",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-currency-dollar",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "money",
+   "price",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-gear",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "settings",
+   "configure",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-heart",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "favorite",
+   "like",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-lightning",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "fast",
+   "power",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-magnifying-glass",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "search",
+   "find",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-minus",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "remove",
+   "subtract",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-pause",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "paused",
+   "hold",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-plus",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "add",
+   "new",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-push-pin",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "pinned",
+   "pin",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-question",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "help",
+   "unknown",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-share",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "share",
+   "send",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-star",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "favorite",
+   "starred",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-user",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "user",
+   "profile",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-warning",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "warning",
+   "error",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-circle-x",
+  "category": "Communication",
+  "tags": [
+   "chat circle",
+   "remove",
+   "cancel",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-code",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "developer",
+   "code",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-currency-dollar",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "money",
+   "price",
+   "message",
+   "conversation"
   ]
  },
  {
@@ -1148,6 +5035,39 @@
    "comment",
    "bubble",
    "reply"
+  ]
+ },
+ {
+  "name": "chat-forward",
+  "category": "Communication",
+  "tags": [
+   "forward message",
+   "share",
+   "pass on",
+   "chat",
+   "reply"
+  ]
+ },
+ {
+  "name": "chat-gear",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "settings",
+   "configure",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-heart",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "love",
+   "like",
+   "message",
+   "favorite"
   ]
  },
  {
@@ -1203,6 +5123,16 @@
   ]
  },
  {
+  "name": "checkbook",
+  "category": "Commerce",
+  "tags": [
+   "cheque",
+   "checkbook",
+   "payment",
+   "bank"
+  ]
+ },
+ {
   "name": "chess-knight",
   "category": "Sports",
   "tags": [
@@ -1211,6 +5141,16 @@
    "game",
    "horse",
    "board game"
+  ]
+ },
+ {
+  "name": "chicken",
+  "category": "Animals",
+  "tags": [
+   "chicken",
+   "hen",
+   "rooster",
+   "farm"
   ]
  },
  {
@@ -1241,6 +5181,17 @@
    "copy",
    "board",
    "tasks"
+  ]
+ },
+ {
+  "name": "clipboard-data",
+  "category": "Charts",
+  "tags": [
+   "clipboard",
+   "report",
+   "data",
+   "chart",
+   "analytics"
   ]
  },
  {
@@ -1411,6 +5362,102 @@
   ]
  },
  {
+  "name": "coin",
+  "category": "Commerce",
+  "tags": [
+   "coin",
+   "money",
+   "token",
+   "currency",
+   "cent"
+  ]
+ },
+ {
+  "name": "coin-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin",
+   "crypto",
+   "coin"
+  ]
+ },
+ {
+  "name": "coin-euro",
+  "category": "Commerce",
+  "tags": [
+   "coin euro",
+   "coin",
+   "money",
+   "euro",
+   "commerce"
+  ]
+ },
+ {
+  "name": "coin-pound",
+  "category": "Commerce",
+  "tags": [
+   "coin pound",
+   "coin",
+   "money",
+   "pound",
+   "commerce"
+  ]
+ },
+ {
+  "name": "coin-rupee",
+  "category": "Commerce",
+  "tags": [
+   "coin rupee",
+   "coin",
+   "money",
+   "rupee",
+   "commerce"
+  ]
+ },
+ {
+  "name": "coin-slash",
+  "category": "Commerce",
+  "tags": [
+   "no money",
+   "free",
+   "coin off",
+   "slash"
+  ]
+ },
+ {
+  "name": "coin-taka",
+  "category": "Commerce",
+  "tags": [
+   "coin taka",
+   "coin",
+   "money",
+   "taka",
+   "commerce"
+  ]
+ },
+ {
+  "name": "coin-yen",
+  "category": "Commerce",
+  "tags": [
+   "coin yen",
+   "coin",
+   "money",
+   "yen",
+   "commerce"
+  ]
+ },
+ {
+  "name": "coin-yuan",
+  "category": "Commerce",
+  "tags": [
+   "coin yuan",
+   "coin",
+   "money",
+   "yuan",
+   "commerce"
+  ]
+ },
+ {
   "name": "coins",
   "category": "Commerce",
   "tags": [
@@ -1419,6 +5466,15 @@
    "change",
    "currency",
    "savings"
+  ]
+ },
+ {
+  "name": "coins-swap",
+  "category": "Commerce",
+  "tags": [
+   "exchange",
+   "convert currency",
+   "swap"
   ]
  },
  {
@@ -1464,6 +5520,27 @@
   ]
  },
  {
+  "name": "contactless",
+  "category": "Commerce",
+  "tags": [
+   "rfid",
+   "nfc",
+   "tap to pay",
+   "contactless",
+   "nfc payment"
+  ]
+ },
+ {
+  "name": "contactless-slash",
+  "category": "Commerce",
+  "tags": [
+   "contactless off",
+   "nfc off",
+   "tap to pay",
+   "disabled"
+  ]
+ },
+ {
   "name": "cookie",
   "category": "Food",
   "tags": [
@@ -1481,6 +5558,72 @@
    "duplicate",
    "clipboard",
    "clone"
+  ]
+ },
+ {
+  "name": "corner-down-left-double",
+  "category": "Arrows",
+  "tags": [
+   "corner",
+   "arrow",
+   "turn",
+   "down",
+   "left"
+  ]
+ },
+ {
+  "name": "corner-down-right-double",
+  "category": "Arrows",
+  "tags": [
+   "corner",
+   "arrow",
+   "turn",
+   "down",
+   "right"
+  ]
+ },
+ {
+  "name": "corner-left-down-double",
+  "category": "Arrows",
+  "tags": [
+   "corner",
+   "arrow",
+   "turn",
+   "left",
+   "down"
+  ]
+ },
+ {
+  "name": "corner-left-up-double",
+  "category": "Arrows",
+  "tags": [
+   "corner",
+   "arrow",
+   "turn",
+   "left",
+   "up"
+  ]
+ },
+ {
+  "name": "corner-right-down-double",
+  "category": "Arrows",
+  "tags": [
+   "corner",
+   "arrow",
+   "turn",
+   "right",
+   "down"
+  ]
+ },
+ {
+  "name": "corner-right-up-double",
+  "category": "Arrows",
+  "tags": [
+   "corner",
+   "arrow",
+   "turn",
+   "right",
+   "up"
   ]
  },
  {
@@ -1514,6 +5657,27 @@
   ]
  },
  {
+  "name": "coupon",
+  "category": "Commerce",
+  "tags": [
+   "coupon",
+   "voucher",
+   "discount",
+   "percent"
+  ]
+ },
+ {
+  "name": "cow",
+  "category": "Animals",
+  "tags": [
+   "cattle",
+   "farm",
+   "dairy",
+   "cow",
+   "ox"
+  ]
+ },
+ {
   "name": "cpu",
   "category": "Devices",
   "tags": [
@@ -1524,6 +5688,16 @@
   ]
  },
  {
+  "name": "crab",
+  "category": "Animals",
+  "tags": [
+   "crab",
+   "seafood",
+   "sea",
+   "crustacean"
+  ]
+ },
+ {
   "name": "credit-card",
   "category": "Commerce",
   "tags": [
@@ -1531,6 +5705,110 @@
    "card",
    "money",
    "billing"
+  ]
+ },
+ {
+  "name": "credit-card-back",
+  "category": "Commerce",
+  "tags": [
+   "card back",
+   "cvv",
+   "magnetic stripe",
+   "credit card"
+  ]
+ },
+ {
+  "name": "credit-card-hand",
+  "category": "Commerce",
+  "tags": [
+   "credit card hand",
+   "payment",
+   "card",
+   "pay",
+   "credit"
+  ]
+ },
+ {
+  "name": "credit-card-lock",
+  "category": "Commerce",
+  "tags": [
+   "secure payment",
+   "locked card",
+   "card security"
+  ]
+ },
+ {
+  "name": "credit-card-magnifying-glass",
+  "category": "Commerce",
+  "tags": [
+   "card",
+   "search",
+   "find payment",
+   "credit card"
+  ]
+ },
+ {
+  "name": "credit-card-pay",
+  "category": "Commerce",
+  "tags": [
+   "credit card pay",
+   "payment",
+   "card",
+   "pay",
+   "credit"
+  ]
+ },
+ {
+  "name": "credit-card-plus",
+  "category": "Commerce",
+  "tags": [
+   "add card",
+   "new payment",
+   "credit card",
+   "add"
+  ]
+ },
+ {
+  "name": "credit-card-refund",
+  "category": "Commerce",
+  "tags": [
+   "credit card refund",
+   "payment",
+   "card",
+   "pay",
+   "credit"
+  ]
+ },
+ {
+  "name": "credit-card-shield",
+  "category": "Commerce",
+  "tags": [
+   "secure payment",
+   "protected",
+   "card",
+   "shield",
+   "payment protection"
+  ]
+ },
+ {
+  "name": "credit-card-slash",
+  "category": "Commerce",
+  "tags": [
+   "no card",
+   "card declined",
+   "payment",
+   "slash",
+   "declined"
+  ]
+ },
+ {
+  "name": "credits",
+  "category": "Commerce",
+  "tags": [
+   "credits",
+   "tokens",
+   "balance",
+   "points"
   ]
  },
  {
@@ -1576,6 +5854,71 @@
   ]
  },
  {
+  "name": "currency",
+  "category": "Commerce",
+  "tags": [
+   "currency",
+   "money sign",
+   "generic",
+   "exchange"
+  ]
+ },
+ {
+  "name": "currency-baht",
+  "category": "Commerce",
+  "tags": [
+   "currency baht",
+   "currency",
+   "money",
+   "baht",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin",
+   "crypto",
+   "btc",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-cent",
+  "category": "Commerce",
+  "tags": [
+   "currency cent",
+   "currency",
+   "money",
+   "cent",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-dinar",
+  "category": "Commerce",
+  "tags": [
+   "currency dinar",
+   "currency",
+   "money",
+   "dinar",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-dirham",
+  "category": "Commerce",
+  "tags": [
+   "currency dirham",
+   "currency",
+   "money",
+   "dirham",
+   "commerce"
+  ]
+ },
+ {
   "name": "currency-dollar",
   "category": "Commerce",
   "tags": [
@@ -1587,6 +5930,49 @@
   ]
  },
  {
+  "name": "currency-dollar-slash",
+  "category": "Commerce",
+  "tags": [
+   "currency dollar",
+   "disabled",
+   "off",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-dollar-square",
+  "category": "Commerce",
+  "tags": [
+   "dollar",
+   "usd",
+   "square",
+   "currency"
+  ]
+ },
+ {
+  "name": "currency-dong",
+  "category": "Commerce",
+  "tags": [
+   "currency dong",
+   "currency",
+   "money",
+   "dong",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-dram",
+  "category": "Commerce",
+  "tags": [
+   "currency dram",
+   "currency",
+   "money",
+   "dram",
+   "commerce"
+  ]
+ },
+ {
   "name": "currency-euro",
   "category": "Commerce",
   "tags": [
@@ -1595,6 +5981,399 @@
    "eur",
    "price",
    "europe"
+  ]
+ },
+ {
+  "name": "currency-euro-slash",
+  "category": "Commerce",
+  "tags": [
+   "currency euro",
+   "disabled",
+   "off",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-exchange",
+  "category": "Commerce",
+  "tags": [
+   "exchange",
+   "conversion",
+   "currency",
+   "forex",
+   "convert"
+  ]
+ },
+ {
+  "name": "currency-florin",
+  "category": "Commerce",
+  "tags": [
+   "currency florin",
+   "currency",
+   "money",
+   "florin",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-forint",
+  "category": "Commerce",
+  "tags": [
+   "currency forint",
+   "currency",
+   "money",
+   "forint",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-franc",
+  "category": "Commerce",
+  "tags": [
+   "franc",
+   "chf",
+   "currency",
+   "money",
+   "currency franc"
+  ]
+ },
+ {
+  "name": "currency-guarani",
+  "category": "Commerce",
+  "tags": [
+   "currency guarani",
+   "currency",
+   "money",
+   "guarani",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-hryvnia",
+  "category": "Commerce",
+  "tags": [
+   "currency hryvnia",
+   "currency",
+   "money",
+   "hryvnia",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-kip",
+  "category": "Commerce",
+  "tags": [
+   "currency kip",
+   "currency",
+   "money",
+   "kip",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-krone",
+  "category": "Commerce",
+  "tags": [
+   "currency krone",
+   "currency",
+   "money",
+   "krone",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-lari",
+  "category": "Commerce",
+  "tags": [
+   "currency lari",
+   "currency",
+   "money",
+   "lari",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-leu",
+  "category": "Commerce",
+  "tags": [
+   "currency leu",
+   "currency",
+   "money",
+   "leu",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-lira",
+  "category": "Commerce",
+  "tags": [
+   "lira",
+   "try",
+   "turkey",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-manat",
+  "category": "Commerce",
+  "tags": [
+   "currency manat",
+   "currency",
+   "money",
+   "manat",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-naira",
+  "category": "Commerce",
+  "tags": [
+   "naira",
+   "ngn",
+   "nigeria money",
+   "currency naira",
+   "currency"
+  ]
+ },
+ {
+  "name": "currency-peso",
+  "category": "Commerce",
+  "tags": [
+   "currency peso",
+   "currency",
+   "money",
+   "peso",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-pound",
+  "category": "Commerce",
+  "tags": [
+   "pound sterling",
+   "gbp",
+   "uk money",
+   "pound",
+   "sterling"
+  ]
+ },
+ {
+  "name": "currency-pound-circle",
+  "category": "Commerce",
+  "tags": [
+   "pound",
+   "gbp",
+   "coin",
+   "currency",
+   "sterling"
+  ]
+ },
+ {
+  "name": "currency-pound-slash",
+  "category": "Commerce",
+  "tags": [
+   "currency pound",
+   "disabled",
+   "off",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-quetzal",
+  "category": "Commerce",
+  "tags": [
+   "currency quetzal",
+   "currency",
+   "money",
+   "quetzal",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-real",
+  "category": "Commerce",
+  "tags": [
+   "currency real",
+   "currency",
+   "money",
+   "real",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-ruble",
+  "category": "Commerce",
+  "tags": [
+   "ruble",
+   "rub",
+   "russia money",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-rupee",
+  "category": "Commerce",
+  "tags": [
+   "rupee",
+   "inr",
+   "india money",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-rupee-circle",
+  "category": "Commerce",
+  "tags": [
+   "rupee",
+   "india",
+   "money",
+   "coin"
+  ]
+ },
+ {
+  "name": "currency-shekel",
+  "category": "Commerce",
+  "tags": [
+   "currency shekel",
+   "currency",
+   "money",
+   "shekel",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-slash",
+  "category": "Commerce",
+  "tags": [
+   "currency",
+   "disabled",
+   "off",
+   "money",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-som",
+  "category": "Commerce",
+  "tags": [
+   "currency som",
+   "currency",
+   "money",
+   "som",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-taka",
+  "category": "Commerce",
+  "tags": [
+   "currency taka",
+   "currency",
+   "money",
+   "taka",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-tenge",
+  "category": "Commerce",
+  "tags": [
+   "tenge",
+   "kzt",
+   "kazakhstan money",
+   "currency tenge",
+   "currency"
+  ]
+ },
+ {
+  "name": "currency-tugrik",
+  "category": "Commerce",
+  "tags": [
+   "currency tugrik",
+   "currency",
+   "money",
+   "tugrik",
+   "commerce"
+  ]
+ },
+ {
+  "name": "currency-won",
+  "category": "Commerce",
+  "tags": [
+   "won",
+   "krw",
+   "korea money",
+   "currency won",
+   "currency"
+  ]
+ },
+ {
+  "name": "currency-yen",
+  "category": "Commerce",
+  "tags": [
+   "yen",
+   "yuan",
+   "jpy",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-yen-circle",
+  "category": "Commerce",
+  "tags": [
+   "yen",
+   "jpy",
+   "coin",
+   "currency"
+  ]
+ },
+ {
+  "name": "currency-yen-slash",
+  "category": "Commerce",
+  "tags": [
+   "currency yen",
+   "disabled",
+   "off",
+   "currency",
+   "money"
+  ]
+ },
+ {
+  "name": "currency-yuan",
+  "category": "Commerce",
+  "tags": [
+   "yuan",
+   "cny",
+   "renminbi",
+   "currency",
+   "currency yuan"
+  ]
+ },
+ {
+  "name": "currency-yuan-circle",
+  "category": "Commerce",
+  "tags": [
+   "yuan",
+   "renminbi",
+   "money",
+   "coin"
+  ]
+ },
+ {
+  "name": "currency-zloty",
+  "category": "Commerce",
+  "tags": [
+   "currency zloty",
+   "currency",
+   "money",
+   "zloty",
+   "commerce"
   ]
  },
  {
@@ -1640,6 +6419,16 @@
   ]
  },
  {
+  "name": "deer",
+  "category": "Animals",
+  "tags": [
+   "deer",
+   "antlers",
+   "wildlife",
+   "forest"
+  ]
+ },
+ {
   "name": "device-mobile",
   "category": "Devices",
   "tags": [
@@ -1681,6 +6470,25 @@
   ]
  },
  {
+  "name": "direction-arrows",
+  "category": "Arrows",
+  "tags": [
+   "d-pad",
+   "arrows",
+   "directions",
+   "navigate"
+  ]
+ },
+ {
+  "name": "direction-horizontal",
+  "category": "Arrows",
+  "tags": [
+   "left right",
+   "direction",
+   "arrows"
+  ]
+ },
+ {
   "name": "disc",
   "category": "Media",
   "tags": [
@@ -1710,6 +6518,37 @@
    "biology",
    "science",
    "gene"
+  ]
+ },
+ {
+  "name": "dog",
+  "category": "Animals",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "canine",
+   "animal"
+  ]
+ },
+ {
+  "name": "dog-bowl",
+  "category": "Animals",
+  "tags": [
+   "pet",
+   "dog",
+   "bowl",
+   "food"
+  ]
+ },
+ {
+  "name": "dolphin",
+  "category": "Animals",
+  "tags": [
+   "dolphin",
+   "sea",
+   "ocean",
+   "mammal"
   ]
  },
  {
@@ -1775,6 +6614,16 @@
   ]
  },
  {
+  "name": "dragon",
+  "category": "Animals",
+  "tags": [
+   "dragon",
+   "mythical",
+   "fantasy",
+   "zodiac"
+  ]
+ },
+ {
   "name": "drop",
   "category": "Weather",
   "tags": [
@@ -1782,6 +6631,26 @@
    "rain",
    "liquid",
    "humidity"
+  ]
+ },
+ {
+  "name": "duck",
+  "category": "Animals",
+  "tags": [
+   "duck",
+   "bird",
+   "pond",
+   "rubber duck"
+  ]
+ },
+ {
+  "name": "eagle",
+  "category": "Animals",
+  "tags": [
+   "eagle",
+   "bird of prey",
+   "hawk",
+   "freedom"
   ]
  },
  {
@@ -1817,6 +6686,16 @@
   ]
  },
  {
+  "name": "elephant",
+  "category": "Animals",
+  "tags": [
+   "elephant",
+   "animal",
+   "safari",
+   "trunk"
+  ]
+ },
+ {
   "name": "elevator",
   "category": "Maps",
   "tags": [
@@ -1835,6 +6714,16 @@
    "mail",
    "message",
    "inbox"
+  ]
+ },
+ {
+  "name": "envelope-gift",
+  "category": "Commerce",
+  "tags": [
+   "red envelope",
+   "hongbao",
+   "gift money",
+   "lucky money"
   ]
  },
  {
@@ -2139,6 +7028,16 @@
   ]
  },
  {
+  "name": "fish-slash",
+  "category": "Animals",
+  "tags": [
+   "fish",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "flag",
   "category": "Maps",
   "tags": [
@@ -2177,6 +7076,27 @@
    "disk",
    "storage",
    "diskette"
+  ]
+ },
+ {
+  "name": "flowchart",
+  "category": "Charts",
+  "tags": [
+   "flow chart",
+   "process",
+   "diagram",
+   "workflow",
+   "flowchart"
+  ]
+ },
+ {
+  "name": "flowchart-slash",
+  "category": "Charts",
+  "tags": [
+   "flowchart",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -2259,6 +7179,16 @@
    "focus",
    "fit",
    "artboard"
+  ]
+ },
+ {
+  "name": "frog",
+  "category": "Animals",
+  "tags": [
+   "frog",
+   "toad",
+   "amphibian",
+   "pond"
   ]
  },
  {
@@ -2469,6 +7399,16 @@
   ]
  },
  {
+  "name": "graph-slash",
+  "category": "Charts",
+  "tags": [
+   "graph",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "hamburger",
   "category": "Food",
   "tags": [
@@ -2657,6 +7597,27 @@
   ]
  },
  {
+  "name": "hippo",
+  "category": "Animals",
+  "tags": [
+   "hippopotamus",
+   "hippo",
+   "animal",
+   "safari"
+  ]
+ },
+ {
+  "name": "horse",
+  "category": "Animals",
+  "tags": [
+   "horse",
+   "pony",
+   "equine",
+   "farm",
+   "equestrian"
+  ]
+ },
+ {
   "name": "hospital",
   "category": "Maps",
   "tags": [
@@ -2741,6 +7702,15 @@
   ]
  },
  {
+  "name": "jellyfish",
+  "category": "Animals",
+  "tags": [
+   "sea creature",
+   "ocean",
+   "jelly"
+  ]
+ },
+ {
   "name": "joystick",
   "category": "Devices",
   "tags": [
@@ -2779,6 +7749,16 @@
    "keys",
    "input",
    "type"
+  ]
+ },
+ {
+  "name": "koala",
+  "category": "Animals",
+  "tags": [
+   "koala",
+   "australia",
+   "animal",
+   "marsupial"
   ]
  },
  {
@@ -3073,6 +8053,17 @@
   ]
  },
  {
+  "name": "mind-map",
+  "category": "Charts",
+  "tags": [
+   "mind map",
+   "brainstorm",
+   "diagram",
+   "nodes",
+   "ideas"
+  ]
+ },
+ {
   "name": "minus",
   "category": "Interface",
   "tags": [
@@ -3119,6 +8110,35 @@
    "screen",
    "display",
    "computer"
+  ]
+ },
+ {
+  "name": "monitor-chart",
+  "category": "Charts",
+  "tags": [
+   "analytics",
+   "dashboard",
+   "desktop"
+  ]
+ },
+ {
+  "name": "monkey",
+  "category": "Animals",
+  "tags": [
+   "monkey",
+   "ape",
+   "primate",
+   "animal"
+  ]
+ },
+ {
+  "name": "monkey-bars",
+  "category": "Sports",
+  "tags": [
+   "monkey bars",
+   "playground",
+   "climbing",
+   "kids"
   ]
  },
  {
@@ -3256,6 +8276,16 @@
   ]
  },
  {
+  "name": "owl",
+  "category": "Animals",
+  "tags": [
+   "owl",
+   "bird",
+   "night",
+   "wisdom"
+  ]
+ },
+ {
   "name": "package",
   "category": "Commerce",
   "tags": [
@@ -3296,6 +8326,16 @@
    "art",
    "theme",
    "design"
+  ]
+ },
+ {
+  "name": "panda",
+  "category": "Animals",
+  "tags": [
+   "panda",
+   "bear",
+   "china",
+   "wildlife"
   ]
  },
  {
@@ -3368,6 +8408,17 @@
    "dog",
    "cat",
    "animal",
+   "paw"
+  ]
+ },
+ {
+  "name": "paw-print-slash",
+  "category": "Animals",
+  "tags": [
+   "paw print",
+   "off",
+   "disabled",
+   "hidden",
    "paw"
   ]
  },
@@ -3462,6 +8513,27 @@
    "hang up",
    "declined",
    "end call"
+  ]
+ },
+ {
+  "name": "pig",
+  "category": "Animals",
+  "tags": [
+   "pig",
+   "swine",
+   "farm",
+   "piggy",
+   "animal"
+  ]
+ },
+ {
+  "name": "pig-slash",
+  "category": "Animals",
+  "tags": [
+   "pig",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -3659,6 +8731,38 @@
   ]
  },
  {
+  "name": "pyramid",
+  "category": "Charts",
+  "tags": [
+   "pyramid",
+   "hierarchy",
+   "levels",
+   "funnel",
+   "3d"
+  ]
+ },
+ {
+  "name": "pyramid-3d",
+  "category": "Design",
+  "tags": [
+   "pyramid",
+   "3d shape",
+   "solid",
+   "geometry"
+  ]
+ },
+ {
+  "name": "pyramid-3d-slash",
+  "category": "Design",
+  "tags": [
+   "pyramid 3d",
+   "off",
+   "disabled",
+   "hidden",
+   "pyramid"
+  ]
+ },
+ {
   "name": "qr-code",
   "category": "Devices",
   "tags": [
@@ -3687,6 +8791,17 @@
    "blockquote",
    "citation",
    "testimonial"
+  ]
+ },
+ {
+  "name": "rabbit",
+  "category": "Animals",
+  "tags": [
+   "rabbit",
+   "bunny",
+   "cruelty free",
+   "hare",
+   "easter"
   ]
  },
  {
@@ -3719,6 +8834,17 @@
    "colors",
    "pride",
    "spectrum"
+  ]
+ },
+ {
+  "name": "rat",
+  "category": "Animals",
+  "tags": [
+   "rodent",
+   "mouse",
+   "pest",
+   "rat",
+   "animal"
   ]
  },
  {
@@ -3791,6 +8917,16 @@
    "startup",
    "spaceship",
    "boost"
+  ]
+ },
+ {
+  "name": "rotate-360",
+  "category": "Arrows",
+  "tags": [
+   "360",
+   "panorama",
+   "rotate",
+   "view"
   ]
  },
  {
@@ -3939,6 +9075,16 @@
   ]
  },
  {
+  "name": "sheep",
+  "category": "Animals",
+  "tags": [
+   "sheep",
+   "lamb",
+   "wool",
+   "farm"
+  ]
+ },
+ {
   "name": "shield",
   "category": "Security",
   "tags": [
@@ -3969,6 +9115,80 @@
   ]
  },
  {
+  "name": "shopping-bag-minus",
+  "category": "Commerce",
+  "tags": [
+   "bag",
+   "remove item",
+   "minus",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "shopping-bag-open",
+  "category": "Commerce",
+  "tags": [
+   "open bag",
+   "shopping",
+   "purchase"
+  ]
+ },
+ {
+  "name": "shopping-bag-pencil",
+  "category": "Commerce",
+  "tags": [
+   "shopping bag",
+   "edit",
+   "write",
+   "shopping",
+   "bag"
+  ]
+ },
+ {
+  "name": "shopping-bag-plus",
+  "category": "Commerce",
+  "tags": [
+   "bag",
+   "add item",
+   "plus",
+   "shopping",
+   "buy"
+  ]
+ },
+ {
+  "name": "shopping-bag-slash",
+  "category": "Commerce",
+  "tags": [
+   "bag",
+   "unavailable",
+   "slash",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-bag-warning",
+  "category": "Commerce",
+  "tags": [
+   "shopping bag",
+   "warning",
+   "alert",
+   "error",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-bag-x",
+  "category": "Commerce",
+  "tags": [
+   "bag",
+   "remove",
+   "x",
+   "shopping",
+   "shopping bag x"
+  ]
+ },
+ {
   "name": "shopping-cart",
   "category": "Commerce",
   "tags": [
@@ -3976,6 +9196,225 @@
    "buy",
    "checkout",
    "ecommerce"
+  ]
+ },
+ {
+  "name": "shopping-cart-arrow-down",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "download",
+   "down",
+   "decrease",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-arrow-up",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "upload",
+   "up",
+   "increase",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-check",
+  "category": "Commerce",
+  "tags": [
+   "cart",
+   "checkout",
+   "done",
+   "check",
+   "shopping cart check"
+  ]
+ },
+ {
+  "name": "shopping-cart-code",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "code",
+   "developer",
+   "embed",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-currency-dollar",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "dollar",
+   "price",
+   "money",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-discount",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "discount",
+   "sale",
+   "percent",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-gear",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "settings",
+   "configure",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-heart",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "favorite",
+   "like",
+   "love",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-lightning",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "fast",
+   "power",
+   "instant",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-magnifying-glass",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "search",
+   "find",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-minus",
+  "category": "Commerce",
+  "tags": [
+   "cart",
+   "remove item",
+   "minus",
+   "shopping",
+   "remove from cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-pause",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "paused",
+   "hold",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-plus",
+  "category": "Commerce",
+  "tags": [
+   "add to cart",
+   "shopping",
+   "cart",
+   "buy",
+   "shopping cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-push-pin",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "pin",
+   "pinned",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-question",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "help",
+   "unknown",
+   "question",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-share",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "share",
+   "send",
+   "shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-slash",
+  "category": "Commerce",
+  "tags": [
+   "cart off",
+   "remove from cart",
+   "no shopping",
+   "cart"
+  ]
+ },
+ {
+  "name": "shopping-cart-star",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "favorite",
+   "starred",
+   "featured",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-warning",
+  "category": "Commerce",
+  "tags": [
+   "shopping cart",
+   "warning",
+   "alert",
+   "error",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-x",
+  "category": "Commerce",
+  "tags": [
+   "cart",
+   "remove",
+   "clear",
+   "x",
+   "remove from cart"
   ]
  },
  {
@@ -4123,6 +9562,26 @@
   ]
  },
  {
+  "name": "snail",
+  "category": "Animals",
+  "tags": [
+   "snail",
+   "slow",
+   "shell",
+   "mollusc"
+  ]
+ },
+ {
+  "name": "snake",
+  "category": "Animals",
+  "tags": [
+   "snake",
+   "serpent",
+   "reptile",
+   "zodiac"
+  ]
+ },
+ {
   "name": "sneaker",
   "category": "Objects",
   "tags": [
@@ -4206,6 +9665,16 @@
   ]
  },
  {
+  "name": "spider",
+  "category": "Animals",
+  "tags": [
+   "spider",
+   "bug",
+   "web",
+   "halloween"
+  ]
+ },
+ {
   "name": "spinner",
   "category": "Interface",
   "tags": [
@@ -4254,6 +9723,26 @@
    "upstairs",
    "floor",
    "climb"
+  ]
+ },
+ {
+  "name": "stairs-down",
+  "category": "Arrows",
+  "tags": [
+   "downstairs",
+   "stairs",
+   "descend",
+   "down"
+  ]
+ },
+ {
+  "name": "stairs-up",
+  "category": "Arrows",
+  "tags": [
+   "upstairs",
+   "stairs",
+   "climb",
+   "up"
   ]
  },
  {
@@ -4327,6 +9816,26 @@
    "market",
    "retail",
    "business"
+  ]
+ },
+ {
+  "name": "storefront-plus",
+  "category": "Commerce",
+  "tags": [
+   "add business",
+   "new store",
+   "shop",
+   "storefront"
+  ]
+ },
+ {
+  "name": "storefront-slash",
+  "category": "Commerce",
+  "tags": [
+   "store closed",
+   "shop",
+   "storefront",
+   "slash"
   ]
  },
  {
@@ -4404,6 +9913,16 @@
   ]
  },
  {
+  "name": "table-pivot",
+  "category": "Charts",
+  "tags": [
+   "pivot table",
+   "crosstab",
+   "spreadsheet",
+   "data"
+  ]
+ },
+ {
   "name": "tag",
   "category": "Commerce",
   "tags": [
@@ -4414,6 +9933,58 @@
   ]
  },
  {
+  "name": "tag-heart",
+  "category": "Commerce",
+  "tags": [
+   "loyalty",
+   "favourite deal",
+   "rewards",
+   "tag"
+  ]
+ },
+ {
+  "name": "tag-minus",
+  "category": "Commerce",
+  "tags": [
+   "tag minus",
+   "remove",
+   "subtract",
+   "tag",
+   "label"
+  ]
+ },
+ {
+  "name": "tag-plus",
+  "category": "Commerce",
+  "tags": [
+   "new label",
+   "add tag",
+   "label",
+   "tag",
+   "tag plus"
+  ]
+ },
+ {
+  "name": "tags",
+  "category": "Commerce",
+  "tags": [
+   "tags",
+   "labels",
+   "prices",
+   "sale"
+  ]
+ },
+ {
+  "name": "tags-slash",
+  "category": "Commerce",
+  "tags": [
+   "tags",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "target",
   "category": "Arrows",
   "tags": [
@@ -4421,6 +9992,16 @@
    "aim",
    "bullseye",
    "focus"
+  ]
+ },
+ {
+  "name": "tax",
+  "category": "Commerce",
+  "tags": [
+   "tax",
+   "percent",
+   "document",
+   "finance"
   ]
  },
  {
@@ -4647,6 +10228,91 @@
   ]
  },
  {
+  "name": "ticket-slash",
+  "category": "Commerce",
+  "tags": [
+   "ticket",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "tiger",
+  "category": "Animals",
+  "tags": [
+   "tiger",
+   "big cat",
+   "wild",
+   "zodiac"
+  ]
+ },
+ {
+  "name": "timeline",
+  "category": "Charts",
+  "tags": [
+   "timeline",
+   "history",
+   "milestones",
+   "events",
+   "steps"
+  ]
+ },
+ {
+  "name": "timeline-event",
+  "category": "Time",
+  "tags": [
+   "timeline",
+   "event",
+   "milestone",
+   "history"
+  ]
+ },
+ {
+  "name": "timeline-event-minus",
+  "category": "Time",
+  "tags": [
+   "timeline event",
+   "remove",
+   "subtract",
+   "timeline",
+   "event"
+  ]
+ },
+ {
+  "name": "timeline-event-plus",
+  "category": "Time",
+  "tags": [
+   "timeline event",
+   "add",
+   "new",
+   "create",
+   "timeline"
+  ]
+ },
+ {
+  "name": "timeline-event-warning",
+  "category": "Time",
+  "tags": [
+   "timeline event",
+   "warning",
+   "alert",
+   "error",
+   "timeline"
+  ]
+ },
+ {
+  "name": "timeline-event-x",
+  "category": "Time",
+  "tags": [
+   "timeline event",
+   "remove",
+   "delete",
+   "cancel",
+   "timeline"
+  ]
+ },
+ {
   "name": "timer",
   "category": "Time",
   "tags": [
@@ -4654,6 +10320,17 @@
    "time",
    "clock",
    "duration"
+  ]
+ },
+ {
+  "name": "tip-jar",
+  "category": "Commerce",
+  "tags": [
+   "tip jar",
+   "gratuity",
+   "donation",
+   "tips",
+   "coins"
   ]
  },
  {
@@ -4718,6 +10395,36 @@
    "subway",
    "metro",
    "transport"
+  ]
+ },
+ {
+  "name": "transaction",
+  "category": "Commerce",
+  "tags": [
+   "transaction",
+   "payment",
+   "transfer",
+   "money"
+  ]
+ },
+ {
+  "name": "transfer-in",
+  "category": "Arrows",
+  "tags": [
+   "transfer in",
+   "receive",
+   "incoming",
+   "arrow"
+  ]
+ },
+ {
+  "name": "transfer-out",
+  "category": "Arrows",
+  "tags": [
+   "transfer out",
+   "send",
+   "outgoing",
+   "arrow"
   ]
  },
  {
@@ -4804,6 +10511,16 @@
   ]
  },
  {
+  "name": "trend-up-down",
+  "category": "Charts",
+  "tags": [
+   "volatile",
+   "up and down",
+   "trend",
+   "fluctuation"
+  ]
+ },
+ {
   "name": "triangle",
   "category": "Interface",
   "tags": [
@@ -4833,6 +10550,16 @@
    "transport",
    "lorry",
    "vehicle"
+  ]
+ },
+ {
+  "name": "turkey",
+  "category": "Animals",
+  "tags": [
+   "turkey",
+   "thanksgiving",
+   "bird",
+   "farm"
   ]
  },
  {
@@ -4995,6 +10722,16 @@
   ]
  },
  {
+  "name": "wallet-slash",
+  "category": "Commerce",
+  "tags": [
+   "wallet",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "warning",
   "category": "Interface",
   "tags": [
@@ -5057,6 +10794,16 @@
   ]
  },
  {
+  "name": "whale",
+  "category": "Animals",
+  "tags": [
+   "whale",
+   "ocean",
+   "sea",
+   "mammal"
+  ]
+ },
+ {
   "name": "wheelchair",
   "category": "Maps",
   "tags": [
@@ -5107,6 +10854,15 @@
    "alcohol",
    "bar",
    "celebrate"
+  ]
+ },
+ {
+  "name": "wolf",
+  "category": "Animals",
+  "tags": [
+   "wild animal",
+   "wolf",
+   "canine"
   ]
  },
  {

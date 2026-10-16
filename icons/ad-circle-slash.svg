@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="advertisement,no ads,ad blocker">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M73 158 L95 98 L117 158"/>
+    <path d="M80.48 137.6 L109.52 137.6"/>
+    <path d="M143 98 H159 A24 24 0 0 1 183 122 V134 A24 24 0 0 1 159 158 H143 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

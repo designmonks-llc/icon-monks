@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="rfid,nfc,tap to pay,contactless,nfc payment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="24" y="56" width="208" height="144" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="24" y="56" width="208" height="144" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M121.46 102.54 A36 36 0 0 1 121.46 153.46"/>
+    <path d="M151.16 81.72 A72 72 0 0 1 151.16 174.28"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="128" r="16"/>
+  </g>
+</svg>

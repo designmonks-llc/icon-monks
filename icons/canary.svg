@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="bird,canary,testing,release">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M116.24 92.54C114.79 88.63 114 84.41 114 80C114 60.12 130.12 44 150 44C167.28 44 181.72 56.18 185.2 72.43L210 84L181.61 97.25C179.95 100.27 177.88 103.03 175.47 105.44C189.01 126.29 177.99 158.36 150.38 177.68C133.76 189.32 114.84 193.73 99.17 191.06L80 200L46 192L73.39 175.81C73.33 175.73 73.27 175.65 73.21 175.56C58.64 154.75 69.57 121.96 97.62 102.32C103.62 98.12 109.91 94.86 116.24 92.54Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116.24 92.54C114.79 88.63 114 84.41 114 80C114 60.12 130.12 44 150 44C167.28 44 181.72 56.18 185.2 72.43L210 84L181.61 97.25C179.95 100.27 177.88 103.03 175.47 105.44C189.01 126.29 177.99 158.36 150.38 177.68C133.76 189.32 114.84 193.73 99.17 191.06L80 200L46 192L73.39 175.81C73.33 175.73 73.27 175.65 73.21 175.56C58.64 154.75 69.57 121.96 97.62 102.32C103.62 98.12 109.91 94.86 116.24 92.54Z"/>
+    <path d="M124 190 L124 216"/>
+    <path d="M152 180 L152 216"/>
+    <path d="M104 216 L192 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 132 C112 160 144 166 168 146"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="158" cy="76" r="12"/>
+  </g>
+</svg>

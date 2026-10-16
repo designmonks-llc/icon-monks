@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart covariate,chart,graph,analytics,covariate">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+    <path d="M72 184 L216 64"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="100" cy="112" r="16"/>
+    <circle cx="144" cy="72" r="16"/>
+    <circle cx="180" cy="160" r="16"/>
+    <circle cx="136" cy="184" r="16"/>
+  </g>
+</svg>

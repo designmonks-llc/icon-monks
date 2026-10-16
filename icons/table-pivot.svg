@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="pivot table,crosstab,spreadsheet,data">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 48 A16 16 0 0 1 48 32 H208 A16 16 0 0 1 224 48 V88 H88 V224 H48 A16 16 0 0 1 32 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <path d="M32 88 L224 88"/>
+    <path d="M88 32 L88 224"/>
+    <path d="M176 116 A60 60 0 0 1 116 176"/>
+    <path d="M159.03 132.97 L176 116 L192.97 132.97"/>
+    <path d="M132.97 192.97 L116 176 L132.97 159.03"/>
+  </g>
+</svg>

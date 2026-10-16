@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency baht,currency,money,baht,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 124 H144 A38 38 0 0 1 144 200 H80 V56 H136 A34 34 0 0 1 136 124"/>
+    <path d="M120 32 L120 224"/>
+  </g>
+</svg>

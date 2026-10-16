@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="bitcoin,crypto,btc,currency,money">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 64 H140 A30 30 0 0 1 140 124 H80"/>
+    <path d="M80 124 H148 A34 34 0 0 1 148 192 H64"/>
+    <path d="M80 64 L80 192"/>
+    <path d="M104 32 L104 64"/>
+    <path d="M140 32 L140 64"/>
+    <path d="M104 192 L104 224"/>
+    <path d="M140 192 L140 224"/>
+  </g>
+</svg>

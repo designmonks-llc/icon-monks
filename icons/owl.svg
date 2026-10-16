@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="owl,bird,night,wisdom">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 56 L88 80 H168 L216 56 V160 C216 196 176 216 128 216 C80 216 40 196 40 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 56 L88 80 H168 L216 56 V160 C216 196 176 216 128 216 C80 216 40 196 40 160 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="92" cy="124" r="26"/>
+    <circle cx="164" cy="124" r="26"/>
+    <path d="M118 158 L128 174 L138 158"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="92" cy="124" r="10"/>
+    <circle cx="164" cy="124" r="10"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="secure payment,protected,card,shield,payment protection">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M232 131.83 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H119.01 A68 68 0 0 1 232 131.83 Z"/>
+    <path d="M184 139.68 L217.6 153.12 L217.6 176.64 C217.6 200.16 200.8 213.6 184 220.32 C167.2 213.6 150.4 200.16 150.4 176.64 L150.4 153.12 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M232 131.83 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H119.01"/>
+    <path d="M184 139.68 L217.6 153.12 L217.6 176.64 C217.6 200.16 200.8 213.6 184 220.32 C167.2 213.6 150.4 200.16 150.4 176.64 L150.4 153.12 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 104 L232 104"/>
+    <path d="M56 160 L96 160"/>
+  </g>
+</svg>

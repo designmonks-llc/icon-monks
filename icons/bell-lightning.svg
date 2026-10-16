@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="bell,fast,power,notification,alert">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M126 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 116.85 184.18 121.52 184.55 126 A58 58 0 0 0 126 184 Z"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 116.85 184.18 121.52 184.55 126"/>
+    <path d="M128 40 L128 56"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+</svg>

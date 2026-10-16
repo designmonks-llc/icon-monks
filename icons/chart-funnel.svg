@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart funnel,chart,graph,analytics,funnel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 48 L224 48 L160 208 L96 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L224 48 L160 208 L96 208 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M53.32 101.3 L202.68 101.3"/>
+    <path d="M74.68 154.7 L181.32 154.7"/>
+  </g>
+</svg>

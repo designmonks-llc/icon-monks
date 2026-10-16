@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="stacked bars,bar chart,composition,analytics,stacked bar">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="96" width="40" height="88" rx="8"/>
+    <rect x="108" y="40" width="40" height="144" rx="8"/>
+    <rect x="176" y="76" width="40" height="108" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="96" width="40" height="88" rx="8"/>
+    <rect x="108" y="40" width="40" height="144" rx="8"/>
+    <rect x="176" y="76" width="40" height="108" rx="8"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 140 L80 140"/>
+    <path d="M108 88 L148 88"/>
+    <path d="M108 136 L148 136"/>
+    <path d="M176 132 L216 132"/>
+  </g>
+</svg>

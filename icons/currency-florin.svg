@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency florin,currency,money,florin,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 64 C176 40 144 40 136 72 L116 184 C108 216 76 216 64 196"/>
+    <path d="M88 120 L176 120"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="credits,tokens,balance,points">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 140 A60 18 0 0 1 224 140 V204 A60 18 0 0 1 104 204 Z"/>
+    <path d="M36 160 V64 A60 18 0 0 1 156 64 V102.19 A80 38 0 0 0 84 140 V177.64 A60 18 0 0 1 36 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 140 A60 18 0 0 1 224 140 V204 A60 18 0 0 1 104 204 Z"/>
+    <path d="M36 160 V64 A60 18 0 0 1 156 64 V94.19"/>
+    <path d="M36 160 A60 18 0 0 0 76 176.97"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 140 A60 18 0 0 0 224 140"/>
+    <path d="M104 172 A60 18 0 0 0 224 172"/>
+    <path d="M36 64 A60 18 0 0 0 156 64"/>
+    <path d="M36 96 A60 18 0 0 0 91.47 113.95"/>
+    <path d="M36 128 A60 18 0 0 0 76 144.97"/>
+  </g>
+</svg>

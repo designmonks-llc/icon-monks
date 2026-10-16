@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="compress,collapse,horizontal,merge,contract">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 216"/>
+    <path d="M32 128 L92 128"/>
+    <path d="M60 96 L92 128 L60 160"/>
+    <path d="M224 128 L164 128"/>
+    <path d="M196 160 L164 128 L196 96"/>
+  </g>
+</svg>

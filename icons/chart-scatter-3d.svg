@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart scatter 3d,chart,graph,analytics,scatter">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 156 L100 40"/>
+    <path d="M100 156 L220 156"/>
+    <path d="M100 156 L44 212"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="144" cy="108" r="16"/>
+    <circle cx="192" cy="72" r="16"/>
+    <circle cx="188" cy="120" r="16"/>
+    <circle cx="160" cy="200" r="16"/>
+  </g>
+</svg>

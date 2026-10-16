@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,pin,pinned,shopping,cart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M127.08 160 L84 160 L65 80 L216 80 L203.01 123.3 A64 64 0 0 0 127.08 160 Z"/>
+    <path d="M198.61 147.04 L219.15 164.28 L208.83 170.62 L196.52 185.29 L194.95 213.98 L153.87 179.51 L181.85 172.98 L194.16 158.31 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 40 L56 40 L84 160 L127.08 160"/>
+    <path d="M203.01 123.3 L216 80 L65 80"/>
+    <circle cx="96" cy="204" r="16"/>
+    <path d="M198.61 147.04 L219.15 164.28 L208.83 170.62 L196.52 185.29 L194.95 213.98 L153.87 179.51 L181.85 172.98 L194.16 158.31 Z"/>
+    <path d="M174.41 196.74 L152.25 223.15"/>
+  </g>
+</svg>

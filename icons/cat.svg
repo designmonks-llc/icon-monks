@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="cat,pet,kitten,animal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 120 L56 40 L104 72 H152 L200 40 L192 120 C196 176 164 208 128 208 C92 208 60 176 64 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 120 L56 40 L104 72 H152 L200 40 L192 120 C196 176 164 208 128 208 C92 208 60 176 64 120 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 164 C114 176 124 176 128 166 C132 176 142 176 148 164"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="130" r="14"/>
+    <circle cx="156" cy="130" r="14"/>
+  </g>
+</svg>

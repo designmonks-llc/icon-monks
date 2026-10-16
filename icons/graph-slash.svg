@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="graph,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="68" cy="68" r="24"/>
+    <circle cx="188" cy="92" r="20"/>
+    <circle cx="96" cy="188" r="24"/>
+    <circle cx="196" cy="196" r="16"/>
+    <path d="M91.53 72.71 L168.39 88.08"/>
+    <path d="M73.45 91.37 L90.55 164.63"/>
+    <path d="M174.16 106.44 L112.61 170.67"/>
+    <path d="M189.53 111.94 L194.77 180.05"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

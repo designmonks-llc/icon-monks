@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="corner,arrow,turn,right,up">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 208 L128 208 A40 40 0 0 0 168 168 L168 48"/>
+    <path d="M132 84 L168 48 L204 84"/>
+    <path d="M132 136 L168 100 L204 136"/>
+  </g>
+</svg>

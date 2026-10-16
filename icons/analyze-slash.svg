@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="analysis off,disabled,chart">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="112" r="72"/>
+    <path d="M76 132 L100 108 L120 124 L148 92"/>
+    <path d="M48 48 L216 216"/>
+  </g>
+</svg>

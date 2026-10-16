@@ -1,9 +1,8 @@
 # Icon Monks
 
-An open source icon family by Design Monks: **497 original icons × 6 weights** (thin, light, regular, bold, fill,
+An open source icon family by Design Monks: **1,041 original icons × 6 weights** (thin, light, regular, bold, fill,
 duotone), drawn on a 256-unit grid and generated into native packages for every major platform.
-Icons are grouped into 22 categories: arrows, interface, editor, files, development, charts, communication, people, media,
-devices, commerce, business, maps, weather, nature, health, design, objects, time, food, sports and security.
+Icons are grouped into 25 categories: animals, arrows, business, charts, commerce, communication, design, development, devices, editor, files, food, health, interface, letters & numbers, maps, media, nature, objects, people, security, sports, symbols, time, weather.
 
 | Platform | Package | Folder |
 | --- | --- | --- |

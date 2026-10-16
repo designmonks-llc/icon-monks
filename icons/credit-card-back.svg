@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="card back,cvv,magnetic stripe,credit card">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="24" y="56" width="208" height="144" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="24" y="56" width="208" height="144" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 88 L232 88"/>
+    <path d="M24 124 L232 124"/>
+    <path d="M56 164 L136 164"/>
+    <path d="M168 164 L192 164"/>
+  </g>
+</svg>

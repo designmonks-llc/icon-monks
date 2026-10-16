@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="decline,graph,decrease,trend,falling">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+    <path d="M72 88 L112 136 L152 104 L208 168"/>
+    <path d="M209.86 140.06 L208 168 L180.06 166.14"/>
+  </g>
+</svg>

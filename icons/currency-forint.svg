@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency forint,currency,money,forint,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 48 H64 V208"/>
+    <path d="M64 124 L112 124"/>
+    <path d="M168 64 V180 A28 28 0 0 0 196 208 H204"/>
+    <path d="M140 112 L204 112"/>
+  </g>
+</svg>

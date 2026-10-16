@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="pie slice,share,segment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 144 L112 72 A72 72 0 1 0 184 144 Z"/>
+    <path d="M148 108 L220 108 A72 72 0 0 0 148 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 144 L112 72 A72 72 0 1 0 184 144 Z"/>
+    <path d="M148 108 L220 108 A72 72 0 0 0 148 36 Z"/>
+  </g>
+</svg>

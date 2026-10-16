@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrow roundabout right,arrow,direction,roundabout,right">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 216 L96 157.96 A56 56 0 1 1 160 157.96 L160 216"/>
+    <path d="M130 186 L160 216 L190 186"/>
+  </g>
+</svg>

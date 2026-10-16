@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat circle,share,send,message,conversation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M133.24 215.99 A92 92 0 0 1 97.54 209.3 L40 216 L52.33 170 A92 92 0 1 1 222.88 138.3 A60 60 0 0 0 133.24 215.99 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133.24 215.99 A92 92 0 0 1 97.54 209.3 L40 216 L52.33 170 A92 92 0 1 1 222.88 138.3"/>
+    <path d="M156 212 V200 A24 24 0 0 1 180 176 H212"/>
+    <path d="M192 156 L212 176 L192 196"/>
+  </g>
+</svg>

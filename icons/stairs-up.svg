@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="upstairs,stairs,climb,up">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 208 L32 168 L80 168 L80 128 L128 128 L128 88 L176 88 L176 48 L224 48 L224 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 208 L32 168 L80 168 L80 128 L128 128 L128 88 L176 88 L176 48 L224 48 L224 208 Z"/>
+    <path d="M40 116 L100 56"/>
+    <path d="M49.09 56 L100 56 L100 106.91"/>
+  </g>
+</svg>

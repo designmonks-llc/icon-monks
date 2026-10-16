@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="government,capitol,civic,building">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 96 A44 44 0 0 1 172 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 52"/>
+    <path d="M84 96 A44 44 0 0 1 172 96"/>
+    <path d="M40 96 L216 96"/>
+    <path d="M72 128 L72 176"/>
+    <path d="M109 128 L109 176"/>
+    <path d="M147 128 L147 176"/>
+    <path d="M184 128 L184 176"/>
+    <path d="M32 208 L224 208"/>
+  </g>
+</svg>

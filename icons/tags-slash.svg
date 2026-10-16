@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="tags,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 52 L102.4 52 L179.2 128.8 L108.8 199.2 L32 122.4 Z"/>
+    <path d="M132.74 37.66 L223.89 128.8 L139.14 213.54"/>
+    <circle cx="70.4" cy="90.4" r="14"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

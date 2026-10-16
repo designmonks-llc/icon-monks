@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="building,office,verified,check">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V132.42 A54 54 0 0 0 140.5 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V132.42"/>
+    <path d="M32 216 L140.5 216"/>
+    <path d="M156 186 L176 206 L212 166"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 72 L112 72"/>
+    <path d="M144 72 L168 72"/>
+    <path d="M88 108 L112 108"/>
+    <path d="M144 108 L168 108"/>
+    <path d="M88 144 L112 144"/>
+  </g>
+</svg>

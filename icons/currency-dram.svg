@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency dram,currency,money,dram,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 140 V100 A56 56 0 0 0 84 100 V216"/>
+    <path d="M52 152 L124 152"/>
+    <path d="M52 188 L124 188"/>
+  </g>
+</svg>

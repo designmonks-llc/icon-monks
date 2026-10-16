@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,help,unknown,question,shopping">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M125.77 160 L84 160 L65 80 L216 80 L204.57 118.11 A66 66 0 0 0 125.77 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 40 L56 40 L84 160 L125.77 160"/>
+    <path d="M204.57 118.11 L216 80 L65 80"/>
+    <circle cx="96" cy="204" r="16"/>
+    <path d="M170 164 A18 18 0 1 1 199.57 177.79 C192 182 188 184 188 190 V192"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="188" cy="220" r="13"/>
+  </g>
+</svg>

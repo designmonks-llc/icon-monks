@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="bat,halloween,night,animal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 91.6 L144 60.4 L150 94.2 C168 91.6 196 76 224 55.2 Q194 96.8 202 159.2 Q184 122.8 160 148.8 Q144 154 140 185.2 Q128 206 116 185.2 Q112 154 96 148.8 Q72 122.8 54 159.2 Q62 96.8 32 55.2 C60 76 88 91.6 106 94.2 L112 60.4 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 91.6 L144 60.4 L150 94.2 C168 91.6 196 76 224 55.2 Q194 96.8 202 159.2 Q184 122.8 160 148.8 Q144 154 140 185.2 Q128 206 116 185.2 Q112 154 96 148.8 Q72 122.8 54 159.2 Q62 96.8 32 55.2 C60 76 88 91.6 106 94.2 L112 60.4 Z"/>
+  </g>
+</svg>

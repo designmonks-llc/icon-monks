@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="block arrow,right,end">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 160 L40 96 L96 96 L96 48 L176 128 L96 208 L96 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 160 L40 96 L96 96 L96 48 L176 128 L96 208 L96 160 Z"/>
+    <path d="M216 208 L216 48"/>
+  </g>
+</svg>

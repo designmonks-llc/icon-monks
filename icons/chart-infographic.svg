@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart infographic,chart,graph,analytics,infographic">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="84" cy="84" r="52"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="84" cy="84" r="52"/>
+    <path d="M180 208 L180 128"/>
+    <path d="M216 208 L216 72"/>
+    <path d="M40 168 L120 168"/>
+    <path d="M40 208 L96 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 32 L84 84 L136 84"/>
+  </g>
+</svg>

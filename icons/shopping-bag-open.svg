@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="open bag,shopping,purchase">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 L208 112 L200 216 L56 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 L208 112 L200 216 L56 216 Z"/>
+    <path d="M48 112 L80 72 L176 72 L208 112"/>
+    <path d="M96 72 V64 A32 32 0 0 1 160 64 V72"/>
+  </g>
+</svg>

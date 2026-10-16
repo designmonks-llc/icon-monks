@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency zloty,currency,money,zloty,commerce">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 112 L120 112 L56 208 L120 208"/>
+    <path d="M176 40 L176 208"/>
+    <path d="M152 140 L200 108"/>
+  </g>
+</svg>
