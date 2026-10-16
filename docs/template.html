@@ -28,7 +28,10 @@
   --saffron: #f5a53a; --saffron-soft: #3a2a14; --grid: #24284a; color-scheme: dark;
 }
 * { box-sizing: border-box; }
-body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
+[hidden] { display: none !important; }
+a { color: inherit; }
+.eyebrow a { color: var(--saffron); text-underline-offset: 3px; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
 .wrap { max-width: 1240px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 header.top { padding-block: 40px 24px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: end; }
@@ -95,7 +98,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var
 
 <header class="wrap top">
   <div>
-    <div class="eyebrow">Open source · MIT · by Design Monks</div>
+    <div class="eyebrow">Open source · MIT · by Design Monks · <a href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">GitHub</a></div>
     <h1>Icon Monks</h1>
     <p class="lede">A flexible icon family drawn on a 256-unit grid, in six weights, with native packages for React, Vue, Web Components, icon fonts, Flutter, Android and Apple platforms.</p>
   </div>

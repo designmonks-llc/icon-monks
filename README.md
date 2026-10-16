@@ -14,7 +14,7 @@ duotone), drawn on a 256-unit grid and generated into native packages for every 
 | Android (Compose + VectorDrawable) | `com.designmonks:icon-monks` | [packages/android](packages/android) |
 | iOS / macOS / tvOS / watchOS (SwiftUI + UIKit) | Swift Package `IconMonks` | [packages/swift](packages/swift) |
 
-Open [docs/index.html](docs/index.html) to browse, search and copy icons.
+Browse, search and copy icons at **https://designmonks.github.io/icon-monks/** (built from `docs/template.html` into `index.html`).
 
 ```jsx
 import { House, Heart } from '@icon-monks/react';
@@ -40,7 +40,7 @@ path that renders identically in browsers, fonts, Android and Xcode. `scripts/pa
 ```sh
 pip install skia-pathops fonttools brotli
 npm install
-npm run build   # svg/, packages/*, docs/index.html
+npm run build   # svg/, packages/*, index.html
 npm test        # package tests (React SSR, Vue SSR, core)
 node tests/browser.mjs   # renders the web component, fonts and sprites in Chromium
 ```
@@ -49,7 +49,7 @@ node tests/browser.mjs   # renders the web component, fonts and sprites in Chrom
 
 1. Copy a similar file in `icons/` and draw inside the 32–224 live area on the 256 grid.
 2. Put strokes that should become knock-outs in the fill weight in the `detail` group, and the shape to fill in `area`.
-3. Add `data-category` and a few `data-tags` for search, run `npm run build`, and check the result in `docs/index.html`.
+3. Add `data-category` and a few `data-tags` for search, run `npm run build`, and check the result in `index.html`.
 
 Font codepoints are append-only (`codepoints.json`), so existing glyphs never move.
 
