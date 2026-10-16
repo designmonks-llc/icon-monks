@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="fork,version control,git,split">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="72" cy="56" r="24"/>
+    <circle cx="184" cy="56" r="24"/>
+    <circle cx="128" cy="200" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="56" r="24"/>
+    <circle cx="184" cy="56" r="24"/>
+    <circle cx="128" cy="200" r="24"/>
+    <path d="M72 80 V104 A24 24 0 0 0 96 128 H160 A24 24 0 0 0 184 104 V80"/>
+    <path d="M128 128 L128 176"/>
+  </g>
+</svg>

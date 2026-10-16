@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="desert,plant,succulent,nature,dry">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 216 V172 H54 A18 18 0 0 1 36 154 V100 A18 18 0 0 1 72 100 V136 H104 V64 A24 24 0 0 1 152 64 V100 H184 V76 A18 18 0 0 1 220 76 V118 A18 18 0 0 1 202 136 H152 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 216 V172 H54 A18 18 0 0 1 36 154 V100 A18 18 0 0 1 72 100 V136 H104 V64 A24 24 0 0 1 152 64 V100 H184 V76 A18 18 0 0 1 220 76 V118 A18 18 0 0 1 202 136 H152 V216 Z"/>
+    <path d="M64 216 L192 216"/>
+  </g>
+</svg>

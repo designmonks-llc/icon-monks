@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="cmd,mac,keyboard,shortcut,key">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 96 V64 A32 32 0 1 0 64 96 H192 A32 32 0 1 0 160 64 V192 A32 32 0 1 0 192 160 H64 A32 32 0 1 0 96 192 Z"/>
+  </g>
+</svg>

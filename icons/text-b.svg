@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="bold,strong,format,font,weight">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 40 H136 A44 44 0 0 1 136 128 H148 A44 44 0 0 1 148 216 H76 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M100 64 H136 A20 20 0 0 1 136 104 H100 Z"/>
+    <path d="M100 152 H148 A20 20 0 0 1 148 192 H100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 40 L76 216"/>
+    <path d="M76 40 H136 A44 44 0 0 1 136 128 H76"/>
+    <path d="M76 128 H148 A44 44 0 0 1 148 216 H76"/>
+  </g>
+</svg>

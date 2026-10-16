@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="transport,transit,public,vehicle,school">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="32" width="160" height="160" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="32" width="160" height="160" rx="20"/>
+    <path d="M72 192 V208 A8 8 0 0 0 80 216 H96 A8 8 0 0 0 104 208 V192"/>
+    <path d="M152 192 V208 A8 8 0 0 0 160 216 H176 A8 8 0 0 0 184 208 V192"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="64" width="112" height="56" rx="8"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="88" cy="156" r="16"/>
+    <circle cx="168" cy="156" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="braces,code,json,object,curly">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 40 H100 A20 20 0 0 0 80 60 V100 Q80 128 52 128 Q80 128 80 156 V196 A20 20 0 0 0 100 216 H108"/>
+    <path d="M148 40 H156 A20 20 0 0 1 176 60 V100 Q176 128 204 128 Q176 128 176 156 V196 A20 20 0 0 1 156 216 H148"/>
+  </g>
+</svg>

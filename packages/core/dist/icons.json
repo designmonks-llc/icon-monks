@@ -1,5 +1,181 @@
 [
  {
+  "name": "address-book",
+  "category": "People",
+  "tags": [
+   "contacts",
+   "directory",
+   "phonebook",
+   "people"
+  ]
+ },
+ {
+  "name": "airplane",
+  "category": "Maps",
+  "tags": [
+   "flight",
+   "travel",
+   "plane",
+   "airport",
+   "trip"
+  ]
+ },
+ {
+  "name": "alarm",
+  "category": "Time",
+  "tags": [
+   "alarm clock",
+   "wake",
+   "time",
+   "reminder",
+   "clock"
+  ]
+ },
+ {
+  "name": "alien",
+  "category": "People",
+  "tags": [
+   "ufo",
+   "extraterrestrial",
+   "space",
+   "martian",
+   "et"
+  ]
+ },
+ {
+  "name": "anchor",
+  "category": "Maps",
+  "tags": [
+   "marine",
+   "ship",
+   "harbor",
+   "sea",
+   "nautical"
+  ]
+ },
+ {
+  "name": "app-window",
+  "category": "Editor",
+  "tags": [
+   "window",
+   "application",
+   "program",
+   "desktop"
+  ]
+ },
+ {
+  "name": "apple",
+  "category": "Food",
+  "tags": [
+   "fruit",
+   "healthy",
+   "food",
+   "teacher",
+   "nutrition"
+  ]
+ },
+ {
+  "name": "archive",
+  "category": "Communication",
+  "tags": [
+   "box",
+   "storage",
+   "store",
+   "save"
+  ]
+ },
+ {
+  "name": "armchair",
+  "category": "Objects",
+  "tags": [
+   "chair",
+   "seat",
+   "furniture",
+   "sofa",
+   "lounge"
+  ]
+ },
+ {
+  "name": "arrow-bend-down-left",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "direction",
+   "bend",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-bend-down-right",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "direction",
+   "bend",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-bend-up-left",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "direction",
+   "bend",
+   "left"
+  ]
+ },
+ {
+  "name": "arrow-bend-up-right",
+  "category": "Arrows",
+  "tags": [
+   "turn",
+   "direction",
+   "bend",
+   "right"
+  ]
+ },
+ {
+  "name": "arrow-circle-down",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "down",
+   "circle",
+   "button"
+  ]
+ },
+ {
+  "name": "arrow-circle-left",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "left",
+   "circle",
+   "button"
+  ]
+ },
+ {
+  "name": "arrow-circle-right",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "right",
+   "circle",
+   "button"
+  ]
+ },
+ {
+  "name": "arrow-circle-up",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "up",
+   "circle",
+   "button"
+  ]
+ },
+ {
   "name": "arrow-clockwise",
   "category": "Arrows",
   "tags": [
@@ -29,12 +205,52 @@
   ]
  },
  {
+  "name": "arrow-down-left",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "diagonal",
+   "down left",
+   "pointer"
+  ]
+ },
+ {
+  "name": "arrow-down-right",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "diagonal",
+   "down right",
+   "pointer"
+  ]
+ },
+ {
   "name": "arrow-left",
   "category": "Arrows",
   "tags": [
    "direction",
    "left",
    "pointer"
+  ]
+ },
+ {
+  "name": "arrow-line-down",
+  "category": "Arrows",
+  "tags": [
+   "bottom",
+   "scroll down",
+   "download",
+   "last"
+  ]
+ },
+ {
+  "name": "arrow-line-up",
+  "category": "Arrows",
+  "tags": [
+   "top",
+   "scroll up",
+   "upload",
+   "first"
   ]
  },
  {
@@ -47,12 +263,271 @@
   ]
  },
  {
+  "name": "arrow-square-in",
+  "category": "Arrows",
+  "tags": [
+   "import",
+   "insert",
+   "embed",
+   "into"
+  ]
+ },
+ {
+  "name": "arrow-square-out",
+  "category": "Arrows",
+  "tags": [
+   "external link",
+   "open",
+   "new window",
+   "launch"
+  ]
+ },
+ {
+  "name": "arrow-u-up-left",
+  "category": "Arrows",
+  "tags": [
+   "undo",
+   "back",
+   "u-turn",
+   "return"
+  ]
+ },
+ {
+  "name": "arrow-u-up-right",
+  "category": "Arrows",
+  "tags": [
+   "redo",
+   "forward",
+   "u-turn",
+   "return"
+  ]
+ },
+ {
   "name": "arrow-up",
   "category": "Arrows",
   "tags": [
    "direction",
    "up",
    "pointer"
+  ]
+ },
+ {
+  "name": "arrow-up-left",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "diagonal",
+   "up left",
+   "pointer"
+  ]
+ },
+ {
+  "name": "arrow-up-right",
+  "category": "Arrows",
+  "tags": [
+   "direction",
+   "diagonal",
+   "up right",
+   "pointer"
+  ]
+ },
+ {
+  "name": "arrows-clockwise",
+  "category": "Arrows",
+  "tags": [
+   "sync",
+   "refresh",
+   "reload",
+   "update"
+  ]
+ },
+ {
+  "name": "arrows-down-up",
+  "category": "Arrows",
+  "tags": [
+   "sort",
+   "swap",
+   "exchange",
+   "vertical"
+  ]
+ },
+ {
+  "name": "arrows-in",
+  "category": "Arrows",
+  "tags": [
+   "collapse",
+   "shrink",
+   "minimize",
+   "reduce"
+  ]
+ },
+ {
+  "name": "arrows-left-right",
+  "category": "Arrows",
+  "tags": [
+   "swap",
+   "exchange",
+   "transfer",
+   "horizontal"
+  ]
+ },
+ {
+  "name": "arrows-out",
+  "category": "Arrows",
+  "tags": [
+   "expand",
+   "fullscreen",
+   "enlarge",
+   "maximize"
+  ]
+ },
+ {
+  "name": "arrows-out-cardinal",
+  "category": "Arrows",
+  "tags": [
+   "move",
+   "drag",
+   "pan",
+   "directions"
+  ]
+ },
+ {
+  "name": "article",
+  "category": "Editor",
+  "tags": [
+   "article",
+   "post",
+   "blog",
+   "document",
+   "news"
+  ]
+ },
+ {
+  "name": "asterisk",
+  "category": "Interface",
+  "tags": [
+   "required",
+   "star",
+   "wildcard",
+   "footnote"
+  ]
+ },
+ {
+  "name": "at",
+  "category": "Interface",
+  "tags": [
+   "email",
+   "mention",
+   "address",
+   "handle"
+  ]
+ },
+ {
+  "name": "atom",
+  "category": "Health",
+  "tags": [
+   "science",
+   "physics",
+   "nuclear",
+   "energy",
+   "react"
+  ]
+ },
+ {
+  "name": "baby",
+  "category": "People",
+  "tags": [
+   "infant",
+   "child",
+   "newborn",
+   "kid",
+   "toddler"
+  ]
+ },
+ {
+  "name": "backpack",
+  "category": "Business",
+  "tags": [
+   "bag",
+   "school",
+   "hiking",
+   "travel",
+   "rucksack"
+  ]
+ },
+ {
+  "name": "balloon",
+  "category": "Objects",
+  "tags": [
+   "party",
+   "birthday",
+   "celebrate",
+   "event"
+  ]
+ },
+ {
+  "name": "bandaids",
+  "category": "Health",
+  "tags": [
+   "bandage",
+   "first aid",
+   "injury",
+   "plaster",
+   "heal"
+  ]
+ },
+ {
+  "name": "bank",
+  "category": "Commerce",
+  "tags": [
+   "finance",
+   "institution",
+   "building",
+   "money",
+   "savings"
+  ]
+ },
+ {
+  "name": "barbell",
+  "category": "Sports",
+  "tags": [
+   "gym",
+   "fitness",
+   "weights",
+   "workout",
+   "exercise"
+  ]
+ },
+ {
+  "name": "barcode",
+  "category": "Devices",
+  "tags": [
+   "scan",
+   "product",
+   "price",
+   "upc"
+  ]
+ },
+ {
+  "name": "basket",
+  "category": "Commerce",
+  "tags": [
+   "shopping",
+   "groceries",
+   "buy",
+   "cart",
+   "store"
+  ]
+ },
+ {
+  "name": "basketball",
+  "category": "Sports",
+  "tags": [
+   "ball",
+   "sport",
+   "nba",
+   "game",
+   "hoops"
   ]
  },
  {
@@ -63,6 +538,47 @@
    "charge",
    "energy",
    "level"
+  ]
+ },
+ {
+  "name": "battery-charging",
+  "category": "Devices",
+  "tags": [
+   "charge",
+   "power",
+   "energy",
+   "plugged in"
+  ]
+ },
+ {
+  "name": "battery-empty",
+  "category": "Devices",
+  "tags": [
+   "low",
+   "power",
+   "dead",
+   "energy"
+  ]
+ },
+ {
+  "name": "battery-full",
+  "category": "Devices",
+  "tags": [
+   "charged",
+   "power",
+   "energy",
+   "level"
+  ]
+ },
+ {
+  "name": "bed",
+  "category": "Maps",
+  "tags": [
+   "sleep",
+   "hotel",
+   "bedroom",
+   "rest",
+   "accommodation"
   ]
  },
  {
@@ -86,12 +602,279 @@
   ]
  },
  {
+  "name": "bell-slash",
+  "category": "Interface",
+  "tags": [
+   "notification",
+   "mute",
+   "silent",
+   "off",
+   "disabled"
+  ]
+ },
+ {
+  "name": "bicycle",
+  "category": "Maps",
+  "tags": [
+   "bike",
+   "cycling",
+   "ride",
+   "transport",
+   "sport"
+  ]
+ },
+ {
+  "name": "binoculars",
+  "category": "Objects",
+  "tags": [
+   "search",
+   "explore",
+   "view",
+   "discover",
+   "zoom"
+  ]
+ },
+ {
+  "name": "bird",
+  "category": "Nature",
+  "tags": [
+   "animal",
+   "tweet",
+   "nature",
+   "wildlife",
+   "pet"
+  ]
+ },
+ {
+  "name": "bluetooth",
+  "category": "Devices",
+  "tags": [
+   "wireless",
+   "pairing",
+   "connect",
+   "signal"
+  ]
+ },
+ {
+  "name": "boat",
+  "category": "Maps",
+  "tags": [
+   "sailboat",
+   "ship",
+   "sea",
+   "sailing",
+   "marine"
+  ]
+ },
+ {
+  "name": "bone",
+  "category": "Health",
+  "tags": [
+   "dog",
+   "pet",
+   "skeleton",
+   "treat",
+   "orthopedic"
+  ]
+ },
+ {
+  "name": "book",
+  "category": "Files",
+  "tags": [
+   "read",
+   "library",
+   "education",
+   "novel"
+  ]
+ },
+ {
+  "name": "book-open",
+  "category": "Files",
+  "tags": [
+   "read",
+   "reading",
+   "learn",
+   "pages"
+  ]
+ },
+ {
   "name": "bookmark",
   "category": "Interface",
   "tags": [
    "save",
    "favorite",
    "read later"
+  ]
+ },
+ {
+  "name": "books",
+  "category": "Files",
+  "tags": [
+   "library",
+   "shelf",
+   "reading",
+   "education"
+  ]
+ },
+ {
+  "name": "bowl-food",
+  "category": "Food",
+  "tags": [
+   "soup",
+   "meal",
+   "ramen",
+   "hot",
+   "food"
+  ]
+ },
+ {
+  "name": "brackets-curly",
+  "category": "Editor",
+  "tags": [
+   "braces",
+   "code",
+   "json",
+   "object",
+   "curly"
+  ]
+ },
+ {
+  "name": "brackets-square",
+  "category": "Editor",
+  "tags": [
+   "brackets",
+   "array",
+   "code",
+   "square"
+  ]
+ },
+ {
+  "name": "brain",
+  "category": "People",
+  "tags": [
+   "mind",
+   "think",
+   "intelligence",
+   "smart",
+   "idea"
+  ]
+ },
+ {
+  "name": "briefcase",
+  "category": "Business",
+  "tags": [
+   "work",
+   "business",
+   "job",
+   "office",
+   "portfolio"
+  ]
+ },
+ {
+  "name": "broadcast",
+  "category": "Communication",
+  "tags": [
+   "radio",
+   "signal",
+   "stream",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "name": "browser",
+  "category": "Editor",
+  "tags": [
+   "web",
+   "website",
+   "internet",
+   "url",
+   "page"
+  ]
+ },
+ {
+  "name": "bug",
+  "category": "Development",
+  "tags": [
+   "debug",
+   "error",
+   "insect",
+   "issue"
+  ]
+ },
+ {
+  "name": "building-office",
+  "category": "Business",
+  "tags": [
+   "office",
+   "company",
+   "workplace",
+   "corporate",
+   "tower"
+  ]
+ },
+ {
+  "name": "buildings",
+  "category": "Business",
+  "tags": [
+   "city",
+   "office",
+   "company",
+   "urban",
+   "apartment"
+  ]
+ },
+ {
+  "name": "bus",
+  "category": "Maps",
+  "tags": [
+   "transport",
+   "transit",
+   "public",
+   "vehicle",
+   "school"
+  ]
+ },
+ {
+  "name": "butterfly",
+  "category": "Nature",
+  "tags": [
+   "insect",
+   "nature",
+   "spring",
+   "garden",
+   "wings"
+  ]
+ },
+ {
+  "name": "cactus",
+  "category": "Nature",
+  "tags": [
+   "desert",
+   "plant",
+   "succulent",
+   "nature",
+   "dry"
+  ]
+ },
+ {
+  "name": "cake",
+  "category": "Food",
+  "tags": [
+   "birthday",
+   "celebration",
+   "party",
+   "dessert"
+  ]
+ },
+ {
+  "name": "calculator",
+  "category": "Commerce",
+  "tags": [
+   "math",
+   "accounting",
+   "numbers",
+   "calculate"
   ]
  },
  {
@@ -105,6 +888,37 @@
   ]
  },
  {
+  "name": "calendar-check",
+  "category": "Time",
+  "tags": [
+   "date",
+   "scheduled",
+   "done",
+   "event",
+   "confirmed"
+  ]
+ },
+ {
+  "name": "calendar-plus",
+  "category": "Time",
+  "tags": [
+   "add event",
+   "new",
+   "schedule",
+   "date"
+  ]
+ },
+ {
+  "name": "calendar-x",
+  "category": "Time",
+  "tags": [
+   "cancel",
+   "remove event",
+   "date",
+   "unavailable"
+  ]
+ },
+ {
   "name": "camera",
   "category": "Media",
   "tags": [
@@ -112,6 +926,78 @@
    "picture",
    "snapshot",
    "lens"
+  ]
+ },
+ {
+  "name": "car",
+  "category": "Maps",
+  "tags": [
+   "vehicle",
+   "auto",
+   "drive",
+   "transport",
+   "automobile"
+  ]
+ },
+ {
+  "name": "cards",
+  "category": "Editor",
+  "tags": [
+   "cards",
+   "stack",
+   "deck",
+   "collection",
+   "carousel"
+  ]
+ },
+ {
+  "name": "caret-circle-down",
+  "category": "Arrows",
+  "tags": [
+   "chevron",
+   "dropdown",
+   "expand",
+   "down"
+  ]
+ },
+ {
+  "name": "caret-double-down",
+  "category": "Arrows",
+  "tags": [
+   "chevrons",
+   "direction",
+   "down",
+   "skip"
+  ]
+ },
+ {
+  "name": "caret-double-left",
+  "category": "Arrows",
+  "tags": [
+   "chevrons",
+   "direction",
+   "left",
+   "skip"
+  ]
+ },
+ {
+  "name": "caret-double-right",
+  "category": "Arrows",
+  "tags": [
+   "chevrons",
+   "direction",
+   "right",
+   "skip"
+  ]
+ },
+ {
+  "name": "caret-double-up",
+  "category": "Arrows",
+  "tags": [
+   "chevrons",
+   "direction",
+   "up",
+   "skip"
   ]
  },
  {
@@ -151,6 +1037,49 @@
   ]
  },
  {
+  "name": "caret-up-down",
+  "category": "Arrows",
+  "tags": [
+   "sort",
+   "select",
+   "dropdown",
+   "chevrons"
+  ]
+ },
+ {
+  "name": "cash-register",
+  "category": "Commerce",
+  "tags": [
+   "checkout",
+   "pos",
+   "till",
+   "sale",
+   "store"
+  ]
+ },
+ {
+  "name": "cell-signal-full",
+  "category": "Devices",
+  "tags": [
+   "signal",
+   "reception",
+   "bars",
+   "mobile",
+   "network"
+  ]
+ },
+ {
+  "name": "certificate",
+  "category": "Business",
+  "tags": [
+   "diploma",
+   "award",
+   "document",
+   "credential",
+   "license"
+  ]
+ },
+ {
   "name": "chart-bar",
   "category": "Files",
   "tags": [
@@ -158,6 +1087,36 @@
    "analytics",
    "statistics",
    "data"
+  ]
+ },
+ {
+  "name": "chart-donut",
+  "category": "Charts",
+  "tags": [
+   "graph",
+   "analytics",
+   "statistics",
+   "ring"
+  ]
+ },
+ {
+  "name": "chart-line",
+  "category": "Charts",
+  "tags": [
+   "graph",
+   "analytics",
+   "statistics",
+   "trend"
+  ]
+ },
+ {
+  "name": "chart-pie",
+  "category": "Charts",
+  "tags": [
+   "graph",
+   "analytics",
+   "statistics",
+   "share"
   ]
  },
  {
@@ -171,6 +1130,27 @@
   ]
  },
  {
+  "name": "chat-circle",
+  "category": "Communication",
+  "tags": [
+   "message",
+   "comment",
+   "bubble",
+   "talk"
+  ]
+ },
+ {
+  "name": "chat-dots",
+  "category": "Communication",
+  "tags": [
+   "typing",
+   "message",
+   "comment",
+   "bubble",
+   "reply"
+  ]
+ },
+ {
   "name": "chat-text",
   "category": "Communication",
   "tags": [
@@ -178,6 +1158,17 @@
    "comment",
    "bubble",
    "conversation"
+  ]
+ },
+ {
+  "name": "chats",
+  "category": "Communication",
+  "tags": [
+   "messages",
+   "conversation",
+   "discussion",
+   "chat",
+   "reply"
   ]
  },
  {
@@ -201,6 +1192,68 @@
   ]
  },
  {
+  "name": "check-square",
+  "category": "Interface",
+  "tags": [
+   "checkbox",
+   "done",
+   "complete",
+   "checked",
+   "task"
+  ]
+ },
+ {
+  "name": "chess-knight",
+  "category": "Sports",
+  "tags": [
+   "chess",
+   "strategy",
+   "game",
+   "horse",
+   "board game"
+  ]
+ },
+ {
+  "name": "circle",
+  "category": "Interface",
+  "tags": [
+   "shape",
+   "round",
+   "dot",
+   "ring"
+  ]
+ },
+ {
+  "name": "circle-notch",
+  "category": "Interface",
+  "tags": [
+   "loading",
+   "progress",
+   "spinner",
+   "wait"
+  ]
+ },
+ {
+  "name": "clipboard",
+  "category": "Files",
+  "tags": [
+   "paste",
+   "copy",
+   "board",
+   "tasks"
+  ]
+ },
+ {
+  "name": "clipboard-text",
+  "category": "Files",
+  "tags": [
+   "paste",
+   "notes",
+   "list",
+   "report"
+  ]
+ },
+ {
   "name": "clock",
   "category": "Interface",
   "tags": [
@@ -221,6 +1274,112 @@
   ]
  },
  {
+  "name": "cloud-arrow-down",
+  "category": "Files",
+  "tags": [
+   "download",
+   "sync",
+   "storage",
+   "save"
+  ]
+ },
+ {
+  "name": "cloud-arrow-up",
+  "category": "Files",
+  "tags": [
+   "upload",
+   "sync",
+   "backup",
+   "storage"
+  ]
+ },
+ {
+  "name": "cloud-check",
+  "category": "Files",
+  "tags": [
+   "synced",
+   "saved",
+   "backup",
+   "done"
+  ]
+ },
+ {
+  "name": "cloud-fog",
+  "category": "Weather",
+  "tags": [
+   "fog",
+   "mist",
+   "haze",
+   "weather",
+   "foggy"
+  ]
+ },
+ {
+  "name": "cloud-lightning",
+  "category": "Weather",
+  "tags": [
+   "storm",
+   "thunder",
+   "weather",
+   "lightning",
+   "bolt"
+  ]
+ },
+ {
+  "name": "cloud-moon",
+  "category": "Weather",
+  "tags": [
+   "night",
+   "cloudy",
+   "weather",
+   "moon",
+   "forecast"
+  ]
+ },
+ {
+  "name": "cloud-rain",
+  "category": "Weather",
+  "tags": [
+   "rain",
+   "weather",
+   "shower",
+   "storm",
+   "wet"
+  ]
+ },
+ {
+  "name": "cloud-slash",
+  "category": "Files",
+  "tags": [
+   "offline",
+   "disconnected",
+   "no sync",
+   "unavailable"
+  ]
+ },
+ {
+  "name": "cloud-snow",
+  "category": "Weather",
+  "tags": [
+   "snow",
+   "weather",
+   "winter",
+   "cold",
+   "flurries"
+  ]
+ },
+ {
+  "name": "cloud-sun",
+  "category": "Weather",
+  "tags": [
+   "partly cloudy",
+   "weather",
+   "sun",
+   "cloud",
+   "forecast"
+  ]
+ },
+ {
   "name": "code",
   "category": "Development",
   "tags": [
@@ -228,6 +1387,17 @@
    "developer",
    "html",
    "brackets"
+  ]
+ },
+ {
+  "name": "code-block",
+  "category": "Editor",
+  "tags": [
+   "code",
+   "snippet",
+   "embed",
+   "developer",
+   "programming"
   ]
  },
  {
@@ -241,6 +1411,70 @@
   ]
  },
  {
+  "name": "coins",
+  "category": "Commerce",
+  "tags": [
+   "money",
+   "cash",
+   "change",
+   "currency",
+   "savings"
+  ]
+ },
+ {
+  "name": "columns",
+  "category": "Editor",
+  "tags": [
+   "columns",
+   "vertical",
+   "split",
+   "layout"
+  ]
+ },
+ {
+  "name": "command",
+  "category": "Interface",
+  "tags": [
+   "cmd",
+   "mac",
+   "keyboard",
+   "shortcut",
+   "key"
+  ]
+ },
+ {
+  "name": "compass",
+  "category": "Arrows",
+  "tags": [
+   "navigation",
+   "direction",
+   "explore",
+   "north"
+  ]
+ },
+ {
+  "name": "confetti",
+  "category": "Objects",
+  "tags": [
+   "party",
+   "celebrate",
+   "popper",
+   "congrats",
+   "tada"
+  ]
+ },
+ {
+  "name": "cookie",
+  "category": "Food",
+  "tags": [
+   "biscuit",
+   "snack",
+   "cookies",
+   "privacy",
+   "sweet"
+  ]
+ },
+ {
   "name": "copy",
   "category": "Interface",
   "tags": [
@@ -250,12 +1484,43 @@
   ]
  },
  {
+  "name": "corners-in",
+  "category": "Arrows",
+  "tags": [
+   "collapse",
+   "minimize",
+   "exit fullscreen",
+   "shrink"
+  ]
+ },
+ {
   "name": "corners-out",
   "category": "Arrows",
   "tags": [
    "fullscreen",
    "expand",
    "maximize"
+  ]
+ },
+ {
+  "name": "couch",
+  "category": "Objects",
+  "tags": [
+   "sofa",
+   "furniture",
+   "living room",
+   "seat",
+   "home"
+  ]
+ },
+ {
+  "name": "cpu",
+  "category": "Devices",
+  "tags": [
+   "processor",
+   "chip",
+   "hardware",
+   "computer"
   ]
  },
  {
@@ -269,6 +1534,38 @@
   ]
  },
  {
+  "name": "crop",
+  "category": "Design",
+  "tags": [
+   "crop",
+   "trim",
+   "cut",
+   "resize",
+   "frame"
+  ]
+ },
+ {
+  "name": "crosshair",
+  "category": "Arrows",
+  "tags": [
+   "aim",
+   "target",
+   "focus",
+   "precision"
+  ]
+ },
+ {
+  "name": "crown",
+  "category": "People",
+  "tags": [
+   "king",
+   "queen",
+   "royal",
+   "premium",
+   "winner"
+  ]
+ },
+ {
   "name": "cube",
   "category": "Files",
   "tags": [
@@ -276,6 +1573,28 @@
    "3d",
    "package",
    "product"
+  ]
+ },
+ {
+  "name": "currency-dollar",
+  "category": "Commerce",
+  "tags": [
+   "dollar",
+   "money",
+   "usd",
+   "price",
+   "cost"
+  ]
+ },
+ {
+  "name": "currency-euro",
+  "category": "Commerce",
+  "tags": [
+   "euro",
+   "money",
+   "eur",
+   "price",
+   "europe"
   ]
  },
  {
@@ -289,6 +1608,38 @@
   ]
  },
  {
+  "name": "cursor-click",
+  "category": "Editor",
+  "tags": [
+   "click",
+   "tap",
+   "select",
+   "pointer",
+   "mouse"
+  ]
+ },
+ {
+  "name": "cursor-text",
+  "category": "Editor",
+  "tags": [
+   "text cursor",
+   "i-beam",
+   "caret",
+   "type",
+   "input"
+  ]
+ },
+ {
+  "name": "database",
+  "category": "Devices",
+  "tags": [
+   "storage",
+   "data",
+   "sql",
+   "server"
+  ]
+ },
+ {
   "name": "device-mobile",
   "category": "Devices",
   "tags": [
@@ -299,12 +1650,117 @@
   ]
  },
  {
+  "name": "device-tablet",
+  "category": "Devices",
+  "tags": [
+   "ipad",
+   "tablet",
+   "screen",
+   "device"
+  ]
+ },
+ {
+  "name": "diamond",
+  "category": "Interface",
+  "tags": [
+   "shape",
+   "rhombus",
+   "gem",
+   "geometry"
+  ]
+ },
+ {
+  "name": "dice-five",
+  "category": "Sports",
+  "tags": [
+   "dice",
+   "game",
+   "random",
+   "luck",
+   "board game"
+  ]
+ },
+ {
+  "name": "disc",
+  "category": "Media",
+  "tags": [
+   "cd",
+   "dvd",
+   "album",
+   "record",
+   "vinyl"
+  ]
+ },
+ {
+  "name": "divide",
+  "category": "Interface",
+  "tags": [
+   "division",
+   "math",
+   "calculator",
+   "split"
+  ]
+ },
+ {
+  "name": "dna",
+  "category": "Health",
+  "tags": [
+   "genetics",
+   "helix",
+   "biology",
+   "science",
+   "gene"
+  ]
+ },
+ {
+  "name": "door",
+  "category": "Maps",
+  "tags": [
+   "entrance",
+   "exit",
+   "room",
+   "closed"
+  ]
+ },
+ {
+  "name": "door-open",
+  "category": "Maps",
+  "tags": [
+   "entrance",
+   "exit",
+   "enter",
+   "leave",
+   "open"
+  ]
+ },
+ {
+  "name": "dots-nine",
+  "category": "Interface",
+  "tags": [
+   "grid",
+   "apps",
+   "launcher",
+   "menu"
+  ]
+ },
+ {
   "name": "dots-three",
   "category": "Interface",
   "tags": [
    "more",
    "menu",
    "ellipsis",
+   "overflow"
+  ]
+ },
+ {
+  "name": "dots-three-vertical",
+  "category": "Interface",
+  "tags": [
+   "more",
+   "menu",
+   "kebab",
+   "options",
    "overflow"
   ]
  },
@@ -329,6 +1785,49 @@
   ]
  },
  {
+  "name": "ear",
+  "category": "People",
+  "tags": [
+   "hearing",
+   "listen",
+   "audio",
+   "sound",
+   "deaf"
+  ]
+ },
+ {
+  "name": "egg",
+  "category": "Nature",
+  "tags": [
+   "easter",
+   "food",
+   "breakfast",
+   "nature",
+   "birth"
+  ]
+ },
+ {
+  "name": "eject",
+  "category": "Media",
+  "tags": [
+   "remove",
+   "disc",
+   "open",
+   "unmount"
+  ]
+ },
+ {
+  "name": "elevator",
+  "category": "Maps",
+  "tags": [
+   "lift",
+   "floor",
+   "up",
+   "down",
+   "building"
+  ]
+ },
+ {
   "name": "envelope",
   "category": "Communication",
   "tags": [
@@ -336,6 +1835,48 @@
    "mail",
    "message",
    "inbox"
+  ]
+ },
+ {
+  "name": "envelope-open",
+  "category": "Communication",
+  "tags": [
+   "email",
+   "mail",
+   "read",
+   "opened",
+   "message"
+  ]
+ },
+ {
+  "name": "equals",
+  "category": "Interface",
+  "tags": [
+   "equal",
+   "math",
+   "same",
+   "calculator"
+  ]
+ },
+ {
+  "name": "eraser",
+  "category": "Design",
+  "tags": [
+   "erase",
+   "delete",
+   "remove",
+   "clear",
+   "rubber"
+  ]
+ },
+ {
+  "name": "export",
+  "category": "Arrows",
+  "tags": [
+   "share",
+   "send",
+   "upload",
+   "out"
   ]
  },
  {
@@ -350,6 +1891,58 @@
   ]
  },
  {
+  "name": "eye-slash",
+  "category": "Interface",
+  "tags": [
+   "hide",
+   "hidden",
+   "invisible",
+   "private",
+   "password"
+  ]
+ },
+ {
+  "name": "eyedropper",
+  "category": "Design",
+  "tags": [
+   "color picker",
+   "pipette",
+   "sample",
+   "dropper"
+  ]
+ },
+ {
+  "name": "factory",
+  "category": "Business",
+  "tags": [
+   "industry",
+   "manufacturing",
+   "plant",
+   "production"
+  ]
+ },
+ {
+  "name": "fast-forward",
+  "category": "Media",
+  "tags": [
+   "skip",
+   "forward",
+   "speed",
+   "seek"
+  ]
+ },
+ {
+  "name": "feather",
+  "category": "Nature",
+  "tags": [
+   "quill",
+   "light",
+   "write",
+   "bird",
+   "soft"
+  ]
+ },
+ {
   "name": "file",
   "category": "Files",
   "tags": [
@@ -357,6 +1950,77 @@
    "page",
    "paper",
    "blank"
+  ]
+ },
+ {
+  "name": "file-audio",
+  "category": "Files",
+  "tags": [
+   "music",
+   "sound",
+   "mp3",
+   "document"
+  ]
+ },
+ {
+  "name": "file-code",
+  "category": "Files",
+  "tags": [
+   "source",
+   "script",
+   "programming",
+   "document"
+  ]
+ },
+ {
+  "name": "file-image",
+  "category": "Files",
+  "tags": [
+   "photo",
+   "picture",
+   "jpg",
+   "png",
+   "document"
+  ]
+ },
+ {
+  "name": "file-lock",
+  "category": "Files",
+  "tags": [
+   "secure",
+   "private",
+   "protected",
+   "document"
+  ]
+ },
+ {
+  "name": "file-minus",
+  "category": "Files",
+  "tags": [
+   "remove",
+   "delete",
+   "document",
+   "subtract"
+  ]
+ },
+ {
+  "name": "file-plus",
+  "category": "Files",
+  "tags": [
+   "new file",
+   "add",
+   "create",
+   "document"
+  ]
+ },
+ {
+  "name": "file-search",
+  "category": "Files",
+  "tags": [
+   "find",
+   "lookup",
+   "document",
+   "search"
   ]
  },
  {
@@ -370,6 +2034,111 @@
   ]
  },
  {
+  "name": "file-video",
+  "category": "Files",
+  "tags": [
+   "movie",
+   "film",
+   "mp4",
+   "document"
+  ]
+ },
+ {
+  "name": "file-zip",
+  "category": "Files",
+  "tags": [
+   "archive",
+   "compressed",
+   "zip",
+   "package"
+  ]
+ },
+ {
+  "name": "files",
+  "category": "Files",
+  "tags": [
+   "documents",
+   "pages",
+   "copy",
+   "duplicate"
+  ]
+ },
+ {
+  "name": "film-slate",
+  "category": "Media",
+  "tags": [
+   "clapperboard",
+   "movie",
+   "action",
+   "cinema",
+   "production"
+  ]
+ },
+ {
+  "name": "film-strip",
+  "category": "Media",
+  "tags": [
+   "movie",
+   "video",
+   "cinema",
+   "reel"
+  ]
+ },
+ {
+  "name": "fingerprint",
+  "category": "Devices",
+  "tags": [
+   "biometric",
+   "touch id",
+   "identity",
+   "security"
+  ]
+ },
+ {
+  "name": "fire",
+  "category": "Nature",
+  "tags": [
+   "flame",
+   "hot",
+   "burn",
+   "trending",
+   "heat"
+  ]
+ },
+ {
+  "name": "first-aid",
+  "category": "Health",
+  "tags": [
+   "medical",
+   "health",
+   "hospital",
+   "cross",
+   "emergency"
+  ]
+ },
+ {
+  "name": "first-aid-kit",
+  "category": "Health",
+  "tags": [
+   "medical",
+   "emergency",
+   "health",
+   "kit",
+   "doctor"
+  ]
+ },
+ {
+  "name": "fish",
+  "category": "Nature",
+  "tags": [
+   "animal",
+   "sea",
+   "seafood",
+   "fishing",
+   "aquarium"
+  ]
+ },
+ {
   "name": "flag",
   "category": "Maps",
   "tags": [
@@ -377,6 +2146,48 @@
    "milestone",
    "country",
    "goal"
+  ]
+ },
+ {
+  "name": "flashlight",
+  "category": "Objects",
+  "tags": [
+   "torch",
+   "light",
+   "beam",
+   "lamp"
+  ]
+ },
+ {
+  "name": "flask",
+  "category": "Health",
+  "tags": [
+   "science",
+   "lab",
+   "chemistry",
+   "experiment",
+   "beaker"
+  ]
+ },
+ {
+  "name": "floppy-disk",
+  "category": "Files",
+  "tags": [
+   "save",
+   "disk",
+   "storage",
+   "diskette"
+  ]
+ },
+ {
+  "name": "flower",
+  "category": "Nature",
+  "tags": [
+   "nature",
+   "garden",
+   "spring",
+   "bloom",
+   "plant"
   ]
  },
  {
@@ -390,12 +2201,126 @@
   ]
  },
  {
+  "name": "folder-lock",
+  "category": "Files",
+  "tags": [
+   "secure",
+   "private",
+   "protected",
+   "directory"
+  ]
+ },
+ {
+  "name": "folder-minus",
+  "category": "Files",
+  "tags": [
+   "remove",
+   "delete",
+   "directory"
+  ]
+ },
+ {
+  "name": "folder-open",
+  "category": "Files",
+  "tags": [
+   "directory",
+   "browse",
+   "open",
+   "files"
+  ]
+ },
+ {
+  "name": "folder-plus",
+  "category": "Files",
+  "tags": [
+   "new folder",
+   "add",
+   "create",
+   "directory"
+  ]
+ },
+ {
+  "name": "fork-knife",
+  "category": "Food",
+  "tags": [
+   "restaurant",
+   "dining",
+   "food",
+   "eat",
+   "cutlery"
+  ]
+ },
+ {
+  "name": "frame-corners",
+  "category": "Editor",
+  "tags": [
+   "frame",
+   "crop",
+   "focus",
+   "fit",
+   "artboard"
+  ]
+ },
+ {
+  "name": "function",
+  "category": "Editor",
+  "tags": [
+   "function",
+   "formula",
+   "math",
+   "fx",
+   "code"
+  ]
+ },
+ {
   "name": "funnel",
   "category": "Interface",
   "tags": [
    "filter",
    "sort",
    "refine"
+  ]
+ },
+ {
+  "name": "game-controller",
+  "category": "Devices",
+  "tags": [
+   "gaming",
+   "gamepad",
+   "console",
+   "play"
+  ]
+ },
+ {
+  "name": "gas-pump",
+  "category": "Maps",
+  "tags": [
+   "fuel",
+   "petrol",
+   "gas station",
+   "gasoline",
+   "diesel"
+  ]
+ },
+ {
+  "name": "gauge",
+  "category": "Charts",
+  "tags": [
+   "speed",
+   "meter",
+   "performance",
+   "dashboard"
+  ]
+ },
+ {
+  "name": "gavel",
+  "category": "Business",
+  "tags": [
+   "law",
+   "judge",
+   "auction",
+   "court",
+   "legal"
   ]
  },
  {
@@ -409,6 +2334,39 @@
   ]
  },
  {
+  "name": "gender-female",
+  "category": "People",
+  "tags": [
+   "female",
+   "woman",
+   "girl",
+   "venus",
+   "sex"
+  ]
+ },
+ {
+  "name": "gender-male",
+  "category": "People",
+  "tags": [
+   "male",
+   "man",
+   "boy",
+   "mars",
+   "sex"
+  ]
+ },
+ {
+  "name": "ghost",
+  "category": "People",
+  "tags": [
+   "halloween",
+   "spooky",
+   "boo",
+   "spirit",
+   "phantom"
+  ]
+ },
+ {
   "name": "gift",
   "category": "Commerce",
   "tags": [
@@ -416,6 +2374,66 @@
    "reward",
    "birthday",
    "surprise"
+  ]
+ },
+ {
+  "name": "git-branch",
+  "category": "Development",
+  "tags": [
+   "branch",
+   "version control",
+   "git",
+   "source"
+  ]
+ },
+ {
+  "name": "git-commit",
+  "category": "Development",
+  "tags": [
+   "commit",
+   "version control",
+   "git",
+   "history"
+  ]
+ },
+ {
+  "name": "git-fork",
+  "category": "Development",
+  "tags": [
+   "fork",
+   "version control",
+   "git",
+   "split"
+  ]
+ },
+ {
+  "name": "git-merge",
+  "category": "Development",
+  "tags": [
+   "merge",
+   "version control",
+   "git",
+   "combine"
+  ]
+ },
+ {
+  "name": "git-pull-request",
+  "category": "Development",
+  "tags": [
+   "pull request",
+   "review",
+   "git",
+   "merge request"
+  ]
+ },
+ {
+  "name": "glasses",
+  "category": "Objects",
+  "tags": [
+   "eyeglasses",
+   "spectacles",
+   "reading",
+   "vision"
   ]
  },
  {
@@ -430,6 +2448,143 @@
   ]
  },
  {
+  "name": "graduation-cap",
+  "category": "People",
+  "tags": [
+   "education",
+   "school",
+   "student",
+   "degree",
+   "university"
+  ]
+ },
+ {
+  "name": "graph",
+  "category": "Development",
+  "tags": [
+   "network",
+   "nodes",
+   "connections",
+   "diagram"
+  ]
+ },
+ {
+  "name": "hamburger",
+  "category": "Food",
+  "tags": [
+   "burger",
+   "fast food",
+   "food",
+   "sandwich"
+  ]
+ },
+ {
+  "name": "hammer",
+  "category": "Objects",
+  "tags": [
+   "tool",
+   "build",
+   "construction",
+   "repair"
+  ]
+ },
+ {
+  "name": "hand",
+  "category": "Editor",
+  "tags": [
+   "palm",
+   "stop",
+   "wave",
+   "hello",
+   "pan"
+  ]
+ },
+ {
+  "name": "hand-coins",
+  "category": "Commerce",
+  "tags": [
+   "payment",
+   "donate",
+   "pay",
+   "salary",
+   "tip"
+  ]
+ },
+ {
+  "name": "hand-grabbing",
+  "category": "Editor",
+  "tags": [
+   "grab",
+   "drag",
+   "fist",
+   "move",
+   "grip"
+  ]
+ },
+ {
+  "name": "hand-pointing",
+  "category": "Editor",
+  "tags": [
+   "point",
+   "click",
+   "tap",
+   "finger",
+   "link"
+  ]
+ },
+ {
+  "name": "hand-waving",
+  "category": "People",
+  "tags": [
+   "hello",
+   "hi",
+   "wave",
+   "greeting",
+   "goodbye"
+  ]
+ },
+ {
+  "name": "handbag",
+  "category": "Business",
+  "tags": [
+   "purse",
+   "bag",
+   "fashion",
+   "accessory"
+  ]
+ },
+ {
+  "name": "handshake",
+  "category": "People",
+  "tags": [
+   "deal",
+   "agreement",
+   "partnership",
+   "welcome",
+   "trust"
+  ]
+ },
+ {
+  "name": "hard-drive",
+  "category": "Devices",
+  "tags": [
+   "storage",
+   "disk",
+   "hdd",
+   "ssd"
+  ]
+ },
+ {
+  "name": "hard-drives",
+  "category": "Devices",
+  "tags": [
+   "server",
+   "storage",
+   "rack",
+   "disks"
+  ]
+ },
+ {
   "name": "hash",
   "category": "Interface",
   "tags": [
@@ -437,6 +2592,26 @@
    "number",
    "channel",
    "tag"
+  ]
+ },
+ {
+  "name": "headphones",
+  "category": "Media",
+  "tags": [
+   "audio",
+   "music",
+   "listen",
+   "earphones"
+  ]
+ },
+ {
+  "name": "headset",
+  "category": "Media",
+  "tags": [
+   "support",
+   "call center",
+   "gaming",
+   "microphone"
   ]
  },
  {
@@ -450,6 +2625,60 @@
   ]
  },
  {
+  "name": "heart-break",
+  "category": "Interface",
+  "tags": [
+   "heartbreak",
+   "broken",
+   "sad",
+   "breakup",
+   "dislike"
+  ]
+ },
+ {
+  "name": "heartbeat",
+  "category": "Health",
+  "tags": [
+   "pulse",
+   "health",
+   "cardio",
+   "heart rate",
+   "vital"
+  ]
+ },
+ {
+  "name": "hexagon",
+  "category": "Interface",
+  "tags": [
+   "shape",
+   "polygon",
+   "honeycomb",
+   "geometry"
+  ]
+ },
+ {
+  "name": "hospital",
+  "category": "Maps",
+  "tags": [
+   "medical",
+   "clinic",
+   "health",
+   "emergency",
+   "building"
+  ]
+ },
+ {
+  "name": "hourglass",
+  "category": "Time",
+  "tags": [
+   "time",
+   "wait",
+   "loading",
+   "sand",
+   "timer"
+  ]
+ },
+ {
   "name": "house",
   "category": "Maps",
   "tags": [
@@ -457,6 +2686,28 @@
    "building",
    "residence",
    "main"
+  ]
+ },
+ {
+  "name": "ice-cream",
+  "category": "Food",
+  "tags": [
+   "dessert",
+   "cone",
+   "sweet",
+   "summer",
+   "gelato"
+  ]
+ },
+ {
+  "name": "identification-card",
+  "category": "People",
+  "tags": [
+   "id",
+   "badge",
+   "license",
+   "identity",
+   "passport"
   ]
  },
  {
@@ -470,6 +2721,16 @@
   ]
  },
  {
+  "name": "infinity",
+  "category": "Interface",
+  "tags": [
+   "forever",
+   "loop",
+   "unlimited",
+   "endless"
+  ]
+ },
+ {
   "name": "info",
   "category": "Interface",
   "tags": [
@@ -477,6 +2738,27 @@
    "help",
    "about",
    "details"
+  ]
+ },
+ {
+  "name": "joystick",
+  "category": "Devices",
+  "tags": [
+   "gaming",
+   "arcade",
+   "controller",
+   "stick"
+  ]
+ },
+ {
+  "name": "kanban",
+  "category": "Editor",
+  "tags": [
+   "board",
+   "tasks",
+   "columns",
+   "project",
+   "trello"
   ]
  },
  {
@@ -490,6 +2772,26 @@
   ]
  },
  {
+  "name": "keyboard",
+  "category": "Devices",
+  "tags": [
+   "typing",
+   "keys",
+   "input",
+   "type"
+  ]
+ },
+ {
+  "name": "lamp",
+  "category": "Objects",
+  "tags": [
+   "light",
+   "desk lamp",
+   "home",
+   "furniture"
+  ]
+ },
+ {
   "name": "laptop",
   "category": "Devices",
   "tags": [
@@ -497,6 +2799,39 @@
    "notebook",
    "macbook",
    "device"
+  ]
+ },
+ {
+  "name": "layout",
+  "category": "Editor",
+  "tags": [
+   "layout",
+   "wireframe",
+   "template",
+   "grid",
+   "blocks"
+  ]
+ },
+ {
+  "name": "leaf",
+  "category": "Nature",
+  "tags": [
+   "nature",
+   "eco",
+   "green",
+   "plant",
+   "organic"
+  ]
+ },
+ {
+  "name": "lifebuoy",
+  "category": "Objects",
+  "tags": [
+   "help",
+   "support",
+   "rescue",
+   "lifesaver",
+   "ring"
   ]
  },
  {
@@ -531,6 +2866,16 @@
   ]
  },
  {
+  "name": "link-break",
+  "category": "Interface",
+  "tags": [
+   "unlink",
+   "broken link",
+   "disconnect",
+   "detach"
+  ]
+ },
+ {
   "name": "list",
   "category": "Interface",
   "tags": [
@@ -548,6 +2893,38 @@
    "items",
    "todo",
    "unordered"
+  ]
+ },
+ {
+  "name": "list-checks",
+  "category": "Editor",
+  "tags": [
+   "checklist",
+   "todo",
+   "tasks",
+   "list",
+   "done"
+  ]
+ },
+ {
+  "name": "list-dashes",
+  "category": "Editor",
+  "tags": [
+   "list",
+   "unordered",
+   "items",
+   "dashes"
+  ]
+ },
+ {
+  "name": "list-numbers",
+  "category": "Editor",
+  "tags": [
+   "ordered",
+   "numbered",
+   "list",
+   "steps",
+   "ol"
   ]
  },
  {
@@ -571,6 +2948,27 @@
   ]
  },
  {
+  "name": "magic-wand",
+  "category": "Design",
+  "tags": [
+   "magic",
+   "wizard",
+   "auto",
+   "enhance",
+   "ai"
+  ]
+ },
+ {
+  "name": "magnet",
+  "category": "Objects",
+  "tags": [
+   "magnetic",
+   "attract",
+   "pull",
+   "physics"
+  ]
+ },
+ {
   "name": "magnifying-glass",
   "category": "Interface",
   "tags": [
@@ -578,6 +2976,26 @@
    "find",
    "zoom",
    "lookup"
+  ]
+ },
+ {
+  "name": "magnifying-glass-minus",
+  "category": "Interface",
+  "tags": [
+   "zoom out",
+   "reduce",
+   "shrink",
+   "search"
+  ]
+ },
+ {
+  "name": "magnifying-glass-plus",
+  "category": "Interface",
+  "tags": [
+   "zoom in",
+   "magnify",
+   "enlarge",
+   "search"
   ]
  },
  {
@@ -591,6 +3009,39 @@
   ]
  },
  {
+  "name": "map-trifold",
+  "category": "Maps",
+  "tags": [
+   "map",
+   "navigation",
+   "directions",
+   "atlas",
+   "travel"
+  ]
+ },
+ {
+  "name": "medal",
+  "category": "Business",
+  "tags": [
+   "award",
+   "prize",
+   "winner",
+   "badge",
+   "achievement"
+  ]
+ },
+ {
+  "name": "megaphone",
+  "category": "Communication",
+  "tags": [
+   "announcement",
+   "loudspeaker",
+   "marketing",
+   "promote",
+   "bullhorn"
+  ]
+ },
+ {
   "name": "microphone",
   "category": "Media",
   "tags": [
@@ -601,11 +3052,63 @@
   ]
  },
  {
+  "name": "microphone-slash",
+  "category": "Media",
+  "tags": [
+   "mute",
+   "mic off",
+   "silent",
+   "voice"
+  ]
+ },
+ {
+  "name": "microscope",
+  "category": "Health",
+  "tags": [
+   "science",
+   "lab",
+   "research",
+   "biology",
+   "magnify"
+  ]
+ },
+ {
   "name": "minus",
   "category": "Interface",
   "tags": [
    "subtract",
    "remove"
+  ]
+ },
+ {
+  "name": "minus-circle",
+  "category": "Interface",
+  "tags": [
+   "remove",
+   "subtract",
+   "delete",
+   "collapse"
+  ]
+ },
+ {
+  "name": "minus-square",
+  "category": "Interface",
+  "tags": [
+   "remove",
+   "subtract",
+   "collapse",
+   "delete"
+  ]
+ },
+ {
+  "name": "money",
+  "category": "Commerce",
+  "tags": [
+   "cash",
+   "banknote",
+   "bill",
+   "payment",
+   "currency"
   ]
  },
  {
@@ -629,6 +3132,49 @@
   ]
  },
  {
+  "name": "moon-stars",
+  "category": "Weather",
+  "tags": [
+   "night",
+   "sleep",
+   "evening",
+   "stars",
+   "dark"
+  ]
+ },
+ {
+  "name": "motorcycle",
+  "category": "Maps",
+  "tags": [
+   "motorbike",
+   "bike",
+   "ride",
+   "vehicle",
+   "scooter"
+  ]
+ },
+ {
+  "name": "mountains",
+  "category": "Maps",
+  "tags": [
+   "landscape",
+   "hiking",
+   "peak",
+   "nature",
+   "outdoors"
+  ]
+ },
+ {
+  "name": "mouse",
+  "category": "Devices",
+  "tags": [
+   "click",
+   "pointer",
+   "input",
+   "scroll"
+  ]
+ },
+ {
   "name": "music-note",
   "category": "Media",
   "tags": [
@@ -636,6 +3182,120 @@
    "song",
    "audio",
    "melody"
+  ]
+ },
+ {
+  "name": "music-notes",
+  "category": "Media",
+  "tags": [
+   "music",
+   "song",
+   "audio",
+   "melody"
+  ]
+ },
+ {
+  "name": "navigation-arrow",
+  "category": "Arrows",
+  "tags": [
+   "navigation",
+   "location",
+   "gps",
+   "direction"
+  ]
+ },
+ {
+  "name": "newspaper",
+  "category": "Files",
+  "tags": [
+   "news",
+   "article",
+   "press",
+   "blog"
+  ]
+ },
+ {
+  "name": "note",
+  "category": "Files",
+  "tags": [
+   "sticky",
+   "memo",
+   "post-it",
+   "reminder"
+  ]
+ },
+ {
+  "name": "notebook",
+  "category": "Files",
+  "tags": [
+   "journal",
+   "diary",
+   "notes",
+   "notepad"
+  ]
+ },
+ {
+  "name": "notepad",
+  "category": "Editor",
+  "tags": [
+   "notes",
+   "memo",
+   "notebook",
+   "jot",
+   "pad"
+  ]
+ },
+ {
+  "name": "octagon",
+  "category": "Interface",
+  "tags": [
+   "shape",
+   "polygon",
+   "stop",
+   "geometry"
+  ]
+ },
+ {
+  "name": "package",
+  "category": "Commerce",
+  "tags": [
+   "box",
+   "parcel",
+   "shipping",
+   "delivery",
+   "order"
+  ]
+ },
+ {
+  "name": "paint-brush",
+  "category": "Design",
+  "tags": [
+   "brush",
+   "paint",
+   "art",
+   "draw",
+   "style"
+  ]
+ },
+ {
+  "name": "paint-bucket",
+  "category": "Design",
+  "tags": [
+   "fill",
+   "bucket",
+   "paint",
+   "color"
+  ]
+ },
+ {
+  "name": "palette",
+  "category": "Design",
+  "tags": [
+   "colors",
+   "paint",
+   "art",
+   "theme",
+   "design"
   ]
  },
  {
@@ -649,6 +3309,38 @@
   ]
  },
  {
+  "name": "paperclip",
+  "category": "Interface",
+  "tags": [
+   "attachment",
+   "attach",
+   "clip",
+   "file"
+  ]
+ },
+ {
+  "name": "paragraph",
+  "category": "Editor",
+  "tags": [
+   "pilcrow",
+   "paragraph",
+   "text",
+   "format",
+   "section"
+  ]
+ },
+ {
+  "name": "path",
+  "category": "Maps",
+  "tags": [
+   "route",
+   "journey",
+   "road",
+   "trail",
+   "directions"
+  ]
+ },
+ {
   "name": "pause",
   "category": "Media",
   "tags": [
@@ -656,6 +3348,38 @@
    "hold",
    "video",
    "music"
+  ]
+ },
+ {
+  "name": "pause-circle",
+  "category": "Media",
+  "tags": [
+   "hold",
+   "video",
+   "music",
+   "break"
+  ]
+ },
+ {
+  "name": "paw-print",
+  "category": "Nature",
+  "tags": [
+   "pet",
+   "dog",
+   "cat",
+   "animal",
+   "paw"
+  ]
+ },
+ {
+  "name": "pen-nib",
+  "category": "Design",
+  "tags": [
+   "pen",
+   "vector",
+   "bezier",
+   "write",
+   "design"
   ]
  },
  {
@@ -669,6 +3393,132 @@
   ]
  },
  {
+  "name": "percent",
+  "category": "Interface",
+  "tags": [
+   "percentage",
+   "discount",
+   "math",
+   "sale"
+  ]
+ },
+ {
+  "name": "person",
+  "category": "People",
+  "tags": [
+   "human",
+   "man",
+   "woman",
+   "body",
+   "figure"
+  ]
+ },
+ {
+  "name": "phone",
+  "category": "Communication",
+  "tags": [
+   "call",
+   "telephone",
+   "contact",
+   "dial",
+   "handset"
+  ]
+ },
+ {
+  "name": "phone-call",
+  "category": "Communication",
+  "tags": [
+   "calling",
+   "ringing",
+   "telephone",
+   "contact"
+  ]
+ },
+ {
+  "name": "phone-incoming",
+  "category": "Communication",
+  "tags": [
+   "call",
+   "received",
+   "inbound",
+   "answer"
+  ]
+ },
+ {
+  "name": "phone-outgoing",
+  "category": "Communication",
+  "tags": [
+   "call",
+   "dial",
+   "outbound",
+   "calling"
+  ]
+ },
+ {
+  "name": "phone-x",
+  "category": "Communication",
+  "tags": [
+   "missed",
+   "hang up",
+   "declined",
+   "end call"
+  ]
+ },
+ {
+  "name": "piggy-bank",
+  "category": "Commerce",
+  "tags": [
+   "savings",
+   "money",
+   "piggy",
+   "deposit",
+   "budget"
+  ]
+ },
+ {
+  "name": "pill",
+  "category": "Health",
+  "tags": [
+   "medicine",
+   "drug",
+   "capsule",
+   "pharmacy",
+   "tablet"
+  ]
+ },
+ {
+  "name": "pizza",
+  "category": "Food",
+  "tags": [
+   "food",
+   "slice",
+   "fast food",
+   "italian"
+  ]
+ },
+ {
+  "name": "planet",
+  "category": "Nature",
+  "tags": [
+   "space",
+   "saturn",
+   "astronomy",
+   "orbit",
+   "universe"
+  ]
+ },
+ {
+  "name": "plant",
+  "category": "Nature",
+  "tags": [
+   "sprout",
+   "seedling",
+   "grow",
+   "nature",
+   "eco"
+  ]
+ },
+ {
   "name": "play",
   "category": "Media",
   "tags": [
@@ -676,6 +3526,36 @@
    "video",
    "music",
    "resume"
+  ]
+ },
+ {
+  "name": "play-circle",
+  "category": "Media",
+  "tags": [
+   "start",
+   "video",
+   "music",
+   "resume"
+  ]
+ },
+ {
+  "name": "playlist",
+  "category": "Media",
+  "tags": [
+   "queue",
+   "music",
+   "list",
+   "songs"
+  ]
+ },
+ {
+  "name": "plug",
+  "category": "Devices",
+  "tags": [
+   "power",
+   "electricity",
+   "socket",
+   "connect"
   ]
  },
  {
@@ -697,6 +3577,16 @@
   ]
  },
  {
+  "name": "plus-square",
+  "category": "Interface",
+  "tags": [
+   "add",
+   "create",
+   "new",
+   "expand"
+  ]
+ },
+ {
   "name": "power",
   "category": "Interface",
   "tags": [
@@ -707,6 +3597,78 @@
   ]
  },
  {
+  "name": "presentation-chart",
+  "category": "Charts",
+  "tags": [
+   "presentation",
+   "slides",
+   "meeting",
+   "board"
+  ]
+ },
+ {
+  "name": "printer",
+  "category": "Devices",
+  "tags": [
+   "print",
+   "paper",
+   "document",
+   "office"
+  ]
+ },
+ {
+  "name": "prohibit",
+  "category": "Interface",
+  "tags": [
+   "forbidden",
+   "blocked",
+   "ban",
+   "not allowed",
+   "no"
+  ]
+ },
+ {
+  "name": "pulse",
+  "category": "Charts",
+  "tags": [
+   "heartbeat",
+   "activity",
+   "health",
+   "monitor"
+  ]
+ },
+ {
+  "name": "push-pin",
+  "category": "Interface",
+  "tags": [
+   "pin",
+   "tack",
+   "attach",
+   "sticky",
+   "keep"
+  ]
+ },
+ {
+  "name": "puzzle-piece",
+  "category": "Development",
+  "tags": [
+   "plugin",
+   "extension",
+   "addon",
+   "integration"
+  ]
+ },
+ {
+  "name": "qr-code",
+  "category": "Devices",
+  "tags": [
+   "scan",
+   "code",
+   "link",
+   "barcode"
+  ]
+ },
+ {
   "name": "question",
   "category": "Interface",
   "tags": [
@@ -714,6 +3676,256 @@
    "faq",
    "support",
    "unknown"
+  ]
+ },
+ {
+  "name": "quotes",
+  "category": "Editor",
+  "tags": [
+   "quote",
+   "quotation",
+   "blockquote",
+   "citation",
+   "testimonial"
+  ]
+ },
+ {
+  "name": "radio",
+  "category": "Media",
+  "tags": [
+   "fm",
+   "broadcast",
+   "music",
+   "tuner"
+  ]
+ },
+ {
+  "name": "radio-button",
+  "category": "Interface",
+  "tags": [
+   "radio",
+   "option",
+   "select",
+   "choice",
+   "form"
+  ]
+ },
+ {
+  "name": "rainbow",
+  "category": "Weather",
+  "tags": [
+   "weather",
+   "arc",
+   "colors",
+   "pride",
+   "spectrum"
+  ]
+ },
+ {
+  "name": "receipt",
+  "category": "Commerce",
+  "tags": [
+   "invoice",
+   "bill",
+   "purchase",
+   "transaction"
+  ]
+ },
+ {
+  "name": "record",
+  "category": "Media",
+  "tags": [
+   "rec",
+   "capture",
+   "live",
+   "recording"
+  ]
+ },
+ {
+  "name": "repeat",
+  "category": "Arrows",
+  "tags": [
+   "loop",
+   "replay",
+   "cycle",
+   "music"
+  ]
+ },
+ {
+  "name": "repeat-once",
+  "category": "Arrows",
+  "tags": [
+   "loop once",
+   "replay",
+   "repeat one",
+   "music"
+  ]
+ },
+ {
+  "name": "rewind",
+  "category": "Media",
+  "tags": [
+   "back",
+   "reverse",
+   "seek",
+   "replay"
+  ]
+ },
+ {
+  "name": "robot",
+  "category": "People",
+  "tags": [
+   "bot",
+   "ai",
+   "android",
+   "machine",
+   "automation"
+  ]
+ },
+ {
+  "name": "rocket",
+  "category": "Maps",
+  "tags": [
+   "launch",
+   "space",
+   "startup",
+   "spaceship",
+   "boost"
+  ]
+ },
+ {
+  "name": "router",
+  "category": "Devices",
+  "tags": [
+   "wifi",
+   "network",
+   "modem",
+   "internet"
+  ]
+ },
+ {
+  "name": "rows",
+  "category": "Editor",
+  "tags": [
+   "rows",
+   "horizontal",
+   "stack",
+   "layout",
+   "split"
+  ]
+ },
+ {
+  "name": "rss",
+  "category": "Communication",
+  "tags": [
+   "feed",
+   "subscribe",
+   "news",
+   "blog",
+   "podcast"
+  ]
+ },
+ {
+  "name": "ruler",
+  "category": "Design",
+  "tags": [
+   "measure",
+   "length",
+   "scale",
+   "size"
+  ]
+ },
+ {
+  "name": "scales",
+  "category": "Business",
+  "tags": [
+   "justice",
+   "law",
+   "balance",
+   "legal",
+   "weigh"
+  ]
+ },
+ {
+  "name": "scan",
+  "category": "Devices",
+  "tags": [
+   "scanner",
+   "capture",
+   "focus",
+   "frame"
+  ]
+ },
+ {
+  "name": "scissors",
+  "category": "Design",
+  "tags": [
+   "cut",
+   "snip",
+   "trim",
+   "clip"
+  ]
+ },
+ {
+  "name": "screencast",
+  "category": "Devices",
+  "tags": [
+   "cast",
+   "airplay",
+   "mirror",
+   "stream"
+  ]
+ },
+ {
+  "name": "screwdriver",
+  "category": "Objects",
+  "tags": [
+   "tool",
+   "repair",
+   "fix",
+   "settings"
+  ]
+ },
+ {
+  "name": "sd-card",
+  "category": "Devices",
+  "tags": [
+   "memory",
+   "storage",
+   "camera",
+   "card"
+  ]
+ },
+ {
+  "name": "seal-check",
+  "category": "Interface",
+  "tags": [
+   "verified",
+   "badge",
+   "certified",
+   "approved",
+   "official"
+  ]
+ },
+ {
+  "name": "seal-warning",
+  "category": "Interface",
+  "tags": [
+   "badge",
+   "alert",
+   "unverified",
+   "warning"
+  ]
+ },
+ {
+  "name": "selection",
+  "category": "Interface",
+  "tags": [
+   "select",
+   "marquee",
+   "dashed",
+   "area",
+   "crop"
   ]
  },
  {
@@ -767,6 +3979,99 @@
   ]
  },
  {
+  "name": "shuffle",
+  "category": "Arrows",
+  "tags": [
+   "random",
+   "mix",
+   "music",
+   "playlist"
+  ]
+ },
+ {
+  "name": "sidebar",
+  "category": "Editor",
+  "tags": [
+   "panel",
+   "navigation",
+   "drawer",
+   "layout",
+   "menu"
+  ]
+ },
+ {
+  "name": "sign-in",
+  "category": "Arrows",
+  "tags": [
+   "login",
+   "enter",
+   "log in",
+   "account"
+  ]
+ },
+ {
+  "name": "sign-out",
+  "category": "Arrows",
+  "tags": [
+   "logout",
+   "exit",
+   "log out",
+   "leave"
+  ]
+ },
+ {
+  "name": "signpost",
+  "category": "Maps",
+  "tags": [
+   "direction",
+   "sign",
+   "way",
+   "navigation",
+   "crossroads"
+  ]
+ },
+ {
+  "name": "sim-card",
+  "category": "Devices",
+  "tags": [
+   "mobile",
+   "carrier",
+   "chip",
+   "cellular"
+  ]
+ },
+ {
+  "name": "skip-back",
+  "category": "Media",
+  "tags": [
+   "previous",
+   "track",
+   "back",
+   "music"
+  ]
+ },
+ {
+  "name": "skip-forward",
+  "category": "Media",
+  "tags": [
+   "next",
+   "track",
+   "forward",
+   "music"
+  ]
+ },
+ {
+  "name": "skull",
+  "category": "People",
+  "tags": [
+   "death",
+   "danger",
+   "poison",
+   "halloween",
+   "pirate"
+  ]
+ },
+ {
   "name": "sliders",
   "category": "Interface",
   "tags": [
@@ -784,6 +4089,69 @@
    "emoji",
    "happy",
    "smile"
+  ]
+ },
+ {
+  "name": "smiley-meh",
+  "category": "People",
+  "tags": [
+   "face",
+   "emoji",
+   "neutral",
+   "indifferent"
+  ]
+ },
+ {
+  "name": "smiley-sad",
+  "category": "People",
+  "tags": [
+   "face",
+   "emoji",
+   "sad",
+   "unhappy",
+   "frown"
+  ]
+ },
+ {
+  "name": "smiley-wink",
+  "category": "People",
+  "tags": [
+   "face",
+   "emoji",
+   "wink",
+   "playful"
+  ]
+ },
+ {
+  "name": "sneaker",
+  "category": "Objects",
+  "tags": [
+   "shoe",
+   "running",
+   "footwear",
+   "sport",
+   "fitness"
+  ]
+ },
+ {
+  "name": "snowflake",
+  "category": "Weather",
+  "tags": [
+   "snow",
+   "winter",
+   "cold",
+   "freeze",
+   "ice"
+  ]
+ },
+ {
+  "name": "soccer-ball",
+  "category": "Sports",
+  "tags": [
+   "football",
+   "sport",
+   "ball",
+   "game"
   ]
  },
  {
@@ -808,6 +4176,56 @@
   ]
  },
  {
+  "name": "speaker-low",
+  "category": "Media",
+  "tags": [
+   "volume",
+   "sound",
+   "audio",
+   "quiet"
+  ]
+ },
+ {
+  "name": "speaker-none",
+  "category": "Media",
+  "tags": [
+   "volume",
+   "sound",
+   "audio",
+   "silent"
+  ]
+ },
+ {
+  "name": "speaker-x",
+  "category": "Media",
+  "tags": [
+   "mute",
+   "volume off",
+   "silent",
+   "sound off"
+  ]
+ },
+ {
+  "name": "spinner",
+  "category": "Interface",
+  "tags": [
+   "loading",
+   "progress",
+   "wait",
+   "busy"
+  ]
+ },
+ {
+  "name": "square",
+  "category": "Interface",
+  "tags": [
+   "shape",
+   "box",
+   "checkbox",
+   "stop"
+  ]
+ },
+ {
   "name": "squares-four",
   "category": "Interface",
   "tags": [
@@ -828,6 +4246,17 @@
   ]
  },
  {
+  "name": "stairs",
+  "category": "Maps",
+  "tags": [
+   "steps",
+   "staircase",
+   "upstairs",
+   "floor",
+   "climb"
+  ]
+ },
+ {
   "name": "star",
   "category": "Interface",
   "tags": [
@@ -835,6 +4264,79 @@
    "rating",
    "bookmark",
    "like"
+  ]
+ },
+ {
+  "name": "star-half",
+  "category": "Interface",
+  "tags": [
+   "rating",
+   "review",
+   "half",
+   "score"
+  ]
+ },
+ {
+  "name": "stethoscope",
+  "category": "Health",
+  "tags": [
+   "doctor",
+   "medical",
+   "health",
+   "checkup",
+   "heartbeat"
+  ]
+ },
+ {
+  "name": "stop",
+  "category": "Media",
+  "tags": [
+   "end",
+   "halt",
+   "square",
+   "video"
+  ]
+ },
+ {
+  "name": "stop-circle",
+  "category": "Media",
+  "tags": [
+   "end",
+   "halt",
+   "video",
+   "music"
+  ]
+ },
+ {
+  "name": "stopwatch",
+  "category": "Time",
+  "tags": [
+   "timer",
+   "time",
+   "lap",
+   "speed",
+   "race"
+  ]
+ },
+ {
+  "name": "storefront",
+  "category": "Commerce",
+  "tags": [
+   "shop",
+   "store",
+   "market",
+   "retail",
+   "business"
+  ]
+ },
+ {
+  "name": "suitcase",
+  "category": "Business",
+  "tags": [
+   "luggage",
+   "travel",
+   "trip",
+   "baggage"
   ]
  },
  {
@@ -848,6 +4350,60 @@
   ]
  },
  {
+  "name": "sun-dim",
+  "category": "Weather",
+  "tags": [
+   "brightness",
+   "dim",
+   "low light",
+   "display"
+  ]
+ },
+ {
+  "name": "sun-horizon",
+  "category": "Weather",
+  "tags": [
+   "sunrise",
+   "sunset",
+   "dawn",
+   "dusk",
+   "evening"
+  ]
+ },
+ {
+  "name": "syringe",
+  "category": "Health",
+  "tags": [
+   "vaccine",
+   "injection",
+   "medical",
+   "needle",
+   "shot"
+  ]
+ },
+ {
+  "name": "t-shirt",
+  "category": "Objects",
+  "tags": [
+   "clothing",
+   "shirt",
+   "apparel",
+   "fashion",
+   "merch"
+  ]
+ },
+ {
+  "name": "table",
+  "category": "Editor",
+  "tags": [
+   "grid",
+   "spreadsheet",
+   "data",
+   "cells",
+   "rows"
+  ]
+ },
+ {
   "name": "tag",
   "category": "Commerce",
   "tags": [
@@ -855,6 +4411,46 @@
    "price",
    "sale",
    "discount"
+  ]
+ },
+ {
+  "name": "target",
+  "category": "Arrows",
+  "tags": [
+   "goal",
+   "aim",
+   "bullseye",
+   "focus"
+  ]
+ },
+ {
+  "name": "television",
+  "category": "Media",
+  "tags": [
+   "tv",
+   "screen",
+   "watch",
+   "broadcast"
+  ]
+ },
+ {
+  "name": "tennis-ball",
+  "category": "Sports",
+  "tags": [
+   "ball",
+   "sport",
+   "tennis",
+   "game"
+  ]
+ },
+ {
+  "name": "tent",
+  "category": "Maps",
+  "tags": [
+   "camping",
+   "outdoors",
+   "camp",
+   "shelter"
   ]
  },
  {
@@ -868,6 +4464,274 @@
   ]
  },
  {
+  "name": "test-tube",
+  "category": "Health",
+  "tags": [
+   "science",
+   "lab",
+   "chemistry",
+   "experiment",
+   "sample"
+  ]
+ },
+ {
+  "name": "text-align-center",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "center",
+   "middle",
+   "paragraph",
+   "format"
+  ]
+ },
+ {
+  "name": "text-align-justify",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "justify",
+   "paragraph",
+   "format",
+   "block"
+  ]
+ },
+ {
+  "name": "text-align-left",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "left",
+   "paragraph",
+   "format"
+  ]
+ },
+ {
+  "name": "text-align-right",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "right",
+   "paragraph",
+   "format"
+  ]
+ },
+ {
+  "name": "text-b",
+  "category": "Editor",
+  "tags": [
+   "bold",
+   "strong",
+   "format",
+   "font",
+   "weight"
+  ]
+ },
+ {
+  "name": "text-h",
+  "category": "Editor",
+  "tags": [
+   "heading",
+   "header",
+   "title",
+   "format",
+   "h1"
+  ]
+ },
+ {
+  "name": "text-indent",
+  "category": "Editor",
+  "tags": [
+   "indent",
+   "increase",
+   "tab",
+   "format",
+   "paragraph"
+  ]
+ },
+ {
+  "name": "text-italic",
+  "category": "Editor",
+  "tags": [
+   "italic",
+   "emphasis",
+   "slant",
+   "format",
+   "font"
+  ]
+ },
+ {
+  "name": "text-outdent",
+  "category": "Editor",
+  "tags": [
+   "outdent",
+   "decrease",
+   "unindent",
+   "format",
+   "paragraph"
+  ]
+ },
+ {
+  "name": "text-strikethrough",
+  "category": "Editor",
+  "tags": [
+   "strikethrough",
+   "strike",
+   "format",
+   "delete",
+   "font"
+  ]
+ },
+ {
+  "name": "text-t",
+  "category": "Editor",
+  "tags": [
+   "text",
+   "type",
+   "font",
+   "typography",
+   "letter"
+  ]
+ },
+ {
+  "name": "text-underline",
+  "category": "Editor",
+  "tags": [
+   "underline",
+   "format",
+   "font",
+   "style"
+  ]
+ },
+ {
+  "name": "thermometer",
+  "category": "Weather",
+  "tags": [
+   "temperature",
+   "heat",
+   "weather",
+   "fever",
+   "degrees"
+  ]
+ },
+ {
+  "name": "thumbs-down",
+  "category": "Interface",
+  "tags": [
+   "dislike",
+   "disapprove",
+   "bad",
+   "downvote"
+  ]
+ },
+ {
+  "name": "thumbs-up",
+  "category": "Interface",
+  "tags": [
+   "like",
+   "approve",
+   "agree",
+   "good",
+   "upvote"
+  ]
+ },
+ {
+  "name": "ticket",
+  "category": "Commerce",
+  "tags": [
+   "event",
+   "admission",
+   "pass",
+   "coupon",
+   "movie"
+  ]
+ },
+ {
+  "name": "timer",
+  "category": "Time",
+  "tags": [
+   "countdown",
+   "time",
+   "clock",
+   "duration"
+  ]
+ },
+ {
+  "name": "toggle-left",
+  "category": "Interface",
+  "tags": [
+   "switch",
+   "off",
+   "disabled",
+   "setting"
+  ]
+ },
+ {
+  "name": "toggle-right",
+  "category": "Interface",
+  "tags": [
+   "switch",
+   "on",
+   "enabled",
+   "setting"
+  ]
+ },
+ {
+  "name": "toolbox",
+  "category": "Objects",
+  "tags": [
+   "tools",
+   "kit",
+   "repair",
+   "box",
+   "case"
+  ]
+ },
+ {
+  "name": "tooth",
+  "category": "Health",
+  "tags": [
+   "dental",
+   "dentist",
+   "teeth",
+   "health",
+   "mouth"
+  ]
+ },
+ {
+  "name": "tornado",
+  "category": "Weather",
+  "tags": [
+   "storm",
+   "twister",
+   "cyclone",
+   "weather",
+   "hurricane"
+  ]
+ },
+ {
+  "name": "train",
+  "category": "Maps",
+  "tags": [
+   "railway",
+   "transit",
+   "subway",
+   "metro",
+   "transport"
+  ]
+ },
+ {
+  "name": "translate",
+  "category": "Editor",
+  "tags": [
+   "translate",
+   "language",
+   "localization",
+   "i18n",
+   "international"
+  ]
+ },
+ {
   "name": "trash",
   "category": "Interface",
   "tags": [
@@ -875,6 +4739,58 @@
    "remove",
    "bin",
    "garbage"
+  ]
+ },
+ {
+  "name": "tray",
+  "category": "Communication",
+  "tags": [
+   "inbox",
+   "mailbox",
+   "messages",
+   "incoming"
+  ]
+ },
+ {
+  "name": "tree",
+  "category": "Nature",
+  "tags": [
+   "nature",
+   "forest",
+   "park",
+   "plant",
+   "environment"
+  ]
+ },
+ {
+  "name": "tree-evergreen",
+  "category": "Nature",
+  "tags": [
+   "pine",
+   "christmas",
+   "forest",
+   "nature",
+   "fir"
+  ]
+ },
+ {
+  "name": "tree-structure",
+  "category": "Development",
+  "tags": [
+   "hierarchy",
+   "sitemap",
+   "org chart",
+   "structure"
+  ]
+ },
+ {
+  "name": "trend-down",
+  "category": "Arrows",
+  "tags": [
+   "chart",
+   "decline",
+   "decrease",
+   "loss"
   ]
  },
  {
@@ -888,6 +4804,49 @@
   ]
  },
  {
+  "name": "triangle",
+  "category": "Interface",
+  "tags": [
+   "shape",
+   "delta",
+   "pyramid",
+   "geometry"
+  ]
+ },
+ {
+  "name": "trophy",
+  "category": "Business",
+  "tags": [
+   "award",
+   "winner",
+   "prize",
+   "champion",
+   "achievement"
+  ]
+ },
+ {
+  "name": "truck",
+  "category": "Commerce",
+  "tags": [
+   "delivery",
+   "shipping",
+   "transport",
+   "lorry",
+   "vehicle"
+  ]
+ },
+ {
+  "name": "umbrella",
+  "category": "Weather",
+  "tags": [
+   "rain",
+   "protection",
+   "insurance",
+   "weather",
+   "cover"
+  ]
+ },
+ {
   "name": "upload",
   "category": "Files",
   "tags": [
@@ -895,6 +4854,16 @@
    "send",
    "publish",
    "arrow"
+  ]
+ },
+ {
+  "name": "usb",
+  "category": "Devices",
+  "tags": [
+   "port",
+   "cable",
+   "connector",
+   "flash drive"
   ]
  },
  {
@@ -908,6 +4877,60 @@
   ]
  },
  {
+  "name": "user-check",
+  "category": "People",
+  "tags": [
+   "verified",
+   "approved",
+   "friend",
+   "confirmed",
+   "member"
+  ]
+ },
+ {
+  "name": "user-circle",
+  "category": "People",
+  "tags": [
+   "account",
+   "profile",
+   "avatar",
+   "person",
+   "login"
+  ]
+ },
+ {
+  "name": "user-minus",
+  "category": "People",
+  "tags": [
+   "remove user",
+   "unfollow",
+   "delete contact",
+   "kick"
+  ]
+ },
+ {
+  "name": "user-plus",
+  "category": "People",
+  "tags": [
+   "add user",
+   "invite",
+   "new contact",
+   "follow",
+   "signup"
+  ]
+ },
+ {
+  "name": "user-square",
+  "category": "People",
+  "tags": [
+   "account",
+   "profile",
+   "avatar",
+   "person",
+   "contact"
+  ]
+ },
+ {
   "name": "users",
   "category": "People",
   "tags": [
@@ -915,6 +4938,60 @@
    "team",
    "group",
    "community"
+  ]
+ },
+ {
+  "name": "vault",
+  "category": "Commerce",
+  "tags": [
+   "safe",
+   "secure",
+   "bank",
+   "storage",
+   "lock"
+  ]
+ },
+ {
+  "name": "video-camera",
+  "category": "Media",
+  "tags": [
+   "video",
+   "record",
+   "camera",
+   "film",
+   "meeting"
+  ]
+ },
+ {
+  "name": "virus",
+  "category": "Health",
+  "tags": [
+   "bacteria",
+   "germ",
+   "covid",
+   "infection",
+   "disease"
+  ]
+ },
+ {
+  "name": "voicemail",
+  "category": "Communication",
+  "tags": [
+   "voice message",
+   "recording",
+   "answering machine",
+   "tape"
+  ]
+ },
+ {
+  "name": "wallet",
+  "category": "Commerce",
+  "tags": [
+   "money",
+   "purse",
+   "payment",
+   "cash",
+   "finance"
   ]
  },
  {
@@ -928,6 +5005,69 @@
   ]
  },
  {
+  "name": "warning-circle",
+  "category": "Interface",
+  "tags": [
+   "alert",
+   "error",
+   "exclamation",
+   "attention"
+  ]
+ },
+ {
+  "name": "warning-octagon",
+  "category": "Interface",
+  "tags": [
+   "alert",
+   "stop",
+   "error",
+   "danger",
+   "exclamation"
+  ]
+ },
+ {
+  "name": "watch",
+  "category": "Devices",
+  "tags": [
+   "wristwatch",
+   "time",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "waves",
+  "category": "Weather",
+  "tags": [
+   "water",
+   "ocean",
+   "sea",
+   "beach",
+   "swim"
+  ]
+ },
+ {
+  "name": "webcam",
+  "category": "Media",
+  "tags": [
+   "camera",
+   "video call",
+   "meeting",
+   "stream"
+  ]
+ },
+ {
+  "name": "wheelchair",
+  "category": "Maps",
+  "tags": [
+   "accessibility",
+   "disabled",
+   "handicap",
+   "accessible",
+   "mobility"
+  ]
+ },
+ {
   "name": "wifi",
   "category": "Devices",
   "tags": [
@@ -935,6 +5075,49 @@
    "internet",
    "network",
    "signal"
+  ]
+ },
+ {
+  "name": "wifi-slash",
+  "category": "Devices",
+  "tags": [
+   "offline",
+   "no internet",
+   "disconnected",
+   "wireless off"
+  ]
+ },
+ {
+  "name": "wind",
+  "category": "Weather",
+  "tags": [
+   "air",
+   "breeze",
+   "weather",
+   "blow",
+   "windy"
+  ]
+ },
+ {
+  "name": "wine",
+  "category": "Food",
+  "tags": [
+   "glass",
+   "drink",
+   "alcohol",
+   "bar",
+   "celebrate"
+  ]
+ },
+ {
+  "name": "wrench",
+  "category": "Objects",
+  "tags": [
+   "tool",
+   "settings",
+   "repair",
+   "fix",
+   "spanner"
   ]
  },
  {
@@ -955,6 +5138,16 @@
    "close",
    "cancel",
    "fail"
+  ]
+ },
+ {
+  "name": "x-square",
+  "category": "Interface",
+  "tags": [
+   "close",
+   "cancel",
+   "dismiss",
+   "error"
   ]
  }
 ]

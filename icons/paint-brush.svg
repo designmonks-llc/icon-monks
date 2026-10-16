@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="brush,paint,art,draw,style">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 88.4 L167.6 128 L113.86 181.74 C91.23 204.37 71.43 207.2 48.8 201.54 C45.98 176.08 57.29 159.11 74.26 142.14 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M187.4 45.98 A16 16 0 0 1 210.02 68.6 L159.11 119.51 L136.49 96.89 Z"/>
+    <path d="M128 88.4 L167.6 128 L113.86 181.74 C91.23 204.37 71.43 207.2 48.8 201.54 C45.98 176.08 57.29 159.11 74.26 142.14 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M99.72 116.69 L139.31 156.28"/>
+  </g>
+</svg>

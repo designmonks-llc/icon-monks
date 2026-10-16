@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="indent,increase,tab,format,paragraph">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 56 L216 56"/>
+    <path d="M120 104 L216 104"/>
+    <path d="M120 152 L216 152"/>
+    <path d="M40 200 L216 200"/>
+    <path d="M48 96 L80 128 L48 160"/>
+  </g>
+</svg>

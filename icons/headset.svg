@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="support,call center,gaming,microphone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="128" width="48" height="72" rx="16"/>
+    <rect x="168" y="128" width="48" height="72" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 160 V128 A88 88 0 0 1 216 128 V160"/>
+    <rect x="40" y="128" width="48" height="72" rx="16"/>
+    <rect x="168" y="128" width="48" height="72" rx="16"/>
+    <path d="M192 200 C192 216 176 216 152 216"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="136" cy="216" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="chart,decline,decrease,loss">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 L96 128 L136 88 L216 168"/>
+    <path d="M160 168 L216 168 L216 112"/>
+  </g>
+</svg>

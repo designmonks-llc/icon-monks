@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="expand,fullscreen,enlarge,maximize">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 100 L44 44"/>
+    <path d="M44 96 L44 44 L96 44"/>
+    <path d="M156 100 L212 44"/>
+    <path d="M160 44 L212 44 L212 96"/>
+    <path d="M156 156 L212 212"/>
+    <path d="M212 160 L212 212 L160 212"/>
+    <path d="M100 156 L44 212"/>
+    <path d="M96 212 L44 212 L44 160"/>
+  </g>
+</svg>

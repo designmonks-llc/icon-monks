@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="click,tap,select,pointer,mouse">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 88 L216 144 L160 160 L144 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 88 L216 144 L160 160 L144 216 Z"/>
+    <path d="M96 32 L96 56"/>
+    <path d="M32 88 L56 88"/>
+    <path d="M51 43 L68 60"/>
+    <path d="M141 43 L124 60"/>
+    <path d="M51 133 L68 116"/>
+  </g>
+</svg>

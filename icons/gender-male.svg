@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="male,man,boy,mars,sex">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="104" cy="152" r="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="104" cy="152" r="64"/>
+    <path d="M149.25 106.75 L216 40"/>
+    <path d="M160 40 L216 40 L216 96"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="radio,option,select,choice,form">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M52 128 A76 76 0 1 1 204 128 A76 76 0 1 1 52 128 Z M92 128 A36 36 0 1 0 164 128 A36 36 0 1 0 92 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="128" r="48"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="pine,christmas,forest,nature,fir">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L188 112 L160 112 L208 176 L48 176 L96 112 L68 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L188 112 L160 112 L208 176 L48 176 L96 112 L68 112 Z"/>
+    <path d="M128 176 L128 224"/>
+  </g>
+</svg>

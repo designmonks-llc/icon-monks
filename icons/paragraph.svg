@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="pilcrow,paragraph,text,format,section">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 40 H108 A44 44 0 0 0 108 128 H136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 40 H108 A44 44 0 0 0 108 128 H136"/>
+    <path d="M136 40 L136 216"/>
+    <path d="M184 40 L184 216"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="movie,video,cinema,reel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 48 L72 208"/>
+    <path d="M184 48 L184 208"/>
+    <path d="M32 88 L72 88"/>
+    <path d="M32 128 L72 128"/>
+    <path d="M32 168 L72 168"/>
+    <path d="M184 88 L224 88"/>
+    <path d="M184 128 L224 128"/>
+    <path d="M184 168 L224 168"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="checklist,todo,tasks,list,done">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 64 L216 64"/>
+    <path d="M120 128 L216 128"/>
+    <path d="M120 192 L216 192"/>
+    <path d="M36 64 L56 82 L88 46"/>
+    <path d="M36 128 L56 146 L88 110"/>
+    <path d="M36 192 L56 210 L88 174"/>
+  </g>
+</svg>

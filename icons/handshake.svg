@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="deal,agreement,partnership,welcome,trust">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 104 L112 76 H148 L188 100 V148 H180 V168 H156 V188 H132 V208 H116 L68 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 104 L112 76 H148 L188 100 V148 H180 V168 H156 V188 H132 V208 H116 L68 160 Z"/>
+    <path d="M32 100 L44 172"/>
+    <path d="M224 92 L212 164"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 148 L156 124"/>
+    <path d="M156 168 L128 140"/>
+    <path d="M132 188 L104 160"/>
+  </g>
+</svg>

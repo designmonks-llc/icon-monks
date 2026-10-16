@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="quill,light,write,bird,soft">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 176 C64 128 92 72 136 52 L148 72 L156 44 C176 38 196 36 216 40 C220 80 208 112 184 136 L152 132 L168 152 C144 176 108 188 80 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 176 C64 128 92 72 136 52 L148 72 L156 44 C176 38 196 36 216 40 C220 80 208 112 184 136 L152 132 L168 152 C144 176 108 188 80 176 Z"/>
+    <path d="M36 220 L80 176"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 176 L168 88"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="animal,sea,seafood,fishing,aquarium">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 128 C72 72 144 64 176 112 L216 80 V176 L176 144 C144 192 72 184 40 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 128 C72 72 144 64 176 112 L216 80 V176 L176 144 C144 192 72 184 40 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 108 C134 120 134 136 124 148"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="120" r="12"/>
+  </g>
+</svg>

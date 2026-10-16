@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="notes,memo,notebook,jot,pad">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="48" width="160" height="176" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="48" width="160" height="176" rx="14"/>
+    <path d="M88 32 L88 64"/>
+    <path d="M128 32 L128 64"/>
+    <path d="M168 32 L168 64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 112 L168 112"/>
+    <path d="M88 148 L168 148"/>
+    <path d="M88 184 L136 184"/>
+  </g>
+</svg>

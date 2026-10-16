@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="sunrise,sunset,dawn,dusk,evening">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 172 A64 64 0 0 1 192 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 172 A64 64 0 0 1 192 172"/>
+    <path d="M32 172 L224 172"/>
+    <path d="M88 208 L168 208"/>
+    <path d="M55.25 130 L37.93 120"/>
+    <path d="M86 99.25 L76 81.93"/>
+    <path d="M128 88 L128 68"/>
+    <path d="M170 99.25 L180 81.93"/>
+    <path d="M200.75 130 L218.07 120"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="railway,transit,subway,metro,transport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 168 V72 A40 40 0 0 1 96 32 H160 A40 40 0 0 1 200 72 V168 A16 16 0 0 1 184 184 H72 A16 16 0 0 1 56 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 168 V72 A40 40 0 0 1 96 32 H160 A40 40 0 0 1 200 72 V168 A16 16 0 0 1 184 184 H72 A16 16 0 0 1 56 168 Z"/>
+    <path d="M88 184 L64 224"/>
+    <path d="M168 184 L192 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="64" width="88" height="48" rx="8"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="92" cy="148" r="16"/>
+    <circle cx="164" cy="148" r="16"/>
+  </g>
+</svg>

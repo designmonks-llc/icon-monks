@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="dog,pet,skeleton,treat,orthopedic">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M 81.27 146.44 L 146.44 81.27 A 26 26 -45 1 1 188.71 67.29 A 26 26 -45 1 1 174.73 109.56 L 109.56 174.73 A 26 26 -45 1 1 67.29 188.71 A 26 26 -45 1 1 81.27 146.44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 81.27 146.44 L 146.44 81.27 A 26 26 -45 1 1 188.71 67.29 A 26 26 -45 1 1 174.73 109.56 L 109.56 174.73 A 26 26 -45 1 1 67.29 188.71 A 26 26 -45 1 1 81.27 146.44 Z"/>
+  </g>
+</svg>

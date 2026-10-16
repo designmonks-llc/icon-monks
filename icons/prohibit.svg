@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="forbidden,blocked,ban,not allowed,no">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M83.64 63.84 L192.16 172.36 A78 78 0 0 0 83.64 63.84 Z"/>
+    <path d="M63.84 83.64 L172.36 192.16 A78 78 0 0 1 63.84 83.64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M60.12 60.12 L195.88 195.88"/>
+  </g>
+</svg>

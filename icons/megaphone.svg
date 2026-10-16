@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="announcement,loudspeaker,marketing,promote,bullhorn">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 100 H104 L216 44 V212 L104 156 H56 A16 16 0 0 1 40 140 V116 A16 16 0 0 1 56 100 Z"/>
+    <path d="M72 156 L88 212 L116 212 L110 159 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 100 H104 L216 44 V212 L104 156 H56 A16 16 0 0 1 40 140 V116 A16 16 0 0 1 56 100 Z"/>
+    <path d="M72 156 L88 212 L116 212 L110 159"/>
+  </g>
+</svg>

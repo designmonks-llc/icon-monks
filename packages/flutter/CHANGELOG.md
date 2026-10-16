@@ -1,3 +1,3 @@
 ## 0.1.0
 
-- Initial release with 97 icons.
+- Initial release with 497 icons.

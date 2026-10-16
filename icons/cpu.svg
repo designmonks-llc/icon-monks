@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="processor,chip,hardware,computer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="64" width="128" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="64" width="128" height="128" rx="14"/>
+    <path d="M92 32 L92 64"/>
+    <path d="M92 192 L92 224"/>
+    <path d="M32 92 L64 92"/>
+    <path d="M192 92 L224 92"/>
+    <path d="M128 32 L128 64"/>
+    <path d="M128 192 L128 224"/>
+    <path d="M32 128 L64 128"/>
+    <path d="M192 128 L224 128"/>
+    <path d="M164 32 L164 64"/>
+    <path d="M164 192 L164 224"/>
+    <path d="M32 164 L64 164"/>
+    <path d="M192 164 L224 164"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="100" width="56" height="56" rx="6"/>
+  </g>
+</svg>

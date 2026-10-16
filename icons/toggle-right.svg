@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="switch,on,enabled,setting">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="64" width="192" height="128" rx="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="64" width="192" height="128" rx="64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="160" cy="128" r="32"/>
+  </g>
+</svg>

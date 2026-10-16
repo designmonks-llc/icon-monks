@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="text cursor,i-beam,caret,type,input">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 40 H108 A20 20 0 0 1 128 60 A20 20 0 0 1 148 40 H164"/>
+    <path d="M128 60 L128 196"/>
+    <path d="M92 216 H108 A20 20 0 0 0 128 196 A20 20 0 0 0 148 216 H164"/>
+    <path d="M104 128 L152 128"/>
+  </g>
+</svg>

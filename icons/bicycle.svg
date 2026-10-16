@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="bike,cycling,ride,transport,sport">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="68" cy="152" r="34"/>
+    <circle cx="188" cy="152" r="34"/>
+    <path d="M68 152 L108 96 L128 152 L68 152"/>
+    <path d="M108 96 L168 96 L128 152"/>
+    <path d="M188 152 L160 72 L184 72"/>
+    <path d="M108 96 L100 76"/>
+    <path d="M88 76 L116 76"/>
+  </g>
+</svg>

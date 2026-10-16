@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="required,star,wildcard,footnote">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 216"/>
+    <path d="M204.21 84 L51.79 172"/>
+    <path d="M204.21 172 L51.79 84"/>
+  </g>
+</svg>

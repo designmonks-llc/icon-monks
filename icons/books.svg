@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="library,shelf,reading,education">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="36" y="48" width="40" height="168" rx="8"/>
+    <rect x="76" y="32" width="44" height="184" rx="8"/>
+    <path d="M184.02 66.6 L222.84 76.28 L188 216 L149.19 206.32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="36" y="48" width="40" height="168" rx="8"/>
+    <rect x="76" y="32" width="44" height="184" rx="8"/>
+    <path d="M184.02 66.6 L222.84 76.28 L188 216 L149.19 206.32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 84 L76 84"/>
+    <path d="M76 68 L120 68"/>
+    <path d="M76 180 L120 180"/>
+  </g>
+</svg>

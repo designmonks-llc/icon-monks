@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="purse,bag,fashion,accessory">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 96 H192 L216 200 A12 12 0 0 1 204 216 H52 A12 12 0 0 1 40 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 96 H192 L216 200 A12 12 0 0 1 204 216 H52 A12 12 0 0 1 40 200 Z"/>
+    <path d="M80 96 A48 48 0 0 1 176 96"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="140" r="16"/>
+  </g>
+</svg>

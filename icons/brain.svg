@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="mind,think,intelligence,smart,idea">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 56 A32 32 0 0 0 72 64 A32 32 0 0 0 44 112 A32 32 0 0 0 52 164 A32 32 0 0 0 96 204 A32 32 0 0 0 128 200 Z"/>
+    <path d="M128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 204 164 A32 32 0 0 1 160 204 A32 32 0 0 1 128 200 Z"/>
+    <rect x="110" y="60" width="36" height="140"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 56 A32 32 0 0 0 72 64 A32 32 0 0 0 44 112 A32 32 0 0 0 52 164 A32 32 0 0 0 96 204 A32 32 0 0 0 128 200"/>
+    <path d="M128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 204 164 A32 32 0 0 1 160 204 A32 32 0 0 1 128 200"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 188"/>
+    <path d="M84 132 A28 28 0 0 1 100 104"/>
+    <path d="M172 132 A28 28 0 0 0 156 104"/>
+  </g>
+</svg>

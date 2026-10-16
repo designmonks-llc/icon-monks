@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="navigation,location,gps,direction">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 116 L208 48 L140 208 L120 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 116 L208 48 L140 208 L120 136 Z"/>
+  </g>
+</svg>

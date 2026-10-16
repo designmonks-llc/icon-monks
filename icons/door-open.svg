@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="entrance,exit,enter,leave,open">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 40 L144 56 L144 224 L64 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 216 V56 A16 16 0 0 1 80 40 H176 A16 16 0 0 1 192 56 V216"/>
+    <path d="M32 216 L224 216"/>
+    <path d="M64 40 L144 56 L144 224 L64 216 Z"/>
+  </g>
+</svg>

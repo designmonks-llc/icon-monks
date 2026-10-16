@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="party,celebrate,popper,congrats,tada">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 224 L80 100 L156 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 224 L80 100 L156 176 Z"/>
+    <path d="M144 104 C152 80 176 80 184 56"/>
+    <path d="M112 64 L120 40"/>
+    <path d="M176 128 L208 120"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="160" cy="40" r="12"/>
+    <circle cx="216" cy="72" r="12"/>
+    <circle cx="208" cy="176" r="12"/>
+  </g>
+</svg>

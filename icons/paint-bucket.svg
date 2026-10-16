@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="fill,bucket,paint,color">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 37.49 L194.51 128 L111.07 191.64 A16 16 0 0 1 88.44 191.64 L40.36 143.56 A16 16 0 0 1 40.36 120.93 Z"/>
+    <path d="M196 158.5 C188.5 168.5 176 183.5 176 196 A20 20 0 0 0 216 196 C216 183.5 203.5 168.5 196 158.5 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 37.49 L194.51 128 L111.07 191.64 A16 16 0 0 1 88.44 191.64 L40.36 143.56 A16 16 0 0 1 40.36 120.93 Z"/>
+    <path d="M104 37.49 A72 72 0 0 1 194.51 128"/>
+    <path d="M196 158.5 C188.5 168.5 176 183.5 176 196 A20 20 0 0 0 216 196 C216 183.5 203.5 168.5 196 158.5 Z"/>
+  </g>
+</svg>

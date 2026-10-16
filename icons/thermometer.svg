@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="temperature,heat,weather,fever,degrees">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 140 V68 A28 28 0 0 1 140 68 V140 A44 44 0 1 1 84 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 140 V68 A28 28 0 0 1 140 68 V140 A44 44 0 1 1 84 140 Z"/>
+    <path d="M176 64 L208 64"/>
+    <path d="M176 100 L208 100"/>
+    <path d="M176 136 L208 136"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 172 L112 104"/>
+  </g>
+</svg>

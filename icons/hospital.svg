@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="medical,clinic,health,emergency,building">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 216 V64 A16 16 0 0 1 64 48 H192 A16 16 0 0 1 208 64 V216 H148 V184 H108 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 V64 A16 16 0 0 1 64 48 H192 A16 16 0 0 1 208 64 V216"/>
+    <path d="M32 216 L224 216"/>
+    <path d="M108 216 V184 H148 V216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 88 L128 152"/>
+    <path d="M96 120 L160 120"/>
+  </g>
+</svg>

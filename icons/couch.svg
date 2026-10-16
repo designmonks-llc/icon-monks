@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sofa,furniture,living room,seat,home">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 128 V96 A24 24 0 0 1 80 72 H176 A24 24 0 0 1 200 96 V168 H56 Z"/>
+    <path d="M72 168 V148 A20 20 0 0 0 32 148 V200 H224 V148 A20 20 0 0 0 184 148 V168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 V96 A24 24 0 0 1 80 72 H176 A24 24 0 0 1 200 96 V128"/>
+    <path d="M72 168 V148 A20 20 0 0 0 32 148 V200 H224 V148 A20 20 0 0 0 184 148 V168 Z"/>
+    <path d="M48 200 L48 216"/>
+    <path d="M208 200 L208 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 104 L128 168"/>
+  </g>
+</svg>

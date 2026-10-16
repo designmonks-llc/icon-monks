@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="next,track,forward,music">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 48 L168 128 L56 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 48 L168 128 L56 208 Z"/>
+    <path d="M208 48 L208 208"/>
+  </g>
+</svg>

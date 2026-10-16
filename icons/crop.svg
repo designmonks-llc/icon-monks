@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="crop,trim,cut,resize,frame">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 32 L72 184 L224 184"/>
+    <path d="M32 72 L184 72 L184 224"/>
+  </g>
+</svg>

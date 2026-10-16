@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="ufo,extraterrestrial,space,martian,et">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 224 C84 224 44 168 44 116 A84 84 0 0 1 212 116 C212 168 172 224 128 224 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M68 124 C92 116 112 128 112 152 C88 160 68 148 68 124 Z"/>
+    <path d="M188 124 C164 116 144 128 144 152 C168 160 188 148 188 124 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 C84 224 44 168 44 116 A84 84 0 0 1 212 116 C212 168 172 224 128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 124 C92 116 112 128 112 152 C88 160 68 148 68 124 Z"/>
+    <path d="M188 124 C164 116 144 128 144 152 C168 160 188 148 188 124 Z"/>
+  </g>
+</svg>

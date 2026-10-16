@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="gaming,arcade,controller,stick">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="168" width="160" height="56" rx="14"/>
+    <circle cx="128" cy="64" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="168" width="160" height="56" rx="14"/>
+    <path d="M128 168 L128 96"/>
+    <circle cx="128" cy="64" r="32"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="pull request,review,git,merge request">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="72" cy="56" r="24"/>
+    <circle cx="72" cy="200" r="24"/>
+    <circle cx="184" cy="200" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="56" r="24"/>
+    <circle cx="72" cy="200" r="24"/>
+    <circle cx="184" cy="200" r="24"/>
+    <path d="M72 80 L72 176"/>
+    <path d="M184 176 V104 A24 24 0 0 0 160 80 H128"/>
+    <path d="M152 56 L128 80 L152 104"/>
+  </g>
+</svg>

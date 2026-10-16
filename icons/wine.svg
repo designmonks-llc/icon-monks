@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="glass,drink,alcohol,bar,celebrate">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 32 H176 L184 80 A56 56 0 0 1 72 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 32 H176 L184 80 A56 56 0 0 1 72 80 Z"/>
+    <path d="M128 136 L128 216"/>
+    <path d="M88 216 L168 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74 72 L182 72"/>
+  </g>
+</svg>

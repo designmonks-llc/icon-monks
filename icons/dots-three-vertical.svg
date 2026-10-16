@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="more,menu,kebab,options,overflow">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="56" r="16"/>
+    <circle cx="128" cy="128" r="16"/>
+    <circle cx="128" cy="200" r="16"/>
+  </g>
+</svg>

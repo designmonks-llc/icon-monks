@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="hello,hi,wave,greeting,goodbye">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M74.55 115.4 L89.38 69.75 A16 16 0 0 1 119.82 79.64 L127.23 56.81 A16 16 0 0 1 157.67 66.7 L156.43 70.5 A16 16 0 0 1 186.86 80.39 L178.21 107.02 A16 16 0 0 1 208.64 116.91 L188.87 177.78 C176.51 215.82 146.27 231.23 108.22 218.87 C85.4 211.45 72.65 198.9 66.18 179.97 L46.16 125.1 A16 16 0 0 1 74.55 115.4 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74.55 115.4 L89.38 69.75 A16 16 0 0 1 119.82 79.64 L127.23 56.81 A16 16 0 0 1 157.67 66.7 L156.43 70.5 A16 16 0 0 1 186.86 80.39 L178.21 107.02 A16 16 0 0 1 208.64 116.91 L188.87 177.78 C176.51 215.82 146.27 231.23 108.22 218.87 C85.4 211.45 72.65 198.9 66.18 179.97 L46.16 125.1 A16 16 0 0 1 74.55 115.4 Z"/>
+    <path d="M180 32 A44 44 0 0 1 224 76"/>
+    <path d="M32 180 A44 44 0 0 0 76 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M119.82 79.64 L107.45 117.68"/>
+    <path d="M156.43 70.5 L137.89 127.57"/>
+    <path d="M178.21 107.02 L168.32 137.45"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="audio,music,listen,earphones">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="144" width="48" height="80" rx="16"/>
+    <rect x="168" y="144" width="48" height="80" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 176 V136 A88 88 0 0 1 216 136 V176"/>
+    <rect x="40" y="144" width="48" height="80" rx="16"/>
+    <rect x="168" y="144" width="48" height="80" rx="16"/>
+  </g>
+</svg>

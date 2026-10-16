@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="flight,travel,plane,airport,trip">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 64 A16 16 0 0 1 144 64 L144 104 L224 152 L224 176 L144 152 L144 184 L176 204 L176 216 L128 204 L80 216 L80 204 L112 184 L112 152 L32 176 L32 152 L112 104 L112 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 A16 16 0 0 1 144 64 L144 104 L224 152 L224 176 L144 152 L144 184 L176 204 L176 216 L128 204 L80 216 L80 204 L112 184 L112 152 L32 176 L32 152 L112 104 L112 64 Z"/>
+  </g>
+</svg>

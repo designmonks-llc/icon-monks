@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="share,send,upload,out">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 112 H72 A16 16 0 0 0 56 128 V200 A16 16 0 0 0 72 216 H184 A16 16 0 0 0 200 200 V128 A16 16 0 0 0 184 112 H160"/>
+    <path d="M128 152 L128 40"/>
+    <path d="M88 80 L128 40 L168 80"/>
+  </g>
+</svg>

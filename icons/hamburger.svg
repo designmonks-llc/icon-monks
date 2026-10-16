@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="burger,fast food,food,sandwich">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 C48 64 88 40 128 40 C168 40 208 64 208 112 Z"/>
+    <path d="M48 176 H208 V192 A24 24 0 0 1 184 216 H72 A24 24 0 0 1 48 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 C48 64 88 40 128 40 C168 40 208 64 208 112 Z"/>
+    <path d="M32 144 L224 144"/>
+    <path d="M48 176 H208 V192 A24 24 0 0 1 184 216 H72 A24 24 0 0 1 48 192 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="80" r="10"/>
+    <circle cx="152" cy="80" r="10"/>
+  </g>
+</svg>

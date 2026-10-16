@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="fuel,petrol,gas station,gasoline,diesel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 216 V56 A16 16 0 0 1 64 40 H128 A16 16 0 0 1 144 56 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 V56 A16 16 0 0 1 64 40 H128 A16 16 0 0 1 144 56 V216"/>
+    <path d="M32 216 L160 216"/>
+    <path d="M144 104 H160 A16 16 0 0 1 176 120 V176 A16 16 0 0 0 208 176 V96 L184 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="76" y="72" width="40" height="40" rx="6"/>
+  </g>
+</svg>

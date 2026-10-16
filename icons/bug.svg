@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="debug,error,insect,issue">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="80" width="96" height="136" rx="48"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="80" width="96" height="136" rx="48"/>
+    <path d="M108 80 L92 48"/>
+    <path d="M148 80 L164 48"/>
+    <path d="M40 152 L80 152"/>
+    <path d="M176 152 L216 152"/>
+    <path d="M48 104 L84 116"/>
+    <path d="M208 104 L172 116"/>
+    <path d="M48 204 L84 188"/>
+    <path d="M208 204 L172 188"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 128 L176 128"/>
+    <path d="M128 156 L128 192"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="hide,hidden,invisible,private,password">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 128 C56 72 96 56 128 56 C160 56 200 72 232 128 C200 184 160 200 128 200 C96 200 56 184 24 128 Z"/>
+    <circle cx="128" cy="128" r="36"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

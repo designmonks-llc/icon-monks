@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="save,disk,storage,diskette">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 32 H176 L224 80 V208 A16 16 0 0 1 208 224 H48 A16 16 0 0 1 32 208 V48 A16 16 0 0 1 48 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 32 H176 L224 80 V208 A16 16 0 0 1 208 224 H48 A16 16 0 0 1 32 208 V48 A16 16 0 0 1 48 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 32 V72 H152 V32"/>
+    <path d="M72 224 V152 A8 8 0 0 1 80 144 H176 A8 8 0 0 1 184 152 V224"/>
+  </g>
+</svg>

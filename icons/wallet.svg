@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money,purse,payment,cash,finance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="192" height="136" rx="16"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M216 124 H180 A16 16 0 0 0 180 156 H216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="192" height="136" rx="16"/>
+    <path d="M56 72 V56 A16 16 0 0 1 72 40 H168 A16 16 0 0 1 184 56 V72"/>
+    <path d="M224 116 H180 A24 24 0 0 0 180 164 H224"/>
+  </g>
+</svg>

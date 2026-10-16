@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="unlink,broken link,disconnect,detach">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118.87 179.56 L92 206.43 A30 30 0 0 1 49.57 164 L76.44 137.13"/>
+    <path d="M179.56 118.87 L206.43 92 A30 30 0 0 0 164 49.57 L137.13 76.44"/>
+    <path d="M167.6 167.6 L184.57 184.57"/>
+    <path d="M88.4 88.4 L71.43 71.43"/>
+  </g>
+</svg>

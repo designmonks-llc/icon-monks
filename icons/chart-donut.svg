@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="graph,analytics,statistics,ring">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 A96 96 0 1 1 224 128 A96 96 0 1 1 32 128 Z M88 128 A40 40 0 1 0 168 128 A40 40 0 1 0 88 128 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="128" cy="128" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <circle cx="128" cy="128" r="40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 88"/>
+    <path d="M162.64 148 L211.14 176"/>
+  </g>
+</svg>

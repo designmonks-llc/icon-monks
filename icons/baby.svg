@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="infant,child,newborn,kid,toddler">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="140" r="84"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="140" r="84"/>
+    <path d="M128 56 C128 40 144 34 154 44"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 176 A28 28 0 0 0 152 176"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="140" r="14"/>
+    <circle cx="160" cy="140" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="storm,twister,cyclone,weather,hurricane">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L224 48"/>
+    <path d="M56 88 L200 88"/>
+    <path d="M88 128 L184 128"/>
+    <path d="M104 168 L168 168"/>
+    <path d="M120 208 L152 208"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="grab,drag,fist,move,grip">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 134 V110 A18 18 0 0 1 112 110 V102 A18 18 0 0 1 148 102 V106 A18 18 0 0 1 184 106 V114 A18 18 0 0 1 220 114 V152 C220 196 192 224 152 224 H132 C108 224 92 214 78 196 L40 146 A18 18 0 0 1 68 124 L76 134 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 134 V110 A18 18 0 0 1 112 110 V102 A18 18 0 0 1 148 102 V106 A18 18 0 0 1 184 106 V114 A18 18 0 0 1 220 114 V152 C220 196 192 224 152 224 H132 C108 224 92 214 78 196 L40 146 A18 18 0 0 1 68 124 L76 134 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 110 L112 150"/>
+    <path d="M148 106 L148 150"/>
+    <path d="M184 114 L184 150"/>
+  </g>
+</svg>

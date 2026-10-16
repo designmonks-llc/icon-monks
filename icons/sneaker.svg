@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="shoe,running,footwear,sport,fitness">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 176 V88 A16 16 0 0 1 48 72 H72 C76 92 92 104 116 100 L176 128 C208 132 224 148 224 168 V176 A16 16 0 0 1 208 192 H48 A16 16 0 0 1 32 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 176 V88 A16 16 0 0 1 48 72 H72 C76 92 92 104 116 100 L176 128 C208 132 224 148 224 168 V176 A16 16 0 0 1 208 192 H48 A16 16 0 0 1 32 176 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 156 L224 156"/>
+    <path d="M128 106 L118 126"/>
+    <path d="M156 119 L146 139"/>
+  </g>
+</svg>

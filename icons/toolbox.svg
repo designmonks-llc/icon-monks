@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tools,kit,repair,box,case">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="88" width="192" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="88" width="192" height="128" rx="14"/>
+    <path d="M88 88 V64 A16 16 0 0 1 104 48 H152 A16 16 0 0 1 168 64 V88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 136 L104 136"/>
+    <path d="M152 136 L224 136"/>
+    <rect x="104" y="124" width="48" height="32" rx="8"/>
+  </g>
+</svg>

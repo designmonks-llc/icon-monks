@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="measure,length,scale,size">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M31.83 173.25 L173.25 31.83 L224.17 82.75 L82.75 224.17 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31.83 173.25 L173.25 31.83 L224.17 82.75 L82.75 224.17 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60.12 144.97 L77.09 161.94"/>
+    <path d="M88.4 116.69 L113.86 142.14"/>
+    <path d="M116.69 88.4 L133.66 105.37"/>
+    <path d="M144.97 60.12 L170.43 85.57"/>
+  </g>
+</svg>

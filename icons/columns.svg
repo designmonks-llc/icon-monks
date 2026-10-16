@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="columns,vertical,split,layout">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="72" height="176" rx="12"/>
+    <rect x="144" y="40" width="72" height="176" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="72" height="176" rx="12"/>
+    <rect x="144" y="40" width="72" height="176" rx="12"/>
+  </g>
+</svg>

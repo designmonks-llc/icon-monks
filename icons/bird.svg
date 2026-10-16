@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="animal,tweet,nature,wildlife,pet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M160 52C140.12 52 124 68.12 124 88C106.18 88 90.18 95.77 79.19 108.1L36 100L64.26 142.39C64.09 144.24 64 146.11 64 148C64 181.14 90.86 208 124 208C157.14 208 184 181.14 184 148C184 137.79 181.45 128.18 176.95 119.77C188.29 113.7 196 101.75 196 88C196 68.12 179.88 52 160 52Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 52C140.12 52 124 68.12 124 88C106.18 88 90.18 95.77 79.19 108.1L36 100L64.26 142.39C64.09 144.24 64 146.11 64 148C64 181.14 90.86 208 124 208C157.14 208 184 181.14 184 148C184 137.79 181.45 128.18 176.95 119.77C188.29 113.7 196 101.75 196 88C196 68.12 179.88 52 160 52Z"/>
+    <path d="M194 78 L216 94 L192 104 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 144 C100 176 132 180 156 160"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="166" cy="82" r="12"/>
+  </g>
+</svg>

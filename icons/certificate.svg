@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="diploma,award,document,credential,license">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="40" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 80 L192 80"/>
+    <path d="M64 120 L124 120"/>
+    <path d="M64 160 L108 160"/>
+    <circle cx="172" cy="148" r="24"/>
+  </g>
+</svg>

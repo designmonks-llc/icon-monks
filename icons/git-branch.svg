@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="branch,version control,git,source">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="56" r="24"/>
+    <circle cx="80" cy="200" r="24"/>
+    <circle cx="176" cy="72" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="56" r="24"/>
+    <circle cx="80" cy="200" r="24"/>
+    <circle cx="176" cy="72" r="24"/>
+    <path d="M80 80 L80 176"/>
+    <path d="M176 96 C176 144 80 128 80 176"/>
+  </g>
+</svg>

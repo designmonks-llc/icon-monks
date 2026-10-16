@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="close,cancel,dismiss,error">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 96 L160 160"/>
+    <path d="M160 96 L96 160"/>
+  </g>
+</svg>

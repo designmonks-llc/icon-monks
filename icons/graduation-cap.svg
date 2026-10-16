@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="education,school,student,degree,university">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 56 L224 104 L128 152 L32 104 Z"/>
+    <path d="M80 128 V176 C80 196 104 208 128 208 C152 208 176 196 176 176 V128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 56 L224 104 L128 152 L32 104 Z"/>
+    <path d="M80 128 V176 C80 196 104 208 128 208 C152 208 176 196 176 176 V128"/>
+    <path d="M208 112 L208 172"/>
+  </g>
+</svg>

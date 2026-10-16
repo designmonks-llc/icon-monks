@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="luggage,travel,trip,baggage">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="64" width="144" height="152" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="64" width="144" height="152" rx="16"/>
+    <path d="M96 64 V48 A16 16 0 0 1 112 32 H144 A16 16 0 0 1 160 48 V64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 100 L96 180"/>
+    <path d="M160 100 L160 180"/>
+  </g>
+</svg>

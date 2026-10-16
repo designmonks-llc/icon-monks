@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="savings,money,piggy,deposit,budget">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="124" cy="140" rx="84" ry="60"/>
+    <rect x="196" y="120" width="28" height="40" rx="10"/>
+    <path d="M92 90 L100 56 L132 82 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="124" cy="140" rx="84" ry="60"/>
+    <rect x="196" y="120" width="28" height="40" rx="10"/>
+    <path d="M92 90 L100 56 L132 82"/>
+    <path d="M88 192 L88 216"/>
+    <path d="M164 192 L164 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 108 L148 108"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="172" cy="124" r="12"/>
+  </g>
+</svg>

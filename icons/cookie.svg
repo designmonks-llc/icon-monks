@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="biscuit,snack,cookies,privacy,sweet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M162.19 38.29 A96 96 0 1 0 217.71 93.81 A44 44 0 0 1 162.19 38.29 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162.19 38.29 A96 96 0 1 0 217.71 93.81 A44 44 0 0 1 162.19 38.29 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="92" cy="108" r="14"/>
+    <circle cx="140" cy="132" r="14"/>
+    <circle cx="100" cy="168" r="14"/>
+    <circle cx="160" cy="176" r="14"/>
+    <circle cx="124" cy="76" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="random,mix,music,playlist">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 72 H72 C120 72 136 184 184 184 H216"/>
+    <path d="M40 184 H72 C120 184 136 72 184 72 H216"/>
+    <path d="M184 40 L216 72 L184 104"/>
+    <path d="M184 152 L216 184 L184 216"/>
+  </g>
+</svg>

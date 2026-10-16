@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="email,mail,read,opened,message">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 104 L128 40 L224 104 V198 A14 14 0 0 1 210 212 H46 A14 14 0 0 1 32 198 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 L128 40 L224 104 V198 A14 14 0 0 1 210 212 H46 A14 14 0 0 1 32 198 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 124 L128 172 L204 124"/>
+  </g>
+</svg>

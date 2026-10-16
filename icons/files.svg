@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="documents,pages,copy,duplicate">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 72 H160 L200 112 V224 H80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 72 H160 L200 112 V224 H80 Z"/>
+    <path d="M48 192 L48 32 L136 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 72 V112 H200"/>
+  </g>
+</svg>

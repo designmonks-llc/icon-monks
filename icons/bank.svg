@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="finance,institution,building,money,savings">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 88 L128 36 L224 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 L128 36 L224 88 Z"/>
+    <path d="M64 120 L64 180"/>
+    <path d="M106 120 L106 180"/>
+    <path d="M150 120 L150 180"/>
+    <path d="M192 120 L192 180"/>
+    <path d="M32 212 L224 212"/>
+  </g>
+</svg>

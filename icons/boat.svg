@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="sailboat,ship,sea,sailing,marine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 168 H224 L196 208 H60 Z"/>
+    <path d="M108 56 L108 136 L48 136 Z"/>
+    <path d="M140 40 L140 136 L212 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 168 H224 L196 208 H60 Z"/>
+    <path d="M108 56 L108 136 L48 136 Z"/>
+    <path d="M140 40 L140 136 L212 136 Z"/>
+    <path d="M140 136 L140 168"/>
+  </g>
+</svg>

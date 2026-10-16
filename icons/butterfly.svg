@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="insect,nature,spring,garden,wings">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 128 C132 84 164 48 196 48 C220 48 228 72 220 96 C212 120 176 132 128 136 Z"/>
+    <path d="M128 136 C168 140 188 160 188 184 C188 208 164 216 148 200 C136 188 128 168 128 136 Z"/>
+    <path d="M 128 128 C 124 84 92 48 60 48 C 36 48 28 72 36 96 C 44 120 80 132 128 136 Z"/>
+    <path d="M 128 136 C 88 140 68 160 68 184 C 68 208 92 216 108 200 C 120 188 128 168 128 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 128 C132 84 164 48 196 48 C220 48 228 72 220 96 C212 120 176 132 128 136 Z"/>
+    <path d="M128 136 C168 140 188 160 188 184 C188 208 164 216 148 200 C136 188 128 168 128 136 Z"/>
+    <path d="M 128 128 C 124 84 92 48 60 48 C 36 48 28 72 36 96 C 44 120 80 132 128 136 Z"/>
+    <path d="M 128 136 C 88 140 68 160 68 184 C 68 208 92 216 108 200 C 120 188 128 168 128 136 Z"/>
+    <path d="M128 104 L128 200"/>
+    <path d="M128 104 C124 76 112 60 100 52"/>
+    <path d="M128 104 C132 76 144 60 156 52"/>
+  </g>
+</svg>

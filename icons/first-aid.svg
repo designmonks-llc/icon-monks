@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="medical,health,hospital,cross,emergency">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 40 L156 40 L156 100 L216 100 L216 156 L156 156 L156 216 L100 216 L100 156 L40 156 L40 100 L100 100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 40 L156 40 L156 100 L216 100 L216 156 L156 156 L156 216 L100 216 L100 156 L40 156 L40 100 L100 100 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="merge,version control,git,combine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="56" r="24"/>
+    <circle cx="80" cy="200" r="24"/>
+    <circle cx="176" cy="152" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="56" r="24"/>
+    <circle cx="80" cy="200" r="24"/>
+    <circle cx="176" cy="152" r="24"/>
+    <path d="M80 80 L80 176"/>
+    <path d="M80 80 C80 136 112 152 152 152"/>
+  </g>
+</svg>

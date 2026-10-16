@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="pin,tack,attach,sticky,keep">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M162.03 33.63 L210.94 74.67 L186.36 89.76 L157.05 124.7 L153.32 192.99 L55.51 110.92 L122.12 95.39 L151.43 60.45 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162.03 33.63 L210.94 74.67 L186.36 89.76 L157.05 124.7 L153.32 192.99 L55.51 110.92 L122.12 95.39 L151.43 60.45 Z"/>
+    <path d="M104.41 151.96 L51.65 214.84"/>
+  </g>
+</svg>

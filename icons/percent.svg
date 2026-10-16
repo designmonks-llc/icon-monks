@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="percentage,discount,math,sale">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 60 L60 196"/>
+    <circle cx="76" cy="76" r="28"/>
+    <circle cx="180" cy="180" r="28"/>
+  </g>
+</svg>

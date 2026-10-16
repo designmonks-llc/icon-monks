@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="add user,invite,new contact,follow,signup">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="104" cy="84" r="40"/>
+    <path d="M32 216 C32 172 64 148 104 148 C120.8 148 136.19 152.23 148.39 160.4 A46.11 46.11 0 0 0 154.81 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="104" cy="84" r="40"/>
+    <path d="M32 216 C32 172 64 148 104 148 C120.8 148 136.19 152.23 148.39 160.4"/>
+    <path d="M160 184 L216 184"/>
+    <path d="M188 156 L188 212"/>
+  </g>
+</svg>

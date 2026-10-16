@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="chess,strategy,game,horse,board game">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 184 C76 160 96 148 112 136 L76 144 A18 18 0 0 1 56 116 L104 60 L116 32 L140 52 C184 64 200 104 200 144 V184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 184 C76 160 96 148 112 136 L76 144 A18 18 0 0 1 56 116 L104 60 L116 32 L140 52 C184 64 200 104 200 144 V184 Z"/>
+    <path d="M56 216 L200 216"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="124" cy="84" r="12"/>
+  </g>
+</svg>

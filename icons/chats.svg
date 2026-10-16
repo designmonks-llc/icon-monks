@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="messages,conversation,discussion,chat,reply">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 192 L32 216 V104 A16 16 0 0 1 48 88 H152 A16 16 0 0 1 168 104 V176 A16 16 0 0 1 152 192 Z"/>
+    <path d="M88 88 V56 A16 16 0 0 1 104 40 H208 A16 16 0 0 1 224 56 V184 L192 152 H168 V88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 192 L32 216 V104 A16 16 0 0 1 48 88 H152 A16 16 0 0 1 168 104 V176 A16 16 0 0 1 152 192 Z"/>
+    <path d="M88 88 V56 A16 16 0 0 1 104 40 H208 A16 16 0 0 1 224 56 V184 L192 152 H168"/>
+  </g>
+</svg>

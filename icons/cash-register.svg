@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="checkout,pos,till,sale,store">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 96 L200 96 L216 168 L40 168 Z"/>
+    <rect x="32" y="168" width="192" height="48" rx="10"/>
+    <rect x="80" y="40" width="96" height="36" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 96 L200 96 L216 168 L40 168 Z"/>
+    <rect x="32" y="168" width="192" height="48" rx="10"/>
+    <rect x="80" y="40" width="96" height="36" rx="8"/>
+    <path d="M128 76 L128 96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 192 L152 192"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="132" r="16"/>
+    <circle cx="128" cy="132" r="16"/>
+    <circle cx="160" cy="132" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="offline,disconnected,no sync,unavailable">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="science,lab,chemistry,experiment,beaker">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M70.09 152 L44 192 C36 204 44 216 60 216 H196 C212 216 220 204 212 192 L185.91 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 40 V100 L44 192 C36 204 44 216 60 216 H196 C212 216 220 204 212 192 L152 100 V40"/>
+    <path d="M88 40 L168 40"/>
+    <path d="M70.09 152 L185.91 152"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="entrance,exit,room,closed">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 216 V48 A16 16 0 0 1 80 32 H176 A16 16 0 0 1 192 48 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 216 V48 A16 16 0 0 1 80 32 H176 A16 16 0 0 1 192 48 V216"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="156" cy="128" r="16"/>
+  </g>
+</svg>

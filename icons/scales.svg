@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="justice,law,balance,legal,weigh">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 144 H80 A24 24 0 0 1 32 144 Z"/>
+    <path d="M176 144 H224 A24 24 0 0 1 176 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 208"/>
+    <path d="M88 208 L168 208"/>
+    <path d="M56 64 L200 64"/>
+    <path d="M32 144 L56 64 L80 144"/>
+    <path d="M176 144 L200 64 L224 144"/>
+    <path d="M32 144 H80 A24 24 0 0 1 32 144 Z"/>
+    <path d="M176 144 H224 A24 24 0 0 1 176 144 Z"/>
+  </g>
+</svg>

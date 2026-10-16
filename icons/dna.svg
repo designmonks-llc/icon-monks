@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="genetics,helix,biology,science,gene">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 32 C80 80 176 80 176 128 C176 176 80 176 80 224"/>
+    <path d="M176 32 C176 80 80 80 80 128 C80 176 176 176 176 224"/>
+    <path d="M104 112 L152 112"/>
+    <path d="M104 144 L152 144"/>
+  </g>
+</svg>

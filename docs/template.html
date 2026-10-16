@@ -30,6 +30,7 @@
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
 [hidden] { display: none !important; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 a { color: inherit; }
 .eyebrow a { color: var(--saffron); text-underline-offset: 3px; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
@@ -51,6 +52,7 @@ input:focus-visible, button:focus-visible, select:focus-visible { outline: 2px s
 .weights button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
 .knob { display: flex; align-items: center; gap: 8px; font: 12px var(--mono); color: var(--muted); }
 .knob input[type=range] { width: 96px; accent-color: var(--saffron); }
+.knob select { font: 500 13px var(--body); color: var(--ink); background: var(--sheet); border: 1px solid var(--rule); border-radius: 10px; padding: 8px 10px; }
 .knob input[type=color] { width: 34px; height: 30px; border: 1px solid var(--rule); border-radius: 8px; padding: 2px; background: var(--sheet); }
 main.wrap { padding-block: 20px 56px; display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 24px; align-items: start; }
 .count { font: 12px var(--mono); color: var(--muted); margin-bottom: 10px; }
@@ -115,6 +117,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var
     <label class="search"><svg viewBox="0 0 256 256" aria-hidden="true"><path id="search-path"/></svg>
       <input id="q" type="search" placeholder="Search icons, e.g. home, mail, settings" autocomplete="off" aria-label="Search icons"></label>
     <div class="weights" role="group" aria-label="Weight" id="weights"></div>
+    <label class="knob" for="cat"><span class="sr">Category</span><select id="cat" aria-label="Category"><option value="">All categories</option></select></label>
     <label class="knob" for="size">Size <input id="size" type="range" min="16" max="64" step="4" value="32"><span id="size-out">32px</span></label>
     <label class="knob" for="color">Color <input id="color" type="color" value="#1b1e3a"></label>
   </div>
@@ -169,7 +172,7 @@ const WEIGHTS = ['thin', 'light', 'regular', 'bold', 'fill', 'duotone'];
 const STROKE = { thin: 8, light: 12, regular: 16, bold: 24 };
 const $ = (id) => document.getElementById(id);
 const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
-const state = { q: '', weight: store.get('im-weight') || 'regular', size: 32, color: '', selected: 'house', previewWeight: null, tab: store.get('im-tab') || 'React' };
+const state = { cat: '', q: '', weight: store.get('im-weight') || 'regular', size: 32, color: '', selected: 'house', previewWeight: null, tab: store.get('im-tab') || 'React' };
 const pascal = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join('');
 const camel = (n) => { const p = pascal(n); return p[0].toLowerCase() + p.slice(1); };
 const byName = Object.fromEntries(DATA.icons.map((i) => [i.name, i]));
@@ -189,7 +192,7 @@ function matches(icon, q) {
 
 function renderGrid() {
   const q = state.q.trim().toLowerCase();
-  const list = DATA.icons.filter((i) => matches(i, q));
+  const list = DATA.icons.filter((i) => (!state.cat || i.category === state.cat) && matches(i, q));
   $('grid').innerHTML = list.map((i) => `<button class="tile" role="option" type="button" data-name="${i.name}" aria-selected="${i.name === state.selected}" title="${i.name}">${svg(i, state.weight, state.size, state.color)}<span>${i.name}</span></button>`).join('');
   $('empty').hidden = list.length > 0;
   $('count').textContent = `${list.length} of ${DATA.icons.length} icons · ${state.weight}`;
@@ -239,6 +242,7 @@ $('grid').addEventListener('click', (e) => {
 });
 $('d-weights').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.previewWeight = b.dataset.w; renderDetail(); });
 $('tabs').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.tab = b.dataset.tab; store.set('im-tab', state.tab); renderDetail(); });
+$('cat').addEventListener('change', (e) => { state.cat = e.target.value; renderGrid(); });
 $('q').addEventListener('input', (e) => { state.q = e.target.value; renderGrid(); });
 $('size').addEventListener('input', (e) => { state.size = +e.target.value; $('size-out').textContent = state.size + 'px'; renderGrid(); });
 $('color').addEventListener('input', (e) => { state.color = e.target.value; renderGrid(); renderDetail(); });
@@ -256,5 +260,8 @@ $('search-path').setAttribute('d', byName['magnifying-glass'].paths.bold);
 $('stat-icons').textContent = DATA.icons.length;
 if (!WEIGHTS.includes(state.weight)) state.weight = 'regular';
 if (!SNIPPETS[state.tab]) state.tab = 'React';
+const cats = {};
+DATA.icons.forEach((i) => { cats[i.category] = (cats[i.category] || 0) + 1; });
+$('cat').insertAdjacentHTML('beforeend', Object.keys(cats).sort().map((c) => `<option value="${c}">${c} (${cats[c]})</option>`).join(''));
 renderWeights(); renderGrid(); renderDetail();
 </script>
