@@ -29,5 +29,5 @@ Icon(IconMonks.Duotone.Star, contentDescription = null)
 <ImageView android:src="@drawable/im_heart_fill" />
 ```
 
-Drawables use `?attr/colorControlNormal` as their tint, matching Material icons. Copy `src/main/res/drawable` into
+Drawables use `?android:attr/colorControlNormal` as their tint, matching Material icons. Copy `src/main/res/drawable` into
 your app if you only need a few icons.

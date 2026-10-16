@@ -569,21 +569,24 @@ def android():
             if w == 'duotone':
                 xml_paths = (f'  <path android:fillColor="@android:color/white" android:fillAlpha="{DUO}" android:pathData="{d[0]}"/>\n'
                              if d[0] else '') + f'  <path android:fillColor="@android:color/white" android:pathData="{d[1]}"/>\n'
-                kt_paths = ((f'addPath(addPathNodes("{d[0]}"), fill = SolidColor(Color.Black), fillAlpha = {DUO}f)\n            '
-                             if d[0] else '') + f'addPath(addPathNodes("{d[1]}"), fill = SolidColor(Color.Black))')
+                kt_paths = ((f'.addPath(pathData = nodes("{d[0]}"), fill = SolidColor(Color.Black), fillAlpha = {DUO}f)\n            '
+                             if d[0] else '') + f'.addPath(pathData = nodes("{d[1]}"), fill = SolidColor(Color.Black))')
             else:
                 xml_paths = f'  <path android:fillColor="@android:color/white" android:pathData="{d}"/>\n'
-                kt_paths = f'addPath(addPathNodes("{d}"), fill = SolidColor(Color.Black))'
+                kt_paths = f'.addPath(pathData = nodes("{d}"), fill = SolidColor(Color.Black))'
             write(os.path.join(res, base + '.xml'),
                   '<?xml version="1.0" encoding="utf-8"?>\n'
                   '<vector xmlns:android="http://schemas.android.com/apk/res/android"\n'
                   '  android:width="24dp" android:height="24dp"\n'
                   '  android:viewportWidth="256" android:viewportHeight="256"\n'
-                  '  android:tint="?attr/colorControlNormal" android:autoMirrored="false">\n' + xml_paths + '</vector>\n')
+                  '  android:tint="?android:attr/colorControlNormal" android:autoMirrored="false">\n' + xml_paths + '</vector>\n')
             vals.append(f"""    val {pascal(ic['name'])}: ImageVector by lazy {{
-        ImageVector.Builder("{pascal(ic['name'])}{obj}", 24.dp, 24.dp, 256f, 256f).apply {{
+        ImageVector.Builder(
+            name = "{pascal(ic['name'])}{obj}", defaultWidth = 24.dp, defaultHeight = 24.dp,
+            viewportWidth = 256f, viewportHeight = 256f,
+        )
             {kt_paths}
-        }}.build()
+            .build()
     }}""")
         kt.append(f'    object {obj} {{\n' + '\n\n'.join(vals) + '\n    }')
     write(os.path.join(path, 'src', 'main', 'java', 'com', 'designmonks', 'icons', 'IconMonks.kt'),
@@ -593,11 +596,14 @@ package com.designmonks.icons
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.SolidColor
 import androidx.compose.ui.graphics.vector.ImageVector
-import androidx.compose.ui.graphics.vector.addPathNodes
+import androidx.compose.ui.graphics.vector.PathNode
+import androidx.compose.ui.graphics.vector.PathParser
 import androidx.compose.ui.unit.dp
 
 /** Icon Monks for Jetpack Compose: `Icon(IconMonks.Regular.House, contentDescription = null)`. */
 object IconMonks {
+    private fun nodes(d: String): List<PathNode> = PathParser().parsePathString(d).toNodes()
+
 """ + '\n\n'.join(kt) + '\n}\n')
     write(os.path.join(path, 'src', 'main', 'AndroidManifest.xml'), '<manifest />\n')
     write(os.path.join(path, 'settings.gradle.kts'), """pluginManagement {
@@ -679,7 +685,7 @@ Icon(IconMonks.Duotone.Star, contentDescription = null)
 <ImageView android:src="@drawable/im_heart_fill" />
 ```
 
-Drawables use `?attr/colorControlNormal` as their tint, matching Material icons. Copy `src/main/res/drawable` into
+Drawables use `?android:attr/colorControlNormal` as their tint, matching Material icons. Copy `src/main/res/drawable` into
 your app if you only need a few icons.
 """)
 
