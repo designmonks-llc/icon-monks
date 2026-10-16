@@ -1,7 +1,7 @@
 # @icon-monks/font
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@0.1.0/dist/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@0.2.0/dist/index.css">
 
 <i class="im im-house"></i>          <!-- regular -->
 <i class="im-bold im-house"></i>     <!-- thin, light, bold, fill: im-thin / im-light / im-bold / im-fill -->

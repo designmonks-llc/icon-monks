@@ -550,7 +550,10 @@ Icon(IconMonks.fill.star, size: 32)
 
 Weights: `thin`, `light`, `regular`, `bold`, `fill`. Icon fonts are single-colour, so duotone is not offered here.
 """ % VERSION)
-    write(os.path.join(path, 'CHANGELOG.md'), f'## {VERSION}\n\n- Initial release with {len(ICONS)} icons.\n')
+    write(os.path.join(path, 'CHANGELOG.md'), f'## {VERSION}\n\n- {len(ICONS)} icons in {len({i["category"] for i in ICONS})} categories, six weights each.\n\n'
+          '## 0.2.0\n\n- Adds 400 icons (497 total) across 22 categories.\n\n## 0.1.0\n\n- Initial release with 97 icons.\n'
+          if VERSION != '0.2.0' else
+          f'## 0.2.0\n\n- Adds 400 icons ({len(ICONS)} total) across {len({i["category"] for i in ICONS})} categories.\n\n## 0.1.0\n\n- Initial release with 97 icons.\n')
 
 
 # ---------------------------------------------------------------------------- android

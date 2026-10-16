@@ -7,7 +7,7 @@ Published through JitPack. Add the repository and the dependency:
 dependencyResolutionManagement { repositories { google(); mavenCentral(); maven("https://jitpack.io") } }
 
 // app/build.gradle.kts
-implementation("com.github.designmonks:icon-monks:v0.1.0")
+implementation("com.github.designmonks:icon-monks:v0.2.0")
 ```
 
 Two ways to use the icons, both in this library:

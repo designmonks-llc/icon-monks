@@ -30,7 +30,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.designmonks"
                 artifactId = "icon-monks"
-                version = System.getenv("VERSION") ?: "0.1.0"
+                version = System.getenv("VERSION") ?: "0.2.0"
             }
         }
     }
