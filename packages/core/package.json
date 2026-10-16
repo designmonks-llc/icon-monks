@@ -4,10 +4,10 @@
   "description": "Monks Icons: raw SVG assets, sprites, metadata and a toSvg() helper.",
   "license": "MIT",
   "author": "Design Monks",
-  "homepage": "https://github.com/designmonks/monks-icons",
+  "homepage": "https://github.com/designmonks/icon-monks",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/designmonks/monks-icons.git"
+    "url": "git+https://github.com/designmonks/icon-monks.git"
   },
   "keywords": [
     "icons",

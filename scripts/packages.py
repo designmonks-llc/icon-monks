@@ -70,8 +70,8 @@ def codepoints():
 def npm_package(path, name, description, extra):
     pkg = {
         'name': name, 'version': VERSION, 'description': description, 'license': 'MIT',
-        'author': 'Design Monks', 'homepage': 'https://github.com/designmonks/monks-icons',
-        'repository': {'type': 'git', 'url': 'git+https://github.com/designmonks/monks-icons.git'},
+        'author': 'Design Monks', 'homepage': 'https://github.com/designmonks/icon-monks',
+        'repository': {'type': 'git', 'url': 'git+https://github.com/designmonks/icon-monks.git'},
         'keywords': ['icons', 'icon', 'svg', 'monks-icons'],
     }
     pkg.update(extra)
@@ -488,8 +488,8 @@ def flutter(cps):
     write(os.path.join(path, 'pubspec.yaml'), f"""name: monks_icons
 description: Monks Icons for Flutter. {len(ICONS)} open source icons in thin, light, regular, bold and fill weights.
 version: {VERSION}
-homepage: https://github.com/designmonks/monks-icons
-repository: https://github.com/designmonks/monks-icons
+homepage: https://github.com/designmonks/icon-monks
+repository: https://github.com/designmonks/icon-monks
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
