@@ -86,6 +86,15 @@ aside.detail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 84px)
 .tabs button { font: 500 12px var(--body); border: 1px solid var(--rule); background: none; color: var(--muted); border-radius: 999px; padding: 5px 10px; cursor: pointer; }
 .tabs button[aria-selected="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
 .code { position: relative; min-width: 0; }
+.dl { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; border-top: 1px solid var(--rule); padding-top: 14px; }
+.dl-head { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dl-title { font: 500 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.dl button { font: 600 13px var(--body); border: 0; background: var(--saffron); color: #1b1e3a; border-radius: 10px; padding: 9px 6px; cursor: pointer; display: inline-flex; justify-content: center; align-items: center; gap: 6px; }
+.dl button svg { width: 14px; height: 14px; }
+.dl button:hover { filter: brightness(1.08); }
+.dl button:focus-visible, .dl select:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.dl select { font: 500 13px var(--body); border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); border-radius: 10px; padding: 8px 10px; }
+.dl-note { grid-column: 1 / -1; font: 12px var(--body); color: var(--muted); min-height: 1em; }
 .code pre { margin: 0; background: var(--paper); border-radius: 10px; padding: 12px; font: 12px/1.55 var(--mono); overflow: auto; white-space: pre-wrap; overflow-wrap: anywhere; max-height: 220px; max-width: 100%; padding-right: 64px; }
 .copy { position: absolute; top: 6px; right: 6px; font: 500 12px var(--body); border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); border-radius: 8px; padding: 4px 10px; cursor: pointer; }
 section.install { padding-block: 8px 72px; }
@@ -156,6 +165,16 @@ footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var
     <div class="strip" id="d-weights" role="group" aria-label="Preview weight"></div>
     <div class="tabs" role="tablist" id="tabs"></div>
     <div class="code"><pre id="snippet"></pre><button class="copy" id="copy" type="button">Copy</button></div>
+    <div class="dl" role="group" aria-labelledby="dl-title">
+      <div class="dl-head"><span class="dl-title" id="dl-title">Download</span>
+      <label class="sr" for="dl-size">Image size</label>
+      <select id="dl-size" aria-label="Image size"><option value="24">24 px</option><option value="32">32 px</option><option value="48">48 px</option><option value="64">64 px</option><option value="128">128 px</option><option value="256" selected>256 px</option><option value="512">512 px</option><option value="1024">1024 px</option></select></div>
+      <button type="button" data-fmt="svg">SVG</button>
+      <button type="button" data-fmt="png">PNG</button>
+      <button type="button" data-fmt="webp">WebP</button>
+      <button type="button" data-fmt="pdf">PDF</button>
+      <span class="dl-note" id="dl-note" aria-live="polite"></span>
+    </div>
   </aside>
 </main>
 
@@ -232,6 +251,91 @@ function renderDetail() {
   $('tabs').innerHTML = Object.keys(SNIPPETS).map((t) => `<button type="button" role="tab" data-tab="${t}" aria-selected="${t === state.tab}">${t}</button>`).join('');
   $('snippet').textContent = SNIPPETS[state.tab](icon.name, w);
 }
+
+// Downloads: in the claude.ai viewer use the downloads capability, elsewhere a plain link.
+let saver = null;
+if (window.claude && window.claude.use) window.claude.use('downloads').then((d) => { saver = d; }).catch(() => {});
+const MIME = { svg: 'image/svg+xml', png: 'image/png', webp: 'image/webp', pdf: 'application/pdf' };
+async function saveFile(filename, blob) {
+  if (saver) {
+    try { await saver.save({ filename, data: blob }); return 'Saved ' + filename; }
+    catch (e) { if (e && e.code === 'declined') return 'Download cancelled'; if (e && e.code === 'rate_limited') return 'Another download is waiting for confirmation'; }
+  }
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = filename;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  return 'Downloaded ' + filename;
+}
+function exportColor() { return state.color || $('color').value || '#000000'; }
+function rasterize(icon, w, px, type) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => {
+      const c = document.createElement('canvas'); c.width = c.height = px;
+      c.getContext('2d').drawImage(img, 0, 0, px, px);
+      c.toBlob((b) => (b ? resolve(b) : reject(new Error('encode'))), type);
+    };
+    img.onerror = reject;
+    img.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg(icon, w, px, exportColor()));
+  });
+}
+// Path data uses absolute M L H V Q C Z only; quadratics become cubics for PDF.
+function pdfPath(d, k, size) {
+  const out = []; const t = d.match(/[MLHVQCZ]|-?\d*\.?\d+(?:e-?\d+)?/gi); let i = 0, x = 0, y = 0, sx = 0, sy = 0, cmd = '';
+  const n = () => parseFloat(t[i++]); const P = (a, b) => `${(a * k).toFixed(3)} ${(size - b * k).toFixed(3)}`;
+  while (i < t.length) {
+    if (/[A-Z]/i.test(t[i])) cmd = t[i++];
+    if (cmd === 'M') { x = sx = n(); y = sy = n(); out.push(P(x, y) + ' m'); cmd = 'L'; }
+    else if (cmd === 'L') { x = n(); y = n(); out.push(P(x, y) + ' l'); }
+    else if (cmd === 'H') { x = n(); out.push(P(x, y) + ' l'); }
+    else if (cmd === 'V') { y = n(); out.push(P(x, y) + ' l'); }
+    else if (cmd === 'C') { const a = n(), b = n(), c = n(), e = n(); x = n(); y = n(); out.push(`${P(a, b)} ${P(c, e)} ${P(x, y)} c`); }
+    else if (cmd === 'Q') { const qx = n(), qy = n(), ex = n(), ey = n();
+      out.push(`${P(x + 2 / 3 * (qx - x), y + 2 / 3 * (qy - y))} ${P(ex + 2 / 3 * (qx - ex), ey + 2 / 3 * (qy - ey))} ${P(ex, ey)} c`); x = ex; y = ey; }
+    else if (cmd === 'Z') { out.push('h'); x = sx; y = sy; if (i < t.length && !/[A-Z]/i.test(t[i])) i++; }
+    else i++;
+  }
+  return out.join('\n');
+}
+function makePdf(icon, w, size) {
+  const hex = exportColor().replace('#', '');
+  const rgb = [0, 2, 4].map((o) => (parseInt(hex.slice(o, o + 2), 16) / 255).toFixed(3)).join(' ');
+  const k = size / 256; const paths = icon.paths[w];
+  let content = `${rgb} rg\n`;
+  if (w === 'duotone') { if (paths[0]) content += `q /GS1 gs\n${pdfPath(paths[0], k, size)}\nf\nQ\n`; content += `${pdfPath(paths[1], k, size)}\nf\n`; }
+  else content += `${pdfPath(paths, k, size)}\nf\n`;
+  const objs = [
+    '<< /Type /Catalog /Pages 2 0 R >>',
+    '<< /Type /Pages /Kids [3 0 R] /Count 1 >>',
+    `<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${size} ${size}] /Resources << /ExtGState << /GS1 5 0 R >> >> /Contents 4 0 R >>`,
+    `<< /Length ${content.length} >>\nstream\n${content}endstream`,
+    '<< /Type /ExtGState /ca 0.2 >>',
+    `<< /Title (${icon.name} ${w}) /Producer (Icon Monks) >>`,
+  ];
+  let pdf = '%PDF-1.4\n'; const offs = [];
+  objs.forEach((o, j) => { offs.push(pdf.length); pdf += `${j + 1} 0 obj\n${o}\nendobj\n`; });
+  const xref = pdf.length;
+  pdf += `xref\n0 ${objs.length + 1}\n0000000000 65535 f \n` + offs.map((o) => String(o).padStart(10, '0') + ' 00000 n \n').join('');
+  pdf += `trailer\n<< /Size ${objs.length + 1} /Root 1 0 R /Info 6 0 R >>\nstartxref\n${xref}\n%%EOF\n`;
+  return new Blob([pdf], { type: MIME.pdf });
+}
+$('dl-size').value = store.get('im-dl-size') || '256';
+$('dl-size').addEventListener('change', (e) => store.set('im-dl-size', e.target.value));
+document.querySelector('.dl').addEventListener('click', async (e) => {
+  const b = e.target.closest('button[data-fmt]'); if (!b) return;
+  const icon = byName[state.selected]; if (!icon) return;
+  const w = state.previewWeight || state.weight; const fmt = b.dataset.fmt; const px = +$('dl-size').value;
+  const name = `${icon.name}${w === 'regular' ? '' : '-' + w}${fmt === 'svg' ? '' : '-' + px}.${fmt}`;
+  $('dl-note').textContent = 'Preparing…';
+  try {
+    let blob;
+    if (fmt === 'svg') blob = new Blob([svg(icon, w, px, state.color || 'currentColor')], { type: MIME.svg });
+    else if (fmt === 'pdf') blob = makePdf(icon, w, px);
+    else blob = await rasterize(icon, w, px, MIME[fmt]);
+    $('dl-note').textContent = await saveFile(name, blob);
+  } catch { $('dl-note').textContent = 'Could not create that file in this browser'; }
+});
 
 function renderWeights() {
   $('weights').innerHTML = WEIGHTS.map((w) => `<button type="button" data-w="${w}" aria-pressed="${w === state.weight}">${w[0].toUpperCase() + w.slice(1)}</button>`).join('');

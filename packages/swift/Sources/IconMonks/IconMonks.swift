@@ -373,7 +373,7 @@ public enum IconMonk: String, CaseIterable, Sendable {
     case rainbow = "rainbow"
     case receipt = "receipt"
     case record = "record"
-    case repeat = "repeat"
+    case `repeat` = "repeat"
     case repeatOnce = "repeat-once"
     case rewind = "rewind"
     case robot = "robot"
