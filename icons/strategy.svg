@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="strategy,playbook,tactics,plan">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="72" r="32"/>
+    <path d="M156 160 L212 216"/>
+    <path d="M212 160 L156 216"/>
+    <path d="M120 72 C168 72 184 92 184 128"/>
+    <path d="M156 104 L184 132 L212 104"/>
+  </g>
+</svg>

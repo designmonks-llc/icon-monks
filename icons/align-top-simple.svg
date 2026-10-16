@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="align top,layout,arrange">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="68" y="72" width="120" height="128" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L224 40"/>
+    <rect x="68" y="72" width="120" height="128" rx="12"/>
+  </g>
+</svg>

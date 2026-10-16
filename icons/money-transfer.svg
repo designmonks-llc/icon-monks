@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="transfer,bank,send money,payment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 80 L128 32 L216 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 80 L128 32 L216 80 Z"/>
+    <path d="M80 112 L80 156"/>
+    <path d="M128 112 L128 156"/>
+    <path d="M176 112 L176 156"/>
+    <path d="M32 196 L224 196"/>
+    <path d="M52 176 L32 196 L52 216"/>
+    <path d="M204 176 L224 196 L204 216"/>
+  </g>
+</svg>

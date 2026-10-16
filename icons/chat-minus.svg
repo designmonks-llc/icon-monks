@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="remove message,delete comment,less,chat,remove">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136.63 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 145.58 A50 50 0 0 0 136.63 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136.63 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 145.58"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+</svg>

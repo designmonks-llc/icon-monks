@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="send,remove,minus,paper plane">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M193.28 32 L32 92.48 L99.2 126.08 L132.8 193.28 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M193.28 32 L32 92.48 L99.2 126.08 L132.8 193.28 Z"/>
+    <path d="M170 194 L218 194"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M99.2 126.08 L152.96 72.32"/>
+  </g>
+</svg>

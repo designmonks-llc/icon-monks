@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="align,right,objects,end,layout">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="52" width="144" height="56" rx="12"/>
+    <rect x="88" y="148" width="96" height="56" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 32 L216 224"/>
+    <rect x="40" y="52" width="144" height="56" rx="12"/>
+    <rect x="88" y="148" width="96" height="56" rx="12"/>
+  </g>
+</svg>

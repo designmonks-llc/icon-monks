@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="triangles,pattern,shapes,geometry">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M152 88 L224 216 L80 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 88 L224 216 L80 216 Z"/>
+    <path d="M104 40 L141.5 106.67"/>
+    <path d="M107 168 L32 168"/>
+    <path d="M32 168 L104 40"/>
+  </g>
+</svg>

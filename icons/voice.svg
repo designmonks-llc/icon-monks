@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="voice,speak,speaking,audio">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 216 V188 C42 172 32 150 32 122 C32 76 62 44 100 44 C130 44 144 66 144 92 L144 106 L156 132 L144 136 V156 C144 166 138 172 128 172 H112 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 216 V188 C42 172 32 150 32 122 C32 76 62 44 100 44 C130 44 144 66 144 92 L144 106 L156 132 L144 136 V156 C144 166 138 172 128 172 H112 V216"/>
+    <path d="M177.71 99.72 A44 44 0 0 1 177.71 156.28"/>
+    <path d="M205.28 76.58 A80 80 0 0 1 205.28 179.42"/>
+  </g>
+</svg>

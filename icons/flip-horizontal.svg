@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="flip,mirror,horizontal,reflect,transform">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 64 L96 200 L32 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 64 L96 200 L32 200 Z"/>
+    <path d="M160 64 L160 200 L224 200 Z"/>
+    <path d="M128 32 L128 56"/>
+    <path d="M128 116 L128 140"/>
+    <path d="M128 200 L128 224"/>
+  </g>
+</svg>

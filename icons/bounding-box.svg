@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="bounding box,selection,transform,handles">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="56" width="144" height="144"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="56" cy="56" r="12"/>
+    <circle cx="200" cy="56" r="12"/>
+    <circle cx="200" cy="200" r="12"/>
+    <circle cx="56" cy="200" r="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 56 L180 56"/>
+    <path d="M200 76 L200 180"/>
+    <path d="M180 200 L76 200"/>
+    <path d="M56 180 L56 76"/>
+    <circle cx="56" cy="56" r="20"/>
+    <circle cx="200" cy="56" r="20"/>
+    <circle cx="200" cy="200" r="20"/>
+    <circle cx="56" cy="200" r="20"/>
+  </g>
+</svg>

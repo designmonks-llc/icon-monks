@@ -72,13 +72,13 @@ def clean(p):
 
 
 def stroke(ds, width):
-    out = pathops.Path()
+    pieces = []
     for d in ds:
         p = to_path([d])
         p.stroke(width, pathops.LineCap.ROUND_CAP, pathops.LineJoin.ROUND_JOIN, 4)
-        clean(p)
-        out.addPath(p)
-    return union(out)
+        pieces.append(clean(p))
+    # Each stroked element is resolved and oriented on its own before merging (see union()).
+    return union(*pieces)
 
 
 def union(*paths):
@@ -90,7 +90,23 @@ def union(*paths):
         # Orient each input first: raw shapes and pathops output can wind opposite ways, and under
         # nonzero filling an overlap of opposite windings would cancel out instead of merging.
         acc.addPath(_oriented(p))
-    acc.simplify(fix_winding=False, keep_starting_points=False)
+    try:
+        acc.simplify(fix_winding=False, keep_starting_points=False)
+    except pathops.PathOpsError:
+        return _union_pairwise(paths)
+    return fix_winding(acc)
+
+
+def _union_pairwise(paths):
+    # Fallback when one big simplify fails on a degenerate overlap: merge one input at a time, and
+    # keep an input that still will not merge as a separate (already oriented) contour set.
+    acc = pathops.Path()
+    for p in paths:
+        q = _oriented(p)
+        try:
+            acc = pathops.op(acc, q, pathops.PathOp.UNION, fix_winding=False, keep_starting_points=False)
+        except pathops.PathOpsError:
+            acc.addPath(q)
     return fix_winding(acc)
 
 

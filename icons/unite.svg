@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="union,boolean,combine,merge shapes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M97.97 80.25 A72 72 0 1 0 175.75 158.03 A64 64 0 1 0 97.97 80.25 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97.97 80.25 A72 72 0 1 0 175.75 158.03 A64 64 0 1 0 97.97 80.25 Z"/>
+  </g>
+</svg>

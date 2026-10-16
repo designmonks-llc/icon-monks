@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="polyline,path,vector">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="52" cy="176" r="20"/>
+    <circle cx="100" cy="80" r="20"/>
+    <circle cx="156" cy="176" r="20"/>
+    <circle cx="204" cy="80" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="52" cy="176" r="20"/>
+    <circle cx="100" cy="80" r="20"/>
+    <circle cx="156" cy="176" r="20"/>
+    <circle cx="204" cy="80" r="20"/>
+    <path d="M60.94 158.11 L91.06 97.89"/>
+    <path d="M110.08 97.28 L145.92 158.72"/>
+    <path d="M164.94 158.11 L195.06 97.89"/>
+  </g>
+</svg>

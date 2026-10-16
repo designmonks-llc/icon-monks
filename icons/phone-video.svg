@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="video call,facetime,phone,camera">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 40 H96 L112 92 L88 112 C108 132 124 148 144 168 L164 144 L216 160 V192 A24 24 0 0 1 192 216 C104 216 40 152 40 64 A24 24 0 0 1 64 40 Z"/>
+    <rect x="144" y="52" width="44" height="40" rx="8"/>
+    <path d="M188 64 L216 50 L216 94 L188 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 40 H96 L112 92 L88 112 C108 132 124 148 144 168 L164 144 L216 160 V192 A24 24 0 0 1 192 216 C104 216 40 152 40 64 A24 24 0 0 1 64 40 Z"/>
+    <rect x="144" y="52" width="44" height="40" rx="8"/>
+    <path d="M188 64 L216 50 L216 94 L188 80 Z"/>
+  </g>
+</svg>

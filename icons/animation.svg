@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="motion,movement,tween,keyframes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="168" cy="128" r="56"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="168" cy="128" r="56"/>
+    <path d="M95.88 173.87 A56 56 0 0 1 95.88 82.13"/>
+    <path d="M45.1 164 A56 56 0 0 1 45.1 92"/>
+  </g>
+</svg>

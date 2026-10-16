@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="color swatch,disabled,off,design">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="80" height="192" rx="16"/>
+    <path d="M112 87.43 L141.3 58.13 A14 14 0 0 1 161.1 58.13 L197.87 94.9 A14 14 0 0 1 197.87 114.7 L168.57 144"/>
+    <path d="M112 144 H208 A16 16 0 0 1 224 160 V208 A16 16 0 0 1 208 224 H112"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

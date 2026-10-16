@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="x-ray view,wireframe,see-through">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 92 L92 40 L216 40 L216 164 L164 216 L40 216 Z"/>
+    <path d="M40 92 L164 92 L164 216"/>
+    <path d="M164 92 L216 40"/>
+    <path d="M92 116 L92 136"/>
+    <path d="M120 164 L140 164"/>
+    <path d="M70.79 185.21 L56.64 199.36"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="92" cy="164" r="12"/>
+  </g>
+</svg>

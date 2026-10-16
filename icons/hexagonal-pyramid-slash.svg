@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="hexagonal pyramid,off,disabled,hidden,hexagonal">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L224 188 L176 213.98 L80 213.98 L32 188 Z"/>
+    <path d="M128 32 L176 213.98"/>
+    <path d="M128 32 L80 213.98"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

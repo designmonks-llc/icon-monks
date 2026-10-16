@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="presentation,speaker,co-present,lecture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="68" cy="80" r="28"/>
+    <path d="M32 216 V180 A36 36 0 0 1 104 180 V216 Z"/>
+    <rect x="120" y="40" width="104" height="96" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="68" cy="80" r="28"/>
+    <path d="M32 216 V180 A36 36 0 0 1 104 180 V216"/>
+    <rect x="120" y="40" width="104" height="96" rx="12"/>
+    <path d="M172 136 L172 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 72 L196 72"/>
+    <path d="M148 104 L180 104"/>
+  </g>
+</svg>

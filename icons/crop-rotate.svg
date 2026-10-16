@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="crop,rotate,image edit,straighten,rotate crop">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 68 L60 184 L176 184"/>
+    <path d="M32 96 L148 96 L148 212"/>
+    <path d="M116 40 A88 88 0 0 1 203.67 120.33"/>
+    <path d="M182.22 102.33 L203.67 120.33 L221.66 98.88"/>
+  </g>
+</svg>

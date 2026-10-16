@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="refund,money back,return,payment">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 204.21 A88 88 0 1 0 51.79 172"/>
+    <path d="M60.59 139.16 L51.79 172 L18.95 163.2"/>
+    <path d="M128 84 L128 172"/>
+    <path d="M152 96 H120 A16 16 0 0 0 120 128 H136 A16 16 0 0 1 136 160 H104"/>
+  </g>
+</svg>

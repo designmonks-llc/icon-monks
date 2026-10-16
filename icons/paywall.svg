@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="paywall,subscription,locked content,premium">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 168 V48 A16 16 0 0 1 56 32 H200 A16 16 0 0 1 216 48 V168 H215.64 A88 88 0 0 0 40.36 168 Z"/>
+    <circle cx="128" cy="160" r="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 168 V48 A16 16 0 0 1 56 32 H200 A16 16 0 0 1 216 48 V168"/>
+    <circle cx="128" cy="160" r="64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 68 L176 68"/>
+    <path d="M128 116 L128 204"/>
+    <path d="M152 128 H120 A16 16 0 0 0 120 160 H136 A16 16 0 0 1 136 192 H104"/>
+  </g>
+</svg>

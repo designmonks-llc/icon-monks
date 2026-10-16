@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="anchor point,transform,origin,pivot">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="56" width="144" height="144"/>
+    <rect x="40" y="40" width="32" height="32" rx="6"/>
+    <rect x="184" y="40" width="32" height="32" rx="6"/>
+    <rect x="184" y="184" width="32" height="32" rx="6"/>
+    <rect x="40" y="184" width="32" height="32" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="32" height="32" rx="6"/>
+    <rect x="184" y="40" width="32" height="32" rx="6"/>
+    <rect x="184" y="184" width="32" height="32" rx="6"/>
+    <rect x="40" y="184" width="32" height="32" rx="6"/>
+    <path d="M72 56 L184 56"/>
+    <path d="M200 72 L200 184"/>
+    <path d="M184 200 L72 200"/>
+    <path d="M56 184 L56 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="24"/>
+  </g>
+</svg>

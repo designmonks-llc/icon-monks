@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="spline,curve,path,smooth">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="176" width="32" height="32" rx="6"/>
+    <rect x="112" y="112" width="32" height="32" rx="6"/>
+    <rect x="184" y="48" width="32" height="32" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="176" width="32" height="32" rx="6"/>
+    <rect x="112" y="112" width="32" height="32" rx="6"/>
+    <rect x="184" y="48" width="32" height="32" rx="6"/>
+    <path d="M56.58 176 C60.73 121.5 86.43 104.01 112 116.28"/>
+    <path d="M144 139.72 C169.57 151.99 195.27 134.5 199.42 80"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="warehouse,storage,inventory,logistics,depot">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V96 L128 40 L224 96 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V96 L128 40 L224 96 V216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 216 V112 H192 V216"/>
+    <path d="M64 144 L192 144"/>
+    <rect x="100" y="176" width="56" height="40" rx="6"/>
+  </g>
+</svg>

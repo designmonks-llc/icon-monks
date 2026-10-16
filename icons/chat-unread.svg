@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="unread message,new chat,notification,badge,new">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M216 108.37 L216 184 A16 16 0 0 1 200 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L138.15 56 A54 54 0 0 0 216 108.37 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 108.37 L216 184 A16 16 0 0 1 200 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L138.15 56"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="192" cy="60" r="28"/>
+  </g>
+</svg>

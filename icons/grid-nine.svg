@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="grid,3x3,tiles,gallery,lattice">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="42.67" height="42.67" rx="10"/>
+    <rect x="106.67" y="32" width="42.67" height="42.67" rx="10"/>
+    <rect x="181.33" y="32" width="42.67" height="42.67" rx="10"/>
+    <rect x="32" y="106.67" width="42.67" height="42.67" rx="10"/>
+    <rect x="106.67" y="106.67" width="42.67" height="42.67" rx="10"/>
+    <rect x="181.33" y="106.67" width="42.67" height="42.67" rx="10"/>
+    <rect x="32" y="181.33" width="42.67" height="42.67" rx="10"/>
+    <rect x="106.67" y="181.33" width="42.67" height="42.67" rx="10"/>
+    <rect x="181.33" y="181.33" width="42.67" height="42.67" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="42.67" height="42.67" rx="10"/>
+    <rect x="106.67" y="32" width="42.67" height="42.67" rx="10"/>
+    <rect x="181.33" y="32" width="42.67" height="42.67" rx="10"/>
+    <rect x="32" y="106.67" width="42.67" height="42.67" rx="10"/>
+    <rect x="106.67" y="106.67" width="42.67" height="42.67" rx="10"/>
+    <rect x="181.33" y="106.67" width="42.67" height="42.67" rx="10"/>
+    <rect x="32" y="181.33" width="42.67" height="42.67" rx="10"/>
+    <rect x="106.67" y="181.33" width="42.67" height="42.67" rx="10"/>
+    <rect x="181.33" y="181.33" width="42.67" height="42.67" rx="10"/>
+  </g>
+</svg>

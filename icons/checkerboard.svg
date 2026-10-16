@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="checkerboard,transparency,pattern,chess,opacity">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 40 V128 H40 V56 A16 16 0 0 1 56 40 Z"/>
+    <path d="M128 216 V128 H216 V200 A16 16 0 0 1 200 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+    <path d="M128 40 L128 216"/>
+    <path d="M40 128 L216 128"/>
+    <path d="M40 100 L100 40"/>
+    <path d="M68 128 L128 68"/>
+    <path d="M128 188 L188 128"/>
+    <path d="M156 216 L216 156"/>
+  </g>
+</svg>

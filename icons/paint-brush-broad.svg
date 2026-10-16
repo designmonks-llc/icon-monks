@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="wide brush,paint,wall brush">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 88 V48 A16 16 0 0 1 124 32 H132 A16 16 0 0 1 148 48 V88 Z"/>
+    <rect x="64" y="88" width="128" height="40" rx="10"/>
+    <path d="M64 128 L56 208 A16 16 0 0 0 72 224 H184 A16 16 0 0 0 200 208 L192 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 88 V48 A16 16 0 0 1 124 32 H132 A16 16 0 0 1 148 48 V88"/>
+    <rect x="64" y="88" width="128" height="40" rx="10"/>
+    <path d="M64 128 L56 208 A16 16 0 0 0 72 224 H184 A16 16 0 0 0 200 208 L192 128"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 160 L96 192"/>
+    <path d="M128 160 L128 192"/>
+    <path d="M160 160 L160 192"/>
+  </g>
+</svg>

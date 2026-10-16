@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="withdraw,cash out,take money">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 152 H108 C120 152 126 160 132 168 H160 L194 146 A15 15 0 0 1 212 168 L168 212 H64 Z"/>
+    <circle cx="100" cy="80" r="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="144" width="32" height="72" rx="8"/>
+    <path d="M64 152 H108 C120 152 126 160 132 168 H160 L194 146 A15 15 0 0 1 212 168 L168 212 H64 Z"/>
+    <circle cx="100" cy="80" r="36"/>
+    <path d="M184 112 L184 36"/>
+    <path d="M160 60 L184 36 L208 60"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 184 L140 184"/>
+    <path d="M100 66 L100 94"/>
+  </g>
+</svg>

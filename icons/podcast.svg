@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="podcast,broadcast,microphone,audio,audio show">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="108" y="64" width="40" height="80" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="108" y="64" width="40" height="80" rx="20"/>
+    <path d="M128 144 L128 216"/>
+    <path d="M100 216 L156 216"/>
+    <path d="M170.9 68 A56 56 0 0 1 170.9 140"/>
+    <path d="M85.1 140 A56 56 0 0 1 85.1 68"/>
+    <path d="M198.48 44.86 A92 92 0 0 1 198.48 163.14"/>
+    <path d="M57.52 163.14 A92 92 0 0 1 57.52 44.86"/>
+  </g>
+</svg>

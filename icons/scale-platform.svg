@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="industrial scale,weigh,platform,warehouse">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="184" width="192" height="32" rx="12"/>
+    <rect x="144" y="40" width="80" height="64" rx="12"/>
+    <rect x="48" y="120" width="88" height="64" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="184" width="192" height="32" rx="12"/>
+    <path d="M184 104 L184 184"/>
+    <rect x="144" y="40" width="80" height="64" rx="12"/>
+    <rect x="48" y="120" width="88" height="64" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 72 L200 72"/>
+  </g>
+</svg>

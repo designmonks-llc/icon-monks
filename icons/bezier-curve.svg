@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="bezier,curve,vector,path,ease curve">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="108" y="82" width="40" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 216 C61.61 162.67 79.04 128.05 100 112.14"/>
+    <path d="M156 112.14 C176.96 128.05 194.39 162.67 200 216"/>
+    <path d="M64 102 L108 102"/>
+    <path d="M148 102 L192 102"/>
+    <circle cx="48" cy="102" r="16"/>
+    <circle cx="208" cy="102" r="16"/>
+    <rect x="108" y="82" width="40" height="40" rx="8"/>
+  </g>
+</svg>

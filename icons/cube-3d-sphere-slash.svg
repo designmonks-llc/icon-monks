@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="cube 3d sphere,disabled,off,3d,sphere">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M128 70.4 L180.8 99.2 L180.8 156.8 L128 185.6 L75.2 156.8 L75.2 99.2 L128 70.4 Z"/>
+    <path d="M75.2 99.2 L128 128 L180.8 99.2"/>
+    <path d="M128 128 L128 185.6"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

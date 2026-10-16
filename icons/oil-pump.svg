@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="oil,pumpjack,petroleum,industry">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="64" width="40" height="72" rx="12"/>
+    <circle cx="200" cy="164" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="64" width="40" height="72" rx="12"/>
+    <path d="M80 88 L208 88"/>
+    <path d="M104 216 L136 88 L168 216"/>
+    <path d="M60 136 L60 216"/>
+    <path d="M200 88 L200 144"/>
+    <circle cx="200" cy="164" r="20"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+</svg>

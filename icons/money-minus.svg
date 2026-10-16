@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money minus,remove,subtract,money,cash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132.13 192 L38 192 A14 14 0 0 1 24 178 L24 78 A14 14 0 0 1 38 64 L218 64 A14 14 0 0 1 232 78 L232 143.08 A64 64 0 0 0 132.13 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132.13 192 L38 192 A14 14 0 0 1 24 178 L24 78 A14 14 0 0 1 38 64 L218 64 A14 14 0 0 1 232 78 L232 143.08"/>
+    <path d="M168 196 L224 196"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="28"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="64" cy="128" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="distribute,spacing,vertical,top">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="84" y="32" width="88" height="36" rx="10"/>
+    <rect x="60" y="110" width="136" height="36" rx="10"/>
+    <rect x="100" y="188" width="56" height="36" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="32" width="88" height="36" rx="10"/>
+    <path d="M224 32 L32 32"/>
+    <rect x="60" y="110" width="136" height="36" rx="10"/>
+    <path d="M224 110 L32 110"/>
+    <rect x="100" y="188" width="56" height="36" rx="10"/>
+    <path d="M224 188 L32 188"/>
+  </g>
+</svg>

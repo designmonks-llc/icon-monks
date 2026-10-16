@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="banknote,cash,bill">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M24 72 C59 48 93 48 128 72 C163 96 197 96 232 72 V184 C197 208 163 208 128 184 C93 160 59 160 24 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 72 C59 48 93 48 128 72 C163 96 197 96 232 72 V184 C197 208 163 208 128 184 C93 160 59 160 24 184 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="28"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="68" cy="120" r="16"/>
+    <circle cx="188" cy="136" r="16"/>
+  </g>
+</svg>

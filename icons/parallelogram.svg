@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="parallelogram,quadrilateral,shape,geometry,slanted">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 48 L224 48 L168 208 L32 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 48 L224 48 L168 208 L32 208 Z"/>
+  </g>
+</svg>

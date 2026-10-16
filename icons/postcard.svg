@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="postcard,mail,card,greeting,travel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 88 L136 168"/>
+    <path d="M84 149.44 C84 149.44 58.08 135.4 58.08 118.66 A13.5 13.5 0 0 1 84 113.26 A13.5 13.5 0 0 1 109.92 118.66 C109.92 135.4 84 149.44 84 149.44 Z"/>
+    <path d="M164 112 L192 112"/>
+    <path d="M164 148 L192 148"/>
+  </g>
+</svg>

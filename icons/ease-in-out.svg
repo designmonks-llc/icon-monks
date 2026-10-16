@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="ease in out,animation,curve,timing">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 208 C144 208 112 48 208 48"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="208" r="16"/>
+    <circle cx="208" cy="48" r="16"/>
+  </g>
+</svg>

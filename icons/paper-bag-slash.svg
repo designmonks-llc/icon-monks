@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="paper bag,off,disabled,hidden,paper">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 40 L74 52 L92 40 L110 52 L128 40 L146 52 L164 40 L182 52 L200 40 V214 A10 10 0 0 1 190 224 H66 A10 10 0 0 1 56 214 Z"/>
+    <path d="M56 92 L200 92"/>
+    <path d="M108 92 A20 20 0 0 0 148 92"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="mail,resend,refresh,envelope">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124.1 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 136.63 A62 62 0 0 0 124.1 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124.1 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 136.63"/>
+    <path d="M210 184 A26 26 0 1 1 202.38 165.62"/>
+    <path d="M182.38 165.62 L202.38 165.62 L202.38 145.62"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 76 L128 140 L208 76"/>
+  </g>
+</svg>

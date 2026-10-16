@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="dotted line,stroke,dots,style">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="50" cy="206" r="20"/>
+    <circle cx="102" cy="154" r="20"/>
+    <circle cx="154" cy="102" r="20"/>
+    <circle cx="206" cy="50" r="20"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="pallet,warehouse,logistics,shipping">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="56" width="80" height="80" rx="8"/>
+    <rect x="144" y="88" width="64" height="48" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 168 L224 168"/>
+    <path d="M32 216 L224 216"/>
+    <path d="M48 168 L48 216"/>
+    <path d="M128 168 L128 216"/>
+    <path d="M208 168 L208 216"/>
+    <rect x="48" y="56" width="80" height="80" rx="8"/>
+    <rect x="144" y="88" width="64" height="48" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 56 L88 84"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="angle,geometry,degrees,measure">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M147.37 48.82 L40 208 L224 208"/>
+    <path d="M136 208 A96 96 0 0 0 93.68 128.41"/>
+  </g>
+</svg>

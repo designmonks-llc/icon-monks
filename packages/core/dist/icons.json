@@ -109,6 +109,164 @@
   ]
  },
  {
+  "name": "align-bottom",
+  "category": "Design",
+  "tags": [
+   "align",
+   "bottom",
+   "objects",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-bottom-simple",
+  "category": "Design",
+  "tags": [
+   "align bottom",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-center-horizontal",
+  "category": "Design",
+  "tags": [
+   "align",
+   "center",
+   "horizontal",
+   "objects",
+   "align center"
+  ]
+ },
+ {
+  "name": "align-center-horizontal-simple",
+  "category": "Design",
+  "tags": [
+   "align center",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-center-vertical",
+  "category": "Design",
+  "tags": [
+   "align",
+   "middle",
+   "vertical",
+   "objects",
+   "align middle"
+  ]
+ },
+ {
+  "name": "align-center-vertical-simple",
+  "category": "Design",
+  "tags": [
+   "align middle",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-grid",
+  "category": "Design",
+  "tags": [
+   "alignment",
+   "anchor",
+   "position",
+   "grid"
+  ]
+ },
+ {
+  "name": "align-horizontal-spacing",
+  "category": "Design",
+  "tags": [
+   "distribute horizontally",
+   "spacing",
+   "layout"
+  ]
+ },
+ {
+  "name": "align-left",
+  "category": "Design",
+  "tags": [
+   "align",
+   "left",
+   "objects",
+   "start",
+   "layout"
+  ]
+ },
+ {
+  "name": "align-left-simple",
+  "category": "Design",
+  "tags": [
+   "align left",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-right",
+  "category": "Design",
+  "tags": [
+   "align",
+   "right",
+   "objects",
+   "end",
+   "layout"
+  ]
+ },
+ {
+  "name": "align-right-simple",
+  "category": "Design",
+  "tags": [
+   "align right",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-stretch",
+  "category": "Design",
+  "tags": [
+   "stretch",
+   "fill",
+   "flex",
+   "layout"
+  ]
+ },
+ {
+  "name": "align-top",
+  "category": "Design",
+  "tags": [
+   "align",
+   "top",
+   "objects",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-top-simple",
+  "category": "Design",
+  "tags": [
+   "align top",
+   "layout",
+   "arrange"
+  ]
+ },
+ {
+  "name": "align-vertical-spacing",
+  "category": "Design",
+  "tags": [
+   "distribute vertically",
+   "spacing",
+   "layout"
+  ]
+ },
+ {
   "name": "analyze",
   "category": "Charts",
   "tags": [
@@ -136,6 +294,35 @@
    "harbor",
    "sea",
    "nautical"
+  ]
+ },
+ {
+  "name": "angle",
+  "category": "Design",
+  "tags": [
+   "angle",
+   "geometry",
+   "degrees",
+   "measure"
+  ]
+ },
+ {
+  "name": "angle-tool",
+  "category": "Design",
+  "tags": [
+   "protractor",
+   "measure angle",
+   "geometry"
+  ]
+ },
+ {
+  "name": "animation",
+  "category": "Design",
+  "tags": [
+   "motion",
+   "movement",
+   "tween",
+   "keyframes"
   ]
  },
  {
@@ -2269,6 +2456,26 @@
   ]
  },
  {
+  "name": "artboard",
+  "category": "Design",
+  "tags": [
+   "artboard",
+   "canvas",
+   "frame",
+   "design"
+  ]
+ },
+ {
+  "name": "artboard-slash",
+  "category": "Design",
+  "tags": [
+   "artboard",
+   "disabled",
+   "off",
+   "design"
+  ]
+ },
+ {
   "name": "article",
   "category": "Editor",
   "tags": [
@@ -2277,6 +2484,27 @@
    "blog",
    "document",
    "news"
+  ]
+ },
+ {
+  "name": "aspect-ratio",
+  "category": "Design",
+  "tags": [
+   "ratio",
+   "aspect",
+   "dimensions",
+   "crop",
+   "resize"
+  ]
+ },
+ {
+  "name": "aspect-ratio-slash",
+  "category": "Design",
+  "tags": [
+   "aspect ratio",
+   "disabled",
+   "off",
+   "design"
   ]
  },
  {
@@ -2372,6 +2600,16 @@
    "newborn",
    "kid",
    "toddler"
+  ]
+ },
+ {
+  "name": "background",
+  "category": "Design",
+  "tags": [
+   "background",
+   "layer",
+   "canvas",
+   "fill"
   ]
  },
  {
@@ -3396,6 +3634,27 @@
   ]
  },
  {
+  "name": "bezier-curve",
+  "category": "Design",
+  "tags": [
+   "bezier",
+   "curve",
+   "vector",
+   "path",
+   "ease curve"
+  ]
+ },
+ {
+  "name": "bezier-node",
+  "category": "Design",
+  "tags": [
+   "anchor point",
+   "node",
+   "vector",
+   "path"
+  ]
+ },
+ {
   "name": "bicycle",
   "category": "Maps",
   "tags": [
@@ -3429,6 +3688,44 @@
   ]
  },
  {
+  "name": "blend-mode",
+  "category": "Design",
+  "tags": [
+   "blend",
+   "overlay",
+   "layers",
+   "mix"
+  ]
+ },
+ {
+  "name": "blob",
+  "category": "Design",
+  "tags": [
+   "blob",
+   "shape",
+   "organic"
+  ]
+ },
+ {
+  "name": "blob-dashed",
+  "category": "Design",
+  "tags": [
+   "blob",
+   "shape",
+   "outline",
+   "dashed"
+  ]
+ },
+ {
+  "name": "blueprint",
+  "category": "Design",
+  "tags": [
+   "plan",
+   "blueprint",
+   "architecture"
+  ]
+ },
+ {
   "name": "bluetooth",
   "category": "Devices",
   "tags": [
@@ -3436,6 +3733,38 @@
    "pairing",
    "connect",
    "signal"
+  ]
+ },
+ {
+  "name": "blur",
+  "category": "Design",
+  "tags": [
+   "blur",
+   "soften",
+   "dots",
+   "photo effect",
+   "lens blur"
+  ]
+ },
+ {
+  "name": "blur-motion",
+  "category": "Design",
+  "tags": [
+   "motion blur",
+   "speed",
+   "movement",
+   "streak"
+  ]
+ },
+ {
+  "name": "blur-slash",
+  "category": "Design",
+  "tags": [
+   "blur off",
+   "sharpen",
+   "photo effect",
+   "disable",
+   "no blur"
   ]
  },
  {
@@ -3510,6 +3839,26 @@
   ]
  },
  {
+  "name": "border-dotted",
+  "category": "Design",
+  "tags": [
+   "dotted",
+   "border",
+   "stroke",
+   "line style"
+  ]
+ },
+ {
+  "name": "bounding-box",
+  "category": "Design",
+  "tags": [
+   "bounding box",
+   "selection",
+   "transform",
+   "handles"
+  ]
+ },
+ {
   "name": "bowl-food",
   "category": "Food",
   "tags": [
@@ -3518,6 +3867,16 @@
    "ramen",
    "hot",
    "food"
+  ]
+ },
+ {
+  "name": "box-multiple",
+  "category": "Design",
+  "tags": [
+   "box multiple",
+   "box",
+   "multiple",
+   "design"
   ]
  },
  {
@@ -3581,6 +3940,28 @@
    "disabled",
    "off",
    "business"
+  ]
+ },
+ {
+  "name": "bring-forward",
+  "category": "Design",
+  "tags": [
+   "bring forward",
+   "layer",
+   "arrange",
+   "order",
+   "layers"
+  ]
+ },
+ {
+  "name": "bring-to-front",
+  "category": "Design",
+  "tags": [
+   "arrange",
+   "layer",
+   "front",
+   "order",
+   "bring forward"
   ]
  },
  {
@@ -3731,6 +4112,26 @@
   ]
  },
  {
+  "name": "building-office-warning",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "alert",
+   "exclamation"
+  ]
+ },
+ {
+  "name": "building-office-x",
+  "category": "Business",
+  "tags": [
+   "building",
+   "office",
+   "remove",
+   "x"
+  ]
+ },
+ {
   "name": "buildings",
   "category": "Business",
   "tags": [
@@ -3750,6 +4151,16 @@
    "public",
    "vehicle",
    "school"
+  ]
+ },
+ {
+  "name": "business-plan",
+  "category": "Business",
+  "tags": [
+   "business plan",
+   "strategy",
+   "finance",
+   "growth"
   ]
  },
  {
@@ -3792,6 +4203,16 @@
    "accounting",
    "numbers",
    "calculate"
+  ]
+ },
+ {
+  "name": "calculator-slash",
+  "category": "Business",
+  "tags": [
+   "calculator",
+   "disabled",
+   "off",
+   "business"
   ]
  },
  {
@@ -3853,6 +4274,15 @@
    "canary",
    "testing",
    "release"
+  ]
+ },
+ {
+  "name": "capsule",
+  "category": "Design",
+  "tags": [
+   "capsule",
+   "pill shape",
+   "shape"
   ]
  },
  {
@@ -4319,6 +4749,38 @@
   ]
  },
  {
+  "name": "category",
+  "category": "Design",
+  "tags": [
+   "category",
+   "shapes",
+   "group",
+   "classify"
+  ]
+ },
+ {
+  "name": "category-minus",
+  "category": "Design",
+  "tags": [
+   "category",
+   "remove",
+   "subtract",
+   "shapes",
+   "group"
+  ]
+ },
+ {
+  "name": "category-plus",
+  "category": "Design",
+  "tags": [
+   "category",
+   "add",
+   "new",
+   "shapes",
+   "group"
+  ]
+ },
+ {
   "name": "cell-signal-full",
   "category": "Devices",
   "tags": [
@@ -4348,6 +4810,16 @@
    "document",
    "credential",
    "license"
+  ]
+ },
+ {
+  "name": "certificate-slash",
+  "category": "Business",
+  "tags": [
+   "certificate",
+   "disabled",
+   "off",
+   "business"
   ]
  },
  {
@@ -5071,6 +5543,273 @@
   ]
  },
  {
+  "name": "chat-history",
+  "category": "Communication",
+  "tags": [
+   "chat history",
+   "conversation log",
+   "messages",
+   "past"
+  ]
+ },
+ {
+  "name": "chat-image",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "image",
+   "photo",
+   "message",
+   "mms"
+  ]
+ },
+ {
+  "name": "chat-info",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "info",
+   "help",
+   "message"
+  ]
+ },
+ {
+  "name": "chat-lightning",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "fast",
+   "power",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-lock",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "private",
+   "secure",
+   "message",
+   "private chat"
+  ]
+ },
+ {
+  "name": "chat-magnifying-glass",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "search",
+   "find",
+   "message",
+   "search messages"
+  ]
+ },
+ {
+  "name": "chat-medical",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "medical",
+   "health",
+   "consultation"
+  ]
+ },
+ {
+  "name": "chat-microphone",
+  "category": "Communication",
+  "tags": [
+   "voice message",
+   "audio chat",
+   "voice note",
+   "chat"
+  ]
+ },
+ {
+  "name": "chat-minus",
+  "category": "Communication",
+  "tags": [
+   "remove message",
+   "delete comment",
+   "less",
+   "chat",
+   "remove"
+  ]
+ },
+ {
+  "name": "chat-pause",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "paused",
+   "hold",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-pencil",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "edit",
+   "write",
+   "message"
+  ]
+ },
+ {
+  "name": "chat-plus",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "new message",
+   "add",
+   "compose",
+   "new chat"
+  ]
+ },
+ {
+  "name": "chat-poll",
+  "category": "Communication",
+  "tags": [
+   "poll",
+   "vote",
+   "chat",
+   "survey"
+  ]
+ },
+ {
+  "name": "chat-prohibit",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "blocked",
+   "message",
+   "prohibit"
+  ]
+ },
+ {
+  "name": "chat-push-pin",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "pinned",
+   "pin",
+   "message",
+   "conversation"
+  ]
+ },
+ {
+  "name": "chat-question",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "question",
+   "help",
+   "faq",
+   "questionnaire"
+  ]
+ },
+ {
+  "name": "chat-quote",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "quote",
+   "testimonial",
+   "message",
+   "quote reply"
+  ]
+ },
+ {
+  "name": "chat-reply",
+  "category": "Communication",
+  "tags": [
+   "reply",
+   "respond",
+   "answer message",
+   "chat",
+   "answer"
+  ]
+ },
+ {
+  "name": "chat-report",
+  "category": "Communication",
+  "tags": [
+   "chat report",
+   "message",
+   "conversation",
+   "comment",
+   "chat"
+  ]
+ },
+ {
+  "name": "chat-share",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "share",
+   "forward",
+   "message",
+   "send"
+  ]
+ },
+ {
+  "name": "chat-shield",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "secure",
+   "protected",
+   "message"
+  ]
+ },
+ {
+  "name": "chat-slash",
+  "category": "Communication",
+  "tags": [
+   "chat off",
+   "mute",
+   "message",
+   "disabled",
+   "mute chat"
+  ]
+ },
+ {
+  "name": "chat-smiley",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "emoji",
+   "friendly",
+   "message",
+   "reaction"
+  ]
+ },
+ {
+  "name": "chat-sparkle",
+  "category": "Communication",
+  "tags": [
+   "ai chat",
+   "assistant",
+   "chatbot",
+   "sparkle",
+   "chat"
+  ]
+ },
+ {
+  "name": "chat-star",
+  "category": "Communication",
+  "tags": [
+   "starred message",
+   "favorite",
+   "highlight",
+   "review",
+   "rating"
+  ]
+ },
+ {
   "name": "chat-text",
   "category": "Communication",
   "tags": [
@@ -5078,6 +5817,101 @@
    "comment",
    "bubble",
    "conversation"
+  ]
+ },
+ {
+  "name": "chat-translate",
+  "category": "Communication",
+  "tags": [
+   "translate message",
+   "language",
+   "localization",
+   "chat",
+   "translation"
+  ]
+ },
+ {
+  "name": "chat-trash",
+  "category": "Communication",
+  "tags": [
+   "delete chat",
+   "remove conversation",
+   "chat",
+   "trash"
+  ]
+ },
+ {
+  "name": "chat-unread",
+  "category": "Communication",
+  "tags": [
+   "unread message",
+   "new chat",
+   "notification",
+   "badge",
+   "new"
+  ]
+ },
+ {
+  "name": "chat-user",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "user",
+   "contact",
+   "message",
+   "third party"
+  ]
+ },
+ {
+  "name": "chat-video",
+  "category": "Communication",
+  "tags": [
+   "video chat",
+   "video call",
+   "chat",
+   "camera"
+  ]
+ },
+ {
+  "name": "chat-voice",
+  "category": "Communication",
+  "tags": [
+   "voice message",
+   "audio message",
+   "chat",
+   "sound"
+  ]
+ },
+ {
+  "name": "chat-warning",
+  "category": "Communication",
+  "tags": [
+   "chat",
+   "alert",
+   "exclamation",
+   "message",
+   "report message"
+  ]
+ },
+ {
+  "name": "chat-x",
+  "category": "Communication",
+  "tags": [
+   "delete message",
+   "failed message",
+   "error",
+   "chat",
+   "remove"
+  ]
+ },
+ {
+  "name": "chatbot",
+  "category": "Communication",
+  "tags": [
+   "bot",
+   "assistant",
+   "support",
+   "ai"
   ]
  },
  {
@@ -5089,6 +5923,16 @@
    "discussion",
    "chat",
    "reply"
+  ]
+ },
+ {
+  "name": "chats-slash",
+  "category": "Communication",
+  "tags": [
+   "chat disabled",
+   "messages off",
+   "mute",
+   "conversation"
   ]
  },
  {
@@ -5133,6 +5977,17 @@
   ]
  },
  {
+  "name": "checkerboard",
+  "category": "Design",
+  "tags": [
+   "checkerboard",
+   "transparency",
+   "pattern",
+   "chess",
+   "opacity"
+  ]
+ },
+ {
   "name": "chess-knight",
   "category": "Sports",
   "tags": [
@@ -5164,6 +6019,28 @@
   ]
  },
  {
+  "name": "circle-dashed",
+  "category": "Design",
+  "tags": [
+   "circle",
+   "dashed",
+   "dotted",
+   "draft",
+   "dashed circle"
+  ]
+ },
+ {
+  "name": "circle-half",
+  "category": "Design",
+  "tags": [
+   "contrast",
+   "adjust",
+   "half",
+   "tone",
+   "half circle"
+  ]
+ },
+ {
   "name": "circle-notch",
   "category": "Interface",
   "tags": [
@@ -5174,6 +6051,35 @@
   ]
  },
  {
+  "name": "circles-four",
+  "category": "Design",
+  "tags": [
+   "four circles",
+   "grid",
+   "dots"
+  ]
+ },
+ {
+  "name": "circles-three",
+  "category": "Design",
+  "tags": [
+   "three circles",
+   "venn",
+   "group",
+   "color filter",
+   "rgb"
+  ]
+ },
+ {
+  "name": "circles-three-plus",
+  "category": "Interface",
+  "tags": [
+   "add group",
+   "apps",
+   "more"
+  ]
+ },
+ {
   "name": "clipboard",
   "category": "Files",
   "tags": [
@@ -5181,6 +6087,16 @@
    "copy",
    "board",
    "tasks"
+  ]
+ },
+ {
+  "name": "clipboard-clock",
+  "category": "Business",
+  "tags": [
+   "pending tasks",
+   "deadline",
+   "scheduled",
+   "clipboard"
   ]
  },
  {
@@ -5195,6 +6111,17 @@
   ]
  },
  {
+  "name": "clipboard-magnifying-glass",
+  "category": "Business",
+  "tags": [
+   "audit",
+   "review",
+   "inspect",
+   "check",
+   "clipboard"
+  ]
+ },
+ {
   "name": "clipboard-text",
   "category": "Files",
   "tags": [
@@ -5202,6 +6129,26 @@
    "notes",
    "list",
    "report"
+  ]
+ },
+ {
+  "name": "clipboard-user",
+  "category": "Business",
+  "tags": [
+   "assignment",
+   "assignee",
+   "profile",
+   "clipboard"
+  ]
+ },
+ {
+  "name": "clipboard-warning",
+  "category": "Business",
+  "tags": [
+   "late",
+   "overdue",
+   "alert",
+   "clipboard"
   ]
  },
  {
@@ -5478,6 +6425,15 @@
   ]
  },
  {
+  "name": "color-wheel",
+  "category": "Design",
+  "tags": [
+   "hue",
+   "color picker",
+   "spectrum"
+  ]
+ },
+ {
   "name": "columns",
   "category": "Editor",
   "tags": [
@@ -5506,6 +6462,49 @@
    "direction",
    "explore",
    "north"
+  ]
+ },
+ {
+  "name": "compass-tool",
+  "category": "Design",
+  "tags": [
+   "drafting compass",
+   "geometry",
+   "draw circle",
+   "compasses",
+   "architecture"
+  ]
+ },
+ {
+  "name": "cone",
+  "category": "Design",
+  "tags": [
+   "cone",
+   "3d",
+   "geometry",
+   "shape"
+  ]
+ },
+ {
+  "name": "cone-plus",
+  "category": "Design",
+  "tags": [
+   "cone",
+   "add",
+   "new",
+   "shape",
+   "3d"
+  ]
+ },
+ {
+  "name": "cone-slash",
+  "category": "Design",
+  "tags": [
+   "cone",
+   "disabled",
+   "off",
+   "shape",
+   "3d"
   ]
  },
  {
@@ -5541,6 +6540,47 @@
   ]
  },
  {
+  "name": "contract",
+  "category": "Business",
+  "tags": [
+   "contract",
+   "agreement",
+   "document",
+   "signature"
+  ]
+ },
+ {
+  "name": "contrast",
+  "category": "Design",
+  "tags": [
+   "contrast",
+   "brightness",
+   "adjust",
+   "tone",
+   "half circle"
+  ]
+ },
+ {
+  "name": "contrast-slash",
+  "category": "Design",
+  "tags": [
+   "contrast",
+   "disabled",
+   "off",
+   "design"
+  ]
+ },
+ {
+  "name": "conveyor-belt",
+  "category": "Business",
+  "tags": [
+   "conveyor",
+   "factory",
+   "logistics",
+   "belt"
+  ]
+ },
+ {
   "name": "cookie",
   "category": "Food",
   "tags": [
@@ -5558,6 +6598,24 @@
    "duplicate",
    "clipboard",
    "clone"
+  ]
+ },
+ {
+  "name": "corner-bottom-left",
+  "category": "Design",
+  "tags": [
+   "rounded corner",
+   "corner radius",
+   "border"
+  ]
+ },
+ {
+  "name": "corner-bottom-right",
+  "category": "Design",
+  "tags": [
+   "rounded corner",
+   "corner radius",
+   "border"
   ]
  },
  {
@@ -5605,6 +6663,46 @@
   ]
  },
  {
+  "name": "corner-radius-bottom-left",
+  "category": "Design",
+  "tags": [
+   "border radius",
+   "rounded corner",
+   "bottom left",
+   "css"
+  ]
+ },
+ {
+  "name": "corner-radius-bottom-right",
+  "category": "Design",
+  "tags": [
+   "border radius",
+   "rounded corner",
+   "bottom right",
+   "css"
+  ]
+ },
+ {
+  "name": "corner-radius-top-left",
+  "category": "Design",
+  "tags": [
+   "border radius",
+   "rounded corner",
+   "top left",
+   "css"
+  ]
+ },
+ {
+  "name": "corner-radius-top-right",
+  "category": "Design",
+  "tags": [
+   "border radius",
+   "rounded corner",
+   "top right",
+   "css"
+  ]
+ },
+ {
   "name": "corner-right-down-double",
   "category": "Arrows",
   "tags": [
@@ -5624,6 +6722,35 @@
    "turn",
    "right",
    "up"
+  ]
+ },
+ {
+  "name": "corner-round",
+  "category": "Design",
+  "tags": [
+   "rounded corner",
+   "radius",
+   "border radius",
+   "corner",
+   "corner radius"
+  ]
+ },
+ {
+  "name": "corner-top-left",
+  "category": "Design",
+  "tags": [
+   "rounded corner",
+   "corner radius",
+   "border"
+  ]
+ },
+ {
+  "name": "corner-top-right",
+  "category": "Design",
+  "tags": [
+   "rounded corner",
+   "corner radius",
+   "border"
   ]
  },
  {
@@ -5823,6 +6950,94 @@
   ]
  },
  {
+  "name": "crop-16-9",
+  "category": "Design",
+  "tags": [
+   "crop 16 9",
+   "crop",
+   "aspect ratio",
+   "trim",
+   "16"
+  ]
+ },
+ {
+  "name": "crop-3-2",
+  "category": "Design",
+  "tags": [
+   "crop 3 2",
+   "crop",
+   "aspect ratio",
+   "trim",
+   "design"
+  ]
+ },
+ {
+  "name": "crop-5-4",
+  "category": "Design",
+  "tags": [
+   "crop 5 4",
+   "crop",
+   "aspect ratio",
+   "trim",
+   "5"
+  ]
+ },
+ {
+  "name": "crop-7-5",
+  "category": "Design",
+  "tags": [
+   "crop 7 5",
+   "crop",
+   "aspect ratio",
+   "trim",
+   "7"
+  ]
+ },
+ {
+  "name": "crop-landscape",
+  "category": "Design",
+  "tags": [
+   "crop landscape",
+   "crop",
+   "aspect ratio",
+   "trim",
+   "landscape"
+  ]
+ },
+ {
+  "name": "crop-portrait",
+  "category": "Design",
+  "tags": [
+   "crop portrait",
+   "crop",
+   "aspect ratio",
+   "trim",
+   "portrait"
+  ]
+ },
+ {
+  "name": "crop-rotate",
+  "category": "Design",
+  "tags": [
+   "crop",
+   "rotate",
+   "image edit",
+   "straighten",
+   "rotate crop"
+  ]
+ },
+ {
+  "name": "crop-square",
+  "category": "Design",
+  "tags": [
+   "crop square",
+   "crop",
+   "aspect ratio",
+   "trim",
+   "square"
+  ]
+ },
+ {
   "name": "crosshair",
   "category": "Arrows",
   "tags": [
@@ -5851,6 +7066,98 @@
    "3d",
    "package",
    "product"
+  ]
+ },
+ {
+  "name": "cube-3d-sphere",
+  "category": "Design",
+  "tags": [
+   "3d",
+   "sphere",
+   "cube",
+   "model"
+  ]
+ },
+ {
+  "name": "cube-3d-sphere-slash",
+  "category": "Design",
+  "tags": [
+   "cube 3d sphere",
+   "disabled",
+   "off",
+   "3d",
+   "sphere"
+  ]
+ },
+ {
+  "name": "cube-focus",
+  "category": "Design",
+  "tags": [
+   "3d scan",
+   "ar",
+   "object focus"
+  ]
+ },
+ {
+  "name": "cube-plus",
+  "category": "Design",
+  "tags": [
+   "cube",
+   "add",
+   "new",
+   "3d",
+   "box"
+  ]
+ },
+ {
+  "name": "cube-rotate",
+  "category": "Design",
+  "tags": [
+   "3d rotation",
+   "rotate",
+   "cube",
+   "orbit"
+  ]
+ },
+ {
+  "name": "cube-slash",
+  "category": "Design",
+  "tags": [
+   "cube",
+   "disabled",
+   "off",
+   "3d",
+   "box"
+  ]
+ },
+ {
+  "name": "cube-sparkle",
+  "category": "Design",
+  "tags": [
+   "cube",
+   "ai",
+   "magic",
+   "3d",
+   "box"
+  ]
+ },
+ {
+  "name": "cube-transparent",
+  "category": "Design",
+  "tags": [
+   "3d wireframe",
+   "transparent cube",
+   "model"
+  ]
+ },
+ {
+  "name": "cube-unfolded",
+  "category": "Design",
+  "tags": [
+   "net",
+   "unfolded",
+   "cube",
+   "geometry"
   ]
  },
  {
@@ -6409,6 +7716,58 @@
   ]
  },
  {
+  "name": "curve",
+  "category": "Design",
+  "tags": [
+   "line curve",
+   "bezier",
+   "path",
+   "spline"
+  ]
+ },
+ {
+  "name": "curves",
+  "category": "Design",
+  "tags": [
+   "curves",
+   "adjust",
+   "tone",
+   "photo edit"
+  ]
+ },
+ {
+  "name": "cylinder",
+  "category": "Design",
+  "tags": [
+   "cylinder",
+   "3d",
+   "shape",
+   "geometry"
+  ]
+ },
+ {
+  "name": "cylinder-plus",
+  "category": "Design",
+  "tags": [
+   "cylinder",
+   "add",
+   "new",
+   "shape",
+   "3d"
+  ]
+ },
+ {
+  "name": "cylinder-slash",
+  "category": "Design",
+  "tags": [
+   "cylinder",
+   "disabled",
+   "off",
+   "shape",
+   "3d"
+  ]
+ },
+ {
   "name": "database",
   "category": "Devices",
   "tags": [
@@ -6449,6 +7808,58 @@
   ]
  },
  {
+  "name": "diabolo",
+  "category": "Design",
+  "tags": [
+   "diabolo",
+   "shape",
+   "toy",
+   "design"
+  ]
+ },
+ {
+  "name": "diabolo-plus",
+  "category": "Design",
+  "tags": [
+   "diabolo",
+   "add",
+   "new",
+   "shape",
+   "toy"
+  ]
+ },
+ {
+  "name": "diabolo-slash",
+  "category": "Design",
+  "tags": [
+   "diabolo",
+   "disabled",
+   "off",
+   "shape",
+   "toy"
+  ]
+ },
+ {
+  "name": "dialpad",
+  "category": "Communication",
+  "tags": [
+   "dialpad",
+   "keypad",
+   "phone",
+   "numbers"
+  ]
+ },
+ {
+  "name": "dialpad-slash",
+  "category": "Communication",
+  "tags": [
+   "dialpad",
+   "disabled",
+   "off",
+   "communication"
+  ]
+ },
+ {
   "name": "diamond",
   "category": "Interface",
   "tags": [
@@ -6456,6 +7867,27 @@
    "rhombus",
    "gem",
    "geometry"
+  ]
+ },
+ {
+  "name": "diamonds-four",
+  "category": "Design",
+  "tags": [
+   "component",
+   "symbol",
+   "design system",
+   "reusable",
+   "components"
+  ]
+ },
+ {
+  "name": "diamonds-four-slash",
+  "category": "Design",
+  "tags": [
+   "components",
+   "disabled",
+   "off",
+   "design"
   ]
  },
  {
@@ -6467,6 +7899,16 @@
    "random",
    "luck",
    "board game"
+  ]
+ },
+ {
+  "name": "dimensions",
+  "category": "Design",
+  "tags": [
+   "dimensions",
+   "measure",
+   "size",
+   "width"
   ]
  },
  {
@@ -6497,6 +7939,88 @@
    "album",
    "record",
    "vinyl"
+  ]
+ },
+ {
+  "name": "distribute-horizontal",
+  "category": "Design",
+  "tags": [
+   "distribute",
+   "spacing",
+   "horizontal",
+   "center",
+   "space between"
+  ]
+ },
+ {
+  "name": "distribute-horizontal-left",
+  "category": "Design",
+  "tags": [
+   "distribute",
+   "spacing",
+   "horizontal",
+   "left"
+  ]
+ },
+ {
+  "name": "distribute-horizontal-right",
+  "category": "Design",
+  "tags": [
+   "distribute",
+   "spacing",
+   "horizontal",
+   "right"
+  ]
+ },
+ {
+  "name": "distribute-space-around",
+  "category": "Design",
+  "tags": [
+   "space around",
+   "space evenly",
+   "flex",
+   "layout"
+  ]
+ },
+ {
+  "name": "distribute-space-between",
+  "category": "Design",
+  "tags": [
+   "space between",
+   "justify",
+   "flex",
+   "layout"
+  ]
+ },
+ {
+  "name": "distribute-vertical",
+  "category": "Design",
+  "tags": [
+   "distribute",
+   "spacing",
+   "vertical",
+   "center",
+   "space between"
+  ]
+ },
+ {
+  "name": "distribute-vertical-bottom",
+  "category": "Design",
+  "tags": [
+   "distribute",
+   "spacing",
+   "vertical",
+   "bottom"
+  ]
+ },
+ {
+  "name": "distribute-vertical-top",
+  "category": "Design",
+  "tags": [
+   "distribute",
+   "spacing",
+   "vertical",
+   "top"
   ]
  },
  {
@@ -6634,6 +8158,38 @@
   ]
  },
  {
+  "name": "drop-half",
+  "category": "Design",
+  "tags": [
+   "contrast",
+   "invert",
+   "drop",
+   "tone",
+   "half drop"
+  ]
+ },
+ {
+  "name": "drop-half-bottom",
+  "category": "Design",
+  "tags": [
+   "opacity",
+   "transparency",
+   "drop",
+   "fill",
+   "humidity"
+  ]
+ },
+ {
+  "name": "drop-shadow",
+  "category": "Design",
+  "tags": [
+   "shadow",
+   "depth",
+   "effect",
+   "elevation"
+  ]
+ },
+ {
   "name": "duck",
   "category": "Animals",
   "tags": [
@@ -6662,6 +8218,56 @@
    "audio",
    "sound",
    "deaf"
+  ]
+ },
+ {
+  "name": "ease-in",
+  "category": "Design",
+  "tags": [
+   "ease in",
+   "animation",
+   "curve",
+   "timing"
+  ]
+ },
+ {
+  "name": "ease-in-out",
+  "category": "Design",
+  "tags": [
+   "ease in out",
+   "animation",
+   "curve",
+   "timing"
+  ]
+ },
+ {
+  "name": "ease-in-out-control-points",
+  "category": "Design",
+  "tags": [
+   "easing",
+   "bezier",
+   "animation",
+   "curve"
+  ]
+ },
+ {
+  "name": "ease-out",
+  "category": "Design",
+  "tags": [
+   "ease out",
+   "animation",
+   "curve",
+   "timing"
+  ]
+ },
+ {
+  "name": "easel",
+  "category": "Business",
+  "tags": [
+   "easel",
+   "presentation board",
+   "whiteboard",
+   "stand"
   ]
  },
  {
@@ -6707,6 +8313,27 @@
   ]
  },
  {
+  "name": "ellipse",
+  "category": "Design",
+  "tags": [
+   "ellipse",
+   "oval",
+   "shape",
+   "geometry",
+   "horizontal"
+  ]
+ },
+ {
+  "name": "ellipse-vertical",
+  "category": "Design",
+  "tags": [
+   "vertical ellipse",
+   "oval",
+   "shape",
+   "egg"
+  ]
+ },
+ {
   "name": "envelope",
   "category": "Communication",
   "tags": [
@@ -6714,6 +8341,124 @@
    "mail",
    "message",
    "inbox"
+  ]
+ },
+ {
+  "name": "envelope-arrow-clockwise",
+  "category": "Communication",
+  "tags": [
+   "mail",
+   "resend",
+   "refresh",
+   "envelope"
+  ]
+ },
+ {
+  "name": "envelope-arrow-down",
+  "category": "Communication",
+  "tags": [
+   "mail",
+   "receive",
+   "inbox",
+   "download",
+   "receive mail"
+  ]
+ },
+ {
+  "name": "envelope-arrow-up",
+  "category": "Communication",
+  "tags": [
+   "mail",
+   "send",
+   "upload",
+   "outbox",
+   "send mail"
+  ]
+ },
+ {
+  "name": "envelope-bitcoin",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "crypto",
+   "bitcoin",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-bookmark",
+  "category": "Communication",
+  "tags": [
+   "mail",
+   "saved",
+   "bookmark",
+   "envelope"
+  ]
+ },
+ {
+  "name": "envelope-check",
+  "category": "Communication",
+  "tags": [
+   "read mail",
+   "email read",
+   "sent",
+   "done",
+   "mail sent"
+  ]
+ },
+ {
+  "name": "envelope-code",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "developer",
+   "code",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-currency-dollar",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "money",
+   "price",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-fast",
+  "category": "Communication",
+  "tags": [
+   "express mail",
+   "fast",
+   "send",
+   "envelope",
+   "express"
+  ]
+ },
+ {
+  "name": "envelope-forward",
+  "category": "Communication",
+  "tags": [
+   "forward email",
+   "send on",
+   "mail",
+   "share",
+   "arrow"
+  ]
+ },
+ {
+  "name": "envelope-gear",
+  "category": "Communication",
+  "tags": [
+   "mail settings",
+   "envelope",
+   "preferences",
+   "gear"
   ]
  },
  {
@@ -6727,6 +8472,80 @@
   ]
  },
  {
+  "name": "envelope-heart",
+  "category": "Communication",
+  "tags": [
+   "love letter",
+   "mail",
+   "valentine",
+   "envelope",
+   "heart"
+  ]
+ },
+ {
+  "name": "envelope-incoming",
+  "category": "Communication",
+  "tags": [
+   "received mail",
+   "inbox",
+   "incoming"
+  ]
+ },
+ {
+  "name": "envelope-info",
+  "category": "Communication",
+  "tags": [
+   "mail",
+   "info",
+   "details",
+   "envelope"
+  ]
+ },
+ {
+  "name": "envelope-lightning",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "fast",
+   "power",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-lock",
+  "category": "Communication",
+  "tags": [
+   "secure mail",
+   "encrypted email",
+   "private",
+   "lock",
+   "encrypted"
+  ]
+ },
+ {
+  "name": "envelope-magnifying-glass",
+  "category": "Communication",
+  "tags": [
+   "review mail",
+   "search mail",
+   "envelope",
+   "email",
+   "find email"
+  ]
+ },
+ {
+  "name": "envelope-minus",
+  "category": "Communication",
+  "tags": [
+   "mail",
+   "remove",
+   "minus",
+   "envelope",
+   "remove mail"
+  ]
+ },
+ {
   "name": "envelope-open",
   "category": "Communication",
   "tags": [
@@ -6735,6 +8554,196 @@
    "read",
    "opened",
    "message"
+  ]
+ },
+ {
+  "name": "envelope-outgoing",
+  "category": "Communication",
+  "tags": [
+   "sent mail",
+   "outbox",
+   "outgoing",
+   "outgoing mail",
+   "send email"
+  ]
+ },
+ {
+  "name": "envelope-paperclip",
+  "category": "Communication",
+  "tags": [
+   "attachment",
+   "email attachment",
+   "mail",
+   "clip",
+   "envelope"
+  ]
+ },
+ {
+  "name": "envelope-pause",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "paused",
+   "hold",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-pencil",
+  "category": "Communication",
+  "tags": [
+   "compose",
+   "write email",
+   "edit",
+   "envelope"
+  ]
+ },
+ {
+  "name": "envelope-plus",
+  "category": "Communication",
+  "tags": [
+   "new email",
+   "add",
+   "envelope",
+   "plus"
+  ]
+ },
+ {
+  "name": "envelope-prohibit",
+  "category": "Communication",
+  "tags": [
+   "blocked mail",
+   "spam",
+   "envelope",
+   "denied"
+  ]
+ },
+ {
+  "name": "envelope-push-pin",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "pinned",
+   "pin",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-question",
+  "category": "Communication",
+  "tags": [
+   "mail help",
+   "unknown",
+   "envelope",
+   "question"
+  ]
+ },
+ {
+  "name": "envelope-reply",
+  "category": "Communication",
+  "tags": [
+   "reply",
+   "mail",
+   "respond",
+   "envelope"
+  ]
+ },
+ {
+  "name": "envelope-send",
+  "category": "Communication",
+  "tags": [
+   "send mail",
+   "outgoing",
+   "envelope",
+   "arrow"
+  ]
+ },
+ {
+  "name": "envelope-slash",
+  "category": "Communication",
+  "tags": [
+   "mail off",
+   "no email",
+   "unsubscribe",
+   "mute",
+   "blocked"
+  ]
+ },
+ {
+  "name": "envelope-sparkle",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "ai",
+   "magic",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-stamp",
+  "category": "Communication",
+  "tags": [
+   "envelope",
+   "postage",
+   "stamp",
+   "mail",
+   "email"
+  ]
+ },
+ {
+  "name": "envelope-star",
+  "category": "Communication",
+  "tags": [
+   "starred mail",
+   "important",
+   "envelope",
+   "favourite"
+  ]
+ },
+ {
+  "name": "envelope-unread",
+  "category": "Communication",
+  "tags": [
+   "unread mail",
+   "new email",
+   "mark unread",
+   "notification",
+   "unread"
+  ]
+ },
+ {
+  "name": "envelope-warning",
+  "category": "Communication",
+  "tags": [
+   "mail error",
+   "undelivered",
+   "envelope",
+   "email",
+   "important"
+  ]
+ },
+ {
+  "name": "envelope-x",
+  "category": "Communication",
+  "tags": [
+   "mail",
+   "delete",
+   "error",
+   "envelope",
+   "delete mail"
+  ]
+ },
+ {
+  "name": "envelopes",
+  "category": "Communication",
+  "tags": [
+   "emails",
+   "mail",
+   "multiple",
+   "inbox"
   ]
  },
  {
@@ -6759,6 +8768,47 @@
   ]
  },
  {
+  "name": "exchange",
+  "category": "Commerce",
+  "tags": [
+   "exchange",
+   "swap",
+   "trade",
+   "transfer"
+  ]
+ },
+ {
+  "name": "exchange-slash",
+  "category": "Commerce",
+  "tags": [
+   "exchange",
+   "disabled",
+   "off",
+   "commerce"
+  ]
+ },
+ {
+  "name": "exclude",
+  "category": "Design",
+  "tags": [
+   "exclude",
+   "boolean",
+   "difference",
+   "shapes"
+  ]
+ },
+ {
+  "name": "exclude-square",
+  "category": "Design",
+  "tags": [
+   "exclude",
+   "boolean",
+   "xor",
+   "difference",
+   "shapes"
+  ]
+ },
+ {
   "name": "export",
   "category": "Arrows",
   "tags": [
@@ -6766,6 +8816,15 @@
    "send",
    "upload",
    "out"
+  ]
+ },
+ {
+  "name": "extrude",
+  "category": "Design",
+  "tags": [
+   "3d",
+   "extrude",
+   "modeling"
   ]
  },
  {
@@ -6798,6 +8857,16 @@
    "pipette",
    "sample",
    "dropper"
+  ]
+ },
+ {
+  "name": "eyedropper-slash",
+  "category": "Design",
+  "tags": [
+   "eyedropper",
+   "disabled",
+   "off",
+   "design"
   ]
  },
  {
@@ -6913,6 +8982,16 @@
   ]
  },
  {
+  "name": "file-signature",
+  "category": "Business",
+  "tags": [
+   "contract",
+   "agreement",
+   "sign",
+   "document"
+  ]
+ },
+ {
   "name": "file-text",
   "category": "Files",
   "tags": [
@@ -6971,6 +9050,16 @@
    "video",
    "cinema",
    "reel"
+  ]
+ },
+ {
+  "name": "financial-report",
+  "category": "Business",
+  "tags": [
+   "financial report",
+   "money",
+   "clipboard",
+   "accounting"
   ]
  },
  {
@@ -7066,6 +9155,28 @@
    "chemistry",
    "experiment",
    "beaker"
+  ]
+ },
+ {
+  "name": "flip-horizontal",
+  "category": "Design",
+  "tags": [
+   "flip",
+   "mirror",
+   "horizontal",
+   "reflect",
+   "transform"
+  ]
+ },
+ {
+  "name": "flip-vertical",
+  "category": "Design",
+  "tags": [
+   "flip",
+   "mirror",
+   "vertical",
+   "reflect",
+   "transform"
   ]
  },
  {
@@ -7171,6 +9282,15 @@
   ]
  },
  {
+  "name": "frame",
+  "category": "Design",
+  "tags": [
+   "artboard",
+   "canvas",
+   "frame tool"
+  ]
+ },
+ {
   "name": "frame-corners",
   "category": "Editor",
   "tags": [
@@ -7182,6 +9302,16 @@
   ]
  },
  {
+  "name": "frame-slash",
+  "category": "Design",
+  "tags": [
+   "frame",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "frog",
   "category": "Animals",
   "tags": [
@@ -7189,6 +9319,26 @@
    "toad",
    "amphibian",
    "pond"
+  ]
+ },
+ {
+  "name": "frustum",
+  "category": "Design",
+  "tags": [
+   "frustum",
+   "truncated cone",
+   "3d shape",
+   "geometry"
+  ]
+ },
+ {
+  "name": "frustum-slash",
+  "category": "Design",
+  "tags": [
+   "frustum",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -7264,6 +9414,16 @@
   ]
  },
  {
+  "name": "gears",
+  "category": "Business",
+  "tags": [
+   "manufacturing",
+   "machinery",
+   "process",
+   "mechanism"
+  ]
+ },
+ {
   "name": "gender-female",
   "category": "People",
   "tags": [
@@ -7304,6 +9464,26 @@
    "reward",
    "birthday",
    "surprise"
+  ]
+ },
+ {
+  "name": "gift-card",
+  "category": "Commerce",
+  "tags": [
+   "gift card",
+   "voucher",
+   "present",
+   "coupon"
+  ]
+ },
+ {
+  "name": "gift-slash",
+  "category": "Commerce",
+  "tags": [
+   "gift",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -7357,6 +9537,16 @@
   ]
  },
  {
+  "name": "gizmo",
+  "category": "Design",
+  "tags": [
+   "3d gizmo",
+   "transform",
+   "axes",
+   "manipulator"
+  ]
+ },
+ {
   "name": "glasses",
   "category": "Objects",
   "tags": [
@@ -7375,6 +9565,26 @@
    "internet",
    "language",
    "web"
+  ]
+ },
+ {
+  "name": "gold-bars",
+  "category": "Commerce",
+  "tags": [
+   "gold",
+   "bullion",
+   "wealth",
+   "bars"
+  ]
+ },
+ {
+  "name": "gradient",
+  "category": "Design",
+  "tags": [
+   "gradient",
+   "fade",
+   "color",
+   "blend"
   ]
  },
  {
@@ -7409,6 +9619,87 @@
   ]
  },
  {
+  "name": "grid",
+  "category": "Design",
+  "tags": [
+   "grid",
+   "guides",
+   "3x3",
+   "layout"
+  ]
+ },
+ {
+  "name": "grid-4x4",
+  "category": "Interface",
+  "tags": [
+   "4x4 grid",
+   "grid",
+   "matrix",
+   "tiles"
+  ]
+ },
+ {
+  "name": "grid-golden-ratio",
+  "category": "Design",
+  "tags": [
+   "golden ratio",
+   "composition",
+   "grid",
+   "photography"
+  ]
+ },
+ {
+  "name": "grid-nine",
+  "category": "Interface",
+  "tags": [
+   "grid",
+   "3x3",
+   "tiles",
+   "gallery",
+   "lattice"
+  ]
+ },
+ {
+  "name": "grid-pattern",
+  "category": "Design",
+  "tags": [
+   "grid pattern",
+   "texture",
+   "mesh",
+   "background"
+  ]
+ },
+ {
+  "name": "grid-scan",
+  "category": "Interface",
+  "tags": [
+   "grid scan",
+   "detect",
+   "layout",
+   "frame"
+  ]
+ },
+ {
+  "name": "grid-six",
+  "category": "Interface",
+  "tags": [
+   "grid",
+   "3x2",
+   "tiles",
+   "layout"
+  ]
+ },
+ {
+  "name": "growth",
+  "category": "Business",
+  "tags": [
+   "growth",
+   "sprout",
+   "grow",
+   "progress"
+  ]
+ },
+ {
   "name": "hamburger",
   "category": "Food",
   "tags": [
@@ -7440,6 +9731,33 @@
   ]
  },
  {
+  "name": "hand-arrow-down",
+  "category": "Commerce",
+  "tags": [
+   "receive",
+   "take",
+   "deposit"
+  ]
+ },
+ {
+  "name": "hand-arrow-up",
+  "category": "Commerce",
+  "tags": [
+   "give",
+   "offer",
+   "withdraw"
+  ]
+ },
+ {
+  "name": "hand-card",
+  "category": "Commerce",
+  "tags": [
+   "pay by card",
+   "give card",
+   "card payment"
+  ]
+ },
+ {
   "name": "hand-coins",
   "category": "Commerce",
   "tags": [
@@ -7451,6 +9769,15 @@
   ]
  },
  {
+  "name": "hand-deposit",
+  "category": "Commerce",
+  "tags": [
+   "deposit",
+   "pay in",
+   "savings"
+  ]
+ },
+ {
   "name": "hand-grabbing",
   "category": "Editor",
   "tags": [
@@ -7459,6 +9786,16 @@
    "fist",
    "move",
    "grip"
+  ]
+ },
+ {
+  "name": "hand-package",
+  "category": "Commerce",
+  "tags": [
+   "delivery",
+   "handover",
+   "consignment",
+   "parcel"
   ]
  },
  {
@@ -7481,6 +9818,15 @@
    "wave",
    "greeting",
    "goodbye"
+  ]
+ },
+ {
+  "name": "hand-withdraw",
+  "category": "Commerce",
+  "tags": [
+   "withdraw",
+   "cash out",
+   "take money"
   ]
  },
  {
@@ -7522,6 +9868,17 @@
    "storage",
    "rack",
    "disks"
+  ]
+ },
+ {
+  "name": "hard-hat",
+  "category": "Business",
+  "tags": [
+   "worker",
+   "construction",
+   "hard hat",
+   "safety",
+   "helmet"
   ]
  },
  {
@@ -7587,6 +9944,36 @@
   ]
  },
  {
+  "name": "hemisphere",
+  "category": "Design",
+  "tags": [
+   "hemisphere",
+   "half sphere",
+   "dome",
+   "3d shape"
+  ]
+ },
+ {
+  "name": "hemisphere-slash",
+  "category": "Design",
+  "tags": [
+   "hemisphere",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "heptagon",
+  "category": "Design",
+  "tags": [
+   "heptagon",
+   "shape",
+   "seven sides",
+   "polygon"
+  ]
+ },
+ {
   "name": "hexagon",
   "category": "Interface",
   "tags": [
@@ -7594,6 +9981,97 @@
    "polygon",
    "honeycomb",
    "geometry"
+  ]
+ },
+ {
+  "name": "hexagon-minus",
+  "category": "Design",
+  "tags": [
+   "hexagon",
+   "remove",
+   "subtract"
+  ]
+ },
+ {
+  "name": "hexagon-plus",
+  "category": "Design",
+  "tags": [
+   "add",
+   "hexagon",
+   "plus",
+   "new"
+  ]
+ },
+ {
+  "name": "hexagon-slash",
+  "category": "Design",
+  "tags": [
+   "hexagon",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "hexagonal-prism",
+  "category": "Design",
+  "tags": [
+   "hexagonal prism",
+   "3d shape",
+   "geometry",
+   "solid"
+  ]
+ },
+ {
+  "name": "hexagonal-prism-slash",
+  "category": "Design",
+  "tags": [
+   "hexagonal prism",
+   "off",
+   "disabled",
+   "hidden",
+   "hexagonal"
+  ]
+ },
+ {
+  "name": "hexagonal-pyramid",
+  "category": "Design",
+  "tags": [
+   "hexagonal pyramid",
+   "3d shape",
+   "geometry",
+   "solid"
+  ]
+ },
+ {
+  "name": "hexagonal-pyramid-slash",
+  "category": "Design",
+  "tags": [
+   "hexagonal pyramid",
+   "off",
+   "disabled",
+   "hidden",
+   "hexagonal"
+  ]
+ },
+ {
+  "name": "hexagons",
+  "category": "Design",
+  "tags": [
+   "hexagons",
+   "honeycomb",
+   "cells",
+   "pattern"
+  ]
+ },
+ {
+  "name": "hexagons-slash",
+  "category": "Design",
+  "tags": [
+   "hexagons",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -7661,6 +10139,16 @@
   ]
  },
  {
+  "name": "icosahedron",
+  "category": "Design",
+  "tags": [
+   "icosahedron",
+   "d20",
+   "polyhedron",
+   "3d shape"
+  ]
+ },
+ {
   "name": "identification-card",
   "category": "People",
   "tags": [
@@ -7682,6 +10170,16 @@
   ]
  },
  {
+  "name": "image-reference",
+  "category": "Design",
+  "tags": [
+   "reference image",
+   "mood board",
+   "picture",
+   "inspiration"
+  ]
+ },
+ {
   "name": "infinity",
   "category": "Interface",
   "tags": [
@@ -7699,6 +10197,108 @@
    "help",
    "about",
    "details"
+  ]
+ },
+ {
+  "name": "inner-shadow",
+  "category": "Design",
+  "tags": [
+   "inner shadow",
+   "inset",
+   "effect",
+   "depth",
+   "style"
+  ]
+ },
+ {
+  "name": "inner-shadow-bottom-left",
+  "category": "Design",
+  "tags": [
+   "inner shadow",
+   "bottom left",
+   "effect",
+   "depth"
+  ]
+ },
+ {
+  "name": "inner-shadow-bottom-right",
+  "category": "Design",
+  "tags": [
+   "inner shadow",
+   "bottom right",
+   "effect",
+   "depth"
+  ]
+ },
+ {
+  "name": "inner-shadow-left",
+  "category": "Design",
+  "tags": [
+   "inner shadow",
+   "left",
+   "effect",
+   "depth"
+  ]
+ },
+ {
+  "name": "inner-shadow-right",
+  "category": "Design",
+  "tags": [
+   "inner shadow",
+   "right",
+   "effect",
+   "depth"
+  ]
+ },
+ {
+  "name": "inner-shadow-top-left",
+  "category": "Design",
+  "tags": [
+   "inner shadow",
+   "top left",
+   "effect",
+   "depth"
+  ]
+ },
+ {
+  "name": "inner-shadow-top-right",
+  "category": "Design",
+  "tags": [
+   "inner shadow",
+   "top right",
+   "effect",
+   "depth"
+  ]
+ },
+ {
+  "name": "intersect",
+  "category": "Design",
+  "tags": [
+   "join",
+   "venn",
+   "intersection",
+   "overlap",
+   "relation"
+  ]
+ },
+ {
+  "name": "intersect-square",
+  "category": "Design",
+  "tags": [
+   "intersect",
+   "boolean",
+   "overlap",
+   "shapes",
+   "pathfinder"
+  ]
+ },
+ {
+  "name": "intersect-three",
+  "category": "Design",
+  "tags": [
+   "venn",
+   "intersect",
+   "overlap"
   ]
  },
  {
@@ -7752,6 +10352,66 @@
   ]
  },
  {
+  "name": "keyframe",
+  "category": "Design",
+  "tags": [
+   "animation",
+   "keyframe",
+   "timeline",
+   "diamond"
+  ]
+ },
+ {
+  "name": "keyframe-align-center",
+  "category": "Design",
+  "tags": [
+   "keyframe align",
+   "center",
+   "animation",
+   "diamond"
+  ]
+ },
+ {
+  "name": "keyframe-align-horizontal",
+  "category": "Design",
+  "tags": [
+   "keyframe align",
+   "horizontal",
+   "animation",
+   "diamond"
+  ]
+ },
+ {
+  "name": "keyframe-align-vertical",
+  "category": "Design",
+  "tags": [
+   "keyframe align",
+   "vertical",
+   "animation",
+   "diamond"
+  ]
+ },
+ {
+  "name": "keyframes",
+  "category": "Design",
+  "tags": [
+   "animation",
+   "timeline",
+   "keyframes",
+   "diamonds"
+  ]
+ },
+ {
+  "name": "kiosk",
+  "category": "Commerce",
+  "tags": [
+   "booth",
+   "kiosk",
+   "stand",
+   "stall"
+  ]
+ },
+ {
   "name": "koala",
   "category": "Animals",
   "tags": [
@@ -7782,6 +10442,57 @@
   ]
  },
  {
+  "name": "lasso",
+  "category": "Design",
+  "tags": [
+   "lasso select",
+   "selection",
+   "freeform",
+   "select",
+   "lasso"
+  ]
+ },
+ {
+  "name": "lasso-polygon",
+  "category": "Design",
+  "tags": [
+   "polygon lasso",
+   "select",
+   "freeform",
+   "tool"
+  ]
+ },
+ {
+  "name": "lasso-slash",
+  "category": "Design",
+  "tags": [
+   "lasso",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "layers-linked",
+  "category": "Design",
+  "tags": [
+   "linked layers",
+   "shapes",
+   "connected",
+   "boolean"
+  ]
+ },
+ {
+  "name": "layers-selected",
+  "category": "Design",
+  "tags": [
+   "selected layer",
+   "stack",
+   "layers",
+   "active"
+  ]
+ },
+ {
   "name": "layout",
   "category": "Editor",
   "tags": [
@@ -7790,6 +10501,16 @@
    "template",
    "grid",
    "blocks"
+  ]
+ },
+ {
+  "name": "layout-slash",
+  "category": "Design",
+  "tags": [
+   "layout",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -7833,6 +10554,174 @@
    "power",
    "fast",
    "bolt"
+  ]
+ },
+ {
+  "name": "line-cap",
+  "category": "Design",
+  "tags": [
+   "stroke cap",
+   "line end",
+   "vector",
+   "path"
+  ]
+ },
+ {
+  "name": "line-cap-projecting",
+  "category": "Design",
+  "tags": [
+   "line cap",
+   "stroke",
+   "square cap"
+  ]
+ },
+ {
+  "name": "line-cap-straight",
+  "category": "Design",
+  "tags": [
+   "line cap",
+   "stroke",
+   "butt cap"
+  ]
+ },
+ {
+  "name": "line-dashed",
+  "category": "Design",
+  "tags": [
+   "dashed line",
+   "stroke",
+   "dashes",
+   "style"
+  ]
+ },
+ {
+  "name": "line-dotted",
+  "category": "Design",
+  "tags": [
+   "dotted line",
+   "stroke",
+   "dots",
+   "style"
+  ]
+ },
+ {
+  "name": "line-end-arrow",
+  "category": "Design",
+  "tags": [
+   "arrowhead",
+   "line end",
+   "connector",
+   "stroke cap"
+  ]
+ },
+ {
+  "name": "line-end-bar",
+  "category": "Design",
+  "tags": [
+   "line end",
+   "bar cap",
+   "connector",
+   "stroke cap"
+  ]
+ },
+ {
+  "name": "line-end-circle",
+  "category": "Design",
+  "tags": [
+   "line end",
+   "dot cap",
+   "connector",
+   "stroke cap"
+  ]
+ },
+ {
+  "name": "line-end-diamond",
+  "category": "Design",
+  "tags": [
+   "line end",
+   "diamond cap",
+   "connector",
+   "stroke cap"
+  ]
+ },
+ {
+  "name": "line-end-square",
+  "category": "Design",
+  "tags": [
+   "line end",
+   "square cap",
+   "connector",
+   "stroke cap"
+  ]
+ },
+ {
+  "name": "line-join-bevel",
+  "category": "Design",
+  "tags": [
+   "bevel join",
+   "stroke join",
+   "corner",
+   "line"
+  ]
+ },
+ {
+  "name": "line-join-miter",
+  "category": "Design",
+  "tags": [
+   "miter join",
+   "stroke join",
+   "corner",
+   "line"
+  ]
+ },
+ {
+  "name": "line-join-round",
+  "category": "Design",
+  "tags": [
+   "round join",
+   "stroke join",
+   "corner",
+   "line"
+  ]
+ },
+ {
+  "name": "line-segment",
+  "category": "Design",
+  "tags": [
+   "line",
+   "segment",
+   "vector",
+   "diagonal",
+   "stroke"
+  ]
+ },
+ {
+  "name": "line-segments",
+  "category": "Design",
+  "tags": [
+   "polyline",
+   "path",
+   "vector"
+  ]
+ },
+ {
+  "name": "line-style",
+  "category": "Design",
+  "tags": [
+   "dashed",
+   "dotted",
+   "stroke style",
+   "border"
+  ]
+ },
+ {
+  "name": "line-weight",
+  "category": "Design",
+  "tags": [
+   "stroke width",
+   "thickness",
+   "pen size",
+   "border"
   ]
  },
  {
@@ -7979,6 +10868,27 @@
   ]
  },
  {
+  "name": "mailbox",
+  "category": "Communication",
+  "tags": [
+   "mailbox",
+   "letterbox",
+   "post",
+   "mail",
+   "delivery"
+  ]
+ },
+ {
+  "name": "mailbox-slash",
+  "category": "Communication",
+  "tags": [
+   "mailbox",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "map-pin",
   "category": "Maps",
   "tags": [
@@ -7997,6 +10907,65 @@
    "directions",
    "atlas",
    "travel"
+  ]
+ },
+ {
+  "name": "margin",
+  "category": "Design",
+  "tags": [
+   "margin",
+   "spacing",
+   "padding",
+   "box model",
+   "box margin"
+  ]
+ },
+ {
+  "name": "mask",
+  "category": "Design",
+  "tags": [
+   "mask",
+   "clipping",
+   "layer mask",
+   "design"
+  ]
+ },
+ {
+  "name": "mask-happy",
+  "category": "Media",
+  "tags": [
+   "theater",
+   "comedy",
+   "drama"
+  ]
+ },
+ {
+  "name": "mask-sad",
+  "category": "Media",
+  "tags": [
+   "theater",
+   "tragedy",
+   "drama"
+  ]
+ },
+ {
+  "name": "mask-shape",
+  "category": "Design",
+  "tags": [
+   "mask",
+   "clip",
+   "shape",
+   "layer"
+  ]
+ },
+ {
+  "name": "mask-slash",
+  "category": "Design",
+  "tags": [
+   "mask",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -8019,6 +10988,16 @@
    "marketing",
    "promote",
    "bullhorn"
+  ]
+ },
+ {
+  "name": "mesh",
+  "category": "Design",
+  "tags": [
+   "mesh",
+   "wireframe",
+   "3d",
+   "grid"
   ]
  },
  {
@@ -8100,6 +11079,180 @@
    "bill",
    "payment",
    "currency"
+  ]
+ },
+ {
+  "name": "money-bag",
+  "category": "Commerce",
+  "tags": [
+   "money bag",
+   "savings",
+   "wealth",
+   "cash",
+   "sack"
+  ]
+ },
+ {
+  "name": "money-bag-heart",
+  "category": "Commerce",
+  "tags": [
+   "money bag",
+   "favorite",
+   "like",
+   "love",
+   "money"
+  ]
+ },
+ {
+  "name": "money-bag-minus",
+  "category": "Commerce",
+  "tags": [
+   "moneybag minus",
+   "remove",
+   "subtract",
+   "money bag",
+   "savings"
+  ]
+ },
+ {
+  "name": "money-bag-pencil",
+  "category": "Commerce",
+  "tags": [
+   "money bag",
+   "edit",
+   "write",
+   "money",
+   "bag"
+  ]
+ },
+ {
+  "name": "money-bag-plus",
+  "category": "Commerce",
+  "tags": [
+   "moneybag plus",
+   "add",
+   "new",
+   "money bag",
+   "savings"
+  ]
+ },
+ {
+  "name": "money-heart",
+  "category": "Commerce",
+  "tags": [
+   "money",
+   "favorite",
+   "like",
+   "love"
+  ]
+ },
+ {
+  "name": "money-insert",
+  "category": "Commerce",
+  "tags": [
+   "deposit",
+   "insert cash",
+   "atm",
+   "money"
+  ]
+ },
+ {
+  "name": "money-minus",
+  "category": "Commerce",
+  "tags": [
+   "money minus",
+   "remove",
+   "subtract",
+   "money",
+   "cash"
+  ]
+ },
+ {
+  "name": "money-pencil",
+  "category": "Commerce",
+  "tags": [
+   "money",
+   "edit",
+   "write"
+  ]
+ },
+ {
+  "name": "money-plus",
+  "category": "Commerce",
+  "tags": [
+   "money plus",
+   "add",
+   "new",
+   "money",
+   "cash"
+  ]
+ },
+ {
+  "name": "money-receive",
+  "category": "Commerce",
+  "tags": [
+   "receive payment",
+   "income",
+   "get paid"
+  ]
+ },
+ {
+  "name": "money-send",
+  "category": "Commerce",
+  "tags": [
+   "send money",
+   "pay",
+   "transfer"
+  ]
+ },
+ {
+  "name": "money-slash",
+  "category": "Commerce",
+  "tags": [
+   "no cash",
+   "money",
+   "cashless",
+   "slash",
+   "no money"
+  ]
+ },
+ {
+  "name": "money-stack",
+  "category": "Commerce",
+  "tags": [
+   "cash",
+   "bills",
+   "stack",
+   "wealth"
+  ]
+ },
+ {
+  "name": "money-transfer",
+  "category": "Commerce",
+  "tags": [
+   "transfer",
+   "bank",
+   "send money",
+   "payment"
+  ]
+ },
+ {
+  "name": "money-wavy",
+  "category": "Commerce",
+  "tags": [
+   "banknote",
+   "cash",
+   "bill"
+  ]
+ },
+ {
+  "name": "money-withdraw",
+  "category": "Commerce",
+  "tags": [
+   "withdraw",
+   "atm",
+   "cash out",
+   "money"
   ]
  },
  {
@@ -8215,6 +11368,16 @@
   ]
  },
  {
+  "name": "name-tag",
+  "category": "Business",
+  "tags": [
+   "name tag",
+   "badge",
+   "hello",
+   "identity"
+  ]
+ },
+ {
   "name": "navigation-arrow",
   "category": "Arrows",
   "tags": [
@@ -8232,6 +11395,25 @@
    "article",
    "press",
    "blog"
+  ]
+ },
+ {
+  "name": "newspaper-clipping",
+  "category": "Communication",
+  "tags": [
+   "clipping",
+   "article",
+   "press"
+  ]
+ },
+ {
+  "name": "newspaper-slash",
+  "category": "Communication",
+  "tags": [
+   "newspaper",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -8266,6 +11448,27 @@
   ]
  },
  {
+  "name": "object-group",
+  "category": "Design",
+  "tags": [
+   "group",
+   "objects",
+   "combine",
+   "selection"
+  ]
+ },
+ {
+  "name": "object-ungroup",
+  "category": "Design",
+  "tags": [
+   "ungroup",
+   "objects",
+   "separate",
+   "selection",
+   "split"
+  ]
+ },
+ {
   "name": "octagon",
   "category": "Interface",
   "tags": [
@@ -8273,6 +11476,65 @@
    "polygon",
    "stop",
    "geometry"
+  ]
+ },
+ {
+  "name": "octagon-minus",
+  "category": "Design",
+  "tags": [
+   "octagon",
+   "remove",
+   "subtract"
+  ]
+ },
+ {
+  "name": "octagon-plus",
+  "category": "Design",
+  "tags": [
+   "octagon",
+   "add",
+   "new",
+   "create"
+  ]
+ },
+ {
+  "name": "octagon-slash",
+  "category": "Design",
+  "tags": [
+   "octagon",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "octahedron",
+  "category": "Design",
+  "tags": [
+   "octahedron",
+   "d8",
+   "polyhedron",
+   "3d shape"
+  ]
+ },
+ {
+  "name": "octahedron-slash",
+  "category": "Design",
+  "tags": [
+   "octahedron",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "oil-pump",
+  "category": "Business",
+  "tags": [
+   "oil",
+   "pumpjack",
+   "petroleum",
+   "industry"
   ]
  },
  {
@@ -8297,6 +11559,66 @@
   ]
  },
  {
+  "name": "package-export",
+  "category": "Commerce",
+  "tags": [
+   "ship package",
+   "export",
+   "outgoing",
+   "box"
+  ]
+ },
+ {
+  "name": "package-heart",
+  "category": "Commerce",
+  "tags": [
+   "gift box",
+   "parcel",
+   "donation",
+   "love"
+  ]
+ },
+ {
+  "name": "package-import",
+  "category": "Commerce",
+  "tags": [
+   "receive package",
+   "import",
+   "incoming",
+   "box"
+  ]
+ },
+ {
+  "name": "package-lock",
+  "category": "Commerce",
+  "tags": [
+   "secure package",
+   "locked box",
+   "protected delivery"
+  ]
+ },
+ {
+  "name": "package-slash",
+  "category": "Commerce",
+  "tags": [
+   "package",
+   "disabled",
+   "off",
+   "commerce"
+  ]
+ },
+ {
+  "name": "padding",
+  "category": "Design",
+  "tags": [
+   "padding",
+   "spacing",
+   "inset",
+   "box model",
+   "box padding"
+  ]
+ },
+ {
   "name": "paint-brush",
   "category": "Design",
   "tags": [
@@ -8308,6 +11630,25 @@
   ]
  },
  {
+  "name": "paint-brush-broad",
+  "category": "Design",
+  "tags": [
+   "wide brush",
+   "paint",
+   "wall brush"
+  ]
+ },
+ {
+  "name": "paint-brush-slash",
+  "category": "Design",
+  "tags": [
+   "paint brush",
+   "disabled",
+   "off",
+   "design"
+  ]
+ },
+ {
   "name": "paint-bucket",
   "category": "Design",
   "tags": [
@@ -8315,6 +11656,38 @@
    "bucket",
    "paint",
    "color"
+  ]
+ },
+ {
+  "name": "paint-roller",
+  "category": "Design",
+  "tags": [
+   "roller",
+   "painting",
+   "decorate",
+   "paint roller",
+   "format painter"
+  ]
+ },
+ {
+  "name": "paint-roller-slash",
+  "category": "Design",
+  "tags": [
+   "paint roller",
+   "off",
+   "disabled",
+   "hidden",
+   "paint"
+  ]
+ },
+ {
+  "name": "painting",
+  "category": "Design",
+  "tags": [
+   "painting",
+   "artwork",
+   "frame",
+   "art"
   ]
  },
  {
@@ -8329,6 +11702,26 @@
   ]
  },
  {
+  "name": "palette-slash",
+  "category": "Design",
+  "tags": [
+   "palette",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "pallet",
+  "category": "Business",
+  "tags": [
+   "pallet",
+   "warehouse",
+   "logistics",
+   "shipping"
+  ]
+ },
+ {
   "name": "panda",
   "category": "Animals",
   "tags": [
@@ -8339,6 +11732,27 @@
   ]
  },
  {
+  "name": "paper-bag",
+  "category": "Commerce",
+  "tags": [
+   "paper bag",
+   "grocery",
+   "takeaway",
+   "shopping"
+  ]
+ },
+ {
+  "name": "paper-bag-slash",
+  "category": "Commerce",
+  "tags": [
+   "paper bag",
+   "off",
+   "disabled",
+   "hidden",
+   "paper"
+  ]
+ },
+ {
   "name": "paper-plane",
   "category": "Communication",
   "tags": [
@@ -8346,6 +11760,66 @@
    "message",
    "submit",
    "share"
+  ]
+ },
+ {
+  "name": "paper-plane-check",
+  "category": "Communication",
+  "tags": [
+   "sent",
+   "delivered",
+   "send",
+   "check"
+  ]
+ },
+ {
+  "name": "paper-plane-minus",
+  "category": "Communication",
+  "tags": [
+   "send",
+   "remove",
+   "minus",
+   "paper plane"
+  ]
+ },
+ {
+  "name": "paper-plane-plus",
+  "category": "Communication",
+  "tags": [
+   "send",
+   "add",
+   "new",
+   "paper plane"
+  ]
+ },
+ {
+  "name": "paper-plane-slash",
+  "category": "Communication",
+  "tags": [
+   "unsent",
+   "send off",
+   "paper plane",
+   "slash"
+  ]
+ },
+ {
+  "name": "paper-plane-warning",
+  "category": "Communication",
+  "tags": [
+   "send failed",
+   "error",
+   "alert",
+   "paper plane"
+  ]
+ },
+ {
+  "name": "paper-plane-x",
+  "category": "Communication",
+  "tags": [
+   "send cancelled",
+   "error",
+   "x",
+   "paper plane"
   ]
  },
  {
@@ -8367,6 +11841,17 @@
    "text",
    "format",
    "section"
+  ]
+ },
+ {
+  "name": "parallelogram",
+  "category": "Design",
+  "tags": [
+   "parallelogram",
+   "quadrilateral",
+   "shape",
+   "geometry",
+   "slanted"
   ]
  },
  {
@@ -8423,6 +11908,16 @@
   ]
  },
  {
+  "name": "paywall",
+  "category": "Commerce",
+  "tags": [
+   "paywall",
+   "subscription",
+   "locked content",
+   "premium"
+  ]
+ },
+ {
   "name": "pen-nib",
   "category": "Design",
   "tags": [
@@ -8441,6 +11936,17 @@
    "write",
    "compose",
    "draw"
+  ]
+ },
+ {
+  "name": "pencil-ruler",
+  "category": "Design",
+  "tags": [
+   "design services",
+   "drafting",
+   "design",
+   "tools",
+   "draft"
   ]
  },
  {
@@ -8486,6 +11992,38 @@
   ]
  },
  {
+  "name": "phone-check",
+  "category": "Communication",
+  "tags": [
+   "phone check",
+   "done",
+   "approved",
+   "phone",
+   "call"
+  ]
+ },
+ {
+  "name": "phone-disconnect",
+  "category": "Communication",
+  "tags": [
+   "hang up",
+   "end call",
+   "disconnect",
+   "call end",
+   "phone"
+  ]
+ },
+ {
+  "name": "phone-forward",
+  "category": "Communication",
+  "tags": [
+   "call forward",
+   "redirect",
+   "phone",
+   "arrow"
+  ]
+ },
+ {
   "name": "phone-incoming",
   "category": "Communication",
   "tags": [
@@ -8496,6 +12034,47 @@
   ]
  },
  {
+  "name": "phone-list",
+  "category": "Communication",
+  "tags": [
+   "call log",
+   "contacts",
+   "phone book"
+  ]
+ },
+ {
+  "name": "phone-lock",
+  "category": "Communication",
+  "tags": [
+   "locked phone",
+   "secure call",
+   "private",
+   "phone"
+  ]
+ },
+ {
+  "name": "phone-minus",
+  "category": "Communication",
+  "tags": [
+   "phone",
+   "remove",
+   "call",
+   "minus",
+   "remove contact"
+  ]
+ },
+ {
+  "name": "phone-missed",
+  "category": "Communication",
+  "tags": [
+   "missed call",
+   "phone",
+   "call",
+   "notification",
+   "unanswered"
+  ]
+ },
+ {
   "name": "phone-outgoing",
   "category": "Communication",
   "tags": [
@@ -8503,6 +12082,58 @@
    "dial",
    "outbound",
    "calling"
+  ]
+ },
+ {
+  "name": "phone-pause",
+  "category": "Communication",
+  "tags": [
+   "call on hold",
+   "hold",
+   "paused call",
+   "phone",
+   "hold call"
+  ]
+ },
+ {
+  "name": "phone-plus",
+  "category": "Communication",
+  "tags": [
+   "phone",
+   "add contact",
+   "call",
+   "plus",
+   "add call"
+  ]
+ },
+ {
+  "name": "phone-slash",
+  "category": "Communication",
+  "tags": [
+   "no calls",
+   "phone off",
+   "muted calls",
+   "phone disabled",
+   "calls off"
+  ]
+ },
+ {
+  "name": "phone-transfer",
+  "category": "Communication",
+  "tags": [
+   "transfer call",
+   "forward call",
+   "redirect"
+  ]
+ },
+ {
+  "name": "phone-video",
+  "category": "Communication",
+  "tags": [
+   "video call",
+   "facetime",
+   "phone",
+   "camera"
   ]
  },
  {
@@ -8659,6 +12290,48 @@
   ]
  },
  {
+  "name": "podcast",
+  "category": "Communication",
+  "tags": [
+   "podcast",
+   "broadcast",
+   "microphone",
+   "audio",
+   "audio show"
+  ]
+ },
+ {
+  "name": "postage-stamp",
+  "category": "Communication",
+  "tags": [
+   "stamp",
+   "postage",
+   "mail",
+   "post"
+  ]
+ },
+ {
+  "name": "postage-stamp-heart",
+  "category": "Communication",
+  "tags": [
+   "stamp",
+   "love",
+   "postage",
+   "mail"
+  ]
+ },
+ {
+  "name": "postcard",
+  "category": "Communication",
+  "tags": [
+   "postcard",
+   "mail",
+   "card",
+   "greeting",
+   "travel"
+  ]
+ },
+ {
   "name": "power",
   "category": "Interface",
   "tags": [
@@ -8669,6 +12342,16 @@
   ]
  },
  {
+  "name": "presentation",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "board",
+   "easel",
+   "slides"
+  ]
+ },
+ {
   "name": "presentation-chart",
   "category": "Charts",
   "tags": [
@@ -8676,6 +12359,86 @@
    "slides",
    "meeting",
    "board"
+  ]
+ },
+ {
+  "name": "presentation-check",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "approved",
+   "board",
+   "check"
+  ]
+ },
+ {
+  "name": "presentation-minus",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "remove",
+   "board",
+   "minus"
+  ]
+ },
+ {
+  "name": "presentation-pencil",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "edit",
+   "board",
+   "pencil"
+  ]
+ },
+ {
+  "name": "presentation-play",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "start",
+   "play",
+   "slideshow"
+  ]
+ },
+ {
+  "name": "presentation-plus",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "add",
+   "board",
+   "plus"
+  ]
+ },
+ {
+  "name": "presentation-slash",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "presentation-x",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "close",
+   "board",
+   "x"
+  ]
+ },
+ {
+  "name": "presenter",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "speaker",
+   "co-present",
+   "lecture"
   ]
  },
  {
@@ -8707,6 +12470,16 @@
    "activity",
    "health",
    "monitor"
+  ]
+ },
+ {
+  "name": "punch-clock",
+  "category": "Business",
+  "tags": [
+   "time clock",
+   "clock in",
+   "attendance",
+   "timesheet"
   ]
  },
  {
@@ -8858,6 +12631,74 @@
   ]
  },
  {
+  "name": "receipt-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "bitcoin",
+   "crypto"
+  ]
+ },
+ {
+  "name": "receipt-currency-dollar",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "dollar",
+   "price",
+   "money"
+  ]
+ },
+ {
+  "name": "receipt-currency-euro",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "euro",
+   "price",
+   "money"
+  ]
+ },
+ {
+  "name": "receipt-refund",
+  "category": "Commerce",
+  "tags": [
+   "refund",
+   "return",
+   "receipt",
+   "money back"
+  ]
+ },
+ {
+  "name": "receipt-slash",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "receipt-tax",
+  "category": "Commerce",
+  "tags": [
+   "tax receipt",
+   "invoice",
+   "percent",
+   "bill"
+  ]
+ },
+ {
+  "name": "receipt-x",
+  "category": "Commerce",
+  "tags": [
+   "void receipt",
+   "refund",
+   "cancelled order"
+  ]
+ },
+ {
   "name": "record",
   "category": "Media",
   "tags": [
@@ -8865,6 +12706,26 @@
    "capture",
    "live",
    "recording"
+  ]
+ },
+ {
+  "name": "red-envelope",
+  "category": "Commerce",
+  "tags": [
+   "hongbao",
+   "red packet",
+   "gift money",
+   "lucky money"
+  ]
+ },
+ {
+  "name": "refund",
+  "category": "Commerce",
+  "tags": [
+   "refund",
+   "money back",
+   "return",
+   "payment"
   ]
  },
  {
@@ -8885,6 +12746,26 @@
    "replay",
    "repeat one",
    "music"
+  ]
+ },
+ {
+  "name": "report-chart",
+  "category": "Business",
+  "tags": [
+   "analytics report",
+   "chart",
+   "document",
+   "statistics"
+  ]
+ },
+ {
+  "name": "report-search",
+  "category": "Business",
+  "tags": [
+   "search report",
+   "audit",
+   "review",
+   "clipboard"
   ]
  },
  {
@@ -8969,6 +12850,16 @@
    "length",
    "scale",
    "size"
+  ]
+ },
+ {
+  "name": "scale-platform",
+  "category": "Business",
+  "tags": [
+   "industrial scale",
+   "weigh",
+   "platform",
+   "warehouse"
   ]
  },
  {
@@ -9112,6 +13003,67 @@
    "store",
    "buy",
    "shop"
+  ]
+ },
+ {
+  "name": "shopping-bag-arrow-down",
+  "category": "Commerce",
+  "tags": [
+   "add to bag",
+   "buy",
+   "purchase"
+  ]
+ },
+ {
+  "name": "shopping-bag-arrow-up",
+  "category": "Commerce",
+  "tags": [
+   "remove from bag",
+   "return",
+   "refund"
+  ]
+ },
+ {
+  "name": "shopping-bag-check",
+  "category": "Commerce",
+  "tags": [
+   "bag",
+   "purchase",
+   "done",
+   "check",
+   "order complete"
+  ]
+ },
+ {
+  "name": "shopping-bag-discount",
+  "category": "Commerce",
+  "tags": [
+   "shopping bag",
+   "discount",
+   "sale",
+   "percent",
+   "shopping"
+  ]
+ },
+ {
+  "name": "shopping-bag-heart",
+  "category": "Commerce",
+  "tags": [
+   "bag",
+   "wishlist",
+   "favorite",
+   "heart"
+  ]
+ },
+ {
+  "name": "shopping-bag-magnifying-glass",
+  "category": "Commerce",
+  "tags": [
+   "shopping bag",
+   "search",
+   "find",
+   "shopping",
+   "bag"
   ]
  },
  {
@@ -9614,6 +13566,27 @@
   ]
  },
  {
+  "name": "social-network",
+  "category": "Communication",
+  "tags": [
+   "social",
+   "network",
+   "connections",
+   "nodes"
+  ]
+ },
+ {
+  "name": "social-network-slash",
+  "category": "Communication",
+  "tags": [
+   "social network",
+   "off",
+   "disabled",
+   "hidden",
+   "social"
+  ]
+ },
+ {
   "name": "sparkle",
   "category": "Interface",
   "tags": [
@@ -9685,6 +13658,36 @@
   ]
  },
  {
+  "name": "spiral",
+  "category": "Design",
+  "tags": [
+   "spiral",
+   "swirl",
+   "hypnotic",
+   "coil"
+  ]
+ },
+ {
+  "name": "spiral-slash",
+  "category": "Design",
+  "tags": [
+   "spiral",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "spline",
+  "category": "Design",
+  "tags": [
+   "spline",
+   "curve",
+   "path",
+   "smooth"
+  ]
+ },
+ {
   "name": "square",
   "category": "Interface",
   "tags": [
@@ -9692,6 +13695,25 @@
    "box",
    "checkbox",
    "stop"
+  ]
+ },
+ {
+  "name": "square-half",
+  "category": "Design",
+  "tags": [
+   "half",
+   "contrast",
+   "square",
+   "split"
+  ]
+ },
+ {
+  "name": "square-half-bottom",
+  "category": "Design",
+  "tags": [
+   "half square",
+   "fill",
+   "contrast"
   ]
  },
  {
@@ -9712,6 +13734,37 @@
    "stacked",
    "levels",
    "depth"
+  ]
+ },
+ {
+  "name": "stack-minus",
+  "category": "Design",
+  "tags": [
+   "remove layer",
+   "stack",
+   "minus",
+   "layers"
+  ]
+ },
+ {
+  "name": "stack-plus",
+  "category": "Design",
+  "tags": [
+   "add layer",
+   "stack",
+   "plus",
+   "layers"
+  ]
+ },
+ {
+  "name": "stack-slash",
+  "category": "Design",
+  "tags": [
+   "layers off",
+   "hide layers",
+   "stack",
+   "slash",
+   "clear layers"
   ]
  },
  {
@@ -9743,6 +13796,27 @@
    "stairs",
    "climb",
    "up"
+  ]
+ },
+ {
+  "name": "stamp",
+  "category": "Business",
+  "tags": [
+   "approval",
+   "stamp",
+   "approve",
+   "seal",
+   "rubber stamp"
+  ]
+ },
+ {
+  "name": "stamp-slash",
+  "category": "Business",
+  "tags": [
+   "stamp",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -9839,6 +13913,77 @@
   ]
  },
  {
+  "name": "strategy",
+  "category": "Business",
+  "tags": [
+   "strategy",
+   "playbook",
+   "tactics",
+   "plan"
+  ]
+ },
+ {
+  "name": "stroke-curved",
+  "category": "Design",
+  "tags": [
+   "curved stroke",
+   "line",
+   "path",
+   "brush"
+  ]
+ },
+ {
+  "name": "stroke-dynamic",
+  "category": "Design",
+  "tags": [
+   "variable stroke",
+   "pressure",
+   "brush",
+   "line"
+  ]
+ },
+ {
+  "name": "stroke-straight",
+  "category": "Design",
+  "tags": [
+   "straight stroke",
+   "line",
+   "path",
+   "brush"
+  ]
+ },
+ {
+  "name": "subtask",
+  "category": "Business",
+  "tags": [
+   "subtask",
+   "tasks",
+   "checklist",
+   "hierarchy"
+  ]
+ },
+ {
+  "name": "subtract",
+  "category": "Design",
+  "tags": [
+   "subtract",
+   "boolean",
+   "minus front",
+   "shapes"
+  ]
+ },
+ {
+  "name": "subtract-square",
+  "category": "Design",
+  "tags": [
+   "subtract",
+   "boolean",
+   "minus front",
+   "shapes",
+   "pathfinder"
+  ]
+ },
+ {
   "name": "suitcase",
   "category": "Business",
   "tags": [
@@ -9877,6 +14022,47 @@
    "dawn",
    "dusk",
    "evening"
+  ]
+ },
+ {
+  "name": "swatches",
+  "category": "Design",
+  "tags": [
+   "swatches",
+   "color samples",
+   "palette",
+   "swatchbook",
+   "color swatches"
+  ]
+ },
+ {
+  "name": "swatches-slash",
+  "category": "Design",
+  "tags": [
+   "color swatch",
+   "disabled",
+   "off",
+   "design"
+  ]
+ },
+ {
+  "name": "symmetry-horizontal",
+  "category": "Design",
+  "tags": [
+   "symmetry",
+   "mirror",
+   "horizontal",
+   "reflect"
+  ]
+ },
+ {
+  "name": "symmetry-vertical",
+  "category": "Design",
+  "tags": [
+   "symmetry",
+   "mirror",
+   "vertical",
+   "reflect"
   ]
  },
  {
@@ -9992,6 +14178,16 @@
    "aim",
    "bullseye",
    "focus"
+  ]
+ },
+ {
+  "name": "target-arrow",
+  "category": "Business",
+  "tags": [
+   "goal",
+   "bullseye",
+   "arrow",
+   "aim"
   ]
  },
  {
@@ -10182,6 +14378,16 @@
    "format",
    "font",
    "style"
+  ]
+ },
+ {
+  "name": "texture",
+  "category": "Design",
+  "tags": [
+   "texture",
+   "pattern",
+   "diagonal lines",
+   "material"
   ]
  },
  {
@@ -10428,6 +14634,46 @@
   ]
  },
  {
+  "name": "transform",
+  "category": "Design",
+  "tags": [
+   "transform",
+   "scale",
+   "resize",
+   "handles"
+  ]
+ },
+ {
+  "name": "transform-point",
+  "category": "Design",
+  "tags": [
+   "anchor point",
+   "transform",
+   "origin",
+   "pivot"
+  ]
+ },
+ {
+  "name": "transition-bottom",
+  "category": "Design",
+  "tags": [
+   "transition",
+   "slide",
+   "animation",
+   "bottom"
+  ]
+ },
+ {
+  "name": "transition-top",
+  "category": "Design",
+  "tags": [
+   "transition",
+   "slide",
+   "animation",
+   "top"
+  ]
+ },
+ {
   "name": "translate",
   "category": "Editor",
   "tags": [
@@ -10436,6 +14682,16 @@
    "localization",
    "i18n",
    "international"
+  ]
+ },
+ {
+  "name": "trapezoid",
+  "category": "Design",
+  "tags": [
+   "trapezoid",
+   "shape",
+   "geometry",
+   "quadrilateral"
   ]
  },
  {
@@ -10531,6 +14787,74 @@
   ]
  },
  {
+  "name": "triangle-circle",
+  "category": "Design",
+  "tags": [
+   "triangle",
+   "shape",
+   "circle"
+  ]
+ },
+ {
+  "name": "triangle-dashed",
+  "category": "Design",
+  "tags": [
+   "dashed triangle",
+   "shape",
+   "outline",
+   "draft"
+  ]
+ },
+ {
+  "name": "triangle-inverted",
+  "category": "Design",
+  "tags": [
+   "inverted triangle",
+   "down",
+   "shape",
+   "triangle"
+  ]
+ },
+ {
+  "name": "triangle-minus",
+  "category": "Design",
+  "tags": [
+   "triangle",
+   "remove",
+   "subtract"
+  ]
+ },
+ {
+  "name": "triangle-plus",
+  "category": "Design",
+  "tags": [
+   "triangle",
+   "add",
+   "new",
+   "create"
+  ]
+ },
+ {
+  "name": "triangle-slash",
+  "category": "Design",
+  "tags": [
+   "triangle",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "triangles",
+  "category": "Design",
+  "tags": [
+   "triangles",
+   "pattern",
+   "shapes",
+   "geometry"
+  ]
+ },
+ {
   "name": "trophy",
   "category": "Business",
   "tags": [
@@ -10563,6 +14887,26 @@
   ]
  },
  {
+  "name": "typeface",
+  "category": "Design",
+  "tags": [
+   "typeface",
+   "font",
+   "typography",
+   "letters"
+  ]
+ },
+ {
+  "name": "typeface-slash",
+  "category": "Design",
+  "tags": [
+   "typeface",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "umbrella",
   "category": "Weather",
   "tags": [
@@ -10571,6 +14915,27 @@
    "insurance",
    "weather",
    "cover"
+  ]
+ },
+ {
+  "name": "unite",
+  "category": "Design",
+  "tags": [
+   "union",
+   "boolean",
+   "combine",
+   "merge shapes"
+  ]
+ },
+ {
+  "name": "unite-square",
+  "category": "Design",
+  "tags": [
+   "union",
+   "boolean",
+   "combine",
+   "shapes",
+   "merge"
   ]
  },
  {
@@ -10658,6 +15023,16 @@
   ]
  },
  {
+  "name": "user-video",
+  "category": "Communication",
+  "tags": [
+   "video call",
+   "webinar",
+   "person",
+   "camera"
+  ]
+ },
+ {
   "name": "users",
   "category": "People",
   "tags": [
@@ -10679,6 +15054,65 @@
   ]
  },
  {
+  "name": "vector",
+  "category": "Design",
+  "tags": [
+   "vector",
+   "bezier",
+   "anchor points",
+   "path"
+  ]
+ },
+ {
+  "name": "vector-slash",
+  "category": "Design",
+  "tags": [
+   "vector",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "vector-three",
+  "category": "Science",
+  "tags": [
+   "3d vectors",
+   "axes",
+   "coordinates"
+  ]
+ },
+ {
+  "name": "vector-triangle",
+  "category": "Design",
+  "tags": [
+   "vector triangle",
+   "anchor points",
+   "polygon",
+   "path"
+  ]
+ },
+ {
+  "name": "vector-triangle-slash",
+  "category": "Design",
+  "tags": [
+   "vector triangle",
+   "off",
+   "disabled",
+   "hidden",
+   "vector"
+  ]
+ },
+ {
+  "name": "vector-two",
+  "category": "Science",
+  "tags": [
+   "2d vectors",
+   "axes",
+   "coordinates"
+  ]
+ },
+ {
   "name": "video-camera",
   "category": "Media",
   "tags": [
@@ -10690,6 +15124,44 @@
   ]
  },
  {
+  "name": "video-conference",
+  "category": "Communication",
+  "tags": [
+   "video call",
+   "meeting",
+   "conference",
+   "webinar",
+   "people"
+  ]
+ },
+ {
+  "name": "view-orthogonal",
+  "category": "Design",
+  "tags": [
+   "orthographic",
+   "3d view",
+   "front view"
+  ]
+ },
+ {
+  "name": "view-perspective",
+  "category": "Design",
+  "tags": [
+   "perspective",
+   "3d view",
+   "vanishing point"
+  ]
+ },
+ {
+  "name": "view-xray",
+  "category": "Design",
+  "tags": [
+   "x-ray view",
+   "wireframe",
+   "see-through"
+  ]
+ },
+ {
   "name": "virus",
   "category": "Health",
   "tags": [
@@ -10698,6 +15170,26 @@
    "covid",
    "infection",
    "disease"
+  ]
+ },
+ {
+  "name": "voice",
+  "category": "Communication",
+  "tags": [
+   "voice",
+   "speak",
+   "speaking",
+   "audio"
+  ]
+ },
+ {
+  "name": "voice-recognition",
+  "category": "Communication",
+  "tags": [
+   "voice recognition",
+   "speech",
+   "scan",
+   "voice"
   ]
  },
  {
@@ -10732,6 +15224,37 @@
   ]
  },
  {
+  "name": "wallpaper",
+  "category": "Design",
+  "tags": [
+   "wallpaper",
+   "background",
+   "image",
+   "desktop"
+  ]
+ },
+ {
+  "name": "wallpaper-slash",
+  "category": "Design",
+  "tags": [
+   "wallpaper",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "warehouse",
+  "category": "Business",
+  "tags": [
+   "warehouse",
+   "storage",
+   "inventory",
+   "logistics",
+   "depot"
+  ]
+ },
+ {
   "name": "warning",
   "category": "Interface",
   "tags": [
@@ -10760,6 +15283,16 @@
    "error",
    "danger",
    "exclamation"
+  ]
+ },
+ {
+  "name": "warp",
+  "category": "Design",
+  "tags": [
+   "distort",
+   "warp",
+   "mesh",
+   "transform"
   ]
  },
  {
@@ -10822,6 +15355,16 @@
    "internet",
    "network",
    "signal"
+  ]
+ },
+ {
+  "name": "wifi-question",
+  "category": "Communication",
+  "tags": [
+   "wifi unknown",
+   "no internet",
+   "wifi",
+   "question"
   ]
  },
  {
@@ -10904,6 +15447,16 @@
    "cancel",
    "dismiss",
    "error"
+  ]
+ },
+ {
+  "name": "zigzag",
+  "category": "Design",
+  "tags": [
+   "zigzag",
+   "wave",
+   "line",
+   "pattern"
   ]
  }
 ]

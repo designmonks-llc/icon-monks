@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="tax receipt,invoice,percent,bill">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H200 V224 L176 208 L152 224 L128 208 L104 224 L80 208 L56 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 32 H200 V224 L176 208 L152 224 L128 208 L104 224 L80 208 L56 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 88 L88 168"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="96" r="16"/>
+    <circle cx="160" cy="160" r="16"/>
+  </g>
+</svg>

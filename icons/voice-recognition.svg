@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="voice recognition,speech,scan,voice">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 L40 56 A16 16 0 0 1 56 40 L88 40"/>
+    <path d="M168 40 L200 40 A16 16 0 0 1 216 56 L216 88"/>
+    <path d="M216 168 L216 200 A16 16 0 0 1 200 216 L168 216"/>
+    <path d="M88 216 L56 216 A16 16 0 0 1 40 200 L40 168"/>
+    <path d="M64 116 L64 140"/>
+    <path d="M96 96 L96 160"/>
+    <path d="M128 76 L128 180"/>
+    <path d="M160 96 L160 160"/>
+    <path d="M192 116 L192 140"/>
+  </g>
+</svg>

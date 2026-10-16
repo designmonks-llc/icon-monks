@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="intersect,boolean,overlap,shapes,pathfinder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M110 96 H160 V146 A14 14 0 0 1 146 160 H96 V110 A14 14 0 0 1 110 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="128" height="128" rx="14"/>
+    <rect x="96" y="96" width="128" height="128" rx="14"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="stroke cap,line end,vector,path">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 72 H152 A56 56 0 0 1 152 184 H32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 H152 A56 56 0 0 1 152 184 H32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L152 128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="152" cy="128" r="16"/>
+  </g>
+</svg>

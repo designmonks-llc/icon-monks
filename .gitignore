@@ -1,4 +1,4 @@
-node_modules/
+node_modules
 build/
 browser-test.png
 __pycache__/

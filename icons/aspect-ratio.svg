@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="ratio,aspect,dimensions,crop,resize">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="192" height="144" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="192" height="144" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 88 L184 88 A8 8 0 0 1 192 96 L192 120"/>
+    <path d="M96 168 L72 168 A8 8 0 0 1 64 160 L64 136"/>
+  </g>
+</svg>

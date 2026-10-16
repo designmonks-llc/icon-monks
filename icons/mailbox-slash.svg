@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="mailbox,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 176 V136 A40 40 0 0 1 72 96 H208 A16 16 0 0 1 224 112 V176 Z"/>
+    <path d="M72 96 A40 40 0 0 1 112 136 V176"/>
+    <path d="M176 68 L176 96"/>
+    <path d="M176 40 L216 40 L216 68 L176 68 Z"/>
+    <path d="M144 176 L144 224"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

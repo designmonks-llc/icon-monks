@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="anchor point,node,vector,path">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="104" y="104" width="48" height="48" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="104" y="104" width="48" height="48" rx="8"/>
+    <path d="M40 128 L104 128"/>
+    <path d="M152 128 L216 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="40" cy="128" r="16"/>
+    <circle cx="216" cy="128" r="16"/>
+  </g>
+</svg>

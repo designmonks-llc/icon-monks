@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="exclude,boolean,xor,difference,shapes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M46 32 H146 A14 14 0 0 1 160 46 V96 H96 V160 H46 A14 14 0 0 1 32 146 V46 A14 14 0 0 1 46 32 Z"/>
+    <path d="M160 96 H210 A14 14 0 0 1 224 110 V210 A14 14 0 0 1 210 224 H110 A14 14 0 0 1 96 210 V160 H160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="128" height="128" rx="14"/>
+    <rect x="96" y="96" width="128" height="128" rx="14"/>
+  </g>
+</svg>

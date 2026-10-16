@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="stamp,love,postage,mail">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 40 L58 40 A10 10 0 0 0 78 40 L98 40 A10 10 0 0 0 118 40 L138 40 A10 10 0 0 0 158 40 L178 40 A10 10 0 0 0 198 40 L208 40 L208 52 A10 10 0 0 0 208 72 L208 96 A10 10 0 0 0 208 116 L208 140 A10 10 0 0 0 208 160 L208 184 A10 10 0 0 0 208 204 L208 216 L198 216 A10 10 0 0 0 178 216 L158 216 A10 10 0 0 0 138 216 L118 216 A10 10 0 0 0 98 216 L78 216 A10 10 0 0 0 58 216 L48 216 L48 204 A10 10 0 0 0 48 184 L48 160 A10 10 0 0 0 48 140 L48 116 A10 10 0 0 0 48 96 L48 72 A10 10 0 0 0 48 52 L48 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 40 L58 40 A10 10 0 0 0 78 40 L98 40 A10 10 0 0 0 118 40 L138 40 A10 10 0 0 0 158 40 L178 40 A10 10 0 0 0 198 40 L208 40 L208 52 A10 10 0 0 0 208 72 L208 96 A10 10 0 0 0 208 116 L208 140 A10 10 0 0 0 208 160 L208 184 A10 10 0 0 0 208 204 L208 216 L198 216 A10 10 0 0 0 178 216 L158 216 A10 10 0 0 0 138 216 L118 216 A10 10 0 0 0 98 216 L78 216 A10 10 0 0 0 58 216 L48 216 L48 204 A10 10 0 0 0 48 184 L48 160 A10 10 0 0 0 48 140 L48 116 A10 10 0 0 0 48 96 L48 72 A10 10 0 0 0 48 52 L48 40 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 162.24 C128 162.24 87.68 140.4 87.68 114.36 A21 21 0 0 1 128 105.96 A21 21 0 0 1 168.32 114.36 C168.32 140.4 128 162.24 128 162.24 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="margin,spacing,padding,box model,box margin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="84" y="84" width="88" height="88" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 56 L32 32 L56 32"/>
+    <path d="M200 32 L224 32 L224 56"/>
+    <path d="M224 200 L224 224 L200 224"/>
+    <path d="M56 224 L32 224 L32 200"/>
+    <path d="M104 32 L152 32"/>
+    <path d="M104 224 L152 224"/>
+    <path d="M32 104 L32 152"/>
+    <path d="M224 104 L224 152"/>
+    <rect x="84" y="84" width="88" height="88" rx="12"/>
+  </g>
+</svg>

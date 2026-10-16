@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="linked layers,shapes,connected,boolean">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 72 V48 A16 16 0 0 0 144 32 H48 A16 16 0 0 0 32 48 V144 A16 16 0 0 0 48 160 H144 A16 16 0 0 0 160 144 V120"/>
+    <path d="M96 136 V112 A16 16 0 0 1 112 96 H208 A16 16 0 0 1 224 112 V208 A16 16 0 0 1 208 224 H112 A16 16 0 0 1 96 208 V184"/>
+  </g>
+</svg>

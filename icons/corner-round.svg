@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="rounded corner,radius,border radius,corner,corner radius">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 V144 A96 96 0 0 1 144 48 H216"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="48" r="16"/>
+  </g>
+</svg>

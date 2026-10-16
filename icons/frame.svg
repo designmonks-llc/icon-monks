@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="artboard,canvas,frame tool">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="88" width="80" height="80"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 32 L88 224"/>
+    <path d="M168 32 L168 224"/>
+    <path d="M32 88 L224 88"/>
+    <path d="M32 168 L224 168"/>
+  </g>
+</svg>

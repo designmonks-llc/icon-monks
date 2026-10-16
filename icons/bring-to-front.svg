@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="arrange,layer,front,order,bring forward">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="76" y="76" width="104" height="104" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 L44 128 A12 12 0 0 1 32 116 L32 44 A12 12 0 0 1 44 32 L116 32 A12 12 0 0 1 128 44 L128 56"/>
+    <path d="M200 128 L212 128 A12 12 0 0 1 224 140 L224 212 A12 12 0 0 1 212 224 L140 224 A12 12 0 0 1 128 212 L128 200"/>
+    <rect x="76" y="76" width="104" height="104" rx="12"/>
+  </g>
+</svg>

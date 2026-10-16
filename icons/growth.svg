@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="growth,sprout,grow,progress">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 160 C128 120 104 104 64 104 C64 144 88 160 128 160 Z"/>
+    <path d="M128 128 C128 80 152 56 200 56 C200 104 176 128 128 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 216 L128 128"/>
+    <path d="M128 160 C128 120 104 104 64 104 C64 144 88 160 128 160 Z"/>
+    <path d="M128 128 C128 80 152 56 200 56 C200 104 176 128 128 128 Z"/>
+    <path d="M72 216 L184 216"/>
+  </g>
+</svg>

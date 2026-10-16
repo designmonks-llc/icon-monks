@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="frustum,truncated cone,3d shape,geometry">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 64 A48 20 0 0 1 176 64 L216 192 A88 28 0 0 1 40 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 64 A48 20 0 0 1 176 64 L216 192 A88 28 0 0 1 40 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 64 A48 20 0 0 0 176 64"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="hexagons,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 33.5 L174.77 60.5 L174.77 114.5 L128 141.5 L81.23 114.5 L81.23 60.5 Z"/>
+    <path d="M81.23 114.5 L128 141.5 L128 195.5 L81.23 222.5 L34.47 195.5 L34.47 141.5 Z"/>
+    <path d="M174.77 114.5 L221.53 141.5 L221.53 195.5 L174.77 222.5 L128 195.5 L128 141.5 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

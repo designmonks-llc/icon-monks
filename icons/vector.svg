@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="vector,bezier,anchor points,path">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="42" y="42" width="36" height="36" rx="6"/>
+    <rect x="178" y="42" width="36" height="36" rx="6"/>
+    <rect x="178" y="178" width="36" height="36" rx="6"/>
+    <rect x="42" y="178" width="36" height="36" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="42" y="42" width="36" height="36" rx="6"/>
+    <rect x="178" y="42" width="36" height="36" rx="6"/>
+    <rect x="178" y="178" width="36" height="36" rx="6"/>
+    <rect x="42" y="178" width="36" height="36" rx="6"/>
+    <path d="M78 60 L178 60"/>
+    <path d="M196 78 L196 178"/>
+    <path d="M178 196 L78 196"/>
+    <path d="M60 178 L60 78"/>
+  </g>
+</svg>

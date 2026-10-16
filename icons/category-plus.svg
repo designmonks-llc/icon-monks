@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="category,add,new,shapes,group">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="72" height="72" rx="10"/>
+    <circle cx="180" cy="76" r="36"/>
+    <rect x="40" y="144" width="72" height="72" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="72" height="72" rx="10"/>
+    <circle cx="180" cy="76" r="36"/>
+    <rect x="40" y="144" width="72" height="72" rx="10"/>
+    <path d="M180 148 L180 212"/>
+    <path d="M148 180 L212 180"/>
+  </g>
+</svg>

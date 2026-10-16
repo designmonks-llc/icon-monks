@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="crop landscape,crop,aspect ratio,trim,landscape">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 50 L56 182 L224 182"/>
+    <path d="M32 74 L200 74 L200 206"/>
+  </g>
+</svg>

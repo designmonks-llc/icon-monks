@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="animation,keyframe,timeline,diamond">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M137.9 45.9 L210.1 118.1 A14 14 0 0 1 210.1 137.9 L137.9 210.1 A14 14 0 0 1 118.1 210.1 L45.9 137.9 A14 14 0 0 1 45.9 118.1 L118.1 45.9 A14 14 0 0 1 137.9 45.9 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M137.9 45.9 L210.1 118.1 A14 14 0 0 1 210.1 137.9 L137.9 210.1 A14 14 0 0 1 118.1 210.1 L45.9 137.9 A14 14 0 0 1 45.9 118.1 L118.1 45.9 A14 14 0 0 1 137.9 45.9 Z"/>
+  </g>
+</svg>

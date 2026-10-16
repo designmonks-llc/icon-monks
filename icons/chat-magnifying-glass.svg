@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat,search,find,message,search messages">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M130.33 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 138.04 A56 56 0 0 0 130.33 200 Z"/>
+    <circle cx="178" cy="178" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130.33 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 138.04"/>
+    <circle cx="178" cy="178" r="18"/>
+    <path d="M192 192 L210 210"/>
+  </g>
+</svg>

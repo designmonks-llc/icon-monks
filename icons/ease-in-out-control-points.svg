@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="easing,bezier,animation,curve">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 196 C160 196 96 60 148 60"/>
+    <path d="M108 196 L66 196"/>
+    <path d="M148 60 L190 60"/>
+    <circle cx="48" cy="196" r="18"/>
+    <circle cx="208" cy="60" r="18"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="108" cy="196" r="20"/>
+    <circle cx="148" cy="60" r="20"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="gift card,voucher,present,coupon">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="64" width="192" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="64" width="192" height="128" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 64 L100 192"/>
+    <path d="M32 128 L224 128"/>
+    <path d="M100 128 C88 94 60 86 60 108 C60 125 80 128 100 128 C120 128 140 125 140 108 C140 86 112 94 100 128"/>
+  </g>
+</svg>

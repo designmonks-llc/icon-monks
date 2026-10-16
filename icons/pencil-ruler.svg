@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="design services,drafting,design,tools,draft">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M78.63 33.37 L222.63 177.37 L177.37 222.63 L33.37 78.63 Z"/>
+    <path d="M85.37 130.63 L56 160 L40 216 L96 200 L125.37 170.63 Z"/>
+    <path d="M130.63 85.37 L168 48 L208 88 L170.63 125.37 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78.63 33.37 L222.63 177.37 L177.37 222.63 L33.37 78.63 Z"/>
+    <path d="M85.37 130.63 L56 160 L40 216 L96 200 L125.37 170.63"/>
+    <path d="M130.63 85.37 L168 48 L208 88 L170.63 125.37"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M115.4 70.14 L97.01 88.53"/>
+    <path d="M140.85 95.6 L129.54 106.91"/>
+    <path d="M166.31 121.05 L147.92 139.44"/>
+    <path d="M191.76 146.51 L180.45 157.82"/>
+    <path d="M56 160 L96 200"/>
+  </g>
+</svg>

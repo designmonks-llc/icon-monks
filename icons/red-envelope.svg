@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="hongbao,red packet,gift money,lucky money">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="144" height="192" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="144" height="192" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 76 C88 112 168 112 200 76"/>
+    <circle cx="128" cy="116" r="22"/>
+  </g>
+</svg>

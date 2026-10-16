@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="theater,tragedy,drama">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 60 C96 36 160 36 208 60 V120 C208 176 168 216 128 216 C88 216 48 176 48 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 60 C96 36 160 36 208 60 V120 C208 176 168 216 128 216 C88 216 48 176 48 120 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 112 L112 100"/>
+    <path d="M144 100 L176 112"/>
+    <path d="M92 176 A44 44 0 0 1 164 176"/>
+  </g>
+</svg>

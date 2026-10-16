@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="withdraw,atm,cash out,money">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 56 V186 A14 14 0 0 0 78 200 H178 A14 14 0 0 0 192 186 V56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 56 L224 56"/>
+    <path d="M64 56 V186 A14 14 0 0 0 78 200 H178 A14 14 0 0 0 192 186 V56"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 96 L128 168"/>
+    <path d="M100 140 L128 168 L156 140"/>
+  </g>
+</svg>

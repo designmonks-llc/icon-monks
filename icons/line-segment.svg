@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="line,segment,vector,diagonal,stroke">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="192" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="192" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+    <path d="M80.97 175.03 L175.03 80.97"/>
+  </g>
+</svg>

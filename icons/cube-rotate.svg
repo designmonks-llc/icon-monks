@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="3d rotation,rotate,cube,orbit">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 80 L172 104 L172 152 L128 176 L84 152 L84 104 L128 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M53.37 81.37 A88 88 0 1 1 45.31 158.1"/>
+    <path d="M72.5 170.78 L45.31 158.1 L32.63 185.29"/>
+    <path d="M128 80 L172 104 L172 152 L128 176 L84 152 L84 104 L128 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 104 L128 128 L172 104"/>
+    <path d="M128 128 L128 176"/>
+  </g>
+</svg>

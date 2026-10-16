@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="building,office,remove,x">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V112 A28 28 0 0 1 172 140 H164 A8 8 0 0 0 156 148 V216 H148 V180 H108 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V112"/>
+    <path d="M32 216 L156 216"/>
+    <path d="M108 216 V180 H148 V216"/>
+    <path d="M180 164 L220 204"/>
+    <path d="M220 164 L180 204"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 72 L112 72"/>
+    <path d="M144 72 L168 72"/>
+    <path d="M88 108 L112 108"/>
+    <path d="M144 108 L168 108"/>
+    <path d="M88 144 L112 144"/>
+  </g>
+</svg>

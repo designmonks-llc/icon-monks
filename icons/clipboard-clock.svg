@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="pending tasks,deadline,scheduled,clipboard">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="48" width="160" height="176" rx="16"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <rect x="96" y="40" width="64" height="24" rx="4"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 48 H64 A16 16 0 0 0 48 64 V208 A16 16 0 0 0 64 224 H192 A16 16 0 0 0 208 208 V64 A16 16 0 0 0 192 48 H168"/>
+    <rect x="88" y="32" width="80" height="40" rx="10"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="148" r="48"/>
+    <path d="M128 120 L128 148 L152 162"/>
+  </g>
+</svg>

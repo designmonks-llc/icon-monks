@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="box multiple,box,multiple,design">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="104" width="120" height="120" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="104" width="120" height="120" rx="14"/>
+    <path d="M68 104 L68 82 A14 14 0 0 1 82 68 L174 68 A14 14 0 0 1 188 82 L188 174 A14 14 0 0 1 174 188 L152 188"/>
+    <path d="M104 68 L104 46 A14 14 0 0 1 118 32 L210 32 A14 14 0 0 1 224 46 L224 138 A14 14 0 0 1 210 152 L188 152"/>
+  </g>
+</svg>

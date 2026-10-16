@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="dashed,dotted,stroke style,border">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L216 64"/>
+    <path d="M40 128 L72 128"/>
+    <path d="M112 128 L144 128"/>
+    <path d="M184 128 L216 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="40" cy="192" r="16"/>
+    <circle cx="84" cy="192" r="16"/>
+    <circle cx="128" cy="192" r="16"/>
+    <circle cx="172" cy="192" r="16"/>
+    <circle cx="216" cy="192" r="16"/>
+  </g>
+</svg>

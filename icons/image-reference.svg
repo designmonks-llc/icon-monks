@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="reference image,mood board,picture,inspiration">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M46 48 H176 L224 96 V194 A14 14 0 0 1 210 208 H46 A14 14 0 0 1 32 194 V62 A14 14 0 0 1 46 48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 48 H176 L224 96 V194 A14 14 0 0 1 210 208 H46 A14 14 0 0 1 32 194 V62 A14 14 0 0 1 46 48 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M176 48 L176 96 L224 96"/>
+    <path d="M44 188 L96 136 L144 184 L168 160 L212 204"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="96" r="16"/>
+  </g>
+</svg>

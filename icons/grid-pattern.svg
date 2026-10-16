@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="grid pattern,texture,mesh,background">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 32 L64 224"/>
+    <path d="M128 32 L128 224"/>
+    <path d="M192 32 L192 224"/>
+    <path d="M32 64 L224 64"/>
+    <path d="M32 128 L224 128"/>
+    <path d="M32 192 L224 192"/>
+  </g>
+</svg>

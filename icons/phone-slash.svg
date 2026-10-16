@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="no calls,phone off,muted calls,phone disabled,calls off">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 40 H160 L144 92 L168 112 C148 132 132 148 112 168 L92 144 L40 160 V192 A24 24 0 0 0 64 216 C152 216 216 152 216 64 A24 24 0 0 0 192 40 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

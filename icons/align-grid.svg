@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="alignment,anchor,position,grid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="56" cy="56" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="56" cy="56" r="24"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="56" r="18"/>
+    <circle cx="200" cy="56" r="18"/>
+    <circle cx="56" cy="128" r="18"/>
+    <circle cx="128" cy="128" r="18"/>
+    <circle cx="200" cy="128" r="18"/>
+    <circle cx="56" cy="200" r="18"/>
+    <circle cx="128" cy="200" r="18"/>
+    <circle cx="200" cy="200" r="18"/>
+  </g>
+</svg>

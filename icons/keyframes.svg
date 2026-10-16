@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="animation,timeline,keyframes,diamonds">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112.49 64.49 L167.51 119.51 A12 12 0 0 1 167.51 136.49 L112.49 191.51 A12 12 0 0 1 95.51 191.51 L40.49 136.49 A12 12 0 0 1 40.49 119.51 L95.51 64.49 A12 12 0 0 1 112.49 64.49 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112.49 64.49 L167.51 119.51 A12 12 0 0 1 167.51 136.49 L112.49 191.51 A12 12 0 0 1 95.51 191.51 L40.49 136.49 A12 12 0 0 1 40.49 119.51 L95.51 64.49 A12 12 0 0 1 112.49 64.49 Z"/>
+    <path d="M152 56 L215.51 119.51 A12 12 0 0 1 215.51 136.49 L152 200"/>
+  </g>
+</svg>

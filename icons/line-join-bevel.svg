@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="bevel join,stroke join,corner,line">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M216 40 H88 L40 88 V216 H136 V136 H216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 40 H88 L40 88 V216 H136 V136 H216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 88 L88 88 L88 188"/>
+  </g>
+</svg>

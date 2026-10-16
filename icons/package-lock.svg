@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="secure package,locked box,protected delivery">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M125.56 222.67 L40 176 L40 80 L128 32 L216 80 L216 134.28 A66 66 0 0 0 125.56 222.67 Z"/>
+    <rect x="156" y="188" width="56" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125.56 222.67 L40 176 L40 80 L128 32 L216 80 L216 134.28"/>
+    <rect x="156" y="188" width="56" height="40" rx="8"/>
+    <path d="M168 188 V174 A16 16 0 0 1 200 174 V188"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 80 L128 128 L216 80"/>
+    <path d="M128 128 L128 157.07"/>
+    <path d="M172 56 L84 104 L84 144"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="gradient,fade,color,blend">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 32 H96 V224 H48 A16 16 0 0 1 32 208 V48 A16 16 0 0 1 48 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <path d="M96 32 L96 224"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="136" cy="72" r="16"/>
+    <circle cx="136" cy="128" r="16"/>
+    <circle cx="136" cy="184" r="16"/>
+    <circle cx="184" cy="100" r="16"/>
+    <circle cx="184" cy="156" r="16"/>
+  </g>
+</svg>

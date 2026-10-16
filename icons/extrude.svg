@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="3d,extrude,modeling">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 160 L128 132 L216 160 L216 196 L128 224 L40 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 160 L128 132 L216 160 L216 196 L128 224 L40 196 Z"/>
+    <path d="M128 104 L128 32"/>
+    <path d="M149.21 53.21 L128 32 L106.79 53.21"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 160 L128 188 L216 160"/>
+    <path d="M128 188 L128 224"/>
+  </g>
+</svg>

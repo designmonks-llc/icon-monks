@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="subtract,boolean,minus front,shapes,pathfinder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 110 A14 14 0 0 1 46 96 L96 96 L96 160 L160 160 L160 210 A14 14 0 0 1 146 224 L46 224 A14 14 0 0 1 32 210 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 110 A14 14 0 0 1 46 96 L96 96 L96 160 L160 160 L160 210 A14 14 0 0 1 146 224 L46 224 A14 14 0 0 1 32 210 Z"/>
+    <rect x="96" y="32" width="128" height="128" rx="14"/>
+  </g>
+</svg>

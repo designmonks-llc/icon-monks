@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="express mail,fast,send,envelope,express">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="92" y="74" width="132" height="108" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="92" y="74" width="132" height="108" rx="14"/>
+    <path d="M46 96 L60 96"/>
+    <path d="M32 128 L60 128"/>
+    <path d="M46 160 L60 160"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 92 L158 140 L208 92"/>
+  </g>
+</svg>

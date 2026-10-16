@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="transition,slide,animation,bottom">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="32" width="176" height="120" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 152 H56 A16 16 0 0 1 40 136 V48 A16 16 0 0 1 56 32 H200 A16 16 0 0 1 216 48 V136 A16 16 0 0 1 200 152 H164"/>
+    <path d="M128 152 L128 216"/>
+    <path d="M92 180 L128 216 L164 180"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 152"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="distribute,spacing,vertical,center,space between">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="84" y="32" width="88" height="36" rx="10"/>
+    <rect x="60" y="110" width="136" height="36" rx="10"/>
+    <rect x="100" y="188" width="56" height="36" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="32" width="88" height="36" rx="10"/>
+    <path d="M224 50 L172 50"/>
+    <path d="M84 50 L32 50"/>
+    <rect x="60" y="110" width="136" height="36" rx="10"/>
+    <path d="M224 128 L196 128"/>
+    <path d="M60 128 L32 128"/>
+    <rect x="100" y="188" width="56" height="36" rx="10"/>
+    <path d="M224 206 L156 206"/>
+    <path d="M100 206 L32 206"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="selected layer,stack,layers,active">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 40 L224 104 L128 168 L32 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L224 104 L128 168 L32 104 Z"/>
+    <path d="M32 148 L128 212 L224 148"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 106 L120 126 L156 90"/>
+  </g>
+</svg>

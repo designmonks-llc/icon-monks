@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="keyframe align,vertical,animation,diamond">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M135.07 59.07 L196.93 120.93 A10 10 0 0 1 196.93 135.07 L135.07 196.93 A10 10 0 0 1 120.93 196.93 L59.07 135.07 A10 10 0 0 1 59.07 120.93 L120.93 59.07 A10 10 0 0 1 135.07 59.07 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M135.07 59.07 L196.93 120.93 A10 10 0 0 1 196.93 135.07 L135.07 196.93 A10 10 0 0 1 120.93 196.93 L59.07 135.07 A10 10 0 0 1 59.07 120.93 L120.93 59.07 A10 10 0 0 1 135.07 59.07 Z"/>
+    <path d="M128 32 L128 52"/>
+    <path d="M128 204 L128 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 84 L128 172"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="business plan,strategy,finance,growth">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 176 V48 A16 16 0 0 1 56 32 H136 A16 16 0 0 1 152 48 V112 H112 V192 H56 A16 16 0 0 1 40 176 Z"/>
+    <rect x="128" y="120" width="96" height="96" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 192 H56 A16 16 0 0 1 40 176 V48 A16 16 0 0 1 56 32 H136 A16 16 0 0 1 152 48 V96"/>
+    <rect x="128" y="120" width="96" height="96" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 72 L120 72"/>
+    <path d="M72 104 L104 104"/>
+    <path d="M72 136 L88 136"/>
+    <path d="M128 152 L224 152"/>
+    <path d="M128 184 L224 184"/>
+  </g>
+</svg>

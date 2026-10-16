@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="cylinder,3d,shape,geometry">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 64 A80 28 0 0 1 208 64 L208 192 A80 28 0 0 1 48 192 L48 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 A80 28 0 0 1 208 64 L208 192 A80 28 0 0 1 48 192 L48 64 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 A80 28 0 0 0 208 64"/>
+  </g>
+</svg>

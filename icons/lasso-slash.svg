@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="lasso,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M63.52 128 L61.37 125.23 L59.42 122.39 L57.7 119.47 L56.19 116.5 L54.91 113.48 L53.86 110.42 L53.4 108.67"/>
+    <path d="M99.31 44.42 L99.35 44.4 L103.44 43.06 L107.62 41.87 L111.89 40.83 L116.23 39.96 L120.62 39.24 L120.66 39.23"/>
+    <path d="M153.04 38.94 L156.5 39.4 L160.88 40.16 L165.2 41.08 L169.45 42.15 L173.61 43.38 L174.48 43.68"/>
+    <path d="M203.04 58.77 L205.34 60.68 L208.06 63.2 L210.58 65.82 L212.9 68.52 L215.02 71.3 L216.92 74.16 L217.51 75.18"/>
+    <path d="M223.12 106.41 L222.77 108.1 L221.89 111.2 L220.79 114.25 L219.45 117.26 L217.89 120.22 L216.1 123.11 L214.11 125.94 L213.92 126.18"/>
+    <path d="M85.05 145.28 C81.05 181.28 48 180 56 216"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="85.05" cy="145.28" r="18"/>
+  </g>
+</svg>

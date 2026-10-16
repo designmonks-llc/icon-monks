@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="dialpad,disabled,off,communication">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="44" r="18"/>
+    <circle cx="184" cy="44" r="18"/>
+    <circle cx="184" cy="100" r="18"/>
+    <circle cx="72" cy="156" r="18"/>
+    <circle cx="72" cy="212" r="18"/>
+    <circle cx="128" cy="212" r="18"/>
+  </g>
+</svg>
