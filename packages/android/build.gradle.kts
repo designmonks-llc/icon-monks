@@ -19,9 +19,8 @@ android {
 }
 
 dependencies {
-    implementation(platform("androidx.compose:compose-bom:2024.09.00"))
-    implementation("androidx.compose.ui:ui-graphics")
-    implementation("androidx.compose.ui:ui-unit")
+    api(platform("androidx.compose:compose-bom:2024.09.00"))
+    api("androidx.compose.ui:ui")
 }
 
 afterEvaluate {
