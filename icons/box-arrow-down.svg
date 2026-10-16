@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="archive,store,box,put away">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 128 V200 A16 16 0 0 0 64 216 H192 A16 16 0 0 0 208 200 V128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 128 V200 A16 16 0 0 0 64 216 H192 A16 16 0 0 0 208 200 V128"/>
+    <path d="M48 128 L32 92"/>
+    <path d="M208 128 L224 92"/>
+    <path d="M128 32 L128 120"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 128 L128 176"/>
+    <path d="M100 148 L128 176 L156 148"/>
+  </g>
+</svg>

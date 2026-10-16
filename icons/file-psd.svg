@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="psd,layered image,design,file type">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M39 224 V164 H58.2 A16.8 16.8 0 0 1 58.2 197.6 H39"/>
+    <path d="M145 164 H122 A15 15 0 0 0 122 194 H130 A15 15 0 0 1 130 224 H107"/>
+    <path d="M177 164 H193 A24 24 0 0 1 217 188 V200 A24 24 0 0 1 193 224 H177 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

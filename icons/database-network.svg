@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="network database,distributed,server,cluster">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 60 A80 28 0 0 1 208 60 L208 136 A80 28 0 0 1 48 136 L48 60 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 60 A80 28 0 0 1 208 60 L208 136 A80 28 0 0 1 48 136 L48 60 Z"/>
+    <path d="M128 172 L128 208"/>
+    <path d="M32 208 L104 208"/>
+    <path d="M152 208 L224 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 60 A80 28 0 0 0 208 60"/>
+    <path d="M48 98 A80 28 0 0 0 208 98"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="208" r="20"/>
+  </g>
+</svg>

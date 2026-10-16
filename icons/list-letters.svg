@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="alphabetical list,a b c,outline,list,letters">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 64 L216 64"/>
+    <path d="M124 128 L216 128"/>
+    <path d="M124 192 L216 192"/>
+    <circle cx="62" cy="78" r="22"/>
+    <path d="M84 56 L84 100"/>
+    <path d="M40 136 L40 212"/>
+    <circle cx="62" cy="190" r="22"/>
+  </g>
+</svg>

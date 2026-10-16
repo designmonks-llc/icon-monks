@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="code asterisk,code,developer,programming,asterisk">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 72 L32 128 L72 184"/>
+    <path d="M184 72 L224 128 L184 184"/>
+    <path d="M128 84 L128 172"/>
+    <path d="M166.11 106 L89.89 150"/>
+    <path d="M166.11 150 L89.89 106"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="screen off,display,monitor,disabled,display off">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
+    <path d="M128 176 L128 208"/>
+    <path d="M88 208 L168 208"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

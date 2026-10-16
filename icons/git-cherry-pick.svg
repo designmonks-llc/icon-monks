@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="cherry pick,commit,version control,git">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="180" r="28"/>
+    <circle cx="180" cy="180" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="180" r="28"/>
+    <circle cx="180" cy="180" r="28"/>
+    <path d="M76 152 C76 104 104 64 144 44"/>
+    <path d="M180 152 C180 112 168 76 144 44"/>
+    <path d="M144 44 C160 36 184 36 204 48"/>
+  </g>
+</svg>

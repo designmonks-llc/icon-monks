@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="network address,ip,internet protocol">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 L76 68 A10 10 0 0 1 84 64 H208 A16 16 0 0 1 224 80 V176 A16 16 0 0 1 208 192 H84 A10 10 0 0 1 76 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L76 68 A10 10 0 0 1 84 64 H208 A16 16 0 0 1 224 80 V176 A16 16 0 0 1 208 192 H84 A10 10 0 0 1 76 188 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 100 L120 156"/>
+    <path d="M156 156 V100 H172 A18 18 0 0 1 172 136 H156"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="128" r="12"/>
+  </g>
+</svg>

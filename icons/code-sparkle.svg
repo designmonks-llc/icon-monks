@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="ai code,copilot,generate,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 87.68 C131.36 114.56 141.44 124.64 168.32 128 C141.44 131.36 131.36 141.44 128 168.32 C124.64 141.44 114.56 131.36 87.68 128 C114.56 124.64 124.64 114.56 128 87.68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 72 L32 128 L72 184"/>
+    <path d="M184 72 L224 128 L184 184"/>
+    <path d="M128 87.68 C131.36 114.56 141.44 124.64 168.32 128 C141.44 131.36 131.36 141.44 128 168.32 C124.64 141.44 114.56 131.36 87.68 128 C114.56 124.64 124.64 114.56 128 87.68 Z"/>
+  </g>
+</svg>

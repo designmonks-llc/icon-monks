@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="clipboard,disabled,off,paste,board">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 48 H64 A16 16 0 0 0 48 64 V208 A16 16 0 0 0 64 224 H192 A16 16 0 0 0 208 208 V64 A16 16 0 0 0 192 48 H168"/>
+    <rect x="88" y="32" width="80" height="40" rx="10"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

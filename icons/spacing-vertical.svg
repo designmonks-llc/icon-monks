@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="vertical spacing,gap,padding,layout">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 L216 40"/>
+    <path d="M40 216 L216 216"/>
+    <path d="M128 80 L128 176"/>
+    <path d="M104 104 L128 80 L152 104"/>
+    <path d="M104 152 L128 176 L152 152"/>
+  </g>
+</svg>

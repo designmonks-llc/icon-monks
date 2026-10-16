@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="grimace,awkward,emoji,teeth">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="76" y="144" width="104" height="44" rx="20"/>
+    <path d="M110.67 144 L110.67 188"/>
+    <path d="M145.33 144 L145.33 188"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="108" r="16"/>
+    <circle cx="160" cy="108" r="16"/>
+  </g>
+</svg>

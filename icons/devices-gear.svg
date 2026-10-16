@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="devices,settings,configure,responsive,multi-device">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124 L144 110 A46 46 0 0 0 98 64 Z"/>
+    <rect x="32" y="96" width="80" height="128" rx="14"/>
+    <path d="M177.82 164.98 L178.51 153.49 L189.49 153.49 L190.18 164.98 A20 20 0 0 1 197.38 169.14 L207.68 163.99 L213.17 173.5 L203.56 179.84 A20 20 0 0 1 203.56 188.16 L213.17 194.5 L207.68 204.01 L197.38 198.86 A20 20 0 0 1 190.18 203.02 L189.49 214.51 L178.51 214.51 L177.82 203.02 A20 20 0 0 1 170.62 198.86 L160.32 204.01 L154.83 194.5 L164.44 188.16 A20 20 0 0 1 164.44 179.84 L154.83 173.5 L160.32 163.99 L170.62 169.14 A20 20 0 0 1 177.82 164.98 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="184" cy="184" r="7"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124"/>
+    <rect x="32" y="96" width="80" height="128" rx="14"/>
+    <path d="M177.82 164.98 L178.51 153.49 L189.49 153.49 L190.18 164.98 A20 20 0 0 1 197.38 169.14 L207.68 163.99 L213.17 173.5 L203.56 179.84 A20 20 0 0 1 203.56 188.16 L213.17 194.5 L207.68 204.01 L197.38 198.86 A20 20 0 0 1 190.18 203.02 L189.49 214.51 L178.51 214.51 L177.82 203.02 A20 20 0 0 1 170.62 198.86 L160.32 204.01 L154.83 194.5 L164.44 188.16 A20 20 0 0 1 164.44 179.84 L154.83 173.5 L160.32 163.99 L170.62 169.14 A20 20 0 0 1 177.82 164.98 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 128 L84 128"/>
+  </g>
+</svg>

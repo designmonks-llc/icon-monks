@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="matrix,brackets,math,grid">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 40 L40 40 L40 216 L72 216"/>
+    <path d="M184 40 L216 40 L216 216 L184 216"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="88" cy="88" r="16"/>
+    <circle cx="128" cy="88" r="16"/>
+    <circle cx="168" cy="88" r="16"/>
+    <circle cx="88" cy="128" r="16"/>
+    <circle cx="128" cy="128" r="16"/>
+    <circle cx="168" cy="128" r="16"/>
+    <circle cx="88" cy="168" r="16"/>
+    <circle cx="128" cy="168" r="16"/>
+    <circle cx="168" cy="168" r="16"/>
+  </g>
+</svg>

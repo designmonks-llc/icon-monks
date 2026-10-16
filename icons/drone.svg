@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="drone,quadcopter,uav,aerial,flying">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="100" y="100" width="56" height="56" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="100" width="56" height="56" rx="14"/>
+    <circle cx="68" cy="68" r="36"/>
+    <circle cx="188" cy="68" r="36"/>
+    <circle cx="68" cy="188" r="36"/>
+    <circle cx="188" cy="188" r="36"/>
+    <path d="M104 104 L93.46 93.46"/>
+    <path d="M152 104 L162.54 93.46"/>
+    <path d="M104 152 L93.46 162.54"/>
+    <path d="M152 152 L162.54 162.54"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="68" cy="68" r="11"/>
+    <circle cx="188" cy="68" r="11"/>
+    <circle cx="68" cy="188" r="11"/>
+    <circle cx="188" cy="188" r="11"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="128" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="hdmi,port,cable,video,connector">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 80 L224 80 L224 128 L192 176 L64 176 L32 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 80 L224 80 L224 128 L192 176 L64 176 L32 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 124 L176 124"/>
+  </g>
+</svg>

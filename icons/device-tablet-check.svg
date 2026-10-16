@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device tablet,done,approved,tablet,ipad">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208 132.18 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H138 A60 60 0 0 1 208 132.18 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 132.18 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H138"/>
+    <path d="M158 190 L178 210 L214 172"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+</svg>

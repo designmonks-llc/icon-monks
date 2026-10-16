@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="recharging,charging,battery cycle,power">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M135.04 93.76 L96.32 143.04 L124.48 143.04 L117.44 178.24 L159.68 127.2 L131.52 127.2 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M212 136 A84 84 0 1 1 187.4 76.6"/>
+    <path d="M143.4 76.6 L187.4 76.6 L187.4 32.6"/>
+    <path d="M135.04 93.76 L96.32 143.04 L124.48 143.04 L117.44 178.24 L159.68 127.2 L131.52 127.2 Z"/>
+  </g>
+</svg>

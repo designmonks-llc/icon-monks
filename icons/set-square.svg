@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="right angle,set square,triangle ruler,geometry">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 32 L32 224 L224 224 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M74 133.4 L74 182 L122.6 182 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 32 L32 224 L224 224 Z"/>
+    <path d="M66 114.08 L66 190 L141.92 190 Z"/>
+  </g>
+</svg>

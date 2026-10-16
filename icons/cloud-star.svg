@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="cloud,favorite,starred,storage,online">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M215.98 133.23 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L124.54 176 A60 60 0 0 1 215.98 133.23 Z"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M215.98 133.23 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L124.54 176"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+</svg>

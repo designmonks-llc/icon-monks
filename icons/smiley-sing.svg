@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="sing,singing,face,emoji,music">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M219.66 99.45 A96 96 0 0 1 60.12 195.88 A96 96 0 0 1 156.55 36.34 A46 46 0 0 0 219.66 99.45 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <ellipse cx="116" cy="168" rx="18" ry="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M219.66 99.45 A96 96 0 0 1 60.12 195.88 A96 96 0 0 1 156.55 36.34"/>
+    <path d="M204 32 L204 76"/>
+    <path d="M204 32 C212 40 220 40 224 48"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 116 A16 16 0 0 0 100 116"/>
+    <path d="M128 116 A16 16 0 0 0 160 116"/>
+    <ellipse cx="116" cy="168" rx="18" ry="22"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="192" cy="76" r="16"/>
+  </g>
+</svg>

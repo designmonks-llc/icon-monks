@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="middleware,layers,pipeline,server">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="96" y="40" width="64" height="176" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="40" width="64" height="176" rx="14"/>
+    <path d="M32 128 L96 128"/>
+    <path d="M160 128 L216 128"/>
+    <path d="M188 100 L216 128 L188 156"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 84 L160 84"/>
+    <path d="M96 172 L160 172"/>
+    <path d="M96 128 L160 128"/>
+  </g>
+</svg>

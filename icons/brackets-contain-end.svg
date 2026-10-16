@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="brackets contain end,brackets,code,contain,end">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="92" width="116" height="72" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 40 L208 40 L208 216 L172 216"/>
+    <rect x="40" y="92" width="116" height="72" rx="12"/>
+  </g>
+</svg>

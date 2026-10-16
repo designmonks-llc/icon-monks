@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="handheld,portable console,gaming,game boy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="32" width="160" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="32" width="160" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="60" width="96" height="60" rx="8"/>
+    <path d="M76 176 L112 176"/>
+    <path d="M94 158 L94 194"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="148" cy="186" r="12"/>
+    <circle cx="174" cy="162" r="12"/>
+  </g>
+</svg>

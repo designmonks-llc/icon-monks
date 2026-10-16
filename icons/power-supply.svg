@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="power supply,psu,adapter,charger">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="96" y="56" width="64" height="40" rx="12"/>
+    <rect x="32" y="128" width="192" height="80" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="56" width="64" height="40" rx="12"/>
+    <rect x="32" y="128" width="192" height="80" rx="16"/>
+    <path d="M112 32 L112 56"/>
+    <path d="M144 32 L144 56"/>
+    <path d="M128 96 L128 128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="184" cy="168" r="12"/>
+  </g>
+</svg>

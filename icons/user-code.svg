@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="developer,programmer,coder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="100" cy="84" r="40"/>
+    <path d="M32 216 C32 172 64 148 100 148 C109.36 148 118.45 149.62 126.78 152.8 L118.78 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="84" r="40"/>
+    <path d="M32 216 C32 172 64 148 100 148 C109.36 148 118.45 149.62 126.78 152.8"/>
+    <path d="M168 160 L148 184 L168 208"/>
+    <path d="M204 160 L224 184 L204 208"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="tree,data structure,hierarchy,nodes">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 128 L128 48 L180 128"/>
+    <path d="M44 208 L76 128 L104 208"/>
+    <path d="M152 208 L180 128 L212 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="48" r="16"/>
+    <circle cx="76" cy="128" r="16"/>
+    <circle cx="180" cy="128" r="16"/>
+    <circle cx="44" cy="208" r="16"/>
+    <circle cx="104" cy="208" r="16"/>
+    <circle cx="152" cy="208" r="16"/>
+    <circle cx="212" cy="208" r="16"/>
+  </g>
+</svg>

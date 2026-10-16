@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="sort 1-9,numerical,ascending,order,sort">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 56 L76 40 L76 112"/>
+    <circle cx="72" cy="166" r="22"/>
+    <path d="M94 166 V194 A22 22 0 0 1 72 216 H56"/>
+    <path d="M184 40 L184 216"/>
+    <path d="M152 184 L184 216 L216 184"/>
+  </g>
+</svg>

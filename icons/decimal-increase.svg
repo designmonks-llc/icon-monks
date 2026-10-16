@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="decimal,more decimals,number format,spreadsheet">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="40" width="48" height="96" rx="24"/>
+    <rect x="168" y="40" width="48" height="96" rx="24"/>
+    <path d="M56 192 L200 192"/>
+    <path d="M183.03 208.97 L200 192 L183.03 175.03"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="44" cy="124" r="16"/>
+  </g>
+</svg>

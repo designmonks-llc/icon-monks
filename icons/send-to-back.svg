@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="arrange,layer,back,order,send backward">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M160 96 L210 96 A14 14 0 0 1 224 110 L224 210 A14 14 0 0 1 210 224 L110 224 A14 14 0 0 1 96 210 L96 160 L160 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="128" height="128" rx="14"/>
+    <path d="M160 96 L210 96 A14 14 0 0 1 224 110 L224 210 A14 14 0 0 1 210 224 L110 224 A14 14 0 0 1 96 210 L96 160"/>
+  </g>
+</svg>

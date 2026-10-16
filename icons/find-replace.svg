@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="find,replace,search,substitute">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="112" cy="112" r="72"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="112" r="72"/>
+    <path d="M163 163 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M81.19 97.63 A34 34 0 0 1 142.81 97.63"/>
+    <path d="M125.9 91.47 L142.81 97.63 L148.97 80.72"/>
+    <path d="M142.81 126.37 A34 34 0 0 1 81.19 126.37"/>
+    <path d="M98.1 132.53 L81.19 126.37 L75.03 143.28"/>
+  </g>
+</svg>

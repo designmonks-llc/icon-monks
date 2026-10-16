@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="decimal,fewer decimals,number format,spreadsheet">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="132" y="40" width="48" height="96" rx="24"/>
+    <path d="M200 192 L56 192"/>
+    <path d="M72.97 175.03 L56 192 L72.97 208.97"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="92" cy="124" r="16"/>
+  </g>
+</svg>

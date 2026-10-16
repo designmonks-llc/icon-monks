@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="eraser,disabled,off,editor">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136.25 181.98 L96.89 221.34 L34.66 159.11 L74.02 119.75"/>
+    <path d="M119.75 74.02 L159.11 34.66 L221.34 96.89 L181.98 136.25"/>
+    <path d="M120 216 L170.5 216"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

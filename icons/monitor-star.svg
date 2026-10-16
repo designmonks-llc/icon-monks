@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="monitor,favorite,starred,desktop,computer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.21 176 L46 176 A14 14 0 0 1 32 162 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 140 A60 60 0 0 0 129.21 176 Z"/>
+    <path d="M188 158 L196.23 178.67 L218.43 180.11 L201.31 194.33 L206.81 215.89 L188 204 L169.19 215.89 L174.69 194.33 L157.57 180.11 L179.77 178.67 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.21 176 L46 176 A14 14 0 0 1 32 162 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 140"/>
+    <path d="M128 176 L128 208"/>
+    <path d="M88 208 L131.43 208"/>
+    <path d="M188 158 L196.23 178.67 L218.43 180.11 L201.31 194.33 L206.81 215.89 L188 204 L169.19 215.89 L174.69 194.33 L157.57 180.11 L179.77 178.67 Z"/>
+  </g>
+</svg>

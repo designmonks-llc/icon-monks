@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="quote,single quote,apostrophe,citation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="148" r="32"/>
+    <circle cx="180" cy="108" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="148" r="32"/>
+    <path d="M44 148 V132 C44 96 64 72 100 64"/>
+    <circle cx="180" cy="108" r="32"/>
+    <path d="M212 108 V124 C212 160 192 184 156 192"/>
+  </g>
+</svg>

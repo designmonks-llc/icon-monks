@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="pencil,fast,power,instant">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M34 200 L48.72 148.48 L151.76 45.44 L188.56 82.24 L85.52 185.28 Z"/>
+    <path d="M189.76 149.44 L158.08 189.76 L181.12 189.76 L175.36 218.56 L209.92 176.8 L186.88 176.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 200 L48.72 148.48 L151.76 45.44 L188.56 82.24 L85.52 185.28 Z"/>
+    <path d="M189.76 149.44 L158.08 189.76 L181.12 189.76 L175.36 218.56 L209.92 176.8 L186.88 176.8 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 71.2 L162.8 108"/>
+  </g>
+</svg>

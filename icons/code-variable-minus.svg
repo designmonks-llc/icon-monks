@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="code variable,remove,subtract,code,developer">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 40 L80 40 A20 20 0 0 0 60 60 L60 100 C60 118.67 50.67 128 32 128 C50.67 128 60 137.33 60 156 L60 196 A20 20 0 0 0 80 216 L88 216"/>
+    <path d="M168 40 L176 40 A20 20 0 0 1 196 60 L196 100 C196 118.67 205.33 128 224 128 C215.42 128 208.82 129.97 204.18 133.91"/>
+    <path d="M158 184 L210 184"/>
+    <path d="M96 102 L148 154"/>
+    <path d="M148 102 L96 154"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="bring to front,layer,arrange">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="112" height="112" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="112" height="112" rx="14"/>
+    <path d="M200 80 L224 80 L224 104"/>
+    <path d="M224 140 L224 164"/>
+    <path d="M224 200 L224 224 L200 224"/>
+    <path d="M164 224 L140 224"/>
+    <path d="M104 224 L80 224 L80 200"/>
+  </g>
+</svg>

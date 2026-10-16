@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="geometry,compass,math,drawing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 148 L154 200 L102 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="60" r="20"/>
+    <path d="M128 32 L128 40"/>
+    <path d="M119.62 78.16 L56 216"/>
+    <path d="M136.38 78.16 L200 216"/>
+    <path d="M128 148 L154 200 L102 200 Z"/>
+  </g>
+</svg>

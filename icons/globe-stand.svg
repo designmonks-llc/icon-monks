@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="desk globe,geography,school">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="120" cy="100" r="60"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="100" r="60"/>
+    <path d="M190.48 40.86 A92 92 0 0 1 49.52 159.14"/>
+    <path d="M120 192 L120 216"/>
+    <path d="M84 216 L156 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="100" rx="26" ry="60"/>
+    <path d="M60 100 L180 100"/>
+  </g>
+</svg>

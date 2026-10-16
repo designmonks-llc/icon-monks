@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="cuboid,box,3d shape,prism">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 96 L80 48 L224 48 L224 176 L176 224 L32 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 L80 48 L224 48 L224 176 L176 224 L32 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 L176 96 L176 224"/>
+    <path d="M176 96 L224 48"/>
+  </g>
+</svg>

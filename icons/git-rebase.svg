@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="rebase,branch,version control,history">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="72" cy="64" r="24"/>
+    <circle cx="184" cy="64" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="64" r="24"/>
+    <path d="M72 88 L72 224"/>
+    <path d="M96 64 L160 64"/>
+    <circle cx="184" cy="64" r="24"/>
+    <path d="M184 216 L184 120"/>
+    <path d="M160 144 L184 120 L208 144"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="merge cells,table,combine,horizontal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 48 L128 88"/>
+    <path d="M128 168 L128 208"/>
+    <path d="M60 128 L108 128"/>
+    <path d="M88.2 147.8 L108 128 L88.2 108.2"/>
+    <path d="M196 128 L148 128"/>
+    <path d="M167.8 108.2 L148 128 L167.8 147.8"/>
+  </g>
+</svg>

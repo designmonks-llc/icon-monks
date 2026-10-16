@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="cable,cord,connector,wire">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="144" y="72" width="64" height="56" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="144" y="72" width="64" height="56" rx="12"/>
+    <path d="M160 32 L160 72"/>
+    <path d="M192 32 L192 72"/>
+    <path d="M176 128 V152 C176 196 136 212 104 188 C80 170 56 172 40 196"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="ghost,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 V112 A80 80 0 0 1 208 112 V216 L181.33 196 L154.67 216 L128 196 L101.33 216 L74.67 196 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="156" cy="112" r="16"/>
+  </g>
+</svg>

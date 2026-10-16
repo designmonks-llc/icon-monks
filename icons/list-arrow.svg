@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="move item,list,reorder,arrow">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L128 64"/>
+    <path d="M40 128 L128 128"/>
+    <path d="M40 192 L128 192"/>
+    <path d="M192 48 L192 200"/>
+    <path d="M166.54 174.54 L192 200 L217.46 174.54"/>
+  </g>
+</svg>

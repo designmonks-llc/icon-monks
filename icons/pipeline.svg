@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="pipeline,ci,stages,workflow">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="92" width="40" height="72" rx="12"/>
+    <rect x="108" y="92" width="40" height="72" rx="12"/>
+    <rect x="184" y="92" width="40" height="72" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="92" width="40" height="72" rx="12"/>
+    <rect x="108" y="92" width="40" height="72" rx="12"/>
+    <rect x="184" y="92" width="40" height="72" rx="12"/>
+    <path d="M72 128 L108 128"/>
+    <path d="M148 128 L184 128"/>
+  </g>
+</svg>

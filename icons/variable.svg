@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="variable,x,code,math">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 40 C44 84 44 172 80 216"/>
+    <path d="M176 40 C212 84 212 172 176 216"/>
+    <path d="M108 96 L148 160"/>
+    <path d="M152 96 L104 160"/>
+  </g>
+</svg>

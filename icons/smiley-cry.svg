@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="crying,tears,sad,emoji,tear">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M76 128 C76 128 64 144 64 154 A12 12 0 0 0 88 154 C88 144 76 128 76 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 184 A40 40 0 0 1 164 184"/>
+    <path d="M76 128 C76 128 64 144 64 154 A12 12 0 0 0 88 154 C88 144 76 128 76 128 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="108" r="16"/>
+    <circle cx="160" cy="108" r="16"/>
+  </g>
+</svg>

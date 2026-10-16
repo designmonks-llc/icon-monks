@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="screen,presentation,projection">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 48 V156 A12 12 0 0 0 60 168 H196 A12 12 0 0 0 208 156 V48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L224 48"/>
+    <path d="M48 48 V156 A12 12 0 0 0 60 168 H196 A12 12 0 0 0 208 156 V48"/>
+    <path d="M128 168 L128 192"/>
+    <path d="M128 32 L128 48"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="208" r="16"/>
+  </g>
+</svg>

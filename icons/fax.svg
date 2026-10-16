@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="fax,fax machine,office,print">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="120" width="192" height="96" rx="16"/>
+    <path d="M80 120 V48 A8 8 0 0 1 88 40 H168 A8 8 0 0 1 176 48 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="120" width="192" height="96" rx="16"/>
+    <path d="M80 120 V48 A8 8 0 0 1 88 40 H168 A8 8 0 0 1 176 48 V120"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 72 L152 72"/>
+    <path d="M104 96 L136 96"/>
+    <rect x="64" y="152" width="88" height="32" rx="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="184" cy="152" r="12"/>
+    <circle cx="184" cy="184" r="12"/>
+  </g>
+</svg>

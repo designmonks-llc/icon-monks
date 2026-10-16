@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="abc,alphabet,spelling,text">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="54" cy="152" r="22"/>
+    <path d="M76 130 L76 174"/>
+    <path d="M108 72 L108 174"/>
+    <circle cx="130" cy="152" r="22"/>
+    <path d="M220.14 135.15 A22 22 0 1 0 220.14 168.85"/>
+    <path d="M32 208 L224 208"/>
+  </g>
+</svg>

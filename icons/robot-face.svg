@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="robot face,bot,ai,android head">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="72" width="144" height="136" rx="28"/>
+    <path d="M56 116 H44 A12 12 0 0 0 32 128 V152 A12 12 0 0 0 44 164 H56 Z"/>
+    <path d="M200 116 H212 A12 12 0 0 1 224 128 V152 A12 12 0 0 1 212 164 H200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="72" width="144" height="136" rx="28"/>
+    <path d="M56 116 H44 A12 12 0 0 0 32 128 V152 A12 12 0 0 0 44 164 H56"/>
+    <path d="M200 116 H212 A12 12 0 0 1 224 128 V152 A12 12 0 0 1 212 164 H200"/>
+    <path d="M128 72 L128 52"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 168 L152 168"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="44" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="128" r="16"/>
+    <circle cx="156" cy="128" r="16"/>
+  </g>
+</svg>

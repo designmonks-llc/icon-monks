@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="decimal,number format,point">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="56" width="48" height="144" rx="24"/>
+    <rect x="168" y="56" width="48" height="144" rx="24"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="188" r="16"/>
+  </g>
+</svg>

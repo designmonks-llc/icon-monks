@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="full mesh,network,nodes,connected">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="64" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+    <circle cx="192" cy="192" r="24"/>
+    <circle cx="64" cy="192" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="64" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+    <circle cx="192" cy="192" r="24"/>
+    <circle cx="64" cy="192" r="24"/>
+    <path d="M88 64 L168 64"/>
+    <path d="M80.97 80.97 L175.03 175.03"/>
+    <path d="M64 88 L64 168"/>
+    <path d="M192 88 L192 168"/>
+    <path d="M175.03 80.97 L80.97 175.03"/>
+    <path d="M168 192 L88 192"/>
+  </g>
+</svg>

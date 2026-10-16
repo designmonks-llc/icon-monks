@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="no float,inline image,layout,block,no wrap">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="84" width="96" height="88" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L224 48"/>
+    <rect x="32" y="84" width="96" height="88" rx="12"/>
+    <path d="M32 208 L224 208"/>
+  </g>
+</svg>

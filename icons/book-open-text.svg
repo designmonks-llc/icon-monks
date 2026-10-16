@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="reading,text,literature,manual,instructions">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 72 C108 56 76 48 32 52 V196 C76 192 108 200 128 216 C148 200 180 192 224 196 V52 C180 48 148 56 128 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 C108 56 76 48 32 52 V196 C76 192 108 200 128 216 C148 200 180 192 224 196 V52 C180 48 148 56 128 72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 216"/>
+    <path d="M64 104 L100 104"/>
+    <path d="M64 144 L100 144"/>
+    <path d="M156 104 L192 104"/>
+    <path d="M156 144 L192 144"/>
+  </g>
+</svg>

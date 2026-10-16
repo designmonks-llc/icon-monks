@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="gpu,graphics card,pci,hardware,video card">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
+    <path d="M64 176 V208 H160 V176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
+    <path d="M64 176 V208 H160 V176"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="112" r="36"/>
+    <path d="M160 88 L160 136"/>
+    <path d="M192 88 L192 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="112" r="12"/>
+  </g>
+</svg>

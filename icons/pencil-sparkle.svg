@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="ai write,generate text,pencil,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M34 200 L48.72 148.48 L151.76 45.44 L188.56 82.24 L85.52 185.28 Z"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 200 L48.72 148.48 L151.76 45.44 L188.56 82.24 L85.52 185.28 Z"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 71.2 L162.8 108"/>
+  </g>
+</svg>

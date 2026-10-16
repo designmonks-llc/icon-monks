@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="ring topology,network,nodes,loop">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="64" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+    <circle cx="192" cy="192" r="24"/>
+    <circle cx="64" cy="192" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="64" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+    <circle cx="192" cy="192" r="24"/>
+    <circle cx="64" cy="192" r="24"/>
+    <path d="M83.95 48.93 A90.51 90.51 0 0 1 172.05 48.93"/>
+    <path d="M207.07 83.95 A90.51 90.51 0 0 1 207.07 172.05"/>
+    <path d="M172.05 207.07 A90.51 90.51 0 0 1 83.95 207.07"/>
+    <path d="M48.93 172.05 A90.51 90.51 0 0 1 48.93 83.95"/>
+  </g>
+</svg>

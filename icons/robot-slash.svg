@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="robot,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="88" width="160" height="128" rx="24"/>
+    <path d="M128 56 L128 88"/>
+    <path d="M104 176 L152 176"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="48" r="16"/>
+    <circle cx="96" cy="140" r="16"/>
+  </g>
+</svg>

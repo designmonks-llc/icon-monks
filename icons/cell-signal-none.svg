@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="no signal,reception,cellular,0 bars,empty signal">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="56" cy="208" r="10.67"/>
+    <circle cx="104" cy="208" r="10.67"/>
+    <circle cx="152" cy="208" r="10.67"/>
+    <circle cx="200" cy="208" r="10.67"/>
+  </g>
+</svg>

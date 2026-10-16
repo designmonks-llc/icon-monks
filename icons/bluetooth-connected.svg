@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="bluetooth,paired,connected,wireless,bluetooth connected">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 88 L176 168 L128 208 L128 48 L176 88 L80 168"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="42" cy="128" r="14"/>
+    <circle cx="214" cy="128" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="ai,vector,file type,extension,ai file">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 120 V32 H152 L200 80 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 120 V32 H152 L200 80 V120"/>
+    <path d="M92 216 L114 160 L136 216"/>
+    <path d="M99.48 196.96 L128.52 196.96"/>
+    <path d="M164 160 L164 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

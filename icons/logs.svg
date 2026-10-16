@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="logs,log file,lines,console">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 56 L216 56"/>
+    <path d="M96 104 L184 104"/>
+    <path d="M96 152 L208 152"/>
+    <path d="M96 200 L160 200"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="56" r="16"/>
+    <circle cx="48" cy="104" r="16"/>
+    <circle cx="48" cy="152" r="16"/>
+    <circle cx="48" cy="200" r="16"/>
+  </g>
+</svg>

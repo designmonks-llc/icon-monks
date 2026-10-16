@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ar visor,headset,smart glasses">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 112 C32 88 72 76 128 76 C184 76 224 88 224 112 V140 C224 164 208 176 184 176 H164 C150 176 144 156 128 156 C112 156 106 176 92 176 H72 C48 176 32 164 32 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 112 C32 88 72 76 128 76 C184 76 224 88 224 112 V140 C224 164 208 176 184 176 H164 C150 176 144 156 128 156 C112 156 106 176 92 176 H72 C48 176 32 164 32 140 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 116 L100 116"/>
+  </g>
+</svg>

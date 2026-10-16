@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="flow,workflow,process">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="60" cy="128" r="28"/>
+    <circle cx="140" cy="128" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="128" r="28"/>
+    <path d="M88 128 L112 128"/>
+    <circle cx="140" cy="128" r="28"/>
+    <path d="M168 128 L220 128"/>
+    <path d="M188 96 L220 128 L188 160"/>
+  </g>
+</svg>

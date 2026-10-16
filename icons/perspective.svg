@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="perspective,3d,transform,distort">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M82.15 57.41 A8 8 0 0 1 89.72 52 L166.28 52 A8 8 0 0 1 173.85 57.41 L220.38 193.41 A8 8 0 0 1 212.81 204 L43.19 204 A8 8 0 0 1 35.62 193.41 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82.15 57.41 A8 8 0 0 1 89.72 52 L166.28 52 A8 8 0 0 1 173.85 57.41 L220.38 193.41 A8 8 0 0 1 212.81 204 L43.19 204 A8 8 0 0 1 35.62 193.41 Z"/>
+  </g>
+</svg>

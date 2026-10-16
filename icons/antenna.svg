@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="antenna,signal,radio,broadcast">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 208 A64 64 0 0 1 192 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 208 A64 64 0 0 1 192 208 Z"/>
+    <path d="M120 144 L80 52"/>
+    <path d="M136 144 L176 52"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="78" cy="46" r="16"/>
+    <circle cx="178" cy="46" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="180" r="12"/>
+  </g>
+</svg>

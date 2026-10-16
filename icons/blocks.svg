@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="blocks,modules,components,build">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="56" width="68" height="68" rx="10"/>
+    <rect x="40" y="148" width="68" height="68" rx="10"/>
+    <rect x="132" y="148" width="68" height="68" rx="10"/>
+    <path d="M174.34 41.66 A8 8 0 0 1 185.66 41.66 L214.34 70.34 A8 8 0 0 1 214.34 81.66 L185.66 110.34 A8 8 0 0 1 174.34 110.34 L145.66 81.66 A8 8 0 0 1 145.66 70.34 L174.34 41.66 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="56" width="68" height="68" rx="10"/>
+    <rect x="40" y="148" width="68" height="68" rx="10"/>
+    <rect x="132" y="148" width="68" height="68" rx="10"/>
+    <path d="M174.34 41.66 A8 8 0 0 1 185.66 41.66 L214.34 70.34 A8 8 0 0 1 214.34 81.66 L185.66 110.34 A8 8 0 0 1 174.34 110.34 L145.66 81.66 A8 8 0 0 1 145.66 70.34 L174.34 41.66 Z"/>
+  </g>
+</svg>

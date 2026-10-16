@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="favorites list,star,list,rating,starred list">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 38 L67.64 55.48 L86.63 57.35 L72.36 70.02 L76.46 88.65 L60 79 L43.54 88.65 L47.64 70.02 L33.37 57.35 L52.36 55.48 Z"/>
+    <path d="M60 102 L67.64 119.48 L86.63 121.35 L72.36 134.02 L76.46 152.65 L60 143 L43.54 152.65 L47.64 134.02 L33.37 121.35 L52.36 119.48 Z"/>
+    <path d="M60 166 L67.64 183.48 L86.63 185.35 L72.36 198.02 L76.46 216.65 L60 207 L43.54 216.65 L47.64 198.02 L33.37 185.35 L52.36 183.48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 64 L216 64"/>
+    <path d="M120 128 L216 128"/>
+    <path d="M120 192 L216 192"/>
+    <path d="M60 38 L67.64 55.48 L86.63 57.35 L72.36 70.02 L76.46 88.65 L60 79 L43.54 88.65 L47.64 70.02 L33.37 57.35 L52.36 55.48 Z"/>
+    <path d="M60 102 L67.64 119.48 L86.63 121.35 L72.36 134.02 L76.46 152.65 L60 143 L43.54 152.65 L47.64 134.02 L33.37 121.35 L52.36 119.48 Z"/>
+    <path d="M60 166 L67.64 183.48 L86.63 185.35 L72.36 198.02 L76.46 216.65 L60 207 L43.54 216.65 L47.64 198.02 L33.37 185.35 L52.36 183.48 Z"/>
+  </g>
+</svg>

@@ -19,6 +19,56 @@
   ]
  },
  {
+  "name": "abacus",
+  "category": "Education",
+  "tags": [
+   "abacus",
+   "counting",
+   "math",
+   "beads"
+  ]
+ },
+ {
+  "name": "abacus-slash",
+  "category": "Education",
+  "tags": [
+   "abacus",
+   "disabled",
+   "off",
+   "education"
+  ]
+ },
+ {
+  "name": "access-point",
+  "category": "Devices",
+  "tags": [
+   "access point",
+   "access",
+   "point",
+   "devices"
+  ]
+ },
+ {
+  "name": "access-point-slash",
+  "category": "Devices",
+  "tags": [
+   "access point",
+   "disabled",
+   "off",
+   "devices"
+  ]
+ },
+ {
+  "name": "action-camera",
+  "category": "Devices",
+  "tags": [
+   "action camera",
+   "gopro",
+   "sports cam",
+   "video"
+  ]
+ },
+ {
   "name": "ad-circle",
   "category": "Business",
   "tags": [
@@ -76,6 +126,16 @@
   ]
  },
  {
+  "name": "ai-gateway",
+  "category": "Development",
+  "tags": [
+   "ai",
+   "gateway",
+   "api",
+   "router"
+  ]
+ },
+ {
   "name": "airplane",
   "category": "Maps",
   "tags": [
@@ -126,6 +186,204 @@
    "align bottom",
    "layout",
    "arrange"
+  ]
+ },
+ {
+  "name": "align-box-bottom-center",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "bottom"
+  ]
+ },
+ {
+  "name": "align-box-bottom-left",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "bottom"
+  ]
+ },
+ {
+  "name": "align-box-bottom-right",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "bottom"
+  ]
+ },
+ {
+  "name": "align-box-center-bottom",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "center"
+  ]
+ },
+ {
+  "name": "align-box-center-middle",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "center"
+  ]
+ },
+ {
+  "name": "align-box-center-stretch",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "center"
+  ]
+ },
+ {
+  "name": "align-box-center-top",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "center"
+  ]
+ },
+ {
+  "name": "align-box-left-bottom",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "left"
+  ]
+ },
+ {
+  "name": "align-box-left-middle",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "left"
+  ]
+ },
+ {
+  "name": "align-box-left-stretch",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "left"
+  ]
+ },
+ {
+  "name": "align-box-left-top",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "left"
+  ]
+ },
+ {
+  "name": "align-box-right-bottom",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "right"
+  ]
+ },
+ {
+  "name": "align-box-right-middle",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "right"
+  ]
+ },
+ {
+  "name": "align-box-right-stretch",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "right"
+  ]
+ },
+ {
+  "name": "align-box-right-top",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "right"
+  ]
+ },
+ {
+  "name": "align-box-top-center",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "top"
+  ]
+ },
+ {
+  "name": "align-box-top-left",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "top"
+  ]
+ },
+ {
+  "name": "align-box-top-right",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "alignment",
+   "layout",
+   "box",
+   "top"
   ]
  },
  {
@@ -326,6 +584,55 @@
   ]
  },
  {
+  "name": "antenna",
+  "category": "Devices",
+  "tags": [
+   "antenna",
+   "signal",
+   "radio",
+   "broadcast"
+  ]
+ },
+ {
+  "name": "antenna-signal",
+  "category": "Devices",
+  "tags": [
+   "antenna",
+   "transmitter",
+   "mast"
+  ]
+ },
+ {
+  "name": "antenna-slash",
+  "category": "Devices",
+  "tags": [
+   "no signal",
+   "antenna off",
+   "disconnected",
+   "radio"
+  ]
+ },
+ {
+  "name": "api",
+  "category": "Development",
+  "tags": [
+   "api",
+   "interface",
+   "endpoint",
+   "integration"
+  ]
+ },
+ {
+  "name": "api-slash",
+  "category": "Development",
+  "tags": [
+   "api",
+   "disabled",
+   "off",
+   "development"
+  ]
+ },
+ {
   "name": "app-window",
   "category": "Editor",
   "tags": [
@@ -354,6 +661,16 @@
    "storage",
    "store",
    "save"
+  ]
+ },
+ {
+  "name": "archive-slash",
+  "category": "Files",
+  "tags": [
+   "archive",
+   "disabled",
+   "off",
+   "files"
   ]
  },
  {
@@ -1104,6 +1421,16 @@
    "iteration",
    "loop",
    "cycle"
+  ]
+ },
+ {
+  "name": "arrow-keys",
+  "category": "Devices",
+  "tags": [
+   "keyboard",
+   "arrows",
+   "navigation",
+   "keys"
   ]
  },
  {
@@ -2487,6 +2814,16 @@
   ]
  },
  {
+  "name": "article-slash",
+  "category": "Files",
+  "tags": [
+   "article",
+   "disabled",
+   "off",
+   "files"
+  ]
+ },
+ {
   "name": "aspect-ratio",
   "category": "Design",
   "tags": [
@@ -2505,6 +2842,36 @@
    "disabled",
    "off",
    "design"
+  ]
+ },
+ {
+  "name": "assembly",
+  "category": "Development",
+  "tags": [
+   "assembly",
+   "build",
+   "module",
+   "package"
+  ]
+ },
+ {
+  "name": "assembly-slash",
+  "category": "Development",
+  "tags": [
+   "assembly",
+   "disabled",
+   "off",
+   "development"
+  ]
+ },
+ {
+  "name": "asset",
+  "category": "Development",
+  "tags": [
+   "asset",
+   "resource",
+   "nodes",
+   "graph"
   ]
  },
  {
@@ -2556,6 +2923,37 @@
    "nuclear",
    "energy",
    "react"
+  ]
+ },
+ {
+  "name": "augmented-reality",
+  "category": "Devices",
+  "tags": [
+   "ar",
+   "3d",
+   "virtual",
+   "overlay",
+   "augmented reality"
+  ]
+ },
+ {
+  "name": "augmented-reality-slash",
+  "category": "Devices",
+  "tags": [
+   "augmented reality",
+   "disabled",
+   "off",
+   "devices"
+  ]
+ },
+ {
+  "name": "av-receiver",
+  "category": "Devices",
+  "tags": [
+   "amplifier",
+   "audio",
+   "stereo",
+   "hifi"
   ]
  },
  {
@@ -3070,6 +3468,49 @@
   ]
  },
  {
+  "name": "baseline",
+  "category": "Editor",
+  "tags": [
+   "baseline",
+   "typography",
+   "text",
+   "line"
+  ]
+ },
+ {
+  "name": "baseline-density-large",
+  "category": "Editor",
+  "tags": [
+   "baseline density large",
+   "baseline",
+   "typography",
+   "text",
+   "density"
+  ]
+ },
+ {
+  "name": "baseline-density-medium",
+  "category": "Editor",
+  "tags": [
+   "baseline density medium",
+   "baseline",
+   "typography",
+   "text",
+   "density"
+  ]
+ },
+ {
+  "name": "baseline-density-small",
+  "category": "Editor",
+  "tags": [
+   "baseline density small",
+   "baseline",
+   "typography",
+   "text",
+   "density"
+  ]
+ },
+ {
   "name": "basket",
   "category": "Commerce",
   "tags": [
@@ -3342,6 +3783,15 @@
   ]
  },
  {
+  "name": "battery-eco",
+  "category": "Devices",
+  "tags": [
+   "eco",
+   "battery",
+   "green energy"
+  ]
+ },
+ {
   "name": "battery-empty",
   "category": "Devices",
   "tags": [
@@ -3359,6 +3809,103 @@
    "power",
    "energy",
    "level"
+  ]
+ },
+ {
+  "name": "battery-high",
+  "category": "Devices",
+  "tags": [
+   "battery",
+   "high charge",
+   "power",
+   "charge",
+   "mostly full"
+  ]
+ },
+ {
+  "name": "battery-low",
+  "category": "Devices",
+  "tags": [
+   "low battery",
+   "charge needed",
+   "power",
+   "battery",
+   "low charge"
+  ]
+ },
+ {
+  "name": "battery-medium",
+  "category": "Devices",
+  "tags": [
+   "battery",
+   "half charge",
+   "power",
+   "half",
+   "charge"
+  ]
+ },
+ {
+  "name": "battery-plus",
+  "category": "Devices",
+  "tags": [
+   "battery saver",
+   "power",
+   "battery",
+   "charge",
+   "add power"
+  ]
+ },
+ {
+  "name": "battery-question",
+  "category": "Devices",
+  "tags": [
+   "battery unknown",
+   "status",
+   "power",
+   "battery"
+  ]
+ },
+ {
+  "name": "battery-share",
+  "category": "Devices",
+  "tags": [
+   "reverse charging",
+   "share power",
+   "battery",
+   "transfer"
+  ]
+ },
+ {
+  "name": "battery-slash",
+  "category": "Devices",
+  "tags": [
+   "battery",
+   "disabled",
+   "off",
+   "power",
+   "charge"
+  ]
+ },
+ {
+  "name": "battery-sparkle",
+  "category": "Devices",
+  "tags": [
+   "battery",
+   "ai",
+   "magic",
+   "power",
+   "charge"
+  ]
+ },
+ {
+  "name": "battery-warning",
+  "category": "Devices",
+  "tags": [
+   "battery alert",
+   "low power",
+   "battery problem",
+   "critical",
+   "low"
   ]
  },
  {
@@ -3655,6 +4202,16 @@
   ]
  },
  {
+  "name": "bible",
+  "category": "Education",
+  "tags": [
+   "bible",
+   "scripture",
+   "holy book",
+   "religion"
+  ]
+ },
+ {
   "name": "bicycle",
   "category": "Maps",
   "tags": [
@@ -3663,6 +4220,36 @@
    "ride",
    "transport",
    "sport"
+  ]
+ },
+ {
+  "name": "binary",
+  "category": "Development",
+  "tags": [
+   "binary",
+   "code",
+   "bits",
+   "01"
+  ]
+ },
+ {
+  "name": "binary-slash",
+  "category": "Development",
+  "tags": [
+   "binary",
+   "disabled",
+   "off",
+   "development"
+  ]
+ },
+ {
+  "name": "binary-tree",
+  "category": "Development",
+  "tags": [
+   "tree",
+   "data structure",
+   "hierarchy",
+   "nodes"
   ]
  },
  {
@@ -3717,6 +4304,37 @@
   ]
  },
  {
+  "name": "blockchain",
+  "category": "Development",
+  "tags": [
+   "blockchain",
+   "chain",
+   "ledger",
+   "crypto"
+  ]
+ },
+ {
+  "name": "blockquote",
+  "category": "Editor",
+  "tags": [
+   "quote",
+   "blockquote",
+   "text",
+   "indent",
+   "citation"
+  ]
+ },
+ {
+  "name": "blocks",
+  "category": "Development",
+  "tags": [
+   "blocks",
+   "modules",
+   "components",
+   "build"
+  ]
+ },
+ {
   "name": "blueprint",
   "category": "Design",
   "tags": [
@@ -3733,6 +4351,28 @@
    "pairing",
    "connect",
    "signal"
+  ]
+ },
+ {
+  "name": "bluetooth-connected",
+  "category": "Devices",
+  "tags": [
+   "bluetooth",
+   "paired",
+   "connected",
+   "wireless",
+   "bluetooth connected"
+  ]
+ },
+ {
+  "name": "bluetooth-slash",
+  "category": "Devices",
+  "tags": [
+   "bluetooth off",
+   "disabled",
+   "wireless",
+   "disconnect",
+   "disconnected"
   ]
  },
  {
@@ -3810,6 +4450,57 @@
   ]
  },
  {
+  "name": "book-arrow-down",
+  "category": "Education",
+  "tags": [
+   "book download",
+   "book",
+   "read",
+   "library",
+   "download"
+  ]
+ },
+ {
+  "name": "book-arrow-up",
+  "category": "Education",
+  "tags": [
+   "book upload",
+   "book",
+   "read",
+   "library",
+   "upload"
+  ]
+ },
+ {
+  "name": "book-bookmark",
+  "category": "Education",
+  "tags": [
+   "bookmarked book",
+   "reading",
+   "book",
+   "saved",
+   "bookmark"
+  ]
+ },
+ {
+  "name": "book-heart",
+  "category": "Education",
+  "tags": [
+   "favorite book",
+   "loved",
+   "reading list"
+  ]
+ },
+ {
+  "name": "book-lock",
+  "category": "Education",
+  "tags": [
+   "locked book",
+   "private",
+   "diary"
+  ]
+ },
+ {
   "name": "book-open",
   "category": "Files",
   "tags": [
@@ -3820,12 +4511,87 @@
   ]
  },
  {
+  "name": "book-open-text",
+  "category": "Education",
+  "tags": [
+   "reading",
+   "text",
+   "literature",
+   "manual",
+   "instructions"
+  ]
+ },
+ {
+  "name": "book-open-user",
+  "category": "Education",
+  "tags": [
+   "reader",
+   "reading",
+   "student"
+  ]
+ },
+ {
+  "name": "book-slash",
+  "category": "Education",
+  "tags": [
+   "book",
+   "disabled",
+   "off",
+   "read",
+   "library"
+  ]
+ },
+ {
   "name": "bookmark",
   "category": "Interface",
   "tags": [
    "save",
    "favorite",
    "read later"
+  ]
+ },
+ {
+  "name": "bookmark-pencil",
+  "category": "Education",
+  "tags": [
+   "bookmark",
+   "edit",
+   "write",
+   "save",
+   "mark"
+  ]
+ },
+ {
+  "name": "bookmark-question",
+  "category": "Education",
+  "tags": [
+   "bookmark",
+   "help",
+   "unknown",
+   "save",
+   "mark"
+  ]
+ },
+ {
+  "name": "bookmark-slash",
+  "category": "Education",
+  "tags": [
+   "bookmark",
+   "disabled",
+   "off",
+   "save",
+   "mark"
+  ]
+ },
+ {
+  "name": "bookmark-sparkle",
+  "category": "Education",
+  "tags": [
+   "bookmark",
+   "ai",
+   "magic",
+   "save",
+   "mark"
   ]
  },
  {
@@ -3839,6 +4605,104 @@
   ]
  },
  {
+  "name": "books-slash",
+  "category": "Education",
+  "tags": [
+   "books",
+   "disabled",
+   "off",
+   "education"
+  ]
+ },
+ {
+  "name": "border-all",
+  "category": "Editor",
+  "tags": [
+   "borders",
+   "table",
+   "grid",
+   "cells",
+   "border all"
+  ]
+ },
+ {
+  "name": "border-bottom",
+  "category": "Editor",
+  "tags": [
+   "border",
+   "edge",
+   "table",
+   "cell",
+   "border bottom"
+  ]
+ },
+ {
+  "name": "border-bottom-plus",
+  "category": "Editor",
+  "tags": [
+   "border bottom",
+   "add",
+   "new",
+   "border",
+   "table"
+  ]
+ },
+ {
+  "name": "border-corner",
+  "category": "Editor",
+  "tags": [
+   "border corner",
+   "border",
+   "table",
+   "stroke",
+   "corner"
+  ]
+ },
+ {
+  "name": "border-corner-pill",
+  "category": "Editor",
+  "tags": [
+   "border corner pill",
+   "border",
+   "table",
+   "stroke",
+   "corner"
+  ]
+ },
+ {
+  "name": "border-corner-square",
+  "category": "Editor",
+  "tags": [
+   "border corner square",
+   "border",
+   "table",
+   "stroke",
+   "corner"
+  ]
+ },
+ {
+  "name": "border-corner-squircle",
+  "category": "Editor",
+  "tags": [
+   "border corner squircle",
+   "border",
+   "table",
+   "stroke",
+   "corner"
+  ]
+ },
+ {
+  "name": "border-corners",
+  "category": "Editor",
+  "tags": [
+   "border corners",
+   "border",
+   "table",
+   "stroke",
+   "corners"
+  ]
+ },
+ {
   "name": "border-dotted",
   "category": "Design",
   "tags": [
@@ -3846,6 +4710,166 @@
    "border",
    "stroke",
    "line style"
+  ]
+ },
+ {
+  "name": "border-horizontal",
+  "category": "Editor",
+  "tags": [
+   "border",
+   "table",
+   "inner",
+   "horizontal",
+   "cells"
+  ]
+ },
+ {
+  "name": "border-inner",
+  "category": "Editor",
+  "tags": [
+   "inner border",
+   "table",
+   "cells",
+   "grid",
+   "border inner"
+  ]
+ },
+ {
+  "name": "border-left",
+  "category": "Editor",
+  "tags": [
+   "border left",
+   "table",
+   "cell",
+   "edge"
+  ]
+ },
+ {
+  "name": "border-left-plus",
+  "category": "Editor",
+  "tags": [
+   "border left",
+   "add",
+   "new",
+   "border",
+   "table"
+  ]
+ },
+ {
+  "name": "border-none",
+  "category": "Editor",
+  "tags": [
+   "border",
+   "clear",
+   "no border",
+   "table",
+   "clear borders"
+  ]
+ },
+ {
+  "name": "border-outer",
+  "category": "Editor",
+  "tags": [
+   "outer border",
+   "table",
+   "frame",
+   "box",
+   "border outer"
+  ]
+ },
+ {
+  "name": "border-radius",
+  "category": "Editor",
+  "tags": [
+   "border radius",
+   "border",
+   "table",
+   "stroke",
+   "radius"
+  ]
+ },
+ {
+  "name": "border-right",
+  "category": "Editor",
+  "tags": [
+   "border right",
+   "table",
+   "cell",
+   "edge"
+  ]
+ },
+ {
+  "name": "border-right-plus",
+  "category": "Editor",
+  "tags": [
+   "border right",
+   "add",
+   "new",
+   "border",
+   "table"
+  ]
+ },
+ {
+  "name": "border-sides",
+  "category": "Editor",
+  "tags": [
+   "border sides",
+   "border",
+   "table",
+   "stroke",
+   "sides"
+  ]
+ },
+ {
+  "name": "border-style",
+  "category": "Editor",
+  "tags": [
+   "border style",
+   "dashed",
+   "line style",
+   "stroke"
+  ]
+ },
+ {
+  "name": "border-top",
+  "category": "Editor",
+  "tags": [
+   "border top",
+   "table",
+   "cell",
+   "edge"
+  ]
+ },
+ {
+  "name": "border-top-plus",
+  "category": "Editor",
+  "tags": [
+   "border top",
+   "add",
+   "new",
+   "border",
+   "table"
+  ]
+ },
+ {
+  "name": "border-vertical",
+  "category": "Editor",
+  "tags": [
+   "border",
+   "table",
+   "inner",
+   "vertical",
+   "cells"
+  ]
+ },
+ {
+  "name": "border-width",
+  "category": "Editor",
+  "tags": [
+   "stroke width",
+   "line weight",
+   "thickness",
+   "border"
   ]
  },
  {
@@ -3870,6 +4894,134 @@
   ]
  },
  {
+  "name": "box-align-bottom",
+  "category": "Editor",
+  "tags": [
+   "box align bottom",
+   "align",
+   "box",
+   "layout",
+   "bottom"
+  ]
+ },
+ {
+  "name": "box-align-bottom-left",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "box",
+   "layout",
+   "bottom",
+   "left"
+  ]
+ },
+ {
+  "name": "box-align-bottom-right",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "box",
+   "layout",
+   "bottom",
+   "right"
+  ]
+ },
+ {
+  "name": "box-align-left",
+  "category": "Editor",
+  "tags": [
+   "box align left",
+   "align",
+   "box",
+   "layout",
+   "left"
+  ]
+ },
+ {
+  "name": "box-align-right",
+  "category": "Editor",
+  "tags": [
+   "box align right",
+   "align",
+   "box",
+   "layout",
+   "right"
+  ]
+ },
+ {
+  "name": "box-align-top",
+  "category": "Editor",
+  "tags": [
+   "box align top",
+   "align",
+   "box",
+   "layout",
+   "top"
+  ]
+ },
+ {
+  "name": "box-align-top-left",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "box",
+   "layout",
+   "top",
+   "left"
+  ]
+ },
+ {
+  "name": "box-align-top-right",
+  "category": "Editor",
+  "tags": [
+   "align",
+   "box",
+   "layout",
+   "top",
+   "right"
+  ]
+ },
+ {
+  "name": "box-arrow-down",
+  "category": "Files",
+  "tags": [
+   "archive",
+   "store",
+   "box",
+   "put away"
+  ]
+ },
+ {
+  "name": "box-arrow-up",
+  "category": "Files",
+  "tags": [
+   "unarchive",
+   "take out",
+   "box",
+   "restore"
+  ]
+ },
+ {
+  "name": "box-model",
+  "category": "Editor",
+  "tags": [
+   "box model",
+   "box",
+   "model",
+   "editor"
+  ]
+ },
+ {
+  "name": "box-model-slash",
+  "category": "Editor",
+  "tags": [
+   "box model",
+   "disabled",
+   "off",
+   "editor"
+  ]
+ },
+ {
   "name": "box-multiple",
   "category": "Design",
   "tags": [
@@ -3890,6 +5042,60 @@
   ]
  },
  {
+  "name": "brackets-angle",
+  "category": "Development",
+  "tags": [
+   "angle brackets",
+   "html",
+   "xml",
+   "tag"
+  ]
+ },
+ {
+  "name": "brackets-angle-slash",
+  "category": "Development",
+  "tags": [
+   "brackets angle",
+   "disabled",
+   "off",
+   "brackets",
+   "code"
+  ]
+ },
+ {
+  "name": "brackets-contain",
+  "category": "Development",
+  "tags": [
+   "brackets contain",
+   "brackets",
+   "code",
+   "contain",
+   "development"
+  ]
+ },
+ {
+  "name": "brackets-contain-end",
+  "category": "Development",
+  "tags": [
+   "brackets contain end",
+   "brackets",
+   "code",
+   "contain",
+   "end"
+  ]
+ },
+ {
+  "name": "brackets-contain-start",
+  "category": "Development",
+  "tags": [
+   "brackets contain start",
+   "brackets",
+   "code",
+   "contain",
+   "start"
+  ]
+ },
+ {
   "name": "brackets-curly",
   "category": "Editor",
   "tags": [
@@ -3901,6 +5107,38 @@
   ]
  },
  {
+  "name": "brackets-curly-slash",
+  "category": "Development",
+  "tags": [
+   "brackets curly",
+   "disabled",
+   "off",
+   "brackets",
+   "code"
+  ]
+ },
+ {
+  "name": "brackets-round",
+  "category": "Development",
+  "tags": [
+   "parentheses",
+   "brackets",
+   "code",
+   "round"
+  ]
+ },
+ {
+  "name": "brackets-round-slash",
+  "category": "Development",
+  "tags": [
+   "brackets round",
+   "off",
+   "disabled",
+   "hidden",
+   "brackets"
+  ]
+ },
+ {
   "name": "brackets-square",
   "category": "Editor",
   "tags": [
@@ -3908,6 +5146,17 @@
    "array",
    "code",
    "square"
+  ]
+ },
+ {
+  "name": "brackets-square-slash",
+  "category": "Development",
+  "tags": [
+   "brackets square",
+   "disabled",
+   "off",
+   "brackets",
+   "code"
   ]
  },
  {
@@ -4004,6 +5253,16 @@
    "error",
    "insect",
    "issue"
+  ]
+ },
+ {
+  "name": "bug-slash",
+  "category": "Development",
+  "tags": [
+   "bug",
+   "disabled",
+   "off",
+   "development"
   ]
  },
  {
@@ -4172,6 +5431,27 @@
    "spring",
    "garden",
    "wings"
+  ]
+ },
+ {
+  "name": "cable",
+  "category": "Devices",
+  "tags": [
+   "cable",
+   "cord",
+   "connector",
+   "wire"
+  ]
+ },
+ {
+  "name": "cable-car",
+  "category": "Transport",
+  "tags": [
+   "cable car",
+   "ropeway",
+   "gondola",
+   "aerial lift",
+   "ski lift"
   ]
  },
  {
@@ -4792,6 +6072,61 @@
   ]
  },
  {
+  "name": "cell-signal-high",
+  "category": "Devices",
+  "tags": [
+   "signal",
+   "reception",
+   "cellular",
+   "3 bars",
+   "good signal"
+  ]
+ },
+ {
+  "name": "cell-signal-low",
+  "category": "Devices",
+  "tags": [
+   "weak signal",
+   "reception",
+   "cellular",
+   "1 bar",
+   "low signal"
+  ]
+ },
+ {
+  "name": "cell-signal-medium",
+  "category": "Devices",
+  "tags": [
+   "signal",
+   "reception",
+   "cellular",
+   "2 bars",
+   "fair signal"
+  ]
+ },
+ {
+  "name": "cell-signal-none",
+  "category": "Devices",
+  "tags": [
+   "no signal",
+   "reception",
+   "cellular",
+   "0 bars",
+   "empty signal"
+  ]
+ },
+ {
+  "name": "cell-signal-slash",
+  "category": "Devices",
+  "tags": [
+   "no signal",
+   "cellular off",
+   "signal",
+   "slash",
+   "cell off"
+  ]
+ },
+ {
   "name": "cell-signal-warning",
   "category": "Communication",
   "tags": [
@@ -4799,6 +6134,78 @@
    "network problem",
    "cell",
    "mobile"
+  ]
+ },
+ {
+  "name": "cell-signal-x",
+  "category": "Devices",
+  "tags": [
+   "no service",
+   "signal lost",
+   "cellular",
+   "no internet",
+   "no data"
+  ]
+ },
+ {
+  "name": "cell-tower",
+  "category": "Devices",
+  "tags": [
+   "base station",
+   "antenna",
+   "signal",
+   "tower",
+   "cell tower"
+  ]
+ },
+ {
+  "name": "cells-merge",
+  "category": "Editor",
+  "tags": [
+   "merge cells",
+   "table",
+   "combine",
+   "spreadsheet"
+  ]
+ },
+ {
+  "name": "cells-merge-horizontal",
+  "category": "Editor",
+  "tags": [
+   "merge cells",
+   "table",
+   "combine",
+   "horizontal"
+  ]
+ },
+ {
+  "name": "cells-merge-vertical",
+  "category": "Editor",
+  "tags": [
+   "merge cells",
+   "table",
+   "combine",
+   "vertical"
+  ]
+ },
+ {
+  "name": "cells-split-horizontal",
+  "category": "Editor",
+  "tags": [
+   "split cells",
+   "table",
+   "divide",
+   "horizontal"
+  ]
+ },
+ {
+  "name": "cells-split-vertical",
+  "category": "Editor",
+  "tags": [
+   "split cells",
+   "table",
+   "divide",
+   "vertical"
   ]
  },
  {
@@ -4820,6 +6227,47 @@
    "disabled",
    "off",
    "business"
+  ]
+ },
+ {
+  "name": "chalkboard",
+  "category": "Education",
+  "tags": [
+   "blackboard",
+   "classroom",
+   "teaching",
+   "chalkboard",
+   "class"
+  ]
+ },
+ {
+  "name": "chalkboard-slash",
+  "category": "Education",
+  "tags": [
+   "chalkboard",
+   "disabled",
+   "off",
+   "education"
+  ]
+ },
+ {
+  "name": "chalkboard-teacher",
+  "category": "Education",
+  "tags": [
+   "teacher",
+   "lecture",
+   "class",
+   "presenter"
+  ]
+ },
+ {
+  "name": "charger",
+  "category": "Devices",
+  "tags": [
+   "charger",
+   "power adapter",
+   "plug",
+   "charging"
   ]
  },
  {
@@ -6080,6 +7528,27 @@
   ]
  },
  {
+  "name": "classroom",
+  "category": "Education",
+  "tags": [
+   "classroom",
+   "teacher",
+   "lesson",
+   "school"
+  ]
+ },
+ {
+  "name": "clear-formatting",
+  "category": "Editor",
+  "tags": [
+   "clear formatting",
+   "remove style",
+   "text",
+   "remove format",
+   "eraser"
+  ]
+ },
+ {
   "name": "clipboard",
   "category": "Files",
   "tags": [
@@ -6090,6 +7559,17 @@
   ]
  },
  {
+  "name": "clipboard-check",
+  "category": "Files",
+  "tags": [
+   "clipboard",
+   "done",
+   "checklist",
+   "approved",
+   "survey"
+  ]
+ },
+ {
   "name": "clipboard-clock",
   "category": "Business",
   "tags": [
@@ -6097,6 +7577,17 @@
    "deadline",
    "scheduled",
    "clipboard"
+  ]
+ },
+ {
+  "name": "clipboard-copy",
+  "category": "Files",
+  "tags": [
+   "clipboard copy",
+   "clipboard",
+   "paste",
+   "board",
+   "copy"
   ]
  },
  {
@@ -6111,6 +7602,17 @@
   ]
  },
  {
+  "name": "clipboard-list",
+  "category": "Files",
+  "tags": [
+   "clipboard list",
+   "clipboard",
+   "paste",
+   "board",
+   "list"
+  ]
+ },
+ {
   "name": "clipboard-magnifying-glass",
   "category": "Business",
   "tags": [
@@ -6119,6 +7621,49 @@
    "inspect",
    "check",
    "clipboard"
+  ]
+ },
+ {
+  "name": "clipboard-minus",
+  "category": "Files",
+  "tags": [
+   "clipboard",
+   "remove",
+   "minus",
+   "list"
+  ]
+ },
+ {
+  "name": "clipboard-plus",
+  "category": "Files",
+  "tags": [
+   "clipboard",
+   "add",
+   "new",
+   "plus",
+   "add task"
+  ]
+ },
+ {
+  "name": "clipboard-slash",
+  "category": "Files",
+  "tags": [
+   "clipboard",
+   "disabled",
+   "off",
+   "paste",
+   "board"
+  ]
+ },
+ {
+  "name": "clipboard-smile",
+  "category": "Files",
+  "tags": [
+   "clipboard",
+   "happy",
+   "positive",
+   "paste",
+   "board"
   ]
  },
  {
@@ -6149,6 +7694,17 @@
    "overdue",
    "alert",
    "clipboard"
+  ]
+ },
+ {
+  "name": "clipboard-x",
+  "category": "Files",
+  "tags": [
+   "clipboard",
+   "remove",
+   "cancel",
+   "x",
+   "task failed"
   ]
  },
  {
@@ -6192,6 +7748,17 @@
   ]
  },
  {
+  "name": "cloud-bitcoin",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "crypto",
+   "bitcoin",
+   "storage",
+   "online"
+  ]
+ },
+ {
   "name": "cloud-check",
   "category": "Files",
   "tags": [
@@ -6199,6 +7766,38 @@
    "saved",
    "backup",
    "done"
+  ]
+ },
+ {
+  "name": "cloud-code",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "developer",
+   "code",
+   "storage",
+   "online"
+  ]
+ },
+ {
+  "name": "cloud-currency-dollar",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "money",
+   "price",
+   "storage",
+   "online"
+  ]
+ },
+ {
+  "name": "cloud-database",
+  "category": "Development",
+  "tags": [
+   "cloud storage",
+   "server",
+   "hosting",
+   "backup"
   ]
  },
  {
@@ -6213,6 +7812,17 @@
   ]
  },
  {
+  "name": "cloud-gear",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "settings",
+   "configure",
+   "storage",
+   "online"
+  ]
+ },
+ {
   "name": "cloud-lightning",
   "category": "Weather",
   "tags": [
@@ -6224,6 +7834,27 @@
   ]
  },
  {
+  "name": "cloud-link",
+  "category": "Development",
+  "tags": [
+   "cloud link",
+   "shared link",
+   "cloud",
+   "url"
+  ]
+ },
+ {
+  "name": "cloud-magnifying-glass",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "search",
+   "find",
+   "storage",
+   "online"
+  ]
+ },
+ {
   "name": "cloud-moon",
   "category": "Weather",
   "tags": [
@@ -6232,6 +7863,39 @@
    "weather",
    "moon",
    "forecast"
+  ]
+ },
+ {
+  "name": "cloud-network",
+  "category": "Development",
+  "tags": [
+   "cloud network",
+   "cloud",
+   "storage",
+   "online",
+   "network"
+  ]
+ },
+ {
+  "name": "cloud-pause",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "paused",
+   "hold",
+   "storage",
+   "online"
+  ]
+ },
+ {
+  "name": "cloud-push-pin",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "pinned",
+   "pin",
+   "storage",
+   "online"
   ]
  },
  {
@@ -6267,6 +7931,17 @@
   ]
  },
  {
+  "name": "cloud-star",
+  "category": "Development",
+  "tags": [
+   "cloud",
+   "favorite",
+   "starred",
+   "storage",
+   "online"
+  ]
+ },
+ {
   "name": "cloud-sun",
   "category": "Weather",
   "tags": [
@@ -6275,6 +7950,16 @@
    "sun",
    "cloud",
    "forecast"
+  ]
+ },
+ {
+  "name": "cloud-wifi",
+  "category": "Devices",
+  "tags": [
+   "cloud",
+   "wifi",
+   "wireless",
+   "online"
   ]
  },
  {
@@ -6288,6 +7973,27 @@
   ]
  },
  {
+  "name": "code-arrow-down",
+  "category": "Development",
+  "tags": [
+   "download code",
+   "source",
+   "export",
+   "arrow"
+  ]
+ },
+ {
+  "name": "code-asterisk",
+  "category": "Development",
+  "tags": [
+   "code asterisk",
+   "code",
+   "developer",
+   "programming",
+   "asterisk"
+  ]
+ },
+ {
   "name": "code-block",
   "category": "Editor",
   "tags": [
@@ -6296,6 +8002,114 @@
    "embed",
    "developer",
    "programming"
+  ]
+ },
+ {
+  "name": "code-circle",
+  "category": "Development",
+  "tags": [
+   "code circle",
+   "code",
+   "developer",
+   "programming",
+   "circle"
+  ]
+ },
+ {
+  "name": "code-dots",
+  "category": "Development",
+  "tags": [
+   "code dots",
+   "code",
+   "developer",
+   "programming",
+   "dots"
+  ]
+ },
+ {
+  "name": "code-minus",
+  "category": "Development",
+  "tags": [
+   "code",
+   "remove",
+   "subtract",
+   "developer",
+   "programming"
+  ]
+ },
+ {
+  "name": "code-plus",
+  "category": "Development",
+  "tags": [
+   "code",
+   "add",
+   "new",
+   "developer",
+   "programming"
+  ]
+ },
+ {
+  "name": "code-slash",
+  "category": "Development",
+  "tags": [
+   "code off",
+   "disable code",
+   "developer",
+   "brackets",
+   "no code"
+  ]
+ },
+ {
+  "name": "code-sparkle",
+  "category": "Development",
+  "tags": [
+   "ai code",
+   "copilot",
+   "generate",
+   "sparkle"
+  ]
+ },
+ {
+  "name": "code-square",
+  "category": "Development",
+  "tags": [
+   "code",
+   "square",
+   "brackets",
+   "embed"
+  ]
+ },
+ {
+  "name": "code-variable",
+  "category": "Development",
+  "tags": [
+   "code variable",
+   "code",
+   "developer",
+   "programming",
+   "variable"
+  ]
+ },
+ {
+  "name": "code-variable-minus",
+  "category": "Development",
+  "tags": [
+   "code variable",
+   "remove",
+   "subtract",
+   "code",
+   "developer"
+  ]
+ },
+ {
+  "name": "code-variable-plus",
+  "category": "Development",
+  "tags": [
+   "code variable",
+   "add",
+   "new",
+   "code",
+   "developer"
   ]
  },
  {
@@ -6434,6 +8248,39 @@
   ]
  },
  {
+  "name": "column-insert-left",
+  "category": "Editor",
+  "tags": [
+   "column insert left",
+   "column",
+   "table",
+   "grid",
+   "insert"
+  ]
+ },
+ {
+  "name": "column-insert-right",
+  "category": "Editor",
+  "tags": [
+   "column insert right",
+   "column",
+   "table",
+   "grid",
+   "insert"
+  ]
+ },
+ {
+  "name": "column-minus",
+  "category": "Editor",
+  "tags": [
+   "column",
+   "remove",
+   "subtract",
+   "table",
+   "grid"
+  ]
+ },
+ {
   "name": "columns",
   "category": "Editor",
   "tags": [
@@ -6441,6 +8288,16 @@
    "vertical",
    "split",
    "layout"
+  ]
+ },
+ {
+  "name": "columns-slash",
+  "category": "Editor",
+  "tags": [
+   "columns",
+   "disabled",
+   "off",
+   "editor"
   ]
  },
  {
@@ -6452,6 +8309,16 @@
    "keyboard",
    "shortcut",
    "key"
+  ]
+ },
+ {
+  "name": "command-slash",
+  "category": "Development",
+  "tags": [
+   "command",
+   "disabled",
+   "off",
+   "development"
   ]
  },
  {
@@ -6473,6 +8340,17 @@
    "draw circle",
    "compasses",
    "architecture"
+  ]
+ },
+ {
+  "name": "computer-tower",
+  "category": "Devices",
+  "tags": [
+   "desktop pc",
+   "tower",
+   "computer case",
+   "pc",
+   "desktop computer"
   ]
  },
  {
@@ -6540,6 +8418,26 @@
   ]
  },
  {
+  "name": "container",
+  "category": "Development",
+  "tags": [
+   "container",
+   "docker",
+   "shipping",
+   "box"
+  ]
+ },
+ {
+  "name": "container-slash",
+  "category": "Development",
+  "tags": [
+   "container",
+   "disabled",
+   "development",
+   "off"
+  ]
+ },
+ {
   "name": "contract",
   "category": "Business",
   "tags": [
@@ -6597,6 +8495,61 @@
   "tags": [
    "duplicate",
    "clipboard",
+   "clone"
+  ]
+ },
+ {
+  "name": "copy-check",
+  "category": "Files",
+  "tags": [
+   "copy",
+   "done",
+   "approved",
+   "duplicate",
+   "clone"
+  ]
+ },
+ {
+  "name": "copy-minus",
+  "category": "Files",
+  "tags": [
+   "copy",
+   "remove",
+   "subtract",
+   "duplicate",
+   "clone"
+  ]
+ },
+ {
+  "name": "copy-plus",
+  "category": "Files",
+  "tags": [
+   "copy",
+   "add",
+   "new",
+   "duplicate",
+   "clone"
+  ]
+ },
+ {
+  "name": "copy-slash",
+  "category": "Files",
+  "tags": [
+   "copy",
+   "disabled",
+   "off",
+   "duplicate",
+   "clone"
+  ]
+ },
+ {
+  "name": "copy-x",
+  "category": "Files",
+  "tags": [
+   "copy",
+   "remove",
+   "cancel",
+   "duplicate",
    "clone"
   ]
  },
@@ -6812,6 +8765,25 @@
    "chip",
    "hardware",
    "computer"
+  ]
+ },
+ {
+  "name": "cpu-slash",
+  "category": "Devices",
+  "tags": [
+   "cpu",
+   "disabled",
+   "off",
+   "devices"
+  ]
+ },
+ {
+  "name": "cpu-warning",
+  "category": "Devices",
+  "tags": [
+   "overheating",
+   "processor error",
+   "chip warning"
   ]
  },
  {
@@ -7117,6 +9089,16 @@
    "rotate",
    "cube",
    "orbit"
+  ]
+ },
+ {
+  "name": "cube-send",
+  "category": "Development",
+  "tags": [
+   "deploy",
+   "ship",
+   "package",
+   "send"
   ]
  },
  {
@@ -7705,6 +9687,16 @@
   ]
  },
  {
+  "name": "cursor-slash",
+  "category": "Editor",
+  "tags": [
+   "cursor",
+   "disabled",
+   "off",
+   "editor"
+  ]
+ },
+ {
   "name": "cursor-text",
   "category": "Editor",
   "tags": [
@@ -7768,6 +9760,27 @@
   ]
  },
  {
+  "name": "d-pad",
+  "category": "Devices",
+  "tags": [
+   "d-pad",
+   "directional pad",
+   "gaming",
+   "controller",
+   "gamepad"
+  ]
+ },
+ {
+  "name": "data-saver",
+  "category": "Devices",
+  "tags": [
+   "data saver",
+   "save data",
+   "usage",
+   "mobile"
+  ]
+ },
+ {
   "name": "database",
   "category": "Devices",
   "tags": [
@@ -7775,6 +9788,349 @@
    "data",
    "sql",
    "server"
+  ]
+ },
+ {
+  "name": "database-arrow-down",
+  "category": "Development",
+  "tags": [
+   "database",
+   "download",
+   "import",
+   "storage",
+   "data import"
+  ]
+ },
+ {
+  "name": "database-arrow-up",
+  "category": "Development",
+  "tags": [
+   "database",
+   "upload",
+   "export",
+   "storage"
+  ]
+ },
+ {
+  "name": "database-arrows",
+  "category": "Development",
+  "tags": [
+   "sync data",
+   "transfer",
+   "database",
+   "exchange"
+  ]
+ },
+ {
+  "name": "database-backup",
+  "category": "Development",
+  "tags": [
+   "backup",
+   "restore point",
+   "data copy",
+   "database"
+  ]
+ },
+ {
+  "name": "database-check",
+  "category": "Development",
+  "tags": [
+   "database",
+   "verified",
+   "check",
+   "storage",
+   "success"
+  ]
+ },
+ {
+  "name": "database-clock",
+  "category": "Development",
+  "tags": [
+   "database",
+   "history",
+   "backup",
+   "schedule"
+  ]
+ },
+ {
+  "name": "database-code",
+  "category": "Development",
+  "tags": [
+   "database",
+   "query",
+   "sql",
+   "code"
+  ]
+ },
+ {
+  "name": "database-currency-dollar",
+  "category": "Development",
+  "tags": [
+   "database",
+   "money",
+   "price",
+   "storage",
+   "data"
+  ]
+ },
+ {
+  "name": "database-export",
+  "category": "Development",
+  "tags": [
+   "export data",
+   "database",
+   "arrow out",
+   "backup"
+  ]
+ },
+ {
+  "name": "database-gear",
+  "category": "Development",
+  "tags": [
+   "database",
+   "settings",
+   "config",
+   "gear",
+   "admin"
+  ]
+ },
+ {
+  "name": "database-heart",
+  "category": "Development",
+  "tags": [
+   "database",
+   "favorite",
+   "like",
+   "storage",
+   "data"
+  ]
+ },
+ {
+  "name": "database-import",
+  "category": "Development",
+  "tags": [
+   "database",
+   "import",
+   "load",
+   "storage",
+   "data"
+  ]
+ },
+ {
+  "name": "database-leak",
+  "category": "Development",
+  "tags": [
+   "database",
+   "leak",
+   "breach",
+   "storage",
+   "data"
+  ]
+ },
+ {
+  "name": "database-lock",
+  "category": "Development",
+  "tags": [
+   "database",
+   "secure",
+   "lock",
+   "storage",
+   "private"
+  ]
+ },
+ {
+  "name": "database-magnifying-glass",
+  "category": "Development",
+  "tags": [
+   "query",
+   "search data",
+   "database",
+   "lookup"
+  ]
+ },
+ {
+  "name": "database-minus",
+  "category": "Development",
+  "tags": [
+   "database",
+   "remove",
+   "minus",
+   "storage",
+   "subtract"
+  ]
+ },
+ {
+  "name": "database-network",
+  "category": "Development",
+  "tags": [
+   "network database",
+   "distributed",
+   "server",
+   "cluster"
+  ]
+ },
+ {
+  "name": "database-pencil",
+  "category": "Development",
+  "tags": [
+   "database",
+   "edit",
+   "write",
+   "storage",
+   "data"
+  ]
+ },
+ {
+  "name": "database-plus",
+  "category": "Development",
+  "tags": [
+   "database",
+   "add",
+   "new",
+   "storage",
+   "add database"
+  ]
+ },
+ {
+  "name": "database-power",
+  "category": "Development",
+  "tags": [
+   "database",
+   "power",
+   "on off",
+   "shutdown"
+  ]
+ },
+ {
+  "name": "database-restore",
+  "category": "Development",
+  "tags": [
+   "restore",
+   "recover data",
+   "rollback"
+  ]
+ },
+ {
+  "name": "database-script",
+  "category": "Development",
+  "tags": [
+   "sql script",
+   "query",
+   "database code"
+  ]
+ },
+ {
+  "name": "database-share",
+  "category": "Development",
+  "tags": [
+   "database",
+   "share",
+   "send",
+   "storage",
+   "data"
+  ]
+ },
+ {
+  "name": "database-slash",
+  "category": "Development",
+  "tags": [
+   "database",
+   "offline",
+   "disabled",
+   "storage",
+   "database off"
+  ]
+ },
+ {
+  "name": "database-smile",
+  "category": "Development",
+  "tags": [
+   "database",
+   "happy",
+   "positive",
+   "storage",
+   "data"
+  ]
+ },
+ {
+  "name": "database-star",
+  "category": "Development",
+  "tags": [
+   "favourite database",
+   "starred",
+   "data",
+   "star"
+  ]
+ },
+ {
+  "name": "database-sync",
+  "category": "Development",
+  "tags": [
+   "database",
+   "sync",
+   "refresh",
+   "backup"
+  ]
+ },
+ {
+  "name": "database-user",
+  "category": "Development",
+  "tags": [
+   "user data",
+   "database",
+   "profile",
+   "records"
+  ]
+ },
+ {
+  "name": "database-warning",
+  "category": "Development",
+  "tags": [
+   "database",
+   "error",
+   "alert",
+   "exclamation",
+   "database error"
+  ]
+ },
+ {
+  "name": "database-x",
+  "category": "Development",
+  "tags": [
+   "database",
+   "remove",
+   "delete",
+   "storage",
+   "database error"
+  ]
+ },
+ {
+  "name": "decimal",
+  "category": "Editor",
+  "tags": [
+   "decimal",
+   "number format",
+   "point"
+  ]
+ },
+ {
+  "name": "decimal-decrease",
+  "category": "Editor",
+  "tags": [
+   "decimal",
+   "fewer decimals",
+   "number format",
+   "spreadsheet"
+  ]
+ },
+ {
+  "name": "decimal-increase",
+  "category": "Editor",
+  "tags": [
+   "decimal",
+   "more decimals",
+   "number format",
+   "spreadsheet"
   ]
  },
  {
@@ -7788,6 +10144,16 @@
   ]
  },
  {
+  "name": "device-foldable",
+  "category": "Devices",
+  "tags": [
+   "foldable",
+   "phone",
+   "dual screen",
+   "fold"
+  ]
+ },
+ {
   "name": "device-mobile",
   "category": "Devices",
   "tags": [
@@ -7798,6 +10164,330 @@
   ]
  },
  {
+  "name": "device-mobile-arrow-down",
+  "category": "Devices",
+  "tags": [
+   "mobile download",
+   "phone",
+   "download",
+   "app",
+   "download to phone"
+  ]
+ },
+ {
+  "name": "device-mobile-arrow-up",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "increase",
+   "upload",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-camera",
+  "category": "Devices",
+  "tags": [
+   "phone camera",
+   "mobile",
+   "camera",
+   "smartphone",
+   "selfie"
+  ]
+ },
+ {
+  "name": "device-mobile-charging",
+  "category": "Devices",
+  "tags": [
+   "charging phone",
+   "battery",
+   "power",
+   "phone",
+   "device mobile"
+  ]
+ },
+ {
+  "name": "device-mobile-chat",
+  "category": "Devices",
+  "tags": [
+   "sms",
+   "text message",
+   "mobile chat",
+   "phone",
+   "device mobile"
+  ]
+ },
+ {
+  "name": "device-mobile-check",
+  "category": "Devices",
+  "tags": [
+   "verified phone",
+   "mobile ok",
+   "phone check",
+   "done",
+   "device mobile"
+  ]
+ },
+ {
+  "name": "device-mobile-code",
+  "category": "Development",
+  "tags": [
+   "mobile development",
+   "app code",
+   "phone coding",
+   "phone",
+   "developer"
+  ]
+ },
+ {
+  "name": "device-mobile-currency-dollar",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "money",
+   "price",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-gear",
+  "category": "Devices",
+  "tags": [
+   "phone settings",
+   "mobile settings",
+   "configure",
+   "phone",
+   "device mobile"
+  ]
+ },
+ {
+  "name": "device-mobile-hand",
+  "category": "Devices",
+  "tags": [
+   "holding phone",
+   "hand",
+   "mobile",
+   "phone"
+  ]
+ },
+ {
+  "name": "device-mobile-heart",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "favorite",
+   "like",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-info",
+  "category": "Devices",
+  "tags": [
+   "phone info",
+   "about device",
+   "mobile",
+   "phone"
+  ]
+ },
+ {
+  "name": "device-mobile-lightning",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "fast",
+   "power",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-lock",
+  "category": "Devices",
+  "tags": [
+   "locked phone",
+   "screen lock",
+   "rotation lock",
+   "phone"
+  ]
+ },
+ {
+  "name": "device-mobile-magnifying-glass",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "search",
+   "find",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-minus",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "remove",
+   "subtract",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-pause",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "paused",
+   "hold",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-plus",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "add",
+   "new",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-push-pin",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "pinned",
+   "pin",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-question",
+  "category": "Devices",
+  "tags": [
+   "phone help",
+   "mobile question",
+   "support",
+   "phone",
+   "device mobile"
+  ]
+ },
+ {
+  "name": "device-mobile-rotate",
+  "category": "Devices",
+  "tags": [
+   "rotate",
+   "orientation",
+   "phone",
+   "flip",
+   "rotate screen"
+  ]
+ },
+ {
+  "name": "device-mobile-share",
+  "category": "Devices",
+  "tags": [
+   "share from phone",
+   "send",
+   "mobile share",
+   "transfer",
+   "device mobile"
+  ]
+ },
+ {
+  "name": "device-mobile-slash",
+  "category": "Devices",
+  "tags": [
+   "phone off",
+   "mobile",
+   "no phone",
+   "disabled",
+   "device off"
+  ]
+ },
+ {
+  "name": "device-mobile-speaker",
+  "category": "Devices",
+  "tags": [
+   "speakerphone",
+   "phone",
+   "audio",
+   "speaker",
+   "phone sound"
+  ]
+ },
+ {
+  "name": "device-mobile-star",
+  "category": "Devices",
+  "tags": [
+   "device mobile",
+   "favorite",
+   "starred",
+   "phone",
+   "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-tap",
+  "category": "Devices",
+  "tags": [
+   "tap phone",
+   "contactless",
+   "touch",
+   "nfc"
+  ]
+ },
+ {
+  "name": "device-mobile-ticket",
+  "category": "Devices",
+  "tags": [
+   "mobile ticket",
+   "e-ticket",
+   "boarding pass",
+   "phone"
+  ]
+ },
+ {
+  "name": "device-mobile-warning",
+  "category": "Devices",
+  "tags": [
+   "phone alert",
+   "mobile warning",
+   "error",
+   "phone",
+   "device mobile"
+  ]
+ },
+ {
+  "name": "device-mobile-wrench",
+  "category": "Devices",
+  "tags": [
+   "phone repair",
+   "mobile service",
+   "fix",
+   "phone"
+  ]
+ },
+ {
+  "name": "device-mobile-x",
+  "category": "Devices",
+  "tags": [
+   "blocked phone",
+   "mobile cancel",
+   "remove device",
+   "phone",
+   "device mobile"
+  ]
+ },
+ {
   "name": "device-tablet",
   "category": "Devices",
   "tags": [
@@ -7805,6 +10495,435 @@
    "tablet",
    "screen",
    "device"
+  ]
+ },
+ {
+  "name": "device-tablet-arrow-down",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "decrease",
+   "download",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-arrow-up",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "increase",
+   "upload",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-check",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "done",
+   "approved",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-code",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "developer",
+   "code",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-currency-dollar",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "money",
+   "price",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-gear",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "settings",
+   "configure",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-heart",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "favorite",
+   "like",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-lightning",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "fast",
+   "power",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-magnifying-glass",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "search",
+   "find",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-minus",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "remove",
+   "subtract",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-pause",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "paused",
+   "hold",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-plus",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "add",
+   "new",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-push-pin",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "pinned",
+   "pin",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-question",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "help",
+   "unknown",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-share",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "share",
+   "send",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-slash",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "disabled",
+   "off",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-star",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "favorite",
+   "starred",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-warning",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "warning",
+   "error",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-x",
+  "category": "Devices",
+  "tags": [
+   "device tablet",
+   "remove",
+   "cancel",
+   "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "devices",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "phone and tablet",
+   "responsive",
+   "hardware",
+   "phone and laptop"
+  ]
+ },
+ {
+  "name": "devices-arrow-down",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "decrease",
+   "download",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-arrow-up",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "increase",
+   "upload",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-check",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "done",
+   "approved",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-code",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "developer",
+   "code",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-currency-dollar",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "money",
+   "price",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-gear",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "settings",
+   "configure",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-heart",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "favorite",
+   "like",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-lightning",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "fast",
+   "power",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-magnifying-glass",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "search",
+   "find",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-minus",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "remove",
+   "subtract",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-pause",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "paused",
+   "hold",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-plus",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "add",
+   "new",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-push-pin",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "pinned",
+   "pin",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-question",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "help",
+   "unknown",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-share",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "share",
+   "send",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-slash",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "disabled",
+   "off",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-star",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "favorite",
+   "starred",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-warning",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "warning",
+   "error",
+   "responsive",
+   "multi-device"
+  ]
+ },
+ {
+  "name": "devices-x",
+  "category": "Devices",
+  "tags": [
+   "devices",
+   "remove",
+   "cancel",
+   "responsive",
+   "multi-device"
   ]
  },
  {
@@ -7939,6 +11058,16 @@
    "album",
    "record",
    "vinyl"
+  ]
+ },
+ {
+  "name": "displayport",
+  "category": "Devices",
+  "tags": [
+   "displayport",
+   "port",
+   "cable",
+   "video"
   ]
  },
  {
@@ -8148,6 +11277,54 @@
   ]
  },
  {
+  "name": "drawing-tablet",
+  "category": "Devices",
+  "tags": [
+   "pen tablet",
+   "graphics tablet",
+   "stylus"
+  ]
+ },
+ {
+  "name": "drone",
+  "category": "Devices",
+  "tags": [
+   "drone",
+   "quadcopter",
+   "uav",
+   "aerial",
+   "flying"
+  ]
+ },
+ {
+  "name": "drone-landing",
+  "category": "Transport",
+  "tags": [
+   "drone",
+   "landing",
+   "quadcopter"
+  ]
+ },
+ {
+  "name": "drone-slash",
+  "category": "Transport",
+  "tags": [
+   "drone",
+   "disabled",
+   "off",
+   "transport"
+  ]
+ },
+ {
+  "name": "drone-takeoff",
+  "category": "Transport",
+  "tags": [
+   "drone",
+   "takeoff",
+   "quadcopter"
+  ]
+ },
+ {
   "name": "drop",
   "category": "Weather",
   "tags": [
@@ -8190,6 +11367,15 @@
   ]
  },
  {
+  "name": "dual-screen",
+  "category": "Devices",
+  "tags": [
+   "dual screen",
+   "monitors",
+   "multi-monitor"
+  ]
+ },
+ {
   "name": "duck",
   "category": "Animals",
   "tags": [
@@ -8197,6 +11383,16 @@
    "bird",
    "pond",
    "rubber duck"
+  ]
+ },
+ {
+  "name": "e-reader",
+  "category": "Devices",
+  "tags": [
+   "ereader",
+   "kindle",
+   "ebook",
+   "reader"
   ]
  },
  {
@@ -8218,6 +11414,35 @@
    "audio",
    "sound",
    "deaf"
+  ]
+ },
+ {
+  "name": "earbuds",
+  "category": "Devices",
+  "tags": [
+   "earbuds",
+   "wireless earphones",
+   "in-ear",
+   "audio",
+   "earphones"
+  ]
+ },
+ {
+  "name": "earbuds-bluetooth",
+  "category": "Devices",
+  "tags": [
+   "bluetooth",
+   "earbuds",
+   "wireless"
+  ]
+ },
+ {
+  "name": "earbuds-case",
+  "category": "Devices",
+  "tags": [
+   "earbuds",
+   "charging case",
+   "devices"
   ]
  },
  {
@@ -8289,6 +11514,16 @@
    "disc",
    "open",
    "unmount"
+  ]
+ },
+ {
+  "name": "electrical-prong",
+  "category": "Devices",
+  "tags": [
+   "prong",
+   "plug pins",
+   "outlet",
+   "electric"
   ]
  },
  {
@@ -8768,6 +12003,45 @@
   ]
  },
  {
+  "name": "eraser-slash",
+  "category": "Editor",
+  "tags": [
+   "eraser",
+   "disabled",
+   "off",
+   "editor"
+  ]
+ },
+ {
+  "name": "ethernet",
+  "category": "Devices",
+  "tags": [
+   "ethernet",
+   "lan",
+   "network port",
+   "cable"
+  ]
+ },
+ {
+  "name": "ethernet-slash",
+  "category": "Devices",
+  "tags": [
+   "disconnected",
+   "ethernet",
+   "offline",
+   "network"
+  ]
+ },
+ {
+  "name": "exam",
+  "category": "Education",
+  "tags": [
+   "test",
+   "exam paper",
+   "grade"
+  ]
+ },
+ {
   "name": "exchange",
   "category": "Commerce",
   "tags": [
@@ -8806,6 +12080,16 @@
    "xor",
    "difference",
    "shapes"
+  ]
+ },
+ {
+  "name": "exponent",
+  "category": "Education",
+  "tags": [
+   "exponent",
+   "power",
+   "superscript",
+   "math"
   ]
  },
  {
@@ -8870,6 +12154,16 @@
   ]
  },
  {
+  "name": "eyes",
+  "category": "Emoji",
+  "tags": [
+   "eyes",
+   "look",
+   "watching",
+   "see"
+  ]
+ },
+ {
   "name": "factory",
   "category": "Business",
   "tags": [
@@ -8887,6 +12181,25 @@
    "forward",
    "speed",
    "seek"
+  ]
+ },
+ {
+  "name": "favicon",
+  "category": "Development",
+  "tags": [
+   "favicon",
+   "site icon",
+   "browser"
+  ]
+ },
+ {
+  "name": "fax",
+  "category": "Devices",
+  "tags": [
+   "fax",
+   "fax machine",
+   "office",
+   "print"
   ]
  },
  {
@@ -8911,6 +12224,92 @@
   ]
  },
  {
+  "name": "file-3d",
+  "category": "Files",
+  "tags": [
+   "file 3d",
+   "document",
+   "page",
+   "file",
+   "3d"
+  ]
+ },
+ {
+  "name": "file-aac",
+  "category": "Files",
+  "tags": [
+   "aac",
+   "audio",
+   "file type",
+   "extension"
+  ]
+ },
+ {
+  "name": "file-ai",
+  "category": "Files",
+  "tags": [
+   "ai",
+   "vector",
+   "file type",
+   "extension",
+   "ai file"
+  ]
+ },
+ {
+  "name": "file-arrow-down",
+  "category": "Files",
+  "tags": [
+   "file download",
+   "document",
+   "save",
+   "arrow",
+   "download file"
+  ]
+ },
+ {
+  "name": "file-arrow-left",
+  "category": "Files",
+  "tags": [
+   "recall",
+   "withdraw",
+   "return file",
+   "document",
+   "file arrow left"
+  ]
+ },
+ {
+  "name": "file-arrow-right",
+  "category": "Files",
+  "tags": [
+   "file arrow right",
+   "document",
+   "page",
+   "file",
+   "arrow"
+  ]
+ },
+ {
+  "name": "file-arrow-up",
+  "category": "Files",
+  "tags": [
+   "file upload",
+   "document",
+   "import",
+   "arrow",
+   "upload file"
+  ]
+ },
+ {
+  "name": "file-arrows",
+  "category": "Files",
+  "tags": [
+   "convert",
+   "file",
+   "transform",
+   "format"
+  ]
+ },
+ {
   "name": "file-audio",
   "category": "Files",
   "tags": [
@@ -8921,6 +12320,145 @@
   ]
  },
  {
+  "name": "file-barcode",
+  "category": "Files",
+  "tags": [
+   "file barcode",
+   "document",
+   "page",
+   "file",
+   "barcode"
+  ]
+ },
+ {
+  "name": "file-binary",
+  "category": "Files",
+  "tags": [
+   "binary",
+   "data",
+   "document",
+   "code"
+  ]
+ },
+ {
+  "name": "file-bitcoin",
+  "category": "Files",
+  "tags": [
+   "file",
+   "crypto",
+   "bitcoin",
+   "document",
+   "page"
+  ]
+ },
+ {
+  "name": "file-bmp",
+  "category": "Files",
+  "tags": [
+   "bmp",
+   "image",
+   "file type",
+   "extension",
+   "file bmp"
+  ]
+ },
+ {
+  "name": "file-bookmark",
+  "category": "Files",
+  "tags": [
+   "document",
+   "saved",
+   "bookmark",
+   "file",
+   "bookmarked"
+  ]
+ },
+ {
+  "name": "file-break",
+  "category": "Files",
+  "tags": [
+   "page break",
+   "document",
+   "split",
+   "file"
+  ]
+ },
+ {
+  "name": "file-broken",
+  "category": "Files",
+  "tags": [
+   "corrupted",
+   "damaged",
+   "file",
+   "broken",
+   "file broken"
+  ]
+ },
+ {
+  "name": "file-calendar",
+  "category": "Files",
+  "tags": [
+   "schedule document",
+   "calendar file",
+   "agenda",
+   "ics"
+  ]
+ },
+ {
+  "name": "file-certificate",
+  "category": "Files",
+  "tags": [
+   "file certificate",
+   "document",
+   "page",
+   "file",
+   "certificate"
+  ]
+ },
+ {
+  "name": "file-chart",
+  "category": "Files",
+  "tags": [
+   "report",
+   "document",
+   "chart",
+   "graph",
+   "file chart"
+  ]
+ },
+ {
+  "name": "file-check",
+  "category": "Files",
+  "tags": [
+   "document",
+   "approved",
+   "done",
+   "check",
+   "approved file"
+  ]
+ },
+ {
+  "name": "file-clock",
+  "category": "Files",
+  "tags": [
+   "history",
+   "recent",
+   "file",
+   "version",
+   "time"
+  ]
+ },
+ {
+  "name": "file-cloud",
+  "category": "Files",
+  "tags": [
+   "cloud file",
+   "synced",
+   "document",
+   "online"
+  ]
+ },
+ {
   "name": "file-code",
   "category": "Files",
   "tags": [
@@ -8928,6 +12466,283 @@
    "script",
    "programming",
    "document"
+  ]
+ },
+ {
+  "name": "file-contract",
+  "category": "Files",
+  "tags": [
+   "contract",
+   "agreement",
+   "signature",
+   "document"
+  ]
+ },
+ {
+  "name": "file-cs",
+  "category": "Files",
+  "tags": [
+   "cs",
+   "csharp",
+   "code",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-css",
+  "category": "Files",
+  "tags": [
+   "css",
+   "stylesheet",
+   "code",
+   "file type",
+   "code file"
+  ]
+ },
+ {
+  "name": "file-csv",
+  "category": "Files",
+  "tags": [
+   "csv",
+   "data",
+   "spreadsheet",
+   "file type",
+   "data file"
+  ]
+ },
+ {
+  "name": "file-currency-dollar",
+  "category": "Files",
+  "tags": [
+   "file",
+   "money",
+   "price",
+   "document",
+   "page"
+  ]
+ },
+ {
+  "name": "file-currency-euro",
+  "category": "Files",
+  "tags": [
+   "file currency euro",
+   "document",
+   "page",
+   "file",
+   "currency"
+  ]
+ },
+ {
+  "name": "file-cv",
+  "category": "Files",
+  "tags": [
+   "file cv",
+   "document",
+   "page",
+   "file",
+   "cv"
+  ]
+ },
+ {
+  "name": "file-dashed",
+  "category": "Files",
+  "tags": [
+   "draft file",
+   "placeholder",
+   "new file",
+   "focus",
+   "selection"
+  ]
+ },
+ {
+  "name": "file-database",
+  "category": "Files",
+  "tags": [
+   "file database",
+   "document",
+   "page",
+   "file",
+   "database"
+  ]
+ },
+ {
+  "name": "file-delta",
+  "category": "Files",
+  "tags": [
+   "file delta",
+   "document",
+   "page",
+   "file",
+   "delta"
+  ]
+ },
+ {
+  "name": "file-diff",
+  "category": "Files",
+  "tags": [
+   "diff",
+   "compare",
+   "changes",
+   "document"
+  ]
+ },
+ {
+  "name": "file-digit",
+  "category": "Files",
+  "tags": [
+   "file digit",
+   "document",
+   "page",
+   "file",
+   "digit"
+  ]
+ },
+ {
+  "name": "file-doc",
+  "category": "Files",
+  "tags": [
+   "doc",
+   "word",
+   "document",
+   "file type",
+   "word document"
+  ]
+ },
+ {
+  "name": "file-dots",
+  "category": "Files",
+  "tags": [
+   "file dots",
+   "document",
+   "page",
+   "file",
+   "dots"
+  ]
+ },
+ {
+  "name": "file-exe",
+  "category": "Files",
+  "tags": [
+   "exe",
+   "executable",
+   "program",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-export",
+  "category": "Files",
+  "tags": [
+   "export file",
+   "document",
+   "arrow out",
+   "save as"
+  ]
+ },
+ {
+  "name": "file-eye-slash",
+  "category": "Files",
+  "tags": [
+   "hidden file",
+   "private",
+   "invisible",
+   "document"
+  ]
+ },
+ {
+  "name": "file-font",
+  "category": "Files",
+  "tags": [
+   "font file",
+   "typography",
+   "document",
+   "type",
+   "typeface"
+  ]
+ },
+ {
+  "name": "file-function",
+  "category": "Files",
+  "tags": [
+   "file function",
+   "document",
+   "page",
+   "file",
+   "function"
+  ]
+ },
+ {
+  "name": "file-gear",
+  "category": "Files",
+  "tags": [
+   "file settings",
+   "config",
+   "document",
+   "preferences",
+   "configure"
+  ]
+ },
+ {
+  "name": "file-gif",
+  "category": "Files",
+  "tags": [
+   "gif",
+   "animation",
+   "image",
+   "file type",
+   "image file"
+  ]
+ },
+ {
+  "name": "file-hash",
+  "category": "Files",
+  "tags": [
+   "hash",
+   "checksum",
+   "file",
+   "tag"
+  ]
+ },
+ {
+  "name": "file-heart",
+  "category": "Files",
+  "tags": [
+   "document",
+   "favorite",
+   "love",
+   "file"
+  ]
+ },
+ {
+  "name": "file-heic",
+  "category": "Files",
+  "tags": [
+   "heic",
+   "photo",
+   "image",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-horizontal",
+  "category": "Files",
+  "tags": [
+   "file horizontal",
+   "document",
+   "page",
+   "file",
+   "horizontal"
+  ]
+ },
+ {
+  "name": "file-html",
+  "category": "Files",
+  "tags": [
+   "html",
+   "web",
+   "code",
+   "file type",
+   "web page"
   ]
  },
  {
@@ -8942,6 +12757,132 @@
   ]
  },
  {
+  "name": "file-image-slash",
+  "category": "Files",
+  "tags": [
+   "no image",
+   "image off",
+   "document",
+   "slash"
+  ]
+ },
+ {
+  "name": "file-import",
+  "category": "Files",
+  "tags": [
+   "import file",
+   "document",
+   "arrow in",
+   "load"
+  ]
+ },
+ {
+  "name": "file-infinity",
+  "category": "Files",
+  "tags": [
+   "file infinity",
+   "document",
+   "page",
+   "file",
+   "infinity"
+  ]
+ },
+ {
+  "name": "file-info",
+  "category": "Files",
+  "tags": [
+   "file info",
+   "details",
+   "document",
+   "i"
+  ]
+ },
+ {
+  "name": "file-invoice",
+  "category": "Files",
+  "tags": [
+   "file invoice",
+   "document",
+   "page",
+   "file",
+   "invoice"
+  ]
+ },
+ {
+  "name": "file-java",
+  "category": "Files",
+  "tags": [
+   "java",
+   "code",
+   "source",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-jpg",
+  "category": "Files",
+  "tags": [
+   "jpg",
+   "jpeg",
+   "photo",
+   "file type",
+   "photo file"
+  ]
+ },
+ {
+  "name": "file-js",
+  "category": "Files",
+  "tags": [
+   "js",
+   "javascript",
+   "code",
+   "file type",
+   "script"
+  ]
+ },
+ {
+  "name": "file-json",
+  "category": "Files",
+  "tags": [
+   "json",
+   "data",
+   "code",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-jsx",
+  "category": "Files",
+  "tags": [
+   "jsx",
+   "code",
+   "component",
+   "file type",
+   "react component"
+  ]
+ },
+ {
+  "name": "file-key",
+  "category": "Files",
+  "tags": [
+   "key",
+   "keynote",
+   "presentation",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-lambda",
+  "category": "Files",
+  "tags": [
+   "file lambda",
+   "document",
+   "page",
+   "file",
+   "lambda"
+  ]
+ },
+ {
   "name": "file-lock",
   "category": "Files",
   "tags": [
@@ -8949,6 +12890,37 @@
    "private",
    "protected",
    "document"
+  ]
+ },
+ {
+  "name": "file-m4p",
+  "category": "Files",
+  "tags": [
+   "m4p",
+   "audio",
+   "music",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-md",
+  "category": "Files",
+  "tags": [
+   "md",
+   "markdown",
+   "text",
+   "file type",
+   "readme"
+  ]
+ },
+ {
+  "name": "file-mdx",
+  "category": "Files",
+  "tags": [
+   "mdx",
+   "markdown",
+   "component",
+   "file type"
   ]
  },
  {
@@ -8962,6 +12934,133 @@
   ]
  },
  {
+  "name": "file-mov",
+  "category": "Files",
+  "tags": [
+   "mov",
+   "video",
+   "movie",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-mp3",
+  "category": "Files",
+  "tags": [
+   "mp3",
+   "audio",
+   "music",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-mp4",
+  "category": "Files",
+  "tags": [
+   "mp4",
+   "video",
+   "movie",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-network",
+  "category": "Files",
+  "tags": [
+   "shared file",
+   "network",
+   "document",
+   "server"
+  ]
+ },
+ {
+  "name": "file-neutral",
+  "category": "Files",
+  "tags": [
+   "file neutral",
+   "document",
+   "page",
+   "file",
+   "neutral"
+  ]
+ },
+ {
+  "name": "file-orientation",
+  "category": "Files",
+  "tags": [
+   "file orientation",
+   "document",
+   "page",
+   "file",
+   "orientation"
+  ]
+ },
+ {
+  "name": "file-otf",
+  "category": "Files",
+  "tags": [
+   "otf",
+   "font",
+   "typeface",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-pdf",
+  "category": "Files",
+  "tags": [
+   "pdf",
+   "document",
+   "file type",
+   "acrobat",
+   "file"
+  ]
+ },
+ {
+  "name": "file-pencil",
+  "category": "Files",
+  "tags": [
+   "edit document",
+   "write",
+   "modify file",
+   "file",
+   "pencil"
+  ]
+ },
+ {
+  "name": "file-percent",
+  "category": "Files",
+  "tags": [
+   "file percent",
+   "document",
+   "page",
+   "file",
+   "percent"
+  ]
+ },
+ {
+  "name": "file-phone",
+  "category": "Files",
+  "tags": [
+   "file phone",
+   "document",
+   "page",
+   "file",
+   "phone"
+  ]
+ },
+ {
+  "name": "file-php",
+  "category": "Files",
+  "tags": [
+   "php",
+   "code",
+   "server",
+   "file type",
+   "script"
+  ]
+ },
+ {
   "name": "file-plus",
   "category": "Files",
   "tags": [
@@ -8969,6 +13068,81 @@
    "add",
    "create",
    "document"
+  ]
+ },
+ {
+  "name": "file-png",
+  "category": "Files",
+  "tags": [
+   "png",
+   "image",
+   "graphic",
+   "file type",
+   "image file"
+  ]
+ },
+ {
+  "name": "file-power",
+  "category": "Files",
+  "tags": [
+   "file power",
+   "document",
+   "page",
+   "file",
+   "power"
+  ]
+ },
+ {
+  "name": "file-ppt",
+  "category": "Files",
+  "tags": [
+   "ppt",
+   "powerpoint",
+   "slides",
+   "file type",
+   "presentation"
+  ]
+ },
+ {
+  "name": "file-prohibit",
+  "category": "Files",
+  "tags": [
+   "file blocked",
+   "document",
+   "restricted",
+   "prohibit",
+   "blocked"
+  ]
+ },
+ {
+  "name": "file-psd",
+  "category": "Files",
+  "tags": [
+   "psd",
+   "layered image",
+   "design",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-py",
+  "category": "Files",
+  "tags": [
+   "py",
+   "python",
+   "code",
+   "file type"
+  ]
+ },
+ {
+  "name": "file-question",
+  "category": "Files",
+  "tags": [
+   "unknown file",
+   "file",
+   "question",
+   "missing",
+   "quiz"
   ]
  },
  {
@@ -9063,6 +13237,27 @@
   ]
  },
  {
+  "name": "find-replace",
+  "category": "Editor",
+  "tags": [
+   "find",
+   "replace",
+   "search",
+   "substitute"
+  ]
+ },
+ {
+  "name": "find-replace-slash",
+  "category": "Editor",
+  "tags": [
+   "find replace",
+   "off",
+   "disabled",
+   "hidden",
+   "find"
+  ]
+ },
+ {
   "name": "fingerprint",
   "category": "Devices",
   "tags": [
@@ -9124,6 +13319,16 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "fitness-tracker",
+  "category": "Devices",
+  "tags": [
+   "fitness band",
+   "wearable",
+   "activity",
+   "step counter"
   ]
  },
  {
@@ -9190,6 +13395,15 @@
   ]
  },
  {
+  "name": "flow-arrow",
+  "category": "Development",
+  "tags": [
+   "flow",
+   "workflow",
+   "process"
+  ]
+ },
+ {
   "name": "flowchart",
   "category": "Charts",
   "tags": [
@@ -9219,6 +13433,36 @@
    "spring",
    "bloom",
    "plant"
+  ]
+ },
+ {
+  "name": "fold",
+  "category": "Editor",
+  "tags": [
+   "fold",
+   "collapse",
+   "code folding",
+   "compress"
+  ]
+ },
+ {
+  "name": "fold-down",
+  "category": "Editor",
+  "tags": [
+   "fold down",
+   "collapse",
+   "arrow",
+   "line"
+  ]
+ },
+ {
+  "name": "fold-up",
+  "category": "Editor",
+  "tags": [
+   "fold up",
+   "collapse",
+   "arrow",
+   "line"
   ]
  },
  {
@@ -9312,6 +13556,26 @@
   ]
  },
  {
+  "name": "freeze-row",
+  "category": "Editor",
+  "tags": [
+   "freeze row",
+   "spreadsheet",
+   "pin row",
+   "table"
+  ]
+ },
+ {
+  "name": "freeze-row-column",
+  "category": "Editor",
+  "tags": [
+   "freeze panes",
+   "spreadsheet",
+   "table",
+   "pin"
+  ]
+ },
+ {
   "name": "frog",
   "category": "Animals",
   "tags": [
@@ -9353,6 +13617,16 @@
   ]
  },
  {
+  "name": "function-slash",
+  "category": "Development",
+  "tags": [
+   "function",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "funnel",
   "category": "Interface",
   "tags": [
@@ -9369,6 +13643,26 @@
    "gamepad",
    "console",
    "play"
+  ]
+ },
+ {
+  "name": "gamepad-button-letter",
+  "category": "Devices",
+  "tags": [
+   "controller button",
+   "a button",
+   "gamepad",
+   "face button"
+  ]
+ },
+ {
+  "name": "gamepad-button-shape",
+  "category": "Devices",
+  "tags": [
+   "controller button",
+   "gamepad",
+   "face buttons",
+   "shapes"
   ]
  },
  {
@@ -9446,6 +13740,16 @@
   ]
  },
  {
+  "name": "geometry",
+  "category": "Education",
+  "tags": [
+   "geometry",
+   "compass",
+   "math",
+   "drawing"
+  ]
+ },
+ {
   "name": "ghost",
   "category": "People",
   "tags": [
@@ -9454,6 +13758,16 @@
    "boo",
    "spirit",
    "phantom"
+  ]
+ },
+ {
+  "name": "ghost-slash",
+  "category": "Emoji",
+  "tags": [
+   "ghost",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -9497,6 +13811,16 @@
   ]
  },
  {
+  "name": "git-cherry-pick",
+  "category": "Development",
+  "tags": [
+   "cherry pick",
+   "commit",
+   "version control",
+   "git"
+  ]
+ },
+ {
   "name": "git-commit",
   "category": "Development",
   "tags": [
@@ -9504,6 +13828,25 @@
    "version control",
    "git",
    "history"
+  ]
+ },
+ {
+  "name": "git-compare",
+  "category": "Development",
+  "tags": [
+   "git compare",
+   "diff",
+   "branches",
+   "version control"
+  ]
+ },
+ {
+  "name": "git-diff",
+  "category": "Development",
+  "tags": [
+   "diff",
+   "compare",
+   "changes"
   ]
  },
  {
@@ -9527,6 +13870,16 @@
   ]
  },
  {
+  "name": "git-merge-queue",
+  "category": "Development",
+  "tags": [
+   "merge queue",
+   "git",
+   "pipeline",
+   "version control"
+  ]
+ },
+ {
   "name": "git-pull-request",
   "category": "Development",
   "tags": [
@@ -9534,6 +13887,49 @@
    "review",
    "git",
    "merge request"
+  ]
+ },
+ {
+  "name": "git-pull-request-closed",
+  "category": "Development",
+  "tags": [
+   "pull request closed",
+   "rejected",
+   "git",
+   "x",
+   "closed pr"
+  ]
+ },
+ {
+  "name": "git-pull-request-draft",
+  "category": "Development",
+  "tags": [
+   "draft",
+   "pull request",
+   "git",
+   "pr",
+   "draft pull request"
+  ]
+ },
+ {
+  "name": "git-rebase",
+  "category": "Development",
+  "tags": [
+   "rebase",
+   "branch",
+   "version control",
+   "history"
+  ]
+ },
+ {
+  "name": "git-repository",
+  "category": "Development",
+  "tags": [
+   "repo",
+   "repository",
+   "git",
+   "source",
+   "git repository"
   ]
  },
  {
@@ -9565,6 +13961,15 @@
    "internet",
    "language",
    "web"
+  ]
+ },
+ {
+  "name": "globe-stand",
+  "category": "Education",
+  "tags": [
+   "desk globe",
+   "geography",
+   "school"
   ]
  },
  {
@@ -9616,6 +14021,17 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "graphics-card",
+  "category": "Devices",
+  "tags": [
+   "gpu",
+   "graphics card",
+   "pci",
+   "hardware",
+   "video card"
   ]
  },
  {
@@ -9840,6 +14256,16 @@
   ]
  },
  {
+  "name": "handheld-console",
+  "category": "Devices",
+  "tags": [
+   "handheld",
+   "portable console",
+   "gaming",
+   "game boy"
+  ]
+ },
+ {
   "name": "handshake",
   "category": "People",
   "tags": [
@@ -9861,6 +14287,17 @@
   ]
  },
  {
+  "name": "hard-drive-network",
+  "category": "Devices",
+  "tags": [
+   "nas",
+   "network drive",
+   "storage",
+   "server",
+   "shared storage"
+  ]
+ },
+ {
   "name": "hard-drives",
   "category": "Devices",
   "tags": [
@@ -9868,6 +14305,16 @@
    "storage",
    "rack",
    "disks"
+  ]
+ },
+ {
+  "name": "hard-drives-slash",
+  "category": "Development",
+  "tags": [
+   "server down",
+   "offline",
+   "outage",
+   "disabled"
   ]
  },
  {
@@ -9892,6 +14339,17 @@
   ]
  },
  {
+  "name": "hdmi",
+  "category": "Devices",
+  "tags": [
+   "hdmi",
+   "port",
+   "cable",
+   "video",
+   "connector"
+  ]
+ },
+ {
   "name": "headphones",
   "category": "Media",
   "tags": [
@@ -9909,6 +14367,16 @@
    "call center",
    "gaming",
    "microphone"
+  ]
+ },
+ {
+  "name": "headset-slash",
+  "category": "Devices",
+  "tags": [
+   "headset off",
+   "mic off",
+   "support offline",
+   "audio"
   ]
  },
  {
@@ -10075,6 +14543,27 @@
   ]
  },
  {
+  "name": "highlighter",
+  "category": "Editor",
+  "tags": [
+   "marker",
+   "highlight",
+   "mark",
+   "pen",
+   "emphasis"
+  ]
+ },
+ {
+  "name": "highlighter-slash",
+  "category": "Editor",
+  "tags": [
+   "highlighter",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "hippo",
   "category": "Animals",
   "tags": [
@@ -10104,6 +14593,16 @@
    "health",
    "emergency",
    "building"
+  ]
+ },
+ {
+  "name": "hotspot",
+  "category": "Devices",
+  "tags": [
+   "hotspot",
+   "tethering",
+   "wifi",
+   "share internet"
   ]
  },
  {
@@ -10200,6 +14699,16 @@
   ]
  },
  {
+  "name": "ink-bottle",
+  "category": "Editor",
+  "tags": [
+   "ink",
+   "fountain pen",
+   "write",
+   "calligraphy"
+  ]
+ },
+ {
   "name": "inner-shadow",
   "category": "Design",
   "tags": [
@@ -10271,6 +14780,16 @@
   ]
  },
  {
+  "name": "integral",
+  "category": "Education",
+  "tags": [
+   "integral",
+   "calculus",
+   "math",
+   "symbol"
+  ]
+ },
+ {
   "name": "intersect",
   "category": "Design",
   "tags": [
@@ -10299,6 +14818,45 @@
    "venn",
    "intersect",
    "overlap"
+  ]
+ },
+ {
+  "name": "ip-address",
+  "category": "Development",
+  "tags": [
+   "network address",
+   "ip",
+   "internet protocol"
+  ]
+ },
+ {
+  "name": "issue",
+  "category": "Development",
+  "tags": [
+   "issue",
+   "bug report",
+   "ticket",
+   "tracker"
+  ]
+ },
+ {
+  "name": "issue-reopen",
+  "category": "Development",
+  "tags": [
+   "reopen",
+   "issue",
+   "ticket",
+   "tracker"
+  ]
+ },
+ {
+  "name": "item-tracker",
+  "category": "Devices",
+  "tags": [
+   "tracker",
+   "tag",
+   "find",
+   "locator"
   ]
  },
  {
@@ -10342,6 +14900,37 @@
   ]
  },
  {
+  "name": "key-control",
+  "category": "Editor",
+  "tags": [
+   "control key",
+   "ctrl",
+   "modifier",
+   "keyboard",
+   "caret"
+  ]
+ },
+ {
+  "name": "key-option",
+  "category": "Editor",
+  "tags": [
+   "option key",
+   "alt",
+   "modifier",
+   "keyboard",
+   "mac"
+  ]
+ },
+ {
+  "name": "key-return",
+  "category": "Editor",
+  "tags": [
+   "enter",
+   "return",
+   "newline"
+  ]
+ },
+ {
   "name": "keyboard",
   "category": "Devices",
   "tags": [
@@ -10349,6 +14938,16 @@
    "keys",
    "input",
    "type"
+  ]
+ },
+ {
+  "name": "keyboard-slash",
+  "category": "Devices",
+  "tags": [
+   "keyboard off",
+   "hide keyboard",
+   "disabled",
+   "input"
   ]
  },
  {
@@ -10412,6 +15011,16 @@
   ]
  },
  {
+  "name": "knob",
+  "category": "Devices",
+  "tags": [
+   "knob",
+   "dial",
+   "potentiometer",
+   "volume"
+  ]
+ },
+ {
   "name": "koala",
   "category": "Animals",
   "tags": [
@@ -10439,6 +15048,72 @@
    "notebook",
    "macbook",
    "device"
+  ]
+ },
+ {
+  "name": "laptop-charging",
+  "category": "Devices",
+  "tags": [
+   "charging",
+   "power",
+   "battery"
+  ]
+ },
+ {
+  "name": "laptop-cloud",
+  "category": "Devices",
+  "tags": [
+   "laptop",
+   "cloud",
+   "sync",
+   "online"
+  ]
+ },
+ {
+  "name": "laptop-code",
+  "category": "Development",
+  "tags": [
+   "coding",
+   "developer",
+   "programming"
+  ]
+ },
+ {
+  "name": "laptop-slash",
+  "category": "Devices",
+  "tags": [
+   "laptop",
+   "disabled",
+   "off",
+   "devices"
+  ]
+ },
+ {
+  "name": "laptop-warning",
+  "category": "Devices",
+  "tags": [
+   "laptop error",
+   "issue",
+   "alert"
+  ]
+ },
+ {
+  "name": "laptop-wrench",
+  "category": "Devices",
+  "tags": [
+   "repair",
+   "it support",
+   "maintenance"
+  ]
+ },
+ {
+  "name": "laser-pointer",
+  "category": "Devices",
+  "tags": [
+   "laser pointer",
+   "presentation",
+   "pointer",
+   "beam"
   ]
  },
  {
@@ -10522,6 +15197,36 @@
    "green",
    "plant",
    "organic"
+  ]
+ },
+ {
+  "name": "lectern",
+  "category": "Education",
+  "tags": [
+   "podium",
+   "speech",
+   "lecture"
+  ]
+ },
+ {
+  "name": "lectern-slash",
+  "category": "Education",
+  "tags": [
+   "lectern",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "letter-spacing",
+  "category": "Editor",
+  "tags": [
+   "letter spacing",
+   "tracking",
+   "kerning",
+   "text",
+   "typography"
   ]
  },
  {
@@ -10655,6 +15360,17 @@
   ]
  },
  {
+  "name": "line-height",
+  "category": "Editor",
+  "tags": [
+   "line height",
+   "spacing",
+   "leading",
+   "typography",
+   "paragraph"
+  ]
+ },
+ {
   "name": "line-join-bevel",
   "category": "Design",
   "tags": [
@@ -10755,6 +15471,16 @@
   ]
  },
  {
+  "name": "list-arrow",
+  "category": "Editor",
+  "tags": [
+   "move item",
+   "list",
+   "reorder",
+   "arrow"
+  ]
+ },
+ {
   "name": "list-bullets",
   "category": "Interface",
   "tags": [
@@ -10776,6 +15502,17 @@
   ]
  },
  {
+  "name": "list-collapse",
+  "category": "Editor",
+  "tags": [
+   "collapse",
+   "fold",
+   "outline",
+   "list",
+   "less"
+  ]
+ },
+ {
   "name": "list-dashes",
   "category": "Editor",
   "tags": [
@@ -10783,6 +15520,58 @@
    "unordered",
    "items",
    "dashes"
+  ]
+ },
+ {
+  "name": "list-details",
+  "category": "Editor",
+  "tags": [
+   "detail list",
+   "items",
+   "description",
+   "rows"
+  ]
+ },
+ {
+  "name": "list-expand",
+  "category": "Editor",
+  "tags": [
+   "expand",
+   "unfold",
+   "outline",
+   "list",
+   "more"
+  ]
+ },
+ {
+  "name": "list-gear",
+  "category": "Development",
+  "tags": [
+   "list settings",
+   "configure",
+   "preferences",
+   "list"
+  ]
+ },
+ {
+  "name": "list-letters",
+  "category": "Editor",
+  "tags": [
+   "alphabetical list",
+   "a b c",
+   "outline",
+   "list",
+   "letters"
+  ]
+ },
+ {
+  "name": "list-nested",
+  "category": "Editor",
+  "tags": [
+   "nested list",
+   "indent",
+   "tree",
+   "outline"
   ]
  },
  {
@@ -10794,6 +15583,48 @@
    "list",
    "steps",
    "ol"
+  ]
+ },
+ {
+  "name": "list-plus",
+  "category": "Editor",
+  "tags": [
+   "add to list",
+   "bullet list",
+   "new item",
+   "list",
+   "add"
+  ]
+ },
+ {
+  "name": "list-star",
+  "category": "Editor",
+  "tags": [
+   "favorites list",
+   "star",
+   "list",
+   "rating",
+   "starred list"
+  ]
+ },
+ {
+  "name": "list-x",
+  "category": "Editor",
+  "tags": [
+   "list error",
+   "remove item",
+   "list",
+   "delete"
+  ]
+ },
+ {
+  "name": "load-balancer",
+  "category": "Development",
+  "tags": [
+   "load balancer",
+   "network",
+   "distribute",
+   "server"
   ]
  },
  {
@@ -10814,6 +15645,16 @@
    "unsecure",
    "open",
    "access"
+  ]
+ },
+ {
+  "name": "logs",
+  "category": "Development",
+  "tags": [
+   "logs",
+   "log file",
+   "lines",
+   "console"
   ]
  },
  {
@@ -10921,6 +15762,16 @@
   ]
  },
  {
+  "name": "markdown",
+  "category": "Development",
+  "tags": [
+   "markdown",
+   "md",
+   "text format",
+   "writing"
+  ]
+ },
+ {
   "name": "mask",
   "category": "Design",
   "tags": [
@@ -10969,6 +15820,35 @@
   ]
  },
  {
+  "name": "math-book",
+  "category": "Education",
+  "tags": [
+   "algebra",
+   "textbook",
+   "mathematics"
+  ]
+ },
+ {
+  "name": "math-not",
+  "category": "Education",
+  "tags": [
+   "logical not",
+   "negation",
+   "logic",
+   "math"
+  ]
+ },
+ {
+  "name": "matrix",
+  "category": "Education",
+  "tags": [
+   "matrix",
+   "brackets",
+   "math",
+   "grid"
+  ]
+ },
+ {
   "name": "medal",
   "category": "Business",
   "tags": [
@@ -10991,6 +15871,17 @@
   ]
  },
  {
+  "name": "memory",
+  "category": "Devices",
+  "tags": [
+   "ram",
+   "memory",
+   "chip",
+   "hardware",
+   "stick"
+  ]
+ },
+ {
   "name": "mesh",
   "category": "Design",
   "tags": [
@@ -10998,6 +15889,16 @@
    "wireframe",
    "3d",
    "grid"
+  ]
+ },
+ {
+  "name": "microfrontends",
+  "category": "Development",
+  "tags": [
+   "micro frontends",
+   "modules",
+   "architecture",
+   "web"
   ]
  },
  {
@@ -11029,6 +15930,16 @@
    "research",
    "biology",
    "magnify"
+  ]
+ },
+ {
+  "name": "middleware",
+  "category": "Development",
+  "tags": [
+   "middleware",
+   "layers",
+   "pipeline",
+   "server"
   ]
  },
  {
@@ -11068,6 +15979,36 @@
    "subtract",
    "collapse",
    "delete"
+  ]
+ },
+ {
+  "name": "mobile-data",
+  "category": "Devices",
+  "tags": [
+   "mobile data",
+   "cellular",
+   "up down",
+   "network"
+  ]
+ },
+ {
+  "name": "mobile-data-slash",
+  "category": "Devices",
+  "tags": [
+   "mobile data off",
+   "cellular off",
+   "network",
+   "disabled"
+  ]
+ },
+ {
+  "name": "modem",
+  "category": "Devices",
+  "tags": [
+   "modem",
+   "internet",
+   "router",
+   "network"
   ]
  },
  {
@@ -11266,12 +16207,231 @@
   ]
  },
  {
+  "name": "monitor-arrow-down",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "decrease",
+   "download",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-arrow-up",
+  "category": "Devices",
+  "tags": [
+   "share screen",
+   "cast",
+   "upload",
+   "monitor",
+   "increase"
+  ]
+ },
+ {
   "name": "monitor-chart",
   "category": "Charts",
   "tags": [
    "analytics",
    "dashboard",
    "desktop"
+  ]
+ },
+ {
+  "name": "monitor-check",
+  "category": "Devices",
+  "tags": [
+   "computer ok",
+   "system healthy",
+   "verified",
+   "monitor",
+   "done"
+  ]
+ },
+ {
+  "name": "monitor-cloud",
+  "category": "Devices",
+  "tags": [
+   "cloud desktop",
+   "monitor",
+   "remote",
+   "sync"
+  ]
+ },
+ {
+  "name": "monitor-code",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "developer",
+   "code",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-currency-dollar",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "money",
+   "price",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-gear",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "settings",
+   "configure",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-heart",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "favorite",
+   "like",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-lightning",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "fast",
+   "power",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-magnifying-glass",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "search",
+   "find",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-minus",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "remove",
+   "subtract",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-pause",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "paused",
+   "hold",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-plus",
+  "category": "Devices",
+  "tags": [
+   "add display",
+   "add to queue",
+   "screen",
+   "new",
+   "new computer"
+  ]
+ },
+ {
+  "name": "monitor-push-pin",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "pinned",
+   "pin",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-question",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "help",
+   "unknown",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-share",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "share",
+   "send",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-slash",
+  "category": "Devices",
+  "tags": [
+   "screen off",
+   "display",
+   "monitor",
+   "disabled",
+   "display off"
+  ]
+ },
+ {
+  "name": "monitor-star",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "favorite",
+   "starred",
+   "desktop",
+   "computer"
+  ]
+ },
+ {
+  "name": "monitor-warning",
+  "category": "Devices",
+  "tags": [
+   "computer error",
+   "system alert",
+   "crash",
+   "monitor",
+   "warning"
+  ]
+ },
+ {
+  "name": "monitor-x",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "remove",
+   "cancel",
+   "desktop",
+   "computer"
   ]
  },
  {
@@ -11316,6 +16476,16 @@
   ]
  },
  {
+  "name": "motherboard",
+  "category": "Devices",
+  "tags": [
+   "motherboard",
+   "mainboard",
+   "hardware",
+   "computer"
+  ]
+ },
+ {
   "name": "motorcycle",
   "category": "Maps",
   "tags": [
@@ -11345,6 +16515,55 @@
    "pointer",
    "input",
    "scroll"
+  ]
+ },
+ {
+  "name": "mouse-left-click",
+  "category": "Devices",
+  "tags": [
+   "left click",
+   "mouse",
+   "select",
+   "mouse button",
+   "primary click"
+  ]
+ },
+ {
+  "name": "mouse-middle-click",
+  "category": "Devices",
+  "tags": [
+   "middle click",
+   "mouse",
+   "wheel"
+  ]
+ },
+ {
+  "name": "mouse-right-click",
+  "category": "Devices",
+  "tags": [
+   "right click",
+   "context menu",
+   "mouse",
+   "secondary click"
+  ]
+ },
+ {
+  "name": "mouse-scroll",
+  "category": "Devices",
+  "tags": [
+   "scroll",
+   "mouse wheel",
+   "scroll wheel"
+  ]
+ },
+ {
+  "name": "mouse-slash",
+  "category": "Devices",
+  "tags": [
+   "mouse",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -11388,6 +16607,37 @@
   ]
  },
  {
+  "name": "network",
+  "category": "Development",
+  "tags": [
+   "network",
+   "nodes",
+   "connection",
+   "topology"
+  ]
+ },
+ {
+  "name": "network-slash",
+  "category": "Development",
+  "tags": [
+   "network off",
+   "disconnected",
+   "offline",
+   "slash"
+  ]
+ },
+ {
+  "name": "network-x",
+  "category": "Devices",
+  "tags": [
+   "network error",
+   "disconnected",
+   "network",
+   "offline",
+   "no network"
+  ]
+ },
+ {
   "name": "newspaper",
   "category": "Files",
   "tags": [
@@ -11417,6 +16667,26 @@
   ]
  },
  {
+  "name": "nfc",
+  "category": "Devices",
+  "tags": [
+   "nfc",
+   "near field",
+   "tap",
+   "contactless"
+  ]
+ },
+ {
+  "name": "nfc-slash",
+  "category": "Devices",
+  "tags": [
+   "nfc off",
+   "contactless off",
+   "tap",
+   "disabled"
+  ]
+ },
+ {
   "name": "note",
   "category": "Files",
   "tags": [
@@ -11424,6 +16694,37 @@
    "memo",
    "post-it",
    "reminder"
+  ]
+ },
+ {
+  "name": "note-blank",
+  "category": "Editor",
+  "tags": [
+   "sticky note",
+   "blank note",
+   "memo"
+  ]
+ },
+ {
+  "name": "note-pencil",
+  "category": "Editor",
+  "tags": [
+   "edit",
+   "compose",
+   "write",
+   "pencil square",
+   "note"
+  ]
+ },
+ {
+  "name": "note-plus",
+  "category": "Editor",
+  "tags": [
+   "sticky note",
+   "add note",
+   "new note",
+   "memo",
+   "note"
   ]
  },
  {
@@ -11437,6 +16738,26 @@
   ]
  },
  {
+  "name": "notebook-code",
+  "category": "Development",
+  "tags": [
+   "code notebook",
+   "journal",
+   "development",
+   "code"
+  ]
+ },
+ {
+  "name": "notebook-pencil",
+  "category": "Education",
+  "tags": [
+   "notes",
+   "journal",
+   "writing",
+   "study"
+  ]
+ },
+ {
   "name": "notepad",
   "category": "Editor",
   "tags": [
@@ -11445,6 +16766,38 @@
    "notebook",
    "jot",
    "pad"
+  ]
+ },
+ {
+  "name": "notes",
+  "category": "Editor",
+  "tags": [
+   "sticky notes",
+   "stickies",
+   "memo",
+   "notes",
+   "note stack"
+  ]
+ },
+ {
+  "name": "notes-slash",
+  "category": "Editor",
+  "tags": [
+   "notes",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "numpad",
+  "category": "Devices",
+  "tags": [
+   "keypad",
+   "number pad",
+   "dial pad",
+   "numpad",
+   "phone keypad"
   ]
  },
  {
@@ -11616,6 +16969,17 @@
    "inset",
    "box model",
    "box padding"
+  ]
+ },
+ {
+  "name": "page-break",
+  "category": "Editor",
+  "tags": [
+   "page break",
+   "separator",
+   "document",
+   "divider",
+   "split"
   ]
  },
  {
@@ -11918,6 +17282,17 @@
   ]
  },
  {
+  "name": "pen",
+  "category": "Editor",
+  "tags": [
+   "ballpoint",
+   "write",
+   "sign",
+   "pen",
+   "ballpoint pen"
+  ]
+ },
+ {
   "name": "pen-nib",
   "category": "Design",
   "tags": [
@@ -11926,6 +17301,16 @@
    "bezier",
    "write",
    "design"
+  ]
+ },
+ {
+  "name": "pen-slash",
+  "category": "Editor",
+  "tags": [
+   "pen",
+   "disabled",
+   "off",
+   "editor"
   ]
  },
  {
@@ -11939,6 +17324,165 @@
   ]
  },
  {
+  "name": "pencil-arrow-down",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "download",
+   "down",
+   "decrease"
+  ]
+ },
+ {
+  "name": "pencil-arrow-up",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "upload",
+   "up",
+   "increase"
+  ]
+ },
+ {
+  "name": "pencil-check",
+  "category": "Editor",
+  "tags": [
+   "pencil check",
+   "done",
+   "approved",
+   "edit",
+   "pencil"
+  ]
+ },
+ {
+  "name": "pencil-code",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "code",
+   "developer",
+   "embed"
+  ]
+ },
+ {
+  "name": "pencil-currency-dollar",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "dollar",
+   "price",
+   "money"
+  ]
+ },
+ {
+  "name": "pencil-discount",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "discount",
+   "sale",
+   "percent"
+  ]
+ },
+ {
+  "name": "pencil-gear",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "settings",
+   "configure"
+  ]
+ },
+ {
+  "name": "pencil-heart",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "favorite",
+   "like",
+   "love"
+  ]
+ },
+ {
+  "name": "pencil-lightning",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "fast",
+   "power",
+   "instant"
+  ]
+ },
+ {
+  "name": "pencil-line",
+  "category": "Editor",
+  "tags": [
+   "edit line",
+   "draw",
+   "pencil",
+   "underline"
+  ]
+ },
+ {
+  "name": "pencil-magnifying-glass",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "search",
+   "find"
+  ]
+ },
+ {
+  "name": "pencil-minus",
+  "category": "Editor",
+  "tags": [
+   "pencil minus",
+   "remove",
+   "subtract",
+   "edit",
+   "pencil"
+  ]
+ },
+ {
+  "name": "pencil-pause",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "paused",
+   "hold"
+  ]
+ },
+ {
+  "name": "pencil-plus",
+  "category": "Editor",
+  "tags": [
+   "pencil plus",
+   "add",
+   "new",
+   "edit",
+   "pencil"
+  ]
+ },
+ {
+  "name": "pencil-push-pin",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "pin",
+   "pinned"
+  ]
+ },
+ {
+  "name": "pencil-question",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "help",
+   "unknown",
+   "question"
+  ]
+ },
+ {
   "name": "pencil-ruler",
   "category": "Design",
   "tags": [
@@ -11947,6 +17491,117 @@
    "design",
    "tools",
    "draft"
+  ]
+ },
+ {
+  "name": "pencil-share",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "share",
+   "send"
+  ]
+ },
+ {
+  "name": "pencil-slash",
+  "category": "Editor",
+  "tags": [
+   "read only",
+   "no editing",
+   "locked edit",
+   "edit off",
+   "locked"
+  ]
+ },
+ {
+  "name": "pencil-sparkle",
+  "category": "Editor",
+  "tags": [
+   "ai write",
+   "generate text",
+   "pencil",
+   "sparkle"
+  ]
+ },
+ {
+  "name": "pencil-star",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "favorite",
+   "starred",
+   "featured"
+  ]
+ },
+ {
+  "name": "pencil-warning",
+  "category": "Editor",
+  "tags": [
+   "pencil",
+   "warning",
+   "alert",
+   "error"
+  ]
+ },
+ {
+  "name": "pencil-x",
+  "category": "Editor",
+  "tags": [
+   "pencil x",
+   "remove",
+   "cancel",
+   "edit",
+   "pencil"
+  ]
+ },
+ {
+  "name": "pentagon",
+  "category": "Design",
+  "tags": [
+   "pentagon",
+   "shape",
+   "polygon",
+   "geometry",
+   "five sides"
+  ]
+ },
+ {
+  "name": "pentagon-minus",
+  "category": "Design",
+  "tags": [
+   "pentagon",
+   "remove",
+   "subtract"
+  ]
+ },
+ {
+  "name": "pentagon-plus",
+  "category": "Design",
+  "tags": [
+   "pentagon",
+   "add",
+   "new",
+   "create"
+  ]
+ },
+ {
+  "name": "pentagon-slash",
+  "category": "Design",
+  "tags": [
+   "pentagon",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "pentagon-x",
+  "category": "Design",
+  "tags": [
+   "pentagon",
+   "remove",
+   "delete",
+   "cancel"
   ]
  },
  {
@@ -11968,6 +17623,26 @@
    "woman",
    "body",
    "figure"
+  ]
+ },
+ {
+  "name": "perspective",
+  "category": "Design",
+  "tags": [
+   "perspective",
+   "3d",
+   "transform",
+   "distort"
+  ]
+ },
+ {
+  "name": "perspective-slash",
+  "category": "Design",
+  "tags": [
+   "perspective",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -12000,6 +17675,16 @@
    "approved",
    "phone",
    "call"
+  ]
+ },
+ {
+  "name": "phone-desk",
+  "category": "Devices",
+  "tags": [
+   "desk phone",
+   "landline",
+   "office phone",
+   "telephone"
   ]
  },
  {
@@ -12118,6 +17803,16 @@
   ]
  },
  {
+  "name": "phone-sparkle",
+  "category": "Devices",
+  "tags": [
+   "phone",
+   "ai",
+   "magic",
+   "smart"
+  ]
+ },
+ {
   "name": "phone-transfer",
   "category": "Communication",
   "tags": [
@@ -12187,6 +17882,16 @@
    "capsule",
    "pharmacy",
    "tablet"
+  ]
+ },
+ {
+  "name": "pipeline",
+  "category": "Development",
+  "tags": [
+   "pipeline",
+   "ci",
+   "stages",
+   "workflow"
   ]
  },
  {
@@ -12262,6 +17967,91 @@
   ]
  },
  {
+  "name": "plug-charging",
+  "category": "Devices",
+  "tags": [
+   "charging",
+   "power plug",
+   "electricity"
+  ]
+ },
+ {
+  "name": "plug-slash",
+  "category": "Devices",
+  "tags": [
+   "unplugged",
+   "disconnected",
+   "power off",
+   "offline"
+  ]
+ },
+ {
+  "name": "plug-type-a",
+  "category": "Devices",
+  "tags": [
+   "us plug",
+   "socket type a",
+   "power plug"
+  ]
+ },
+ {
+  "name": "plug-type-c",
+  "category": "Devices",
+  "tags": [
+   "euro plug",
+   "socket type c",
+   "power plug"
+  ]
+ },
+ {
+  "name": "plug-type-g",
+  "category": "Devices",
+  "tags": [
+   "uk plug",
+   "socket type g",
+   "power plug"
+  ]
+ },
+ {
+  "name": "plug-type-l",
+  "category": "Devices",
+  "tags": [
+   "italian plug",
+   "socket type l",
+   "power plug"
+  ]
+ },
+ {
+  "name": "plug-x",
+  "category": "Devices",
+  "tags": [
+   "disconnected",
+   "plug",
+   "error",
+   "power"
+  ]
+ },
+ {
+  "name": "plugs",
+  "category": "Devices",
+  "tags": [
+   "unplugged",
+   "disconnected",
+   "plug and socket"
+  ]
+ },
+ {
+  "name": "plugs-connected",
+  "category": "Devices",
+  "tags": [
+   "plugged in",
+   "connected",
+   "power on",
+   "plug connect",
+   "power"
+  ]
+ },
+ {
   "name": "plus",
   "category": "Interface",
   "tags": [
@@ -12298,6 +18088,97 @@
    "microphone",
    "audio",
    "audio show"
+  ]
+ },
+ {
+  "name": "polygon",
+  "category": "Design",
+  "tags": [
+   "polygon",
+   "shape",
+   "vertices",
+   "irregular"
+  ]
+ },
+ {
+  "name": "polygon-slash",
+  "category": "Design",
+  "tags": [
+   "polygon",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "polyhedron",
+  "category": "Design",
+  "tags": [
+   "polyhedron",
+   "3d shape",
+   "gem",
+   "geometry"
+  ]
+ },
+ {
+  "name": "polyhedron-slash",
+  "category": "Design",
+  "tags": [
+   "polyhedron",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "polyline",
+  "category": "Design",
+  "tags": [
+   "polyline",
+   "path",
+   "vector",
+   "connected points"
+  ]
+ },
+ {
+  "name": "poop",
+  "category": "Emoji",
+  "tags": [
+   "poop",
+   "poo",
+   "emoji",
+   "joke"
+  ]
+ },
+ {
+  "name": "port-dvi",
+  "category": "Devices",
+  "tags": [
+   "dvi",
+   "video port",
+   "connector",
+   "display"
+  ]
+ },
+ {
+  "name": "port-usb-c",
+  "category": "Devices",
+  "tags": [
+   "usb-c",
+   "type-c",
+   "connector",
+   "charging",
+   "usb c"
+  ]
+ },
+ {
+  "name": "port-usb-micro",
+  "category": "Devices",
+  "tags": [
+   "micro usb",
+   "connector",
+   "port",
+   "cable"
   ]
  },
  {
@@ -12339,6 +18220,26 @@
    "off",
    "shutdown",
    "start"
+  ]
+ },
+ {
+  "name": "power-bank",
+  "category": "Devices",
+  "tags": [
+   "power bank",
+   "portable charger",
+   "battery",
+   "charging"
+  ]
+ },
+ {
+  "name": "power-supply",
+  "category": "Devices",
+  "tags": [
+   "power supply",
+   "psu",
+   "adapter",
+   "charger"
   ]
  },
  {
@@ -12452,6 +18353,27 @@
   ]
  },
  {
+  "name": "printer-plus",
+  "category": "Devices",
+  "tags": [
+   "add printer",
+   "printer",
+   "new device",
+   "plus"
+  ]
+ },
+ {
+  "name": "printer-slash",
+  "category": "Devices",
+  "tags": [
+   "printer off",
+   "print disabled",
+   "no print",
+   "printer",
+   "no printing"
+  ]
+ },
+ {
   "name": "prohibit",
   "category": "Interface",
   "tags": [
@@ -12460,6 +18382,35 @@
    "ban",
    "not allowed",
    "no"
+  ]
+ },
+ {
+  "name": "projector",
+  "category": "Devices",
+  "tags": [
+   "video projector",
+   "beamer",
+   "presentation",
+   "projector",
+   "beam"
+  ]
+ },
+ {
+  "name": "projector-screen",
+  "category": "Business",
+  "tags": [
+   "screen",
+   "presentation",
+   "projection"
+  ]
+ },
+ {
+  "name": "projector-screen-chart",
+  "category": "Business",
+  "tags": [
+   "presentation",
+   "report",
+   "slides"
   ]
  },
  {
@@ -12546,6 +18497,17 @@
   ]
  },
  {
+  "name": "qr-code-slash",
+  "category": "Development",
+  "tags": [
+   "qr code",
+   "off",
+   "disabled",
+   "hidden",
+   "qr"
+  ]
+ },
+ {
   "name": "question",
   "category": "Interface",
   "tags": [
@@ -12564,6 +18526,26 @@
    "blockquote",
    "citation",
    "testimonial"
+  ]
+ },
+ {
+  "name": "quotes-single",
+  "category": "Editor",
+  "tags": [
+   "quote",
+   "single quote",
+   "apostrophe",
+   "citation"
+  ]
+ },
+ {
+  "name": "quotes-slash",
+  "category": "Editor",
+  "tags": [
+   "quotes",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -12596,6 +18578,15 @@
    "select",
    "choice",
    "form"
+  ]
+ },
+ {
+  "name": "radius",
+  "category": "Design",
+  "tags": [
+   "corner radius",
+   "circle radius",
+   "measure"
   ]
  },
  {
@@ -12699,6 +18690,16 @@
   ]
  },
  {
+  "name": "recharging",
+  "category": "Devices",
+  "tags": [
+   "recharging",
+   "charging",
+   "battery cycle",
+   "power"
+  ]
+ },
+ {
   "name": "record",
   "category": "Media",
   "tags": [
@@ -12706,6 +18707,47 @@
    "capture",
    "live",
    "recording"
+  ]
+ },
+ {
+  "name": "rectangle",
+  "category": "Design",
+  "tags": [
+   "rectangle",
+   "shape",
+   "geometry",
+   "box"
+  ]
+ },
+ {
+  "name": "rectangle-vertical",
+  "category": "Design",
+  "tags": [
+   "rectangle",
+   "portrait",
+   "shape",
+   "vertical"
+  ]
+ },
+ {
+  "name": "rectangular-prism",
+  "category": "Design",
+  "tags": [
+   "cuboid",
+   "box",
+   "3d shape",
+   "prism"
+  ]
+ },
+ {
+  "name": "rectangular-prism-slash",
+  "category": "Design",
+  "tags": [
+   "rectangular prism",
+   "off",
+   "disabled",
+   "hidden",
+   "rectangular"
   ]
  },
  {
@@ -12726,6 +18768,78 @@
    "money back",
    "return",
    "payment"
+  ]
+ },
+ {
+  "name": "regex",
+  "category": "Development",
+  "tags": [
+   "regular expression",
+   "pattern",
+   "search",
+   "code",
+   "regex"
+  ]
+ },
+ {
+  "name": "regex-slash",
+  "category": "Development",
+  "tags": [
+   "regex",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "relation-many-to-many",
+  "category": "Development",
+  "tags": [
+   "many to many",
+   "database",
+   "relation",
+   "er diagram"
+  ]
+ },
+ {
+  "name": "relation-one-to-many",
+  "category": "Development",
+  "tags": [
+   "one to many",
+   "database",
+   "relation",
+   "er diagram"
+  ]
+ },
+ {
+  "name": "relation-one-to-one",
+  "category": "Development",
+  "tags": [
+   "one to one",
+   "database",
+   "relation",
+   "er diagram"
+  ]
+ },
+ {
+  "name": "remote-control",
+  "category": "Devices",
+  "tags": [
+   "remote",
+   "tv remote",
+   "control",
+   "buttons",
+   "controller"
+  ]
+ },
+ {
+  "name": "rename",
+  "category": "Editor",
+  "tags": [
+   "rename",
+   "text field",
+   "edit name",
+   "input"
   ]
  },
  {
@@ -12769,6 +18883,17 @@
   ]
  },
  {
+  "name": "resize",
+  "category": "Design",
+  "tags": [
+   "custom size",
+   "scale",
+   "dimensions",
+   "resize",
+   "corner handle"
+  ]
+ },
+ {
   "name": "rewind",
   "category": "Media",
   "tags": [
@@ -12776,6 +18901,26 @@
    "reverse",
    "seek",
    "replay"
+  ]
+ },
+ {
+  "name": "rhombus",
+  "category": "Design",
+  "tags": [
+   "rhombus",
+   "diamond shape",
+   "square rotated",
+   "shape"
+  ]
+ },
+ {
+  "name": "rhombus-slash",
+  "category": "Design",
+  "tags": [
+   "rhombus",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -12787,6 +18932,26 @@
    "android",
    "machine",
    "automation"
+  ]
+ },
+ {
+  "name": "robot-face",
+  "category": "Development",
+  "tags": [
+   "robot face",
+   "bot",
+   "ai",
+   "android head"
+  ]
+ },
+ {
+  "name": "robot-slash",
+  "category": "Development",
+  "tags": [
+   "robot",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -12811,6 +18976,66 @@
   ]
  },
  {
+  "name": "rotate-3d",
+  "category": "Design",
+  "tags": [
+   "rotate 3d",
+   "orbit",
+   "transform",
+   "view"
+  ]
+ },
+ {
+  "name": "rotate-dot",
+  "category": "Design",
+  "tags": [
+   "rotate",
+   "pivot",
+   "transform",
+   "center"
+  ]
+ },
+ {
+  "name": "rotate-left",
+  "category": "Design",
+  "tags": [
+   "rotate",
+   "counterclockwise",
+   "turn",
+   "transform"
+  ]
+ },
+ {
+  "name": "rotate-lock",
+  "category": "Devices",
+  "tags": [
+   "rotation lock",
+   "screen lock",
+   "orientation",
+   "lock"
+  ]
+ },
+ {
+  "name": "rotate-rectangle",
+  "category": "Design",
+  "tags": [
+   "rotate shape",
+   "transform",
+   "rectangle",
+   "orientation"
+  ]
+ },
+ {
+  "name": "rotate-right",
+  "category": "Design",
+  "tags": [
+   "rotate",
+   "clockwise",
+   "turn",
+   "transform"
+  ]
+ },
+ {
   "name": "router",
   "category": "Devices",
   "tags": [
@@ -12818,6 +19043,48 @@
    "network",
    "modem",
    "internet"
+  ]
+ },
+ {
+  "name": "router-slash",
+  "category": "Development",
+  "tags": [
+   "router",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "row-insert-bottom",
+  "category": "Editor",
+  "tags": [
+   "insert row below",
+   "table",
+   "add row",
+   "spreadsheet",
+   "insert row"
+  ]
+ },
+ {
+  "name": "row-insert-top",
+  "category": "Editor",
+  "tags": [
+   "insert row above",
+   "table",
+   "add row",
+   "spreadsheet",
+   "insert row"
+  ]
+ },
+ {
+  "name": "row-minus",
+  "category": "Editor",
+  "tags": [
+   "delete row",
+   "table",
+   "remove row",
+   "spreadsheet"
   ]
  },
  {
@@ -12853,6 +19120,26 @@
   ]
  },
  {
+  "name": "ruler-measure",
+  "category": "Design",
+  "tags": [
+   "measure",
+   "ruler",
+   "dimension",
+   "size"
+  ]
+ },
+ {
+  "name": "sandbox",
+  "category": "Development",
+  "tags": [
+   "sandbox",
+   "isolated",
+   "playground",
+   "test"
+  ]
+ },
+ {
   "name": "scale-platform",
   "category": "Business",
   "tags": [
@@ -12884,6 +19171,49 @@
   ]
  },
  {
+  "name": "scanner",
+  "category": "Devices",
+  "tags": [
+   "scanner",
+   "document scanner",
+   "adf",
+   "office",
+   "flatbed"
+  ]
+ },
+ {
+  "name": "school",
+  "category": "Education",
+  "tags": [
+   "school",
+   "preschool",
+   "kindergarten",
+   "building",
+   "education"
+  ]
+ },
+ {
+  "name": "school-bell",
+  "category": "Education",
+  "tags": [
+   "school bell",
+   "ring",
+   "class",
+   "alarm",
+   "hand bell"
+  ]
+ },
+ {
+  "name": "school-slash",
+  "category": "Education",
+  "tags": [
+   "school",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "scissors",
   "category": "Design",
   "tags": [
@@ -12891,6 +19221,26 @@
    "snip",
    "trim",
    "clip"
+  ]
+ },
+ {
+  "name": "screen-share",
+  "category": "Devices",
+  "tags": [
+   "screen share",
+   "cast",
+   "present",
+   "monitor"
+  ]
+ },
+ {
+  "name": "screen-share-slash",
+  "category": "Devices",
+  "tags": [
+   "stop sharing",
+   "screen share off",
+   "present",
+   "monitor"
   ]
  },
  {
@@ -12904,6 +19254,17 @@
   ]
  },
  {
+  "name": "screenshot",
+  "category": "Devices",
+  "tags": [
+   "screenshot",
+   "capture",
+   "screen",
+   "snip",
+   "screen grab"
+  ]
+ },
+ {
   "name": "screwdriver",
   "category": "Objects",
   "tags": [
@@ -12911,6 +19272,47 @@
    "repair",
    "fix",
    "settings"
+  ]
+ },
+ {
+  "name": "scribble",
+  "category": "Design",
+  "tags": [
+   "scribble",
+   "gesture",
+   "doodle",
+   "freehand",
+   "draw"
+  ]
+ },
+ {
+  "name": "scribble-loop",
+  "category": "Design",
+  "tags": [
+   "scribble",
+   "doodle",
+   "freehand"
+  ]
+ },
+ {
+  "name": "scribble-slash",
+  "category": "Design",
+  "tags": [
+   "scribble",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "scroll",
+  "category": "Education",
+  "tags": [
+   "scroll",
+   "history",
+   "parchment",
+   "document",
+   "ancient"
   ]
  },
  {
@@ -12945,6 +19347,26 @@
   ]
  },
  {
+  "name": "section-plus",
+  "category": "Editor",
+  "tags": [
+   "new section",
+   "insert",
+   "divider",
+   "add"
+  ]
+ },
+ {
+  "name": "section-sign",
+  "category": "Editor",
+  "tags": [
+   "section sign",
+   "legal",
+   "paragraph",
+   "\u00a7"
+  ]
+ },
+ {
   "name": "selection",
   "category": "Interface",
   "tags": [
@@ -12953,6 +19375,218 @@
    "dashed",
    "area",
    "crop"
+  ]
+ },
+ {
+  "name": "selection-all",
+  "category": "Design",
+  "tags": [
+   "select all",
+   "selection",
+   "marquee",
+   "everything",
+   "checkbox"
+  ]
+ },
+ {
+  "name": "selection-background",
+  "category": "Design",
+  "tags": [
+   "send to back",
+   "layer",
+   "arrange"
+  ]
+ },
+ {
+  "name": "selection-exclude",
+  "category": "Design",
+  "tags": [
+   "exclude",
+   "boolean",
+   "difference",
+   "shapes"
+  ]
+ },
+ {
+  "name": "selection-foreground",
+  "category": "Design",
+  "tags": [
+   "bring to front",
+   "layer",
+   "arrange"
+  ]
+ },
+ {
+  "name": "selection-intersect",
+  "category": "Design",
+  "tags": [
+   "intersect",
+   "boolean",
+   "overlap",
+   "shapes"
+  ]
+ },
+ {
+  "name": "selection-inverse",
+  "category": "Design",
+  "tags": [
+   "invert selection",
+   "inverse",
+   "marquee"
+  ]
+ },
+ {
+  "name": "selection-plus",
+  "category": "Design",
+  "tags": [
+   "add to selection",
+   "expand",
+   "marquee"
+  ]
+ },
+ {
+  "name": "selection-slash",
+  "category": "Design",
+  "tags": [
+   "deselect",
+   "clear selection",
+   "marquee",
+   "dashed",
+   "slash"
+  ]
+ },
+ {
+  "name": "selection-subtract",
+  "category": "Design",
+  "tags": [
+   "subtract",
+   "boolean",
+   "minus front",
+   "shapes"
+  ]
+ },
+ {
+  "name": "selection-union",
+  "category": "Design",
+  "tags": [
+   "union",
+   "boolean",
+   "combine",
+   "shapes"
+  ]
+ },
+ {
+  "name": "send-backward",
+  "category": "Design",
+  "tags": [
+   "send backward",
+   "layer",
+   "arrange",
+   "order",
+   "layers"
+  ]
+ },
+ {
+  "name": "send-to-back",
+  "category": "Design",
+  "tags": [
+   "arrange",
+   "layer",
+   "back",
+   "order",
+   "send backward"
+  ]
+ },
+ {
+  "name": "separator",
+  "category": "Editor",
+  "tags": [
+   "separator",
+   "divider",
+   "horizontal rule",
+   "line",
+   "hr"
+  ]
+ },
+ {
+  "name": "separator-horizontal",
+  "category": "Editor",
+  "tags": [
+   "horizontal separator",
+   "divider",
+   "line",
+   "rule"
+  ]
+ },
+ {
+  "name": "separator-vertical",
+  "category": "Editor",
+  "tags": [
+   "vertical separator",
+   "divider",
+   "line",
+   "rule"
+  ]
+ },
+ {
+  "name": "set-square",
+  "category": "Editor",
+  "tags": [
+   "right angle",
+   "set square",
+   "triangle ruler",
+   "geometry"
+  ]
+ },
+ {
+  "name": "shadow",
+  "category": "Design",
+  "tags": [
+   "shadow",
+   "drop shadow",
+   "depth",
+   "effect"
+  ]
+ },
+ {
+  "name": "shadow-slash",
+  "category": "Design",
+  "tags": [
+   "shadow",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "shape-divide",
+  "category": "Design",
+  "tags": [
+   "divide",
+   "boolean",
+   "split",
+   "pathfinder"
+  ]
+ },
+ {
+  "name": "shapes",
+  "category": "Design",
+  "tags": [
+   "shapes",
+   "interests",
+   "circle square triangle",
+   "geometry",
+   "square circle triangle"
+  ]
+ },
+ {
+  "name": "shapes-slash",
+  "category": "Design",
+  "tags": [
+   "shapes",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -13370,6 +20004,16 @@
   ]
  },
  {
+  "name": "shredder",
+  "category": "Devices",
+  "tags": [
+   "shredder",
+   "destroy paper",
+   "office",
+   "confidential"
+  ]
+ },
+ {
   "name": "shuffle",
   "category": "Arrows",
   "tags": [
@@ -13411,6 +20055,80 @@
   ]
  },
  {
+  "name": "signal-2g",
+  "category": "Devices",
+  "tags": [
+   "2g",
+   "mobile network",
+   "signal",
+   "cellular"
+  ]
+ },
+ {
+  "name": "signal-3g",
+  "category": "Devices",
+  "tags": [
+   "3g",
+   "mobile network",
+   "signal",
+   "cellular",
+   "mobile data"
+  ]
+ },
+ {
+  "name": "signal-4g",
+  "category": "Devices",
+  "tags": [
+   "4g",
+   "mobile network",
+   "signal",
+   "cellular",
+   "lte"
+  ]
+ },
+ {
+  "name": "signal-5g",
+  "category": "Devices",
+  "tags": [
+   "5g",
+   "mobile network",
+   "signal",
+   "cellular",
+   "mobile data"
+  ]
+ },
+ {
+  "name": "signal-lte",
+  "category": "Devices",
+  "tags": [
+   "lte",
+   "mobile network",
+   "signal",
+   "cellular"
+  ]
+ },
+ {
+  "name": "signature",
+  "category": "Editor",
+  "tags": [
+   "sign",
+   "signature",
+   "contract",
+   "pen",
+   "autograph"
+  ]
+ },
+ {
+  "name": "signature-slash",
+  "category": "Editor",
+  "tags": [
+   "signature",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "signpost",
   "category": "Maps",
   "tags": [
@@ -13429,6 +20147,37 @@
    "carrier",
    "chip",
    "cellular"
+  ]
+ },
+ {
+  "name": "sim-card-slash",
+  "category": "Devices",
+  "tags": [
+   "no sim",
+   "sim card",
+   "disabled",
+   "slash",
+   "sim missing"
+  ]
+ },
+ {
+  "name": "skew-horizontal",
+  "category": "Design",
+  "tags": [
+   "skew x",
+   "slant",
+   "transform",
+   "shear"
+  ]
+ },
+ {
+  "name": "skew-vertical",
+  "category": "Design",
+  "tags": [
+   "skew y",
+   "slant",
+   "transform",
+   "shear"
   ]
  },
  {
@@ -13463,6 +20212,16 @@
   ]
  },
  {
+  "name": "slash-command",
+  "category": "Development",
+  "tags": [
+   "slash",
+   "command",
+   "shortcut",
+   "prompt"
+  ]
+ },
+ {
   "name": "sliders",
   "category": "Interface",
   "tags": [
@@ -13470,6 +20229,16 @@
    "controls",
    "adjust",
    "equalizer"
+  ]
+ },
+ {
+  "name": "smart-speaker",
+  "category": "Devices",
+  "tags": [
+   "smart speaker",
+   "voice assistant",
+   "home speaker",
+   "speaker"
   ]
  },
  {
@@ -13483,6 +20252,250 @@
   ]
  },
  {
+  "name": "smiley-angry",
+  "category": "Emoji",
+  "tags": [
+   "angry",
+   "mad",
+   "emoji",
+   "face",
+   "frustrated"
+  ]
+ },
+ {
+  "name": "smiley-anguished",
+  "category": "Emoji",
+  "tags": [
+   "anguish",
+   "distress",
+   "emoji",
+   "face"
+  ]
+ },
+ {
+  "name": "smiley-annoyed",
+  "category": "Emoji",
+  "tags": [
+   "annoyed",
+   "irritated",
+   "emoji",
+   "face"
+  ]
+ },
+ {
+  "name": "smiley-arrow-up",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "upload",
+   "up",
+   "increase"
+  ]
+ },
+ {
+  "name": "smiley-bitcoin",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "bitcoin",
+   "crypto"
+  ]
+ },
+ {
+  "name": "smiley-blank",
+  "category": "Emoji",
+  "tags": [
+   "no mouth",
+   "speechless",
+   "blank",
+   "face",
+   "no words"
+  ]
+ },
+ {
+  "name": "smiley-check",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "check",
+   "done",
+   "approved"
+  ]
+ },
+ {
+  "name": "smiley-confused",
+  "category": "Emoji",
+  "tags": [
+   "confused",
+   "unsure",
+   "emoji",
+   "face",
+   "puzzled"
+  ]
+ },
+ {
+  "name": "smiley-cool",
+  "category": "Emoji",
+  "tags": [
+   "cool",
+   "sunglasses",
+   "emoji",
+   "face"
+  ]
+ },
+ {
+  "name": "smiley-cry",
+  "category": "Emoji",
+  "tags": [
+   "crying",
+   "tears",
+   "sad",
+   "emoji",
+   "tear"
+  ]
+ },
+ {
+  "name": "smiley-currency-dollar",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "dollar",
+   "price",
+   "money"
+  ]
+ },
+ {
+  "name": "smiley-dizzy",
+  "category": "Emoji",
+  "tags": [
+   "dizzy",
+   "confused",
+   "emoji",
+   "face",
+   "spiral eyes"
+  ]
+ },
+ {
+  "name": "smiley-expressionless",
+  "category": "Emoji",
+  "tags": [
+   "expressionless",
+   "blank",
+   "emoji",
+   "face"
+  ]
+ },
+ {
+  "name": "smiley-gear",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "settings",
+   "configure"
+  ]
+ },
+ {
+  "name": "smiley-glance",
+  "category": "Emoji",
+  "tags": [
+   "side eye",
+   "looking",
+   "glance"
+  ]
+ },
+ {
+  "name": "smiley-grimace",
+  "category": "Emoji",
+  "tags": [
+   "grimace",
+   "awkward",
+   "emoji",
+   "teeth"
+  ]
+ },
+ {
+  "name": "smiley-grin",
+  "category": "Emoji",
+  "tags": [
+   "grin",
+   "happy",
+   "emoji",
+   "beam",
+   "very happy"
+  ]
+ },
+ {
+  "name": "smiley-happy",
+  "category": "Emoji",
+  "tags": [
+   "happy",
+   "joy",
+   "smiling eyes",
+   "emoji",
+   "grin"
+  ]
+ },
+ {
+  "name": "smiley-heart",
+  "category": "Emoji",
+  "tags": [
+   "love",
+   "heart eyes",
+   "adore",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-hypnotized",
+  "category": "Emoji",
+  "tags": [
+   "hypnotized",
+   "dazed",
+   "emoji",
+   "spiral"
+  ]
+ },
+ {
+  "name": "smiley-kid",
+  "category": "Emoji",
+  "tags": [
+   "kid",
+   "child",
+   "face",
+   "baby"
+  ]
+ },
+ {
+  "name": "smiley-kiss",
+  "category": "Emoji",
+  "tags": [
+   "kiss",
+   "love",
+   "emoji",
+   "face"
+  ]
+ },
+ {
+  "name": "smiley-laugh",
+  "category": "Emoji",
+  "tags": [
+   "laugh",
+   "happy",
+   "grin",
+   "joy",
+   "xd"
+  ]
+ },
+ {
+  "name": "smiley-magnifying-glass",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "search",
+   "find"
+  ]
+ },
+ {
   "name": "smiley-meh",
   "category": "People",
   "tags": [
@@ -13490,6 +20503,104 @@
    "emoji",
    "neutral",
    "indifferent"
+  ]
+ },
+ {
+  "name": "smiley-melting",
+  "category": "Emoji",
+  "tags": [
+   "melting",
+   "embarrassed",
+   "overwhelmed"
+  ]
+ },
+ {
+  "name": "smiley-minus",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "remove",
+   "subtract"
+  ]
+ },
+ {
+  "name": "smiley-nerd",
+  "category": "Emoji",
+  "tags": [
+   "nerd",
+   "glasses",
+   "geek",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-nervous",
+  "category": "Emoji",
+  "tags": [
+   "nervous",
+   "anxious",
+   "awkward",
+   "face",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-pencil",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "edit",
+   "write"
+  ]
+ },
+ {
+  "name": "smiley-plus",
+  "category": "Emoji",
+  "tags": [
+   "add reaction",
+   "emoji",
+   "react",
+   "smiley",
+   "smiley plus"
+  ]
+ },
+ {
+  "name": "smiley-pout",
+  "category": "Emoji",
+  "tags": [
+   "pout",
+   "sulk",
+   "annoyed",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-push-pin",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "pin",
+   "pinned"
+  ]
+ },
+ {
+  "name": "smiley-puzzled",
+  "category": "Emoji",
+  "tags": [
+   "puzzled",
+   "thinking",
+   "face",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-relieved",
+  "category": "Emoji",
+  "tags": [
+   "relieved",
+   "content",
+   "calm",
+   "emoji"
   ]
  },
  {
@@ -13504,6 +20615,160 @@
   ]
  },
  {
+  "name": "smiley-share",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "share",
+   "send"
+  ]
+ },
+ {
+  "name": "smiley-sick",
+  "category": "Emoji",
+  "tags": [
+   "sick",
+   "ill",
+   "nausea",
+   "emoji",
+   "unwell"
+  ]
+ },
+ {
+  "name": "smiley-sing",
+  "category": "Emoji",
+  "tags": [
+   "sing",
+   "singing",
+   "face",
+   "emoji",
+   "music"
+  ]
+ },
+ {
+  "name": "smiley-slash",
+  "category": "Emoji",
+  "tags": [
+   "smiley slash",
+   "off",
+   "disabled",
+   "emoji",
+   "face"
+  ]
+ },
+ {
+  "name": "smiley-smirk",
+  "category": "Emoji",
+  "tags": [
+   "smirk",
+   "sly",
+   "mischief",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-sparkle",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "ai",
+   "magic",
+   "smart"
+  ]
+ },
+ {
+  "name": "smiley-squint",
+  "category": "Emoji",
+  "tags": [
+   "squint",
+   "emoji",
+   "face",
+   "laugh",
+   "sad"
+  ]
+ },
+ {
+  "name": "smiley-sticker",
+  "category": "Emoji",
+  "tags": [
+   "sticker",
+   "emoji",
+   "reaction"
+  ]
+ },
+ {
+  "name": "smiley-surprised",
+  "category": "Emoji",
+  "tags": [
+   "surprised",
+   "astonished",
+   "wow",
+   "emoji",
+   "shock"
+  ]
+ },
+ {
+  "name": "smiley-talking",
+  "category": "Emoji",
+  "tags": [
+   "talking",
+   "chatting",
+   "speaking"
+  ]
+ },
+ {
+  "name": "smiley-thinking",
+  "category": "Emoji",
+  "tags": [
+   "thinking",
+   "pondering",
+   "hmm"
+  ]
+ },
+ {
+  "name": "smiley-tongue",
+  "category": "Emoji",
+  "tags": [
+   "tongue",
+   "silly",
+   "playful",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-tongue-wink",
+  "category": "Emoji",
+  "tags": [
+   "tongue",
+   "wink",
+   "playful",
+   "emoji",
+   "tongue wink"
+  ]
+ },
+ {
+  "name": "smiley-unamused",
+  "category": "Emoji",
+  "tags": [
+   "unamused",
+   "meh",
+   "bored",
+   "emoji",
+   "face"
+  ]
+ },
+ {
+  "name": "smiley-upside-down",
+  "category": "Emoji",
+  "tags": [
+   "upside down",
+   "silly",
+   "emoji",
+   "sarcasm",
+   "face"
+  ]
+ },
+ {
   "name": "smiley-wink",
   "category": "People",
   "tags": [
@@ -13511,6 +20776,59 @@
    "emoji",
    "wink",
    "playful"
+  ]
+ },
+ {
+  "name": "smiley-worried",
+  "category": "Emoji",
+  "tags": [
+   "worried",
+   "stressed",
+   "anxious",
+   "emoji",
+   "nervous"
+  ]
+ },
+ {
+  "name": "smiley-x",
+  "category": "Emoji",
+  "tags": [
+   "smiley",
+   "remove",
+   "delete",
+   "cancel"
+  ]
+ },
+ {
+  "name": "smiley-x-eyes",
+  "category": "Emoji",
+  "tags": [
+   "dead",
+   "knocked out",
+   "dizzy",
+   "x eyes",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-x-eyes-happy",
+  "category": "Emoji",
+  "tags": [
+   "crazy happy",
+   "laughing",
+   "face",
+   "emoji"
+  ]
+ },
+ {
+  "name": "smiley-zipper",
+  "category": "Emoji",
+  "tags": [
+   "silence",
+   "mute",
+   "zipped mouth",
+   "emoji",
+   "silent"
   ]
  },
  {
@@ -13587,6 +20905,100 @@
   ]
  },
  {
+  "name": "sort-alphabetical-ascending",
+  "category": "Editor",
+  "tags": [
+   "sort a-z",
+   "alphabetical",
+   "ascending",
+   "order",
+   "sort"
+  ]
+ },
+ {
+  "name": "sort-alphabetical-descending",
+  "category": "Editor",
+  "tags": [
+   "sort z-a",
+   "alphabetical",
+   "descending",
+   "order",
+   "sort"
+  ]
+ },
+ {
+  "name": "sort-numerical-ascending",
+  "category": "Editor",
+  "tags": [
+   "sort 1-9",
+   "numerical",
+   "ascending",
+   "order",
+   "sort"
+  ]
+ },
+ {
+  "name": "sort-numerical-descending",
+  "category": "Editor",
+  "tags": [
+   "sort 9-1",
+   "numerical",
+   "descending",
+   "order",
+   "sort"
+  ]
+ },
+ {
+  "name": "sort-shapes-ascending",
+  "category": "Editor",
+  "tags": [
+   "sort by size",
+   "ascending",
+   "shapes",
+   "order"
+  ]
+ },
+ {
+  "name": "sort-shapes-descending",
+  "category": "Editor",
+  "tags": [
+   "sort by size",
+   "descending",
+   "shapes",
+   "order"
+  ]
+ },
+ {
+  "name": "soundbar",
+  "category": "Devices",
+  "tags": [
+   "soundbar",
+   "speaker bar",
+   "tv audio",
+   "home theater"
+  ]
+ },
+ {
+  "name": "spacing-horizontal",
+  "category": "Design",
+  "tags": [
+   "horizontal spacing",
+   "gap",
+   "padding",
+   "layout"
+  ]
+ },
+ {
+  "name": "spacing-vertical",
+  "category": "Design",
+  "tags": [
+   "vertical spacing",
+   "gap",
+   "padding",
+   "layout"
+  ]
+ },
+ {
   "name": "sparkle",
   "category": "Interface",
   "tags": [
@@ -13595,6 +21007,28 @@
    "new",
    "shine",
    "star"
+  ]
+ },
+ {
+  "name": "speaker-hifi",
+  "category": "Devices",
+  "tags": [
+   "hifi speaker",
+   "audio",
+   "sound system",
+   "hi-fi speaker",
+   "loudspeaker"
+  ]
+ },
+ {
+  "name": "speaker-hifi-slash",
+  "category": "Devices",
+  "tags": [
+   "speaker hifi",
+   "disabled",
+   "off",
+   "speaker",
+   "audio"
   ]
  },
  {
@@ -13635,6 +21069,47 @@
    "volume off",
    "silent",
    "sound off"
+  ]
+ },
+ {
+  "name": "speech-to-text",
+  "category": "Editor",
+  "tags": [
+   "dictation",
+   "transcribe",
+   "voice typing",
+   "speech"
+  ]
+ },
+ {
+  "name": "spellcheck",
+  "category": "Editor",
+  "tags": [
+   "spell check",
+   "grammar",
+   "abc",
+   "check",
+   "spelling"
+  ]
+ },
+ {
+  "name": "sphere",
+  "category": "Design",
+  "tags": [
+   "sphere",
+   "ball",
+   "3d",
+   "globe"
+  ]
+ },
+ {
+  "name": "sphere-slash",
+  "category": "Design",
+  "tags": [
+   "sphere",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -13727,6 +21202,17 @@
   ]
  },
  {
+  "name": "ssd",
+  "category": "Devices",
+  "tags": [
+   "ssd",
+   "nvme",
+   "storage",
+   "drive",
+   "solid state drive"
+  ]
+ },
+ {
   "name": "stack",
   "category": "Files",
   "tags": [
@@ -13754,6 +21240,26 @@
    "stack",
    "plus",
    "layers"
+  ]
+ },
+ {
+  "name": "stack-pop",
+  "category": "Development",
+  "tags": [
+   "pop",
+   "stack",
+   "remove top",
+   "data structure"
+  ]
+ },
+ {
+  "name": "stack-push",
+  "category": "Development",
+  "tags": [
+   "push",
+   "stack",
+   "add top",
+   "data structure"
   ]
  },
  {
@@ -13840,6 +21346,26 @@
   ]
  },
  {
+  "name": "step-into",
+  "category": "Development",
+  "tags": [
+   "step into",
+   "debugger",
+   "debug",
+   "arrow"
+  ]
+ },
+ {
+  "name": "step-out",
+  "category": "Development",
+  "tags": [
+   "step out",
+   "debugger",
+   "debug",
+   "arrow"
+  ]
+ },
+ {
   "name": "stethoscope",
   "category": "Health",
   "tags": [
@@ -13848,6 +21374,17 @@
    "health",
    "checkup",
    "heartbeat"
+  ]
+ },
+ {
+  "name": "sticker",
+  "category": "Emoji",
+  "tags": [
+   "sticker",
+   "emoji",
+   "peel",
+   "smiley",
+   "emoji sticker"
   ]
  },
  {
@@ -13950,6 +21487,26 @@
    "line",
    "path",
    "brush"
+  ]
+ },
+ {
+  "name": "student",
+  "category": "Education",
+  "tags": [
+   "student",
+   "learner",
+   "graduate"
+  ]
+ },
+ {
+  "name": "stylus",
+  "category": "Devices",
+  "tags": [
+   "stylus",
+   "tablet pen",
+   "digital pen",
+   "pencil",
+   "pen"
   ]
  },
  {
@@ -14099,6 +21656,37 @@
   ]
  },
  {
+  "name": "table-column",
+  "category": "Editor",
+  "tags": [
+   "column",
+   "table",
+   "spreadsheet",
+   "select column"
+  ]
+ },
+ {
+  "name": "table-column-plus",
+  "category": "Editor",
+  "tags": [
+   "add column",
+   "insert column",
+   "table",
+   "spreadsheet"
+  ]
+ },
+ {
+  "name": "table-minus",
+  "category": "Editor",
+  "tags": [
+   "table minus",
+   "remove",
+   "subtract",
+   "table",
+   "grid"
+  ]
+ },
+ {
   "name": "table-pivot",
   "category": "Charts",
   "tags": [
@@ -14106,6 +21694,47 @@
    "crosstab",
    "spreadsheet",
    "data"
+  ]
+ },
+ {
+  "name": "table-plus",
+  "category": "Editor",
+  "tags": [
+   "insert table",
+   "add table",
+   "grid",
+   "spreadsheet",
+   "table plus"
+  ]
+ },
+ {
+  "name": "table-row",
+  "category": "Editor",
+  "tags": [
+   "row",
+   "table",
+   "spreadsheet",
+   "select row"
+  ]
+ },
+ {
+  "name": "table-row-plus",
+  "category": "Editor",
+  "tags": [
+   "add row",
+   "insert row",
+   "table",
+   "spreadsheet"
+  ]
+ },
+ {
+  "name": "table-split",
+  "category": "Editor",
+  "tags": [
+   "split cells",
+   "table",
+   "divide",
+   "spreadsheet"
   ]
  },
  {
@@ -14211,6 +21840,28 @@
   ]
  },
  {
+  "name": "television-retro",
+  "category": "Devices",
+  "tags": [
+   "old tv",
+   "retro",
+   "television",
+   "antenna",
+   "crt"
+  ]
+ },
+ {
+  "name": "television-slash",
+  "category": "Devices",
+  "tags": [
+   "tv off",
+   "no signal",
+   "television",
+   "slash",
+   "disabled"
+  ]
+ },
+ {
   "name": "tennis-ball",
   "category": "Sports",
   "tags": [
@@ -14241,6 +21892,36 @@
   ]
  },
  {
+  "name": "terminal-minus",
+  "category": "Development",
+  "tags": [
+   "terminal",
+   "remove",
+   "console",
+   "minus"
+  ]
+ },
+ {
+  "name": "terminal-plus",
+  "category": "Development",
+  "tags": [
+   "new terminal",
+   "console",
+   "add",
+   "plus"
+  ]
+ },
+ {
+  "name": "terminal-x",
+  "category": "Development",
+  "tags": [
+   "close terminal",
+   "console",
+   "error",
+   "x"
+  ]
+ },
+ {
   "name": "test-tube",
   "category": "Health",
   "tags": [
@@ -14249,6 +21930,57 @@
    "chemistry",
    "experiment",
    "sample"
+  ]
+ },
+ {
+  "name": "text-aa",
+  "category": "Editor",
+  "tags": [
+   "font",
+   "typography",
+   "alphabet",
+   "letters",
+   "typeface"
+  ]
+ },
+ {
+  "name": "text-aa-slash",
+  "category": "Editor",
+  "tags": [
+   "ignore case",
+   "case insensitive",
+   "aa off",
+   "font"
+  ]
+ },
+ {
+  "name": "text-ab",
+  "category": "Editor",
+  "tags": [
+   "uppercase",
+   "alphabet",
+   "capitals",
+   "letters"
+  ]
+ },
+ {
+  "name": "text-abc",
+  "category": "Editor",
+  "tags": [
+   "abc",
+   "alphabet",
+   "spelling",
+   "text"
+  ]
+ },
+ {
+  "name": "text-align-bottom",
+  "category": "Editor",
+  "tags": [
+   "text",
+   "vertical align",
+   "bottom",
+   "typography"
   ]
  },
  {
@@ -14284,6 +22016,16 @@
   ]
  },
  {
+  "name": "text-align-middle",
+  "category": "Editor",
+  "tags": [
+   "text",
+   "vertical align",
+   "middle",
+   "typography"
+  ]
+ },
+ {
   "name": "text-align-right",
   "category": "Editor",
   "tags": [
@@ -14291,6 +22033,16 @@
    "right",
    "paragraph",
    "format"
+  ]
+ },
+ {
+  "name": "text-align-top",
+  "category": "Editor",
+  "tags": [
+   "text",
+   "vertical align",
+   "top",
+   "typography"
   ]
  },
  {
@@ -14305,6 +22057,90 @@
   ]
  },
  {
+  "name": "text-b-slash",
+  "category": "Editor",
+  "tags": [
+   "text b",
+   "disabled",
+   "off",
+   "editor"
+  ]
+ },
+ {
+  "name": "text-caption",
+  "category": "Editor",
+  "tags": [
+   "caption",
+   "image caption",
+   "text",
+   "figure"
+  ]
+ },
+ {
+  "name": "text-case-toggle",
+  "category": "Editor",
+  "tags": [
+   "toggle case",
+   "change case",
+   "text",
+   "typography"
+  ]
+ },
+ {
+  "name": "text-color",
+  "category": "Editor",
+  "tags": [
+   "font color",
+   "text color",
+   "letter",
+   "highlight",
+   "a"
+  ]
+ },
+ {
+  "name": "text-columns",
+  "category": "Editor",
+  "tags": [
+   "columns",
+   "multi-column text",
+   "layout",
+   "newspaper layout",
+   "text"
+  ]
+ },
+ {
+  "name": "text-direction-ltr",
+  "category": "Editor",
+  "tags": [
+   "left to right",
+   "text direction",
+   "ltr",
+   "paragraph",
+   "writing"
+  ]
+ },
+ {
+  "name": "text-direction-rtl",
+  "category": "Editor",
+  "tags": [
+   "right to left",
+   "text direction",
+   "rtl",
+   "paragraph",
+   "writing"
+  ]
+ },
+ {
+  "name": "text-grammar",
+  "category": "Editor",
+  "tags": [
+   "grammar",
+   "check",
+   "writing",
+   "proofread"
+  ]
+ },
+ {
   "name": "text-h",
   "category": "Editor",
   "tags": [
@@ -14313,6 +22149,93 @@
    "title",
    "format",
    "h1"
+  ]
+ },
+ {
+  "name": "text-h-five",
+  "category": "Editor",
+  "tags": [
+   "heading 5",
+   "h5",
+   "heading",
+   "text",
+   "title"
+  ]
+ },
+ {
+  "name": "text-h-four",
+  "category": "Editor",
+  "tags": [
+   "heading 4",
+   "h4",
+   "heading",
+   "text",
+   "title"
+  ]
+ },
+ {
+  "name": "text-h-one",
+  "category": "Editor",
+  "tags": [
+   "heading 1",
+   "h1",
+   "title",
+   "text",
+   "heading"
+  ]
+ },
+ {
+  "name": "text-h-six",
+  "category": "Editor",
+  "tags": [
+   "heading 6",
+   "h6",
+   "heading",
+   "text",
+   "title"
+  ]
+ },
+ {
+  "name": "text-h-slash",
+  "category": "Editor",
+  "tags": [
+   "text h",
+   "off",
+   "disabled",
+   "hidden",
+   "text"
+  ]
+ },
+ {
+  "name": "text-h-three",
+  "category": "Editor",
+  "tags": [
+   "heading 3",
+   "h3",
+   "heading",
+   "text",
+   "title"
+  ]
+ },
+ {
+  "name": "text-h-two",
+  "category": "Editor",
+  "tags": [
+   "heading 2",
+   "h2",
+   "subtitle",
+   "text",
+   "title"
+  ]
+ },
+ {
+  "name": "text-highlight",
+  "category": "Editor",
+  "tags": [
+   "background color",
+   "fill",
+   "highlight",
+   "text"
   ]
  },
  {
@@ -14338,6 +22261,48 @@
   ]
  },
  {
+  "name": "text-italic-slash",
+  "category": "Editor",
+  "tags": [
+   "text italic",
+   "off",
+   "disabled",
+   "hidden",
+   "text"
+  ]
+ },
+ {
+  "name": "text-kerning",
+  "category": "Editor",
+  "tags": [
+   "kerning",
+   "letter spacing",
+   "typography",
+   "text"
+  ]
+ },
+ {
+  "name": "text-lowercase",
+  "category": "Editor",
+  "tags": [
+   "lowercase",
+   "small letters",
+   "case",
+   "text",
+   "typography"
+  ]
+ },
+ {
+  "name": "text-magnifying-glass",
+  "category": "Editor",
+  "tags": [
+   "find text",
+   "search font",
+   "text",
+   "lookup"
+  ]
+ },
+ {
   "name": "text-outdent",
   "category": "Editor",
   "tags": [
@@ -14346,6 +22311,102 @@
    "unindent",
    "format",
    "paragraph"
+  ]
+ },
+ {
+  "name": "text-overline",
+  "category": "Editor",
+  "tags": [
+   "overline",
+   "text",
+   "line above",
+   "typography"
+  ]
+ },
+ {
+  "name": "text-plus",
+  "category": "Editor",
+  "tags": [
+   "add text",
+   "insert text",
+   "text box",
+   "plus",
+   "new text"
+  ]
+ },
+ {
+  "name": "text-resize",
+  "category": "Editor",
+  "tags": [
+   "resize text",
+   "scale",
+   "text box",
+   "font size"
+  ]
+ },
+ {
+  "name": "text-rotate",
+  "category": "Editor",
+  "tags": [
+   "rotate text",
+   "vertical text",
+   "angle text",
+   "text",
+   "orientation"
+  ]
+ },
+ {
+  "name": "text-scan",
+  "category": "Editor",
+  "tags": [
+   "ocr",
+   "recognize text",
+   "scan",
+   "character recognition",
+   "text recognition"
+  ]
+ },
+ {
+  "name": "text-size",
+  "category": "Editor",
+  "tags": [
+   "font size",
+   "text size",
+   "typography",
+   "scale",
+   "aa"
+  ]
+ },
+ {
+  "name": "text-size-decrease",
+  "category": "Editor",
+  "tags": [
+   "decrease font size",
+   "smaller text",
+   "typography",
+   "minus",
+   "decrease font"
+  ]
+ },
+ {
+  "name": "text-size-increase",
+  "category": "Editor",
+  "tags": [
+   "increase font size",
+   "larger text",
+   "typography",
+   "plus",
+   "increase font"
+  ]
+ },
+ {
+  "name": "text-sparkle",
+  "category": "Editor",
+  "tags": [
+   "ai writing",
+   "generate text",
+   "magic",
+   "sparkle"
   ]
  },
  {
@@ -14360,6 +22421,28 @@
   ]
  },
  {
+  "name": "text-subscript",
+  "category": "Editor",
+  "tags": [
+   "subscript",
+   "formula",
+   "typography",
+   "text",
+   "lower"
+  ]
+ },
+ {
+  "name": "text-superscript",
+  "category": "Editor",
+  "tags": [
+   "superscript",
+   "exponent",
+   "typography",
+   "text",
+   "raise"
+  ]
+ },
+ {
   "name": "text-t",
   "category": "Editor",
   "tags": [
@@ -14371,6 +22454,37 @@
   ]
  },
  {
+  "name": "text-t-slash",
+  "category": "Editor",
+  "tags": [
+   "clear formatting",
+   "remove format",
+   "text",
+   "slash",
+   "remove style"
+  ]
+ },
+ {
+  "name": "text-titlecase",
+  "category": "Editor",
+  "tags": [
+   "title case",
+   "capitalize",
+   "case",
+   "text"
+  ]
+ },
+ {
+  "name": "text-to-speech",
+  "category": "Editor",
+  "tags": [
+   "read aloud",
+   "speech",
+   "audio",
+   "tts"
+  ]
+ },
+ {
   "name": "text-underline",
   "category": "Editor",
   "tags": [
@@ -14378,6 +22492,111 @@
    "format",
    "font",
    "style"
+  ]
+ },
+ {
+  "name": "text-underline-slash",
+  "category": "Editor",
+  "tags": [
+   "text underline",
+   "off",
+   "disabled",
+   "hidden",
+   "text"
+  ]
+ },
+ {
+  "name": "text-uppercase",
+  "category": "Editor",
+  "tags": [
+   "uppercase",
+   "caps",
+   "case",
+   "typography",
+   "capitals"
+  ]
+ },
+ {
+  "name": "text-width",
+  "category": "Editor",
+  "tags": [
+   "width",
+   "letter spacing",
+   "tracking",
+   "typography"
+  ]
+ },
+ {
+  "name": "text-wrap",
+  "category": "Editor",
+  "tags": [
+   "text wrap",
+   "overflow",
+   "word wrap",
+   "lines",
+   "wrap text"
+  ]
+ },
+ {
+  "name": "text-wrap-center",
+  "category": "Editor",
+  "tags": [
+   "float center",
+   "image wrap",
+   "layout",
+   "align"
+  ]
+ },
+ {
+  "name": "text-wrap-left",
+  "category": "Editor",
+  "tags": [
+   "float left",
+   "image wrap",
+   "layout",
+   "align"
+  ]
+ },
+ {
+  "name": "text-wrap-none",
+  "category": "Editor",
+  "tags": [
+   "no float",
+   "inline image",
+   "layout",
+   "block",
+   "no wrap"
+  ]
+ },
+ {
+  "name": "text-wrap-right",
+  "category": "Editor",
+  "tags": [
+   "float right",
+   "image wrap",
+   "layout",
+   "align"
+  ]
+ },
+ {
+  "name": "textbox",
+  "category": "Editor",
+  "tags": [
+   "input",
+   "text field",
+   "cursor",
+   "form",
+   "input field"
+  ]
+ },
+ {
+  "name": "textbox-magnifying-glass",
+  "category": "Interface",
+  "tags": [
+   "search field",
+   "search bar",
+   "input",
+   "find"
   ]
  },
  {
@@ -14582,6 +22801,76 @@
   ]
  },
  {
+  "name": "topology-bus",
+  "category": "Development",
+  "tags": [
+   "bus topology",
+   "network",
+   "nodes",
+   "line"
+  ]
+ },
+ {
+  "name": "topology-full-mesh",
+  "category": "Development",
+  "tags": [
+   "full mesh",
+   "network",
+   "nodes",
+   "connected"
+  ]
+ },
+ {
+  "name": "topology-mesh",
+  "category": "Development",
+  "tags": [
+   "complex topology",
+   "network",
+   "nodes",
+   "mesh"
+  ]
+ },
+ {
+  "name": "topology-ring",
+  "category": "Development",
+  "tags": [
+   "ring topology",
+   "network",
+   "nodes",
+   "loop"
+  ]
+ },
+ {
+  "name": "topology-star",
+  "category": "Development",
+  "tags": [
+   "star topology",
+   "network",
+   "hub",
+   "nodes"
+  ]
+ },
+ {
+  "name": "topology-star-ring",
+  "category": "Development",
+  "tags": [
+   "star ring topology",
+   "network",
+   "hub",
+   "loop"
+  ]
+ },
+ {
+  "name": "topology-tree",
+  "category": "Development",
+  "tags": [
+   "hierarchy topology",
+   "network",
+   "tree",
+   "nodes"
+  ]
+ },
+ {
   "name": "tornado",
   "category": "Weather",
   "tags": [
@@ -14590,6 +22879,17 @@
    "cyclone",
    "weather",
    "hurricane"
+  ]
+ },
+ {
+  "name": "touchpad",
+  "category": "Devices",
+  "tags": [
+   "trackpad",
+   "touchpad",
+   "laptop",
+   "input",
+   "laptop mouse"
   ]
  },
  {
@@ -14685,6 +22985,16 @@
   ]
  },
  {
+  "name": "translate-slash",
+  "category": "Editor",
+  "tags": [
+   "translate",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "trapezoid",
   "category": "Design",
   "tags": [
@@ -14744,6 +23054,17 @@
    "sitemap",
    "org chart",
    "structure"
+  ]
+ },
+ {
+  "name": "tree-structure-slash",
+  "category": "Development",
+  "tags": [
+   "tree structure",
+   "off",
+   "disabled",
+   "hidden",
+   "tree"
   ]
  },
  {
@@ -14959,6 +23280,37 @@
   ]
  },
  {
+  "name": "usb-drive",
+  "category": "Devices",
+  "tags": [
+   "flash drive",
+   "thumb drive",
+   "usb stick",
+   "storage",
+   "usb drive"
+  ]
+ },
+ {
+  "name": "usb-plug",
+  "category": "Devices",
+  "tags": [
+   "usb plug",
+   "cable",
+   "connector",
+   "usb"
+  ]
+ },
+ {
+  "name": "usb-port",
+  "category": "Devices",
+  "tags": [
+   "usb port",
+   "micro usb",
+   "mini usb",
+   "connector"
+  ]
+ },
+ {
   "name": "user",
   "category": "People",
   "tags": [
@@ -14988,6 +23340,15 @@
    "avatar",
    "person",
    "login"
+  ]
+ },
+ {
+  "name": "user-code",
+  "category": "Development",
+  "tags": [
+   "developer",
+   "programmer",
+   "coder"
   ]
  },
  {
@@ -15040,6 +23401,45 @@
    "team",
    "group",
    "community"
+  ]
+ },
+ {
+  "name": "variable",
+  "category": "Development",
+  "tags": [
+   "variable",
+   "x",
+   "code",
+   "math"
+  ]
+ },
+ {
+  "name": "variable-minus",
+  "category": "Development",
+  "tags": [
+   "variable",
+   "remove",
+   "subtract"
+  ]
+ },
+ {
+  "name": "variable-plus",
+  "category": "Development",
+  "tags": [
+   "variable",
+   "add",
+   "new",
+   "create"
+  ]
+ },
+ {
+  "name": "variable-slash",
+  "category": "Development",
+  "tags": [
+   "variable",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -15113,6 +23513,37 @@
   ]
  },
  {
+  "name": "versions",
+  "category": "Development",
+  "tags": [
+   "versions",
+   "history",
+   "stack",
+   "layers"
+  ]
+ },
+ {
+  "name": "versions-slash",
+  "category": "Development",
+  "tags": [
+   "versions",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
+  "name": "vibrate",
+  "category": "Devices",
+  "tags": [
+   "vibrate",
+   "silent mode",
+   "phone",
+   "shake",
+   "vibration"
+  ]
+ },
+ {
   "name": "video-camera",
   "category": "Media",
   "tags": [
@@ -15173,6 +23604,35 @@
   ]
  },
  {
+  "name": "visor",
+  "category": "Devices",
+  "tags": [
+   "ar visor",
+   "headset",
+   "smart glasses"
+  ]
+ },
+ {
+  "name": "vocabulary",
+  "category": "Education",
+  "tags": [
+   "vocabulary",
+   "dictionary",
+   "words",
+   "language"
+  ]
+ },
+ {
+  "name": "vocabulary-slash",
+  "category": "Education",
+  "tags": [
+   "vocabulary",
+   "off",
+   "disabled",
+   "hidden"
+  ]
+ },
+ {
   "name": "voice",
   "category": "Communication",
   "tags": [
@@ -15200,6 +23660,38 @@
    "recording",
    "answering machine",
    "tape"
+  ]
+ },
+ {
+  "name": "vr-headset",
+  "category": "Devices",
+  "tags": [
+   "vr",
+   "virtual reality",
+   "headset",
+   "goggles",
+   "vr headset"
+  ]
+ },
+ {
+  "name": "vr-headset-slash",
+  "category": "Devices",
+  "tags": [
+   "vr headset",
+   "disabled",
+   "off",
+   "vr",
+   "virtual reality"
+  ]
+ },
+ {
+  "name": "vr-space",
+  "category": "Devices",
+  "tags": [
+   "virtual space",
+   "vr",
+   "metaverse",
+   "3d"
   ]
  },
  {
@@ -15306,6 +23798,236 @@
   ]
  },
  {
+  "name": "watch-arrow-down",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "decrease",
+   "download",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-arrow-up",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "increase",
+   "upload",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-check",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "done",
+   "approved",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-code",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "developer",
+   "code",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-currency-dollar",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "money",
+   "price",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-digital",
+  "category": "Devices",
+  "tags": [
+   "digital watch",
+   "smartwatch",
+   "time",
+   "wrist"
+  ]
+ },
+ {
+  "name": "watch-gear",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "settings",
+   "configure",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-heart",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "favorite",
+   "like",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-lightning",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "fast",
+   "power",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-magnifying-glass",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "search",
+   "find",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-minus",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "remove",
+   "subtract",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-pause",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "paused",
+   "hold",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-plus",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "add",
+   "new",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-push-pin",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "pinned",
+   "pin",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-question",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "help",
+   "unknown",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-share",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "share",
+   "send",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-slash",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "disabled",
+   "off",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-star",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "favorite",
+   "starred",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-stats",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "statistics",
+   "activity",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-warning",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "warning",
+   "error",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
+  "name": "watch-x",
+  "category": "Devices",
+  "tags": [
+   "watch",
+   "remove",
+   "cancel",
+   "smartwatch",
+   "wearable"
+  ]
+ },
+ {
   "name": "waves",
   "category": "Weather",
   "tags": [
@@ -15324,6 +24046,37 @@
    "video call",
    "meeting",
    "stream"
+  ]
+ },
+ {
+  "name": "webcam-slash",
+  "category": "Devices",
+  "tags": [
+   "camera off",
+   "video off",
+   "privacy",
+   "webcam",
+   "disabled"
+  ]
+ },
+ {
+  "name": "webhook",
+  "category": "Development",
+  "tags": [
+   "webhook",
+   "integration",
+   "callback",
+   "api"
+  ]
+ },
+ {
+  "name": "webhook-slash",
+  "category": "Development",
+  "tags": [
+   "webhook",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {
@@ -15358,6 +24111,61 @@
   ]
  },
  {
+  "name": "wifi-high",
+  "category": "Devices",
+  "tags": [
+   "strong wifi",
+   "signal",
+   "wireless",
+   "wifi 3 bars",
+   "good signal"
+  ]
+ },
+ {
+  "name": "wifi-lock",
+  "category": "Devices",
+  "tags": [
+   "secured network",
+   "password wifi",
+   "private",
+   "secure wifi",
+   "password"
+  ]
+ },
+ {
+  "name": "wifi-low",
+  "category": "Devices",
+  "tags": [
+   "weak wifi",
+   "signal",
+   "wireless",
+   "weak signal",
+   "wifi 1 bar"
+  ]
+ },
+ {
+  "name": "wifi-medium",
+  "category": "Devices",
+  "tags": [
+   "wifi",
+   "signal",
+   "wireless",
+   "weak signal",
+   "medium"
+  ]
+ },
+ {
+  "name": "wifi-none",
+  "category": "Devices",
+  "tags": [
+   "no wifi",
+   "disconnected",
+   "wireless",
+   "wifi 0 bars",
+   "no signal"
+  ]
+ },
+ {
   "name": "wifi-question",
   "category": "Communication",
   "tags": [
@@ -15375,6 +24183,28 @@
    "no internet",
    "disconnected",
    "wireless off"
+  ]
+ },
+ {
+  "name": "wifi-warning",
+  "category": "Devices",
+  "tags": [
+   "weak connection",
+   "network problem",
+   "wifi alert",
+   "connection problem",
+   "wifi"
+  ]
+ },
+ {
+  "name": "wifi-x",
+  "category": "Devices",
+  "tags": [
+   "wifi error",
+   "no connection",
+   "wifi",
+   "x",
+   "wireless"
   ]
  },
  {
@@ -15400,12 +24230,31 @@
   ]
  },
  {
+  "name": "wireless-charging",
+  "category": "Devices",
+  "tags": [
+   "wireless charging",
+   "qi",
+   "charge",
+   "pad"
+  ]
+ },
+ {
   "name": "wolf",
   "category": "Animals",
   "tags": [
    "wild animal",
    "wolf",
    "canine"
+  ]
+ },
+ {
+  "name": "workstation",
+  "category": "Devices",
+  "tags": [
+   "workstation",
+   "pc",
+   "desktop tower"
   ]
  },
  {
@@ -15417,6 +24266,26 @@
    "repair",
    "fix",
    "spanner"
+  ]
+ },
+ {
+  "name": "writing",
+  "category": "Editor",
+  "tags": [
+   "writing",
+   "pen",
+   "notes",
+   "write"
+  ]
+ },
+ {
+  "name": "writing-slash",
+  "category": "Editor",
+  "tags": [
+   "writing",
+   "off",
+   "disabled",
+   "hidden"
   ]
  },
  {

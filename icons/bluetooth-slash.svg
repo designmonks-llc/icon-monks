@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="bluetooth off,disabled,wireless,disconnect,disconnected">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 88 L176 168 L128 208 L128 48 L176 88 L80 168"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

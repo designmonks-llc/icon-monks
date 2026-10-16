@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="keypad,number pad,dial pad,numpad,phone keypad">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="80" cy="56" r="18"/>
+    <circle cx="128" cy="56" r="18"/>
+    <circle cx="176" cy="56" r="18"/>
+    <circle cx="80" cy="104" r="18"/>
+    <circle cx="128" cy="104" r="18"/>
+    <circle cx="176" cy="104" r="18"/>
+    <circle cx="80" cy="152" r="18"/>
+    <circle cx="128" cy="152" r="18"/>
+    <circle cx="176" cy="152" r="18"/>
+    <circle cx="80" cy="200" r="18"/>
+    <circle cx="128" cy="200" r="18"/>
+    <circle cx="176" cy="200" r="18"/>
+  </g>
+</svg>

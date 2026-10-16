@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="antenna,transmitter,mast">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 116 L128 224"/>
+    <path d="M96 224 L160 224"/>
+    <path d="M164.48 63.4 A44 44 0 0 1 164.48 112.6"/>
+    <path d="M91.52 112.6 A44 44 0 0 1 91.52 63.4"/>
+    <path d="M197.64 41.03 A84 84 0 0 1 197.64 134.97"/>
+    <path d="M58.36 134.97 A84 84 0 0 1 58.36 41.03"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="88" r="16"/>
+  </g>
+</svg>

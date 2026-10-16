@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="wifi,signal,wireless,weak signal,medium">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104.86 176.42 A36 36 0 0 1 151.14 176.42"/>
+    <path d="M81.72 148.84 A72 72 0 0 1 174.28 148.84"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="204" r="16"/>
+    <circle cx="58.58" cy="121.27" r="7"/>
+    <circle cx="103.09" cy="98.91" r="7"/>
+    <circle cx="152.91" cy="98.91" r="7"/>
+    <circle cx="197.42" cy="121.27" r="7"/>
+    <circle cx="35.44" cy="93.69" r="7"/>
+    <circle cx="69.43" cy="72.45" r="7"/>
+    <circle cx="107.96" cy="61.4" r="7"/>
+    <circle cx="148.04" cy="61.4" r="7"/>
+    <circle cx="186.57" cy="72.45" r="7"/>
+    <circle cx="220.56" cy="93.69" r="7"/>
+  </g>
+</svg>

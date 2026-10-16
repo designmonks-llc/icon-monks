@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="find replace,off,disabled,hidden,find">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M183.79 117.5 A72 72 0 0 1 162.91 162.91 A72 72 0 0 1 117.5 183.79"/>
+    <path d="M54.83 155.76 A72 72 0 0 1 155.76 54.83"/>
+    <path d="M163 163 L216 216"/>
+    <path d="M208 48 L48 208"/>
+    <path d="M82.56 129 A34 34 0 0 1 126.37 81.19"/>
+    <path d="M109.45 87.34 L126.37 81.19 L120.21 64.27"/>
+  </g>
+</svg>

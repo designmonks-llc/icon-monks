@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="bookmarked book,reading,book,saved,bookmark">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 200 V56 A24 24 0 0 1 72 32 H208 V224 H72 A24 24 0 0 1 48 200 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M136 40 V112 L156 96 L176 112 V40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 200 V56 A24 24 0 0 1 72 32 H208 V224 H72 A24 24 0 0 1 48 200 Z"/>
+    <path d="M136 32 V112 L156 96 L176 112 V32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 200 A24 24 0 0 1 72 176 H208"/>
+  </g>
+</svg>

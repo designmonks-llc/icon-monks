@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="no wifi,disconnected,wireless,wifi 0 bars,no signal">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="204" r="16"/>
+    <circle cx="104.86" cy="176.42" r="7"/>
+    <circle cx="151.14" cy="176.42" r="7"/>
+    <circle cx="81.72" cy="148.84" r="7"/>
+    <circle cx="128" cy="132" r="7"/>
+    <circle cx="174.28" cy="148.84" r="7"/>
+    <circle cx="58.58" cy="121.27" r="7"/>
+    <circle cx="103.09" cy="98.91" r="7"/>
+    <circle cx="152.91" cy="98.91" r="7"/>
+    <circle cx="197.42" cy="121.27" r="7"/>
+    <circle cx="35.44" cy="93.69" r="7"/>
+    <circle cx="69.43" cy="72.45" r="7"/>
+    <circle cx="107.96" cy="61.4" r="7"/>
+    <circle cx="148.04" cy="61.4" r="7"/>
+    <circle cx="186.57" cy="72.45" r="7"/>
+    <circle cx="220.56" cy="93.69" r="7"/>
+  </g>
+</svg>

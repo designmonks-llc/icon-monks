@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="holding phone,hand,mobile,phone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 112 V48 A16 16 0 0 1 104 32 H168 A16 16 0 0 1 184 48 V176 A16 16 0 0 1 168 192 H108 V132 A18 18 0 0 0 88 114 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 112 V48 A16 16 0 0 1 104 32 H168 A16 16 0 0 1 184 48 V176 A16 16 0 0 1 168 192 H120"/>
+    <path d="M72 224 V132 A18 18 0 0 1 108 132 V176"/>
+    <path d="M184 100 H196 A16 16 0 0 1 196 132 H184 M184 132 H196 A16 16 0 0 1 196 164 H184"/>
+    <path d="M196 164 C204 188 192 208 176 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 64 L152 64"/>
+  </g>
+</svg>

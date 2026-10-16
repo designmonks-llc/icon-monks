@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device tablet,favorite,starred,tablet,ipad">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208 125.77 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H130.68 A66 66 0 0 1 208 125.77 Z"/>
+    <path d="M186 155 L195.4 178.06 L220.24 179.88 L201.22 195.94 L207.16 220.12 L186 207 L164.84 220.12 L170.78 195.94 L151.76 179.88 L176.6 178.06 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 125.77 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H130.68"/>
+    <path d="M186 155 L195.4 178.06 L220.24 179.88 L201.22 195.94 L207.16 220.12 L186 207 L164.84 220.12 L170.78 195.94 L151.76 179.88 L176.6 178.06 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+</svg>

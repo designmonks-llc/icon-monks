@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="smiley,pin,pinned">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M141.16 223.09 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.09 141.16 A58 58 0 0 0 141.16 223.09 Z"/>
+    <path d="M193.87 153.27 L210.5 167.23 L202.14 172.36 L192.18 184.24 L190.91 207.46 L157.65 179.55 L180.3 174.27 L190.27 162.39 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M141.16 223.09 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.09 141.16"/>
+    <path d="M193.87 153.27 L210.5 167.23 L202.14 172.36 L192.18 184.24 L190.91 207.46 L157.65 179.55 L180.3 174.27 L190.27 162.39 Z"/>
+    <path d="M174.28 193.51 L156.34 214.89"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 136 A40 40 0 0 0 144 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="96" r="16"/>
+    <circle cx="140" cy="96" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="network error,disconnected,network,offline,no network">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="56" r="24"/>
+    <circle cx="52" cy="200" r="20"/>
+    <circle cx="128" cy="200" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="56" r="24"/>
+    <path d="M128 80 L128 128"/>
+    <path d="M52 128 L204 128"/>
+    <path d="M52 128 L52 180"/>
+    <path d="M128 128 L128 180"/>
+    <path d="M204 128 L204 144"/>
+    <path d="M186 180 L222 216"/>
+    <path d="M222 180 L186 216"/>
+    <circle cx="52" cy="200" r="20"/>
+    <circle cx="128" cy="200" r="20"/>
+  </g>
+</svg>

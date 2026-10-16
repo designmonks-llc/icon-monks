@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="polyhedron,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L220 120 L128 224 L36 120 Z"/>
+    <path d="M36 120 L110 150 L220 120"/>
+    <path d="M128 32 L110 150"/>
+    <path d="M110 150 L128 224"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

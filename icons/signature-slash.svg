@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="signature,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125.42 112.15 L184.47 53.09 A17.28 17.28 0 0 1 208.91 77.53 L149.85 136.58 L109.12 152.88 Z"/>
+    <path d="M180.4 57.16 L164.11 40.87 L129.49 75.49"/>
+    <path d="M125.42 112.15 L149.85 136.58"/>
+    <path d="M32 208 L224 208"/>
+    <path d="M36 172 C48 140 72 144 68 168 C64 192 88 184 109.12 152.88"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="bus topology,network,nodes,line">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="64" r="22"/>
+    <circle cx="128" cy="192" r="22"/>
+    <circle cx="192" cy="64" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L224 128"/>
+    <path d="M64 128 L64 86"/>
+    <path d="M128 128 L128 170"/>
+    <path d="M192 128 L192 86"/>
+    <circle cx="64" cy="64" r="22"/>
+    <circle cx="128" cy="192" r="22"/>
+    <circle cx="192" cy="64" r="22"/>
+  </g>
+</svg>

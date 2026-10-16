@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ram,memory,chip,hardware,stick">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="64" width="192" height="104" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="64" width="192" height="104" rx="14"/>
+    <path d="M64 168 L64 192"/>
+    <path d="M96 168 L96 192"/>
+    <path d="M160 168 L160 192"/>
+    <path d="M192 168 L192 192"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="92" width="48" height="44" rx="6"/>
+    <rect x="144" y="92" width="48" height="44" rx="6"/>
+  </g>
+</svg>

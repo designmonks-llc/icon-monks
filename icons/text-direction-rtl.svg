@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="right to left,text direction,rtl,paragraph,writing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M140 40 H116 A40 40 0 0 0 116 120 H140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 40 H116 A40 40 0 0 0 116 120 H140"/>
+    <path d="M140 40 L140 144"/>
+    <path d="M180 40 L180 144"/>
+    <path d="M48 200 L208 200"/>
+    <path d="M68 180 L48 200 L68 220"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="chalkboard,disabled,off,education">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="128" rx="14"/>
+    <path d="M88 168 L64 224"/>
+    <path d="M168 168 L192 224"/>
+    <path d="M68 128 C80 96 92 88 100 104 C108 120 120 120 136 84"/>
+    <path d="M164 96 L188 96"/>
+    <path d="M164 128 L188 128"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

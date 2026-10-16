@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="columns,disabled,off,editor">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M85.5 40 L100 40 A12 12 0 0 1 112 52 L112 66.5"/>
+    <path d="M112 157.5 L112 204 A12 12 0 0 1 100 216 L52 216 A12 12 0 0 1 40 204 L40 85.5"/>
+    <path d="M144 98.5 L144 52 A12 12 0 0 1 156 40 L204 40 A12 12 0 0 1 216 52 L216 170.5"/>
+    <path d="M170.5 216 L156 216 A12 12 0 0 1 144 204 L144 189.5"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

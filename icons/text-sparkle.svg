@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="ai writing,generate text,magic,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M176 124 C179.83 154.67 191.33 166.17 222 170 C191.33 173.83 179.83 185.33 176 216 C172.17 185.33 160.67 173.83 130 170 C160.67 166.17 172.17 154.67 176 124 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 68 L40 48 L160 48 L160 68"/>
+    <path d="M100 48 L100 208"/>
+    <path d="M72 208 L128 208"/>
+    <path d="M176 124 C179.83 154.67 191.33 166.17 222 170 C191.33 173.83 179.83 185.33 176 216 C172.17 185.33 160.67 173.83 130 170 C160.67 166.17 172.17 154.67 176 124 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="repair,it support,maintenance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M126.17 168 L64 168 A12 12 0 0 1 52 156 L52 68 A12 12 0 0 1 64 56 L192 56 A12 12 0 0 1 204 68 L204 127.43 A60 60 0 0 0 126.17 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126.17 168 L64 168 A12 12 0 0 1 52 156 L52 68 A12 12 0 0 1 64 56 L192 56 A12 12 0 0 1 204 68 L204 127.43"/>
+    <path d="M28 196 L125.21 196"/>
+    <path d="M211.73 177.13 A18 18 0 1 1 190.87 156.27"/>
+    <path d="M181.27 186.73 L158 210"/>
+  </g>
+</svg>

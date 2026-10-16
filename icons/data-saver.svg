@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="data saver,save data,usage,mobile">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163.79 47.61 A88 88 0 1 1 92.21 47.61"/>
+    <path d="M128 92 L128 164"/>
+    <path d="M92 128 L164 128"/>
+  </g>
+</svg>

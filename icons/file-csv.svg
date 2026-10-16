@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="csv,data,spreadsheet,file type,data file">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 120 V32 H152 L200 80 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 120 V32 H152 L200 80 V120"/>
+    <path d="M83.91 171.84 A18 18 0 0 0 49 178 V198 A18 18 0 0 0 83.91 204.16"/>
+    <path d="M143 160 H119 A14 14 0 0 0 119 188 H129 A14 14 0 0 1 129 216 H105"/>
+    <path d="M163 160 L185 216 L207 160"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

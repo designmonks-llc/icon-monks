@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="phone repair,mobile service,fix,phone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M184 120.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H132.04 A66 66 0 0 1 184 120.03 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 120.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H132.04"/>
+    <path d="M217.86 175.32 A19 19 0 1 1 196.68 154.14"/>
+    <path d="M185.56 186.44 L156 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="border,table,inner,horizontal,cells">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 128 L216 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="40" cy="40" r="14"/>
+    <circle cx="84" cy="40" r="14"/>
+    <circle cx="128" cy="40" r="14"/>
+    <circle cx="172" cy="40" r="14"/>
+    <circle cx="216" cy="40" r="14"/>
+    <circle cx="40" cy="216" r="14"/>
+    <circle cx="84" cy="216" r="14"/>
+    <circle cx="128" cy="216" r="14"/>
+    <circle cx="172" cy="216" r="14"/>
+    <circle cx="216" cy="216" r="14"/>
+    <circle cx="40" cy="84" r="14"/>
+    <circle cx="40" cy="172" r="14"/>
+    <circle cx="216" cy="84" r="14"/>
+    <circle cx="216" cy="172" r="14"/>
+    <circle cx="128" cy="84" r="14"/>
+    <circle cx="128" cy="172" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="battery,high charge,power,charge,mostly full">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="168" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="168" height="112" rx="16"/>
+    <path d="M224 108 L224 148"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 104 L64 152"/>
+    <path d="M96 104 L96 152"/>
+    <path d="M128 104 L128 152"/>
+  </g>
+</svg>

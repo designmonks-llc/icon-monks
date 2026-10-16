@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="bmp,image,file type,extension,file bmp">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 120 V32 H152 L200 80 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 120 V32 H152 L200 80 V120"/>
+    <path d="M47 185.76 H67.88 A15.12 15.12 0 0 1 67.88 216 H47 V160 H66.12 A12.88 12.88 0 0 1 66.12 185.76"/>
+    <path d="M105 216 L105 160 L129 194.72 L153 160 L153 216"/>
+    <path d="M173 216 V160 H192.76 A16.24 16.24 0 0 1 192.76 192.48 H173"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

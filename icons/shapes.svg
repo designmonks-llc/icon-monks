@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="shapes,interests,circle square triangle,geometry,square circle triangle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L170 104 L86 104 Z"/>
+    <circle cx="72" cy="180" r="40"/>
+    <rect x="144" y="140" width="80" height="80" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L170 104 L86 104 Z"/>
+    <circle cx="72" cy="180" r="40"/>
+    <rect x="144" y="140" width="80" height="80" rx="12"/>
+  </g>
+</svg>

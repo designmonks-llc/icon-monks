@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="modem,internet,router,network">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="192" height="96" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="192" height="96" rx="16"/>
+    <path d="M64 168 L64 188"/>
+    <path d="M192 168 L192 188"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="120" r="12"/>
+    <circle cx="112" cy="120" r="12"/>
+    <circle cx="144" cy="120" r="12"/>
+    <circle cx="176" cy="120" r="12"/>
+  </g>
+</svg>

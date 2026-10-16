@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="webhook,integration,callback,api">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="62" r="22"/>
+    <circle cx="200.75" cy="188" r="22"/>
+    <circle cx="55.25" cy="188" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="62" r="22"/>
+    <circle cx="200.75" cy="188" r="22"/>
+    <circle cx="55.25" cy="188" r="22"/>
+    <path d="M140 82.78 A64.34 64.34 0 0 0 188.75 167.22"/>
+    <path d="M176.75 188 A64.34 64.34 0 0 0 79.25 188"/>
+    <path d="M67.25 167.22 A64.34 64.34 0 0 0 116 82.78"/>
+  </g>
+</svg>

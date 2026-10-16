@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="digital watch,smartwatch,time,wrist">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="72" width="128" height="112" rx="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="72" width="128" height="112" rx="24"/>
+    <path d="M96 72 L104 32 L152 32 L160 72"/>
+    <path d="M96 184 L104 224 L152 224 L160 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 114 L112 104 L112 152"/>
+    <path d="M132.84 113.21 A14 14 0 1 1 157.47 126.03 L132 152 H160"/>
+  </g>
+</svg>

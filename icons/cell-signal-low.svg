@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="weak signal,reception,cellular,1 bar,low signal">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 208 L56 168"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="104" cy="208" r="10.67"/>
+    <circle cx="152" cy="208" r="10.67"/>
+    <circle cx="200" cy="208" r="10.67"/>
+  </g>
+</svg>

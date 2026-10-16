@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="dual screen,monitors,multi-monitor">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 136 L46 136 A14 14 0 0 1 32 122 L32 54 A14 14 0 0 1 46 40 L162 40 A14 14 0 0 1 176 54 L176 56 L94 56 A46 46 0 0 0 48 102 Z"/>
+    <rect x="80" y="88" width="144" height="96" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 136 L46 136 A14 14 0 0 1 32 122 L32 54 A14 14 0 0 1 46 40 L162 40 A14 14 0 0 1 176 54 L176 56"/>
+    <rect x="80" y="88" width="144" height="96" rx="14"/>
+    <path d="M152 184 L152 208"/>
+    <path d="M120 208 L184 208"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="vocabulary,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 C108 56 76 48 32 52 V196 C76 192 108 200 128 216 C148 200 180 192 224 196 V52 C180 48 148 56 128 72 Z"/>
+    <path d="M128 72 L128 216"/>
+    <path d="M58 160 L80 92 L102 160"/>
+    <path d="M64.47 140 L95.53 140"/>
+    <path d="M156 104 L192 104"/>
+    <path d="M156 144 L192 144"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

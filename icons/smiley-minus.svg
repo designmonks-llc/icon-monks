@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="smiley,remove,subtract">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M150.68 221.28 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 221.28 150.68 A50 50 0 1 0 150.68 221.28 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150.68 221.28 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 221.28 150.68"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 136 A40 40 0 0 0 144 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="96" r="16"/>
+    <circle cx="140" cy="96" r="16"/>
+  </g>
+</svg>

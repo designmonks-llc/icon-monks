@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="one to one,database,relation,er diagram">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L224 128"/>
+    <path d="M64 88 L64 168"/>
+    <path d="M96 88 L96 168"/>
+    <path d="M192 88 L192 168"/>
+    <path d="M160 88 L160 168"/>
+  </g>
+</svg>

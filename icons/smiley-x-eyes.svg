@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="dead,knocked out,dizzy,x eyes,emoji">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82 90 L110 118"/>
+    <path d="M110 90 L82 118"/>
+    <path d="M146 90 L174 118"/>
+    <path d="M174 90 L146 118"/>
+    <path d="M100 168 L156 168"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="exponent,power,superscript,math">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 96 L140 200"/>
+    <path d="M140 96 L36 200"/>
+    <path d="M168 40 L196 84"/>
+    <path d="M220 40 L176 128"/>
+  </g>
+</svg>

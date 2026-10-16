@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="clipboard copy,clipboard,paste,board,copy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 48 H192 A16 16 0 0 1 208 64 V92 H134 A42 42 0 0 0 92 134 V224 H64 A16 16 0 0 1 48 208 V64 A16 16 0 0 1 64 48 Z"/>
+    <rect x="120" y="120" width="104" height="104" rx="14"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <rect x="96" y="40" width="64" height="24" rx="4"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 224 H64 A16 16 0 0 1 48 208 V64 A16 16 0 0 1 64 48 H88"/>
+    <path d="M168 48 H192 A16 16 0 0 1 208 64 V84"/>
+    <rect x="88" y="32" width="80" height="40" rx="10"/>
+    <rect x="120" y="120" width="104" height="104" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 156 L192 156"/>
+    <path d="M152 188 L176 188"/>
+  </g>
+</svg>

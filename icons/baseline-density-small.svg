@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="baseline density small,baseline,typography,text,density">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 48 L216 48"/>
+    <path d="M104 88 L216 88"/>
+    <path d="M104 128 L216 128"/>
+    <path d="M104 168 L216 168"/>
+    <path d="M104 208 L216 208"/>
+    <path d="M56 48 L56 208"/>
+    <path d="M36 68 L56 48 L76 68"/>
+    <path d="M36 188 L56 208 L76 188"/>
+  </g>
+</svg>

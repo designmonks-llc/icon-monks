@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ssd,nvme,storage,drive,solid state drive">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 80 H212 A12 12 0 0 1 224 92 V108 A20 20 0 0 0 224 148 V164 A12 12 0 0 1 212 176 H44 A12 12 0 0 1 32 164 V92 A12 12 0 0 1 44 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 80 H212 A12 12 0 0 1 224 92 V108 A20 20 0 0 0 224 148 V164 A12 12 0 0 1 212 176 H44 A12 12 0 0 1 32 164 V92 A12 12 0 0 1 44 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="108" width="40" height="40" rx="8"/>
+    <rect x="136" y="108" width="40" height="40" rx="8"/>
+  </g>
+</svg>

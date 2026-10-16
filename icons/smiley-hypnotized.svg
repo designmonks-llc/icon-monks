@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="hypnotized,dazed,emoji,spiral">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <ellipse cx="128" cy="174" rx="18" ry="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M86 104 A11 11 0 0 1 108 104 A22 22 0 1 1 70.44 88.44"/>
+    <path d="M162 104 A11 11 0 0 1 184 104 A22 22 0 1 1 146.44 88.44"/>
+    <ellipse cx="128" cy="174" rx="18" ry="20"/>
+  </g>
+</svg>

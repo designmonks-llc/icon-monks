@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="qr code,off,disabled,hidden,qr">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="72" height="72" rx="10"/>
+    <rect x="152" y="32" width="72" height="72" rx="10"/>
+    <rect x="32" y="152" width="72" height="72" rx="10"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="188" cy="68" r="16"/>
+    <circle cx="68" cy="188" r="16"/>
+    <circle cx="212" cy="164" r="16"/>
+    <circle cx="164" cy="212" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="knob,dial,potentiometer,volume">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="140" r="72"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="140" r="72"/>
+    <path d="M48.33 94 L37.93 88"/>
+    <path d="M82 60.33 L76 49.93"/>
+    <path d="M128 48 L128 36"/>
+    <path d="M174 60.33 L180 49.93"/>
+    <path d="M207.67 94 L218.07 88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 122.68 L106 101.89"/>
+  </g>
+</svg>

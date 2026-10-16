@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="angle brackets,html,xml,tag">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 48 L40 128 L96 208"/>
+    <path d="M160 48 L216 128 L160 208"/>
+  </g>
+</svg>

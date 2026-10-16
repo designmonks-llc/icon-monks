@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="scroll,history,parchment,document,ancient">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="32" width="176" height="40" rx="20"/>
+    <rect x="40" y="184" width="176" height="40" rx="20"/>
+    <rect x="64" y="52" width="128" height="152"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="32" width="176" height="40" rx="20"/>
+    <rect x="40" y="184" width="176" height="40" rx="20"/>
+    <path d="M64 72 L64 184"/>
+    <path d="M192 72 L192 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 112 L160 112"/>
+    <path d="M96 144 L144 144"/>
+  </g>
+</svg>

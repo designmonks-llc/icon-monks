@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="merge cells,table,combine,spreadsheet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 L224 96"/>
+    <path d="M128 40 L128 96"/>
+    <path d="M60 156 L108 156"/>
+    <path d="M88.2 175.8 L108 156 L88.2 136.2"/>
+    <path d="M196 156 L148 156"/>
+    <path d="M167.8 136.2 L148 156 L167.8 175.8"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="d-pad,directional pad,gaming,controller,gamepad">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 46 A14 14 0 0 1 102 32 L154 32 A14 14 0 0 1 168 46 L168 88 L210 88 A14 14 0 0 1 224 102 L224 154 A14 14 0 0 1 210 168 L168 168 L168 210 A14 14 0 0 1 154 224 L102 224 A14 14 0 0 1 88 210 L88 168 L46 168 A14 14 0 0 1 32 154 L32 102 A14 14 0 0 1 46 88 L88 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 46 A14 14 0 0 1 102 32 L154 32 A14 14 0 0 1 168 46 L168 88 L210 88 A14 14 0 0 1 224 102 L224 154 A14 14 0 0 1 210 168 L168 168 L168 210 A14 14 0 0 1 154 224 L102 224 A14 14 0 0 1 88 210 L88 168 L46 168 A14 14 0 0 1 32 154 L32 102 A14 14 0 0 1 46 88 L88 88 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 55 L136 67 L120 67 Z"/>
+    <path d="M201 128 L189 136 L189 120 Z"/>
+    <path d="M128 201 L120 189 L136 189 Z"/>
+    <path d="M55 128 L67 120 L67 136 Z"/>
+  </g>
+</svg>

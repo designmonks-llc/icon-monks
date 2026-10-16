@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="reader,reading,student">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 136 C108 120 76 112 32 116 V196 C76 192 108 200 128 216 C148 200 180 192 224 196 V116 C180 112 148 120 128 136 Z"/>
+    <circle cx="128" cy="64" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 136 C108 120 76 112 32 116 V196 C76 192 108 200 128 216 C148 200 180 192 224 196 V116 C180 112 148 120 128 136 Z"/>
+    <circle cx="128" cy="64" r="28"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 136 L128 216"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="m4p,audio,music,file type">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M34 224 L34 164 L58 201.2 L82 164 L82 224"/>
+    <path d="M130.8 164 L114 202.4 L154 202.4"/>
+    <path d="M143.6 185.6 L143.6 224"/>
+    <path d="M186 224 V164 H205.2 A16.8 16.8 0 0 1 205.2 197.6 H186"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

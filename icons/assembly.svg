@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="assembly,build,module,package">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L211.14 80 L211.14 176 L128 224 L44.86 176 L44.86 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L211.14 80 L211.14 176 L128 224 L44.86 176 L44.86 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M123 82.89 A10 10 0 0 1 133 82.89 L164.57 101.11 A10 10 0 0 1 169.57 109.77 L169.57 146.23 A10 10 0 0 1 164.57 154.89 L133 173.11 A10 10 0 0 1 123 173.11 L91.43 154.89 A10 10 0 0 1 86.43 146.23 L86.43 109.77 A10 10 0 0 1 91.43 101.11 L123 82.89 Z"/>
+  </g>
+</svg>

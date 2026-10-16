@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="marker,highlight,mark,pen,emphasis">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M163.36 40.56 A12 12 0 0 1 180.33 40.56 L211.44 71.67 A12 12 0 0 1 211.44 88.64 L146.97 153.12 A4 4 0 0 1 145.62 154 L118.86 164.71 A4 4 0 0 0 117.52 165.59 L108.61 174.5 A4 4 0 0 1 104.38 175.42 L67.35 161.54 A4 4 0 0 1 65.92 154.96 L86.41 134.48 A4 4 0 0 0 87.29 133.14 L98 106.38 A4 4 0 0 1 98.88 105.03 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163.36 40.56 A12 12 0 0 1 180.33 40.56 L211.44 71.67 A12 12 0 0 1 211.44 88.64 L146.97 153.12 A4 4 0 0 1 145.62 154 L118.86 164.71 A4 4 0 0 0 117.52 165.59 L108.61 174.5 A4 4 0 0 1 104.38 175.42 L67.35 161.54 A4 4 0 0 1 65.92 154.96 L86.41 134.48 A4 4 0 0 0 87.29 133.14 L98 106.38 A4 4 0 0 1 98.88 105.03 Z"/>
+    <path d="M128 216 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.41 74.5 L177.5 122.59"/>
+  </g>
+</svg>

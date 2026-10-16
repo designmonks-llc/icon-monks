@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="left click,mouse,select,mouse button,primary click">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 136 H72 V88 A56 56 0 0 1 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="32" width="112" height="192" rx="56"/>
+    <path d="M128 32 L128 136"/>
+    <path d="M72 136 L184 136"/>
+  </g>
+</svg>

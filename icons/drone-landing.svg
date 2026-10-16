@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="drone,landing,quadcopter">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="96" y="64" width="64" height="40" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L96 48"/>
+    <path d="M160 48 L224 48"/>
+    <path d="M64 48 L64 84 L96 84"/>
+    <path d="M192 48 L192 84 L160 84"/>
+    <rect x="96" y="64" width="64" height="40" rx="12"/>
+    <path d="M128 140 L128 216"/>
+    <path d="M92 180 L128 216 L164 180"/>
+  </g>
+</svg>

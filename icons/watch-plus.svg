@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="watch,add,new,smartwatch,wearable">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M159.76 133.52 A64 64 0 1 0 128 183.42 A56 56 0 0 1 159.76 133.52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M159.76 133.52 A64 64 0 1 0 128 183.42"/>
+    <path d="M64 72.57 L72 32 L120 32 L128 72.57"/>
+    <path d="M64 183.43 L72 224 L120 224 L128 183.43"/>
+    <path d="M184 158 L184 210"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 100 L96 128 L116 140"/>
+  </g>
+</svg>

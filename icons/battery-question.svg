@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="battery unknown,status,power,battery">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="168" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="168" height="112" rx="16"/>
+    <path d="M224 108 L224 148"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M102 114 A14 14 0 1 1 126.72 123 L116 132"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="116" cy="156" r="10"/>
+  </g>
+</svg>

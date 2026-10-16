@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device tablet,warning,error,tablet,ipad">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208 119.1 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H137.09 A66 66 0 0 1 208 119.1 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 119.1 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H137.09"/>
+    <path d="M188 146 L188 188"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="188" cy="218" r="13"/>
+  </g>
+</svg>

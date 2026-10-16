@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="battery,ai,magic,power,charge">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M200 132.25 V88 A16 16 0 0 0 184 72 H48 A16 16 0 0 0 32 88 V168 A16 16 0 0 0 48 184 H130.22 A58 58 0 0 1 200 132.25 Z"/>
+    <path d="M188 154.44 C190.88 177.48 199.52 186.12 222.56 189 C199.52 191.88 190.88 200.52 188 223.56 C185.12 200.52 176.48 191.88 153.44 189 C176.48 186.12 185.12 177.48 188 154.44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 132.25 V88 A16 16 0 0 0 184 72 H48 A16 16 0 0 0 32 88 V168 A16 16 0 0 0 48 184 H130.22"/>
+    <path d="M224 108 L224 143.52"/>
+    <path d="M188 154.44 C190.88 177.48 199.52 186.12 222.56 189 C199.52 191.88 190.88 200.52 188 223.56 C185.12 200.52 176.48 191.88 153.44 189 C176.48 186.12 185.12 177.48 188 154.44 Z"/>
+  </g>
+</svg>

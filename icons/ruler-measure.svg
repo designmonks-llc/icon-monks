@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="measure,ruler,dimension,size">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="128" width="192" height="80" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="128" width="192" height="80" rx="12"/>
+    <path d="M40 64 L216 64"/>
+    <path d="M68 36 L40 64 L68 92"/>
+    <path d="M188 36 L216 64 L188 92"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 128 L72 160"/>
+    <path d="M112 128 L112 176"/>
+    <path d="M152 128 L152 160"/>
+    <path d="M192 128 L192 176"/>
+  </g>
+</svg>

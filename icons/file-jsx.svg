@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="jsx,code,component,file type,react component">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M73 164 V208 A16 16 0 0 1 41 208"/>
+    <path d="M143 164 H120 A15 15 0 0 0 120 194 H128 A15 15 0 0 1 128 224 H105"/>
+    <path d="M175 164 L215 224"/>
+    <path d="M215 164 L175 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

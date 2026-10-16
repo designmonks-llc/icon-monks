@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="add to selection,expand,marquee">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L40 40 L64 40"/>
+    <path d="M216 64 L216 40 L192 40"/>
+    <path d="M40 192 L40 216 L64 216"/>
+    <path d="M104 40 L152 40"/>
+    <path d="M40 104 L40 152"/>
+    <path d="M104 216 L136 216"/>
+    <path d="M216 104 L216 136"/>
+    <path d="M184 158 L184 210"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+</svg>

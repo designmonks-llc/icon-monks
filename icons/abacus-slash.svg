@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="abacus,disabled,off,education">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+    <path d="M32 96 L224 96"/>
+    <path d="M32 160 L224 160"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="76" cy="96" r="24"/>
+    <circle cx="120" cy="96" r="24"/>
+    <circle cx="180" cy="96" r="24"/>
+    <circle cx="76" cy="160" r="24"/>
+    <circle cx="136" cy="160" r="24"/>
+    <circle cx="180" cy="160" r="24"/>
+  </g>
+</svg>

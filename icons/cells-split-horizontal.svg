@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="split cells,table,divide,horizontal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 48 L128 208"/>
+    <path d="M100 128 L60 128"/>
+    <path d="M79.8 108.2 L60 128 L79.8 147.8"/>
+    <path d="M156 128 L196 128"/>
+    <path d="M176.2 147.8 L196 128 L176.2 108.2"/>
+  </g>
+</svg>

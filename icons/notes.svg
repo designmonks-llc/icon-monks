@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="sticky notes,stickies,memo,notes,note stack">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M94 80 H210 A14 14 0 0 1 224 94 V176 L176 224 H94 A14 14 0 0 1 80 210 V94 A14 14 0 0 1 94 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M94 80 H210 A14 14 0 0 1 224 94 V176 L176 224 H94 A14 14 0 0 1 80 210 V94 A14 14 0 0 1 94 80 Z"/>
+    <path d="M176 80 V46 A14 14 0 0 0 162 32 H46 A14 14 0 0 0 32 46 V162 A14 14 0 0 0 46 176 H80"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 176 H176 V224"/>
+  </g>
+</svg>

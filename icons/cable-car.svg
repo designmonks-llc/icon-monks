@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="cable car,ropeway,gondola,aerial lift,ski lift">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="96" width="144" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 L224 40"/>
+    <path d="M128 56 L128 96"/>
+    <rect x="56" y="96" width="144" height="112" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="124" width="88" height="40" rx="8"/>
+    <path d="M128 124 L128 164"/>
+  </g>
+</svg>

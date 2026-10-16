@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="invert selection,inverse,marquee">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M162.93 93.07 A10 10 0 0 1 180 100.14 L180 170 A10 10 0 0 1 170 180 L100.14 180 A10 10 0 0 1 93.07 162.93 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L40 40 L64 40"/>
+    <path d="M216 64 L216 40 L192 40"/>
+    <path d="M216 192 L216 216 L192 216"/>
+    <path d="M40 192 L40 216 L64 216"/>
+    <path d="M104 40 L152 40"/>
+    <path d="M104 216 L152 216"/>
+    <path d="M40 104 L40 152"/>
+    <path d="M216 104 L216 152"/>
+    <path d="M162.93 93.07 A10 10 0 0 1 180 100.14 L180 170 A10 10 0 0 1 170 180 L100.14 180 A10 10 0 0 1 93.07 162.93 Z"/>
+  </g>
+</svg>

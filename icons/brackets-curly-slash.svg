@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="brackets curly,disabled,off,brackets,code">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 40 L100 40 A20 20 0 0 0 82.13 51.02"/>
+    <path d="M78.9 110.01 C75.93 122 66.96 128 52 128 C70.67 128 80 137.33 80 156 L80 196 A20 20 0 0 0 100 216 L108 216"/>
+    <path d="M148 40 L156 40 A20 20 0 0 1 176 60 L176 100 C176 118.67 185.33 128 204 128 C189.04 128 180.07 134 177.1 145.99"/>
+    <path d="M173.87 204.98 A20 20 0 0 1 156 216 L148 216"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

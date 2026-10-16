@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="asset,resource,nodes,graph">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="100" y="32" width="56" height="56" rx="12"/>
+    <circle cx="64" cy="184" r="28"/>
+    <circle cx="192" cy="184" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="32" width="56" height="56" rx="12"/>
+    <circle cx="64" cy="184" r="28"/>
+    <circle cx="192" cy="184" r="28"/>
+    <path d="M113.5 88 L76.8 159.1"/>
+    <path d="M142.5 88 L179.2 159.1"/>
+    <path d="M92 184 L164 184"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="smiley,ai,magic,smart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M133.9 223.82 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.82 133.9 A64 64 0 0 0 133.9 223.82 Z"/>
+    <path d="M 184 149.44 C 186.88 172.48 195.52 181.12 218.56 184 C 195.52 186.88 186.88 195.52 184 218.56 C 181.12 195.52 172.48 186.88 149.44 184 C 172.48 181.12 181.12 172.48 184 149.44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133.9 223.82 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.82 133.9"/>
+    <path d="M 184 149.44 C 186.88 172.48 195.52 181.12 218.56 184 C 195.52 186.88 186.88 195.52 184 218.56 C 181.12 195.52 172.48 186.88 149.44 184 C 172.48 181.12 181.12 172.48 184 149.44 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 136 A40 40 0 0 0 144 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="96" r="16"/>
+    <circle cx="140" cy="96" r="16"/>
+  </g>
+</svg>

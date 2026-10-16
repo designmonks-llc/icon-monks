@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="resize text,scale,text box,font size">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="48" width="160" height="160"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 48"/>
+    <path d="M208 48 L208 208"/>
+    <path d="M208 208 L48 208"/>
+    <path d="M48 208 L48 48"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 92 L164 92"/>
+    <path d="M128 92 L128 168"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="48" r="20"/>
+    <circle cx="208" cy="48" r="20"/>
+    <circle cx="208" cy="208" r="20"/>
+    <circle cx="48" cy="208" r="20"/>
+  </g>
+</svg>

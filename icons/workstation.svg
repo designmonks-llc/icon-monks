@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="workstation,pc,desktop tower">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="108" height="92" rx="12"/>
+    <rect x="168" y="40" width="56" height="176" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="108" height="92" rx="12"/>
+    <path d="M86 164 L86 208"/>
+    <path d="M56 208 L116 208"/>
+    <rect x="168" y="40" width="56" height="176" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 80 L204 80"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="196" cy="180" r="12"/>
+  </g>
+</svg>

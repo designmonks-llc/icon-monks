@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="pop,stack,remove top,data structure">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 108 L224 148 L128 188 L32 148 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 108 L224 148 L128 188 L32 148 Z"/>
+    <path d="M32 184 L128 224 L224 184"/>
+    <path d="M128 80 L128 32"/>
+    <path d="M149.21 53.21 L128 32 L106.79 53.21"/>
+  </g>
+</svg>

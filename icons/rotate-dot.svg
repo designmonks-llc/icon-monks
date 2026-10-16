@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="rotate,pivot,transform,center">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M204 132 A76 76 0 1 1 181.74 78.26"/>
+    <path d="M137.74 78.26 L181.74 78.26 L181.74 34.26"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="132" r="16"/>
+  </g>
+</svg>

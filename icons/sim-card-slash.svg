@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="no sim,sim card,disabled,slash,sim missing">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 32 H152 L200 80 V208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 V48 A16 16 0 0 1 72 32 Z"/>
+    <rect x="92" y="116" width="72" height="76" rx="8"/>
+    <path d="M92 154 L164 154"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

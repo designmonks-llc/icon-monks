@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="copy,done,approved,duplicate,clone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144.81 224 H94 A14 14 0 0 1 80 210 V94 A14 14 0 0 1 94 80 H210 A14 14 0 0 1 224 94 V144.81 A56 56 0 1 0 144.81 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144.81 224 H94 A14 14 0 0 1 80 210 V94 A14 14 0 0 1 94 80 H210 A14 14 0 0 1 224 94 V144.81"/>
+    <path d="M176 80 V48 A16 16 0 0 0 160 32 H48 A16 16 0 0 0 32 48 V160 A16 16 0 0 0 48 176 H80"/>
+    <path d="M158 186 L176 204 L210 168"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="devices,add,new,responsive,multi-device">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124 L144 110 A46 46 0 0 0 98 64 Z"/>
+    <rect x="32" y="96" width="80" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124"/>
+    <rect x="32" y="96" width="80" height="128" rx="14"/>
+    <path d="M184 158 L184 210"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 128 L84 128"/>
+  </g>
+</svg>

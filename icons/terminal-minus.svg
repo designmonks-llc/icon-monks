@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="terminal,remove,console,minus">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 144.81 V62 A14 14 0 0 0 210 48 H46 A14 14 0 0 0 32 62 V194 A14 14 0 0 0 46 208 H133.4 A56 56 0 0 1 224 144.81 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 144.81 V62 A14 14 0 0 0 210 48 H46 A14 14 0 0 0 32 62 V194 A14 14 0 0 0 46 208 H133.4"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 104 L104 128 L72 152"/>
+    <path d="M120 152 L140 152"/>
+  </g>
+</svg>

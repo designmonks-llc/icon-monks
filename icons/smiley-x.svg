@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="smiley,remove,delete,cancel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M138.75 223.4 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.4 138.75 A60 60 0 0 0 138.75 223.4 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M138.75 223.4 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.4 138.75"/>
+    <path d="M166 166 L202 202"/>
+    <path d="M202 166 L166 202"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 136 A40 40 0 0 0 144 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="96" r="16"/>
+    <circle cx="140" cy="96" r="16"/>
+  </g>
+</svg>

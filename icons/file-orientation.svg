@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file orientation,document,page,file,orientation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 112 H96 L128 144 V224 H40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 112 H96 L128 144 V224 H40 Z"/>
+    <path d="M84 64 A104 104 0 0 1 188 168"/>
+    <path d="M212 144 L188 168 L164 144"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 112 V144 H128"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="anguish,distress,emoji,face">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M92 188 C92 164 108 156 128 156 C148 156 164 164 164 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 100 L108 84"/>
+    <path d="M180 100 L148 84"/>
+    <path d="M92 188 C92 164 108 156 128 156 C148 156 164 164 164 188 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="124" r="16"/>
+    <circle cx="160" cy="124" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="cloud desktop,monitor,remote,sync">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
+    <path d="M128 176 L128 208"/>
+    <path d="M88 208 L168 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M103 146 L151 146 A22 22 0 0 0 156.53 102.7 A30 30 0 0 0 97.02 106.91 A20 20 0 0 0 103 146 Z"/>
+  </g>
+</svg>

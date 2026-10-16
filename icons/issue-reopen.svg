@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="reopen,issue,ticket,tracker">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 150.78 A88 88 0 1 0 65.77 65.77"/>
+    <path d="M99.77 65.77 L65.77 65.77 L65.77 33.77"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="128" r="24"/>
+  </g>
+</svg>

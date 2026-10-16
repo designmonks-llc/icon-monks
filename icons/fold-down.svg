@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="fold down,collapse,arrow,line">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 208 L216 208"/>
+    <path d="M128 40 L128 160"/>
+    <path d="M99.72 131.72 L128 160 L156.28 131.72"/>
+  </g>
+</svg>

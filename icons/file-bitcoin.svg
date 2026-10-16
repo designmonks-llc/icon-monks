@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file,crypto,bitcoin,document,page">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144.81 224 H56 V32 H152 L200 80 V130.33 A56 56 0 0 0 144.81 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144.81 224 H56 V32 H152 L200 80 V130.33"/>
+    <path d="M166 158 H186 A13 13 0 0 1 186 184 H166"/>
+    <path d="M166 184 H188 A13 13 0 0 1 188 210 H166"/>
+    <path d="M166 158 L166 210"/>
+    <path d="M178 146 L178 158"/>
+    <path d="M178 210 L178 222"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

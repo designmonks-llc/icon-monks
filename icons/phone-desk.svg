@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="desk phone,landline,office phone,telephone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 L40 80 C40 56 80 40 128 40 C176 40 216 56 216 80 L208 112 H168 L160 84 C140 79 116 79 96 84 L88 112 Z"/>
+    <rect x="48" y="112" width="160" height="96" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 L40 80 C40 56 80 40 128 40 C176 40 216 56 216 80 L208 112 H168 L160 84 C140 79 116 79 96 84 L88 112 Z"/>
+    <rect x="48" y="112" width="160" height="96" rx="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="144" r="10"/>
+    <circle cx="128" cy="144" r="10"/>
+    <circle cx="160" cy="144" r="10"/>
+    <circle cx="96" cy="176" r="10"/>
+    <circle cx="128" cy="176" r="10"/>
+    <circle cx="160" cy="176" r="10"/>
+  </g>
+</svg>

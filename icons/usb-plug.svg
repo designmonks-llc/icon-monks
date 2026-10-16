@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="usb plug,cable,connector,usb">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="32" width="80" height="48" rx="6"/>
+    <rect x="72" y="80" width="112" height="96" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="32" width="80" height="48" rx="6"/>
+    <rect x="72" y="80" width="112" height="96" rx="16"/>
+    <path d="M128 176 L128 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 128 L152 128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="112" cy="56" r="8"/>
+    <circle cx="144" cy="56" r="8"/>
+  </g>
+</svg>

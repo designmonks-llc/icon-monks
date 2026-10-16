@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="edit document,write,modify file,file,pencil">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M134.04 224 L56 224 L56 32 L152 32 L200 80 L200 122.03 A64 64 0 0 0 134.04 224 Z"/>
+    <path d="M150 218 L156 196 L198 154 L214 170 L172 212 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M134.04 224 L56 224 L56 32 L152 32 L200 80 L200 122.03"/>
+    <path d="M150 218 L156 196 L198 154 L214 170 L172 212 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

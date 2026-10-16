@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="pen,disabled,off,editor">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M166.28 56.68 A27.6 27.6 0 0 1 205.32 95.72"/>
+    <path d="M205.32 95.72 L173.14 127.89"/>
+    <path d="M166.28 56.68 L134.11 88.86"/>
+    <path d="M110.99 190.04 L45.94 216.06 L71.96 151.01 Z"/>
+    <path d="M127.89 173.14 L110.99 190.04"/>
+    <path d="M88.86 134.11 L71.96 151.01"/>
+    <path d="M159.78 63.19 L133.76 37.17"/>
+    <path d="M133.76 37.17 L108.09 62.83"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

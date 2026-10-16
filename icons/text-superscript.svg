@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="superscript,exponent,typography,text,raise">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 L136 216"/>
+    <path d="M136 88 L40 216"/>
+    <path d="M173.66 58.26 A18.26 18.26 0 0 1 210.18 58.26 C210.18 76.52 173.66 89.8 173.66 99.76 H210.18"/>
+  </g>
+</svg>

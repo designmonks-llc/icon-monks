@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="side eye,looking,glance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="92" cy="112" rx="22" ry="20"/>
+    <ellipse cx="164" cy="112" rx="22" ry="20"/>
+    <path d="M112 168 A40 40 0 0 0 164 160"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="112" r="14"/>
+    <circle cx="176" cy="112" r="14"/>
+  </g>
+</svg>

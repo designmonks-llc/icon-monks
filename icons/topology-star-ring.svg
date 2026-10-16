@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="star ring topology,network,hub,loop">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="18"/>
+    <circle cx="64" cy="64" r="20"/>
+    <circle cx="192" cy="64" r="20"/>
+    <circle cx="192" cy="192" r="20"/>
+    <circle cx="64" cy="192" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="18"/>
+    <circle cx="64" cy="64" r="20"/>
+    <circle cx="192" cy="64" r="20"/>
+    <circle cx="192" cy="192" r="20"/>
+    <circle cx="64" cy="192" r="20"/>
+    <path d="M80.47 50.97 A90.51 90.51 0 0 1 175.53 50.97"/>
+    <path d="M205.03 80.47 A90.51 90.51 0 0 1 205.03 175.53"/>
+    <path d="M175.53 205.03 A90.51 90.51 0 0 1 80.47 205.03"/>
+    <path d="M50.97 175.53 A90.51 90.51 0 0 1 50.97 80.47"/>
+    <path d="M115.27 115.27 L78.14 78.14"/>
+    <path d="M140.73 115.27 L177.86 78.14"/>
+    <path d="M140.73 140.73 L177.86 177.86"/>
+    <path d="M115.27 140.73 L78.14 177.86"/>
+  </g>
+</svg>

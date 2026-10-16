@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="markdown,md,text format,writing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="28" y="56" width="200" height="144" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="28" y="56" width="200" height="144" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 160 L64 96 L92 128 L120 96 L120 160"/>
+    <path d="M172 96 L172 160"/>
+    <path d="M150 138 L172 160 L194 138"/>
+  </g>
+</svg>

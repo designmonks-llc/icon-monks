@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="complex topology,network,nodes,mesh">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="56" cy="72" r="22"/>
+    <circle cx="176" cy="56" r="22"/>
+    <circle cx="200" cy="172" r="22"/>
+    <circle cx="88" cy="200" r="22"/>
+    <circle cx="128" cy="128" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="56" cy="72" r="22"/>
+    <circle cx="176" cy="56" r="22"/>
+    <circle cx="200" cy="172" r="22"/>
+    <circle cx="88" cy="200" r="22"/>
+    <circle cx="128" cy="128" r="18"/>
+    <path d="M77.81 69.09 L154.19 58.91"/>
+    <path d="M180.46 77.54 L195.54 150.46"/>
+    <path d="M178.66 177.34 L109.34 194.66"/>
+    <path d="M73.37 85.51 L113.79 116.95"/>
+    <path d="M143.36 137.39 L181.23 160.53"/>
+    <path d="M119.26 143.73 L98.68 180.77"/>
+    <path d="M163.8 74.31 L137.98 113.02"/>
+  </g>
+</svg>

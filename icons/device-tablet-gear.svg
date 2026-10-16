@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device tablet,settings,configure,tablet,ipad">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208 125.9 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H134.5 A64 64 0 0 1 208 125.9 Z"/>
+    <path d="M176.63 162.82 L178.31 149.81 L193.69 149.81 L195.37 162.82 A25 25 0 0 1 201.39 166.3 L213.5 161.24 L221.19 174.57 L210.76 182.52 A25 25 0 0 1 210.76 189.48 L221.19 197.43 L213.5 210.76 L201.39 205.7 A25 25 0 0 1 195.37 209.18 L193.69 222.19 L178.31 222.19 L176.63 209.18 A25 25 0 0 1 170.61 205.7 L158.5 210.76 L150.81 197.43 L161.24 189.48 A25 25 0 0 1 161.24 182.52 L150.81 174.57 L158.5 161.24 L170.61 166.3 A25 25 0 0 1 176.63 162.82 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 125.9 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H134.5"/>
+    <path d="M176.63 162.82 L178.31 149.81 L193.69 149.81 L195.37 162.82 A25 25 0 0 1 201.39 166.3 L213.5 161.24 L221.19 174.57 L210.76 182.52 A25 25 0 0 1 210.76 189.48 L221.19 197.43 L213.5 210.76 L201.39 205.7 A25 25 0 0 1 195.37 209.18 L193.69 222.19 L178.31 222.19 L176.63 209.18 A25 25 0 0 1 170.61 205.7 L158.5 210.76 L150.81 197.43 L161.24 189.48 A25 25 0 0 1 161.24 182.52 L150.81 174.57 L158.5 161.24 L170.61 166.3 A25 25 0 0 1 176.63 162.82 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="186" cy="186" r="9"/>
+  </g>
+</svg>

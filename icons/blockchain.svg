@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="blockchain,chain,ledger,crypto">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L162.64 52 L162.64 92 L128 112 L93.36 92 L93.36 52 Z"/>
+    <path d="M68 140 L102.64 160 L102.64 200 L68 220 L33.36 200 L33.36 160 Z"/>
+    <path d="M188 140 L222.64 160 L222.64 200 L188 220 L153.36 200 L153.36 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L162.64 52 L162.64 92 L128 112 L93.36 92 L93.36 52 Z"/>
+    <path d="M68 140 L102.64 160 L102.64 200 L68 220 L33.36 200 L33.36 160 Z"/>
+    <path d="M188 140 L222.64 160 L222.64 200 L188 220 L153.36 200 L153.36 160 Z"/>
+    <path d="M104.38 114.52 L91.62 137.48"/>
+    <path d="M151.62 114.52 L164.38 137.48"/>
+    <path d="M116.64 180 L139.36 180"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M93.36 52 L128 72 L162.64 52"/>
+    <path d="M128 72 L128 112"/>
+    <path d="M33.36 160 L68 180 L102.64 160"/>
+    <path d="M68 180 L68 220"/>
+    <path d="M153.36 160 L188 180 L222.64 160"/>
+    <path d="M188 180 L188 220"/>
+  </g>
+</svg>

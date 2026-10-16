@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="micro usb,connector,port,cable">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 88 L216 88 L216 120 L176 168 L80 168 L40 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 L216 88 L216 120 L176 168 L80 168 L40 120 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 124 L160 124"/>
+  </g>
+</svg>

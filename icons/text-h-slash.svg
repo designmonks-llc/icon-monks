@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="text h,off,disabled,hidden,text">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 48 L64 208"/>
+    <path d="M192 48 L192 208"/>
+    <path d="M64 128 L192 128"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

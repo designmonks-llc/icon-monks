@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="soundbar,speaker bar,tv audio,home theater">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="68" y="100" width="120" height="56" rx="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="68" y="100" width="120" height="56" rx="18"/>
+    <path d="M212.05 90.58 A92 92 0 0 1 212.05 165.42"/>
+    <path d="M43.95 165.42 A92 92 0 0 1 43.95 90.58"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="128" r="9"/>
+    <circle cx="128" cy="128" r="9"/>
+    <circle cx="156" cy="128" r="9"/>
+  </g>
+</svg>

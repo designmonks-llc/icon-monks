@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="laugh,happy,grin,joy,xd">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M72 132 H184 C184 172 160 196 128 196 C96 196 72 172 72 132 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 100 A16 16 0 0 1 112 100"/>
+    <path d="M144 100 A16 16 0 0 1 176 100"/>
+    <path d="M72 132 H184 C184 172 160 196 128 196 C96 196 72 172 72 132 Z"/>
+  </g>
+</svg>

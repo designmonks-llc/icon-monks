@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="watch,statistics,activity,smartwatch,wearable">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124.09 191.88 A64 64 0 1 1 191.78 133.3 A59.43 59.43 0 0 0 124.09 191.88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124.09 191.88 A64 64 0 1 1 191.78 133.3"/>
+    <path d="M96 72.57 L104 32 L152 32 L160 72.57"/>
+    <path d="M96 183.43 L104 224 L124.5 224"/>
+    <path d="M160 216 L160 196"/>
+    <path d="M188 216 L188 178"/>
+    <path d="M216 216 L216 160"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 100 L128 128 L148 140"/>
+  </g>
+</svg>

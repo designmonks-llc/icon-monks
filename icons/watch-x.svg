@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="watch,remove,cancel,smartwatch,wearable">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128.56 192 A64 64 0 1 1 192 128.56 A56.02 56.02 0 0 0 128.56 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128.56 192 A64 64 0 1 1 192 128.56"/>
+    <path d="M96 72.57 L104 32 L152 32 L160 72.57"/>
+    <path d="M96 183.43 L104 224 L130.5 224"/>
+    <path d="M162 162 L206 206"/>
+    <path d="M206 162 L162 206"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 100 L128 128 L148 140"/>
+  </g>
+</svg>

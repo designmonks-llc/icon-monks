@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="aac,audio,file type,extension">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 120 V32 H152 L200 80 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 120 V32 H152 L200 80 V120"/>
+    <path d="M46 216 L68 160 L90 216"/>
+    <path d="M53.48 196.96 L82.52 196.96"/>
+    <path d="M110 216 L132 160 L154 216"/>
+    <path d="M117.48 196.96 L146.52 196.96"/>
+    <path d="M208.91 171.84 A18 18 0 0 0 174 178 V198 A18 18 0 0 0 208.91 204.16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

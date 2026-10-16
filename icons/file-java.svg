@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="java,code,source,file type">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H152 L200 80 V136 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 V32 H152 L200 80 V128"/>
+    <path d="M54.24 164 V212.88 A11.12 11.12 0 0 1 32 212.88"/>
+    <path d="M80.24 224 L95.54 164 L110.83 224"/>
+    <path d="M85.44 203.6 L105.63 203.6"/>
+    <path d="M136.83 164 L152.12 224 L167.41 164"/>
+    <path d="M193.41 224 L208.71 164 L224 224"/>
+    <path d="M198.61 203.6 L218.8 203.6"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

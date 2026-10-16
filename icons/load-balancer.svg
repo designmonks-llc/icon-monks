@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="load balancer,network,distribute,server">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="40" width="128" height="56" rx="14"/>
+    <circle cx="52" cy="196" r="20"/>
+    <circle cx="128" cy="196" r="20"/>
+    <circle cx="204" cy="196" r="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="40" width="128" height="56" rx="14"/>
+    <circle cx="52" cy="196" r="20"/>
+    <circle cx="128" cy="196" r="20"/>
+    <circle cx="204" cy="196" r="20"/>
+    <path d="M92 96 L60.3 177.6"/>
+    <path d="M128 96 L128 176"/>
+    <path d="M164 96 L195.7 177.6"/>
+  </g>
+</svg>

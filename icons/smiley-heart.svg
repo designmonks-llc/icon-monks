@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="love,heart eyes,adore,emoji">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M92 124.4 C92 124.4 72.8 114 72.8 101.6 A10 10 0 0 1 92 97.6 A10 10 0 0 1 111.2 101.6 C111.2 114 92 124.4 92 124.4 Z"/>
+    <path d="M164 124.4 C164 124.4 144.8 114 144.8 101.6 A10 10 0 0 1 164 97.6 A10 10 0 0 1 183.2 101.6 C183.2 114 164 124.4 164 124.4 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 124.4 C92 124.4 72.8 114 72.8 101.6 A10 10 0 0 1 92 97.6 A10 10 0 0 1 111.2 101.6 C111.2 114 92 124.4 92 124.4 Z"/>
+    <path d="M164 124.4 C164 124.4 144.8 114 144.8 101.6 A10 10 0 0 1 164 97.6 A10 10 0 0 1 183.2 101.6 C183.2 114 164 124.4 164 124.4 Z"/>
+    <path d="M88 152 A48 48 0 0 0 168 152"/>
+  </g>
+</svg>

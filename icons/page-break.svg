@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="page break,separator,document,divider,split">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 96 V46 A14 14 0 0 1 62 32 H194 A14 14 0 0 1 208 46 V96 Z"/>
+    <path d="M48 160 V210 A14 14 0 0 0 62 224 H194 A14 14 0 0 0 208 210 V160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 96 V46 A14 14 0 0 1 62 32 H194 A14 14 0 0 1 208 46 V96"/>
+    <path d="M48 160 V210 A14 14 0 0 0 62 224 H194 A14 14 0 0 0 208 210 V160"/>
+    <path d="M32 128 L56 128"/>
+    <path d="M116 128 L140 128"/>
+    <path d="M200 128 L224 128"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 64 L176 64"/>
+    <path d="M80 192 L144 192"/>
+  </g>
+</svg>

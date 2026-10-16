@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="remote,tv remote,control,buttons,controller">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="32" width="96" height="192" rx="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="32" width="96" height="192" rx="24"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="84" r="20"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="140" r="12"/>
+    <circle cx="148" cy="140" r="12"/>
+    <circle cx="108" cy="180" r="12"/>
+    <circle cx="148" cy="180" r="12"/>
+  </g>
+</svg>

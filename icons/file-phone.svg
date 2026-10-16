@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file phone,document,page,file,phone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.01 224 L56 224 L56 32 L152 32 L200 80 L200 117.91 A68 68 0 0 0 129.01 224 Z"/>
+    <path d="M158.4 148.8 H171.2 L177.6 169.6 L168 177.6 C176 185.6 182.4 192 190.4 200 L198.4 190.4 L219.2 196.8 V209.6 A9.6 9.6 0 0 1 209.6 219.2 C174.4 219.2 148.8 193.6 148.8 158.4 A9.6 9.6 0 0 1 158.4 148.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.01 224 L56 224 L56 32 L152 32 L200 80 L200 117.91"/>
+    <path d="M158.4 148.8 H171.2 L177.6 169.6 L168 177.6 C176 185.6 182.4 192 190.4 200 L198.4 190.4 L219.2 196.8 V209.6 A9.6 9.6 0 0 1 209.6 219.2 C174.4 219.2 148.8 193.6 148.8 158.4 A9.6 9.6 0 0 1 158.4 148.8 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

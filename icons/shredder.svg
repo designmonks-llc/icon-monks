@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="shredder,destroy paper,office,confidential">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="96" width="192" height="80" rx="14"/>
+    <rect x="72" y="40" width="112" height="56"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="96" width="192" height="80" rx="14"/>
+    <path d="M72 96 L72 40 L184 40 L184 96"/>
+    <path d="M80 204 L80 224"/>
+    <path d="M112 204 L112 224"/>
+    <path d="M144 204 L144 224"/>
+    <path d="M176 204 L176 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 68 L152 68"/>
+    <path d="M72 136 L136 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="184" cy="136" r="12"/>
+  </g>
+</svg>

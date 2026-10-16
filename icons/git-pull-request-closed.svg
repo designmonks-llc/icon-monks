@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="pull request closed,rejected,git,x,closed pr">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="72" cy="56" r="24"/>
+    <circle cx="72" cy="200" r="24"/>
+    <circle cx="184" cy="200" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="56" r="24"/>
+    <circle cx="72" cy="200" r="24"/>
+    <path d="M72 80 L72 176"/>
+    <circle cx="184" cy="200" r="24"/>
+    <path d="M184 176 L184 132"/>
+    <path d="M162 46 L206 90"/>
+    <path d="M206 46 L162 90"/>
+  </g>
+</svg>

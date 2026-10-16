@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="controller button,gamepad,face buttons,shapes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L155 80 L101 80 Z"/>
+    <circle cx="198" cy="128" r="26"/>
+    <rect x="32" y="102" width="52" height="52" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L155 80 L101 80 Z"/>
+    <circle cx="198" cy="128" r="26"/>
+    <rect x="32" y="102" width="52" height="52" rx="6"/>
+    <path d="M108 180 L148 220"/>
+    <path d="M148 180 L108 220"/>
+  </g>
+</svg>

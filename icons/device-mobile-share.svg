@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="share from phone,send,mobile share,transfer,device mobile">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="32" width="104" height="192" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 100 V52 A20 20 0 0 0 124 32 H60 A20 20 0 0 0 40 52 V204 A20 20 0 0 0 60 224 H124 A20 20 0 0 0 144 204 V172"/>
+    <path d="M96 136 L216 136"/>
+    <path d="M184 104 L216 136 L184 168"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 64 L108 64"/>
+  </g>
+</svg>

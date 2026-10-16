@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="binary,code,bits,01">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 64 A24 24 0 0 1 80 40 L80 40 A24 24 0 0 1 104 64 L104 84 A24 24 0 0 1 80 108 L80 108 A24 24 0 0 1 56 84 L56 64 Z"/>
+    <path d="M156 58 L176 40 L176 108"/>
+    <path d="M60 166 L80 148 L80 216"/>
+    <path d="M152 172 A24 24 0 0 1 176 148 L176 148 A24 24 0 0 1 200 172 L200 192 A24 24 0 0 1 176 216 L176 216 A24 24 0 0 1 152 192 L152 172 Z"/>
+  </g>
+</svg>

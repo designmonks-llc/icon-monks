@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="insert row above,table,add row,spreadsheet,insert row">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="136" width="192" height="88" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="136" width="192" height="88" rx="14"/>
+    <path d="M100 72 L156 72"/>
+    <path d="M128 44 L128 100"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 180 L224 180"/>
+    <path d="M128 136 L128 224"/>
+  </g>
+</svg>

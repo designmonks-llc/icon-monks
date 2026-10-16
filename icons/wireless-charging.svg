@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="wireless charging,qi,charge,pad">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="76" y="32" width="104" height="132" rx="18"/>
+    <rect x="32" y="196" width="192" height="28" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="76" y="32" width="104" height="132" rx="18"/>
+    <rect x="32" y="196" width="192" height="28" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 64 L112 102 L144 102 L116 140"/>
+  </g>
+</svg>

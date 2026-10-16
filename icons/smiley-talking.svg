@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="talking,chatting,speaking">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="108" cy="128" r="76"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <ellipse cx="108" cy="164" rx="14" ry="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="108" cy="128" r="76"/>
+    <path d="M188.9 69.22 L201.85 59.82"/>
+    <path d="M208 128 L224 128"/>
+    <path d="M188.9 186.78 L201.85 196.18"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="108" cy="164" rx="14" ry="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="112" r="14"/>
+    <circle cx="132" cy="112" r="14"/>
+  </g>
+</svg>

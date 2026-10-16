@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="keyboard,arrows,navigation,keys">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="96" y="48" width="64" height="64" rx="12"/>
+    <rect x="32" y="144" width="192" height="64" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="48" width="64" height="64" rx="12"/>
+    <rect x="32" y="144" width="192" height="64" rx="12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 144 L96 208"/>
+    <path d="M160 144 L160 208"/>
+    <path d="M128 73 L136 85 L120 85 Z"/>
+    <path d="M57 176 L69 168 L69 184 Z"/>
+    <path d="M128 183 L120 171 L136 171 Z"/>
+    <path d="M199 176 L187 184 L187 168 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="hotspot,tethering,wifi,share internet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="96" y="128" width="64" height="96" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="128" width="64" height="96" rx="14"/>
+    <path d="M94.06 94.06 A48 48 0 0 1 161.94 94.06"/>
+    <path d="M65.77 65.77 A88 88 0 0 1 190.23 65.77"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 156 L138 156"/>
+  </g>
+</svg>

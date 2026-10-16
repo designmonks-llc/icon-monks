@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="rename,text field,edit name,input">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 80 H46 A14 14 0 0 0 32 94 V162 A14 14 0 0 0 46 176 H128 Z"/>
+    <path d="M208 80 H210 A14 14 0 0 1 224 94 V162 A14 14 0 0 1 210 176 H208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 80 H46 A14 14 0 0 0 32 94 V162 A14 14 0 0 0 46 176 H128"/>
+    <path d="M208 80 H210 A14 14 0 0 1 224 94 V162 A14 14 0 0 1 210 176 H208"/>
+    <path d="M168 52 L168 204"/>
+    <path d="M148 44 L188 44"/>
+    <path d="M148 212 L188 212"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 128 L96 128"/>
+  </g>
+</svg>

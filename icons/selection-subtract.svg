@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="subtract,boolean,minus front,shapes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 46 A14 14 0 0 1 46 32 L146 32 A14 14 0 0 1 160 46 L160 90 A6 6 0 0 1 154 96 L110 96 A14 14 0 0 0 96 110 L96 154 A6 6 0 0 1 90 160 L46 160 A14 14 0 0 1 32 146 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 46 A14 14 0 0 1 46 32 L146 32 A14 14 0 0 1 160 46 L160 90 A6 6 0 0 1 154 96 L110 96 A14 14 0 0 0 96 110 L96 154 A6 6 0 0 1 90 160 L46 160 A14 14 0 0 1 32 146 Z"/>
+    <path d="M198 96 L224 96 L224 122"/>
+    <path d="M224 198 L224 224 L198 224"/>
+    <path d="M122 224 L96 224 L96 198"/>
+  </g>
+</svg>

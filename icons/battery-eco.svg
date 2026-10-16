@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="eco,battery,green energy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="168" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="168" height="112" rx="16"/>
+    <path d="M224 108 L224 148"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88.8 155.2 C86.08 125.28 105.12 103.52 143.2 100.8 C145.92 136.16 124.16 157.92 88.8 155.2 Z"/>
+  </g>
+</svg>

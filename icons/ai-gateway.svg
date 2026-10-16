@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="ai,gateway,api,router">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 216 V128 A80 80 0 0 1 208 128 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 V128 A80 80 0 0 1 208 128 V216"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 95.84 C131.68 125.28 142.72 136.32 172.16 140 C142.72 143.68 131.68 154.72 128 184.16 C124.32 154.72 113.28 143.68 83.84 140 C113.28 136.32 124.32 125.28 128 95.84 Z"/>
+  </g>
+</svg>

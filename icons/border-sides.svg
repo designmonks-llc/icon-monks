@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="border sides,border,table,stroke,sides">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 L40 216"/>
+    <path d="M216 40 L216 216"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="84" cy="40" r="14"/>
+    <circle cx="128" cy="40" r="14"/>
+    <circle cx="172" cy="40" r="14"/>
+    <circle cx="84" cy="216" r="14"/>
+    <circle cx="128" cy="216" r="14"/>
+    <circle cx="172" cy="216" r="14"/>
+  </g>
+</svg>

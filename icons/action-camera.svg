@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="action camera,gopro,sports cam,video">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="36" y="80" width="184" height="120" rx="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="36" y="80" width="184" height="120" rx="18"/>
+    <path d="M164 80 V68 A4 4 0 0 1 168 64 H188 A4 4 0 0 1 192 68 V80"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="92" cy="140" r="30"/>
+    <rect x="148" y="116" width="40" height="28" rx="6"/>
+  </g>
+</svg>

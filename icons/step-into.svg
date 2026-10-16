@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="step into,debugger,debug,arrow">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 36 L128 140"/>
+    <path d="M99.72 111.72 L128 140 L156.28 111.72"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="192" r="32"/>
+  </g>
+</svg>
