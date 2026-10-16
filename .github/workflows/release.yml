@@ -7,6 +7,7 @@ name: Release
 on:
   push:
     tags: ['v*']
+  workflow_dispatch:   # Actions tab > Release > Run workflow: tags main with the package.json version
 
 permissions:
   contents: write
@@ -22,6 +23,7 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: '22', registry-url: 'https://registry.npmjs.org' }
       - name: Check the tag matches package versions
+        if: github.event_name == 'push'
         run: test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME"
       - name: Publish @icon-monks packages
         if: env.NODE_AUTH_TOKEN != ''
@@ -45,6 +47,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: gh release create "$GITHUB_REF_NAME" --generate-notes --title "Icon Monks $GITHUB_REF_NAME"
+      - name: Create the tag (if needed) and the GitHub release
+        run: |
+          TAG="v$(node -p "require('./package.json').version")"
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --target "$GITHUB_SHA" --generate-notes --title "Icon Monks $TAG"
         env:
           GH_TOKEN: ${{ github.token }}
