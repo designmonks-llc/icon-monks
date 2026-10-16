@@ -119,12 +119,31 @@ def _group(role, items, attrs):
 STROKE = 'fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"'
 
 
+def load(name):
+    """Return the source elements of an existing icon by role, e.g. load('bell')['line'], to build variants on it."""
+    import re
+    src = open(os.path.join(ROOT, 'icons', name + '.svg')).read()
+    out = {r: [] for r in ('line', 'detail', 'area', 'hole', 'dot', 'dotcut')}
+    for role, body in re.findall(r'<g data-role="(\w+)"[^>]*>(.*?)</g>', src, re.S):
+        out[role] = [e.strip() for e in re.findall(r'<(?:path|circle|rect|ellipse)\b[^>]*/>', body)]
+    return out
+
+
+def _protected():
+    # Optional list of names that batch scripts must never overwrite (written before parallel drawing runs).
+    p = os.path.join(ROOT, '.protected-icons')
+    return set(open(p).read().split()) if os.path.exists(p) else set()
+
+
 def save(overwrite=False):
     """Write every icon() registered so far to icons/<name>.svg. Returns the list of names."""
     out = os.path.join(ROOT, 'icons')
     names = []
+    protected = _protected()
     for ic in ICONS:
         path = os.path.join(out, ic['name'] + '.svg')
+        if ic['name'] in protected:
+            raise SystemExit(f'{ic["name"]} is an existing icon; pick another name')
         if os.path.exists(path) and not overwrite:
             raise SystemExit(f'{ic["name"]} already exists; pick another name or pass overwrite=True')
         svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" '
