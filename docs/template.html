@@ -61,7 +61,8 @@ main.wrap { padding-block: 20px 56px; display: grid; grid-template-columns: minm
 .tile span { font: 11px/1.2 var(--mono); color: var(--muted); overflow-wrap: anywhere; text-align: center; }
 .tile svg { display: block; }
 .empty { padding: 40px 0; color: var(--muted); }
-aside.detail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 84px); background: var(--sheet); border: 1px solid var(--rule); border-radius: 16px; padding: 18px; display: grid; gap: 14px; min-width: 0; }
+aside.detail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 84px); background: var(--sheet); border: 1px solid var(--rule); border-radius: 16px; padding: 18px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; min-width: 0; }
+.detail > * { min-width: 0; }
 .detail h2 { font: 700 26px/1.1 var(--display); margin: 0; letter-spacing: -.02em; overflow-wrap: anywhere; }
 .detail .meta { font: 12px var(--mono); color: var(--muted); }
 .stage { position: relative; aspect-ratio: 1; max-width: 100%; border-radius: 12px; background: var(--paper); overflow: hidden; }
@@ -75,8 +76,8 @@ aside.detail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 84px)
 .tabs { display: flex; flex-wrap: wrap; gap: 4px; }
 .tabs button { font: 500 12px var(--body); border: 1px solid var(--rule); background: none; color: var(--muted); border-radius: 999px; padding: 5px 10px; cursor: pointer; }
 .tabs button[aria-selected="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
-.code { position: relative; }
-.code pre { margin: 0; background: var(--paper); border-radius: 10px; padding: 12px; font: 12px/1.55 var(--mono); overflow-x: auto; white-space: pre; max-height: 220px; }
+.code { position: relative; min-width: 0; }
+.code pre { margin: 0; background: var(--paper); border-radius: 10px; padding: 12px; font: 12px/1.55 var(--mono); overflow: auto; white-space: pre-wrap; overflow-wrap: anywhere; max-height: 220px; max-width: 100%; padding-right: 64px; }
 .copy { position: absolute; top: 6px; right: 6px; font: 500 12px var(--body); border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); border-radius: 8px; padding: 4px 10px; cursor: pointer; }
 section.install { padding-block: 8px 72px; }
 section.install h2 { font: 700 32px/1.1 var(--display); letter-spacing: -.02em; margin: 0 0 6px; }
