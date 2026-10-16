@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="stretcher,gurney,emergency,ambulance,hospital">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 120 V84 A16 16 0 0 1 64 68 H192 A16 16 0 0 1 208 84 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 120 V84 A16 16 0 0 1 64 68 H192 A16 16 0 0 1 208 84 V120"/>
+    <path d="M32 120 L224 120"/>
+    <path d="M80 120 L176 184"/>
+    <path d="M176 120 L80 184"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="80" cy="192" r="16"/>
+    <circle cx="176" cy="192" r="16"/>
+  </g>
+</svg>

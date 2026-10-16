@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="onsen,spa,hot spring,bath">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 160 C32 196 72 216 128 216 C184 216 224 196 224 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 160 C32 196 72 216 128 216 C184 216 224 196 224 160"/>
+    <path d="M84 136 C74 122.67 94 109.33 84 96 C74 82.67 94 69.33 84 56"/>
+    <path d="M128 136 C118 120 138 104 128 88 C118 72 138 56 128 40"/>
+    <path d="M172 136 C162 122.67 182 109.33 172 96 C162 82.67 182 69.33 172 56"/>
+  </g>
+</svg>

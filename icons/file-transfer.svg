@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="send file,transfer,exchange,file">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H152 L200 80 V224 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 32 H152 L200 80 V224 H56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+    <path d="M88 124 L164 124"/>
+    <path d="M146 142 L164 124 L146 106"/>
+    <path d="M168 180 L92 180"/>
+    <path d="M110 162 L92 180 L110 198"/>
+  </g>
+</svg>

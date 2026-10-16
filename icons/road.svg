@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="road,highway,street,route,lane">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 L100 40 L156 40 L216 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 L100 40"/>
+    <path d="M216 216 L156 40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 52 L128 76"/>
+    <path d="M128 108 L128 140"/>
+    <path d="M128 172 L128 208"/>
+  </g>
+</svg>

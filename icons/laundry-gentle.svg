@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="gentle wash,delicate,laundry,care symbol">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 40 C48 24 64 24 80 40 C96 56 112 56 128 40 C144 24 160 24 176 40 C192 56 208 56 224 40 L200 140 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L56 140 H200 L224 40"/>
+    <path d="M32 40 C48 24 64 24 80 40 C96 56 112 56 128 40 C144 24 160 24 176 40 C192 56 208 56 224 40"/>
+    <path d="M56 176 L200 176"/>
+    <path d="M56 212 L200 212"/>
+  </g>
+</svg>

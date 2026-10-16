@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="pavilion,gazebo,landmark,temple">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 84 Q68 104 92 56 H164 Q188 104 224 84 L204 104 H52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 84 Q68 104 92 56 H164 Q188 104 224 84 L204 104 H52 Z"/>
+    <path d="M128 56 L128 36"/>
+    <path d="M72 104 L72 208"/>
+    <path d="M184 104 L184 208"/>
+    <path d="M72 164 L184 164"/>
+    <path d="M40 208 L216 208"/>
+  </g>
+</svg>

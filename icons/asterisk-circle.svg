@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="asterisk circle,asterisk,circle,interface">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 180"/>
+    <path d="M173.03 102 L82.97 154"/>
+    <path d="M173.03 154 L82.97 102"/>
+  </g>
+</svg>

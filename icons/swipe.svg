@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="swipe,gesture,touch,finger">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 165.4 V108 A16 16 0 0 1 136 108 V150 A16 16 0 0 1 168 150 V154 A16 16 0 0 1 200 154 V176 C200 204 182 224 156 224 H146 C128 224 108 216 93.5 203.5 L63.5 166 A16 16 0 0 1 88.5 146 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 165.4 V108 A16 16 0 0 1 136 108 V150 A16 16 0 0 1 168 150 V154 A16 16 0 0 1 200 154 V176 C200 204 182 224 156 224 H146 C128 224 108 216 93.5 203.5 L63.5 166 A16 16 0 0 1 88.5 146 Z"/>
+    <path d="M56 52 L200 52"/>
+    <path d="M72 32 L52 52 L72 72"/>
+    <path d="M184 32 L204 52 L184 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 150 L168 178"/>
+  </g>
+</svg>

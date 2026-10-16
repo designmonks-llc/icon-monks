@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="salt shaker,seasoning,kitchen,spice">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 104 H176 L184 208 A16 16 0 0 1 168 224 H88 A16 16 0 0 1 72 208 Z"/>
+    <path d="M80 104 V88 A48 48 0 0 1 176 88 V104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 104 H176 L184 208 A16 16 0 0 1 168 224 H88 A16 16 0 0 1 72 208 Z"/>
+    <path d="M80 104 V88 A48 48 0 0 1 176 88 V104"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="110" cy="78" r="12"/>
+    <circle cx="146" cy="78" r="12"/>
+  </g>
+</svg>

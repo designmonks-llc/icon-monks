@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file text,ai,magic,document,page">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.01 224 L56 224 L56 32 L152 32 L200 80 L200 117.91 A68 68 0 0 0 129.01 224 Z"/>
+    <path d="M184 144 C187.33 170.67 197.33 180.67 224 184 C197.33 187.33 187.33 197.33 184 224 C180.67 197.33 170.67 187.33 144 184 C170.67 180.67 180.67 170.67 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.01 224 L56 224 L56 32 L152 32 L200 80 L200 117.91"/>
+    <path d="M184 144 C187.33 170.67 197.33 180.67 224 184 C197.33 187.33 187.33 197.33 184 224 C180.67 197.33 170.67 187.33 144 184 C170.67 180.67 180.67 170.67 184 144 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+    <path d="M88 128 L145.43 128"/>
+    <path d="M88 160 L120.38 160"/>
+    <path d="M88 192 L116.47 192"/>
+  </g>
+</svg>

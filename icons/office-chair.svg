@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="desk chair,office,seat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="32" width="96" height="72" rx="20"/>
+    <rect x="48" y="136" width="160" height="32" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="32" width="96" height="72" rx="20"/>
+    <path d="M128 104 L128 136"/>
+    <rect x="48" y="136" width="160" height="32" rx="16"/>
+    <path d="M128 168 L128 216"/>
+    <path d="M64 216 L128 192 L192 216"/>
+  </g>
+</svg>

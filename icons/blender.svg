@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="blender,mixer,smoothie,kitchen,appliance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 56 H164 L148 160 H68 Z"/>
+    <rect x="52" y="160" width="112" height="56" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 56 H164 L148 160 H68 Z"/>
+    <rect x="52" y="160" width="112" height="56" rx="14"/>
+    <path d="M161 76 H188 A16 16 0 0 1 204 92 V124 A16 16 0 0 1 188 140 H152"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 128 L124 128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="188" r="12"/>
+  </g>
+</svg>

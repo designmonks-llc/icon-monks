@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="eight,8,digit,number 8,numeral">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="81.8" rx="46.2" ry="41.8"/>
+    <ellipse cx="128" cy="169.8" rx="52.8" ry="46.2"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="aed pads,electrodes,defibrillator,emergency">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M49.47 48.25 L92.8 40.61 A14 14 0 0 1 109.02 51.96 L113.88 79.54 A14 14 0 0 1 102.53 95.75 L59.2 103.39 A14 14 0 0 1 42.98 92.04 L38.12 64.46 A14 14 0 0 1 49.47 48.25 Z"/>
+    <path d="M163.2 40.61 L206.53 48.25 A14 14 0 0 1 217.88 64.46 L213.02 92.04 A14 14 0 0 1 196.8 103.39 L153.47 95.75 A14 14 0 0 1 142.12 79.54 L146.98 51.96 A14 14 0 0 1 163.2 40.61 Z"/>
+    <rect x="108" y="184" width="40" height="40" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M49.47 48.25 L92.8 40.61 A14 14 0 0 1 109.02 51.96 L113.88 79.54 A14 14 0 0 1 102.53 95.75 L59.2 103.39 A14 14 0 0 1 42.98 92.04 L38.12 64.46 A14 14 0 0 1 49.47 48.25 Z"/>
+    <path d="M163.2 40.61 L206.53 48.25 A14 14 0 0 1 217.88 64.46 L213.02 92.04 A14 14 0 0 1 196.8 103.39 L153.47 95.75 A14 14 0 0 1 142.12 79.54 L146.98 51.96 A14 14 0 0 1 163.2 40.61 Z"/>
+    <path d="M80 100 C80 152 112 148 116 184"/>
+    <path d="M176 100 C176 152 144 148 140 184"/>
+    <rect x="108" y="184" width="40" height="40" rx="10"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 74 L88 70"/>
+    <path d="M168 70 L192 74"/>
+  </g>
+</svg>

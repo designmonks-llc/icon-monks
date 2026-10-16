@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="tooltip,hint,popover,callout,bubble">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M46 48 H210 A14 14 0 0 1 224 62 V162 A14 14 0 0 1 210 176 H156 L128 208 L100 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 48 H210 A14 14 0 0 1 224 62 V162 A14 14 0 0 1 210 176 H156 L128 208 L100 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 96 L184 96"/>
+    <path d="M72 128 L152 128"/>
+  </g>
+</svg>

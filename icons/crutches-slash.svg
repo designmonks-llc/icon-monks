@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="crutches,disabled,off,health">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 40 L108 40"/>
+    <path d="M68 40 L68 136 L84 168 L84 216"/>
+    <path d="M100 40 L100 136 L84 168"/>
+    <path d="M68 104 L100 104"/>
+    <path d="M148 40 L196 40"/>
+    <path d="M156 40 L156 136 L172 168 L172 216"/>
+    <path d="M188 40 L188 136 L172 168"/>
+    <path d="M156 104 L188 104"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

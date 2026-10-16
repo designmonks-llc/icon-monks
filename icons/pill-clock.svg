@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="medication reminder,dose,schedule,pill">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100.69 179.88 L179.88 100.69 A40 40 0 0 0 123.31 44.12 L44.12 123.31 A40 40 0 0 0 100.69 179.88 Z"/>
+    <circle cx="184" cy="184" r="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100.69 179.88 L179.88 100.69 A40 40 0 0 0 123.31 44.12 L44.12 123.31 A40 40 0 0 0 100.69 179.88 Z"/>
+    <circle cx="184" cy="184" r="36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M83.72 83.72 L140.28 140.28"/>
+    <path d="M184 166 L184 184 L196 192"/>
+  </g>
+</svg>

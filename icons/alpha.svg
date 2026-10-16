@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alpha,greek,letter,math">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 64 C178 150 156 192 108 192 C76 192 52 166 52 128 C52 90 76 64 108 64 C156 64 178 106 204 192"/>
+  </g>
+</svg>

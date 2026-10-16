@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="bookmarks,disabled,off,education">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M109.25 64 L156 64 L156 110.75"/>
+    <path d="M156 201.25 L156 224 L100 188 L44 224 L44 89.25"/>
+    <path d="M100 54.75 L100 32 L212 32 L212 166.75"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

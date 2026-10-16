@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="eye closed,hidden,sleep,lashes">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 C68 132 100 148 128 148 C156 148 188 132 216 88"/>
+    <path d="M84 134.5 L66.88 161.53"/>
+    <path d="M128 148 L128 180"/>
+    <path d="M172 134.5 L189.12 161.53"/>
+    <path d="M57.22 111.14 L39.2 126.99"/>
+    <path d="M198.78 111.14 L216.8 126.99"/>
+  </g>
+</svg>

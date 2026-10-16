@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet greek,alphabet,script,language,greek">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 208 H92 V190 C62 174 44 148 44 118 A84 84 0 0 1 212 118 C212 148 194 174 164 190 V208 H212"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="double bed,hotel,bedroom,sleep">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 176 V64 A16 16 0 0 1 48 48 H208 A16 16 0 0 1 224 64 V176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 208 V64 A16 16 0 0 1 48 48 H208 A16 16 0 0 1 224 64 V208"/>
+    <path d="M32 120 L224 120"/>
+    <path d="M32 176 L224 176"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="84" width="48" height="36" rx="14"/>
+    <rect x="144" y="84" width="48" height="36" rx="14"/>
+  </g>
+</svg>

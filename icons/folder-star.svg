@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="favorite folder,starred,important,special,folder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 107 L139.17 131.63 L166.04 134.64 L146.07 152.87 L151.51 179.36 L128 166 L104.49 179.36 L109.93 152.87 L89.96 134.64 L116.83 131.63 Z"/>
+  </g>
+</svg>

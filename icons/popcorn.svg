@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="popcorn,movie snack,cinema,bucket,movie">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52.95 104 L203.05 104 A4 4 0 0 1 206.96 108.84 L186.03 206.51 A12 12 0 0 1 174.3 216 L81.7 216 A12 12 0 0 1 69.97 206.51 L49.04 108.84 A4 4 0 0 1 52.95 104 Z"/>
+    <path d="M56 104 V84 A28 28 0 0 1 96.41 58.9 A32 32 0 0 1 159.59 58.9 A28 28 0 0 1 200 84 V104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52.95 104 L203.05 104 A4 4 0 0 1 206.96 108.84 L186.03 206.51 A12 12 0 0 1 174.3 216 L81.7 216 A12 12 0 0 1 69.97 206.51 L49.04 108.84 A4 4 0 0 1 52.95 104 Z"/>
+    <path d="M56 104 V84 A28 28 0 0 1 96.41 58.9 A32 32 0 0 1 159.59 58.9 A28 28 0 0 1 200 84 V104"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 112 L110 208"/>
+    <path d="M152 112 L146 208"/>
+  </g>
+</svg>

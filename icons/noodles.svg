@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="ramen,noodle bowl,soup,chopsticks,noodles">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 128 H216 A88 88 0 0 1 40 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 128 H216 A88 88 0 0 1 40 128 Z"/>
+    <path d="M40 56 L216 32"/>
+    <path d="M40 88 L216 80"/>
+    <path d="M96 86 C84 100 108 112 96 128"/>
+    <path d="M128 85 C116 100 140 112 128 128"/>
+    <path d="M160 83 C148 100 172 112 160 128"/>
+  </g>
+</svg>

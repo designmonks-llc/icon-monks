@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="clear filter,remove filter,reset,funnel x,remove">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 L184 64"/>
+    <path d="M64 120 L152 120"/>
+    <path d="M96 176 L120 176"/>
+    <path d="M162 162 L206 206"/>
+    <path d="M206 162 L162 206"/>
+  </g>
+</svg>

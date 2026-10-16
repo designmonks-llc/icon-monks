@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="bear left,keep left,ramp,direction">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M164 216 L164 156 L76 68"/>
+    <path d="M76 124 L76 68 L132 68"/>
+  </g>
+</svg>

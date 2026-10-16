@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="bottle,disabled,off,food">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="32" width="56" height="40" rx="10"/>
+    <path d="M108 72 V84 C108 100 76 108 76 136 V204 A20 20 0 0 0 96 224 H160 A20 20 0 0 0 180 204 V136 C180 108 148 100 148 84 V72"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

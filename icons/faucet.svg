@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="faucet,tap,sink,water">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="104" width="48" height="112" rx="12"/>
+    <path d="M200 184 C192 196 188 202 188 208 A12 12 0 0 0 212 208 C212 202 208 196 200 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="104" width="48" height="112" rx="12"/>
+    <path d="M120 128 H168 A32 32 0 0 1 200 160 V164"/>
+    <path d="M96 104 L96 64"/>
+    <path d="M56 64 L136 64"/>
+    <path d="M200 184 C192 196 188 202 188 208 A12 12 0 0 0 212 208 C212 202 208 196 200 184 Z"/>
+  </g>
+</svg>

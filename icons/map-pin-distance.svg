@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="distance,route,map,pins">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 152 C80 152 36.8 113.6 36.8 80 C36.8 56.14 56.14 36.8 80 36.8 C103.86 36.8 123.2 56.14 123.2 80 C123.2 113.6 80 152 80 152 Z"/>
+    <path d="M176 216 C176 216 132.8 177.6 132.8 144 C132.8 120.14 152.14 100.8 176 100.8 C199.86 100.8 219.2 120.14 219.2 144 C219.2 177.6 176 216 176 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 152 C80 152 36.8 113.6 36.8 80 C36.8 56.14 56.14 36.8 80 36.8 C103.86 36.8 123.2 56.14 123.2 80 C123.2 113.6 80 152 80 152 Z"/>
+    <path d="M176 216 C176 216 132.8 177.6 132.8 144 C132.8 120.14 152.14 100.8 176 100.8 C199.86 100.8 219.2 120.14 219.2 144 C219.2 177.6 176 216 176 216 Z"/>
+    <path d="M80 184 L80.05 186"/>
+    <path d="M89.71 206.25 L91.3 207.46"/>
+    <path d="M112.91 215.16 L114.89 215.43"/>
+    <path d="M138 216.1 L140 216"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="80" r="14"/>
+    <circle cx="176" cy="144" r="14"/>
+  </g>
+</svg>

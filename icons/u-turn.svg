@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="u-turn,turn around,reverse,direction">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 216 V104 A48 48 0 0 0 96 104 V184"/>
+    <path d="M56 144 L96 184 L136 144"/>
+  </g>
+</svg>

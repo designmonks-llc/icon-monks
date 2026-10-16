@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="motion sensor,presence,detector,security">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 196 A60 60 0 0 1 188 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 196 A60 60 0 0 1 188 196 Z"/>
+    <path d="M63.76 124.66 A96 96 0 0 1 192.24 124.66"/>
+    <path d="M43.15 94.88 A132 132 0 0 1 212.85 94.88"/>
+  </g>
+</svg>

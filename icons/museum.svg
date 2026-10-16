@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="museum,gallery,columns,culture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 88 L128 40 L216 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 L128 40 L216 88 Z"/>
+    <path d="M64 88 L64 184"/>
+    <path d="M106 88 L106 184"/>
+    <path d="M150 88 L150 184"/>
+    <path d="M192 88 L192 184"/>
+    <path d="M48 184 L208 184"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+</svg>

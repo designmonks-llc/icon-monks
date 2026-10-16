@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="no parking,road sign,traffic,prohibited,parking">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208.53 180.25 L75.75 47.47 A96 96 0 0 1 208.53 180.25 Z"/>
+    <path d="M180.25 208.53 L47.47 75.75 A96 96 0 0 0 180.25 208.53 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M60.12 60.12 L195.88 195.88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 184 L104 72"/>
+    <path d="M104 72 H136 A32 32 0 0 1 136 136 H104"/>
+  </g>
+</svg>

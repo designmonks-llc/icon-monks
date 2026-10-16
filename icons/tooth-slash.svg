@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="tooth,disabled,off,dental,teeth">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M91.42 46.17 C105.48 48.07 116.74 56 128 56 C144 56 160 40 184 48 C216 60 212 112 196 136 C194.34 138.77 192.9 142.32 191.62 146.36"/>
+    <path d="M169.2 214.45 C167.63 215.46 165.91 216 164 216 C155.09 216 150.95 204.89 147.32 192.58"/>
+    <path d="M119.38 164.63 C108.66 178.05 108.46 216 92 216 C72 216 72 156 60 136 C52.85 125.28 48.1 108.97 47.88 93.14"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="hearing,ear,accessibility,sound">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M66.64 107.28 A44.4 44.4 0 0 1 155.44 107.28 C155.44 136.88 134.72 142.8 128.8 160.56 C122.88 181.28 111.04 196.08 90.32 196.08 C78.48 196.08 69.6 190.16 63.68 181.28 C57.76 166.48 66.64 136.88 66.64 107.28 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66.64 107.28 A44.4 44.4 0 0 1 155.44 107.28 C155.44 136.88 134.72 142.8 128.8 160.56 C122.88 181.28 111.04 196.08 90.32 196.08 C78.48 196.08 69.6 190.16 63.68 181.28"/>
+    <path d="M168 100 A40 40 0 0 1 168 156"/>
+    <path d="M192 72 A72 72 0 0 1 192 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M93.28 116.16 A17.76 17.76 0 0 1 128.8 110.24 C128.8 125.04 114 130.96 111.04 145.76"/>
+  </g>
+</svg>

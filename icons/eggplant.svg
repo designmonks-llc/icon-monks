@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="eggplant,aubergine,vegetable,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M193.61 103.35 L149.37 180.36 A54 54 0 1 1 75.64 106.63 L152.65 62.39 A30 30 0 0 1 193.61 103.35 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M193.61 103.35 L149.37 180.36 A54 54 0 1 1 75.64 106.63 L152.65 62.39 A30 30 0 0 1 193.61 103.35 Z"/>
+    <path d="M188.81 67.19 L205.78 50.22"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M135.07 72.85 L123.76 106.79 L150.63 105.37 L149.21 132.24 L183.15 120.93"/>
+  </g>
+</svg>

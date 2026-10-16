@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file thumbs,decrease,download,document,page">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H152 L200 80 V224 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 32 H152 L200 80 V224 H56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+    <path d="M84 158 L100.2 158 A6 6 0 0 1 105.63 161.43 L118.95 189.55 A10 10 0 0 0 129.09 195.21 L131.94 194.9 A8 8 0 0 0 138.99 185.95 L136 162 L159.72 162 A8 8 0 0 0 166.37 158.44 L170.62 152.07 A6 6 0 0 0 171.51 147.56 L164.96 114.82 A6 6 0 0 0 159.08 110 L84 110 Z"/>
+    <path d="M106 150 L106 118"/>
+  </g>
+</svg>

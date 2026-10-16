@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="air conditioner,disabled,off,home">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M93.25 48 L208 48 A16 16 0 0 1 224 64 L224 120 A16 16 0 0 1 208 136 L181.25 136"/>
+    <path d="M90.75 136 L48 136 A16 16 0 0 1 32 120 L32 77.25"/>
+    <path d="M88 172 L80 208"/>
+    <path d="M128 173.25 L128 216"/>
+    <path d="M149.25 104 L192 104"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

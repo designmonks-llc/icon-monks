@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="virus scan,testing,diagnosis,search">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="112" cy="112" r="72"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="112" r="72"/>
+    <path d="M163 163 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="112" r="22"/>
+    <path d="M112 90 L112 70"/>
+    <path d="M131.05 101 L148.37 91"/>
+    <path d="M131.05 123 L148.37 133"/>
+    <path d="M112 134 L112 154"/>
+    <path d="M92.95 123 L75.63 133"/>
+    <path d="M92.95 101 L75.63 91"/>
+  </g>
+</svg>

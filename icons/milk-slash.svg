@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="milk,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 32 H168 V56 L192 96 V208 A16 16 0 0 1 176 224 H80 A16 16 0 0 1 64 208 V96 L88 56 Z"/>
+    <path d="M64 96 L192 96"/>
+    <path d="M88 56 L168 56"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

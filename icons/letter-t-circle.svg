@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="letter t,t,circle,alphabet,initial">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M91.2 82 L164.8 82"/>
+    <path d="M128 82 L128 174"/>
+  </g>
+</svg>

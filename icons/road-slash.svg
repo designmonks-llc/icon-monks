@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="road,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 L100 40"/>
+    <path d="M216 216 L156 40"/>
+    <path d="M128 52 L128 76"/>
+    <path d="M128 172 L128 208"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

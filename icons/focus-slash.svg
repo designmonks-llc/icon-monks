@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="capture,disabled,off,media">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <path d="M131.11 167.88 A40 40 0 0 1 88 128 A40 40 0 0 1 88.12 124.89"/>
+    <path d="M124.89 88.12 A40 40 0 0 1 167.88 131.11"/>
+    <path d="M72 72 L184 184"/>
+  </g>
+</svg>

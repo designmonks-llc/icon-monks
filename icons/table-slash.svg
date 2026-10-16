@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="table,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90.43 48 L210 48 A14 14 0 0 1 224 62 L224 181.57"/>
+    <path d="M165.57 208 L46 208 A14 14 0 0 1 32 194 L32 74.43"/>
+    <path d="M32 96 L53.57 96"/>
+    <path d="M138.43 96 L224 96"/>
+    <path d="M32 152 L109.57 152"/>
+    <path d="M194.43 152 L224 152"/>
+    <path d="M96 138.43 L96 208"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

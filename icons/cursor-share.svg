@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="cursor,share,send">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 40 L208 112 L136 136 L112 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 40 L208 112 L136 136 L112 208 Z"/>
+    <path d="M164 214 V202 A24 24 0 0 1 188 178 H214"/>
+    <path d="M198 162 L214 178 L198 194"/>
+  </g>
+</svg>

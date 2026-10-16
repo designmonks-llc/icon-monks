@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="cursor,pin,pinned">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 32 L200 104 L128 128 L104 200 L40 32 Z"/>
+    <path d="M193.87 153.27 L210.5 167.23 L202.14 172.36 L192.18 184.24 L190.91 207.46 L157.65 179.55 L180.3 174.27 L190.27 162.39 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 32 L200 104 L128 128 L104 200 L40 32 Z"/>
+    <path d="M193.87 153.27 L210.5 167.23 L202.14 172.36 L192.18 184.24 L190.91 207.46 L157.65 179.55 L180.3 174.27 L190.27 162.39 Z"/>
+    <path d="M174.28 193.51 L156.34 214.89"/>
+  </g>
+</svg>

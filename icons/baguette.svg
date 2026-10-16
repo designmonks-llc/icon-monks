@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="bread,bakery,french">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M102.54 210.02 L210.02 102.54 A40 40 0 0 0 153.46 45.98 L45.98 153.46 A40 40 0 0 0 102.54 210.02 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M102.54 210.02 L210.02 102.54 A40 40 0 0 0 153.46 45.98 L45.98 153.46 A40 40 0 0 0 102.54 210.02 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M71.21 168.3 L114.08 158.41"/>
+    <path d="M106.56 132.95 L149.44 123.05"/>
+    <path d="M141.92 97.59 L184.79 87.7"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="sauna,steam room,spa,heat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="136" width="192" height="40" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="136" width="192" height="40" rx="12"/>
+    <path d="M64 176 L64 216"/>
+    <path d="M192 176 L192 216"/>
+    <path d="M88 108 C70 90 106 70 88 48"/>
+    <path d="M128 108 C110 90 146 70 128 48"/>
+    <path d="M168 108 C150 90 186 70 168 48"/>
+  </g>
+</svg>

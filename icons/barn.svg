@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="farm,barn,agriculture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 216 L48 112 L72 64 L128 40 L184 64 L208 112 L208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 L48 112 L72 64 L128 40 L184 64 L208 112 L208 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 216 V136 H160 V216"/>
+    <path d="M96 136 L160 216"/>
+    <path d="M160 136 L96 216"/>
+  </g>
+</svg>

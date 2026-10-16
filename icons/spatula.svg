@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="spatula,turner,cooking,kitchen">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M174.67 38.9 L217.1 81.33 A14 14 45 0 1 217.1 101.13 L177.5 140.73 A14 14 45 0 1 157.7 140.73 L115.27 98.3 A14 14 45 0 1 115.27 78.5 L154.87 38.9 A14 14 45 0 1 174.67 38.9 Z"/>
+    <path d="M108.2 147.8 L108.2 147.8 A16 16 45 0 1 108.2 170.43 L82.75 195.88 A16 16 45 0 1 60.12 195.88 L60.12 195.88 A16 16 45 0 1 60.12 173.25 L85.57 147.8 A16 16 45 0 1 108.2 147.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174.67 38.9 L217.1 81.33 A14 14 45 0 1 217.1 101.13 L177.5 140.73 A14 14 45 0 1 157.7 140.73 L115.27 98.3 A14 14 45 0 1 115.27 78.5 L154.87 38.9 A14 14 45 0 1 174.67 38.9 Z"/>
+    <path d="M108.2 147.8 L108.2 147.8 A16 16 45 0 1 108.2 170.43 L82.75 195.88 A16 16 45 0 1 60.12 195.88 L60.12 195.88 A16 16 45 0 1 60.12 173.25 L85.57 147.8 A16 16 45 0 1 108.2 147.8 Z"/>
+    <path d="M136.49 119.51 L108.2 147.8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M164.77 68.6 L142.14 91.23"/>
+    <path d="M187.4 91.23 L164.77 113.86"/>
+  </g>
+</svg>

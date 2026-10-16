@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="alert,exclamation,error,diamond,caution">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M118.1 36.08 A14 14 0 0 1 137.9 36.08 L219.92 118.1 A14 14 0 0 1 219.92 137.9 L137.9 219.92 A14 14 0 0 1 118.1 219.92 L36.08 137.9 A14 14 0 0 1 36.08 118.1 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118.1 36.08 A14 14 0 0 1 137.9 36.08 L219.92 118.1 A14 14 0 0 1 219.92 137.9 L137.9 219.92 A14 14 0 0 1 118.1 219.92 L36.08 137.9 A14 14 0 0 1 36.08 118.1 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 80 L128 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="176" r="16"/>
+  </g>
+</svg>

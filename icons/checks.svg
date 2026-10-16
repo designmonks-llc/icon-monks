@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="double check,read,all done,checks,delivered">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 124 L80 172 L168 84"/>
+    <path d="M136 172 L224 84"/>
+  </g>
+</svg>

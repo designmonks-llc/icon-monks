@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="dome,observatory,capitol,building">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 V136 H56 A72 72 0 0 1 200 136 H216 V216 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M116 216 V188 A12 12 0 0 1 140 188 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 V136 H56 A72 72 0 0 1 200 136 H216 V216 Z"/>
+    <path d="M56 136 L200 136"/>
+    <path d="M128 64 L128 40"/>
+    <path d="M108 216 V188 A20 20 0 0 1 148 188 V216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 168 L72 188"/>
+    <path d="M184 168 L184 188"/>
+  </g>
+</svg>

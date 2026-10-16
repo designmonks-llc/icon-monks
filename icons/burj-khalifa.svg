@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="skyscraper,dubai,tower,landmark">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 208 L76 160 L96 160 L96 112 L112 112 L112 76 L128 60 L144 76 L144 132 L160 132 L160 176 L180 176 L180 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 208 L76 160 L96 160 L96 112 L112 112 L112 76 L128 60 L144 76 L144 132 L160 132 L160 176 L180 176 L180 208"/>
+    <path d="M128 56 L128 32"/>
+    <path d="M56 208 L200 208"/>
+  </g>
+</svg>

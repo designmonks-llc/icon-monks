@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="unpin,pin off,remove pin,detach,push pin">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162.03 33.63 L210.94 74.67 L186.36 89.76 L157.05 124.7 L153.32 192.99 L55.51 110.92 L122.12 95.39 L151.43 60.45 Z"/>
+    <path d="M104.41 151.96 L51.65 214.84"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

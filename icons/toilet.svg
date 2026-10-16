@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="toilet,bathroom,wc,restroom">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="32" width="64" height="96" rx="12"/>
+    <path d="M48 128 H216 C216 164 192 184 152 184 L160 224 H88 L96 178 C64 170 48 152 48 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="32" width="64" height="96" rx="12"/>
+    <path d="M48 128 H216 C216 164 192 184 152 184 L160 224 H88 L96 178 C64 170 48 152 48 128 Z"/>
+  </g>
+</svg>

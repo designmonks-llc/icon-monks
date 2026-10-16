@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet devanagari,alphabet,script,language,devanagari">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 52 L224 52"/>
+    <path d="M128 52 L128 216"/>
+    <path d="M128 136 C104 100 44 100 44 144 C44 184 100 184 128 136"/>
+    <path d="M128 136 C156 104 208 108 208 148 C208 176 188 192 168 196"/>
+  </g>
+</svg>

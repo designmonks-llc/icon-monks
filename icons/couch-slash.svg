@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="couch,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 L56 101.25"/>
+    <path d="M117.25 72 L176 72 A24 24 0 0 1 200 96 L200 128"/>
+    <path d="M122.75 168 L72 168 L72 148 A20 20 0 0 0 32 148 L32 200 L154.75 200"/>
+    <path d="M224 178.75 L224 148 A20 20 0 0 0 185.55 140.29"/>
+    <path d="M48 200 L48 216"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

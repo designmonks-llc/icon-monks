@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="wc,toilet,restroom,bathroom">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="52" r="18"/>
+    <circle cx="180" cy="52" r="18"/>
+    <path d="M180 92 L148 168 L212 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="52" r="18"/>
+    <path d="M76 92 L76 152"/>
+    <path d="M44 132 L76 104 L108 132"/>
+    <path d="M52 216 L76 152 L100 216"/>
+    <circle cx="180" cy="52" r="18"/>
+    <path d="M180 92 L148 168 L212 168 Z"/>
+    <path d="M164 168 L164 216"/>
+    <path d="M196 168 L196 216"/>
+  </g>
+</svg>

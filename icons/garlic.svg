@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="garlic,bulb,clove,cooking">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 36 C128 64 208 88 208 152 C208 196 172 216 128 216 C84 216 48 196 48 152 C48 88 128 64 128 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 36 C128 64 208 88 208 152 C208 196 172 216 128 216 C84 216 48 196 48 152 C48 88 128 64 128 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 104 C80 136 84 184 108 212"/>
+    <path d="M152 104 C176 136 172 184 148 212"/>
+  </g>
+</svg>

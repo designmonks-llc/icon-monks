@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="infrared thermometer,temperature gun,fever,scan">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M120 64 H208 A16 16 0 0 1 224 80 V112 A16 16 0 0 1 208 128 H200 L208 192 A16 16 0 0 1 192 208 H176 A16 16 0 0 1 160 192 L152 128 H120 A16 16 0 0 1 104 112 V80 A16 16 0 0 1 120 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 64 H208 A16 16 0 0 1 224 80 V112 A16 16 0 0 1 208 128 H200 L208 192 A16 16 0 0 1 192 208 H176 A16 16 0 0 1 160 192 L152 128 H120 A16 16 0 0 1 104 112 V80 A16 16 0 0 1 120 64 Z"/>
+    <path d="M78.08 117.2 A40 40 0 0 1 78.08 74.8"/>
+    <path d="M50.94 134.15 A72 72 0 0 1 50.94 57.85"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 96 L184 96"/>
+  </g>
+</svg>

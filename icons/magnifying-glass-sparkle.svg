@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="ai search,smart search,find,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 69.76 C115.52 97.92 126.08 108.48 154.24 112 C126.08 115.52 115.52 126.08 112 154.24 C108.48 126.08 97.92 115.52 69.76 112 C97.92 108.48 108.48 97.92 112 69.76 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="112" r="72"/>
+    <path d="M163 163 L216 216"/>
+    <path d="M112 69.76 C115.52 97.92 126.08 108.48 154.24 112 C126.08 115.52 115.52 126.08 112 154.24 C108.48 126.08 97.92 115.52 69.76 112 C97.92 108.48 108.48 97.92 112 69.76 Z"/>
+  </g>
+</svg>

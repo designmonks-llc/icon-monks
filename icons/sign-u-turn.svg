@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="u-turn,turn back,directions">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M139.31 36.69 L219.31 116.69 A16 16 0 0 1 219.31 139.31 L139.31 219.31 A16 16 0 0 1 116.69 219.31 L36.69 139.31 A16 16 0 0 1 36.69 116.69 L116.69 36.69 A16 16 0 0 1 139.31 36.69 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139.31 36.69 L219.31 116.69 A16 16 0 0 1 219.31 139.31 L139.31 219.31 A16 16 0 0 1 116.69 219.31 L36.69 139.31 A16 16 0 0 1 36.69 116.69 L116.69 36.69 A16 16 0 0 1 139.31 36.69 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 166 V120 A22 22 0 0 0 108 120 V152"/>
+    <path d="M86 130 L108 152 L130 130"/>
+  </g>
+</svg>

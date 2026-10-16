@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="bookshelf,library,books,shelf">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="32" width="176" height="192" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="32" width="176" height="192" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 128 L216 128"/>
+    <path d="M76 64 L76 128"/>
+    <path d="M108 64 L108 128"/>
+    <path d="M140 128 L172 72"/>
+    <path d="M76 160 L76 224"/>
+    <path d="M108 160 L108 224"/>
+    <path d="M140 160 L140 224"/>
+  </g>
+</svg>

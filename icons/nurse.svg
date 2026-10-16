@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="nurse,medical,caregiver,person,healthcare">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M101.17 76 A36 36 0 1 0 154.83 76 Z"/>
+    <path d="M88 76 L100 36 L156 36 L168 76 Z"/>
+    <path d="M48 216 C48 172 84 152 128 152 C172 152 208 172 208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101.17 76 A36 36 0 1 0 154.83 76"/>
+    <path d="M88 76 L100 36 L156 36 L168 76 Z"/>
+    <path d="M48 216 C48 172 84 152 128 152 C172 152 208 172 208 216"/>
+  </g>
+</svg>

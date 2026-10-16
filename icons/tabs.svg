@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="tabs,browser tabs,tab group,windows,multiple">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 54 A14 14 0 0 1 46 40 H82 A14 14 0 0 1 96 54 V88 H210 A14 14 0 0 1 224 102 V202 A14 14 0 0 1 210 216 H46 A14 14 0 0 1 32 202 Z"/>
+    <path d="M96 54 A14 14 0 0 1 110 40 H146 A14 14 0 0 1 160 54 V88 Z"/>
+    <path d="M160 54 A14 14 0 0 1 174 40 H210 A14 14 0 0 1 224 54 V88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 54 A14 14 0 0 1 46 40 H82 A14 14 0 0 1 96 54 V88 H210 A14 14 0 0 1 224 102 V202 A14 14 0 0 1 210 216 H46 A14 14 0 0 1 32 202 Z"/>
+    <path d="M96 54 A14 14 0 0 1 110 40 H146 A14 14 0 0 1 160 54 V88"/>
+    <path d="M160 54 A14 14 0 0 1 174 40 H210 A14 14 0 0 1 224 54 V88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 88 L224 88"/>
+  </g>
+</svg>

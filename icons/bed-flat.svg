@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="bed,flat,rest">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="112" width="192" height="56" rx="16"/>
+    <rect x="56" y="80" width="64" height="32" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="112" width="192" height="56" rx="16"/>
+    <rect x="56" y="80" width="64" height="32" rx="16"/>
+    <path d="M48 168 L48 200"/>
+    <path d="M208 168 L208 200"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="cursor minus,remove,subtract,cursor,pointer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 32 L200 104 L128 128 L104 200 L40 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 32 L200 104 L128 128 L104 200 L40 32 Z"/>
+    <path d="M158 184 L210 184"/>
+  </g>
+</svg>

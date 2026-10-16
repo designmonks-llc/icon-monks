@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="distance,measure,route length,map">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 64 L96 40 L160 64 L224 40 L224 192 L160 216 L96 192 L32 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 L96 40 L160 64 L224 40 L224 192 L160 216 L96 192 L32 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 164 L180 104"/>
+    <path d="M64 143.2 L88 184.8"/>
+    <path d="M168 83.2 L192 124.8"/>
+  </g>
+</svg>

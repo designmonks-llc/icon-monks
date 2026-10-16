@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="monument,obelisk,memorial,landmark">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M102 176 L110 64 L128 36 L146 64 L154 176 Z"/>
+    <rect x="64" y="176" width="128" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M102 176 L110 64 L128 36 L146 64 L154 176"/>
+    <rect x="64" y="176" width="128" height="40" rx="8"/>
+  </g>
+</svg>

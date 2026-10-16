@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="mosque,islam,religion,worship">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 216 V136 C72 100 112 92 128 64 C144 92 184 100 184 136 V216 Z"/>
+    <path d="M32 104 L40 76 L48 104 Z"/>
+    <path d="M208 104 L216 76 L224 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 216 V136 C72 100 112 92 128 64 C144 92 184 100 184 136 V216"/>
+    <path d="M128 64 L128 44"/>
+    <path d="M40 104 L40 216"/>
+    <path d="M216 104 L216 216"/>
+    <path d="M32 104 L40 76 L48 104 Z"/>
+    <path d="M208 104 L216 76 L224 104 Z"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 216 V188 A20 20 0 0 1 148 188 V216"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="carousel,slider,gallery,slides">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="48" width="80" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="48" width="80" height="160" rx="14"/>
+    <path d="M32 72 H46 A10 10 0 0 1 56 82 V174 A10 10 0 0 1 46 184 H32"/>
+    <path d="M224 72 H210 A10 10 0 0 0 200 82 V174 A10 10 0 0 0 210 184 H224"/>
+  </g>
+</svg>

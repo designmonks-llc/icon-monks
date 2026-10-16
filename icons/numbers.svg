@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="numbers,123,digits,numeric">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34.6 102.7 L61 84 L61 172"/>
+    <path d="M101.26 99.92 A24.2 24.2 0 1 1 141.7 124.7 L97.6 172 L152.6 172"/>
+    <path d="M169.6 84 H198.2 A19.8 19.8 0 0 1 198.2 123.6 H185"/>
+    <path d="M185 123.6 H198.2 A24.2 24.2 0 0 1 198.2 172 H169.6"/>
+  </g>
+</svg>

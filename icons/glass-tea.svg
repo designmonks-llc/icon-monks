@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="tea,glass,drink,hot">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 40 H172 C172 72 152 88 152 112 C152 136 172 148 172 168 A16 16 0 0 1 156 184 H100 A16 16 0 0 1 84 168 C84 148 104 136 104 112 C104 88 84 72 84 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 40 H172 C172 72 152 88 152 112 C152 136 172 148 172 168 A16 16 0 0 1 156 184 H100 A16 16 0 0 1 84 168 C84 148 104 136 104 112 C104 88 84 72 84 40 Z"/>
+    <path d="M56 216 L200 216"/>
+  </g>
+</svg>

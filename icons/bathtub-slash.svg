@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="bathtub,disabled,off,home">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 120 L74.75 120"/>
+    <path d="M165.25 120 L224 120"/>
+    <path d="M48 120 L48 152 A48 48 0 0 0 96 200 L154.75 200"/>
+    <path d="M207 161.75 A48 48 0 0 0 208 152 L208 120"/>
+    <path d="M84 198 L76 216"/>
+    <path d="M85.4 40.14 A24 24 0 0 1 112 64 L112 66.75"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="tab,browser tab,window,page">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 184 A12 12 0 0 0 60 172 V80 A16 16 0 0 1 76 64 H180 A16 16 0 0 1 196 80 V172 A12 12 0 0 0 208 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 184 H48 A12 12 0 0 0 60 172 V80 A16 16 0 0 1 76 64 H180 A16 16 0 0 1 196 80 V172 A12 12 0 0 0 208 184 H224"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="inboxes,trays,stack,mail">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="88" width="192" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="88" width="192" height="128" rx="14"/>
+    <path d="M56 88 V62 A14 14 0 0 1 70 48 H186 A14 14 0 0 1 200 62 V88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 148 H84 L100 172 H156 L172 148 H204"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="juice,glass,drink,orange juice">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 72 H196 L184 206 Q182 224 162 224 H94 Q74 224 72 206 Z"/>
+    <path d="M52 72 A36 36 0 0 1 124 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 72 H196 L184 206 Q182 224 162 224 H94 Q74 224 72 206 Z"/>
+    <path d="M52 72 A36 36 0 0 1 124 72 Z"/>
+    <path d="M156 72 L168 36 L200 36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 168 L156 72"/>
+    <path d="M88 72 L104.97 55.03"/>
+    <path d="M88 72 L88 48"/>
+    <path d="M88 72 L71.03 55.03"/>
+  </g>
+</svg>

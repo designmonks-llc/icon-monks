@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="rust,rs,source,code">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 112 V32 H152 L200 80 V112"/>
+    <path d="M80 216 V152 H102 A16 16 0 0 1 102 184 H80"/>
+    <path d="M100 184 L118 216"/>
+    <path d="M176 152 H156 A16 16 0 0 0 156 184 H160 A16 16 0 0 1 160 216 H140"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

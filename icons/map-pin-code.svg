@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map pin,code,developer,embed,map">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M130.04 210.25 C121.77 218.87 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 110.6 187 117.31 185.24 124.01 A60 60 0 0 0 130.04 210.25 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130.04 210.25 C121.77 218.87 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 110.6 187 117.31 185.24 124.01"/>
+    <path d="M172 162 L154 184 L172 206"/>
+    <path d="M196 162 L214 184 L196 206"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="116" cy="104" r="24"/>
+  </g>
+</svg>

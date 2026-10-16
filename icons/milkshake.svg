@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="milkshake,smoothie,drink,straw">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 120 H184 L170 208 Q168 224 152 224 H104 Q88 224 86 208 Z"/>
+    <path d="M72 120 C72 88 96 76 128 76 C160 76 184 88 184 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 120 H184 L170 208 Q168 224 152 224 H104 Q88 224 86 208 Z"/>
+    <path d="M56 120 L200 120"/>
+    <path d="M72 120 C72 88 96 76 128 76 C160 76 184 88 184 120 Z"/>
+    <path d="M144 78 L164 36 L192 36"/>
+  </g>
+</svg>

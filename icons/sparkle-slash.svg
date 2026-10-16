@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="sparkle,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M117.68 75.25 C122.57 63.39 125.86 49.13 128 32 C136 96 160 120 224 128 C206.87 130.14 192.61 133.43 180.75 138.32"/>
+    <path d="M138.32 180.75 C133.43 192.61 130.14 206.87 128 224 C120 160 96 136 32 128 C49.13 125.86 63.39 122.57 75.25 117.68"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

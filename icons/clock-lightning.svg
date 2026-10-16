@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="acute,urgent,emergency,fast,clock">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M223.09 141.16 A96 96 0 1 0 141.16 223.09 A58 58 0 0 1 223.09 141.16 Z"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M223.09 141.16 A96 96 0 1 0 141.16 223.09"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 128 L88 128"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="dishwasher,appliance,kitchen,dishes,clean">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="32" width="160" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="32" width="160" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 88 L208 88"/>
+    <path d="M136 60 L168 60"/>
+    <path d="M96 120 L160 120"/>
+    <path d="M76 192 A24 24 0 0 1 124 192"/>
+    <path d="M132 192 A24 24 0 0 1 180 192"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="60" r="12"/>
+  </g>
+</svg>

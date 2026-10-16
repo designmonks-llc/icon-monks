@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="grapes,fruit,wine,vineyard">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="100" r="24"/>
+    <circle cx="128" cy="100" r="24"/>
+    <circle cx="180" cy="100" r="24"/>
+    <circle cx="102" cy="146" r="24"/>
+    <circle cx="154" cy="146" r="24"/>
+    <circle cx="128" cy="192" r="24"/>
+    <path d="M140 52 A33.08 33.08 0 0 1 190 42 A33.08 33.08 0 0 1 140 52 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="100" r="24"/>
+    <circle cx="128" cy="100" r="24"/>
+    <circle cx="180" cy="100" r="24"/>
+    <circle cx="102" cy="146" r="24"/>
+    <circle cx="154" cy="146" r="24"/>
+    <circle cx="128" cy="192" r="24"/>
+    <path d="M128 76 C128 60 130 50 136 42"/>
+    <path d="M140 52 A33.08 33.08 0 0 1 190 42 A33.08 33.08 0 0 1 140 52 Z"/>
+  </g>
+</svg>

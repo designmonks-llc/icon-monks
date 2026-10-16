@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="path,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="56" cy="200" r="24"/>
+    <circle cx="200" cy="56" r="24"/>
+    <path d="M80 200 H156 A36 36 0 0 0 156 128 H100 A36 36 0 0 1 100 56 H176"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

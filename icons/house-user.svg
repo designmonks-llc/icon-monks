@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="homeowner,resident,house,person">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 L128 44 L208 112 V208 H48 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M100 200 A28 28 0 0 1 156 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 V208 H208 V112"/>
+    <path d="M32 124 L128 40 L224 124"/>
+    <path d="M92 208 A36 36 0 0 1 164 208"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="132" r="18"/>
+  </g>
+</svg>

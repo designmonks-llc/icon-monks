@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="castle,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 V48 H56 V72 H84 V48 H100 V112 H156 V48 H172 V72 H200 V48 H216 V216"/>
+    <path d="M24 216 L232 216"/>
+    <path d="M108 216 V180 A20 20 0 0 1 148 180 V216"/>
+    <path d="M70 108 L70 140"/>
+    <path d="M186 108 L186 140"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

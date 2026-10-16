@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="intestines,gut,digestive,colon">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 192 V80 A32 32 0 0 1 80 48 H176 A32 32 0 0 1 208 80 V176 A24 24 0 0 1 184 200 H140 V224"/>
+    <path d="M100 100 H156 A18 18 0 0 1 156 136 H100 A18 18 0 0 0 100 172 H48"/>
+  </g>
+</svg>

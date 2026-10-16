@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet arabic,alphabet,script,language,arabic">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 72 V112 C208 160 180 176 128 176 C76 176 48 160 48 120 V104"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="212" r="16"/>
+  </g>
+</svg>

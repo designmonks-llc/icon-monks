@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="sass,scss,stylesheet,file type">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 112 V32 H152 L200 80 V112"/>
+    <path d="M64.68 152 H48 A16 16 0 0 0 48 184 H48.68 A16 16 0 0 1 48.68 216 H32"/>
+    <path d="M82.68 216 L102.66 152 L122.63 216"/>
+    <path d="M89.48 194.24 L115.84 194.24"/>
+    <path d="M173.32 152 H156.63 A16 16 0 0 0 156.63 184 H157.32 A16 16 0 0 1 157.32 216 H140.63"/>
+    <path d="M224 152 H207.32 A16 16 0 0 0 207.32 184 H208 A16 16 0 0 1 208 216 H191.32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

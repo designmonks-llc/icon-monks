@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="short,viewport,compress height,responsive">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 64 L128 108"/>
+    <path d="M152 84 L128 108 L104 84"/>
+    <path d="M128 192 L128 148"/>
+    <path d="M152 172 L128 148 L104 172"/>
+  </g>
+</svg>

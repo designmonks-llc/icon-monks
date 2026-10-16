@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="elevation,height,mountain,above sea level">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 208 L100 64 L168 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 208 L100 64 L168 208 Z"/>
+    <path d="M204 208 L204 48"/>
+    <path d="M176 76 L204 48 L224 68"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68.4 132 L84 146 L100 130 L116 146 L131.6 132"/>
+  </g>
+</svg>

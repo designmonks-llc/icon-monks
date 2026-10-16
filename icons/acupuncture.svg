@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="needles,therapy,traditional medicine,acupressure">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 134 V82 A18 18 0 0 1 112 82 V58 A18 18 0 0 1 148 58 V70 A18 18 0 0 1 184 70 V98 A18 18 0 0 1 220 98 V152 C220 196 192 224 152 224 H132 C108 224 92 214 78 196 L40 146 A18 18 0 0 1 68 124 L76 134 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 134 V82 A18 18 0 0 1 112 82 V58 A18 18 0 0 1 148 58 V70 A18 18 0 0 1 184 70 V98 A18 18 0 0 1 220 98 V152 C220 196 192 224 152 224 H132 C108 224 92 214 78 196 L40 146 A18 18 0 0 1 68 124 L76 134 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 82 L112 132"/>
+    <path d="M148 70 L148 132"/>
+    <path d="M184 98 L184 132"/>
+    <path d="M104 206 L126 184"/>
+    <path d="M156 208 L176 188"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="130" cy="180" r="18"/>
+    <circle cx="180" cy="184" r="18"/>
+  </g>
+</svg>

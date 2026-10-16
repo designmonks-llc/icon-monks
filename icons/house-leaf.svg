@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="eco house,green home,sustainable,energy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 L128 44 L208 112 V208 H48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 V208 H208 V112"/>
+    <path d="M32 124 L128 40 L224 124"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M94.8 185.2 C91.28 146.48 115.92 118.32 165.2 114.8 C168.72 160.56 140.56 188.72 94.8 185.2 Z"/>
+    <path d="M94.8 185.2 L144.08 135.92"/>
+  </g>
+</svg>

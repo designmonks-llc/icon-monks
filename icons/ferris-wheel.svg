@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="ferris wheel,amusement park,attractions,fair,amusement">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="104" r="72"/>
+    <path d="M128 104 L80 216"/>
+    <path d="M128 104 L176 216"/>
+    <path d="M48 216 L208 216"/>
+    <path d="M128 104 L200 104"/>
+    <path d="M128 104 L56 104"/>
+    <path d="M128 104 L164 41.65"/>
+    <path d="M128 104 L92 41.65"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="32" r="16"/>
+    <circle cx="190.35" cy="68" r="16"/>
+    <circle cx="190.35" cy="140" r="16"/>
+    <circle cx="128" cy="176" r="16"/>
+    <circle cx="65.65" cy="140" r="16"/>
+    <circle cx="65.65" cy="68" r="16"/>
+    <circle cx="128" cy="104" r="16"/>
+  </g>
+</svg>

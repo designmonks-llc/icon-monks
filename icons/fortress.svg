@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="fort,defense,walls">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M148 76 L204 52 L180 108 L180 148 L204 204 L148 180 L108 180 L52 204 L76 148 L76 108 L52 52 L108 76 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 76 L204 52 L180 108 L180 148 L204 204 L148 180 L108 180 L52 204 L76 148 L76 108 L52 52 L108 76 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="108" y="108" width="40" height="40" rx="8"/>
+  </g>
+</svg>

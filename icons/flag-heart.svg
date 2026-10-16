@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="flag,favorite,like,love">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M152.47 139.65 C111.69 146.5 87.69 118.16 53.6 135.2 L53.6 45.6 C92 26.4 117.6 64.8 168.8 45.6 L168.8 131.15 A60 60 0 0 0 152.47 139.65 Z"/>
+    <path d="M188 217.84 C188 217.84 155.36 200.16 155.36 179.08 A17 17 0 0 1 188 172.28 A17 17 0 0 1 220.64 179.08 C220.64 200.16 188 217.84 188 217.84 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M53.6 186.4 L53.6 39.2"/>
+    <path d="M152.47 139.65 C111.69 146.5 87.69 118.16 53.6 135.2 L53.6 45.6 C92 26.4 117.6 64.8 168.8 45.6 L168.8 131.15"/>
+    <path d="M188 217.84 C188 217.84 155.36 200.16 155.36 179.08 A17 17 0 0 1 188 172.28 A17 17 0 0 1 220.64 179.08 C220.64 200.16 188 217.84 188 217.84 Z"/>
+  </g>
+</svg>

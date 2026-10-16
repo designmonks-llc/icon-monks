@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="lungs,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 112 V196 A20 20 0 0 1 88 216 H60 A20 20 0 0 1 40 196 V152 C40 104 60 72 80 68 C96 64 108 80 108 112 Z"/>
+    <path d="M148 112 V196 A20 20 0 0 0 168 216 H196 A20 20 0 0 0 216 196 V152 C216 104 196 72 176 68 C160 64 148 80 148 112 Z"/>
+    <path d="M128 32 L128 88"/>
+    <path d="M108 112 L128 88 L148 112"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

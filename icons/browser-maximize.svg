@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="browser maximize,browser,window,web,maximize">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 L224 104"/>
+    <path d="M104 72 L192 72"/>
+    <path d="M100 188 L156 132"/>
+    <path d="M124 132 L156 132 L156 164"/>
+    <path d="M100 156 L100 188 L132 188"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="64" cy="72" r="10"/>
+  </g>
+</svg>

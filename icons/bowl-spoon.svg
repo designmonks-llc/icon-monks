@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="bowl spoon,bowl,spoon,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 100 A96 84 0 0 0 224 100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 100 A96 84 0 0 0 224 100 Z"/>
+    <path d="M104 181 L100 208 L156 208 L152 181"/>
+    <path d="M140 100 L192 40"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="stockpot,soup,pot,cooking,cook">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 128 A88 34 0 0 1 216 128 Z"/>
+    <path d="M56 128 V192 A24 24 0 0 0 80 216 H176 A24 24 0 0 0 200 192 V128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 128 A88 34 0 0 1 216 128 Z"/>
+    <path d="M56 128 V192 A24 24 0 0 0 80 216 H176 A24 24 0 0 0 200 192 V128"/>
+    <path d="M32 160 L56 160"/>
+    <path d="M200 160 L224 160"/>
+    <path d="M80 68 C70 58 90 48 80 36"/>
+    <path d="M176 68 C166 58 186 48 176 36"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="94" r="16"/>
+  </g>
+</svg>

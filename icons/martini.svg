@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="cocktail,martini,drink,bar,nightlife">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 64 L224 64 L128 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 L224 64 L128 160 Z"/>
+    <path d="M128 160 L128 216"/>
+    <path d="M88 216 L168 216"/>
+    <path d="M151 64 L172 37"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="118" cy="100" r="12"/>
+    <path d="M124 92 L151 64"/>
+  </g>
+</svg>

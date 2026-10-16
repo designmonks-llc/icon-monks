@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="picnic,table,park,outdoors">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 L216 88"/>
+    <path d="M100 88 L60 208"/>
+    <path d="M156 88 L196 208"/>
+    <path d="M36 152 L108 152"/>
+    <path d="M148 152 L220 152"/>
+  </g>
+</svg>

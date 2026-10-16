@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="face mask,disabled,off,health">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 80 C100 64 156 64 192 80 V160 C156 188 100 188 64 160 Z"/>
+    <path d="M64 100 H56 A24 24 0 0 0 56 148 H64"/>
+    <path d="M192 100 H200 A24 24 0 0 1 200 148 H192"/>
+    <path d="M100 108 L156 108"/>
+    <path d="M100 140 L156 140"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

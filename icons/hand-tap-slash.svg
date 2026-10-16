@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="hand tap,off,disabled,hidden,hand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M61.28 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 118.43"/>
+    <path d="M112 154.43 L112 162 A18 18 0 0 1 113.18 155.6"/>
+    <path d="M197.1 154.68 A18 18 0 0 1 220 172 L220 177.57"/>
+    <path d="M94 51.57 L94 40"/>
+    <path d="M127.71 79.72 L146.09 64.29"/>
+    <path d="M148 190.43 L148 200"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

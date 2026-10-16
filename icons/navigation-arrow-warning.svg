@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="navigation arrow,warning,alert,error,navigation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44.48 97.52 L169.28 44.48 L116.24 169.28 L100.64 113.12 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44.48 97.52 L169.28 44.48 L116.24 169.28 L100.64 113.12 Z"/>
+    <path d="M184 152 L184 184"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="216" r="16"/>
+  </g>
+</svg>

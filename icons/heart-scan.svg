@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="health scan,heart,recognition,vitals">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 176.8 C128 176.8 74.24 147.68 74.24 112.96 A28 28 0 0 1 128 101.76 A28 28 0 0 1 181.76 112.96 C181.76 147.68 128 176.8 128 176.8 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 L40 40 L88 40"/>
+    <path d="M168 40 L216 40 L216 88"/>
+    <path d="M216 168 L216 216 L168 216"/>
+    <path d="M88 216 L40 216 L40 168"/>
+    <path d="M128 176.8 C128 176.8 74.24 147.68 74.24 112.96 A28 28 0 0 1 128 101.76 A28 28 0 0 1 181.76 112.96 C181.76 147.68 128 176.8 128 176.8 Z"/>
+  </g>
+</svg>

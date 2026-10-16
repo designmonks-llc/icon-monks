@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="hot tub,jacuzzi,spa,bath">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 136 V176 A32 32 0 0 0 88 208 H168 A32 32 0 0 0 200 176 V136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 136 L216 136"/>
+    <path d="M56 136 V176 A32 32 0 0 0 88 208 H168 A32 32 0 0 0 200 176 V136"/>
+    <path d="M68 136 A28 28 0 0 1 124 136"/>
+    <path d="M156 108 C146 96 166 84 156 72 C146 60 166 48 156 36"/>
+    <path d="M200 108 C190 96 210 84 200 72 C190 60 210 48 200 36"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="96" cy="76" r="20"/>
+  </g>
+</svg>

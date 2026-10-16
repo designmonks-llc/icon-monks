@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="3d glasses,cinema,movie,stereoscopic,stereo">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="92" width="84" height="80" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="92" width="84" height="80" rx="16"/>
+    <rect x="140" y="92" width="84" height="80" rx="16"/>
+    <path d="M116 116 A12 12 0 0 1 140 116"/>
+    <path d="M44 92 L56 64"/>
+    <path d="M212 92 L200 64"/>
+  </g>
+</svg>

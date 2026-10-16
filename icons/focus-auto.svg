@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="autofocus,camera,af,focus">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <path d="M92 180 L128 76 L164 180"/>
+    <path d="M105 144 L151 144"/>
+  </g>
+</svg>

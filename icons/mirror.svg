@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="vanity mirror,reflection,bathroom,mirror,vanity">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="100" rx="60" ry="72"/>
+    <path d="M112 170 V208 A16 16 0 0 0 144 208 V170 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="100" rx="60" ry="72"/>
+    <path d="M112 170 V208 A16 16 0 0 0 144 208 V170"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92.55 91.66 A36 48 0 0 1 112.79 56.5"/>
+  </g>
+</svg>

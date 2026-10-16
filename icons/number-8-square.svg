@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="number 8,eight,digit,square,8">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="100.7" rx="27.3" ry="24.7"/>
+    <ellipse cx="128" cy="152.7" rx="31.2" ry="27.3"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="area search,scan region,find in selection">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="116" cy="116" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 56 L32 32 L56 32"/>
+    <path d="M200 32 L224 32 L224 56"/>
+    <path d="M224 200 L224 224 L200 224"/>
+    <path d="M56 224 L32 224 L32 200"/>
+    <path d="M88 32 L112 32"/>
+    <path d="M88 224 L112 224"/>
+    <path d="M32 88 L32 112"/>
+    <path d="M224 88 L224 112"/>
+    <path d="M144 32 L168 32"/>
+    <path d="M144 224 L168 224"/>
+    <path d="M32 144 L32 168"/>
+    <path d="M224 144 L224 168"/>
+    <circle cx="116" cy="116" r="40"/>
+    <path d="M144.3 144.3 L176 176"/>
+  </g>
+</svg>

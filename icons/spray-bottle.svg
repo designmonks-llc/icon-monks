@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="cleaning spray,spray,chores,cleaning,household">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="128" width="96" height="96" rx="16"/>
+    <rect x="84" y="96" width="40" height="32"/>
+    <path d="M64 96 V64 A16 16 0 0 1 80 48 H168 A8 8 0 0 1 176 56 V72 A8 8 0 0 1 168 80 H136 V96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="128" width="96" height="96" rx="16"/>
+    <path d="M84 128 V96"/>
+    <path d="M124 128 V96"/>
+    <path d="M64 96 V64 A16 16 0 0 1 80 48 H168 A8 8 0 0 1 176 56 V72 A8 8 0 0 1 168 80 H136 V96 Z"/>
+    <path d="M156 80 L172 120"/>
+    <path d="M208 40 L220 32"/>
+    <path d="M208 64 L224 64"/>
+    <path d="M208 88 L220 96"/>
+  </g>
+</svg>

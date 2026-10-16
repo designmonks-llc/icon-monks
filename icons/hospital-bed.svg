@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="hospital bed,patient,ward,care">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 128 H208 A16 16 0 0 1 224 144 V152 A16 16 0 0 1 208 168 H40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L40 188"/>
+    <path d="M40 128 H208 A16 16 0 0 1 224 144 V152 A16 16 0 0 1 208 168 H40"/>
+    <path d="M104 128 V96 H200 V128"/>
+    <path d="M200 168 L200 188"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="200" cy="208" r="16"/>
+    <circle cx="40" cy="208" r="16"/>
+  </g>
+</svg>

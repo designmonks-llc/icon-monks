@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="compare,before after,split,picture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 48 H46 A14 14 0 0 0 32 62 V194 A14 14 0 0 0 46 208 H128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+    <path d="M128 32 L128 224"/>
+    <path d="M144 184 L168 160 L212 204"/>
+    <circle cx="168" cy="100" r="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 188 L96 136 L112 152"/>
+  </g>
+</svg>

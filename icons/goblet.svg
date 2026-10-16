@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="goblet,chalice,cup,trophy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 40 H200 V64 A72 72 0 0 1 56 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 40 H200 V64 A72 72 0 0 1 56 64 Z"/>
+    <path d="M128 136 V176 C128 196 100 200 88 216 H168 C156 200 128 196 128 176"/>
+  </g>
+</svg>

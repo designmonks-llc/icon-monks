@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="medication,medicine,prescription,pills,supplements">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="144" height="40" rx="12"/>
+    <path d="M68 72 V208 A16 16 0 0 0 84 224 H172 A16 16 0 0 0 188 208 V72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="144" height="40" rx="12"/>
+    <path d="M68 72 V208 A16 16 0 0 0 84 224 H172 A16 16 0 0 0 188 208 V72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="112" width="64" height="72" rx="8"/>
+  </g>
+</svg>

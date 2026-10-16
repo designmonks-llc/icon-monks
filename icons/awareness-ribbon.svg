@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="awareness ribbon,cancer,support,health">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 143.3 L150 110 C176 72 164 40 128 40 C92 40 80 72 106 110 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 216 L150 110 C176 72 164 40 128 40 C92 40 80 72 106 110 L176 216"/>
+  </g>
+</svg>

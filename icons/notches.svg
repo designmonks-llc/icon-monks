@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="resize grip,corner handle,drag">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 40 L40 216"/>
+    <path d="M216 104 L104 216"/>
+    <path d="M216 168 L168 216"/>
+  </g>
+</svg>

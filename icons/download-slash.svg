@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="download off,no download,blocked,offline,download">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 56 L128 176"/>
+    <path d="M80 128 L128 176 L176 128"/>
+    <path d="M40 168 L40 200 C40 208.84 47.16 216 56 216 L200 216 C208.84 216 216 208.84 216 200 L216 168"/>
+    <path d="M44 44 L184 184"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="question,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M100 104 A28 28 0 1 1 140 129 C132 133 128 138 128 146 V150"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="184" r="16"/>
+  </g>
+</svg>

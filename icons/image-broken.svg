@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="broken image,missing,error,picture,photo">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 48 H46 A14 14 0 0 0 32 62 V194 A14 14 0 0 0 46 208 H124 L144 168 L124 128 L148 88 L132 48 Z"/>
+    <path d="M172 48 H210 A14 14 0 0 1 224 62 V194 A14 14 0 0 1 210 208 H164 L184 168 L164 128 L188 88 L172 48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 48 H46 A14 14 0 0 0 32 62 V194 A14 14 0 0 0 46 208 H124 L144 168 L124 128 L148 88 L132 48 Z"/>
+    <path d="M172 48 H210 A14 14 0 0 1 224 62 V194 A14 14 0 0 1 210 208 H164 L184 168 L164 128 L188 88 L172 48 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 188 L96 136 L101.86 141.86"/>
+    <path d="M200.71 192.71 L212 204"/>
+    <circle cx="76" cy="96" r="16"/>
+  </g>
+</svg>

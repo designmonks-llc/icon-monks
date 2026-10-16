@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="fried egg,breakfast,sunny side up,egg,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M118.38 36.5 C144.36 31.61 180.22 54.7 197.34 73.82 C214.47 92.94 228.38 128.88 221.15 151.22 C213.92 173.57 179.33 199.15 153.96 207.89 C128.58 216.63 87.64 221.1 68.9 203.65 C50.15 186.2 33.24 131.05 41.49 103.19 C49.73 75.34 92.41 41.4 118.38 36.5 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118.38 36.5 C144.36 31.61 180.22 54.7 197.34 73.82 C214.47 92.94 228.38 128.88 221.15 151.22 C213.92 173.57 179.33 199.15 153.96 207.89 C128.58 216.63 87.64 221.1 68.9 203.65 C50.15 186.2 33.24 131.05 41.49 103.19 C49.73 75.34 92.41 41.4 118.38 36.5 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="120" r="36"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="lemon,citrus,fruit,sour">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M50.68 162.43 C56.86 149.17 58.27 143.28 57.73 133.02 C53.6 87.56 147.73 45.65 178.75 79.13 C186.02 86.41 191.33 89.29 205.32 93.57 C199.14 106.83 197.73 112.72 198.27 122.98 C202.4 168.44 108.27 210.35 77.25 176.87 C69.98 169.59 64.67 166.71 50.68 162.43 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50.68 162.43 C56.86 149.17 58.27 143.28 57.73 133.02 C53.6 87.56 147.73 45.65 178.75 79.13 C186.02 86.41 191.33 89.29 205.32 93.57 C199.14 106.83 197.73 112.72 198.27 122.98 C202.4 168.44 108.27 210.35 77.25 176.87 C69.98 169.59 64.67 166.71 50.68 162.43 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 116 C100 100 112 92 128 88"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="clock tower,big ben,landmark,time">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 84 L128 32 L196 84 Z"/>
+    <rect x="72" y="84" width="112" height="132"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 84 L128 32 L196 84 Z"/>
+    <path d="M72 84 V216 H184 V84"/>
+    <path d="M48 216 L208 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="140" r="32"/>
+    <path d="M128 124 L128 140 L140 148"/>
+  </g>
+</svg>

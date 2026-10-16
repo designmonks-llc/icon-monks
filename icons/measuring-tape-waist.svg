@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="waist,measure,diet,body">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 112 C96 136 160 136 216 112 V144 C160 168 96 168 40 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 32 C88 88 88 112 76 136 C64 160 56 200 64 224"/>
+    <path d="M192 32 C168 88 168 112 180 136 C192 160 200 200 192 224"/>
+    <path d="M40 112 C96 136 160 136 216 112 V144 C160 168 96 168 40 144 Z"/>
+  </g>
+</svg>

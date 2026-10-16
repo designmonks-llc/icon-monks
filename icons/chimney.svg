@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="chimney,roof,smoke,house">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 136 L128 76 L200 136 L200 216 L56 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 156 L128 76 L224 156"/>
+    <path d="M56 136 V216 H200 V136"/>
+    <path d="M152 96 V80 H184 V122.67"/>
+    <path d="M168 60 C156 52 180 42 168 32"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="image recognition,scan,photo,detect">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="84" width="112" height="88" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <rect x="72" y="84" width="112" height="88" rx="12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 160 L112 132 L140 160"/>
+    <path d="M132 152 L148 136 L172 160"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="152" cy="110" r="14"/>
+  </g>
+</svg>

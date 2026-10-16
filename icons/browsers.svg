@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="windows,multiple windows,tabs">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M46 72 H170 A14 14 0 0 1 184 86 V202 A14 14 0 0 1 170 216 H46 A14 14 0 0 1 32 202 V86 A14 14 0 0 1 46 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 72 H170 A14 14 0 0 1 184 86 V202 A14 14 0 0 1 170 216 H46 A14 14 0 0 1 32 202 V86 A14 14 0 0 1 46 72 Z"/>
+    <path d="M72 72 V46 A14 14 0 0 1 86 32 H210 A14 14 0 0 1 224 46 V162 A14 14 0 0 1 210 176 H184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 124 L184 124"/>
+    <path d="M96 98 L156 98"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="62" cy="98" r="10"/>
+  </g>
+</svg>

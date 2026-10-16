@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="yml,yaml,config,file type">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 112 V32 H152 L200 80 V112"/>
+    <path d="M45 152 L66 184 L87 152"/>
+    <path d="M66 184 L66 216"/>
+    <path d="M109 216 L109 152 L133 190.4 L157 152 L157 216"/>
+    <path d="M179 152 L179 216 L211 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="serving dish,cloche,catering,restaurant">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 180 A92 92 0 0 1 220 180 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 180 A92 92 0 0 1 220 180 Z"/>
+    <path d="M32 180 L224 180"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M69.74 158.79 A62 62 0 0 1 97 126.31"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="80" r="18"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="gps off,no location,location disabled,gps,disabled">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96.76 54.33 C106.36 50.25 116.91 48 128 48 C172.18 48 208 83.82 208 128 C208 139.09 205.75 149.64 201.67 159.24"/>
+    <path d="M159.24 201.67 C149.64 205.75 139.09 208 128 208 C83.82 208 48 172.18 48 128 C48 116.91 50.25 106.36 54.33 96.76"/>
+    <path d="M128 32 L128 80"/>
+    <path d="M128 176 L128 224"/>
+    <path d="M32 128 L80 128"/>
+    <path d="M176 128 L224 128"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

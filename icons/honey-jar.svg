@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="honey,jar,sweet,bee">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 92 C52 108 48 140 48 164 C48 196 72 220 104 220 H152 C184 220 208 196 208 164 C208 140 204 108 176 92 Z"/>
+    <rect x="72" y="64" width="112" height="28" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 92 C52 108 48 140 48 164 C48 196 72 220 104 220 H152 C184 220 208 196 208 164 C208 140 204 108 176 92 Z"/>
+    <rect x="72" y="64" width="112" height="28" rx="10"/>
+    <path d="M150 64 L192 36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 128 H80 V144 A12 12 0 0 0 104 144 V128 H140 V160 A12 12 0 0 0 164 160 V128 H208"/>
+  </g>
+</svg>

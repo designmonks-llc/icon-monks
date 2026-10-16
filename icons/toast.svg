@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="toast,bread,breakfast,slice">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 208 V116 C44 108 36 92 36 76 C36 48 64 36 128 36 C192 36 220 48 220 76 C220 92 212 108 192 116 V208 A8 8 0 0 1 184 216 H72 A8 8 0 0 1 64 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 208 V116 C44 108 36 92 36 76 C36 48 64 36 128 36 C192 36 220 48 220 76 C220 92 212 108 192 116 V208 A8 8 0 0 1 184 216 H72 A8 8 0 0 1 64 208 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 184 V104 C80 100 68 92 68 80 C68 72 88 68 128 68 C168 68 188 72 188 80 C188 92 176 100 160 104 V184 Z"/>
+  </g>
+</svg>

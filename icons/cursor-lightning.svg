@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="cursor,fast,power,instant">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 32 L200 104 L128 128 L104 200 L40 32 Z"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 32 L200 104 L128 128 L104 200 L40 32 Z"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+</svg>

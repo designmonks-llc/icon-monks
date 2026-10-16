@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="beans,fava,legume,pod">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 204 A140.52 140.52 0 0 1 204 52 A140.52 140.52 0 0 1 52 204 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 204 A140.52 140.52 0 0 1 204 52 A140.52 140.52 0 0 1 52 204 Z"/>
+    <path d="M204 52 L220 36"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="88" cy="168" r="16"/>
+    <circle cx="128" cy="128" r="16"/>
+    <circle cx="168" cy="88" r="16"/>
+  </g>
+</svg>

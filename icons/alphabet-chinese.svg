@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet chinese,alphabet,script,language,chinese">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 32 L132 56"/>
+    <path d="M40 84 L216 84"/>
+    <path d="M176 84 C160 160 120 200 44 216"/>
+    <path d="M80 84 C96 160 136 200 212 216"/>
+  </g>
+</svg>

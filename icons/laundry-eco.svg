@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="eco wash,laundry,low energy,green">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 84 C48 68 64 68 80 84 C96 100 112 100 128 84 C144 68 160 68 176 84 C192 100 208 100 224 84 L200 196 H56 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M100 176 C98 146 116 128 156 124 C158 160 136 178 100 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 84 L56 196 H200 L224 84"/>
+    <path d="M32 84 C48 68 64 68 80 84 C96 100 112 100 128 84 C144 68 160 68 176 84 C192 100 208 100 224 84"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 176 C98 146 116 128 156 124 C158 160 136 178 100 176 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="scallion,green onion,leek,vegetable">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="108" y="124" width="40" height="92" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="108" y="124" width="40" height="92" rx="20"/>
+    <path d="M128 124 L128 32"/>
+    <path d="M116 124 C108 92 92 68 64 48"/>
+    <path d="M140 124 C148 92 164 68 192 48"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 172 L148 172"/>
+  </g>
+</svg>

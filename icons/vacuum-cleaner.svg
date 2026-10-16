@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="vacuum,cleaner,cleaning,hoover,vacuum cleaner">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="112" y="120" width="108" height="88" rx="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="112" y="120" width="108" height="88" rx="32"/>
+    <path d="M136 120 C136 80 120 60 94 60"/>
+    <path d="M100 36 L60 208"/>
+    <path d="M32 212 L88 212"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 164 L184 164"/>
+  </g>
+</svg>

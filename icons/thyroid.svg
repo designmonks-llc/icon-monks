@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="endocrine,thyroid,gland,hormone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 128 C112 128 104 112 100 88 C96 60 88 48 76 48 C56 48 40 80 40 128 C40 176 56 208 84 208 C104 208 112 184 128 184 C144 184 152 208 172 208 C200 208 216 176 216 128 C216 80 200 48 180 48 C168 48 160 60 156 88 C152 112 144 128 128 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 128 C112 128 104 112 100 88 C96 60 88 48 76 48 C56 48 40 80 40 128 C40 176 56 208 84 208 C104 208 112 184 128 184 C144 184 152 208 172 208 C200 208 216 176 216 128 C216 80 200 48 180 48 C168 48 160 60 156 88 C152 112 144 128 128 128 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="paris,eiffel,landmark,tower,france">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 40 Q120 152 48 216 H84 A44 40 0 0 1 172 216 H208 Q136 152 128 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 Q120 152 48 216"/>
+    <path d="M208 216 Q136 152 128 40"/>
+    <path d="M128 40 L128 32"/>
+    <path d="M84 216 A44 40 0 0 1 172 216"/>
+    <path d="M105.13 104 L150.87 104"/>
+    <path d="M81.73 160 L174.27 160"/>
+  </g>
+</svg>

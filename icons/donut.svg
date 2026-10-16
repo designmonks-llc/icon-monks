@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="donut,doughnut,pastry,sweet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="128" cy="128" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <circle cx="128" cy="128" r="30"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M155.5 64.78 L164.5 80.37"/>
+    <path d="M188.21 121.11 L199.79 134.89"/>
+    <path d="M167.46 184.77 L150.54 178.62"/>
+    <path d="M103.86 186.72 L86.14 183.59"/>
+    <path d="M56.21 132.5 L71.79 123.5"/>
+    <path d="M95.44 83.17 L98.56 65.44"/>
+  </g>
+</svg>

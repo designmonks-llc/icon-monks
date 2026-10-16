@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="clothes rack,disabled,off,home">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 208 L40 85.25"/>
+    <path d="M93.25 48 L216 48 L216 170.75"/>
+    <path d="M32 208 L64 208"/>
+    <path d="M160 48 L160 64"/>
+    <path d="M114 159.25 L114 168 L78 168 L78 123.25"/>
+    <path d="M142 96.75 L142 80 L160 64 L178 80 L178 132.75"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

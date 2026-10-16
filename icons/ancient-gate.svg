@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="paifang,gate,landmark,temple">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 92 C56 92 68 80 76 56 H180 C188 80 200 92 224 92 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 92 C56 92 68 80 76 56 H180 C188 80 200 92 224 92 Z"/>
+    <path d="M128 56 L128 32"/>
+    <path d="M72 92 L72 216"/>
+    <path d="M184 92 L184 216"/>
+    <path d="M44 144 L212 144"/>
+    <path d="M128 92 L128 144"/>
+  </g>
+</svg>

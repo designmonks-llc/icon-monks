@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet thai,alphabet,script,language,thai">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 208 V116 C76 72 104 48 140 48 C176 48 196 76 196 112 V208"/>
+    <path d="M76 136 C76 112 100 104 112 120"/>
+  </g>
+</svg>

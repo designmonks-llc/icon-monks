@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="rice ball,japanese food,snack">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M159.26 66.7 L212.64 160.12 A32 32 0 0 1 184.86 208 L71.14 208 A32 32 0 0 1 43.36 160.12 L96.74 66.7 A36 36 0 0 1 159.26 66.7 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M159.26 66.7 L212.64 160.12 A32 32 0 0 1 184.86 208 L71.14 208 A32 32 0 0 1 43.36 160.12 L96.74 66.7 A36 36 0 0 1 159.26 66.7 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 208 V156 A8 8 0 0 1 108 148 H148 A8 8 0 0 1 156 156 V208"/>
+  </g>
+</svg>

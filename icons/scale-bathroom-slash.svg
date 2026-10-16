@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="scale bathroom,off,disabled,hidden,scale">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <path d="M72 120 A56 56 0 0 1 184 120 Z"/>
+    <path d="M128 120 L144 96"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

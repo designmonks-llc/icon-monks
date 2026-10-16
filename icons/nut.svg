@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="nut,macadamia,walnut,snack,hex nut">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C184 32 208 80 208 132 C208 188 172 224 128 224 C84 224 48 188 48 132 C48 80 72 32 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C184 32 208 80 208 132 C208 188 172 224 128 224 C84 224 48 188 48 132 C48 80 72 32 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 224"/>
+    <path d="M92 76 C76 100 104 116 88 140 C76 160 100 172 92 192"/>
+    <path d="M164 76 C180 100 152 116 168 140 C180 160 156 172 164 192"/>
+  </g>
+</svg>

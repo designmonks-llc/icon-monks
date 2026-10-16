@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="smart lock,keypad,door,security">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="32" width="128" height="192" rx="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="32" width="128" height="192" rx="24"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="176" r="18"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="76" r="14"/>
+    <circle cx="148" cy="76" r="14"/>
+    <circle cx="108" cy="116" r="14"/>
+    <circle cx="148" cy="116" r="14"/>
+  </g>
+</svg>

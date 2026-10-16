@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="album,notebook,photos,journal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="160" height="192" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="160" height="192" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 32 L96 224"/>
+    <path d="M124 168 L148 132 L164 152 L172 144 L188 164"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="172" cy="96" r="14"/>
+  </g>
+</svg>

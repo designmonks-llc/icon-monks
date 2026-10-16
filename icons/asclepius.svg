@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="rod of asclepius,medicine,healthcare">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 78"/>
+    <path d="M128 114 L128 174"/>
+    <path d="M128 210 L128 224"/>
+    <path d="M92 218 C104 214 118 202 128 192 C177.8 190.34 186.27 159.75 153.4 148.25"/>
+    <path d="M102.6 139.75 C69.73 128.25 78.2 97.66 128 96 C156 92 170 76 164 58"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="163" cy="54" r="18"/>
+  </g>
+</svg>

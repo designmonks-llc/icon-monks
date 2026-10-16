@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="tv tower,landmark,shanghai,needle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="140" r="40"/>
+    <circle cx="128" cy="70" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="140" r="40"/>
+    <circle cx="128" cy="70" r="22"/>
+    <path d="M128 32 L128 48"/>
+    <path d="M128 92 L128 100"/>
+    <path d="M108 174.64 L72 216"/>
+    <path d="M148 174.64 L184 216"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="brightness up,brighter,display,sun">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="52"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="52"/>
+    <path d="M204 128 L224 128"/>
+    <path d="M181.74 181.74 L195.88 195.88"/>
+    <path d="M128 204 L128 224"/>
+    <path d="M74.26 181.74 L60.12 195.88"/>
+    <path d="M52 128 L32 128"/>
+    <path d="M74.26 74.26 L60.12 60.12"/>
+    <path d="M128 52 L128 32"/>
+    <path d="M181.74 74.26 L195.88 60.12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 128 L152 128"/>
+    <path d="M128 104 L128 152"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="gate,landmark,fortress,entrance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V136 H224 V216 H152 V192 A24 24 0 0 0 104 192 V216 Z"/>
+    <path d="M40 100 C60 100 72 92 80 68 H176 C184 92 196 100 216 100 Z"/>
+    <rect x="80" y="100" width="96" height="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V136 H224 V216 H152 V192 A24 24 0 0 0 104 192 V216 Z"/>
+    <path d="M40 100 C60 100 72 92 80 68 H176 C184 92 196 100 216 100 Z"/>
+    <path d="M80 100 L80 136"/>
+    <path d="M176 100 L176 136"/>
+    <path d="M128 68 L128 44"/>
+  </g>
+</svg>

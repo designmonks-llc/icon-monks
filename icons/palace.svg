@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="palace,castle,royal,landmark">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V128 C32 106 54 104 54 88 C54 104 76 106 76 128 V156 H88 C88 103.2 128 98.4 128 60 C128 98.4 168 103.2 168 156 H180 V128 C180 106 202 104 202 88 C202 104 224 106 224 128 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V128 C32 106 54 104 54 88 C54 104 76 106 76 128 V156 H88 C88 103.2 128 98.4 128 60 C128 98.4 168 103.2 168 156 H180 V128 C180 106 202 104 202 88 C202 104 224 106 224 128 V216 Z"/>
+    <path d="M128 60 L128 36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 216 V196 A20 20 0 0 1 148 196 V216"/>
+  </g>
+</svg>

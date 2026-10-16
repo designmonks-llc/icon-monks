@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="slides,gallery,image viewer,presentation,slideshow">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="48" width="96" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="48" width="96" height="160" rx="14"/>
+    <path d="M52 100 L32 128 L52 156"/>
+    <path d="M204 100 L224 128 L204 156"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 194 L116 162 L164 204"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="146" cy="92" r="12"/>
+  </g>
+</svg>

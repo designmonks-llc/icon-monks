@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="square,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74.43 32 L208 32 A16 16 0 0 1 224 48 L224 181.57"/>
+    <path d="M181.57 224 L48 224 A16 16 0 0 1 32 208 L32 74.43"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

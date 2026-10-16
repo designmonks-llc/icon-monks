@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="live photo,motion,concentric,camera">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="52"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M217.27 150.26 A92 92 0 0 1 213.3 162.46"/>
+    <path d="M187.14 198.48 A92 92 0 0 1 176.75 206.02"/>
+    <path d="M134.42 219.78 A92 92 0 0 1 121.58 219.78"/>
+    <path d="M79.25 206.02 A92 92 0 0 1 68.86 198.48"/>
+    <path d="M42.7 162.46 A92 92 0 0 1 38.73 150.26"/>
+    <path d="M38.73 105.74 A92 92 0 0 1 42.7 93.54"/>
+    <path d="M68.86 57.52 A92 92 0 0 1 79.25 49.98"/>
+    <path d="M121.58 36.22 A92 92 0 0 1 134.42 36.22"/>
+    <path d="M176.75 49.98 A92 92 0 0 1 187.14 57.52"/>
+    <path d="M213.3 93.54 A92 92 0 0 1 217.27 105.74"/>
+    <circle cx="128" cy="128" r="52"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="128" r="26"/>
+  </g>
+</svg>

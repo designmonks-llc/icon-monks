@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="radish,root vegetable,turnip,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 100 C172 100 196 128 192 158 C188 186 160 204 128 224 C96 204 68 186 64 158 C60 128 84 100 128 100 Z"/>
+    <path d="M120 96 C92 92 72 68 76 36 C104 40 124 64 120 96 Z"/>
+    <path d="M136 96 C164 92 184 68 180 36 C152 40 132 64 136 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 100 C172 100 196 128 192 158 C188 186 160 204 128 224 C96 204 68 186 64 158 C60 128 84 100 128 100 Z"/>
+    <path d="M120 96 C92 92 72 68 76 36 C104 40 124 64 120 96 Z"/>
+    <path d="M136 96 C164 92 184 68 180 36 C152 40 132 64 136 96 Z"/>
+  </g>
+</svg>

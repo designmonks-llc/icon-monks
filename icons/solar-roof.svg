@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="solar panels,renewable,roof">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 L76 48 L180 48 L224 128 Z"/>
+    <path d="M48 128 V208 H208 V128 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M116 208 V180 A12 12 0 0 1 140 180 V208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L76 48 L180 48 L224 128 Z"/>
+    <path d="M48 128 V208 H208 V128"/>
+    <path d="M108 208 V180 A20 20 0 0 1 148 180 V208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54 88 L202 88"/>
+    <path d="M111 48 L96 128"/>
+    <path d="M145 48 L160 128"/>
+  </g>
+</svg>

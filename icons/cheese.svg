@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="cheese,dairy,wedge,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 120 L148 56 L224 120 V192 A8 8 0 0 1 216 200 H40 A8 8 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 120 L148 56 L224 120 V192 A8 8 0 0 1 216 200 H40 A8 8 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 120 L224 120"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="162" r="16"/>
+    <circle cx="144" cy="168" r="14"/>
+    <circle cx="192" cy="152" r="10"/>
+  </g>
+</svg>

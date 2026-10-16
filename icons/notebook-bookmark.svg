@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="notebook,bookmark,journal,saved">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="160" height="192" rx="14"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M148 48 L180 48 L180 95 L164 82 L148 95 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="160" height="192" rx="14"/>
+    <path d="M140 32 L140 112 L164 92 L188 112 L188 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 32 L96 224"/>
+  </g>
+</svg>

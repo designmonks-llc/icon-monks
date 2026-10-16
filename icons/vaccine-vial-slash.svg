@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="vaccine vial,off,disabled,hidden,vaccine">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84.41 39.16 A10 10 0 0 1 94 32 L162 32 A10 10 0 0 1 172 42 L172 58 A10 10 0 0 1 162 68 L113.25 68"/>
+    <path d="M80 125.25 L80 208 A16 16 0 0 1 96 224 L160 224 A16 16 0 0 1 166.14 211.4"/>
+    <path d="M176 130.75 L176 112 C176 96 152 92 152 80 L152 68"/>
+    <path d="M108 184 L138.75 184"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

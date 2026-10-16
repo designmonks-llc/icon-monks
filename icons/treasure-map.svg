@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="treasure,map,adventure,x marks">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 64 L208 64 A16 16 0 0 0 208 32 L48 32 A16 16 0 0 0 48 64 Z"/>
+    <path d="M48 224 L208 224 A16 16 0 0 0 208 192 L48 192 A16 16 0 0 0 48 224 Z"/>
+    <rect x="56" y="48" width="144" height="160"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 L208 64 A16 16 0 0 0 208 32 L48 32 A16 16 0 0 0 48 64 Z"/>
+    <path d="M48 224 L208 224 A16 16 0 0 0 208 192 L48 192 A16 16 0 0 0 48 224 Z"/>
+    <path d="M56 64 L56 192"/>
+    <path d="M200 64 L200 192"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 164 L92.03 164.33"/>
+    <path d="M116.95 158.23 L123.02 153.08"/>
+    <path d="M131.83 129.11 L132 124"/>
+    <path d="M146 90 L172 116"/>
+    <path d="M172 90 L146 116"/>
+  </g>
+</svg>

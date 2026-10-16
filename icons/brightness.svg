@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="brightness,half,contrast,display">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 84 A44 44 0 0 1 128 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="44"/>
+    <path d="M128 84 L128 172"/>
+    <path d="M196 128 L216 128"/>
+    <path d="M176.08 176.08 L190.23 190.23"/>
+    <path d="M128 196 L128 216"/>
+    <path d="M79.92 176.08 L65.77 190.23"/>
+    <path d="M60 128 L40 128"/>
+    <path d="M79.92 79.92 L65.77 65.77"/>
+    <path d="M128 60 L128 40"/>
+    <path d="M176.08 79.92 L190.23 65.77"/>
+  </g>
+</svg>

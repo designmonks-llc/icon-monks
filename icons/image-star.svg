@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="image,favorite,starred,featured">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.01 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139.28 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.01 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139.28"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 188 L96 136 L117.18 157.18"/>
+    <circle cx="152" cy="96" r="16"/>
+  </g>
+</svg>

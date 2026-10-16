@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="eye,ai,magic,view,visible">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124.25 178.57 C122.13 178.73 120.05 178.8 118 178.8 C89.2 178.8 53.2 164.4 24.4 114 C53.2 63.6 89.2 49.2 118 49.2 C146.8 49.2 182.8 63.6 211.6 114 C208.91 118.71 206.15 123.11 203.35 127.21 A60 60 0 0 0 124.25 178.57 Z"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124.25 178.57 C122.13 178.73 120.05 178.8 118 178.8 C89.2 178.8 53.2 164.4 24.4 114 C53.2 63.6 89.2 49.2 118 49.2 C146.8 49.2 182.8 63.6 211.6 114 C208.91 118.71 206.15 123.11 203.35 127.21"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="118" cy="114" r="32"/>
+  </g>
+</svg>

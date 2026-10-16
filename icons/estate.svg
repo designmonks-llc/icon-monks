@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="estate,mansion,property">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 208 L32 128 L80 128 L80 96 L128 48 L176 96 L176 128 L224 128 L224 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 208 L32 128 L80 128 L80 96 L128 48 L176 96 L176 128 L224 128 L224 208 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 128 L80 208"/>
+    <path d="M176 128 L176 208"/>
+    <path d="M108 208 V164 A20 20 0 0 1 148 164 V208"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="104" r="12"/>
+  </g>
+</svg>

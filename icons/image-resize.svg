@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="resize image,scale,picture,dimensions">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="128" width="96" height="80" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V194 A14 14 0 0 1 210 208 H160"/>
+    <rect x="32" y="128" width="96" height="80" rx="12"/>
+    <path d="M156 100 L192 64"/>
+    <path d="M152 64 L192 64 L192 104"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="98" cy="158" r="14"/>
+  </g>
+</svg>

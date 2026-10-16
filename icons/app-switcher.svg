@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="switch apps,multitask,windows,recent">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="48" width="128" height="176" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="48" width="128" height="176" rx="20"/>
+    <path d="M88 200 H52 A20 20 0 0 1 32 180 V92 A20 20 0 0 1 52 72 H88"/>
+  </g>
+</svg>

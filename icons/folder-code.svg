@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="code folder,project,source,repository,project folder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 116 L88 144 L112 172"/>
+    <path d="M144 116 L168 144 L144 172"/>
+  </g>
+</svg>

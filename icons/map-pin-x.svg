@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="remove location,wrong place,delete pin,wrong location,invalid place">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M134.48 205.54 C123.91 216.97 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 112.57 186.32 121.32 183.46 130 A54 54 0 0 0 134.48 205.54 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M134.48 205.54 C123.91 216.97 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 112.57 186.32 121.32 183.46 130"/>
+    <path d="M164 164 L204 204"/>
+    <path d="M204 164 L164 204"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="116" cy="104" r="24"/>
+  </g>
+</svg>

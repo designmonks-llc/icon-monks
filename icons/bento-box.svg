@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="bento,lunch box,japanese,meal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="192" height="144" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="192" height="144" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 56 L112 200"/>
+    <path d="M112 128 L224 128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="72" cy="128" r="16"/>
+  </g>
+</svg>

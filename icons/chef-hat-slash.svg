@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="chef hat,disabled,off,food">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 216 V161.61 A46 46 0 0 1 77.72 70.75 A52 52 0 0 1 178.28 70.75 A46 46 0 0 1 176 161.61 V216 Z"/>
+    <path d="M80 172 L176 172"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

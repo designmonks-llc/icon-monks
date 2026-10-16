@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="unrated,empty star,star outline">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 36 L153.86 100.4 L223.11 105.1 L169.85 149.6 L186.78 216.9 L128 180 L69.22 216.9 L86.15 149.6 L32.89 105.1 L102.14 100.4 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M121.67 51.78 L128 36 L134.33 51.78"/>
+    <path d="M147.53 84.62 L153.86 100.4 L170.82 101.55"/>
+    <path d="M206.15 103.95 L223.11 105.1 L210.06 116"/>
+    <path d="M182.9 138.7 L169.85 149.6 L174 166.09"/>
+    <path d="M182.63 200.41 L186.78 216.9 L172.38 207.86"/>
+    <path d="M142.4 189.04 L128 180 L113.6 189.04"/>
+    <path d="M83.62 207.86 L69.22 216.9 L73.37 200.41"/>
+    <path d="M82 166.09 L86.15 149.6 L73.1 138.7"/>
+    <path d="M45.94 116 L32.89 105.1 L49.85 103.95"/>
+    <path d="M85.18 101.55 L102.14 100.4 L108.47 84.62"/>
+  </g>
+</svg>

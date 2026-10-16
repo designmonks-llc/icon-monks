@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet runes,alphabet,script,language,runes">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 32 L96 224"/>
+    <path d="M96 96 L176 40"/>
+    <path d="M96 156 L184 100"/>
+  </g>
+</svg>

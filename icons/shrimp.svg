@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="shrimp,prawn,seafood,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M191.41 67.43 A88 88 0 1 0 108.72 210.66 L132.36 179.33 A44 44 0 1 1 173.71 107.72 A22.001097358526597 22.001097358526597 0 0 0 191.41 67.43 Z"/>
+    <path d="M131.56 189.99 L154.57 179.53 A6 6 0 0 1 162.99 185.84 L160.84 200.89 A6 6 0 0 0 161.64 204.82 L166.54 213 A3.21 3.21 0 0 1 162.27 217.47 L131.19 200.73 A6 6 0 0 1 131.56 189.99 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M191.41 67.43 A88 88 0 1 0 108.72 210.66 L132.36 179.33 A44 44 0 1 1 173.71 107.72 A22.001097358526597 22.001097358526597 0 0 0 191.41 67.43 Z"/>
+    <path d="M131.56 189.99 L154.57 179.53 A6 6 0 0 1 162.99 185.84 L160.84 200.89 A6 6 0 0 0 161.64 204.82 L166.54 213 A3.21 3.21 0 0 1 162.27 217.47 L131.19 200.73 A6 6 0 0 1 131.56 189.99 Z"/>
+    <path d="M179.57 66.45 C200 40 212 40 224 36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M47.79 168 L101.89 158"/>
+    <path d="M39.41 99.74 L97.7 123.87"/>
+    <path d="M82.69 46.3 L119.34 97.15"/>
+  </g>
+</svg>

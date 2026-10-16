@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="carrot,disabled,off,food">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M121.65 79.5 L48.57 201.95 A4 4 0 0 0 54.05 207.43 L176.5 134.35 A40 40 0 1 0 121.65 79.5 Z"/>
+    <path d="M178.28 77.72 L224 76"/>
+    <path d="M178.28 77.72 L180 32"/>
+    <path d="M178.28 77.72 L216 40"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

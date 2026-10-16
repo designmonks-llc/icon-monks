@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="abnormal,vital signs,alert,irregular">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 112 L64 112 L96 48 L136 176 L160 112 L224 112"/>
+    <path d="M200 152 L200 184"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="200" cy="216" r="16"/>
+  </g>
+</svg>

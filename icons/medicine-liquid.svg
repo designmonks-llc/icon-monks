@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="syrup,liquid medicine,dose,bottle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="60" height="32" rx="8"/>
+    <path d="M64 64 V80 C44 88 36 100 36 120 V208 A16 16 0 0 0 52 224 H120 A16 16 0 0 0 136 208 V120 C136 100 128 88 108 80 V64 Z"/>
+    <path d="M164 136 L224 136 L214 216 L174 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="60" height="32" rx="8"/>
+    <path d="M64 64 V80 C44 88 36 100 36 120 V208 A16 16 0 0 0 52 224 H120 A16 16 0 0 0 136 208 V120 C136 100 128 88 108 80 V64"/>
+    <path d="M164 136 L224 136 L214 216 L174 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 160 L108 160"/>
+    <path d="M184 168 L204 168"/>
+  </g>
+</svg>

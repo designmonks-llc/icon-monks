@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="letter g,g,square,alphabet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M159.87 90.86 A41.6 41.6 0 0 0 86.4 117.6 V138.4 A41.6 41.6 0 0 0 169.6 138.4 V134.24 H132.99"/>
+  </g>
+</svg>

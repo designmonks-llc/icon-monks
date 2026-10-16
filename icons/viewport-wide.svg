@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="wide,viewport,expand width,responsive">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 128 L188 128"/>
+    <path d="M92 104 L68 128 L92 152"/>
+    <path d="M164 104 L188 128 L164 152"/>
+  </g>
+</svg>

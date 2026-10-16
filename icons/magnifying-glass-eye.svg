@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="visual search,inspect,look,find">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="112" cy="112" r="72"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="112" r="72"/>
+    <path d="M163 163 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68.32 112 C81.76 88.48 98.56 81.76 112 81.76 C125.44 81.76 142.24 88.48 155.68 112 C142.24 135.52 125.44 142.24 112 142.24 C98.56 142.24 81.76 135.52 68.32 112 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="112" cy="112" r="12"/>
+  </g>
+</svg>

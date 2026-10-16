@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="massage chair,recliner,relax,spa">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 64 A16 16 0 0 1 80 52 L104 128 H176 L212 184 A16 16 0 0 1 198 208 L160 160 H96 A24 24 0 0 1 72 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 A16 16 0 0 1 80 52 L104 128 H176 L212 184 A16 16 0 0 1 198 208 L160 160 H96 A24 24 0 0 1 72 144 Z"/>
+    <path d="M128 160 L128 216"/>
+    <path d="M96 216 L160 216"/>
+  </g>
+</svg>

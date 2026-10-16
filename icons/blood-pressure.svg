@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="blood pressure,cuff,sphygmomanometer,hypertension">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 128 H108 A20 40 0 0 1 108 208 H60 Z"/>
+    <circle cx="168" cy="88" r="56"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 128 H108 A20 40 0 0 1 108 208 H60"/>
+    <ellipse cx="60" cy="168" rx="20" ry="40"/>
+    <circle cx="168" cy="88" r="56"/>
+    <path d="M168 144 V160 C168 176 160 184 140 184 H128"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 88 L192 64"/>
+  </g>
+</svg>

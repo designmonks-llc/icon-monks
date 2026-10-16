@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="playground,slide,swing,park">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 56 L48 216"/>
+    <path d="M88 56 L88 216"/>
+    <path d="M48 96 L88 96"/>
+    <path d="M48 136 L88 136"/>
+    <path d="M48 176 L88 176"/>
+    <path d="M88 64 C152 64 144 208 216 208"/>
+  </g>
+</svg>

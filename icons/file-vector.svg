@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="vector file,bezier,graphic,design">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H152 L200 80 V224 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 32 H152 L200 80 V224 H56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+    <path d="M88 196 C90 168 98 150 112 140"/>
+    <path d="M144 140 C158 150 166 168 168 196"/>
+    <rect x="118" y="118" width="20" height="20" rx="4"/>
+    <path d="M104 128 L96 128"/>
+    <path d="M152 128 L160 128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="90" cy="128" r="12"/>
+    <circle cx="166" cy="128" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="woff,web font,typeface,file type">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 112 V32 H152 L200 80 V112"/>
+    <path d="M32 152 L44.47 216 L56.94 173.76 L69.41 216 L81.88 152"/>
+    <rect x="99.88" y="152" width="31.59" height="64" rx="15.8"/>
+    <path d="M149.47 216 L149.47 152 L177.73 152"/>
+    <path d="M149.47 184 L172.08 184"/>
+    <path d="M195.73 216 L195.73 152 L224 152"/>
+    <path d="M195.73 184 L218.35 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

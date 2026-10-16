@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="scent,fragrance,deodorizer,car">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 64 L164 104 L148 104 L184 148 L164 148 L200 188 L140 188 L140 212 L116 212 L116 188 L56 188 L92 148 L72 148 L108 104 L92 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 64 L164 104 L148 104 L184 148 L164 148 L200 188 L140 188 L140 212 L116 212 L116 188 L56 188 L92 148 L72 148 L108 104 L92 104 Z"/>
+    <path d="M128 32 L128 64"/>
+  </g>
+</svg>

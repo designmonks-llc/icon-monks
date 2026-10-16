@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="enter,entrance,login">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M120 40 L176 54 L176 224 L120 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 216 V56 A16 16 0 0 1 136 40 H208 A16 16 0 0 1 224 56 V216"/>
+    <path d="M120 40 L176 54 L176 224 L120 216 Z"/>
+    <path d="M32 136 L88 136"/>
+    <path d="M60 108 L88 136 L60 164"/>
+  </g>
+</svg>

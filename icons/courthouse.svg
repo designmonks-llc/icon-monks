@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="court,justice,law,government">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 96 L128 40 L224 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 L128 40 L224 96 Z"/>
+    <path d="M64 124 L64 180"/>
+    <path d="M106 124 L106 180"/>
+    <path d="M150 124 L150 180"/>
+    <path d="M192 124 L192 180"/>
+    <path d="M40 208 L216 208"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="78" r="14"/>
+  </g>
+</svg>

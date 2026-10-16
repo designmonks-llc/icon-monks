@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="txt,text,plain,file type,text file">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 112 V32 H152 L200 80 V112"/>
+    <path d="M46 152 L86 152"/>
+    <path d="M66 152 L66 216"/>
+    <path d="M108 152 L148 216"/>
+    <path d="M148 152 L108 216"/>
+    <path d="M170 152 L210 152"/>
+    <path d="M190 152 L190 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

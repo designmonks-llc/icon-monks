@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="delete image,remove,picture,x,remove photo">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M135.63 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 147.72 A54 54 0 0 0 135.63 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M135.63 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 147.72"/>
+    <path d="M164 164 L204 204"/>
+    <path d="M204 164 L164 204"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 188 L96 136 L121.83 161.83"/>
+    <circle cx="152" cy="96" r="16"/>
+  </g>
+</svg>

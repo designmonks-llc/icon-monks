@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="fan off,ventilation off,air off,cooling off">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M102.06 62.46 C102.76 54.09 105.89 46.11 112 40 C124 30 152 32 160 52 C165.3 69.65 155.01 90.42 144.27 104.68"/>
+    <path d="M169.29 129.69 C187.53 129.53 207.32 139.88 212.21 158.14 C212.9 162.15 212.35 166.7 210.77 171.17"/>
+    <path d="M110.65 150.25 C106.55 171.61 82.7 192 59.79 185.86 C45.13 180.46 32.86 155.22 46.18 138.29 C55.56 128.33 70.72 124.95 85.16 124.76"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

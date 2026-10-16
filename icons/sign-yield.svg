@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="yield,give way,road sign,triangle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64.78 36 L191.22 36 A12 12 0 0 1 201.61 54 L138.39 163.5 A12 12 0 0 1 117.61 163.5 L54.39 54 A12 12 0 0 1 64.78 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64.78 36 L191.22 36 A12 12 0 0 1 201.61 54 L138.39 163.5 A12 12 0 0 1 117.61 163.5 L54.39 54 A12 12 0 0 1 64.78 36 Z"/>
+    <path d="M128 181.5 L128 224"/>
+  </g>
+</svg>

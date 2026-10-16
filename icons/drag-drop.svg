@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="drag and drop,move,dashed box,cursor">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M140 136 L220 172 L184 184 L172 220 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 V46 A14 14 0 0 1 46 32 H64"/>
+    <path d="M144 32 H162 A14 14 0 0 1 176 46 V64"/>
+    <path d="M64 176 H46 A14 14 0 0 1 32 162 V144"/>
+    <path d="M88 32 L120 32"/>
+    <path d="M32 88 L32 120"/>
+    <path d="M176 88 L176 116"/>
+    <path d="M88 176 L116 176"/>
+    <path d="M140 136 L220 172 L184 184 L172 220 Z"/>
+  </g>
+</svg>

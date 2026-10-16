@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="coffee machine,brew,espresso,kitchen,appliance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 32 H192 A16 16 0 0 1 208 48 V88 H104 V192 H208 V208 A16 16 0 0 1 192 224 H64 A16 16 0 0 1 48 208 V48 A16 16 0 0 1 64 32 Z"/>
+    <path d="M136 120 H176 L188 192 H124 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 32 H192 A16 16 0 0 1 208 48 V88 H104 V192 H208 V208 A16 16 0 0 1 192 224 H64 A16 16 0 0 1 48 208 V48 A16 16 0 0 1 64 32 Z"/>
+    <path d="M136 120 H176 L188 192 H124 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="76" cy="140" r="12"/>
+  </g>
+</svg>

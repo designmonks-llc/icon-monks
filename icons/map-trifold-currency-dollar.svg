@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map trifold,dollar,price,money,map">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.81 204.68 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 142 A58 58 0 0 0 129.81 204.68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129.81 204.68 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 142"/>
+    <path d="M184 148 L184 220"/>
+    <path d="M202 158 H178 A13 13 0 0 0 178 184 H190 A13 13 0 0 1 190 210 H166"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 L96 192"/>
+    <path d="M160 64 L160 118.24"/>
+  </g>
+</svg>

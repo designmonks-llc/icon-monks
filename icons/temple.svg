@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="temple,shrine,worship,pagoda">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 84 Q92 80 108 48 H148 Q164 80 200 84 Z"/>
+    <path d="M32 152 Q76 148 84 116 H172 Q180 148 224 152 Z"/>
+    <rect x="96" y="84" width="64" height="32"/>
+    <rect x="64" y="152" width="128" height="64"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M114 216 V196 A14 14 0 0 1 142 196 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 84 Q92 80 108 48 H148 Q164 80 200 84 Z"/>
+    <path d="M32 152 Q76 148 84 116 H172 Q180 148 224 152 Z"/>
+    <path d="M128 32 L128 48"/>
+    <path d="M96 84 L96 116"/>
+    <path d="M160 84 L160 116"/>
+    <path d="M64 152 V216 H192 V152"/>
+    <path d="M114 216 V196 A14 14 0 0 1 142 196 V216"/>
+  </g>
+</svg>

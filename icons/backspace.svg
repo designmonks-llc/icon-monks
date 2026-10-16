@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="delete,erase,keyboard,back,delete key">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 48 H208 A16 16 0 0 1 224 64 V192 A16 16 0 0 1 208 208 H88 L32 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 48 H208 A16 16 0 0 1 224 64 V192 A16 16 0 0 1 208 208 H88 L32 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 104 L172 152"/>
+    <path d="M172 104 L124 152"/>
+  </g>
+</svg>

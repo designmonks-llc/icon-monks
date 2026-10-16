@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="ice pop,summer,dessert">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 80 A48 48 0 0 1 176 80 V164 A12 12 0 0 1 164 176 H92 A12 12 0 0 1 80 164 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 80 A48 48 0 0 1 176 80 V164 A12 12 0 0 1 164 176 H92 A12 12 0 0 1 80 164 Z"/>
+    <path d="M128 176 L128 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 88 L112 140"/>
+    <path d="M144 88 L144 140"/>
+  </g>
+</svg>

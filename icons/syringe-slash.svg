@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="syringe,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 173.25 L102.54 198.71 L57.29 153.46 L82.75 128"/>
+    <path d="M128 82.75 L133.66 77.09 L178.91 122.34 L173.25 128"/>
+    <path d="M79.92 176.08 L51.63 204.37"/>
+    <path d="M156.28 99.72 L190.23 65.77"/>
+    <path d="M167.6 43.15 L212.85 88.4"/>
+    <path d="M92.32 137.57 L102.54 147.8"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

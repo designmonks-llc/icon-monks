@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,ai,magic,smart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.01 208 L48 208 L48 112 L128 44 L208 112 L208 129.01 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 L48 208 L129.01 208"/>
+    <path d="M32 124 L128 40 L224 124"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+</svg>

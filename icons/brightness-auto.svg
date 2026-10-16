@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="auto brightness,auto theme,display,adaptive,brightness auto">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="60"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="60"/>
+    <path d="M212 128 L224 128"/>
+    <path d="M187.4 187.4 L195.88 195.88"/>
+    <path d="M128 212 L128 224"/>
+    <path d="M68.6 187.4 L60.12 195.88"/>
+    <path d="M44 128 L32 128"/>
+    <path d="M68.6 68.6 L60.12 60.12"/>
+    <path d="M128 44 L128 32"/>
+    <path d="M187.4 68.6 L195.88 60.12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 154 L128 100 L148 154"/>
+    <path d="M115.4 136 L140.6 136"/>
+  </g>
+</svg>

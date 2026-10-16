@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="no left turn,road sign,traffic,prohibited">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M47.47 180.25 L180.25 47.47 A96 96 0 0 0 47.47 180.25 Z"/>
+    <path d="M75.75 208.53 L208.53 75.75 A96 96 0 0 1 75.75 208.53 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <path d="M195.88 60.12 L60.12 195.88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 184 V122 A28 28 0 0 0 122 94 H70"/>
+    <path d="M98 66 L70 94 L98 122"/>
+  </g>
+</svg>

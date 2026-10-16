@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file off,missing,no file,slash">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74.5 32 L152 32 L200 80 L200 157.5"/>
+    <path d="M181.5 224 L56 224 L56 98.5"/>
+    <path d="M152 32 V80 H200"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

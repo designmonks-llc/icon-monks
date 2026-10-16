@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="drumstick,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84.16 95.29 L80.05 154.62 A20 20 0 0 0 102.86 175.8 L161.71 167.3 A68 68 0 1 0 84.16 95.29 Z"/>
+    <path d="M86 170 L70 186"/>
+    <path d="M67.83 188.17 A18 18 0 1 1 56.17 199.83 A18 18 0 1 1 67.83 188.17 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

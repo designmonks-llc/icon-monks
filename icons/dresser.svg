@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="dresser,drawers,furniture,bedroom">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="32" width="160" height="168" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="32" width="160" height="168" rx="14"/>
+    <path d="M72 200 L72 224"/>
+    <path d="M184 200 L184 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 88 L208 88"/>
+    <path d="M48 144 L208 144"/>
+    <path d="M112 60 L144 60"/>
+    <path d="M112 116 L144 116"/>
+    <path d="M112 172 L144 172"/>
+  </g>
+</svg>

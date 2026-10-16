@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="gate,entrance,fence,door">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 L40 216"/>
+    <path d="M216 40 L216 216"/>
+    <path d="M40 192 L216 192"/>
+    <path d="M40 104 Q128 40 216 104"/>
+    <path d="M84 88 L84 192"/>
+    <path d="M128 72 L128 192"/>
+    <path d="M172 88 L172 192"/>
+  </g>
+</svg>

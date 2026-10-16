@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="tea,tea bag,drink">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 128 L80 104 H128 L152 128 V200 A16 16 0 0 1 136 216 H72 A16 16 0 0 1 56 200 Z"/>
+    <rect x="164" y="36" width="52" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 L80 104 H128 L152 128 V200 A16 16 0 0 1 136 216 H72 A16 16 0 0 1 56 200 Z"/>
+    <path d="M104 104 C104 64 128 56 164 56"/>
+    <rect x="164" y="36" width="52" height="40" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 168 L128 168"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="tomato,vegetable,red,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="142" rx="92" ry="76"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="142" rx="92" ry="76"/>
+    <path d="M128 70 C128 54 132 44 144 36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 82 L108 98 L128 84 L148 98 L168 82"/>
+  </g>
+</svg>

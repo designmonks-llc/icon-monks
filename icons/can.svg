@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="can,tin,canned,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 56 A64 20 0 0 1 192 56 V200 A64 20 0 0 1 64 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="56" rx="64" ry="20"/>
+    <path d="M64 56 V200 A64 20 0 0 0 192 200 V56"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 104 A64 20 0 0 0 192 104"/>
+    <path d="M64 160 A64 20 0 0 0 192 160"/>
+  </g>
+</svg>

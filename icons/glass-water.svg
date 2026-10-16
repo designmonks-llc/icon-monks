@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="water,glass,drink,hydration,cup">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 100 C88 88 104 88 128 100 C152 112 168 112 188 100 L180 202 Q178 224 156 224 H100 Q78 224 76 202 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 40 H192 L180 202 Q178 224 156 224 H100 Q78 224 76 202 Z"/>
+    <path d="M68 100 C88 88 104 88 128 100 C152 112 168 112 188 100"/>
+  </g>
+</svg>

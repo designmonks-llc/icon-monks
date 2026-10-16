@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="apple slice,fruit,cut apple">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 88 C104 72 48 72 48 136 C48 184 80 220 104 220 C116 220 120 212 128 212 C136 212 140 220 152 220 C176 220 208 184 208 136 C208 72 152 72 128 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 88 C104 72 48 72 48 136 C48 184 80 220 104 220 C116 220 120 212 128 212 C136 212 140 220 152 220 C176 220 208 184 208 136 C208 72 152 72 128 88 Z"/>
+    <path d="M128 88 C128 72 130 60 136 52"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 112 C102 130 98 166 128 188 C158 166 154 130 128 112 Z"/>
+  </g>
+</svg>

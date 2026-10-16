@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="escape,exit,esc,leave">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 64 A80 80 0 1 1 64 144"/>
+    <path d="M136 136 L48 48"/>
+    <path d="M48 104 L48 48 L104 48"/>
+  </g>
+</svg>

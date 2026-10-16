@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="delete permanently,trash,remove,bin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 64 L72 208 A16 16 0 0 0 88 224 H168 A16 16 0 0 0 184 208 L192 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L216 64"/>
+    <path d="M96 64 V48 A16 16 0 0 1 112 32 H144 A16 16 0 0 1 160 48 V64"/>
+    <path d="M64 64 L72 208 A16 16 0 0 0 88 224 H168 A16 16 0 0 0 184 208 L192 64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 116 L152 164"/>
+    <path d="M152 116 L104 164"/>
+  </g>
+</svg>

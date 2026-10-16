@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="navigation arrow,favorite,starred,featured,navigation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44.48 97.52 L169.28 44.48 L116.24 169.28 L100.64 113.12 Z"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44.48 97.52 L169.28 44.48 L116.24 169.28 L100.64 113.12 Z"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+</svg>

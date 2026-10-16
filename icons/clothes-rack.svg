@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="clothes rack,clothes,rack,home">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 64 L114 80 L114 168 L78 168 L78 80 Z"/>
+    <path d="M160 64 L178 80 L178 144 L142 144 L142 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 208 V48 H216 V208"/>
+    <path d="M32 208 L64 208"/>
+    <path d="M192 208 L224 208"/>
+    <path d="M96 48 L96 64"/>
+    <path d="M160 48 L160 64"/>
+    <path d="M96 64 L114 80 L114 168 L78 168 L78 80 Z"/>
+    <path d="M160 64 L178 80 L178 144 L142 144 L142 80 Z"/>
+  </g>
+</svg>

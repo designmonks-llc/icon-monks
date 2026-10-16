@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="dropdown,select,menu,list">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L140 64"/>
+    <path d="M40 128 L140 128"/>
+    <path d="M40 192 L140 192"/>
+    <path d="M172 116 L196 140 L220 116"/>
+  </g>
+</svg>

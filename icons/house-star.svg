@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,favorite,starred,featured">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M129.01 208 L48 208 L48 112 L128 44 L208 112 L208 129.01 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 L48 208 L129.01 208"/>
+    <path d="M208 129.01 L208 112"/>
+    <path d="M32 124 L128 40 L224 124"/>
+    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+  </g>
+</svg>

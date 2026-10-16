@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="flag,ai,magic,smart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128.3 161.69 C103.75 155.3 82.27 146.86 56 160 L56 48 C104 24 136 72 200 48 L200 126.17 A60 60 0 0 0 128.3 161.69 Z"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 224 L56 40"/>
+    <path d="M128.3 161.69 C103.75 155.3 82.27 146.86 56 160 L56 48 C104 24 136 72 200 48 L200 126.17"/>
+    <path d="M184 143.68 C187.36 170.56 197.44 180.64 224.32 184 C197.44 187.36 187.36 197.44 184 224.32 C180.64 197.44 170.56 187.36 143.68 184 C170.56 180.64 180.64 170.56 184 143.68 Z"/>
+  </g>
+</svg>

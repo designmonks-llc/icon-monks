@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="doctor,physician,medical,person">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="76" r="44"/>
+    <path d="M40 224 C40 172 80 148 128 148 C176 148 216 172 216 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="76" r="44"/>
+    <path d="M40 224 C40 172 80 148 128 148 C176 148 216 172 216 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 152 V180 A28 28 0 0 0 156 180 V152"/>
+  </g>
+</svg>

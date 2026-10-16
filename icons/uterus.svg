@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="uterus,womb,gynecology,reproductive">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 88 C88 72 104 64 128 64 C152 64 168 72 168 88 C168 128 152 152 144 168 V200 H112 V168 C104 152 88 128 88 88 Z"/>
+    <circle cx="56" cy="132" r="16"/>
+    <circle cx="200" cy="132" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 88 C88 72 104 64 128 64 C152 64 168 72 168 88 C168 128 152 152 144 168 V200 H112 V168 C104 152 88 128 88 88 Z"/>
+    <path d="M90 80 C72 64 44 68 40 96"/>
+    <path d="M166 80 C184 64 212 68 216 96"/>
+    <circle cx="56" cy="132" r="16"/>
+    <circle cx="200" cy="132" r="16"/>
+  </g>
+</svg>

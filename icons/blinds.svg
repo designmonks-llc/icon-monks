@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="window blinds,shades,window,privacy,roller shades">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 76 L224 76"/>
+    <path d="M32 112 L224 112"/>
+    <path d="M32 148 L224 148"/>
+    <path d="M128 148 L128 216"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="favorites list,wishlist,liked">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M183 200.12 C183 200.12 142.68 178.28 142.68 152.24 A21 21 0 0 1 183 143.84 A21 21 0 0 1 223.32 152.24 C223.32 178.28 183 200.12 183 200.12 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L216 64"/>
+    <path d="M40 128 L112 128"/>
+    <path d="M40 192 L112 192"/>
+    <path d="M183 200.12 C183 200.12 142.68 178.28 142.68 152.24 A21 21 0 0 1 183 143.84 A21 21 0 0 1 223.32 152.24 C223.32 178.28 183 200.12 183 200.12 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="baby food,meal,jar,feeding">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="44" y="80" width="128" height="32" rx="10"/>
+    <path d="M56 112 V200 A24 24 0 0 0 80 224 H136 A24 24 0 0 0 160 200 V112 Z"/>
+    <ellipse cx="204" cy="72" rx="20" ry="30"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="44" y="80" width="128" height="32" rx="10"/>
+    <path d="M56 112 V200 A24 24 0 0 0 80 224 H136 A24 24 0 0 0 160 200 V112"/>
+    <ellipse cx="204" cy="72" rx="20" ry="30"/>
+    <path d="M204 102 L204 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 164 L128 164"/>
+  </g>
+</svg>

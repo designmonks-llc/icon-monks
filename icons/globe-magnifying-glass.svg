@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="globe,search,find">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M223.82 133.9 A96 96 0 1 0 133.9 223.82 A64 64 0 0 1 223.82 133.9 Z"/>
+    <circle cx="178" cy="178" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M223.82 133.9 A96 96 0 1 0 133.9 223.82"/>
+    <circle cx="178" cy="178" r="18"/>
+    <path d="M192 192 L210 210"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 A40 96 0 0 1 128 32 A40 96 0 0 1 167.9 121.3"/>
+    <path d="M32 128 L153.02 128"/>
+  </g>
+</svg>

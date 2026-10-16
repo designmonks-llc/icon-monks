@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="boiler,water heater,hot water,tank,heating">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="48" width="144" height="160" rx="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="48" width="144" height="160" rx="36"/>
+    <path d="M100 48 L100 32"/>
+    <path d="M156 48 L156 32"/>
+    <path d="M88 208 L88 224"/>
+    <path d="M168 208 L168 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="104" r="24"/>
+    <path d="M104 168 L152 168"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="low priority,decrease,downgrade">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L224 128 L128 224 L32 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L224 128 L128 224 L32 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 110 L128 146 L164 110"/>
+  </g>
+</svg>

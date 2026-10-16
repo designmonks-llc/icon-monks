@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="swing,playground,child,park">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 40 L208 40"/>
+    <path d="M64 40 L32 224"/>
+    <path d="M192 40 L224 224"/>
+    <path d="M100 40 L100 168"/>
+    <path d="M156 40 L156 168"/>
+    <path d="M84 176 L172 176"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="sync folder,convert,folder,transfer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90.41 130.32 A40 40 0 0 1 158.64 118.29"/>
+    <path d="M130.71 122.71 L158.64 118.29 L154.22 90.35"/>
+    <path d="M165.59 157.68 A40 40 0 0 1 97.36 169.71"/>
+    <path d="M125.29 165.29 L97.36 169.71 L101.78 197.65"/>
+  </g>
+</svg>

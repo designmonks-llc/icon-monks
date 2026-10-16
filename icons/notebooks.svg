@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="notebooks,journals,library,stack">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="136" height="152" rx="14"/>
+    <path d="M88 48 V46 A14 14 0 0 1 102 32 H210 A14 14 0 0 1 224 46 V170 A14 14 0 0 1 210 184 H192 V48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="136" height="152" rx="14"/>
+    <path d="M88 46 A14 14 0 0 1 102 32 H210 A14 14 0 0 1 224 46 V170 A14 14 0 0 1 210 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 72 L72 224"/>
+  </g>
+</svg>

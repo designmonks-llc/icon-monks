@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="rice,bowl,grain,asian food,bowl chopsticks">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 120 H224 A96 96 0 0 1 32 120 Z"/>
+    <path d="M52 120 C52 88 88 68 128 68 C168 68 204 88 204 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 120 H224 A96 96 0 0 1 32 120 Z"/>
+    <path d="M52 120 C52 88 88 68 128 68 C168 68 204 88 204 120"/>
+    <path d="M146 70 L196 32"/>
+    <path d="M174 88 L224 52"/>
+  </g>
+</svg>

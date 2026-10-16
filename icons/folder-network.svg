@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="shared folder,network,directory,server">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 48 A16 16 0 0 1 64 32 L104 32 L128 56 L192 56 A16 16 0 0 1 208 72 L208 132 A16 16 0 0 1 192 148 L64 148 A16 16 0 0 1 48 132 L48 48 Z"/>
+    <circle cx="128" cy="204" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 A16 16 0 0 1 64 32 L104 32 L128 56 L192 56 A16 16 0 0 1 208 72 L208 132 A16 16 0 0 1 192 148 L64 148 A16 16 0 0 1 48 132 L48 48 Z"/>
+    <path d="M128 148 L128 188"/>
+    <circle cx="128" cy="204" r="16"/>
+    <path d="M32 204 L112 204"/>
+    <path d="M144 204 L224 204"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="lens flare,sparkle,light,camera">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="120" cy="120" r="28"/>
+    <circle cx="196" cy="196" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="120" r="28"/>
+    <circle cx="196" cy="196" r="18"/>
+    <path d="M120 68 L120 32"/>
+    <path d="M156.77 83.23 L170.91 69.09"/>
+    <path d="M172 120 L208 120"/>
+    <path d="M156.77 156.77 L161.01 161.01"/>
+    <path d="M120 172 L120 200"/>
+    <path d="M83.23 156.77 L73.33 166.67"/>
+    <path d="M68 120 L32 120"/>
+    <path d="M83.23 83.23 L69.09 69.09"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet korean,alphabet,script,language,korean">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 36 L100 36"/>
+    <path d="M40 64 L124 64"/>
+    <circle cx="82" cy="108" r="24"/>
+    <path d="M164 32 L164 144"/>
+    <path d="M164 88 L200 88"/>
+    <path d="M72 164 L72 216 L208 216"/>
+  </g>
+</svg>

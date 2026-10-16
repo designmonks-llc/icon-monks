@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="flash auto,camera flash,automatic,lightning,auto flash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M106 32 L40 144 L88 144 L76 224 L148 108 L100 108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M106 32 L40 144 L88 144 L76 224 L148 108 L100 108 Z"/>
+    <path d="M160 216 L188 144 L216 216"/>
+    <path d="M169.3 192 L206.7 192"/>
+  </g>
+</svg>

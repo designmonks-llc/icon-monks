@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="range,slider,min max,filter">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="128" r="24"/>
+    <circle cx="176" cy="128" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L56 128"/>
+    <path d="M104 128 L152 128"/>
+    <path d="M200 128 L224 128"/>
+    <circle cx="80" cy="128" r="24"/>
+    <circle cx="176" cy="128" r="24"/>
+  </g>
+</svg>

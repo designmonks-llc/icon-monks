@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="draft folder,placeholder,new folder,folder,focus">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 80 L32 72 A16 16 0 0 1 41.96 57.18"/>
+    <path d="M68.74 56 L95.68 56"/>
+    <path d="M114.82 74.82 L120 80 L139.61 80"/>
+    <path d="M166.54 80 L193.48 80"/>
+    <path d="M219.21 84.58 A16 16 0 0 1 224 96 L224 110.22"/>
+    <path d="M224 137.16 L224 164.09"/>
+    <path d="M224 191.03 L224 192 A16 16 0 0 1 208 208 L207.17 208"/>
+    <path d="M180.23 208 L153.29 208"/>
+    <path d="M126.36 208 L99.42 208"/>
+    <path d="M72.49 208 L48 208 A16 16 0 0 1 45.56 207.81"/>
+    <path d="M32 187.75 L32 160.81"/>
+    <path d="M32 133.87 L32 106.94"/>
+  </g>
+</svg>

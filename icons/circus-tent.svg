@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="circus,big top,carnival,tent">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 64 Q104 112 32 128 A24 24 0 0 0 80 128 A24 24 0 0 0 128 128 A24 24 0 0 0 176 128 A24 24 0 0 0 224 128 Q152 112 128 64 Z"/>
+    <rect x="56" y="140" width="144" height="76"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M108 216 L128 176 L148 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 64 Q104 112 32 128 A24 24 0 0 0 80 128 A24 24 0 0 0 128 128 A24 24 0 0 0 176 128 A24 24 0 0 0 224 128 Q152 112 128 64 Z"/>
+    <path d="M56 150 V216 H200 V150"/>
+    <path d="M104 216 L128 168 L152 216"/>
+    <path d="M128 64 L128 32"/>
+    <path d="M128 32 L160 42 L128 52 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 92 L128 120"/>
+    <path d="M112 96 L92 122"/>
+    <path d="M144 96 L164 122"/>
+  </g>
+</svg>

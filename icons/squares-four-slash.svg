@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="hide grid,grid off,layout,disabled">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82.43 40 L102 40 A10 10 0 0 1 112 50 L112 69.57"/>
+    <path d="M69.57 112 L50 112 A10 10 0 0 1 40 102 L40 82.43"/>
+    <path d="M144 101.57 L144 50 A10 10 0 0 1 154 40 L206 40 A10 10 0 0 1 216 50 L216 102 A10 10 0 0 1 206 112 L154.43 112"/>
+    <path d="M112 154.43 L112 206 A10 10 0 0 1 102 216 L50 216 A10 10 0 0 1 40 206 L40 154 A10 10 0 0 1 50 144 L101.57 144"/>
+    <path d="M186.43 144 L206 144 A10 10 0 0 1 216 154 L216 173.57"/>
+    <path d="M173.57 216 L154 216 A10 10 0 0 1 144 206 L144 186.43"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

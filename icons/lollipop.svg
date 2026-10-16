@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="lollipop,candy,sweet,treat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="96" r="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="96" r="64"/>
+    <path d="M128 160 L128 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 96 A14 14 0 0 1 152 96 A30 30 0 0 1 92 96"/>
+  </g>
+</svg>

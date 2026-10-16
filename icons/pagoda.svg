@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="pagoda,temple,asia,landmark">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 66 Q100 76 108 52 H148 Q156 76 184 66 Z"/>
+    <path d="M52 120 Q80 130 88 106 H168 Q176 130 204 120 Z"/>
+    <path d="M32 174 Q60 184 68 160 H188 Q196 184 224 174 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 66 Q100 76 108 52 H148 Q156 76 184 66"/>
+    <path d="M52 120 Q80 130 88 106 H168 Q176 130 204 120"/>
+    <path d="M32 174 Q60 184 68 160 H188 Q196 184 224 174"/>
+    <path d="M128 52 L128 34"/>
+    <path d="M104 74 L104 106"/>
+    <path d="M152 74 L152 106"/>
+    <path d="M84 128 L84 160"/>
+    <path d="M172 128 L172 160"/>
+    <path d="M64 182 L64 216"/>
+    <path d="M192 182 L192 216"/>
+    <path d="M48 216 L208 216"/>
+  </g>
+</svg>

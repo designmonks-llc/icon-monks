@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="syrup,medicine,bottle,pharmacy,pill bottle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 32 L156 32 L164 72 L92 72 Z"/>
+    <path d="M100 72 V84 C76 92 64 104 64 128 V208 A16 16 0 0 0 80 224 H176 A16 16 0 0 0 192 208 V128 C192 104 180 92 156 84 V72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 32 L156 32 L164 72 L92 72 Z"/>
+    <path d="M100 72 V84 C76 92 64 104 64 128 V208 A16 16 0 0 0 80 224 H176 A16 16 0 0 0 192 208 V128 C192 104 180 92 156 84 V72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 124 L144 124 L144 144 L164 144 L164 176 L144 176 L144 196 L112 196 L112 176 L92 176 L92 144 L112 144 Z"/>
+  </g>
+</svg>

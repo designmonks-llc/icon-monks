@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="cooker,rice cooker,kitchen,appliance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 104 H208 V184 A32 32 0 0 1 176 216 H80 A32 32 0 0 1 48 184 Z"/>
+    <path d="M48 104 C48 72 80 56 128 56 C176 56 208 72 208 104 Z"/>
+    <rect x="108" y="36" width="40" height="20" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 104 H208 V184 A32 32 0 0 1 176 216 H80 A32 32 0 0 1 48 184 Z"/>
+    <path d="M48 104 C48 72 80 56 128 56 C176 56 208 72 208 104"/>
+    <rect x="108" y="36" width="40" height="20" rx="8"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="160" r="16"/>
+  </g>
+</svg>

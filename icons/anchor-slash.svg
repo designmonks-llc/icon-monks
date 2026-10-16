@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="anchor,disabled,off,maps">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="56" r="20"/>
+    <path d="M128 76 L128 216"/>
+    <path d="M88 104 L168 104"/>
+    <path d="M48 152 A82 82 0 0 0 208 152"/>
+    <path d="M32 152 L64 152"/>
+    <path d="M192 152 L224 152"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

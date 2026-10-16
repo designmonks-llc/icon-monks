@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="raw,photo,camera,file type">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 112 V32 H152 L200 80 V112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 112 V32 H152 L200 80 V112"/>
+    <path d="M35 216 V152 H57 A16 16 0 0 1 57 184 H35"/>
+    <path d="M55 184 L73 216"/>
+    <path d="M95 216 L117 152 L139 216"/>
+    <path d="M102.48 194.24 L131.52 194.24"/>
+    <path d="M161 152 L176 216 L191 173.76 L206 216 L221 152"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 V80 H200"/>
+  </g>
+</svg>

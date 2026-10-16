@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="high chair,baby,feeding,toddler">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 40 L80 136"/>
+    <path d="M80 136 L168 136"/>
+    <path d="M80 96 L192 96"/>
+    <path d="M96 136 L56 216"/>
+    <path d="M152 136 L192 216"/>
+    <path d="M72 184 L176 184"/>
+  </g>
+</svg>

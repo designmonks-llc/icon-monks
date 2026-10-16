@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="heart,search,find">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124.01 183.01 C120.25 185.28 118 186.5 118 186.5 C118 186.5 34 141 34 86.75 A43.75 43.75 0 0 1 118 69.25 A43.75 43.75 0 0 1 202 86.75 C202 99.95 197.03 112.62 189.51 124.25 A60 60 0 0 0 124.01 183.01 Z"/>
+    <circle cx="178" cy="178" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124.01 183.01 C120.25 185.28 118 186.5 118 186.5 C118 186.5 34 141 34 86.75 A43.75 43.75 0 0 1 118 69.25 A43.75 43.75 0 0 1 202 86.75 C202 99.95 197.03 112.62 189.51 124.25"/>
+    <circle cx="178" cy="178" r="22"/>
+    <path d="M195 195 L212 212"/>
+  </g>
+</svg>

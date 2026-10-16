@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="soup,hot bowl,ramen">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 108 A96 84 0 0 0 224 108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 108 A96 84 0 0 0 224 108 Z"/>
+    <path d="M104 189 L100 216 L156 216 L152 189"/>
+    <path d="M84 80 C76 68 92 56 84 40"/>
+    <path d="M128 80 C120 68 136 56 128 40"/>
+    <path d="M172 80 C164 68 180 56 172 40"/>
+  </g>
+</svg>

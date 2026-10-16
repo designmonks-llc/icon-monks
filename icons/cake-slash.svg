@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="cake,disabled,off,food">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="112" width="176" height="104" rx="14"/>
+    <path d="M88 80 L88 112"/>
+    <path d="M128 80 L128 112"/>
+    <path d="M168 80 L168 112"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="88" cy="48" r="12"/>
+    <circle cx="128" cy="48" r="12"/>
+    <circle cx="168" cy="48" r="12"/>
+  </g>
+</svg>

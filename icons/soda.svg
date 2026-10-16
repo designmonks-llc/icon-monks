@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="drinks,soft drink,cup,straw,soda">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 104 H184 L172 208 A16 16 0 0 1 156 224 H100 A16 16 0 0 1 84 208 Z"/>
+    <path d="M72 104 V88 A16 16 0 0 1 88 72 H168 A16 16 0 0 1 184 88 V104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 104 H184 L172 208 A16 16 0 0 1 156 224 H100 A16 16 0 0 1 84 208 Z"/>
+    <path d="M56 104 H200 M72 104 V88 A16 16 0 0 1 88 72 H168 A16 16 0 0 1 184 88 V104"/>
+    <path d="M136 72 L148 32 L184 32"/>
+  </g>
+</svg>

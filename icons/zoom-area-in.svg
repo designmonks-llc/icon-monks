@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="zoom to area,zoom in,selection,magnify">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="148" cy="148" r="52"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L40 40 L64 40"/>
+    <path d="M96 40 L120 40"/>
+    <path d="M152 40 L176 40 L176 64"/>
+    <path d="M40 96 L40 120"/>
+    <path d="M40 152 L40 176 L64 176"/>
+    <circle cx="148" cy="148" r="52"/>
+    <path d="M184.77 184.77 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 124 L148 172"/>
+    <path d="M124 148 L172 148"/>
+  </g>
+</svg>

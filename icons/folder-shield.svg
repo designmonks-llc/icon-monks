@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="protected,secure folder,folder,shield">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M120.38 208 L48 208 A16 16 0 0 1 32 192 L32 72 A16 16 0 0 1 48 56 L96 56 L120 80 L208 80 A16 16 0 0 1 224 96 L224 129.01 A68 68 0 0 0 120.38 208 Z"/>
+    <path d="M184 150 L212 161 V182 C212 202 198 213 184 218 C170 213 156 202 156 182 V161 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120.38 208 L48 208 A16 16 0 0 1 32 192 L32 72 A16 16 0 0 1 48 56 L96 56 L120 80 L208 80 A16 16 0 0 1 224 96 L224 129.01"/>
+    <path d="M184 150 L212 161 V182 C212 202 198 213 184 218 C170 213 156 202 156 182 V161 Z"/>
+  </g>
+</svg>

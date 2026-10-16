@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="window,app,layout,bottom,left">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="176" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 L224 104"/>
+    <rect x="64" y="144" width="64" height="40" rx="8"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="68" cy="72" r="13"/>
+    <circle cx="108" cy="72" r="13"/>
+  </g>
+</svg>

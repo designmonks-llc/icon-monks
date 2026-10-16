@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="swimming pool,pool,ladder,water">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 136 V64 A20 20 0 0 0 56 64"/>
+    <path d="M168 136 V64 A20 20 0 0 0 128 64"/>
+    <path d="M96 88 L168 88"/>
+    <path d="M96 124 L168 124"/>
+    <path d="M32 176 Q48 161 64 176 T96 176 T128 176 T160 176 T192 176 T224 176"/>
+    <path d="M32 212 Q48 197 64 212 T96 212 T128 212 T160 212 T192 212 T224 212"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet bangla,alphabet,script,language,bangla">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 52 L224 52"/>
+    <path d="M184 52 L184 216"/>
+    <path d="M60 88 C76 76 112 76 116 104 C118 124 100 132 84 132 C112 132 136 148 132 176 C128 204 92 212 60 196"/>
+    <path d="M130 148 L184 148"/>
+  </g>
+</svg>

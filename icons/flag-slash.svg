@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="unflag,flag off,no flag,slash">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 224 L56 40"/>
+    <path d="M78.17 41.4 C115.15 37.61 146.32 68.13 200 48 L200 160 C199.21 160.3 198.42 160.58 197.63 160.86"/>
+    <path d="M123.69 160.46 C101.02 154.32 80.61 147.69 56 160 L56 92.77"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

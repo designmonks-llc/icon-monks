@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="soup,bowl,hot,broth">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 120 H224 A96 96 0 0 1 32 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 120 H224 A96 96 0 0 1 32 120 Z"/>
+    <path d="M76 40 C60 56 92 72 76 88"/>
+    <path d="M116 40 C100 56 132 72 116 88"/>
+    <path d="M160 112 L208 40"/>
+  </g>
+</svg>

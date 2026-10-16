@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="washer,laundry,appliance,washing,clothes">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="32" width="176" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="32" width="176" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 88 L216 88"/>
+    <path d="M132 60 L180 60"/>
+    <circle cx="128" cy="156" r="40"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="60" r="14"/>
+  </g>
+</svg>

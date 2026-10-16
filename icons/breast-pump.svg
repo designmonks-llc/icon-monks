@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="breast pump,nursing,baby,feeding">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 100 L60 64 C40 84 40 140 60 160 L108 124 Z"/>
+    <rect x="108" y="84" width="80" height="56" rx="12"/>
+    <rect x="116" y="140" width="64" height="84" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 100 L60 64 C40 84 40 140 60 160 L108 124"/>
+    <rect x="108" y="84" width="80" height="56" rx="12"/>
+    <rect x="116" y="140" width="64" height="84" rx="16"/>
+    <path d="M188 100 L222 70"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 172 L156 172"/>
+  </g>
+</svg>

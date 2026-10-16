@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="barbecue,bbq,cookout,grill">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 104 H208 A80 80 0 0 1 48 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 104 H208 A80 80 0 0 1 48 104 Z"/>
+    <path d="M88 173 L72 224"/>
+    <path d="M168 173 L184 224"/>
+    <path d="M92 32 C80 43 104 65 92 76"/>
+    <path d="M128 32 C116 43 140 65 128 76"/>
+    <path d="M164 32 C152 43 176 65 164 76"/>
+  </g>
+</svg>

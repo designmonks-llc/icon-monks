@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="permanent press,laundry,care symbol,wash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 60 C48 44 64 44 80 60 C96 76 112 76 128 60 C144 44 160 44 176 60 C192 76 208 76 224 60 L200 164 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 60 L56 164 H200 L224 60"/>
+    <path d="M32 60 C48 44 64 44 80 60 C96 76 112 76 128 60 C144 44 160 44 176 60 C192 76 208 76 224 60"/>
+    <path d="M56 204 L200 204"/>
+  </g>
+</svg>

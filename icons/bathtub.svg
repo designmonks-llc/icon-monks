@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="bath,tub,bathroom,soak,bathtub">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 120 V152 A48 48 0 0 0 96 200 H160 A48 48 0 0 0 208 152 V120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 120 L224 120"/>
+    <path d="M48 120 V152 A48 48 0 0 0 96 200 H160 A48 48 0 0 0 208 152 V120"/>
+    <path d="M84 198 L76 216"/>
+    <path d="M172 198 L180 216"/>
+    <path d="M64 120 V64 A24 24 0 0 1 112 64 V76"/>
+  </g>
+</svg>

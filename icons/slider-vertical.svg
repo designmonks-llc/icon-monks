@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="slider,range,scroll,vertical">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="144" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 L128 176"/>
+    <path d="M128 112 L128 32"/>
+    <circle cx="128" cy="144" r="32"/>
+  </g>
+</svg>

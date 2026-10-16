@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="medical journal,notebook,health,record">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="56" y="32" width="160" height="192" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="32" width="160" height="192" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 32 L96 224"/>
+    <path d="M140 94 L172 94 L172 112 L190 112 L190 144 L172 144 L172 162 L140 162 L140 144 L122 144 L122 112 L140 112 Z"/>
+  </g>
+</svg>

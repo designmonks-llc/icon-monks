@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="music folder,audio,library,folder,directory">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130 166 L130 110 L154 122"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="116" cy="168" r="20"/>
+  </g>
+</svg>

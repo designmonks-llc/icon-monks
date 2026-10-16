@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="candle,spa,relax,flame,light">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C144 52 152 64 152 76 A24 24 0 0 1 104 76 C104 64 112 52 128 32 Z"/>
+    <rect x="88" y="128" width="80" height="96" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C144 52 152 64 152 76 A24 24 0 0 1 104 76 C104 64 112 52 128 32 Z"/>
+    <rect x="88" y="128" width="80" height="96" rx="14"/>
+  </g>
+</svg>

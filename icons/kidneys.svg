@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="nephrology,kidney,organ,urology,renal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 56 C56 56 36 92 36 128 C36 168 56 200 88 200 C108 200 116 180 106 160 C98 146 98 110 106 96 C116 76 108 56 88 56 Z"/>
+    <path d="M168 56 C200 56 220 92 220 128 C220 168 200 200 168 200 C148 200 140 180 150 160 C158 146 158 110 150 96 C140 76 148 56 168 56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 56 C56 56 36 92 36 128 C36 168 56 200 88 200 C108 200 116 180 106 160 C98 146 98 110 106 96 C116 76 108 56 88 56 Z"/>
+    <path d="M168 56 C200 56 220 92 220 128 C220 168 200 200 168 200 C148 200 140 180 150 160 C158 146 158 110 150 96 C140 76 148 56 168 56 Z"/>
+    <path d="M100 128 C116 132 112 176 112 224"/>
+    <path d="M156 128 C140 132 144 176 144 224"/>
+  </g>
+</svg>

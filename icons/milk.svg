@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="milk,carton,dairy,drink">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 32 H168 V56 L192 96 V208 A16 16 0 0 1 176 224 H80 A16 16 0 0 1 64 208 V96 L88 56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 32 H168 V56 L192 96 V208 A16 16 0 0 1 176 224 H80 A16 16 0 0 1 64 208 V96 L88 56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 96 L192 96"/>
+    <path d="M88 56 L168 56"/>
+    <path d="M128 124 C140 140 148 152 148 164 A20 20 0 0 1 108 164 C108 152 116 140 128 124 Z"/>
+  </g>
+</svg>

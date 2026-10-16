@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map trifold,settings,configure,map,trifold">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124.94 202.85 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 136.63 A62 62 0 0 0 124.94 202.85 Z"/>
+    <path d="M174.63 160.82 L176.31 147.81 L191.69 147.81 L193.37 160.82 A25 25 0 0 1 199.39 164.3 L211.5 159.24 L219.19 172.57 L208.76 180.52 A25 25 0 0 1 208.76 187.48 L219.19 195.43 L211.5 208.76 L199.39 203.7 A25 25 0 0 1 193.37 207.18 L191.69 220.19 L176.31 220.19 L174.63 207.18 A25 25 0 0 1 168.61 203.7 L156.5 208.76 L148.81 195.43 L159.24 187.48 A25 25 0 0 1 159.24 180.52 L148.81 172.57 L156.5 159.24 L168.61 164.3 A25 25 0 0 1 174.63 160.82 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124.94 202.85 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 136.63"/>
+    <path d="M174.63 160.82 L176.31 147.81 L191.69 147.81 L193.37 160.82 A25 25 0 0 1 199.39 164.3 L211.5 159.24 L219.19 172.57 L208.76 180.52 A25 25 0 0 1 208.76 187.48 L219.19 195.43 L211.5 208.76 L199.39 203.7 A25 25 0 0 1 193.37 207.18 L191.69 220.19 L176.31 220.19 L174.63 207.18 A25 25 0 0 1 168.61 203.7 L156.5 208.76 L148.81 195.43 L159.24 187.48 A25 25 0 0 1 159.24 180.52 L148.81 172.57 L156.5 159.24 L168.61 164.3 A25 25 0 0 1 174.63 160.82 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 L96 192"/>
+    <path d="M160 64 L160 114"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="184" cy="184" r="9"/>
+  </g>
+</svg>

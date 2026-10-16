@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="lollipop,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="96" r="64"/>
+    <path d="M128 160 L128 224"/>
+    <path d="M124 96 A14 14 0 0 1 152 96 A30 30 0 0 1 92 96"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

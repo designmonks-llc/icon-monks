@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet ethiopic,alphabet,script,language,ethiopic">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 208 V104 A52 52 0 0 1 180 104 V208"/>
+    <path d="M52 208 L76 208"/>
+    <path d="M180 208 L204 208"/>
+  </g>
+</svg>

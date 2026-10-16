@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="egg,disabled,off,food">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C172 32 200 108 200 148 A72 72 0 0 1 56 148 C56 108 84 32 128 32 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

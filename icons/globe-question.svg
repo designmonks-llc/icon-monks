@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="globe,help,unknown,question">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M141.17 223.1 C136.86 223.7 132.47 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 132.47 223.7 136.86 223.1 141.17 A58 58 0 0 0 141.17 223.1 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M141.17 223.1 C136.86 223.7 132.47 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 132.47 223.7 136.86 223.1 141.17"/>
+    <path d="M170 158 A14 14 0 1 1 191 170.12 C186 173 184 176 184 182"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M138.86 220.42 C135.41 222.75 131.76 224 128 224 C105.91 224 88 181.02 88 128 C88 74.98 105.91 32 128 32 C150.09 32 168 74.98 168 128 L168 128.25"/>
+    <path d="M32 128 L168.9 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="210" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="cooker hood,extractor,kitchen,vent">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 32 V96 L48 144 V184 H208 V144 L152 96 V32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 32 V96 L48 144 V184 H208 V144 L152 96 V32"/>
+    <path d="M48 144 L208 144"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="96" cy="216" r="12"/>
+    <circle cx="160" cy="216" r="12"/>
+  </g>
+</svg>

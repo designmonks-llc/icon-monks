@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="jar,preserve,container">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 60 V72 C64 80 56 96 56 116 V200 A24 24 0 0 0 80 224 H176 A24 24 0 0 0 200 200 V116 C200 96 192 80 168 72 V60 Z"/>
+    <rect x="72" y="32" width="112" height="28" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 60 V72 C64 80 56 96 56 116 V200 A24 24 0 0 0 80 224 H176 A24 24 0 0 0 200 200 V116 C200 96 192 80 168 72 V60 Z"/>
+    <rect x="72" y="32" width="112" height="28" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="84" y="132" width="88" height="56" rx="8"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house signal,off,disabled,hidden,house">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M75.2 152.64 L75.2 216 L180.8 216 L180.8 152.64"/>
+    <path d="M64.64 160.56 L128 105.12 L191.36 160.56"/>
+    <path d="M102.54 79.66 A36 36 0 0 1 153.46 79.66"/>
+    <path d="M77.09 54.21 A72 72 0 0 1 178.91 54.21"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

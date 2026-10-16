@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="window,glass,frame,open window">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 208 V52 A12 12 0 0 1 60 40 H196 A12 12 0 0 1 208 52 V208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 208 V52 A12 12 0 0 1 60 40 H196 A12 12 0 0 1 208 52 V208"/>
+    <path d="M32 208 L224 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 208"/>
+    <path d="M48 124 L208 124"/>
+  </g>
+</svg>

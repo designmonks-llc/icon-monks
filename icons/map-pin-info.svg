@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="location info,pin,place,details">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 224 C128 224 56 160 56 104 A72 72 0 0 1 200 104 C200 160 128 224 128 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 C128 224 56 160 56 104 A72 72 0 0 1 200 104 C200 160 128 224 128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 104 L128 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="72" r="16"/>
+  </g>
+</svg>

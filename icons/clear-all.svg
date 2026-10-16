@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="clear,dismiss all,notifications">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 72 L168 72"/>
+    <path d="M64 128 L192 128"/>
+    <path d="M88 184 L216 184"/>
+  </g>
+</svg>

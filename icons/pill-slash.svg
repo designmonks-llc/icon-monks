@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="pill,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116.69 195.88 L195.88 116.69 A40 40 0 0 0 139.31 60.12 L60.12 139.31 A40 40 0 0 0 116.69 195.88 Z"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="toilet paper,roll,bathroom,tissue">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="96" cy="100" r="56"/>
+    <path d="M96 44 H208 V216 H152 V100 H96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="100" r="56"/>
+    <path d="M96 44 H208 V216 H152 V100"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="100" r="16"/>
+    <path d="M152 176 L208 176"/>
+  </g>
+</svg>

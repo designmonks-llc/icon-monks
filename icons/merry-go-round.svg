@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="carousel,fair,amusement">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 96 L128 40 L216 96 Z"/>
+    <path d="M56 140 L96 140 L106 118 L118 126 L104 154 L56 154 Z"/>
+    <path d="M152 164 L192 164 L202 142 L214 150 L200 178 L152 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 96 L128 40 L216 96 Z"/>
+    <path d="M80 96 L80 208"/>
+    <path d="M176 96 L176 208"/>
+    <path d="M56 140 L96 140 L106 118 L118 126 L104 154 L56 154 Z"/>
+    <path d="M152 164 L192 164 L202 142 L214 150 L200 178 L152 178 Z"/>
+    <path d="M40 208 L216 208"/>
+  </g>
+</svg>

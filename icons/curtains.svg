@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="curtains,drapes,window,theater">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 40 V216 H96 C88 176 72 152 72 128 C72 104 88 72 104 40 Z"/>
+    <path d="M208 40 V216 H160 C168 176 184 152 184 128 C184 104 168 72 152 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L224 40"/>
+    <path d="M48 40 V216 H96 C88 176 72 152 72 128 C72 104 88 72 104 40"/>
+    <path d="M208 40 V216 H160 C168 176 184 152 184 128 C184 104 168 72 152 40"/>
+  </g>
+</svg>

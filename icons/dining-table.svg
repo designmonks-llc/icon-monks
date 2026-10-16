@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="table,restaurant table,dining,furniture">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 120 L176 120"/>
+    <path d="M128 120 L128 208"/>
+    <path d="M100 208 L156 208"/>
+    <path d="M32 72 L32 208"/>
+    <path d="M32 160 L64 160 L64 208"/>
+    <path d="M224 72 L224 208"/>
+    <path d="M224 160 L192 160 L192 208"/>
+  </g>
+</svg>

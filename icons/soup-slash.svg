@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="soup,off,disabled,hidden">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 120 H224 A96 96 0 0 1 32 120 Z"/>
+    <path d="M116 40 C100 56 132 72 116 88"/>
+    <path d="M160 112 L208 40"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

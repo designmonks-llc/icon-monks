@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="no steam,laundry,care symbol,iron">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 152 L216 152 V96 A24 24 0 0 0 192 72 H120 C76 72 44 100 32 152 Z"/>
+    <path d="M112 72 L124 32 H184 A16 16 0 0 1 200 48 V72"/>
+    <path d="M84 180 C68 196 100 208 84 224"/>
+    <path d="M128 180 C112 196 144 208 128 224"/>
+    <path d="M172 180 C156 196 188 208 172 224"/>
+    <path d="M92 116 L180 116"/>
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

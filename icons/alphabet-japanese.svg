@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet japanese,alphabet,script,language,japanese">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 72 L180 64"/>
+    <path d="M112 36 C108 96 116 156 140 204"/>
+    <path d="M160 100 C136 164 100 196 72 188 C48 180 48 148 72 128 C104 102 168 102 192 132 C212 160 196 200 152 208"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="ai agent,assistant,bot,automation,ai">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="88" width="144" height="128" rx="28"/>
+    <path d="M198 30 C200.33 48.67 207.33 55.67 226 58 C207.33 60.33 200.33 67.33 198 86 C195.67 67.33 188.67 60.33 170 58 C188.67 55.67 195.67 48.67 198 30 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="88" width="144" height="128" rx="28"/>
+    <path d="M104 88 L104 68"/>
+    <path d="M198 30 C200.33 48.67 207.33 55.67 226 58 C207.33 60.33 200.33 67.33 198 86 C195.67 67.33 188.67 60.33 170 58 C188.67 55.67 195.67 48.67 198 30 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 180 L124 180"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="104" cy="56" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="76" cy="140" r="16"/>
+    <circle cx="132" cy="140" r="16"/>
+  </g>
+</svg>

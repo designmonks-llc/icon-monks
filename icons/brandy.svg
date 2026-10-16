@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="snifter,cognac,drink">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M79.01 64 H176.99 A70 70 0 1 1 79.01 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M79.01 64 H176.99 A70 70 0 1 1 79.01 64 Z"/>
+    <path d="M128 184 L128 216"/>
+    <path d="M92 216 L164 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M63.01 140 L192.99 140"/>
+  </g>
+</svg>

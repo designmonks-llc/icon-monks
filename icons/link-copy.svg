@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="copy link,url,share,clipboard">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="72" width="152" height="152" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="72" width="152" height="152" rx="14"/>
+    <path d="M168 72 V48 A16 16 0 0 0 152 32 H48 A16 16 0 0 0 32 48 V152 A16 16 0 0 0 48 168 H72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M135.27 186.18 L157.9 163.56 A18 18 0 0 0 132.44 138.1 L109.82 160.73 A18 18 0 0 0 135.27 186.18 Z"/>
+    <path d="M163.56 157.9 L186.18 135.27 A18 18 0 0 0 160.73 109.82 L138.1 132.44 A18 18 0 0 0 163.56 157.9 Z"/>
+  </g>
+</svg>

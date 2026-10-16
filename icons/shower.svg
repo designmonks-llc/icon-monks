@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="shower,bathroom,water,wash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 136 A40 40 0 0 1 184 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 224 V88 A48 48 0 0 1 144 88 V96"/>
+    <path d="M104 136 A40 40 0 0 1 184 136 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="104" cy="176" r="14"/>
+    <circle cx="144" cy="176" r="14"/>
+    <circle cx="184" cy="176" r="14"/>
+    <circle cx="124" cy="212" r="14"/>
+    <circle cx="164" cy="212" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="bottom bar,tab bar,navigation,layout,footer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 160 V194 A14 14 0 0 0 46 208 H210 A14 14 0 0 0 224 194 V160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+    <path d="M32 160 L224 160"/>
+  </g>
+</svg>

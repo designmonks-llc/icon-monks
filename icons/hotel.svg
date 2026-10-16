@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="hotel,lodging,stay,bed">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 176 V128 A16 16 0 0 1 152 112 H192 A32 32 0 0 1 224 144 V176 Z"/>
+    <circle cx="84" cy="124" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 56 L32 208"/>
+    <path d="M32 176 H224 V208"/>
+    <path d="M136 176 V128 A16 16 0 0 1 152 112 H192 A32 32 0 0 1 224 144 V176"/>
+    <circle cx="84" cy="124" r="22"/>
+  </g>
+</svg>

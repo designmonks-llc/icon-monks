@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="tea,teapot,brew,kettle,pot">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M71.56 76.98 L182.3 108.73 C175.33 159.16 148.1 188.81 103.12 175.91 C58.13 163.01 50.75 123.44 71.56 76.98 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M71.56 76.98 L182.3 108.73 C175.33 159.16 148.1 188.81 103.12 175.91 C58.13 163.01 50.75 123.44 71.56 76.98 Z"/>
+    <path d="M92.33 82.93 C99.77 56.98 168.98 76.82 161.54 102.78"/>
+    <path d="M68.46 91.07 C37.44 78.43 23.55 126.88 63.34 138.29"/>
+    <path d="M171.64 139.38 C187.21 143.85 197.62 120.61 214.44 114.2"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="136.36" cy="59.98" r="16"/>
+    <circle cx="214.44" cy="150.2" r="14"/>
+    <circle cx="214.44" cy="186.2" r="14"/>
+  </g>
+</svg>

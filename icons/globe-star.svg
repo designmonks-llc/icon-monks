@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="globe,favorite,starred,featured">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M138.75 223.4 C135.22 223.8 131.64 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 131.64 223.8 135.22 223.4 138.75 A60 60 0 0 0 138.75 223.4 Z"/>
+    <path d="M184 153 L192.23 174.67 L215.38 175.8 L197.31 190.33 L203.4 212.7 L184 200 L164.6 212.7 L170.69 190.33 L152.62 175.8 L175.77 174.67 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M138.75 223.4 C135.22 223.8 131.64 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 131.64 223.8 135.22 223.4 138.75"/>
+    <path d="M184 153 L192.23 174.67 L215.38 175.8 L197.31 190.33 L203.4 212.7 L184 200 L164.6 212.7 L170.69 190.33 L152.62 175.8 L175.77 174.67 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M137.15 221.48 C134.21 223.13 131.15 224 128 224 C105.91 224 88 181.02 88 128 C88 74.98 105.91 32 128 32 C149.84 32 167.59 74 167.99 126.17"/>
+    <path d="M32 128 L162.46 128"/>
+  </g>
+</svg>

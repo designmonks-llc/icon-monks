@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="rx,prescription,pharmacy,medicine">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 48 L72 208"/>
+    <path d="M72 48 H124 A36 36 0 0 1 124 120 H72"/>
+    <path d="M108 120 L200 212"/>
+    <path d="M200 144 L136 208"/>
+  </g>
+</svg>

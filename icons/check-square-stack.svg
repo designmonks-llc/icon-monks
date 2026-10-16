@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="checkbox,multiple,select all,checked">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 72 H168 A16 16 0 0 1 184 88 V208 A16 16 0 0 1 168 224 H48 A16 16 0 0 1 32 208 V88 A16 16 0 0 1 48 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 72 H168 A16 16 0 0 1 184 88 V208 A16 16 0 0 1 168 224 H48 A16 16 0 0 1 32 208 V88 A16 16 0 0 1 48 72 Z"/>
+    <path d="M72 72 V48 A16 16 0 0 1 88 32 H208 A16 16 0 0 1 224 48 V168 A16 16 0 0 1 208 184 H184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74 150 L98 174 L144 128"/>
+  </g>
+</svg>

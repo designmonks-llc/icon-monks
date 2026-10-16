@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="saved items,bookmarks,collection,bookmark manager,saved">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 64 H156 V224 L100 188 L44 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 64 H156 V224 L100 188 L44 224 Z"/>
+    <path d="M100 64 V32 H212 V192 L156 156"/>
+  </g>
+</svg>

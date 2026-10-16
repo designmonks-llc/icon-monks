@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="image,bitcoin,crypto">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M126.83 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 136.63 A62 62 0 0 0 126.83 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126.83 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 136.63"/>
+    <path d="M162 158 H186 A13 13 0 0 1 186 184 H170"/>
+    <path d="M170 184 H189 A13 13 0 0 1 189 210 H162"/>
+    <path d="M170 158 L170 210"/>
+    <path d="M180 146 L180 158"/>
+    <path d="M180 210 L180 222"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 188 L96 136 L115.65 155.65"/>
+    <circle cx="152" cy="96" r="16"/>
+  </g>
+</svg>

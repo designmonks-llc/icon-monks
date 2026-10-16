@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="blocked site,forbidden page,no access">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M121.74 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 126.55 A70 70 0 0 0 121.74 216 Z"/>
+    <circle cx="184" cy="184" r="34"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M121.74 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 126.55"/>
+    <circle cx="184" cy="184" r="34"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 L224 104"/>
+    <path d="M104 72 L192 72"/>
+    <path d="M159.96 159.96 L208.04 208.04"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="64" cy="72" r="10"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="phone booth,payphone,call box,telephone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="32" width="128" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="32" width="128" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 72 L192 72"/>
+    <rect x="96" y="104" width="64" height="88" rx="8"/>
+    <path d="M128 104 L128 192"/>
+    <path d="M96 148 L160 148"/>
+  </g>
+</svg>

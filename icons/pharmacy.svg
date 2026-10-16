@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="drugstore,chemist,medicine,rx">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 96 L60 48 L196 48 L216 96 Z"/>
+    <rect x="56" y="96" width="144" height="120"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 96 L60 48 L196 48 L216 96 Z"/>
+    <path d="M56 96 V216 M200 96 V216"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 120 L144 120 L144 140 L164 140 L164 172 L144 172 L144 192 L112 192 L112 172 L92 172 L92 140 L112 140 Z"/>
+  </g>
+</svg>

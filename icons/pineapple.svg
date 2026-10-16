@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="pineapple,tropical,fruit,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="156" rx="64" ry="68"/>
+    <path d="M100 92 L80 52 L112 68 L128 32 L144 68 L176 52 L156 92 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="156" rx="64" ry="68"/>
+    <path d="M100 92 L80 52 L112 68 L128 32 L144 68 L176 52 L156 92"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98.67 95.56 L186.56 183.44"/>
+    <path d="M69.44 128.56 L157.33 216.44"/>
+    <path d="M69.44 183.44 L157.33 95.56"/>
+    <path d="M98.67 216.44 L186.56 128.56"/>
+  </g>
+</svg>

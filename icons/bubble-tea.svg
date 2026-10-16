@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="bubble tea,boba,milk tea,drink,tapioca">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 104 H200 L186 204 A14 14 0 0 1 172 216 H84 A14 14 0 0 1 70 204 Z"/>
+    <path d="M76 104 A52 52 0 0 1 180 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 104 H200 L186 204 A14 14 0 0 1 172 216 H84 A14 14 0 0 1 70 204 Z"/>
+    <path d="M76 104 A52 52 0 0 1 180 104"/>
+    <path d="M144 56 L162 34"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="180" r="16"/>
+    <circle cx="152" cy="180" r="16"/>
+    <circle cx="128" cy="144" r="16"/>
+  </g>
+</svg>

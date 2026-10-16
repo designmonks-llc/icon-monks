@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="toast,clinking glasses,celebrate">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M65.86 84.54 L124.07 99.06 C110.53 153.4 93.08 173.78 75.61 169.43 C58.15 165.07 52.31 138.88 65.86 84.54 Z"/>
+    <path d="M190.14 84.54 L131.93 99.06 C145.47 153.4 162.92 173.78 180.39 169.43 C197.85 165.07 203.69 138.88 190.14 84.54 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M65.86 84.54 L124.07 99.06 C110.53 153.4 93.08 173.78 75.61 169.43 C58.15 165.07 52.31 138.88 65.86 84.54 Z"/>
+    <path d="M75.61 169.43 L64 216"/>
+    <path d="M40.71 210.19 L87.29 221.81"/>
+    <path d="M190.14 84.54 L131.93 99.06 C145.47 153.4 162.92 173.78 180.39 169.43 C197.85 165.07 203.69 138.88 190.14 84.54 Z"/>
+    <path d="M180.39 169.43 L192 216"/>
+    <path d="M215.29 210.19 L168.71 221.81"/>
+    <path d="M124.07 71.06 L124.07 47.06"/>
+    <path d="M102.86 77.85 L88.72 63.7"/>
+    <path d="M145.29 77.85 L159.43 63.7"/>
+  </g>
+</svg>

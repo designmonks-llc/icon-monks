@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="beer,bottle,drink">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 32 H148 V80 C148 100 176 108 176 136 V208 A16 16 0 0 1 160 224 H96 A16 16 0 0 1 80 208 V136 C80 108 108 100 108 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 32 H148 V80 C148 100 176 108 176 136 V208 A16 16 0 0 1 160 224 H96 A16 16 0 0 1 80 208 V136 C80 108 108 100 108 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="108" y="148" width="40" height="44" rx="8"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="replace,swap,exchange,switch,flip">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="72" height="72" rx="12"/>
+    <rect x="152" y="152" width="72" height="72" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="72" height="72" rx="12"/>
+    <rect x="152" y="152" width="72" height="72" rx="12"/>
+    <path d="M148 60 A48 48 0 0 1 196 108"/>
+    <path d="M176 88 L196 108 L216 88"/>
+    <path d="M108 196 A48 48 0 0 1 60 148"/>
+    <path d="M80 168 L60 148 L40 168"/>
+  </g>
+</svg>

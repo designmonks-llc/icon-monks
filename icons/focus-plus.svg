@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="focus,add,frame,corners">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <path d="M128 88 L128 168"/>
+    <path d="M88 128 L168 128"/>
+  </g>
+</svg>

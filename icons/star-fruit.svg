@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="carambola,fruit,star">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M139.64 53.45 L160.04 84 A10 10 0 0 0 165.65 88.08 L201.01 98.03 A14 14 0 0 1 208.21 120.18 L185.45 149.02 A10 10 0 0 0 183.31 155.61 L184.77 192.33 A14 14 0 0 1 165.93 206.01 L131.47 193.28 A10 10 0 0 0 124.53 193.28 L90.07 206.01 A14 14 0 0 1 71.23 192.33 L72.69 155.61 A10 10 0 0 0 70.55 149.02 L47.79 120.18 A14 14 0 0 1 54.99 98.03 L90.35 88.08 A10 10 0 0 0 95.96 84 L116.36 53.45 A14 14 0 0 1 139.64 53.45 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139.64 53.45 L160.04 84 A10 10 0 0 0 165.65 88.08 L201.01 98.03 A14 14 0 0 1 208.21 120.18 L185.45 149.02 A10 10 0 0 0 183.31 155.61 L184.77 192.33 A14 14 0 0 1 165.93 206.01 L131.47 193.28 A10 10 0 0 0 124.53 193.28 L90.07 206.01 A14 14 0 0 1 71.23 192.33 L72.69 155.61 A10 10 0 0 0 70.55 149.02 L47.79 120.18 A14 14 0 0 1 54.99 98.03 L90.35 88.08 A10 10 0 0 0 95.96 84 L116.36 53.45 A14 14 0 0 1 139.64 53.45 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 104 L128 76"/>
+    <path d="M156.53 124.73 L183.16 116.08"/>
+    <path d="M145.63 158.27 L162.09 180.92"/>
+    <path d="M110.37 158.27 L93.91 180.92"/>
+    <path d="M99.47 124.73 L72.84 116.08"/>
+  </g>
+</svg>

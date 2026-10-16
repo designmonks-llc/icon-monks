@@ -1,6 +1,6 @@
 ## 0.2.0
 
-- Adds 400 icons (2339 total) across 29 categories.
+- Adds 400 icons (3559 total) across 30 categories.
 
 ## 0.1.0
 

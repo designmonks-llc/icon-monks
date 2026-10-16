@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="smoke alarm,detector,co alarm,safety,fire safety">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 80 H208 V108 C208 164 172 200 128 200 C84 200 48 164 48 108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 L224 48"/>
+    <path d="M48 80 H208 V108 C208 164 172 200 128 200 C84 200 48 164 48 108 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 120 L172 120"/>
+    <path d="M104 156 L152 156"/>
+  </g>
+</svg>

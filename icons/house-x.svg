@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="remove home,house,x,delete">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M135.63 208 L48 208 L48 112 L128 44 L208 112 L208 135.63 A54 54 0 0 0 135.63 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 L48 208 L135.63 208"/>
+    <path d="M208 135.63 L208 112"/>
+    <path d="M32 124 L128 40 L224 124"/>
+    <path d="M164 164 L204 204"/>
+    <path d="M204 164 L164 204"/>
+  </g>
+</svg>

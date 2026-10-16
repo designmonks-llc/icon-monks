@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="cutting board,chopping,kitchen,prep">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 A24 24 0 0 1 72 88 H100 V64 A28 28 0 0 1 156 64 V88 H184 A24 24 0 0 1 208 112 V200 A24 24 0 0 1 184 224 H72 A24 24 0 0 1 48 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 A24 24 0 0 1 72 88 H100 V64 A28 28 0 0 1 156 64 V88 H184 A24 24 0 0 1 208 112 V200 A24 24 0 0 1 184 224 H72 A24 24 0 0 1 48 200 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 136 L168 136"/>
+    <path d="M88 176 L136 176"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="62" r="14"/>
+  </g>
+</svg>

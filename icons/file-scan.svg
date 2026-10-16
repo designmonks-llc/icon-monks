@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="scan document,scanner,file,capture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 64 H140 L172 96 V192 H84 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 64 H140 L172 96 V192 H84 Z"/>
+    <path d="M32 76 V46 A14 14 0 0 1 46 32 H76"/>
+    <path d="M224 76 V46 A14 14 0 0 0 210 32 H180"/>
+    <path d="M224 180 V210 A14 14 0 0 1 210 224 H180"/>
+    <path d="M32 180 V210 A14 14 0 0 0 46 224 H76"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 64 V96 H172"/>
+  </g>
+</svg>

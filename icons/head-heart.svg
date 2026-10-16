@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="mental health,therapy,wellbeing,mind">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 224 V172.6 A76 76 0 1 1 195.4 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 224 V172.6 A76 76 0 1 1 195.4 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M122 138.8 C122 138.8 83.6 118 83.6 93.2 A20 20 0 0 1 122 85.2 A20 20 0 0 1 160.4 93.2 C160.4 118 122 138.8 122 138.8 Z"/>
+  </g>
+</svg>

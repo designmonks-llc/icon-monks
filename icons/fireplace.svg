@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="fireplace,hearth,fire,warm">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="64" width="160" height="152"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M88 216 V144 A40 40 0 0 1 168 144 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 L224 64"/>
+    <path d="M48 64 L48 216"/>
+    <path d="M208 64 L208 216"/>
+    <path d="M32 216 L224 216"/>
+    <path d="M80 216 V144 A48 48 0 0 1 176 144 V216"/>
+    <path d="M128 208 C108 208 100 196 100 184 C100 168 116 160 120 144 C136 156 156 168 156 184 C156 196 148 208 128 208 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="mop,cleaning,floor,housework">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 120"/>
+    <rect x="88" y="120" width="80" height="16" rx="8"/>
+    <path d="M96 136 Q72 168 60 208"/>
+    <path d="M117 136 Q104 176 106 216"/>
+    <path d="M139 136 Q152 176 150 216"/>
+    <path d="M160 136 Q184 168 196 208"/>
+  </g>
+</svg>

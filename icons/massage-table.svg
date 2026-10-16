@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="massage,spa,therapy,table">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="56" cy="120" r="24"/>
+    <rect x="92" y="112" width="132" height="32" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 168 L224 168"/>
+    <path d="M56 168 L56 216"/>
+    <path d="M200 168 L200 216"/>
+    <circle cx="56" cy="120" r="24"/>
+    <rect x="92" y="112" width="132" height="32" rx="16"/>
+  </g>
+</svg>

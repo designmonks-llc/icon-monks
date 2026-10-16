@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="beer mug,pint,drink,pub,sports bar">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 104 A28 28 0 0 1 88 68 A32 32 0 0 1 144 64 A28 28 0 0 1 168 104 Z"/>
+    <path d="M56 104 V196 A20 20 0 0 0 76 216 H140 A20 20 0 0 0 160 196 V104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 104 A28 28 0 0 1 88 68 A32 32 0 0 1 144 64 A28 28 0 0 1 168 104 Z"/>
+    <path d="M56 104 V196 A20 20 0 0 0 76 216 H140 A20 20 0 0 0 160 196 V104"/>
+    <path d="M160 128 H184 A20 20 0 0 1 204 148 V168 A20 20 0 0 1 184 188 H160"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 140 L92 184"/>
+    <path d="M124 140 L124 184"/>
+  </g>
+</svg>

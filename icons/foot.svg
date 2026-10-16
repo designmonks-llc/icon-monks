@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="podiatry,foot,feet,footprint">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 124 C84 100 108 88 144 92 C176 96 192 116 186 146 C180 172 166 182 164 198 C162 216 144 225 122 224 C94 220 82 200 90 176 C96 158 84 146 84 124 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 124 C84 100 108 88 144 92 C176 96 192 116 186 146 C180 172 166 182 164 198 C162 216 144 225 122 224 C94 220 82 200 90 176 C96 158 84 146 84 124 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="76" cy="64" r="20"/>
+    <circle cx="118" cy="46" r="15"/>
+    <circle cx="156" cy="44" r="14"/>
+    <circle cx="190" cy="56" r="13"/>
+    <circle cx="212" cy="80" r="11"/>
+  </g>
+</svg>

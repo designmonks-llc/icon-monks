@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="spaces,workspaces,desktops,areas">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="96" y="80" width="128" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="80" width="128" height="128" rx="14"/>
+    <path d="M66 176 L46 176 A14 14 0 0 1 32 162 L32 62 A14 14 0 0 1 46 48 L146 48 A14 14 0 0 1 153.21 50"/>
+  </g>
+</svg>

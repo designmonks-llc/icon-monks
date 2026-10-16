@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="plates,dishes,tableware,kitchen">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 64 A76 64 0 0 0 204 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 64 A76 64 0 0 0 204 64 Z"/>
+    <path d="M48 164 L208 164"/>
+    <path d="M32 200 L224 200"/>
+  </g>
+</svg>

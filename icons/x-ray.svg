@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="radiology,scan,bones,imaging">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="40" width="192" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="192" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 188"/>
+    <path d="M128 92 C108 92 84 96 76 112"/>
+    <path d="M128 92 C148 92 172 96 180 112"/>
+    <path d="M128 128 C108 128 84 132 76 148"/>
+    <path d="M128 128 C148 128 172 132 180 148"/>
+    <path d="M128 164 C108 164 84 168 76 184"/>
+    <path d="M128 164 C148 164 172 168 180 184"/>
+  </g>
+</svg>

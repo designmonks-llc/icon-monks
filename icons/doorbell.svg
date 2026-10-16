@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="doorbell,ring,chime,entrance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="104" cy="152" r="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="104" cy="152" r="64"/>
+    <path d="M136.83 61.79 A96 96 0 0 1 194.21 119.17"/>
+    <path d="M147.78 31.72 A128 128 0 0 1 224.28 108.22"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="104" cy="152" r="28"/>
+  </g>
+</svg>
