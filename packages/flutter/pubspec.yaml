@@ -1,8 +1,14 @@
 name: icon_monks
 description: Icon Monks for Flutter. 497 open source icons in thin, light, regular, bold and fill weights.
 version: 0.2.0
-homepage: https://github.com/designmonks/icon-monks
+homepage: https://designmonks.github.io/icon-monks/
 repository: https://github.com/designmonks/icon-monks
+topics:
+  - icons
+  - icon-font
+  - svg
+  - ui
+  - design
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

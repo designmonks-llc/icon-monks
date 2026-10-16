@@ -184,7 +184,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var
     <div class="platform"><h3>Icon font</h3><p>OTF and WOFF2 with CSS classes, five weights.</p><code>npm i @icon-monks/font</code></div>
     <div class="platform"><h3>SVG &amp; sprites</h3><p>Raw files, sprites, metadata and a toSvg() helper.</p><code>npm i @icon-monks/core</code></div>
     <div class="platform"><h3>Flutter</h3><p>IconData constants backed by bundled fonts.</p><code>flutter pub add icon_monks</code></div>
-    <div class="platform"><h3>Android</h3><p>Jetpack Compose ImageVectors and XML VectorDrawables.</p><code>com.designmonks:icon-monks</code></div>
+    <div class="platform"><h3>Android</h3><p>Jetpack Compose ImageVectors and XML VectorDrawables.</p><code>com.github.designmonks:icon-monks</code></div>
     <div class="platform"><h3>iOS &amp; macOS</h3><p>Swift Package with vector assets for SwiftUI and UIKit.</p><code>Image(iconMonks: .house)</code></div>
   </div>
 </section>
@@ -373,7 +373,32 @@ if (!SNIPPETS[state.tab]) state.tab = 'React';
 const cats = {};
 DATA.icons.forEach((i) => { cats[i.category] = (cats[i.category] || 0) + 1; });
 $('cat').insertAdjacentHTML('beforeend', Object.keys(cats).sort().map((c) => `<option value="${c}">${c} (${cats[c]})</option>`).join(''));
+// Shareable links: ?q=search&category=Weather&icon=house&weight=bold
+const params = (() => { try { return new URLSearchParams(location.search); } catch { return new URLSearchParams(); } })();
+if (params.get('q')) { state.q = params.get('q'); $('q').value = state.q; }
+if (cats[params.get('category')]) { state.cat = params.get('category'); $('cat').value = state.cat; }
+if (byName[params.get('icon')]) state.selected = params.get('icon');
+if (WEIGHTS.includes(params.get('weight'))) state.weight = params.get('weight');
+let urlTimer;
+function syncUrl() {
+  clearTimeout(urlTimer);
+  urlTimer = setTimeout(() => {
+    try {
+      const u = new URLSearchParams();
+      if (state.q.trim()) u.set('q', state.q.trim());
+      if (state.cat) u.set('category', state.cat);
+      if (state.selected !== 'house') u.set('icon', state.selected);
+      if (state.weight !== 'regular') u.set('weight', state.weight);
+      const qs = u.toString();
+      history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+    } catch { /* sandboxed previews may block history */ }
+  }, 300);
+}
+['grid', 'weights'].forEach((id) => $(id).addEventListener('click', syncUrl));
+['q', 'cat'].forEach((id) => $(id).addEventListener('input', syncUrl));
+$('cat').addEventListener('change', syncUrl);
 renderWeights(); renderGrid(); renderDetail();
+if (params.get('icon')) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrollIntoView({ block: 'center' });
 
 /* Visitor counter: counts each browser once (no personal data is sent) */
 (async () => {
