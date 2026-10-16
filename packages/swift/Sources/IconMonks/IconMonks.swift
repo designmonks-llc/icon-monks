@@ -129,8 +129,8 @@ public enum IconMonk: String, CaseIterable, Sendable {
 }
 
 public extension Image {
-    /// `Image(monks: .house, weight: .bold)`
-    init(monks icon: IconMonk, weight: IconMonkWeight = .regular) {
+    /// `Image(iconMonks: .house, weight: .bold)`
+    init(iconMonks icon: IconMonk, weight: IconMonkWeight = .regular) {
         self = icon.image(weight)
     }
 }

@@ -5,12 +5,12 @@ Add the package in Xcode (File > Add Package Dependencies) and point it at this 
 ```swift
 import IconMonks
 
-Image(monks: .house)
+Image(iconMonks: .house)
     .resizable()
     .frame(width: 24, height: 24)
     .foregroundStyle(.purple)
 
-Image(monks: .heart, weight: .fill)
+Image(iconMonks: .heart, weight: .fill)
 let tabIcon = IconMonk.gear.uiImage(.bold)   // UIKit
 ```
 

@@ -153,7 +153,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 20px 40px; color: var
     <div class="platform"><h3>SVG &amp; sprites</h3><p>Raw files, sprites, metadata and a toSvg() helper.</p><code>npm i @icon-monks/core</code></div>
     <div class="platform"><h3>Flutter</h3><p>IconData constants backed by bundled fonts.</p><code>flutter pub add icon_monks</code></div>
     <div class="platform"><h3>Android</h3><p>Jetpack Compose ImageVectors and XML VectorDrawables.</p><code>com.designmonks:icon-monks</code></div>
-    <div class="platform"><h3>iOS &amp; macOS</h3><p>Swift Package with vector assets for SwiftUI and UIKit.</p><code>Image(monks: .house)</code></div>
+    <div class="platform"><h3>iOS &amp; macOS</h3><p>Swift Package with vector assets for SwiftUI and UIKit.</p><code>Image(iconMonks: .house)</code></div>
   </div>
 </section>
 
@@ -197,7 +197,7 @@ const SNIPPETS = {
   HTML: (n, w) => `<script src="https://cdn.jsdelivr.net/npm/@icon-monks/web"><\/script>\n\n<icon-monks name="${n}"${w !== 'regular' ? ` weight="${w}"` : ''} size="32"></icon-monks>`,
   Font: (n, w) => w === 'duotone' ? 'Icon fonts are single-colour, so duotone is not in the font.\nUse the SVG, React, Vue, web component or native packages.' : `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font/dist/index.css">\n\n<i class="${w === 'regular' ? 'im' : 'im-' + w} im-${n}"></i>`,
   Flutter: (n, w) => w === 'duotone' ? 'Duotone is not available in the Flutter font package.' : (w === 'regular' ? `Icon(IconMonks.${camel(n)})` : `Icon(IconMonks.${w}.${camel(n)})`),
-  SwiftUI: (n, w) => `import IconMonks\n\nImage(monks: .${camel(n)}${w !== 'regular' ? `, weight: .${w}` : ''})\n    .resizable()\n    .frame(width: 24, height: 24)`,
+  SwiftUI: (n, w) => `import IconMonks\n\nImage(iconMonks: .${camel(n)}${w !== 'regular' ? `, weight: .${w}` : ''})\n    .resizable()\n    .frame(width: 24, height: 24)`,
   Compose: (n, w) => `import com.designmonks.icons.IconMonks\n\nIcon(IconMonks.${pascal(w)}.${pascal(n)}, contentDescription = null)`,
   SVG: (n, w) => svg(byName[n], w, 32),
 };
