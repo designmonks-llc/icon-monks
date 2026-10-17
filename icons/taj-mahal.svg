@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="landmark,india,palace,dome">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M88 128 C64 104 92 84 112 72 C122 66 128 58 128 48 C128 58 134 66 144 72 C164 84 192 104 168 128 Z"/>
-    <rect x="72" y="128" width="112" height="88"/>
+    <path d="M91 128 C84.96 121.85 83 116.48 83 111 C83 96.46 99.76 84.05 113 76 C122.46 70.46 128 63.08 128 54 C128 63.08 133.54 70.46 143 76 C156.24 84.05 173 96.46 173 111 C173 116.48 171.04 121.85 165 128 Z"/>
+    <rect x="76" y="128" width="104" height="81"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M108 216 V180 A20 20 0 0 1 148 180 V216 Z"/>
+    <path d="M110 209 V176 A18.46 18.46 0 0 1 146 176 V209 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M72 216 V128 H184 V216"/>
-    <path d="M88 128 C64 104 92 84 112 72 C122 66 128 58 128 48 C128 58 134 66 144 72 C164 84 192 104 168 128 Z"/>
-    <path d="M128 48 L128 32"/>
-    <path d="M24 216 L232 216"/>
-    <path d="M108 216 V180 A20 20 0 0 1 148 180 V216"/>
-    <path d="M36 108 L36 216"/>
-    <path d="M220 108 L220 216"/>
+    <path d="M76 209 V128 H180 V209"/>
+    <path d="M91 128 C84.96 121.85 83 116.48 83 111 C83 96.46 99.76 84.05 113 76 C122.46 70.46 128 63.08 128 54 C128 63.08 133.54 70.46 143 76 C156.24 84.05 173 96.46 173 111 C173 116.48 171.04 121.85 165 128 Z"/>
+    <path d="M128 54 L128 39"/>
+    <path d="M32 209 L224 209"/>
+    <path d="M110 209 V176 A18.46 18.46 0 0 1 146 176 V209"/>
+    <path d="M43 109 L43 209"/>
+    <path d="M213 109 L213 209"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="36" cy="84" r="16"/>
-    <circle cx="220" cy="84" r="16"/>
+    <circle cx="43" cy="87" r="16"/>
+    <circle cx="213" cy="87" r="16"/>
   </g>
 </svg>

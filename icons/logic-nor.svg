@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="nor gate,logic,circuit,boolean">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 64 C122 64 149.6 84 176 128 C149.6 172 122 192 56 192 Q100 128 56 64 Z"/>
+    <path d="M56 64 C122 64 149.6 84 176 128 C149.6 172 122 192 56 192 C70.67 170.67 78 149.33 78 128 C78 106.67 70.67 85.33 56 64 Z"/>
     <circle cx="194" cy="128" r="18"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 64 C122 64 149.6 84 176 128 C149.6 172 122 192 56 192 Q100 128 56 64 Z"/>
-    <path d="M32 96 L72.5 96"/>
-    <path d="M32 160 L72.5 160"/>
+    <path d="M56 64 C122 64 149.6 84 176 128 C149.6 172 122 192 56 192 C70.67 170.67 78 149.33 78 128 C78 106.67 70.67 85.33 56 64 Z"/>
+    <path d="M32 96 L72 96"/>
+    <path d="M32 160 L72 160"/>
     <circle cx="194" cy="128" r="18"/>
     <path d="M212 128 L224 128"/>
   </g>

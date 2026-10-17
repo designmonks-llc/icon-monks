@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="christmas,tree,holiday,xmas">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 32 L135.05 50.29 L154.63 51.35 L139.41 63.71 L144.46 82.65 L128 72 L111.54 82.65 L116.59 63.71 L101.37 51.35 L120.95 50.29 Z"/>
+    <path d="M128 32 L135 50 L155 51 L139 64 L144 83 L128 72 L112 83 L117 64 L101 51 L121 50 Z"/>
     <path d="M128 96 L172 148 L156 148 L204 196 L52 196 L100 148 L84 148 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 32 L135.05 50.29 L154.63 51.35 L139.41 63.71 L144.46 82.65 L128 72 L111.54 82.65 L116.59 63.71 L101.37 51.35 L120.95 50.29 Z"/>
+    <path d="M128 32 L135 50 L155 51 L139 64 L144 83 L128 72 L112 83 L117 64 L101 51 L121 50 Z"/>
     <path d="M128 96 L172 148 L156 148 L204 196 L52 196 L100 148 L84 148 Z"/>
     <path d="M128 196 L128 224"/>
   </g>

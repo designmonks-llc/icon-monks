@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,fast,power,instant,shopping">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126.92 160 L84 160 L65 80 L216 80 L203.73 120.9 A66 66 0 0 0 126.92 160 Z"/>
-    <path d="M194.4 146.6 L159.2 191.4 H184.8 L178.4 223.4 L216.8 177 H191.2 Z"/>
+    <path d="M135 160 L92 160 L73 80 L224 80 L211 121 A65.73 65.73 0 0 0 135 160 Z"/>
+    <path d="M202 147 L167 191 H193 L186 223 L224 177 H199 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 40 L56 40 L84 160 L126.92 160"/>
-    <path d="M203.73 120.9 L216 80 L65 80"/>
-    <circle cx="96" cy="204" r="16"/>
-    <path d="M194.4 146.6 L159.2 191.4 H184.8 L178.4 223.4 L216.8 177 H191.2 Z"/>
+    <path d="M32 40 L64 40 L92 160 L135 160"/>
+    <path d="M211 121 L224 80 L73 80"/>
+    <circle cx="104" cy="204" r="16"/>
+    <path d="M202 147 L167 191 H193 L186 223 L224 177 H199 Z"/>
   </g>
 </svg>

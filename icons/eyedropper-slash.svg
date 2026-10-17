@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="eyedropper,disabled,off,design">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M145 83 L173 111 L88 196 L49 207 L60 168 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M144.97 82.75 L173.25 111.03 L88.4 195.88 L48.8 207.2 L60.12 167.6 Z"/>
-    <path d="M147.8 74.26 L170.43 51.63 A24 24 0 0 1 204.37 85.57 L181.74 108.2"/>
-    <path d="M130.83 62.95 L193.05 125.17"/>
+    <path d="M145 83 L173 111 L88 196 L49 207 L60 168 Z"/>
+    <path d="M148 74 L170 52 A24 24 0 0 1 204 86 L182 108"/>
+    <path d="M131 63 L193 125"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

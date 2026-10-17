@@ -7,9 +7,9 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="108" cy="128" r="76"/>
-    <path d="M188.9 69.22 L201.85 59.82"/>
+    <path d="M189 69 L202 60"/>
     <path d="M208 128 L224 128"/>
-    <path d="M188.9 186.78 L201.85 196.18"/>
+    <path d="M189 187 L202 196"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="108" cy="164" rx="14" ry="16"/>

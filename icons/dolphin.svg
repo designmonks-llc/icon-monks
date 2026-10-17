@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="dolphin,sea,ocean,mammal">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M46 140 C52 128 62 124 76 120 C82 100 102 84 128 80 L152 46 L160 82 C192 92 208 120 204 156 L224 172 L200 180 L196 212 L180 176 C176 144 152 126 120 130 L100 162 L90 138 C76 148 56 150 46 140 Z"/>
+    <path d="M46 140 C52 128 62 124 76 120 C82 100 102 84 128 80 L152 46 L160 82 C192 92 208 120 204 156 L224 172 L200 180 L196 212 L180 176 C176 144 152 126 120 130 L100 162 L90 138 C82.31 143.5 72.66 147 64 147 C56.9 147 50.5 144.5 46 140 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M46 140 C52 128 62 124 76 120 C82 100 102 84 128 80 L152 46 L160 82 C192 92 208 120 204 156 L224 172 L200 180 L196 212 L180 176 C176 144 152 126 120 130 L100 162 L90 138 C76 148 56 150 46 140 Z"/>
+    <path d="M46 140 C52 128 62 124 76 120 C82 100 102 84 128 80 L152 46 L160 82 C192 92 208 120 204 156 L224 172 L200 180 L196 212 L180 176 C176 144 152 126 120 130 L100 162 L90 138 C82.31 143.5 72.66 147 64 147 C56.9 147 50.5 144.5 46 140 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="92" cy="110" r="12"/>

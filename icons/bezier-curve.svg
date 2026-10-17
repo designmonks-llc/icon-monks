@@ -3,8 +3,8 @@
     <rect x="108" y="82" width="40" height="40" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 216 C61.61 162.67 79.04 128.05 100 112.14"/>
-    <path d="M156 112.14 C176.96 128.05 194.39 162.67 200 216"/>
+    <path d="M56 216 C61.61 162.67 79.04 127.91 100 112"/>
+    <path d="M156 112 C176.96 127.91 194.39 162.67 200 216"/>
     <path d="M64 102 L108 102"/>
     <path d="M148 102 L192 102"/>
     <circle cx="48" cy="102" r="16"/>

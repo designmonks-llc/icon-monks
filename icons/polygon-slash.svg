@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="polygon,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 36 L216 96 L188 212 L60 204 L36 104 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 36 L216 96 L188 212 L60 204 L36 104 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

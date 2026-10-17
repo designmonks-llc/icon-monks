@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,favorite,like,love,shopping">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131.47 160 L84 160 L65 80 L216 80 L201.75 127.49 A64 64 0 0 0 131.47 160 Z"/>
-    <path d="M188 215.92 C188 215.92 153.44 197.2 153.44 174.88 A18 18 0 0 1 188 167.68 A18 18 0 0 1 222.56 174.88 C222.56 197.2 188 215.92 188 215.92 Z"/>
+    <path d="M136 159 L90 159 L72 82 L218 82 L204 128 A62 62 0 0 0 136 159 Z"/>
+    <path d="M191 213 C190.86 213.08 157.44 194.98 157 173 A17.41 17.41 0 0 1 191 166 A17.41 17.41 0 0 1 224 173 C224.28 194.98 190.86 213.08 191 213 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 40 L56 40 L84 160 L131.47 160"/>
-    <path d="M201.75 127.49 L216 80 L65 80"/>
-    <circle cx="96" cy="204" r="16"/>
-    <path d="M188 215.92 C188 215.92 153.44 197.2 153.44 174.88 A18 18 0 0 1 188 167.68 A18 18 0 0 1 222.56 174.88 C222.56 197.2 188 215.92 188 215.92 Z"/>
+    <path d="M32 43 L63 43 L90 159 L136 159"/>
+    <path d="M204 128 L218 82 L72 82"/>
+    <circle cx="102" cy="202" r="15"/>
+    <path d="M191 213 C190.86 213.08 157.44 194.98 157 173 A17.41 17.41 0 0 1 191 166 A17.41 17.41 0 0 1 224 173 C224.28 194.98 190.86 213.08 191 213 Z"/>
   </g>
 </svg>

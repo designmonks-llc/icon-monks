@@ -1,10 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="timer off,stopwatch,disabled,slash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="140" r="84"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M102.42 59.99 A84 84 0 0 1 128 56 A84 84 0 0 1 208.01 165.58"/>
-    <path d="M170.2 212.63 A84 84 0 0 1 55.37 97.8"/>
+    <circle cx="128" cy="140" r="84"/>
     <path d="M128 56 L128 32"/>
     <path d="M104 32 L152 32"/>
-    <path d="M187.4 80.6 L201.54 66.46"/>
+    <path d="M187 81 L202 66"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 140 L160 108"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

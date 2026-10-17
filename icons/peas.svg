@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="peas,pod,vegetable,green">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M51.25 174 A100 100 -30 0 1 196.75 90 A100 100 -30 0 1 51.25 174 Z"/>
+    <path d="M51 174 A100 100 -30 0 1 197 90 A100 100 -30 0 1 51 174 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M51.25 174 A100 100 -30 0 1 196.75 90 A100 100 -30 0 1 51.25 174 Z"/>
-    <path d="M196.75 90 C200.75 74 212.75 66 220.75 66"/>
+    <path d="M51 174 A100 100 -30 0 1 197 90 A100 100 -30 0 1 51 174 Z"/>
+    <path d="M197 90 C201 74 213 66 221 66"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="84.16" cy="155" r="20"/>
+    <circle cx="84" cy="155" r="20"/>
     <circle cx="124" cy="132" r="20"/>
-    <circle cx="163.84" cy="109" r="20"/>
+    <circle cx="164" cy="109" r="20"/>
   </g>
 </svg>

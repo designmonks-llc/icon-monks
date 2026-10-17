@@ -1,10 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="incognito,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 112 L82 54 A12 12 0 0 1 94 46 H162 A12 12 0 0 1 174 54 L192 112 Z"/>
+    <circle cx="80" cy="172" r="32"/>
+    <circle cx="176" cy="172" r="32"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M91.41 46.15 A12 12 0 0 1 93.5 46 L162.5 46 A12 12 0 0 1 174 54 L192 112"/>
-    <path d="M32 112 L66.75 112"/>
-    <path d="M157.25 112 L224 112"/>
-    <path d="M80 140 A32 32 0 0 1 80 204 A32 32 0 0 1 80 140"/>
-    <path d="M187.33 142.07 A32 32 0 0 1 205.93 160.67"/>
+    <path d="M64 112 L82 54 A12 12 0 0 1 94 46 H162 A12 12 0 0 1 174 54 L192 112"/>
+    <path d="M32 112 L224 112"/>
+    <circle cx="80" cy="172" r="32"/>
+    <circle cx="176" cy="172" r="32"/>
+    <path d="M112 168 C117.33 164 122.67 162 128 162 C133.33 162 138.67 164 144 168"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

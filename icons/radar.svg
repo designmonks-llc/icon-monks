@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="radar,scan,sonar,detection,sweep">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 128 L103.15 35.27 A96 96 0 0 1 195.88 60.12 Z"/>
+    <path d="M128 128 L103 35 A96 96 0 0 1 196 60 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="96"/>
     <circle cx="128" cy="128" r="52"/>
-    <path d="M128 128 L195.88 60.12"/>
+    <path d="M128 128 L196 60"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="128" cy="128" r="16"/>

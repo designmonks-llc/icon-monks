@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="account,profile,avatar,person,login">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="128" cy="100" r="32"/>
-    <path d="M57.79 193.47 C76 174 100 164 128 164 C156 164 180 174 198.21 193.47 A96 96 0 0 1 57.79 193.47 Z"/>
+    <path d="M58 193 C76.21 173.53 100 164 128 164 C156 164 179.79 173.53 198 193 A96 96 0 0 1 58 193 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="96"/>
     <circle cx="128" cy="100" r="32"/>
-    <path d="M57.79 193.47 C76 174 100 164 128 164 C156 164 180 174 198.21 193.47"/>
+    <path d="M58 193 C76.21 173.53 100 164 128 164 C156 164 179.79 173.53 198 193"/>
   </g>
 </svg>

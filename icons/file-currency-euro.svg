@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file currency euro,document,page,file,currency">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M136.63 224 H56 V32 H152 L200 80 V124.1 A62 62 0 0 0 136.63 224 Z"/>
+    <path d="M137 224 H56 V32 H152 L200 80 V124 A62 62 0 0 0 137 224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M136.63 224 H56 V32 H152 L200 80 V124.1"/>
-    <path d="M211.85 157.95 A34 34 0 1 0 211.85 210.05"/>
+    <path d="M137 224 H56 V32 H152 L200 80 V124"/>
+    <path d="M212 158 A34 34 0 1 0 212 210"/>
     <path d="M150 170 L186 170"/>
     <path d="M150 198 L186 198"/>
   </g>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="cough,sick,cold,flu">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64.8 224 V182.88 A60.8 60.8 0 1 1 153.92 110.4 L172 153.6 L160.8 160 V180.8 A14.4 14.4 0 0 1 146.4 195.2 H125.6 V224 Z"/>
+    <path d="M65 224 V183 A60.8 60.8 0 1 1 154 110 L172 154 L161 160 V181 A14.4 14.4 0 0 1 146 195 H126 V224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64.8 224 V182.88 A60.8 60.8 0 1 1 153.92 110.4 L172 153.6 L160.8 160 V180.8 A14.4 14.4 0 0 1 146.4 195.2 H125.6 V224"/>
+    <path d="M65 224 V183 A60.8 60.8 0 1 1 154 110 L172 154 L161 160 V181 A14.4 14.4 0 0 1 146 195 H126 V224"/>
     <path d="M196 140 L216 128"/>
     <path d="M200 172 L224 172"/>
     <path d="M196 204 L216 216"/>

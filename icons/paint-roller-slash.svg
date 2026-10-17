@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="paint roller,off,disabled,hidden,paint">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="160" height="64" rx="16"/>
+    <rect x="108" y="160" width="40" height="64" rx="14"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="32" y="32" width="160" height="64" rx="16"/>
     <path d="M192 64 H200 A16 16 0 0 1 216 80 V120 A16 16 0 0 1 200 136 H144 A16 16 0 0 0 128 152 V160"/>
     <rect x="108" y="160" width="40" height="64" rx="14"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

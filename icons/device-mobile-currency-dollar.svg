@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device mobile,money,price,phone,smartphone">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 122.13 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H136.5 A64 64 0 0 1 184 122.13 Z"/>
+    <path d="M184 122 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H136 A64 64 0 0 1 184 122 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 122.13 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H136.5"/>
+    <path d="M184 122 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H136"/>
     <path d="M188 148 L188 224"/>
     <path d="M210 158 H182 A14 14 0 0 0 182 186 H194 A14 14 0 0 1 194 214 H166"/>
   </g>

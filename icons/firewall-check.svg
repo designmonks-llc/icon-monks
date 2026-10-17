@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="firewall,protected,network,allowed">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M133.4 208 L44 208 A12 12 0 0 1 32 196 L32 60 A12 12 0 0 1 44 48 L212 48 A12 12 0 0 1 224 60 L224 144.81 A56 56 0 0 0 133.4 208 Z"/>
+    <path d="M133 208 L44 208 A12 12 0 0 1 32 196 L32 60 A12 12 0 0 1 44 48 L212 48 A12 12 0 0 1 224 60 L224 145 A56 56 0 0 0 133 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133.4 208 L44 208 A12 12 0 0 1 32 196 L32 60 A12 12 0 0 1 44 48 L212 48 A12 12 0 0 1 224 60 L224 144.81"/>
+    <path d="M133 208 L44 208 A12 12 0 0 1 32 196 L32 60 A12 12 0 0 1 44 48 L212 48 A12 12 0 0 1 224 60 L224 145"/>
     <path d="M158 186 L176 204 L210 168"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 88 L224 88"/>
-    <path d="M32 128 L157.39 128"/>
-    <path d="M32 168 L124.1 168"/>
+    <path d="M32 128 L157 128"/>
+    <path d="M32 168 L124 168"/>
     <path d="M96 48 L96 88"/>
     <path d="M160 48 L160 88"/>
     <path d="M64 88 L64 128"/>
     <path d="M128 88 L128 128"/>
-    <path d="M192 88 L192 122.52"/>
+    <path d="M192 88 L192 123"/>
     <path d="M96 128 L96 168"/>
     <path d="M64 168 L64 208"/>
   </g>

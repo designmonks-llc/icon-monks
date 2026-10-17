@@ -1,9 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="drafting compass,geometry,draw circle,compasses,architecture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="64" r="20"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="64" r="20"/>
     <path d="M128 32 L128 44"/>
-    <path d="M119.44 82.07 L56 216"/>
-    <path d="M136.56 82.07 L200 216"/>
-    <path d="M85.19 154.37 A100 100 0 0 0 170.81 154.37"/>
+    <path d="M119 82 L56 216"/>
+    <path d="M137 82 L200 216"/>
+    <path d="M85 154 A100 100 0 0 0 171 154"/>
   </g>
 </svg>

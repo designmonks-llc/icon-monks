@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="add link,new link,hyperlink,url,insert link">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="add link,new link,hyperlink,url,insert link">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88.36 170.43 L127.78 131 A24.6 24.6 0 0 0 93 96.22 L53.58 135.64 A24.6 24.6 0 0 0 88.36 170.43 Z"/>
-    <path d="M131 127.78 L170.43 88.36 A24.6 24.6 0 0 0 135.64 53.58 L96.22 93 A24.6 24.6 0 0 0 131 127.78 Z"/>
+    <path d="M88 170 L128 131 A24.6 24.6 0 0 0 93 96 L54 136 A24.6 24.6 0 0 0 88 170 Z"/>
+    <path d="M131 128 L170 88 A24.6 24.6 0 0 0 136 54 L96 93 A24.6 24.6 0 0 0 131 128 Z"/>
     <path d="M156 184 L212 184"/>
     <path d="M184 156 L184 212"/>
   </g>

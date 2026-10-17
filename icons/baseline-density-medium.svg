@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="baseline density medium,baseline,typography,text,density">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M104 48 L216 48"/>
-    <path d="M104 101.33 L216 101.33"/>
-    <path d="M104 154.67 L216 154.67"/>
+    <path d="M104 101 L216 101"/>
+    <path d="M104 155 L216 155"/>
     <path d="M104 208 L216 208"/>
     <path d="M56 48 L56 208"/>
     <path d="M36 68 L56 48 L76 68"/>

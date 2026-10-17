@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrow bounce,arrow,direction,bounce,arrows">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M36 204 Q80 -32 124 204 Q152 84 212 76"/>
-    <path d="M171.56 45.07 L212 76 L181.07 116.44"/>
+    <path d="M36 204 C50.67 125.33 65.33 86 80 86 C94.67 86 109.33 125.33 124 204 Q152 84 212 76"/>
+    <path d="M172 45 L212 76 L181 116"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock,edit,write,time,hour">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M136.33 223.64 A96 96 0 1 1 224 128 A96 96 0 0 1 223.64 136.33 A62 62 0 0 0 136.33 223.64 Z"/>
-    <path d="M159.37 208.63 L180.59 204.38 L208.87 176.1 L191.9 159.13 L163.62 187.41 Z"/>
+    <path d="M136 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 136 A62 62 0 0 0 136 224 Z"/>
+    <path d="M159 209 L181 204 L209 176 L192 159 L164 187 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M136.33 223.64 A96 96 0 1 1 224 128 A96 96 0 0 1 223.64 136.33"/>
-    <path d="M159.37 208.63 L180.59 204.38 L208.87 176.1 L191.9 159.13 L163.62 187.41 Z"/>
+    <path d="M136 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 136"/>
+    <path d="M159 209 L181 204 L209 176 L192 159 L164 187 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 76 L128 128 L88 128"/>

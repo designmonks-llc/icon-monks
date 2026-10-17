@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="quotes,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="152" r="32"/>
+    <circle cx="180" cy="152" r="32"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="76" cy="152" r="32"/>
     <path d="M44 152 V136 C44 100 64 76 100 68"/>
     <circle cx="180" cy="152" r="32"/>
     <path d="M148 152 V136 C148 100 168 76 204 68"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

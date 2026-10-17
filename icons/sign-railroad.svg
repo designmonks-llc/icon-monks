@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="railroad crossing,train,road sign,traffic">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40.32 68.6 L187.4 215.68 A20 20 0 0 0 215.68 187.4 L68.6 40.32 A20 20 0 0 0 40.32 68.6 Z"/>
-    <path d="M187.4 40.32 L40.32 187.4 A20 20 0 0 0 68.6 215.68 L215.68 68.6 A20 20 0 0 0 187.4 40.32 Z"/>
+    <path d="M40 69 L187 216 A20 20 0 0 0 216 187 L69 40 A20 20 0 0 0 40 69 Z"/>
+    <path d="M187 40 L40 187 A20 20 0 0 0 69 216 L216 69 A20 20 0 0 0 187 40 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40.32 68.6 L187.4 215.68 A20 20 0 0 0 215.68 187.4 L68.6 40.32 A20 20 0 0 0 40.32 68.6 Z"/>
-    <path d="M156.28 128 L215.68 68.6 A20 20 0 0 0 187.4 40.32 L128 99.72"/>
-    <path d="M128 156.28 L68.6 215.68 A20 20 0 0 1 40.32 187.4 L99.72 128"/>
+    <path d="M40 69 L187 216 A20 20 0 0 0 216 187 L69 40 A20 20 0 0 0 40 69 Z"/>
+    <path d="M156 128 L216 69 A20 20 0 0 0 187 40 L128 100"/>
+    <path d="M128 156 L69 216 A20 20 0 0 1 40 187 L100 128"/>
   </g>
 </svg>

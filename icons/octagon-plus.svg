@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="octagon,add,new,create">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 113.19 L224 88.24 L167.76 32 L88.24 32 L32 88.24 L32 167.76 L88.24 224 L113.19 224 A80 80 0 0 1 224 113.19 Z"/>
+    <path d="M224 113 L224 88 L168 32 L88 32 L32 88 L32 168 L88 224 L113 224 A80 80 0 0 1 224 113 Z"/>
     <circle cx="180" cy="180" r="44"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 113.19 L224 88.24 L167.76 32 L88.24 32 L32 88.24 L32 167.76 L88.24 224 L113.19 224"/>
+    <path d="M224 113 L224 88 L168 32 L88 32 L32 88 L32 168 L88 224 L113 224"/>
     <circle cx="180" cy="180" r="44"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

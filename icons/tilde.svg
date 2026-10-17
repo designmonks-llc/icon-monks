@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="tilde,approximately,wave,symbol">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 160 C60 104 100 96 128 128 C156 160 196 152 216 96"/>
+    <path d="M40 160 C52.3 125.57 72.02 109 92 109 C104.52 109 117.22 115.67 128 128 C138.78 140.33 151.48 147 164 147 C183.98 147 203.7 130.43 216 96"/>
   </g>
 </svg>

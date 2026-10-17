@@ -10,7 +10,7 @@
     <path d="M146 150 V136 C146 116 154 104 170 98"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="102" cy="150" r="21.33"/>
-    <circle cx="154" cy="150" r="21.33"/>
+    <circle cx="102" cy="150" r="21"/>
+    <circle cx="154" cy="150" r="21"/>
   </g>
 </svg>

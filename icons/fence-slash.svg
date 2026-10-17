@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="fence,disabled,off,home">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V72 L48 48 L64 72 V216 Z"/>
+    <path d="M112 216 V72 L128 48 L144 72 V216 Z"/>
+    <path d="M192 216 V72 L208 48 L224 72 V216 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 216 V72 L48 48 L64 72 V216 Z"/>
     <path d="M112 216 V72 L128 48 L144 72 V216 Z"/>
@@ -7,6 +12,8 @@
     <path d="M64 168 L112 168"/>
     <path d="M144 104 L192 104"/>
     <path d="M144 168 L192 168"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

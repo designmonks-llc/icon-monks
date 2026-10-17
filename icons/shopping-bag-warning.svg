@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping bag,warning,alert,error,shopping">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131.43 216 L56 216 L48 80 L208 80 L205.74 118.43 A66 66 0 0 0 131.43 216 Z"/>
+    <path d="M131 216 L56 216 L48 80 L208 80 L206 118 A66 66 0 0 0 131 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M131.43 216 L56 216 L48 80 L208 80 L205.74 118.43"/>
+    <path d="M131 216 L56 216 L48 80 L208 80 L206 118"/>
     <path d="M96 112 V72 A32 32 0 0 1 160 72 V112"/>
     <path d="M188 146 L188 188"/>
   </g>

@@ -1,7 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="folders,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 120 A16 16 0 0 1 48 104 L88 104 L112 128 L176 128 A16 16 0 0 1 192 144 L192 208 A16 16 0 0 1 176 224 L48 224 A16 16 0 0 1 32 208 L32 120 Z"/>
+    <path d="M64 80 V64 A16 16 0 0 1 80 48 H112 L136 72 H208 A16 16 0 0 1 224 88 V160 H216 V104 H130 L106 80 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 120 A16 16 0 0 1 48 104 L88 104 L112 128 L176 128 A16 16 0 0 1 192 144 L192 208 A16 16 0 0 1 176 224 L48 224 A16 16 0 0 1 32 208 L32 120 Z"/>
     <path d="M64 64 A16 16 0 0 1 80 48 H112 L136 72 H208 A16 16 0 0 1 224 88 V160"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -3,11 +3,11 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M83.64 63.84 L192.16 172.36 A78 78 0 0 0 83.64 63.84 Z"/>
-    <path d="M63.84 83.64 L172.36 192.16 A78 78 0 0 1 63.84 83.64 Z"/>
+    <path d="M84 64 L192 172 A78 78 0 0 0 84 64 Z"/>
+    <path d="M64 84 L172 192 A78 78 0 0 1 64 84 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="96"/>
-    <path d="M60.12 60.12 L195.88 195.88"/>
+    <path d="M60 60 L196 196"/>
   </g>
 </svg>

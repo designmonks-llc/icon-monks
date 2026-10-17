@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="flowchart,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="92" y="32" width="72" height="40" rx="10"/>
+    <rect x="32" y="176" width="64" height="48" rx="12"/>
+    <rect x="160" y="176" width="64" height="48" rx="12"/>
+    <path d="M128 100 L164 136 L128 172 L92 136 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="92" y="32" width="72" height="40" rx="10"/>
     <rect x="32" y="176" width="64" height="48" rx="12"/>
@@ -7,6 +13,8 @@
     <path d="M128 72 L128 100"/>
     <path d="M92 136 L64 136 L64 176"/>
     <path d="M164 136 L192 136 L192 176"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

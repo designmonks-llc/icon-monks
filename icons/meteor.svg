@@ -4,9 +4,9 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="92" cy="164" r="50"/>
-    <path d="M110.85 97.06 L158.47 49.45"/>
-    <path d="M144.33 111.67 L202.31 53.69"/>
-    <path d="M158.94 145.15 L195.24 108.85"/>
+    <path d="M111 97 L158 49"/>
+    <path d="M144 112 L202 54"/>
+    <path d="M159 145 L195 109"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="76" cy="176" r="14"/>

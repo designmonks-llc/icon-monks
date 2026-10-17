@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="puzzle piece,off,disabled,hidden,puzzle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M51 78 H94 A21 21 0 1 1 131 78 H174 A11.48 11.48 0 0 1 185 90 V129 A21 21 0 1 1 185 166 V205 A11.48 11.48 0 0 1 174 216 H51 A11.48 11.48 0 0 1 40 205 V90 A11.48 11.48 0 0 1 51 78 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 76 H92.4 A22 22 0 1 1 131.6 76 H176 A12 12 0 0 1 188 88 V128.4 A22 22 0 1 1 188 167.6 V208 A12 12 0 0 1 176 220 H48 A12 12 0 0 1 36 208 V88 A12 12 0 0 1 48 76 Z"/>
+    <path d="M51 78 H94 A21 21 0 1 1 131 78 H174 A11.48 11.48 0 0 1 185 90 V129 A21 21 0 1 1 185 166 V205 A11.48 11.48 0 0 1 174 216 H51 A11.48 11.48 0 0 1 40 205 V90 A11.48 11.48 0 0 1 51 78 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

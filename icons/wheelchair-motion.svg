@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="accessibility,accessible,disabled,wheelchair,active wheelchair">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M138 118.97 A52 52 0 1 0 160.86 181.79"/>
+    <path d="M138 119 A52 52 0 1 0 161 182"/>
     <path d="M156 92 L120 140 L172 144 L196 200"/>
     <path d="M140 112 L184 104"/>
     <path d="M32 128 L56 128"/>

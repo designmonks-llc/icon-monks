@@ -6,11 +6,11 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 90 L164.14 116.26 L150.34 158.74 L105.66 158.74 L91.86 116.26 Z"/>
+    <path d="M128 90 L164 116 L150 159 L106 159 L92 116 Z"/>
     <path d="M128 90 L128 32"/>
-    <path d="M164.14 116.26 L219.3 98.33"/>
-    <path d="M150.34 158.74 L184.43 205.67"/>
-    <path d="M105.66 158.74 L71.57 205.67"/>
-    <path d="M91.86 116.26 L36.7 98.33"/>
+    <path d="M164 116 L219 98"/>
+    <path d="M150 159 L184 206"/>
+    <path d="M106 159 L72 206"/>
+    <path d="M92 116 L37 98"/>
   </g>
 </svg>

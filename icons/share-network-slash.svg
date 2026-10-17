@@ -1,10 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="share network,off,disabled,hidden,share">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="128" r="24"/>
+    <circle cx="184" cy="64" r="24"/>
+    <circle cx="184" cy="192" r="24"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="64" cy="128" r="24"/>
     <circle cx="184" cy="64" r="24"/>
     <circle cx="184" cy="192" r="24"/>
-    <path d="M138.2 88.4 L162.82 75.29"/>
-    <path d="M85.18 139.29 L162.82 180.71"/>
-    <path d="M64 48 L160 144"/>
+    <path d="M85 117 L163 75"/>
+    <path d="M85 139 L163 181"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

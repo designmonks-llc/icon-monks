@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat,paused,hold,message,conversation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M132.42 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 140.5 A54 54 0 0 0 132.42 200 Z"/>
+    <path d="M132 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 140 A54 54 0 0 0 132 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M132.42 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 140.5"/>
+    <path d="M132 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 140"/>
     <path d="M168 160 L168 208"/>
     <path d="M200 160 L200 208"/>
   </g>

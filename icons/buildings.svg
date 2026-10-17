@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="city,office,company,urban,apartment">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 216 V56 A16 16 0 0 1 56 40 H120 A16 16 0 0 1 136 56 V104 H200 A16 16 0 0 1 216 120 V216 Z"/>
+    <path d="M47 209 V62 A15 15 0 0 1 62 47 H121 A15 15 0 0 1 135 62 V106 H194 A15 15 0 0 1 209 121 V209 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 216 V56 A16 16 0 0 1 56 40 H120 A16 16 0 0 1 136 56 V216"/>
-    <path d="M136 104 H200 A16 16 0 0 1 216 120 V216"/>
-    <path d="M24 216 L232 216"/>
+    <path d="M47 209 V62 A15 15 0 0 1 62 47 H121 A15 15 0 0 1 135 62 V209"/>
+    <path d="M135 106 H194 A15 15 0 0 1 209 121 V209"/>
+    <path d="M32 209 L224 209"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M72 88 L104 88"/>
-    <path d="M72 128 L104 128"/>
-    <path d="M72 168 L104 168"/>
-    <path d="M160 144 L192 144"/>
-    <path d="M160 180 L192 180"/>
+    <path d="M76 91 L106 91"/>
+    <path d="M76 128 L106 128"/>
+    <path d="M76 165 L106 165"/>
+    <path d="M158 143 L187 143"/>
+    <path d="M158 176 L187 176"/>
   </g>
 </svg>

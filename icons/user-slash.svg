@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="no account,user off,blocked,disabled user,person">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="88" r="44"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M86.77 72.63 A44 44 0 0 1 172 88 A44 44 0 0 1 143.37 129.23"/>
-    <path d="M48 216 C48 175.84 73.2 155.28 107.21 149.63"/>
-    <path d="M169.67 155.53 C185.23 162.09 197.31 173.13 203.47 189.33"/>
+    <circle cx="128" cy="88" r="44"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

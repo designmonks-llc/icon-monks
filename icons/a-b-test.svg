@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="ab test,split test,experiment,compare">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="ab test,split test,experiment,compare">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 116 L68 40 L96 116"/>
-    <path d="M48.8 92 L87.2 92"/>
+    <path d="M49 92 L87 92"/>
     <path d="M160 140 H186 A18 18 0 0 1 186 176 H160 Z"/>
     <path d="M160 176 H190 A20 20 0 0 1 190 216 H160 Z"/>
     <path d="M200 56 L56 200"/>

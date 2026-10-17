@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="storage,data,sql,server">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 64 A88 32 0 0 1 216 64 V192 A88 32 0 0 1 40 192 Z"/>
+    <path d="M49 69 A78 29 0 0 1 207 69 V187 A78 29 0 0 1 49 187 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 64 A88 32 0 0 1 216 64 V192 A88 32 0 0 1 40 192 Z"/>
+    <path d="M49 69 A78 29 0 0 1 207 69 V187 A78 29 0 0 1 49 187 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 64 A88 32 0 0 0 216 64"/>
-    <path d="M40 128 A88 32 0 0 0 216 128"/>
+    <path d="M49 69 A78 29 0 0 0 207 69"/>
+    <path d="M49 128 A78 29 0 0 0 207 128"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="van,delivery,minibus,shuttle,airport shuttle">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 160 L32 84 Q32 64 52 64 L140 64 Q160 64 174.14 78.14 L202.34 106.34 Q208 112 215.16 115.58 L216 116 Q224 120 224 130 L224 160 L32 160 Z"/>
+    <path d="M32 160 L32 84 Q32 64 52 64 L140 64 Q159.93 63.93 174 78 L202 106 Q207.75 112.04 215 116 L216 116 Q224 120 224 130 L224 160 L32 160 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 160 L32 84 Q32 64 52 64 L140 64 Q160 64 174.14 78.14 L202.34 106.34 Q208 112 215.16 115.58 L216 116 Q224 120 224 130 L224 160 L32 160 Z"/>
+    <path d="M32 160 L32 84 Q32 64 52 64 L140 64 Q159.93 63.93 174 78 L202 106 Q207.75 112.04 215 116 L216 116 Q224 120 224 130 L224 160 L32 160 Z"/>
     <circle cx="72" cy="188" r="20"/>
     <circle cx="184" cy="188" r="20"/>
   </g>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="toast,bakery,slice,bread,loaf">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M68 216 V132 C44 124 32 104 40 84 C48 56 84 40 128 40 C172 40 208 56 216 84 C224 104 212 124 188 132 V216 Z"/>
+    <path d="M68 216 V132 C49.01 125.67 38 111.41 38 96 C38 91.93 38.33 88.17 40 84 C48 56 84 40 128 40 C172 40 208 56 216 84 C217.67 88.17 218 91.93 218 96 C218 111.41 206.99 125.67 188 132 V216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M68 216 V132 C44 124 32 104 40 84 C48 56 84 40 128 40 C172 40 208 56 216 84 C224 104 212 124 188 132 V216 Z"/>
+    <path d="M68 216 V132 C49.01 125.67 38 111.41 38 96 C38 91.93 38.33 88.17 40 84 C48 56 84 40 128 40 C172 40 208 56 216 84 C217.67 88.17 218 91.93 218 96 C218 111.41 206.99 125.67 188 132 V216 Z"/>
   </g>
 </svg>

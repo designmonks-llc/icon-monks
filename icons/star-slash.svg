@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="unfavourite,star off,unstar,slash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 36 L154 100 L223 105 L170 150 L187 217 L128 180 L69 217 L86 150 L33 105 L102 100 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M113.8 71.37 L128 36 L153.86 100.4 L223.11 105.1 L181.93 139.51"/>
-    <path d="M153.72 196.15 L128 180 L69.22 216.9 L86.15 149.6 L32.89 105.1 L60.78 103.21"/>
+    <path d="M128 36 L154 100 L223 105 L170 150 L187 217 L128 180 L69 217 L86 150 L33 105 L102 100 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="stylus,tablet pen,digital pen,pencil,pen">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 216 L58.38 172.16 L172.94 57.61 A18 18 0 0 1 198.39 83.06 L83.84 197.62 Z"/>
+    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 216 L58.38 172.16 L172.94 57.61 A18 18 0 0 1 198.39 83.06 L83.84 197.62 Z"/>
+    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133.34 97.21 L158.79 122.66"/>
+    <path d="M133 97 L159 123"/>
   </g>
 </svg>

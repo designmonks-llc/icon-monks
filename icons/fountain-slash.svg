@@ -1,11 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="fountain,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 176 H216 V192 A24 24 0 0 1 192 216 H64 A24 24 0 0 1 40 192 Z"/>
+    <path d="M80 112 H176 C176 136 156 148 128 148 C100 148 80 136 80 112 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 176 H216 V192 A24 24 0 0 1 192 216 H64 A24 24 0 0 1 40 192 Z"/>
     <path d="M80 112 H176 C176 136 156 148 128 148 C100 148 80 136 80 112 Z"/>
     <path d="M128 148 L128 176"/>
     <path d="M128 112 L128 56"/>
-    <path d="M128 56 C80 48 52 80 48 140"/>
-    <path d="M128 56 C176 48 204 80 208 140"/>
+    <path d="M128 56 C123.13 55.19 118.46 55 114 55 C74.56 55 51.59 86.09 48 140"/>
+    <path d="M128 56 C132.87 55.19 137.54 55 142 55 C181.44 55 204.41 86.09 208 140"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

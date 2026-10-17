@@ -1,15 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="masks theater,off,disabled,hidden,masks">
-  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M33.72 130.07 C59.73 109.33 98.55 101.08 130.75 109.45 L138.48 145.84 C145.7 179.8 126.6 209.21 102.34 214.37 C78.09 219.52 48.67 200.42 41.45 166.46 Z"/>
-    <path d="M69.32 178.29 A27.28 27.28 0 0 0 117.84 167.97"/>
-    <path d="M123.1 75.27 L131.52 41.51 L139.22 40.14 L147.1 39.41 L159.09 39.49 L171.13 40.92 L182.99 43.66 L194.46 47.64 L205.34 52.82 L215.4 59.14 L221.56 63.96 L212.05 101.58 L209.3 108.84 L205.83 115.44 L199.49 124.07 L192.06 131.09 L183.84 136.39 L178.07 138.93 L172.18 140.64"/>
-    <path d="M164.27 111.97 L168.63 114.1 L171.56 116.26 L176.22 121.82"/>
-    <path d="M48 48 L208 208"/>
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M34 130 C53.36 114.56 79.46 106 105 106 C113.77 106 122.77 106.86 131 109 L138 146 C139.06 150.97 140 156.3 140 161 C140 188.38 122.71 209.6 102 214 C77.75 219.15 48.22 199.96 41 166 Z"/>
+    <path d="M123 75 C122.99 75.04 123.01 74.96 123 75 Q131.09 76.03 139 78 Q143.23 79.43 147 82 Q150.88 84.02 154 87 Q157 90.14 159 94 Q161.08 98.29 162 103 L170 139 Q170.01 140 170 141 C188.47 137.9 206.89 122.54 213 98 L222 64 C203.74 48.36 177.72 40 153 40 C145.72 40 138.91 40.46 132 42 L123 75 Z"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="66.59" cy="153.51" r="14"/>
-    <circle cx="110.25" cy="144.23" r="14"/>
-    <circle cx="150.11" cy="77.22" r="14"/>
-    <circle cx="188.38" cy="86.77" r="14"/>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 130 C53.36 114.56 79.46 106 105 106 C113.77 106 122.77 106.86 131 109 L138 146 C139.06 150.97 140 156.3 140 161 C140 188.38 122.71 209.6 102 214 C77.75 219.15 48.22 199.96 41 166 Z"/>
+    <path d="M123 75 L132 42 L139 40 L147 39 L159 39 L171 41 L183 44 L194 48 L205 53 L215 59 L222 64 L212 102 L209 109 L206 115 L199 124 L192 131 L184 136 L178 139 L172 141"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M69 178 A27.28 27.28 0 0 0 118 168"/>
+    <path d="M164 112 L169 114 L172 116 L176 122"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="67" cy="154" r="14"/>
+    <circle cx="110" cy="144" r="14"/>
+    <circle cx="150" cy="77" r="14"/>
+    <circle cx="188" cy="87" r="14"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="candy,sweet,wrapper,treat">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="128" cy="128" r="40"/>
-    <path d="M95.09 147 L33.79 140.82 L69.79 203.18 Z"/>
-    <path d="M160.91 109 L186.21 52.82 L222.21 115.18 Z"/>
+    <path d="M95 147 L34 141 L70 203 Z"/>
+    <path d="M161 109 L186 53 L222 115 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="40"/>
-    <path d="M95.09 147 L33.79 140.82 L69.79 203.18 Z"/>
-    <path d="M160.91 109 L186.21 52.82 L222.21 115.18 Z"/>
+    <path d="M95 147 L34 141 L70 203 Z"/>
+    <path d="M161 109 L186 53 L222 115 Z"/>
   </g>
 </svg>

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="hail,night,moon,weather">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M117.8 160 L185 160 A30.8 30.8 0 0 0 192.74 99.39 A42 42 0 0 0 109.43 105.28 A28 28 0 0 0 117.8 160 Z"/>
-    <path d="M86.95 56.11 A42 42 0 1 0 131.54 104.21 A34.36 34.36 0 0 1 86.95 56.11 Z"/>
+    <path d="M118 160 L185 160 A30.8 30.8 0 0 0 193 99 A42 42 0 0 0 109 105 A28 28 0 0 0 118 160 Z"/>
+    <path d="M87 56 A42 42 0 1 0 132 104 A34.36 34.36 0 0 1 87 56 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M117.8 160 L185 160 A30.8 30.8 0 0 0 192.74 99.39 A42 42 0 0 0 109.43 105.28 A28 28 0 0 0 117.8 160 Z"/>
-    <path d="M107.06 106.14 A34.36 34.36 0 0 1 86.95 56.11 A42 42 0 0 0 90.97 139.99"/>
-    <path d="M128 184 L122.75 196"/>
-    <path d="M164 184 L158.75 196"/>
-    <path d="M200 184 L194.75 196"/>
+    <path d="M118 160 L185 160 A30.8 30.8 0 0 0 193 99 A42 42 0 0 0 109 105 A28 28 0 0 0 118 160 Z"/>
+    <path d="M107 106 A34.36 34.36 0 0 1 87 56 A42 42 0 0 0 91 140"/>
+    <path d="M128 184 L123 196"/>
+    <path d="M164 184 L159 196"/>
+    <path d="M200 184 L195 196"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="136" cy="216" r="14"/>

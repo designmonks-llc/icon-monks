@@ -5,10 +5,10 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
     <path d="M42 160 L42 224"/>
-    <path d="M78 160 L42 199.68"/>
-    <path d="M60 179.84 L78 224"/>
+    <path d="M78 160 L42 200"/>
+    <path d="M60 180 L78 224"/>
     <path d="M142 160 L110 160 L110 224 L142 224"/>
-    <path d="M110 192 L135.6 192"/>
+    <path d="M110 192 L136 192"/>
     <path d="M174 160 L194 192 L214 160"/>
     <path d="M194 192 L194 224"/>
   </g>

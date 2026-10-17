@@ -1,10 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="leaf,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 200 C48 112 104 48 216 40 C224 144 160 208 56 200 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M141.72 186.97 C117.83 197.85 88.92 202.53 56 200 C53.15 168.7 58.41 140.44 71.39 116.65"/>
-    <path d="M115.34 70.09 C141.01 53.51 174.7 42.95 216 40 C219.3 82.93 210.34 119.05 191.35 146.1"/>
+    <path d="M56 200 C48 112 104 48 216 40 C224 144 160 208 56 200 Z"/>
     <path d="M32 224 L56 200"/>
-    <path d="M56 200 L105.37 150.63"/>
-    <path d="M150.63 105.37 L168 88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 200 L168 88"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

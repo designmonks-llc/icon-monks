@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="skirt,clothing,fashion,mini">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="80" y="36" width="96" height="36" rx="10"/>
-    <path d="M94 72 L162 72 Q172 72 174.92 81.56 L213.08 206.44 Q216 216 206 216 L50 216 Q40 216 42.92 206.44 L81.08 81.56 Q84 72 94 72 Z"/>
+    <path d="M94 72 L162 72 Q172.04 72.22 175 82 L213 206 Q215.96 215.78 206 216 L50 216 Q40.04 215.78 43 206 L81 82 Q83.96 72.22 94 72 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="80" y="36" width="96" height="36" rx="10"/>
-    <path d="M94 72 L162 72 Q172 72 174.92 81.56 L213.08 206.44 Q216 216 206 216 L50 216 Q40 216 42.92 206.44 L81.08 81.56 Q84 72 94 72 Z"/>
+    <path d="M94 72 L162 72 Q172.04 72.22 175 82 L213 206 Q215.96 215.78 206 216 L50 216 Q40.04 215.78 43 206 L81 82 Q83.96 72.22 94 72 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M108 108 L96 184"/>

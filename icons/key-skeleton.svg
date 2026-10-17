@@ -1,8 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="skeleton key,old key,antique,unlock">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="70" cy="178" r="36"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="70.02" cy="177.98" r="36"/>
-    <path d="M95.47 152.53 L193.05 54.95"/>
-    <path d="M105.37 117.17 L130.83 142.63"/>
-    <path d="M169.01 78.99 L195.88 105.86 L219.92 81.82 L193.05 54.95"/>
+    <circle cx="70" cy="178" r="36"/>
+    <path d="M95 153 L193 55"/>
+    <path d="M105 117 L131 143"/>
+    <path d="M169 79 L196 106 L220 82 L193 55"/>
   </g>
 </svg>

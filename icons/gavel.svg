@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="law,judge,auction,court,legal">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M47.43 118.63 L126.63 39.43 L160.57 73.37 L81.37 152.57 Z"/>
+    <path d="M47 119 L127 39 L161 73 L81 153 Z"/>
     <rect x="32" y="192" width="104" height="24" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M47.43 118.63 L126.63 39.43 L160.57 73.37 L81.37 152.57 Z"/>
-    <path d="M120.97 112.97 L202.99 194.99"/>
+    <path d="M47 119 L127 39 L161 73 L81 153 Z"/>
+    <path d="M121 113 L203 195"/>
     <rect x="32" y="192" width="104" height="24" rx="8"/>
   </g>
 </svg>

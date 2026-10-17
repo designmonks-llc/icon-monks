@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="compost,organic,recycle,soil">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 216 C64 184 192 184 216 216 Z"/>
-    <path d="M116 178 C113.52 150.72 130.88 130.88 165.6 128.4 C168.08 160.64 148.24 180.48 116 178 Z"/>
+    <path d="M40 216 C52 200 90 192 128 192 C166 192 204 200 216 216 Z"/>
+    <path d="M116 178 C113.52 150.72 131.28 130.48 166 128 C168.48 160.24 148.24 180.48 116 178 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M62.18 154 A76 76 0 1 1 193.82 154"/>
-    <path d="M189.82 114 L193.82 154 L153.82 146"/>
-    <path d="M40 216 C64 184 192 184 216 216 Z"/>
-    <path d="M116 178 C113.52 150.72 130.88 130.88 165.6 128.4 C168.08 160.64 148.24 180.48 116 178 Z"/>
+    <path d="M62 154 A76 76 0 1 1 194 154"/>
+    <path d="M190 114 L194 154 L154 146"/>
+    <path d="M40 216 C52 200 90 192 128 192 C166 192 204 200 216 216 Z"/>
+    <path d="M116 178 C113.52 150.72 131.28 130.48 166 128 C168.48 160.24 148.24 180.48 116 178 Z"/>
     <path d="M116 192 L116 178"/>
   </g>
 </svg>

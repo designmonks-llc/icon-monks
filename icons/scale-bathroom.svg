@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="weight,bathroom scale,body weight,fitness">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M72 120 A56 56 0 0 1 184 120 Z"/>
-    <path d="M128 120 L144 96"/>
+    <path d="M77 121 A51.33 51.33 0 0 1 179 121 Z"/>
+    <path d="M128 121 L143 99"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money,cash,change,currency,savings">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="100" cy="156" r="68"/>
-    <path d="M98.3 64.02 A68 68 0 1 1 191.98 157.7 A92 92 0 0 0 98.3 64.02 Z"/>
+    <path d="M98 64 A68 68 0 1 1 192 158 A92 92 0 0 0 98 64 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="100" cy="156" r="68"/>
-    <path d="M98.3 64.02 A68 68 0 1 1 191.98 157.7"/>
+    <path d="M98 64 A68 68 0 1 1 192 158"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="100" cy="156" r="32"/>

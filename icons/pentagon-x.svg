@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="pentagon,remove,delete,cancel">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M142.79 218.9 L69.22 218.9 L32.89 107.1 L128 38 L223.11 107.1 L212.93 138.41 A54 54 0 0 0 142.79 218.9 Z"/>
+    <path d="M143 219 L69 219 L33 107 L128 38 L223 107 L213 138 A54 54 0 0 0 143 219 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M142.79 218.9 L69.22 218.9 L32.89 107.1 L128 38 L223.11 107.1 L212.93 138.41"/>
+    <path d="M143 219 L69 219 L33 107 L128 38 L223 107 L213 138"/>
     <path d="M164 164 L204 204"/>
     <path d="M204 164 L164 204"/>
   </g>

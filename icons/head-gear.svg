@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="psychology,thinking,mind,mental">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 224 V172.6 A76 76 0 1 1 195.4 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224 Z"/>
+    <path d="M84 224 V173 A76 76 0 1 1 195 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 224 V172.6 A76 76 0 1 1 195.4 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224"/>
+    <path d="M84 224 V173 A76 76 0 1 1 195 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M113.74 79.81 L115.99 66.77 L132.01 66.77 L134.26 79.81 L139.64 82.4 L151.24 76.03 L161.23 88.56 L152.44 98.45 L153.77 104.27 L165.98 109.36 L162.41 124.99 L149.2 124.28 L145.48 128.95 L149.11 141.67 L134.67 148.62 L126.99 137.85 L121.01 137.85 L113.33 148.62 L98.89 141.67 L102.52 128.95 L98.8 124.28 L85.59 124.99 L82.02 109.36 L94.23 104.27 L95.56 98.45 L86.77 88.56 L96.76 76.03 L108.36 82.4 Z"/>
+    <path d="M114 80 L116 67 L132 67 L134 80 L140 82 L151 76 L161 89 L152 98 L154 104 L166 109 L162 125 L149 124 L145 129 L149 142 L135 149 L127 138 L121 138 L113 149 L99 142 L103 129 L99 124 L86 125 L82 109 L94 104 L96 98 L87 89 L97 76 L108 82 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="124" cy="108" r="11"/>

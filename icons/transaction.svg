@@ -3,10 +3,10 @@
     <circle cx="128" cy="128" r="46"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M43.43 97.22 A90 90 0 0 1 205.94 83"/>
-    <path d="M212.18 53.66 L205.94 83 L177.41 73.73"/>
-    <path d="M212.57 158.78 A90 90 0 0 1 50.06 173"/>
-    <path d="M43.82 202.34 L50.06 173 L78.59 182.27"/>
+    <path d="M43 97 A90 90 0 0 1 206 83"/>
+    <path d="M212 54 L206 83 L177 74"/>
+    <path d="M213 159 A90 90 0 0 1 50 173"/>
+    <path d="M44 202 L50 173 L79 182"/>
     <circle cx="128" cy="128" r="46"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="plan,blueprint,architecture">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 40 H208 A8 8 0 0 1 216 48 V208 A8 8 0 0 1 208 216 H56 A24 24 0 0 1 32 192 V64 A24 24 0 0 1 56 40 Z"/>
+    <path d="M59 44 H204 A7.65 7.65 0 0 1 212 51 V205 A7.65 7.65 0 0 1 204 212 H59 A23 23 0 0 1 36 189 V67 A23 23 0 0 1 59 44 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 40 H208 A8 8 0 0 1 216 48 V208 A8 8 0 0 1 208 216 H56 A24 24 0 0 1 32 192 V64 A24 24 0 0 1 56 40 Z"/>
+    <path d="M59 44 H204 A7.65 7.65 0 0 1 212 51 V205 A7.65 7.65 0 0 1 204 212 H59 A23 23 0 0 1 36 189 V67 A23 23 0 0 1 59 44 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M74.39 48.57 A24 24 0 0 1 80 64 V192 A24 24 0 0 1 74.39 207.43"/>
-    <path d="M112 120 L112 84 A4 4 0 0 1 116 80 L180 80 A4 4 0 0 1 184 84 L184 172 A4 4 0 0 1 180 176 L116 176 A4 4 0 0 1 112 172 L112 152"/>
+    <path d="M77 52 A23 23 0 0 1 82 67 V189 A23 23 0 0 1 77 204"/>
+    <path d="M113 120 L113 86 A4 4 0 0 1 116 82 L178 82 A4 4 0 0 1 181 86 L181 170 A4 4 0 0 1 178 174 L116 174 A4 4 0 0 1 113 170 L113 151"/>
   </g>
 </svg>

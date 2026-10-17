@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="envelope,postage,stamp,mail,email">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 131.5 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H119.97 A66 66 0 0 1 224 131.5 Z"/>
+    <path d="M224 132 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H120 A66 66 0 0 1 224 132 Z"/>
     <path d="M156 152 L162 152 A8 8 0 0 0 178 152 L190 152 A8 8 0 0 0 206 152 L212 152 L212 160 A8 8 0 0 0 212 176 L212 192 A8 8 0 0 0 212 208 L212 216 L206 216 A8 8 0 0 0 190 216 L178 216 A8 8 0 0 0 162 216 L156 216 L156 208 A8 8 0 0 0 156 192 L156 176 A8 8 0 0 0 156 160 L156 152 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 131.5 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H119.97"/>
+    <path d="M224 132 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H120"/>
     <path d="M156 152 L162 152 A8 8 0 0 0 178 152 L190 152 A8 8 0 0 0 206 152 L212 152 L212 160 A8 8 0 0 0 212 176 L212 192 A8 8 0 0 0 212 208 L212 216 L206 216 A8 8 0 0 0 190 216 L178 216 A8 8 0 0 0 162 216 L156 216 L156 208 A8 8 0 0 0 156 192 L156 176 A8 8 0 0 0 156 160 L156 152 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

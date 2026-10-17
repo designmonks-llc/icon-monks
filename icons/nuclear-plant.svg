@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="nuclear plant,power station,energy,cooling tower">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 216 C80 168 80 136 68 100 H148 C136 136 136 168 168 216 Z"/>
-    <path d="M184 216 V180 A20 20 0 0 1 224 180 V216 Z"/>
+    <path d="M48 224 C67.85 194.23 75 170.23 75 148 C75 134.39 72.56 121.67 68 108 H148 C143.44 121.67 141 134.39 141 148 C141 170.23 148.15 194.23 168 224 Z"/>
+    <path d="M184 224 V188 A20 20 0 0 1 224 188 V224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 216 C80 168 80 136 68 100 H148 C136 136 136 168 168 216"/>
-    <path d="M184 216 V180 A20 20 0 0 1 224 180 V216"/>
-    <path d="M32 216 L224 216"/>
-    <path d="M80 80 H140 A20 20 0 0 0 144 40.4 A28 28 0 0 0 92 44 A18 18 0 0 0 80 80 Z"/>
+    <path d="M48 224 C67.85 194.23 75 170.23 75 148 C75 134.39 72.56 121.67 68 108 H148 C143.44 121.67 141 134.39 141 148 C141 170.23 148.15 194.23 168 224"/>
+    <path d="M184 224 V188 A20 20 0 0 1 224 188 V224"/>
+    <path d="M32 224 L224 224"/>
+    <path d="M80 88 H140 A20 20 0 0 0 144 48 A28 28 0 0 0 92 52 A18 18 0 0 0 80 88 Z"/>
   </g>
 </svg>

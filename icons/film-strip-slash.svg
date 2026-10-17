@@ -1,15 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="no video,movie off,film off,disabled">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M165.57 208 L46 208 A14 14 0 0 1 32 194 L32 74.43"/>
-    <path d="M90.43 48 L210 48 A14 14 0 0 1 224 62 L224 181.57"/>
-    <path d="M72 114.43 L72 208"/>
-    <path d="M184 48 L184 141.57"/>
-    <path d="M32 88 L45.57 88"/>
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 48 L72 208"/>
+    <path d="M184 48 L184 208"/>
+    <path d="M32 88 L72 88"/>
     <path d="M32 128 L72 128"/>
     <path d="M32 168 L72 168"/>
     <path d="M184 88 L224 88"/>
     <path d="M184 128 L224 128"/>
-    <path d="M210.43 168 L224 168"/>
+    <path d="M184 168 L224 168"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

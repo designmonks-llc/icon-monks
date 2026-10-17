@@ -6,9 +6,9 @@
     <rect x="32" y="48" width="192" height="160" rx="14"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M105.34 48 L105.34 208"/>
-    <path d="M150.66 48 L150.66 208"/>
-    <path d="M32 109.11 L224 109.11"/>
-    <path d="M32 146.89 L224 146.89"/>
+    <path d="M105 48 L105 208"/>
+    <path d="M151 48 L151 208"/>
+    <path d="M32 109 L224 109"/>
+    <path d="M32 147 L224 147"/>
   </g>
 </svg>

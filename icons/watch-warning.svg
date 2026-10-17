@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="watch,warning,error,smartwatch,wearable">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M159.92 131.24 A64 64 0 1 0 126 184.53 A58 58 0 0 1 159.92 131.24 Z"/>
+    <path d="M160 131 A64 64 0 1 0 126 185 A58 58 0 0 1 160 131 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M159.92 131.24 A64 64 0 1 0 126 184.53"/>
-    <path d="M64 72.57 L72 32 L120 32 L128 72.57"/>
-    <path d="M64 183.43 L72 224 L120 224 L126.46 191.26"/>
+    <path d="M160 131 A64 64 0 1 0 126 185"/>
+    <path d="M64 73 L72 32 L120 32 L128 73"/>
+    <path d="M64 183 L72 224 L120 224 L126 191"/>
     <path d="M184 152 L184 184"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

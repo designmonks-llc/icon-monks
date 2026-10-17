@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="watch,increase,upload,smartwatch,wearable">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M159.76 133.52 A64 64 0 1 0 128 183.42 A56 56 0 0 1 159.76 133.52 Z"/>
+    <path d="M160 134 A64 64 0 1 0 128 183 A56 56 0 0 1 160 134 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M159.76 133.52 A64 64 0 1 0 128 183.42"/>
-    <path d="M64 72.57 L72 32 L120 32 L128 72.57"/>
-    <path d="M64 183.43 L72 224 L120 224 L128 183.43"/>
+    <path d="M160 134 A64 64 0 1 0 128 183"/>
+    <path d="M64 73 L72 32 L120 32 L128 73"/>
+    <path d="M64 183 L72 224 L120 224 L128 183"/>
     <path d="M184 212 L184 156"/>
     <path d="M164 176 L184 156 L204 176"/>
   </g>

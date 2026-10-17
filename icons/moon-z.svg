@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="sleep,snooze,night,rest">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M96.54 69.63 A68.64 68.64 0 1 0 169.49 148.19 A56.16 56.16 0 0 1 96.54 69.63 Z"/>
+    <path d="M97 70 A68.64 68.64 0 1 0 169 148 A56.16 56.16 0 0 1 97 70 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.54 69.63 A68.64 68.64 0 1 0 169.49 148.19 A56.16 56.16 0 0 1 96.54 69.63 Z"/>
+    <path d="M97 70 A68.64 68.64 0 1 0 169 148 A56.16 56.16 0 0 1 97 70 Z"/>
     <path d="M144 40 L192 40 L144 88 L192 88"/>
     <path d="M188 112 L220 112 L188 144 L220 144"/>
   </g>

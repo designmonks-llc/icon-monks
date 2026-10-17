@@ -1,12 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="keyboard off,hide keyboard,disabled,input">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="64" width="192" height="128" rx="14"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="32" y="64" width="192" height="128" rx="14"/>
-    <path d="M80 152 L176 152"/>
-    <path d="M48 48 L208 208"/>
   </g>
-  <g data-role="dot" fill="currentColor">
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 152 L176 152"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
     <circle cx="64" cy="108" r="12"/>
+    <circle cx="96" cy="108" r="12"/>
+    <circle cx="128" cy="108" r="12"/>
     <circle cx="160" cy="108" r="12"/>
     <circle cx="192" cy="108" r="12"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

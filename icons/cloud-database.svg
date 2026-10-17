@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="cloud storage,server,hosting,backup">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M96.72 117.68 L156.24 117.68 A27.28 27.28 0 0 0 163.1 64 A37.2 37.2 0 0 0 89.3 69.21 A24.8 24.8 0 0 0 96.72 117.68 Z"/>
+    <path d="M97 118 L156 118 A27.28 27.28 0 0 0 163 64 A37.2 37.2 0 0 0 89 69 A24.8 24.8 0 0 0 97 118 Z"/>
     <path d="M60 172 A68 18 0 0 1 196 172 V206 A68 18 0 0 1 60 206 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.72 117.68 L156.24 117.68 A27.28 27.28 0 0 0 163.1 64 A37.2 37.2 0 0 0 89.3 69.21 A24.8 24.8 0 0 0 96.72 117.68 Z"/>
+    <path d="M97 118 L156 118 A27.28 27.28 0 0 0 163 64 A37.2 37.2 0 0 0 89 69 A24.8 24.8 0 0 0 97 118 Z"/>
     <path d="M60 172 A68 18 0 0 1 196 172 V206 A68 18 0 0 1 60 206 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="captions off,subtitles,cc,disabled,subtitles off">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M165.57 208 L46 208 A14 14 0 0 1 32 194 L32 74.43"/>
-    <path d="M90.43 48 L210 48 A14 14 0 0 1 224 62 L224 181.57"/>
-    <path d="M109.76 152.18 A30 30 0 0 1 67.82 110.24"/>
-    <path d="M146.24 103.82 A30 30 0 0 1 184.07 105.71"/>
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 150 A30 30 0 1 1 112 106"/>
+    <path d="M184 150 A30 30 0 1 1 184 106"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

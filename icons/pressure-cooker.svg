@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="multicooker,slow cooker,rice cooker,kitchen">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="48" y="104" width="160" height="104" rx="20"/>
-    <path d="M48 104 C48 76 80 64 128 64 C176 64 208 76 208 104 Z"/>
+    <rect x="51" y="105" width="154" height="100" rx="19"/>
+    <path d="M51 105 C51.2 77.92 81.92 66.4 128 66 C174.08 66.4 204.8 77.92 205 105 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="48" y="104" width="160" height="104" rx="20"/>
-    <path d="M48 104 C48 76 80 64 128 64 C176 64 208 76 208 104"/>
-    <path d="M128 40 L128 64"/>
-    <path d="M28 128 L48 128"/>
-    <path d="M208 128 L228 128"/>
+    <rect x="51" y="105" width="154" height="100" rx="19"/>
+    <path d="M51 105 C51.2 77.92 81.92 66.4 128 66 C174.08 66.4 204.8 77.92 205 105"/>
+    <path d="M128 43 L128 66"/>
+    <path d="M32 128 L51 128"/>
+    <path d="M205 128 L224 128"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="100" y="136" width="56" height="40" rx="8"/>
+    <rect x="101" y="136" width="54" height="38" rx="8"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="swipe up,gesture,touch,scroll">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M61.28 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 219.1 217.22 217.41 224 Z"/>
+    <path d="M61 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 218.69 217.22 217 224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M61.28 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 219.1 217.22 217.41 224"/>
+    <path d="M61 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 218.69 217.22 217 224"/>
     <path d="M184 124 L184 40"/>
     <path d="M206 62 L184 40 L162 62"/>
   </g>

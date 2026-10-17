@@ -3,13 +3,13 @@
     <path d="M40 40 H128 L224 136 L136 224 L40 128 Z"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M140 165.92 C140 165.92 105.44 147.2 105.44 124.88 A18 18 0 0 1 140 117.68 A18 18 0 0 1 174.56 124.88 C174.56 147.2 140 165.92 140 165.92 Z"/>
+    <path d="M140 166 C140 166 105 147.32 105 125 A18 18 0 0 1 140 118 A18 18 0 0 1 175 125 C175 147.32 140 166 140 166 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 40 H128 L224 136 L136 224 L40 128 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="88" cy="88" r="14"/>
-    <path d="M140 165.92 C140 165.92 105.44 147.2 105.44 124.88 A18 18 0 0 1 140 117.68 A18 18 0 0 1 174.56 124.88 C174.56 147.2 140 165.92 140 165.92 Z"/>
+    <path d="M140 166 C140 166 105 147.32 105 125 A18 18 0 0 1 140 118 A18 18 0 0 1 175 125 C175 147.32 140 166 140 166 Z"/>
   </g>
 </svg>

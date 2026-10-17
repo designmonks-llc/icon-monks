@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="scan qr,qr code,scanner,camera,barcode">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="72" width="36" height="36" rx="8"/>
+    <rect x="148" y="72" width="36" height="36" rx="8"/>
+    <rect x="72" y="148" width="36" height="36" rx="8"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
     <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>

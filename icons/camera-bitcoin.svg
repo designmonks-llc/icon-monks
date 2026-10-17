@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="camera,crypto,bitcoin,photo,picture">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M129.01 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 139.28 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M129 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 139 A60 60 0 0 0 129 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M129.01 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 139.28"/>
+    <path d="M129 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 139"/>
     <path d="M162 158 H186 A13 13 0 0 1 186 184 H170"/>
     <path d="M170 184 H189 A13 13 0 0 1 189 210 H162"/>
     <path d="M170 158 L170 210"/>

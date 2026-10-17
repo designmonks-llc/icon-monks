@@ -1,11 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="command,disabled,off,development">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="command,disabled,off,development">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M93.09 50.66 A32 32 0 0 0 77.34 34.91"/>
-    <path d="M34.91 77.34 A32 32 0 0 0 50.66 93.09"/>
-    <path d="M138.43 96 L192 96 A32 32 0 1 0 160 64 L160 117.57"/>
-    <path d="M162.91 205.34 A32 32 0 0 0 178.66 221.09"/>
-    <path d="M221.09 178.66 A32 32 0 0 0 205.34 162.91"/>
-    <path d="M117.57 160 L64 160 A32 32 0 1 0 96 192 L96 138.43"/>
+    <path d="M99 99 V69 A29.33 29.33 0 1 0 69 99 H187 A29.33 29.33 0 1 0 157 69 V187 A29.33 29.33 0 1 0 187 157 H69 A29.33 29.33 0 1 0 99 187 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="banknote,cash,bill">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M24 72 C59 48 93 48 128 72 C163 96 197 96 232 72 V184 C197 208 163 208 128 184 C93 160 59 160 24 184 Z"/>
+    <path d="M32 76 C48.16 65.08 64.08 60 80 60 C95.92 60 111.84 65.08 128 76 C144.16 87.23 160.08 93 176 93 C191.92 93 207.84 87.23 224 76 V180 C207.84 190.93 191.92 196 176 196 C160.08 196 144.16 190.93 128 180 C111.84 168.77 95.92 163 80 163 C64.08 163 48.16 168.77 32 180 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 72 C59 48 93 48 128 72 C163 96 197 96 232 72 V184 C197 208 163 208 128 184 C93 160 59 160 24 184 Z"/>
+    <path d="M32 76 C48.16 65.08 64.08 60 80 60 C95.92 60 111.84 65.08 128 76 C144.16 87.23 160.08 93 176 93 C191.92 93 207.84 87.23 224 76 V180 C207.84 190.93 191.92 196 176 196 C160.08 196 144.16 190.93 128 180 C111.84 168.77 95.92 163 80 163 C64.08 163 48.16 168.77 32 180 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="128" r="28"/>
+    <circle cx="128" cy="128" r="26"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="68" cy="120" r="16"/>
-    <circle cx="188" cy="136" r="16"/>
+    <circle cx="73" cy="121" r="16"/>
+    <circle cx="183" cy="135" r="16"/>
   </g>
 </svg>

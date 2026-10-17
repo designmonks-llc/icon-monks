@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="six,6,digit,number,numeral">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="six,6,digit,number,numeral">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M158.8 40 L87.52 135.04"/>
-    <circle cx="128" cy="165.4" r="50.6"/>
+    <path d="M159 40 L88 135"/>
+    <circle cx="128" cy="165" r="51"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="column,remove,subtract,table,grid">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M143 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 150.5 A52 52 0 0 0 143 216 Z"/>
+    <path d="M143 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 150 A52 52 0 0 0 143 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M143 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 150.5"/>
+    <path d="M143 216 L46 216 A14 14 0 0 1 32 202 L32 54 A14 14 0 0 1 46 40 L210 40 A14 14 0 0 1 224 54 L224 150"/>
     <path d="M160 184 L208 184"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

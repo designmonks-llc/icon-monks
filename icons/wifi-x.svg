@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="wifi error,no connection,wifi,x,wireless">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.89 168.89 A44 44 0 0 1 137.52 157.04"/>
-    <path d="M65.77 137.77 A88 88 0 0 1 188.02 135.64"/>
-    <path d="M34.66 106.66 A132 132 0 0 1 221.34 106.66"/>
+    <path d="M97 169 A44 44 0 0 1 138 157"/>
+    <path d="M66 138 A88 88 0 0 1 188 136"/>
+    <path d="M35 107 A132 132 0 0 1 221 107"/>
     <path d="M172 168 L212 208"/>
     <path d="M212 168 L172 208"/>
   </g>

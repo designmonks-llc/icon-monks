@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="whale,ocean,sea,mammal">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 144 C32 108 64 92 104 92 C148 92 168 120 184 144 L196 112 C200 100 212 96 224 104 L208 128 L216 160 C200 164 192 160 188 156 C176 184 148 200 104 200 C60 200 32 180 32 144 Z"/>
+    <path d="M32 144 C32 108 64 92 104 92 C148 92 168 120 184 144 L196 112 C198.58 104.25 204.9 100 212 100 C215.9 100 219.75 101.17 224 104 L208 128 L216 160 C211.31 161.17 207.41 162 204 162 C195.76 162 190.83 158.83 188 156 C176 184 148 200 104 200 C60 200 32 180 32 144 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 144 C32 108 64 92 104 92 C148 92 168 120 184 144 L196 112 C200 100 212 96 224 104 L208 128 L216 160 C200 164 192 160 188 156 C176 184 148 200 104 200 C60 200 32 180 32 144 Z"/>
+    <path d="M32 144 C32 108 64 92 104 92 C148 92 168 120 184 144 L196 112 C198.58 104.25 204.9 100 212 100 C215.9 100 219.75 101.17 224 104 L208 128 L216 160 C211.31 161.17 207.41 162 204 162 C195.76 162 190.83 158.83 188 156 C176 184 148 200 104 200 C60 200 32 180 32 144 Z"/>
     <path d="M88 72 L88 44"/>
-    <path d="M88 56 C84 44 72 40 64 44"/>
-    <path d="M88 56 C92 44 104 40 112 44"/>
+    <path d="M88 56 C85 47 77.94 42 71 42 C68.69 42 66 43 64 44"/>
+    <path d="M88 56 C91 47 98.06 42 105 42 C107.31 42 110 43 112 44"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 160 C80 176 112 176 136 160"/>
+    <path d="M48 160 C64 168 80 172 95 172 C110 172 124 168 136 160"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="72" cy="132" r="12"/>

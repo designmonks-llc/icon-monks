@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="gemini,zodiac,astrology,horoscope">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 52 Q128 84 208 52"/>
-    <path d="M48 204 Q128 172 208 204"/>
+    <path d="M48 52 C74.67 62.67 101.33 68 128 68 C154.67 68 181.33 62.67 208 52"/>
+    <path d="M48 204 C74.67 193.33 101.33 188 128 188 C154.67 188 181.33 193.33 208 204"/>
     <path d="M96 64 L96 192"/>
     <path d="M160 64 L160 192"/>
   </g>

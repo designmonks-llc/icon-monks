@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="snowman,winter,snow,christmas">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M109.54 102.91 A60 60 0 1 0 146.46 102.91 A36 36 0 1 0 109.54 102.91 Z"/>
+    <path d="M110 103 A60 60 0 1 0 146 103 A36 36 0 1 0 110 103 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M109.54 102.91 A60 60 0 1 0 146.46 102.91"/>
+    <path d="M110 103 A60 60 0 1 0 146 103"/>
     <circle cx="128" cy="72" r="36"/>
     <path d="M70 140 L40 116"/>
     <path d="M186 140 L216 116"/>

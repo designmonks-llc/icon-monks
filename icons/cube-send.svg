@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="deploy,ship,package,send">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M160 58.88 L223.36 93.44 L223.36 162.56 L160 197.12 L96.64 162.56 L96.64 93.44 Z"/>
+    <path d="M160 59 L223 93 L223 163 L160 197 L97 163 L97 93 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M160 58.88 L223.36 93.44 L223.36 162.56 L160 197.12 L96.64 162.56 L96.64 93.44 Z"/>
+    <path d="M160 59 L223 93 L223 163 L160 197 L97 163 L97 93 Z"/>
     <path d="M48 96 L76 96"/>
     <path d="M32 128 L76 128"/>
     <path d="M48 160 L76 160"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.64 93.44 L160 128 L223.36 93.44"/>
-    <path d="M160 128 L160 197.12"/>
+    <path d="M97 93 L160 128 L223 93"/>
+    <path d="M160 128 L160 197"/>
   </g>
 </svg>

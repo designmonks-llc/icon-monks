@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="radioactive,radiation,nuclear,hazard">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M88 128 L36 128 A92 92 0 0 1 82 48.33 L108 93.36 A40 40 0 0 0 88 128 Z"/>
-    <path d="M148 93.36 L174 48.33 A92 92 0 0 1 220 128 L168 128 A40 40 0 0 0 148 93.36 Z"/>
-    <path d="M148 162.64 L174 207.67 A92 92 0 0 1 82 207.67 L108 162.64 A40 40 0 0 0 148 162.64 Z"/>
+    <path d="M88 128 L36 128 A92 92 0 0 1 82 48 L108 93 A40 40 0 0 0 88 128 Z"/>
+    <path d="M148 93 L174 48 A92 92 0 0 1 220 128 L168 128 A40 40 0 0 0 148 93 Z"/>
+    <path d="M148 163 L174 208 A92 92 0 0 1 82 208 L108 163 A40 40 0 0 0 148 163 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88 128 L36 128 A92 92 0 0 1 82 48.33 L108 93.36 A40 40 0 0 0 88 128 Z"/>
-    <path d="M148 93.36 L174 48.33 A92 92 0 0 1 220 128 L168 128 A40 40 0 0 0 148 93.36 Z"/>
-    <path d="M148 162.64 L174 207.67 A92 92 0 0 1 82 207.67 L108 162.64 A40 40 0 0 0 148 162.64 Z"/>
+    <path d="M88 128 L36 128 A92 92 0 0 1 82 48 L108 93 A40 40 0 0 0 88 128 Z"/>
+    <path d="M148 93 L174 48 A92 92 0 0 1 220 128 L168 128 A40 40 0 0 0 148 93 Z"/>
+    <path d="M148 163 L174 208 A92 92 0 0 1 82 208 L108 163 A40 40 0 0 0 148 163 Z"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="128" cy="128" r="20"/>

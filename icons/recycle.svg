@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="recycle,eco,environment,reuse,green">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M93.12 96.42 L113.31 61.44 Q128 36 142.69 61.44 L164.72 99.6"/>
-    <path d="M135.74 91.84 L164.72 99.6 L172.48 70.62"/>
-    <path d="M184.92 134.58 L205.11 169.56 Q219.8 195 190.42 195 L146.36 195"/>
-    <path d="M167.57 173.79 L146.36 195 L167.57 216.21"/>
-    <path d="M105.97 195 L65.58 195 Q36.2 195 50.89 169.56 L72.92 131.4"/>
-    <path d="M80.69 160.38 L72.92 131.4 L43.94 139.16"/>
+    <path d="M93 96 L113 61 C118 52.52 123 48 128 48 C133 48 138 52.52 143 61 L165 100"/>
+    <path d="M136 92 L165 100 L172 71"/>
+    <path d="M185 135 L205 170 C208.2 175.55 210 180.3 210 184 C210 191.52 203.2 195.1 190 195 L146 195"/>
+    <path d="M168 174 L146 195 L168 216"/>
+    <path d="M106 195 L66 195 C52.81 195.1 46 191.52 46 184 C46 180.3 47.81 175.54 51 170 L73 131"/>
+    <path d="M81 160 L73 131 L44 139"/>
   </g>
 </svg>

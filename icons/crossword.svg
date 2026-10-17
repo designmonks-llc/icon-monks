@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="crossword,puzzle,word game,grid">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="crossword,puzzle,word game,grid">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="192" rx="14"/>
-    <path d="M80 32 L80 224"/>
-    <path d="M128 32 L128 224"/>
-    <path d="M176 32 L176 224"/>
-    <path d="M32 80 L224 80"/>
-    <path d="M32 128 L224 128"/>
-    <path d="M32 176 L224 176"/>
-    <path d="M48 48 H64 V64 H48 Z M48 48 L64 64 M64 48 L48 64"/>
-    <path d="M144 96 H160 V112 H144 Z M144 96 L160 112 M160 96 L144 112"/>
-    <path d="M96 144 H112 V160 H96 Z M96 144 L112 160 M112 144 L96 160"/>
-    <path d="M192 192 H208 V208 H192 Z M192 192 L208 208 M208 192 L192 208"/>
+    <rect x="40" y="40" width="176" height="176" rx="13"/>
+    <path d="M84 40 L84 216"/>
+    <path d="M128 40 L128 216"/>
+    <path d="M172 40 L172 216"/>
+    <path d="M40 84 L216 84"/>
+    <path d="M40 128 L216 128"/>
+    <path d="M40 172 L216 172"/>
+    <path d="M55 55 H69 V69 H55 Z M55 55 L69 69 M69 55 L55 69"/>
+    <path d="M143 99 H157 V113 H143 Z M143 99 L157 113 M157 99 L143 113"/>
+    <path d="M99 143 H113 V157 H99 Z M99 143 L113 157 M113 143 L99 157"/>
+    <path d="M187 187 H201 V201 H187 Z M187 187 L201 201 M201 187 L187 201"/>
   </g>
 </svg>

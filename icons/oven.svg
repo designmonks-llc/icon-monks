@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="oven,stove,baking,kitchen,bake">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="40" y="32" width="176" height="192" rx="14"/>
+    <rect x="47" y="40" width="162" height="176" rx="13"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="32" width="176" height="192" rx="14"/>
+    <rect x="47" y="40" width="162" height="176" rx="13"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="72" y="112" width="112" height="80" rx="10"/>
+    <rect x="77" y="113" width="102" height="74" rx="9"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="88" cy="68" r="14"/>
-    <circle cx="128" cy="68" r="14"/>
-    <circle cx="168" cy="68" r="14"/>
+    <circle cx="91" cy="73" r="14"/>
+    <circle cx="128" cy="73" r="14"/>
+    <circle cx="165" cy="73" r="14"/>
   </g>
 </svg>

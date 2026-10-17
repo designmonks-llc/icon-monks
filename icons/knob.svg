@@ -4,13 +4,13 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="140" r="72"/>
-    <path d="M48.33 94 L37.93 88"/>
-    <path d="M82 60.33 L76 49.93"/>
+    <path d="M48 94 L38 88"/>
+    <path d="M82 60 L76 50"/>
     <path d="M128 48 L128 36"/>
-    <path d="M174 60.33 L180 49.93"/>
-    <path d="M207.67 94 L218.07 88"/>
+    <path d="M174 60 L180 50"/>
+    <path d="M208 94 L218 88"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M118 122.68 L106 101.89"/>
+    <path d="M118 123 L106 102"/>
   </g>
 </svg>

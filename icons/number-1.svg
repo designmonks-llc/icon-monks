@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="one,1,digit,number,numeral">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 77.4 L136.8 40 L136.8 216"/>
-    <path d="M88.4 216 L185.2 216"/>
+    <path d="M84 77 L137 40 L137 216"/>
+    <path d="M88 216 L185 216"/>
   </g>
 </svg>

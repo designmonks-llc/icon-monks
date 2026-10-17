@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="privacy,private profile,lock,person,private">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM148.29 216C141.23 207.25 137 196.12 137 184C137 174.43 139.63 165.48 144.22 157.83C132.76 151.35 118.94 148 104 148C64 148 32 172 32 216H148.29Z"/>
+    <path d="M144 84 C144 61.91 126.09 44 104 44 C81.91 44 64 61.91 64 84 C64 106.09 81.91 124 104 124 C126.09 124 144 106.09 144 84 Z M148 216 C140.94 207.25 137 196.12 137 184 C137 174.43 139.41 165.65 144 158 C132.54 151.52 118.94 148 104 148 C64 148 32 172 32 216 H148 Z"/>
     <rect x="160" y="182" width="56" height="40" rx="10"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
-    <path d="M32 216 C32 172 64 148 104 148 C118.94 148 132.76 151.35 144.22 157.84"/>
+    <path d="M32 216 C32 172 64 148 104 148 C118.94 148 132.54 151.51 144 158"/>
     <rect x="160" y="182" width="56" height="40" rx="10"/>
     <path d="M172 182 V170 A16 16 0 0 1 204 170 V182"/>
   </g>

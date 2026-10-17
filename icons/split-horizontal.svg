@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="split view,side by side,panes">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 32 L128 224"/>
-    <path d="M88 100 L64 128 L88 156"/>
-    <path d="M168 100 L192 128 L168 156"/>
+    <path d="M128 40 L128 216"/>
+    <path d="M91 102 L69 128 L91 154"/>
+    <path d="M165 102 L187 128 L165 154"/>
   </g>
 </svg>

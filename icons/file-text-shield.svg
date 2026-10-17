@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file text,secure,protected,document,page">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M119.38 224 L56 224 L56 32 L152 32 L200 80 L200 109.7 A76 76 0 0 0 119.38 224 Z"/>
-    <path d="M184 141.68 L217.6 155.12 L217.6 178.64 C217.6 202.16 200.8 215.6 184 222.32 C167.2 215.6 150.4 202.16 150.4 178.64 L150.4 155.12 Z"/>
+    <path d="M119 224 L56 224 L56 32 L152 32 L200 80 L200 110 A76 76 0 0 0 119 224 Z"/>
+    <path d="M184 142 L218 155 L218 179 C218 202.52 200.8 215.28 184 222 C167.2 215.28 150 202.52 150 179 L150 155 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M119.38 224 L56 224 L56 32 L152 32 L200 80 L200 109.7"/>
-    <path d="M184 141.68 L217.6 155.12 L217.6 178.64 C217.6 202.16 200.8 215.6 184 222.32 C167.2 215.6 150.4 202.16 150.4 178.64 L150.4 155.12 Z"/>
+    <path d="M119 224 L56 224 L56 32 L152 32 L200 80 L200 110"/>
+    <path d="M184 142 L218 155 L218 179 C218 202.52 200.8 215.28 184 222 C167.2 215.28 150 202.52 150 179 L150 155 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>
-    <path d="M88 128 L132.62 128"/>
-    <path d="M88 160 L111.89 160"/>
-    <path d="M88 192 L108.42 192"/>
+    <path d="M88 128 L133 128"/>
+    <path d="M88 160 L112 160"/>
+    <path d="M88 192 L108 192"/>
   </g>
 </svg>

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="sign,signature,contract,pen,autograph">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M125.42 112.15 L184.47 53.09 A17.28 17.28 0 0 1 208.91 77.53 L149.85 136.58 L109.12 152.88 Z"/>
+    <path d="M125 112 L184 53 A17.28 17.28 0 0 1 209 78 L150 137 L109 153 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M125.42 112.15 L184.47 53.09 A17.28 17.28 0 0 1 208.91 77.53 L149.85 136.58 L109.12 152.88 Z"/>
-    <path d="M180.4 57.16 L164.11 40.87 L129.49 75.49"/>
+    <path d="M125 112 L184 53 A17.28 17.28 0 0 1 209 78 L150 137 L109 153 Z"/>
+    <path d="M180 57 L164 41 L129 75"/>
     <path d="M32 208 L224 208"/>
-    <path d="M36 172 C48 140 72 144 68 168 C64 192 88 184 109.12 152.88"/>
+    <path d="M36 172 C42 156 51 149 58 149 C65 149 70 156 68 168 C66.41 177.55 69.69 182 75 182 C83.03 182 96.28 171.74 109 153"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M125.42 112.15 L149.85 136.58"/>
+    <path d="M125 112 L150 137"/>
   </g>
 </svg>

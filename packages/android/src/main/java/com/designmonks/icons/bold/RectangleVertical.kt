@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Bold.RectangleVertical: ImageVector
-    get() = cache ?: iconMonksVector("RectangleVerticalBold", "M44 48V208Q44 219.6 52.2 227.8Q60.4 236 72 236H184Q195.6 236 203.8 227.8Q212 219.6 212 208V48Q212 36.4 203.8 28.2Q195.6 20 184 20H72Q60.4 20 52.2 28.2Q44 36.4 44 48ZM188 48V208Q188 212 184 212H72Q68 212 68 208V48Q68 44 72 44H184Q188 44 188 48Z").also { cache = it }
+    get() = cache ?: iconMonksVector("RectangleVerticalBold", "M44 48V208A28 28 0 0 0 72 236H184A28 28 0 0 0 212 208V48A28 28 0 0 0 184 20H72A28 28 0 0 0 44 48ZM188 48V208Q188 212 184 212H72Q68 212 68 208V48Q68 44 72 44H184Q188 44 188 48Z").also { cache = it }

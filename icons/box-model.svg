@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="box model,box,model,editor">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="88" y="88" width="80" height="80" rx="10"/>
-    <path d="M88 88 L60 60"/>
-    <path d="M168 88 L196 60"/>
-    <path d="M168 168 L196 196"/>
-    <path d="M88 168 L60 196"/>
+    <rect x="91" y="91" width="74" height="74" rx="9"/>
+    <path d="M91 91 L66 66"/>
+    <path d="M165 91 L190 66"/>
+    <path d="M165 165 L190 190"/>
+    <path d="M91 165 L66 190"/>
   </g>
 </svg>

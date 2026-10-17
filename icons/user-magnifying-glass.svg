@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="find user,search people,lookup,user,find people">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM140.82 216C134.62 206.88 131 195.86 131 184C131 173.45 133.86 163.58 138.86 155.1C128.55 150.41 116.68 148 104 148C64 148 32 172 32 216H140.82Z"/>
+    <path d="M144 84 C144 61.91 126.09 44 104 44 C81.91 44 64 61.91 64 84 C64 106.09 81.91 124 104 124 C126.09 124 144 106.09 144 84 Z M141 216 C134.8 206.88 131 195.86 131 184 C131 173.45 134 163.48 139 155 C128.69 150.31 116.68 148 104 148 C64 148 32 172 32 216 H141 Z"/>
     <circle cx="182" cy="178" r="18"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
-    <path d="M32 216 C32 172 64 148 104 148 C116.68 148 128.56 150.41 138.86 155.11"/>
+    <path d="M32 216 C32 172 64 148 104 148 C116.68 148 128.7 150.3 139 155"/>
     <circle cx="182" cy="178" r="18"/>
     <path d="M196 192 L214 210"/>
   </g>

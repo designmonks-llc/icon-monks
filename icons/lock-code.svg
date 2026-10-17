@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="lock,code,developer,embed">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M133.25 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 129.01 A60 60 0 0 0 133.25 216 Z"/>
+    <path d="M133 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 129 A60 60 0 0 0 133 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133.25 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 129.01"/>
+    <path d="M133 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 129"/>
     <path d="M88 104 V72 A40 40 0 0 1 168 72 V104"/>
     <path d="M170 164 L150 184 L170 204"/>
     <path d="M198 164 L218 184 L198 204"/>

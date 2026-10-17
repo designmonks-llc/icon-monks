@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="pear,fruit,food,healthy">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M128 64 C150 64 156 86 158 106 C160 128 192 140 192 172 C192 204 164 224 128 224 C92 224 64 204 64 172 C64 140 96 128 98 106 C100 86 106 64 128 64 Z"/>
-    <path d="M134 54 C142 40 160 34 180 38 C174 54 156 60 134 54 Z"/>
+    <path d="M134 54 C140.37 42.86 153 37 168 37 C171.85 37 175.92 37.18 180 38 C175.53 49.91 164.47 56 150 56 C145.04 56 139.62 55.53 134 54 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 64 C150 64 156 86 158 106 C160 128 192 140 192 172 C192 204 164 224 128 224 C92 224 64 204 64 172 C64 140 96 128 98 106 C100 86 106 64 128 64 Z"/>
     <path d="M128 64 C128 54 126 46 120 38"/>
-    <path d="M134 54 C142 40 160 34 180 38 C174 54 156 60 134 54 Z"/>
+    <path d="M134 54 C140.37 42.86 153 37 168 37 C171.85 37 175.92 37.18 180 38 C175.53 49.91 164.47 56 150 56 C145.04 56 139.62 55.53 134 54 Z"/>
   </g>
 </svg>

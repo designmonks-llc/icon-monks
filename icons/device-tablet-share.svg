@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device tablet,share,send,tablet,ipad">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M208 127.9 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H133.08 A64 64 0 0 1 208 127.9 Z"/>
+    <path d="M208 128 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H133 A64 64 0 0 1 208 128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M208 127.9 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H133.08"/>
+    <path d="M208 128 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H133"/>
     <path d="M156 216 C156 186 176 176 212 176"/>
     <path d="M192 156 L212 176 L192 196"/>
   </g>

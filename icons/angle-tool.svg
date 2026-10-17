@@ -9,8 +9,8 @@
     <path d="M92 172 A36 36 0 0 1 164 172"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="81.33" cy="125.33" r="10"/>
+    <circle cx="81" cy="125" r="10"/>
     <circle cx="128" cy="106" r="10"/>
-    <circle cx="174.67" cy="125.33" r="10"/>
+    <circle cx="175" cy="125" r="10"/>
   </g>
 </svg>

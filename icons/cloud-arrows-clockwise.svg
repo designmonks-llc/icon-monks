@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="cloud sync,backup,syncing,refresh,cloud">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+    <path d="M82 192 H178 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+    <path d="M82 192 H178 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M101.69 132.42 A28 28 0 0 1 150.94 125.94"/>
-    <path d="M150.94 125.94 L154.87 103.66"/>
-    <path d="M154.31 151.58 A28 28 0 0 1 105.06 158.06"/>
-    <path d="M105.06 158.06 L101.13 180.34"/>
+    <path d="M100 132 A28 28 0 0 1 149 126"/>
+    <path d="M149 126 L153 104"/>
+    <path d="M152 152 A28 28 0 0 1 103 158"/>
+    <path d="M103 158 L99 180"/>
   </g>
 </svg>

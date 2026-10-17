@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="fidget spinner,toy,spin,fidget">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M93.36 100 A40 40 0 1 1 162.64 100 A24 24 0 0 0 183.43 136 A40 40 0 1 1 148.78 196 A24 24 0 0 0 107.22 196 A40 40 0 1 1 72.57 136 A24 24 0 0 0 93.36 100 Z"/>
+    <path d="M96 102 A37 37 0 1 1 160 102 A22 22 0 0 0 179 135 A37 37 0 1 1 147 191 A22 22 0 0 0 109 191 A37 37 0 1 1 77 135 A22 22 0 0 0 96 102 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M93.36 100 A40 40 0 1 1 162.64 100 A24 24 0 0 0 183.43 136 A40 40 0 1 1 148.78 196 A24 24 0 0 0 107.22 196 A40 40 0 1 1 72.57 136 A24 24 0 0 0 93.36 100 Z"/>
+    <path d="M96 102 A37 37 0 1 1 160 102 A22 22 0 0 0 179 135 A37 37 0 1 1 147 191 A22 22 0 0 0 109 191 A37 37 0 1 1 77 135 A22 22 0 0 0 96 102 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="128" cy="80" r="16"/>
-    <circle cx="183.43" cy="176" r="16"/>
-    <circle cx="72.57" cy="176" r="16"/>
-    <circle cx="128" cy="144" r="16"/>
+    <circle cx="128" cy="84" r="16"/>
+    <circle cx="179" cy="172" r="16"/>
+    <circle cx="77" cy="172" r="16"/>
+    <circle cx="128" cy="143" r="16"/>
   </g>
 </svg>

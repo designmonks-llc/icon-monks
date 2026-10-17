@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="bridge,crossing,river,landmark">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 160 A88 80 0 0 1 216 160 Z"/>
+    <path d="M47 159 A81 74 0 0 1 209 159 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 160 A88 80 0 0 1 216 160"/>
-    <path d="M24 160 L232 160"/>
-    <path d="M64 160 L64 208"/>
-    <path d="M192 160 L192 208"/>
+    <path d="M47 159 A81 74 0 0 1 209 159"/>
+    <path d="M32 159 L224 159"/>
+    <path d="M69 159 L69 203"/>
+    <path d="M187 159 L187 203"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 114.72 L84 136"/>
-    <path d="M128 104 L128 136"/>
-    <path d="M172 114.72 L172 136"/>
+    <path d="M87 117 L87 137"/>
+    <path d="M128 107 L128 137"/>
+    <path d="M169 117 L169 137"/>
   </g>
 </svg>

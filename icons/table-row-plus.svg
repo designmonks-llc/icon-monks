@@ -3,9 +3,9 @@
     <path d="M46 48 H210 A14 14 0 0 1 224 62 V96 H32 V62 A14 14 0 0 1 46 48 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M140.14 208 H46 A14 14 0 0 1 32 194 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V154"/>
+    <path d="M140 208 H46 A14 14 0 0 1 32 194 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V154"/>
     <path d="M32 96 L224 96"/>
-    <path d="M32 152 L145.58 152"/>
+    <path d="M32 152 L146 152"/>
     <path d="M96 96 L96 208"/>
     <path d="M184 158 L184 210"/>
     <path d="M158 184 L210 184"/>

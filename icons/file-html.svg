@@ -9,7 +9,7 @@
     <path d="M32 192 L60 192"/>
     <path d="M88 160 L116 160"/>
     <path d="M102 160 L102 224"/>
-    <path d="M144 224 L144 160 L160 198.4 L176 160 L176 224"/>
+    <path d="M144 224 L144 160 L160 198 L176 160 L176 224"/>
     <path d="M204 160 L204 224 L224 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="night,sleep,evening,stars,dark">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M96.54 69.63 A68.64 68.64 0 1 0 169.49 148.19 A56.16 56.16 0 0 1 96.54 69.63 Z"/>
+    <path d="M97 70 A68.64 68.64 0 1 0 169 148 A56.16 56.16 0 0 1 97 70 Z"/>
     <path d="M180 40 C184.32 71.68 184.32 71.68 216 76 C184.32 80.32 184.32 80.32 180 112 C175.68 80.32 175.68 80.32 144 76 C175.68 71.68 175.68 71.68 180 40 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.54 69.63 A68.64 68.64 0 1 0 169.49 148.19 A56.16 56.16 0 0 1 96.54 69.63 Z"/>
+    <path d="M97 70 A68.64 68.64 0 1 0 169 148 A56.16 56.16 0 0 1 97 70 Z"/>
     <path d="M180 40 C184.32 71.68 184.32 71.68 216 76 C184.32 80.32 184.32 80.32 180 112 C175.68 80.32 175.68 80.32 144 76 C175.68 71.68 175.68 71.68 180 40 Z"/>
   </g>
   <g data-role="dot" fill="currentColor">

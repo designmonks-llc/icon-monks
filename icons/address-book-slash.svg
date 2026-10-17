@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="address book,disabled,off,communication">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="32" width="144" height="192" rx="14"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="64" y="32" width="144" height="192" rx="14"/>
     <path d="M44 72 L80 72"/>
     <path d="M44 128 L80 128"/>
     <path d="M44 184 L80 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="140" cy="96" r="22"/>
     <path d="M104 180 C104 160 118 148 140 148 C162 148 176 160 176 180 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="heart slash,off,disabled,heart,favorite">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 212 C128 212 32 160 32 98 A50 50 0 0 1 128 78 A50 50 0 0 1 224 98 C224 160 128 212 128 212 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M153.42 195.85 C138.93 206.08 128 212 128 212 C128 212 32 160 32 98 A50 50 0 0 1 35.87 78.3"/>
-    <path d="M90.8 48.37 A50 50 0 0 1 128 78 A50 50 0 0 1 224 98 C224 119.01 212.97 138.88 198.39 155.96"/>
+    <path d="M128 212 C128 212 32 160 32 98 A50 50 0 0 1 128 78 A50 50 0 0 1 224 98 C224 160 128 212 128 212 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

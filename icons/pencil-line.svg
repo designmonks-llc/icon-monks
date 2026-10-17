@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="edit line,draw,pencil,underline">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 188 L53.44 140.96 L147.52 46.88 L181.12 80.48 L87.04 174.56 Z"/>
+    <path d="M40 188 L53 141 L148 47 L181 80 L87 175 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 188 L53.44 140.96 L147.52 46.88 L181.12 80.48 L87.04 174.56 Z"/>
+    <path d="M40 188 L53 141 L148 47 L181 80 L87 175 Z"/>
     <path d="M112 216 L216 216"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124 70.4 L157.6 104"/>
+    <path d="M124 70 L158 104"/>
   </g>
 </svg>

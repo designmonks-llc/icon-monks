@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,bitcoin,crypto">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M129.01 208 L48 208 L48 112 L128 44 L208 112 L208 129.01 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M129 208 L48 208 L48 112 L128 44 L208 112 L208 129 A60 60 0 0 0 129 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 112 L48 208 L129.01 208"/>
+    <path d="M48 112 L48 208 L129 208"/>
     <path d="M32 124 L128 40 L224 124"/>
     <path d="M162 158 H186 A13 13 0 0 1 186 184 H168"/>
     <path d="M168 184 H190 A13 13 0 0 1 190 210 H162"/>

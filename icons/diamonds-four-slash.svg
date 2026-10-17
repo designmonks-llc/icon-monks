@@ -1,9 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="components,disabled,off,design">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L158 62 L128 92 L98 62 Z"/>
+    <path d="M194 98 L224 128 L194 158 L164 128 Z"/>
+    <path d="M128 164 L158 194 L128 224 L98 194 Z"/>
+    <path d="M62 98 L92 128 L62 158 L32 128 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 36 L154 62 L128 88 L102 62 Z"/>
-    <path d="M194 102 L220 128 L194 154 L168 128 Z"/>
-    <path d="M128 168 L154 194 L128 220 L102 194 Z"/>
-    <path d="M62 102 L88 128 L62 154 L36 128 Z"/>
+    <path d="M128 32 L158 62 L128 92 L98 62 Z"/>
+    <path d="M194 98 L224 128 L194 158 L164 128 Z"/>
+    <path d="M128 164 L158 194 L128 224 L98 194 Z"/>
+    <path d="M62 98 L92 128 L62 158 L32 128 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

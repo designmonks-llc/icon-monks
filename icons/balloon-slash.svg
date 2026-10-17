@@ -1,9 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="balloon,disabled,off,objects">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="104" rx="68" ry="72"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="128" cy="104" rx="68" ry="72"/>
     <path d="M128 176 L114 192 L142 192 Z"/>
-    <path d="M128 192 C128 204 116 212 124 224"/>
+    <path d="M128 192 C128 201 121 208.12 121 216 C121 218.62 122 221 124 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M100 96 A32 32 0 0 1 120 68"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

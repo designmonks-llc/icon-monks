@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="singing,karaoke,performance,handheld microphone,singer">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="164" cy="92" r="52"/>
-    <path d="M146.24 140.87 L60.76 215.04 A14 14 0 0 1 40.96 195.24 L115.13 109.76 Z"/>
+    <path d="M146 141 L61 215 A14 14 0 0 1 41 195 L115 110 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="164" cy="92" r="52"/>
-    <path d="M146.24 140.87 L60.76 215.04 A14 14 0 0 1 40.96 195.24 L115.13 109.76"/>
+    <path d="M146 141 L61 215 A14 14 0 0 1 41 195 L115 110"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M142.79 70.79 L185.21 113.21"/>
-    <path d="M93.64 134.78 L121.22 162.36"/>
+    <path d="M143 71 L185 113"/>
+    <path d="M94 135 L121 162"/>
   </g>
 </svg>

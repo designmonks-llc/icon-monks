@@ -7,9 +7,9 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="48" y="192" width="96" height="24" rx="8"/>
     <circle cx="96" cy="164" r="24"/>
-    <path d="M103.88 141.33 L120.12 94.67"/>
+    <path d="M104 141 L120 95"/>
     <circle cx="128" cy="72" r="24"/>
-    <path d="M149.99 81.62 L192 100"/>
+    <path d="M150 82 L192 100"/>
     <path d="M192 100 L192 132"/>
     <path d="M168 172 L168 132 L216 132 L216 172"/>
   </g>

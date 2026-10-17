@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="cloud,wifi,wireless,online">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+    <path d="M82 192 H178 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+    <path d="M82 192 H178 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M108.3 140.78 A32 32 0 0 1 147.7 140.78"/>
-    <path d="M100.82 110.27 A62 62 0 0 1 155.18 110.27"/>
+    <path d="M106 141 A32 32 0 0 1 146 141"/>
+    <path d="M99 110 A62 62 0 0 1 153 110"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="128" cy="166" r="12"/>
+    <circle cx="126" cy="166" r="12"/>
   </g>
 </svg>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="phone help,mobile question,support,phone,device mobile">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 116.12 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H137.09 A66 66 0 0 1 184 116.12 Z"/>
+    <path d="M184 116 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H137 A66 66 0 0 1 184 116 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 116.12 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H137.09"/>
-    <path d="M170 164 A18 18 0 1 1 199.57 177.79 C192 182 188 184 188 190 V192"/>
+    <path d="M184 116 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H137"/>
+    <path d="M170 164 A18 18 0 1 1 200 178 C192.43 182.21 188 184 188 190 V192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 64 L144 64"/>

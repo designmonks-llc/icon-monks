@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tool,settings,repair,fix,spanner">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M188.28 45.09 L150.63 82.75 L173.25 105.37 L210.91 67.72 A48 48 0 0 1 150.89 133.4 L88.4 195.88 A20 20 0 0 1 60.12 167.6 L122.6 105.11 A48 48 0 0 1 188.28 45.09 Z"/>
+    <path d="M188 45 L151 83 L173 105 L211 68 A48 48 0 0 1 151 133 L88 196 A20 20 0 0 1 60 168 L123 105 A48 48 0 0 1 188 45 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M188.28 45.09 L150.63 82.75 L173.25 105.37 L210.91 67.72 A48 48 0 0 1 150.89 133.4 L88.4 195.88 A20 20 0 0 1 60.12 167.6 L122.6 105.11 A48 48 0 0 1 188.28 45.09 Z"/>
+    <path d="M188 45 L151 83 L173 105 L211 68 A48 48 0 0 1 151 133 L88 196 A20 20 0 0 1 60 168 L123 105 A48 48 0 0 1 188 45 Z"/>
   </g>
 </svg>

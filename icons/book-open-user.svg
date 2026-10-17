@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="reader,reading,student">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 136 C108 120 76 112 32 116 V196 C76 192 108 200 128 216 C148 200 180 192 224 196 V116 C180 112 148 120 128 136 Z"/>
+    <path d="M128 136 C111.43 122.75 87.04 115 54 115 C47.16 115 39.55 115.31 32 116 V196 C39.55 195.31 47.16 195 54 195 C87.04 195 111.43 202.75 128 216 C144.57 202.75 168.96 195 202 195 C208.84 195 216.45 195.31 224 196 V116 C216.45 115.31 208.84 115 202 115 C168.96 115 144.57 122.75 128 136 Z"/>
     <circle cx="128" cy="64" r="28"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 136 C108 120 76 112 32 116 V196 C76 192 108 200 128 216 C148 200 180 192 224 196 V116 C180 112 148 120 128 136 Z"/>
+    <path d="M128 136 C111.43 122.75 87.04 115 54 115 C47.16 115 39.55 115.31 32 116 V196 C39.55 195.31 47.16 195 54 195 C87.04 195 111.43 202.75 128 216 C144.57 202.75 168.96 195 202 195 C208.84 195 216.45 195.31 224 196 V116 C216.45 115.31 208.84 115 202 115 C168.96 115 144.57 122.75 128 136 Z"/>
     <circle cx="128" cy="64" r="28"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

@@ -1,12 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="ship,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 144 H224 L196 200 H60 Z"/>
+    <path d="M56 144 V120 A8 8 0 0 1 64 112 H88 V88 A8 8 0 0 1 96 80 H112 V56 A8 8 0 0 1 120 48 H136 A8 8 0 0 1 144 56 V80 H160 A8 8 0 0 1 168 88 V112 H184 A8 8 0 0 1 192 120 V144 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 144 H224 L196 200 H60 Z"/>
     <path d="M56 144 V120 A8 8 0 0 1 64 112 H88 V88 A8 8 0 0 1 96 80 H112 V56 A8 8 0 0 1 120 48 H136 A8 8 0 0 1 144 56 V80 H160 A8 8 0 0 1 168 88 V112 H184 A8 8 0 0 1 192 120 V144"/>
-    <path d="M48 48 L208 208"/>
   </g>
-  <g data-role="dot" fill="currentColor">
+  <g data-role="dotcut" fill="currentColor">
     <circle cx="88" cy="168" r="16"/>
     <circle cx="128" cy="168" r="16"/>
     <circle cx="168" cy="168" r="16"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

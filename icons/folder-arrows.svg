@@ -6,9 +6,9 @@
     <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M90.41 130.32 A40 40 0 0 1 158.64 118.29"/>
-    <path d="M130.71 122.71 L158.64 118.29 L154.22 90.35"/>
-    <path d="M165.59 157.68 A40 40 0 0 1 97.36 169.71"/>
-    <path d="M125.29 165.29 L97.36 169.71 L101.78 197.65"/>
+    <path d="M90 130 A40 40 0 0 1 159 118"/>
+    <path d="M131 123 L159 118 L154 90"/>
+    <path d="M166 158 A40 40 0 0 1 97 170"/>
+    <path d="M125 165 L97 170 L102 198"/>
   </g>
 </svg>

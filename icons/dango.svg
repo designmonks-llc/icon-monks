@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="dango,skewer,japanese sweet,mochi">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="90.75" cy="165.25" r="38"/>
+    <circle cx="91" cy="165" r="38"/>
     <circle cx="136" cy="120" r="38"/>
-    <circle cx="181.25" cy="74.75" r="38"/>
+    <circle cx="181" cy="75" r="38"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M98.88 128.14 A38 38 0 1 0 127.86 157.12"/>
-    <path d="M144.14 82.88 A38 38 0 1 1 173.12 111.86"/>
-    <path d="M98.88 128.14 A38 38 0 0 1 144.14 82.88"/>
-    <path d="M127.86 157.12 A38 38 0 0 0 173.12 111.86"/>
-    <path d="M36 220 L63.88 192.12"/>
+    <path d="M99 128 A38 38 0 1 0 128 157"/>
+    <path d="M144 83 A38 38 0 1 1 173 112"/>
+    <path d="M99 128 A38 38 0 0 1 144 83"/>
+    <path d="M128 157 A38 38 0 0 0 173 112"/>
+    <path d="M36 220 L64 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M98.88 128.14 A38 38 0 0 0 127.86 157.12"/>
-    <path d="M144.14 82.88 A38 38 0 0 0 173.12 111.86"/>
+    <path d="M99 128 A38 38 0 0 0 128 157"/>
+    <path d="M144 83 A38 38 0 0 0 173 112"/>
   </g>
 </svg>

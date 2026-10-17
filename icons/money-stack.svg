@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="cash,bills,stack,wealth">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="24" y="40" width="208" height="112" rx="14"/>
+    <rect x="32" y="47" width="192" height="103" rx="13"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="24" y="40" width="208" height="112" rx="14"/>
-    <path d="M40 184 L216 184"/>
-    <path d="M56 216 L200 216"/>
+    <rect x="32" y="47" width="192" height="103" rx="13"/>
+    <path d="M47 180 L209 180"/>
+    <path d="M62 209 L194 209"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="96" r="28"/>
+    <circle cx="128" cy="98" r="26"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="64" cy="96" r="16"/>
-    <circle cx="192" cy="96" r="16"/>
+    <circle cx="69" cy="98" r="16"/>
+    <circle cx="187" cy="98" r="16"/>
   </g>
 </svg>

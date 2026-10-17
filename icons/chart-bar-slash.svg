@@ -1,9 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="chart bar,disabled,off,chart,graph">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="120" width="40" height="72" rx="8"/>
+    <rect x="108" y="56" width="40" height="136" rx="8"/>
+    <rect x="168" y="96" width="40" height="96" rx="8"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="48" y="120" width="40" height="72" rx="8"/>
     <rect x="108" y="56" width="40" height="136" rx="8"/>
     <rect x="168" y="96" width="40" height="96" rx="8"/>
     <path d="M32 216 L224 216"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

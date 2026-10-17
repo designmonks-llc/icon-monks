@@ -5,6 +5,6 @@
     <path d="M152 208 L152 88"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="200" cy="208" r="10.67"/>
+    <circle cx="200" cy="208" r="11"/>
   </g>
 </svg>

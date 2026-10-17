@@ -3,9 +3,9 @@
     <rect x="160" y="176" width="64" height="48" rx="10"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.89 168.89 A44 44 0 0 1 129.92 156.04"/>
-    <path d="M65.77 137.77 A88 88 0 0 1 164.14 119.76"/>
-    <path d="M34.66 106.66 A132 132 0 0 1 221.34 106.66"/>
+    <path d="M97 169 A44 44 0 0 1 130 156"/>
+    <path d="M66 138 A88 88 0 0 1 164 120"/>
+    <path d="M35 107 A132 132 0 0 1 221 107"/>
     <rect x="160" y="176" width="64" height="48" rx="10"/>
     <path d="M176 176 V164 A16 16 0 0 1 208 164 V176"/>
   </g>

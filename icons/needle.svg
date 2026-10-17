@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="needle,sewing,thread,stitch">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M176 105 L201 80 A18 18 0 0 0 176 55 L151 80 A18 18 0 0 0 176 105 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M176 105.46 L201.46 80 A18 18 0 0 0 176 54.54 L150.54 80 A18 18 0 0 0 176 105.46 Z"/>
-    <path d="M48 208 L150.54 105.46"/>
-    <path d="M176 80 C224 72 224 136 192 152 C164 166 172 204 212 212"/>
+    <path d="M176 105 L201 80 A18 18 0 0 0 176 55 L151 80 A18 18 0 0 0 176 105 Z"/>
+    <path d="M48 208 L151 105"/>
+    <path d="M176 80 C202.42 75.6 214 92.78 214 112 C214 127.69 206.38 144.81 192 152 C180.87 157.57 175 167.24 175 177 C175 191.79 187.91 207.18 212 212"/>
   </g>
 </svg>

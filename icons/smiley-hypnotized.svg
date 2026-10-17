@@ -9,8 +9,8 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M86 104 A11 11 0 0 1 108 104 A22 22 0 1 1 70.44 88.44"/>
-    <path d="M162 104 A11 11 0 0 1 184 104 A22 22 0 1 1 146.44 88.44"/>
+    <path d="M86 104 A11 11 0 0 1 108 104 A22 22 0 1 1 70 88"/>
+    <path d="M162 104 A11 11 0 0 1 184 104 A22 22 0 1 1 146 88"/>
     <ellipse cx="128" cy="174" rx="18" ry="20"/>
   </g>
 </svg>

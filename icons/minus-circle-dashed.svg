@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="remove,minus,dashed,circle,minus circle dashed">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="128" cy="128" r="104"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M115.07 32.87 A96 96 0 0 1 128 32 A96 96 0 0 1 140.93 32.87"/>
-    <path d="M173.45 43.44 A96 96 0 0 1 194.37 58.64"/>
-    <path d="M214.47 86.31 A96 96 0 0 1 222.46 110.9"/>
-    <path d="M222.47 145.1 A96 96 0 0 1 214.47 169.69"/>
-    <path d="M194.37 197.36 A96 96 0 0 1 173.45 212.56"/>
-    <path d="M140.93 223.13 A96 96 0 0 1 115.07 223.13"/>
-    <path d="M82.55 212.56 A96 96 0 0 1 61.63 197.36"/>
-    <path d="M41.53 169.69 A96 96 0 0 1 33.54 145.1"/>
-    <path d="M33.53 110.9 A96 96 0 0 1 41.53 86.31"/>
-    <path d="M61.63 58.64 A96 96 0 0 1 82.55 43.44"/>
+    <path d="M116 40 A88.62 88.62 0 0 1 128 39 A88.62 88.62 0 0 1 140 40"/>
+    <path d="M170 50 A88.62 88.62 0 0 1 189 64"/>
+    <path d="M208 90 A88.62 88.62 0 0 1 215 112"/>
+    <path d="M215 144 A88.62 88.62 0 0 1 208 166"/>
+    <path d="M189 192 A88.62 88.62 0 0 1 170 206"/>
+    <path d="M140 216 A88.62 88.62 0 0 1 116 216"/>
+    <path d="M86 206 A88.62 88.62 0 0 1 67 192"/>
+    <path d="M48 166 A88.62 88.62 0 0 1 41 144"/>
+    <path d="M41 112 A88.62 88.62 0 0 1 48 90"/>
+    <path d="M67 64 A88.62 88.62 0 0 1 86 50"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 128 L172 128"/>
+    <path d="M87 128 L169 128"/>
   </g>
 </svg>

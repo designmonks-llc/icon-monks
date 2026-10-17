@@ -2,6 +2,6 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 208 L216 208"/>
     <path d="M128 40 L128 160"/>
-    <path d="M99.72 131.72 L128 160 L156.28 131.72"/>
+    <path d="M100 132 L128 160 L156 132"/>
   </g>
 </svg>

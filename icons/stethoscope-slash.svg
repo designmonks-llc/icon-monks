@@ -1,12 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="stethoscope,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="192" cy="112" r="24"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M64 40 V96 A36 36 0 0 0 136 96 V40"/>
     <path d="M100 132 V168 A46 46 0 0 0 192 168 V136"/>
     <circle cx="192" cy="112" r="24"/>
-    <path d="M48 48 L208 208"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="64" cy="40" r="14"/>
     <circle cx="136" cy="40" r="14"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

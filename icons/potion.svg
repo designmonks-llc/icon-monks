@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="elixir,magic,flask">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64.28 150 Q96.14 132 128 150 T191.72 150 A64 64 0 0 1 64.28 150 Z"/>
+    <path d="M64 150 Q96 132 128 150 T192 150 A64 64 0 0 1 64 150 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M108 95.21 V68 H148 V95.21 A64 64 0 1 1 108 95.21 Z"/>
+    <path d="M108 95 V68 H148 V95 A64 64 0 1 1 108 95 Z"/>
     <rect x="100" y="36" width="56" height="32" rx="8"/>
-    <path d="M64.28 150 Q96.14 132 128 150 T191.72 150"/>
+    <path d="M64 150 Q96 132 128 150 T192 150"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="106" cy="184" r="14"/>

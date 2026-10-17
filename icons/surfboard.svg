@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="surfing,surf,wave,beach">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M207.2 48.8 C204.37 91.23 170.43 142.14 128 184.57 C92.64 219.92 65.77 224.17 48.8 207.2 C31.83 190.23 36.08 163.36 71.43 128 C113.86 85.57 164.77 51.63 207.2 48.8 Z"/>
+    <path d="M207 49 C204.17 91.43 170.43 142.57 128 185 C105.87 207.12 87.07 217 72 217 C62.99 217 55.35 213.35 49 207 C42.65 200.65 39 193.01 39 184 C39 168.93 48.88 150.13 71 128 C113.43 85.57 164.57 51.83 207 49 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M207.2 48.8 C204.37 91.23 170.43 142.14 128 184.57 C92.64 219.92 65.77 224.17 48.8 207.2 C31.83 190.23 36.08 163.36 71.43 128 C113.86 85.57 164.77 51.63 207.2 48.8 Z"/>
+    <path d="M207 49 C204.17 91.43 170.43 142.57 128 185 C105.87 207.12 87.07 217 72 217 C62.99 217 55.35 213.35 49 207 C42.65 200.65 39 193.01 39 184 C39 168.93 48.88 150.13 71 128 C113.43 85.57 164.57 51.83 207 49 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M178.91 77.09 L68.6 187.4"/>
+    <path d="M179 77 L69 187"/>
   </g>
 </svg>

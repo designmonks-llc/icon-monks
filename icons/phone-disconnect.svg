@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="hang up,end call,disconnect,call end,phone">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 148 C32 100 80 76 128 76 C176 76 224 100 224 148 L212 180 L170 170 L166 138 C142 128 114 128 90 138 L86 170 L44 180 Z"/>
+    <path d="M32 148 C32 100 80 76 128 76 C176 76 224 100 224 148 L212 180 L170 170 L166 138 C154 133 141 130 128 130 C115 130 102 133 90 138 L86 170 L44 180 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 148 C32 100 80 76 128 76 C176 76 224 100 224 148 L212 180 L170 170 L166 138 C142 128 114 128 90 138 L86 170 L44 180 Z"/>
+    <path d="M32 148 C32 100 80 76 128 76 C176 76 224 100 224 148 L212 180 L170 170 L166 138 C154 133 141 130 128 130 C115 130 102 133 90 138 L86 170 L44 180 Z"/>
   </g>
 </svg>

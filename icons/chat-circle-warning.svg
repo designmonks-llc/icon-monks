@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat circle,warning,error,message,conversation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M135.58 215.93 A92 92 0 0 1 97.54 209.3 L40 216 L52.33 170 A92 92 0 1 1 222.49 140.61 A58 58 0 0 0 135.58 215.93 Z"/>
+    <path d="M136 216 A92 92 0 0 1 98 209 L40 216 L52 170 A92 92 0 1 1 222 141 A58 58 0 0 0 136 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M135.58 215.93 A92 92 0 0 1 97.54 209.3 L40 216 L52.33 170 A92 92 0 1 1 222.49 140.61"/>
+    <path d="M136 216 A92 92 0 0 1 98 209 L40 216 L52 170 A92 92 0 1 1 222 141"/>
     <path d="M184 152 L184 184"/>
   </g>
   <g data-role="dot" fill="currentColor">

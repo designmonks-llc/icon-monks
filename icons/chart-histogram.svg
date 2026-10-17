@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="histogram,distribution,bars,statistics,frequency">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 208 V160 H75.2 V112 H110.4 V56 H145.6 V96 H180.8 V144 H216 V208 Z"/>
+    <path d="M40 208 V160 H75 V112 H110 V56 H146 V96 H181 V144 H216 V208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 208 V160 H75.2 V112 H110.4 V56 H145.6 V96 H180.8 V144 H216 V208"/>
+    <path d="M40 208 V160 H75 V112 H110 V56 H146 V96 H181 V144 H216 V208"/>
     <path d="M32 208 L224 208"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M75.2 160 L75.2 192"/>
-    <path d="M110.4 112 L110.4 192"/>
-    <path d="M145.6 96 L145.6 192"/>
-    <path d="M180.8 144 L180.8 192"/>
+    <path d="M75 160 L75 192"/>
+    <path d="M110 112 L110 192"/>
+    <path d="M146 96 L146 192"/>
+    <path d="M181 144 L181 192"/>
   </g>
 </svg>

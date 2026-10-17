@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="halloween,spooky,boo,spirit,phantom">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 216 V112 A80 80 0 0 1 208 112 V216 L181.33 196 L154.67 216 L128 196 L101.33 216 L74.67 196 Z"/>
+    <path d="M48 216 V112 A80 80 0 0 1 208 112 V216 L181 196 L155 216 L128 196 L101 216 L75 196 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 216 V112 A80 80 0 0 1 208 112 V216 L181.33 196 L154.67 216 L128 196 L101.33 216 L74.67 196 Z"/>
+    <path d="M48 216 V112 A80 80 0 0 1 208 112 V216 L181 196 L155 216 L128 196 L101 216 L75 196 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="100" cy="112" r="16"/>

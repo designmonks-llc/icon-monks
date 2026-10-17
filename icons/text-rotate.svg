@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="rotate text,vertical text,angle text,text,orientation">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M33.29 156.49 L143.6 108.4 L95.51 218.71"/>
-    <path d="M68.75 141.03 L110.97 183.25"/>
-    <path d="M57.05 59.71 A100 100 0 0 1 203.03 134.08"/>
-    <path d="M179.55 113.67 L203.03 134.08 L223.44 110.6"/>
+    <path d="M33 156 L144 108 L96 219"/>
+    <path d="M69 141 L111 183"/>
+    <path d="M57 60 A100 100 0 0 1 203 134"/>
+    <path d="M180 114 L203 134 L223 111"/>
   </g>
 </svg>

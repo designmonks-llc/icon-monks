@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="pregnancy,expecting,maternity,mother,pregnant">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="114" cy="54" r="20"/>
-    <path d="M100 90 H126 C134 102 134 112 130 120 C162 128 180 156 168 180 C160 192 144 196 128 196 H104 C96 160 94 124 100 90 Z"/>
+    <path d="M100 90 H126 C130.69 97.03 133 103.34 133 109 C133 113 131.66 116.69 130 120 C155.22 126.3 172 144.6 172 164 C172 169.22 170.54 174.91 168 180 C160 192 144 196 128 196 H104 C99.16 174.2 97 152.36 97 131 C97 117.09 97.63 103.41 100 90 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="114" cy="54" r="20"/>
-    <path d="M100 90 H126 C134 102 134 112 130 120 C162 128 180 156 168 180 C160 192 144 196 128 196 H104 C96 160 94 124 100 90 Z"/>
+    <path d="M100 90 H126 C130.69 97.03 133 103.34 133 109 C133 113 131.66 116.69 130 120 C155.22 126.3 172 144.6 172 164 C172 169.22 170.54 174.91 168 180 C160 192 144 196 128 196 H104 C99.16 174.2 97 152.36 97 131 C97 117.09 97.63 103.41 100 90 Z"/>
     <path d="M108 196 L108 220"/>
     <path d="M140 196 L140 220"/>
   </g>

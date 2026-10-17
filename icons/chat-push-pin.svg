@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat,pinned,pin,message,conversation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128.25 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 135.63 A58 58 0 0 0 128.25 200 Z"/>
-    <path d="M193.87 153.27 L210.5 167.23 L202.14 172.36 L192.18 184.24 L190.91 207.46 L157.65 179.55 L180.3 174.27 L190.27 162.39 Z"/>
+    <path d="M128 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 136 A58 58 0 0 0 128 200 Z"/>
+    <path d="M194 153 L210 167 L202 172 L192 184 L191 207 L158 180 L180 174 L190 162 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128.25 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 135.63"/>
-    <path d="M193.87 153.27 L210.5 167.23 L202.14 172.36 L192.18 184.24 L190.91 207.46 L157.65 179.55 L180.3 174.27 L190.27 162.39 Z"/>
-    <path d="M174.28 193.51 L156.34 214.89"/>
+    <path d="M128 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 136"/>
+    <path d="M194 153 L210 167 L202 172 L192 184 L191 207 L158 180 L180 174 L190 162 Z"/>
+    <path d="M174 194 L156 215"/>
   </g>
 </svg>

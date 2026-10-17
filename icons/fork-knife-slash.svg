@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="no food,no eating,fasting,food off">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M204 140 H156 C156 88 168 52 204 32 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M52 32 V80 A32 32 0 0 0 116 80 V32"/>
     <path d="M84 32 L84 224"/>
     <path d="M204 140 H156 C156 88 168 52 204 32 V224"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

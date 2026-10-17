@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="favorite,rating,bookmark,like">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 36 L153.86 100.4 L223.11 105.1 L169.85 149.6 L186.78 216.9 L128 180 L69.22 216.9 L86.15 149.6 L32.89 105.1 L102.14 100.4 Z"/>
+    <path d="M128 36 L154 100 L223 105 L170 150 L187 217 L128 180 L69 217 L86 150 L33 105 L102 100 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 36 L153.86 100.4 L223.11 105.1 L169.85 149.6 L186.78 216.9 L128 180 L69.22 216.9 L86.15 149.6 L32.89 105.1 L102.14 100.4 Z"/>
+    <path d="M128 36 L154 100 L223 105 L170 150 L187 217 L128 180 L69 217 L86 150 L33 105 L102 100 Z"/>
   </g>
 </svg>

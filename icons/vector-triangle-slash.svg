@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="vector triangle,off,disabled,hidden,vector">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="110" y="34" width="36" height="36" rx="6"/>
+    <rect x="182" y="174" width="36" height="36" rx="6"/>
+    <rect x="38" y="174" width="36" height="36" rx="6"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="110" y="34" width="36" height="36" rx="6"/>
     <rect x="182" y="174" width="36" height="36" rx="6"/>
     <rect x="38" y="174" width="36" height="36" rx="6"/>
-    <path d="M137.26 70 L190.74 174"/>
+    <path d="M137 70 L191 174"/>
     <path d="M182 192 L74 192"/>
-    <path d="M65.26 174 L118.74 70"/>
-    <path d="M48 48 L168 168"/>
+    <path d="M65 174 L119 70"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

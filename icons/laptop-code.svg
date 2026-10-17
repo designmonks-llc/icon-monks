@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="coding,developer,programming">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="52" y="56" width="152" height="112" rx="12"/>
+    <rect x="55" y="59" width="146" height="107" rx="12"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="52" y="56" width="152" height="112" rx="12"/>
-    <path d="M28 196 L228 196"/>
+    <rect x="55" y="59" width="146" height="107" rx="12"/>
+    <path d="M32 193 L224 193"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M108 88 L84 112 L108 136"/>
-    <path d="M148 88 L172 112 L148 136"/>
+    <path d="M109 90 L86 113 L109 136"/>
+    <path d="M147 90 L170 113 L147 136"/>
   </g>
 </svg>

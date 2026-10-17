@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="highlighter,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M163 41 A12 12 0 0 1 180 41 L211 72 A12 12 0 0 1 211 89 L147 153 A4 4 0 0 1 146 154 L119 165 A4 4 0 0 0 118 166 L109 174 A4 4 0 0 1 104 175 L67 162 A4 4 0 0 1 66 155 L86 134 A4 4 0 0 0 87 133 L98 106 A4 4 0 0 1 99 105 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124.59 79.33 L171.84 32.08 L219.92 80.16 L172.9 127.18"/>
-    <path d="M119.04 164.64 L118.1 165.01 L106.79 176.33 L61.53 159.36 L86.99 133.9 L87.36 132.96"/>
-    <path d="M128 216 L170.5 216"/>
+    <path d="M163 41 A12 12 0 0 1 180 41 L211 72 A12 12 0 0 1 211 89 L147 153 A4 4 0 0 1 146 154 L119 165 A4 4 0 0 0 118 166 L109 174 A4 4 0 0 1 104 175 L67 162 A4 4 0 0 1 66 155 L86 134 A4 4 0 0 0 87 133 L98 106 A4 4 0 0 1 99 105 Z"/>
+    <path d="M128 216 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129 74 L178 123"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

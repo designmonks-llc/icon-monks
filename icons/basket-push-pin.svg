@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="basket,pinned,pin,shopping,cart">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 104 L208 104 L204.29 123.3 A64 64 0 0 0 124.67 208 L68 208 Z"/>
-    <path d="M200.25 146.03 L217.86 160.8 L209.01 166.23 L198.46 178.81 L197.12 203.4 L161.9 173.85 L185.88 168.26 L196.43 155.68 Z"/>
+    <path d="M48 104 L208 104 L204 123 A64 64 0 0 0 125 208 L68 208 Z"/>
+    <path d="M200 146 L218 161 L209 166 L198 179 L197 203 L162 174 L186 168 L196 156 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124.67 208 L68 208 L48 104"/>
-    <path d="M208 104 L204.29 123.3"/>
+    <path d="M125 208 L68 208 L48 104"/>
+    <path d="M208 104 L204 123"/>
     <path d="M32 104 L224 104"/>
     <path d="M72 104 A56 56 0 0 1 184 104"/>
-    <path d="M200.25 146.03 L217.86 160.8 L209.01 166.23 L198.46 178.81 L197.12 203.4 L161.9 173.85 L185.88 168.26 L196.43 155.68 Z"/>
-    <path d="M179.51 188.63 L160.51 211.26"/>
+    <path d="M200 146 L218 161 L209 166 L198 179 L197 203 L162 174 L186 168 L196 156 Z"/>
+    <path d="M180 189 L161 211"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M104 136 L108 176"/>

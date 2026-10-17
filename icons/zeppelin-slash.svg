@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="zeppelin,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="136" cy="104" rx="88" ry="48"/>
+    <path d="M112 152 V176 A8 8 0 0 0 120 184 H152 A8 8 0 0 0 160 176 V152 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="136" cy="104" rx="88" ry="48"/>
     <path d="M72 72 L40 48 V96"/>
     <path d="M72 136 L40 160 V112"/>
     <path d="M112 152 V176 A8 8 0 0 0 120 184 H152 A8 8 0 0 0 160 176 V152"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

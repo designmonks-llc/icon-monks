@@ -8,7 +8,7 @@
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 32 L128 224"/>
     <path d="M32 128 L224 128"/>
-    <path d="M60.12 60.12 A96 96 0 0 1 60.12 195.88"/>
-    <path d="M195.88 60.12 A96 96 0 0 0 195.88 195.88"/>
+    <path d="M60 60 A96 96 0 0 1 60 196"/>
+    <path d="M196 60 A96 96 0 0 0 196 196"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="3d gizmo,transform,axes,manipulator">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 148 L128 40"/>
-    <path d="M147.8 59.8 L128 40 L108.2 59.8"/>
-    <path d="M128 148 L211.14 196"/>
-    <path d="M184.09 203.25 L211.14 196 L203.89 168.95"/>
-    <path d="M128 148 L44.86 196"/>
-    <path d="M52.11 168.95 L44.86 196 L71.91 203.25"/>
+    <path d="M148 60 L128 40 L108 60"/>
+    <path d="M128 148 L211 196"/>
+    <path d="M184 203 L211 196 L204 169"/>
+    <path d="M128 148 L45 196"/>
+    <path d="M52 169 L45 196 L72 203"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="128" cy="148" r="20"/>

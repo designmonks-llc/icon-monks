@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="24 hours,all day,open 24/7,clock,open">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M189.71 54.46 A96 96 0 1 1 95.17 37.79"/>
-    <path d="M81.64 66.79 L95.17 37.79 L66.16 24.27"/>
-    <path d="M72 120 A17 17 0 0 1 106 120 C106 138 72 146 72 164 H106"/>
-    <path d="M170 164 L170 104 L138 148 L184 148"/>
+    <path d="M187 61 A92.33 92.33 0 1 1 96 45"/>
+    <path d="M83 73 L96 45 L69 32"/>
+    <path d="M74 124 A16.35 16.35 0 0 1 107 124 C106.85 141.47 74.15 149.16 74 166 H107"/>
+    <path d="M168 166 L168 109 L138 151 L182 151"/>
   </g>
 </svg>

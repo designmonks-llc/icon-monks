@@ -5,13 +5,13 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="86" r="20"/>
     <path d="M168 86 L178 86"/>
-    <path d="M156.28 114.28 L163.36 121.36"/>
+    <path d="M156 114 L163 121"/>
     <path d="M128 126 L128 136"/>
-    <path d="M99.72 114.28 L92.64 121.36"/>
+    <path d="M100 114 L93 121"/>
     <path d="M88 86 L78 86"/>
-    <path d="M99.72 57.72 L92.64 50.64"/>
+    <path d="M100 58 L93 51"/>
     <path d="M128 46 L128 36"/>
-    <path d="M156.28 57.72 L163.36 50.64"/>
+    <path d="M156 58 L163 51"/>
     <path d="M56 164 V190 A28 28 0 0 0 112 190 V164"/>
     <path d="M144 164 L172 218 L200 164"/>
   </g>

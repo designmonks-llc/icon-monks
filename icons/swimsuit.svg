@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="swimsuit,bathing suit,beach,clothing">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M76 92 C100 120 156 120 180 92 C184 116 168 136 168 156 C168 172 184 180 184 192 C160 192 148 204 144 216 H112 C108 204 96 192 72 192 C72 180 88 172 88 156 C88 136 72 116 76 92 Z"/>
+    <path d="M76 92 C88 106 108 113 128 113 C148 113 168 106 180 92 C184 116 168 136 168 156 C168 172 184 180 184 192 C160 192 148 204 144 216 H112 C108 204 96 192 72 192 C72 180 88 172 88 156 C88 136 72 116 76 92 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M76 92 C100 120 156 120 180 92 C184 116 168 136 168 156 C168 172 184 180 184 192 C160 192 148 204 144 216 H112 C108 204 96 192 72 192 C72 180 88 172 88 156 C88 136 72 116 76 92 Z"/>
+    <path d="M76 92 C88 106 108 113 128 113 C148 113 168 106 180 92 C184 116 168 136 168 156 C168 172 184 180 184 192 C160 192 148 204 144 216 H112 C108 204 96 192 72 192 C72 180 88 172 88 156 C88 136 72 116 76 92 Z"/>
     <path d="M84 40 L84 100"/>
     <path d="M172 40 L172 100"/>
   </g>

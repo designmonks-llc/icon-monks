@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="flask,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M70 152 L44 192 C41.86 195.22 41 198.02 41 201 C41 209.15 48.29 216 60 216 H196 C207.71 216 215 209.15 215 201 C215 198.02 214.14 195.22 212 192 L186 152 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M85.67 128.1 L44 192 C36 204 44 216 60 216 L173.57 216"/>
-    <path d="M169.95 127.52 L152 100 L152 40"/>
+    <path d="M104 40 V100 L44 192 C41.86 195.22 41 198.02 41 201 C41 209.15 48.29 216 60 216 H196 C207.71 216 215 209.15 215 201 C215 198.02 214.14 195.22 212 192 L152 100 V40"/>
     <path d="M88 40 L168 40"/>
-    <path d="M70.09 152 L109.57 152"/>
+    <path d="M70 152 L186 152"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

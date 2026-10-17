@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="add printer,printer,new device,plus">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128.13 184 L48 184 A16 16 0 0 1 32 168 L32 104 A16 16 0 0 1 48 88 L208 88 A16 16 0 0 1 224 104 L224 140 A60 60 0 0 0 128.13 184 Z"/>
+    <path d="M128 184 L48 184 A16 16 0 0 1 32 168 L32 104 A16 16 0 0 1 48 88 L208 88 A16 16 0 0 1 224 104 L224 140 A60 60 0 0 0 128 184 Z"/>
     <rect x="72" y="40" width="112" height="48"/>
-    <path d="M134.93 216 L76 216 A4 4 0 0 1 72 212 L72 148 A4 4 0 0 1 76 144 L147.21 144 A60 60 0 0 0 134.93 216 Z"/>
+    <path d="M135 216 L76 216 A4 4 0 0 1 72 212 L72 148 A4 4 0 0 1 76 144 L147 144 A60 60 0 0 0 135 216 Z"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M131.43 208 L80 208 L80 152 L140 152 A60 60 0 0 0 131.43 208 Z"/>
+    <path d="M131 208 L80 208 L80 152 L140 152 A60 60 0 0 0 131 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M72 184 H48 A16 16 0 0 1 32 168 V104 A16 16 0 0 1 48 88 H208 A16 16 0 0 1 224 104 V140"/>
     <path d="M72 88 V40 H184 V88"/>
-    <path d="M134.93 216 L76 216 A4 4 0 0 1 72 212 L72 148 A4 4 0 0 1 76 144 L147.21 144"/>
+    <path d="M135 216 L76 216 A4 4 0 0 1 72 212 L72 148 A4 4 0 0 1 76 144 L147 144"/>
     <path d="M160 188 L216 188"/>
     <path d="M188 160 L188 216"/>
   </g>

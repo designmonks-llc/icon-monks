@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="croissant,bakery,pastry,breakfast">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M45.43 190.57 A92 92 0 1 1 210.57 190.57 A84 84 0 0 0 45.43 190.57 Z"/>
+    <path d="M45 191 A92 92 0 1 1 211 191 A84 84 0 0 0 45 191 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M45.43 190.57 A92 92 0 1 1 210.57 190.57 A84 84 0 0 0 45.43 190.57 Z"/>
+    <path d="M45 191 A92 92 0 1 1 211 191 A84 84 0 0 0 45 191 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88.06 132.1 L64.37 83.55"/>
-    <path d="M167.94 132.1 L191.63 83.55"/>
+    <path d="M88 132 L64 84"/>
+    <path d="M168 132 L192 84"/>
   </g>
 </svg>

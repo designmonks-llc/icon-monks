@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="3d vectors,axes,coordinates">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 152 L128 48"/>
-    <path d="M105.37 70.63 L128 48 L150.63 70.63"/>
-    <path d="M128 152 L218.07 204"/>
-    <path d="M209.78 173.09 L218.07 204 L187.16 212.28"/>
-    <path d="M128 152 L37.93 204"/>
-    <path d="M68.84 212.28 L37.93 204 L46.22 173.09"/>
+    <path d="M105 71 L128 48 L151 71"/>
+    <path d="M128 152 L218 204"/>
+    <path d="M210 173 L218 204 L187 212"/>
+    <path d="M128 152 L38 204"/>
+    <path d="M69 212 L38 204 L46 173"/>
   </g>
 </svg>

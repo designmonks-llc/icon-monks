@@ -1,9 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="vaccine vial,off,disabled,hidden,vaccine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="84" y="32" width="88" height="36" rx="10"/>
+    <path d="M104 68 V80 C104 92 80 96 80 112 V208 A16 16 0 0 1 96 224 H160 A16 16 0 0 1 176 208 V112 C176 96 152 92 152 80 V68 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84.41 39.16 A10 10 0 0 1 94 32 L162 32 A10 10 0 0 1 172 42 L172 58 A10 10 0 0 1 162 68 L113.25 68"/>
-    <path d="M80 125.25 L80 208 A16 16 0 0 1 96 224 L160 224 A16 16 0 0 1 166.14 211.4"/>
-    <path d="M176 130.75 L176 112 C176 96 152 92 152 80 L152 68"/>
-    <path d="M108 184 L138.75 184"/>
+    <rect x="84" y="32" width="88" height="36" rx="10"/>
+    <path d="M104 68 V80 C104 92 80 96 80 112 V208 A16 16 0 0 1 96 224 H160 A16 16 0 0 1 176 208 V112 C176 96 152 92 152 80 V68"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 148 L148 148"/>
+    <path d="M108 184 L148 184"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

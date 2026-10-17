@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Light.LineVertical: ImageVector
-    get() = cache ?: iconMonksVector("LineVerticalLight", "M132.24 27.76Q131.4 26.91 130.3 26.46Q129.19 26 128 26Q126.81 26 125.7 26.46Q124.6 26.91 123.76 27.76Q122.91 28.6 122.46 29.7Q122 30.81 122 32V224Q122 225.19 122.46 226.3Q122.91 227.4 123.76 228.24Q124.6 229.09 125.7 229.54Q126.81 230 128 230Q129.19 230 130.3 229.54Q131.4 229.09 132.24 228.24Q133.09 227.4 133.54 226.3Q134 225.19 134 224V32Q134 30.81 133.54 29.7Q133.09 28.6 132.24 27.76Z").also { cache = it }
+    get() = cache ?: iconMonksVector("LineVerticalLight", "M132.24 27.76A6 6 0 0 0 122 32V224A6 6 0 0 0 133.54 226.3A6 6 0 0 0 134 224V32A6 6 0 0 0 132.24 27.76Z").also { cache = it }

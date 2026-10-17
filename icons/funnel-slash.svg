@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="filter off,clear filter,funnel,remove,no filter">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 48 H224 L152 136 V200 L104 224 V136 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M90.43 48 L224 48 L163.89 121.47"/>
-    <path d="M152 194.43 L152 200 L104 224 L104 146.43"/>
+    <path d="M32 48 H224 L152 136 V200 L104 224 V136 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="cricket,bat,ball,wicket,sport">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M185.13 101.98 L93.21 193.91 A10 10 0 0 1 79.06 193.91 L62.09 176.94 A10 10 0 0 1 62.09 162.79 L154.02 70.87 Z"/>
+    <path d="M185 102 L93 194 A10 10 0 0 1 79 194 L62 177 A10 10 0 0 1 62 163 L154 71 Z"/>
     <circle cx="188" cy="188" r="24"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M185.13 101.98 L93.21 193.91 A10 10 0 0 1 79.06 193.91 L62.09 176.94 A10 10 0 0 1 62.09 162.79 L154.02 70.87 Z"/>
-    <path d="M212 44 L169.57 86.43"/>
+    <path d="M185 102 L93 194 A10 10 0 0 1 79 194 L62 177 A10 10 0 0 1 62 163 L154 71 Z"/>
+    <path d="M212 44 L170 86"/>
     <circle cx="188" cy="188" r="24"/>
   </g>
 </svg>

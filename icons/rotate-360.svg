@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="360,panorama,rotate,view">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M87.43 186 A96 64 0 1 1 168.57 186"/>
-    <path d="M208.63 207.06 L168.57 186 L189.63 145.95"/>
+    <path d="M87 186 A96 64 0 1 1 169 186"/>
+    <path d="M209 207 L169 186 L190 146"/>
   </g>
 </svg>

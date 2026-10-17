@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="brush,paint,art,draw,style">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 88.4 L167.6 128 L113.86 181.74 C91.23 204.37 71.43 207.2 48.8 201.54 C45.98 176.08 57.29 159.11 74.26 142.14 Z"/>
+    <path d="M128 88 L168 128 L114 182 C97.65 198.35 82.52 204 67 204 C61.04 204 55.28 203.57 49 202 C46.18 176.54 57.03 158.97 74 142 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M187.4 45.98 A16 16 0 0 1 210.02 68.6 L159.11 119.51 L136.49 96.89 Z"/>
-    <path d="M128 88.4 L167.6 128 L113.86 181.74 C91.23 204.37 71.43 207.2 48.8 201.54 C45.98 176.08 57.29 159.11 74.26 142.14 Z"/>
+    <path d="M187 46 A16 16 0 0 1 210 69 L159 120 L136 97 Z"/>
+    <path d="M128 88 L168 128 L114 182 C97.65 198.35 82.52 204 67 204 C61.04 204 55.28 203.57 49 202 C46.18 176.54 57.03 158.97 74 142 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M99.72 116.69 L139.31 156.28"/>
+    <path d="M100 117 L139 156"/>
   </g>
 </svg>

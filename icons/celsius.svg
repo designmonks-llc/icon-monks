@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="celsius,temperature,degrees,metric">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="60" cy="76" r="20"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="60" cy="76" r="20"/>
-    <path d="M210.82 88.44 A64 64 0 1 0 210.82 183.56"/>
+    <path d="M211 88 A64 64 0 1 0 211 184"/>
   </g>
 </svg>

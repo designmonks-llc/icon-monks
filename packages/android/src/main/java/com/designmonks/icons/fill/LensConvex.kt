@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.LensConvex: ImageVector
-    get() = cache ?: iconMonksVector("LensConvexFill", "M123.63 25.3Q97.6 42.28 82.8 69.6Q68 96.93 68 128Q68 159.07 82.8 186.4Q97.6 213.72 123.63 230.7Q125.62 232 128 232Q130.38 232 132.37 230.7Q158.4 213.72 173.2 186.4Q188 159.07 188 128Q188 96.93 173.2 69.6Q158.4 42.28 132.37 25.3Q130.38 24 128 24Q125.62 24 123.63 25.3Z").also { cache = it }
+    get() = cache ?: iconMonksVector("LensConvexFill", "M123.63 25.3A122.62 122.62 0 0 0 123.63 230.7A8 8 0 0 0 132.37 230.7A122.62 122.62 0 0 0 132.37 25.3A8 8 0 0 0 123.63 25.3Z").also { cache = it }

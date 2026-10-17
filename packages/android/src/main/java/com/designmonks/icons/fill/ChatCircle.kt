@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.ChatCircle: ImageVector
-    get() = cache ?: iconMonksVector("ChatCircleFill", "M230.84 108.79Q225.27 72.57 197.61 48.53Q169.95 24.49 133.31 24.01Q96.67 23.53 68.4 46.84Q40.12 70.15 33.6 106.21Q27.38 140.6 43.76 171.06L32.27 213.93Q31.88 215.41 32.05 216.93Q32.24 218.51 33.01 219.9Q33.79 221.29 35.04 222.27Q36.28 223.26 37.81 223.7Q39.34 224.13 40.93 223.95L96.48 217.48Q129.51 230.12 163.32 218.97Q198.12 207.49 217.27 176.25Q236.41 145 230.84 108.79Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ChatCircleFill", "M229.84 107.71A100 100 0 0 0 32.62 107.45Q26.77 141.87 43.44 172.13L32.26 214.98A8 8 0 0 0 40.96 224.94L97.01 218.18A99.96 99.96 0 0 0 217.17 175.3A100 100 0 0 0 229.84 107.71Z").also { cache = it }

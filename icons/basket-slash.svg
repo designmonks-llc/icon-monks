@@ -1,8 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="basket,disabled,off,shopping,cart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 104 L208 104 L188 208 L68 208 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 104 L68 208 L188 208 L208 104"/>
     <path d="M32 104 L224 104"/>
     <path d="M72 104 A56 56 0 0 1 184 104"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 136 L108 176"/>
+    <path d="M152 136 L148 176"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

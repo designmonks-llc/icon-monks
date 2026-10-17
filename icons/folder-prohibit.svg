@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="blocked,forbidden,folder,denied,blocked folder">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M122.52 208 L48 208 A16 16 0 0 1 32 192 L32 72 A16 16 0 0 1 48 56 L96 56 L120 80 L208 80 A16 16 0 0 1 224 96 L224 131.5 A66 66 0 0 0 122.52 208 Z"/>
+    <path d="M123 208 L48 208 A16 16 0 0 1 32 192 L32 72 A16 16 0 0 1 48 56 L96 56 L120 80 L208 80 A16 16 0 0 1 224 96 L224 132 A66 66 0 0 0 123 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M122.52 208 L48 208 A16 16 0 0 1 32 192 L32 72 A16 16 0 0 1 48 56 L96 56 L120 80 L208 80 A16 16 0 0 1 224 96 L224 131.5"/>
+    <path d="M123 208 L48 208 A16 16 0 0 1 32 192 L32 72 A16 16 0 0 1 48 56 L96 56 L120 80 L208 80 A16 16 0 0 1 224 96 L224 132"/>
     <circle cx="184" cy="184" r="30"/>
-    <path d="M162.79 162.79 L205.21 205.21"/>
+    <path d="M163 163 L205 205"/>
   </g>
 </svg>

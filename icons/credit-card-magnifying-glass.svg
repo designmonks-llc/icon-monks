@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="card,search,find payment,credit card">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M232 136.67 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H121.97 A66 66 0 0 1 232 136.67 Z"/>
-    <circle cx="178" cy="176" r="26"/>
+    <path d="M224 137 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H122 A61 61 0 0 1 224 137 Z"/>
+    <circle cx="174" cy="173" r="24"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M232 136.67 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H121.97"/>
-    <circle cx="178" cy="176" r="26"/>
-    <path d="M197 195 L218 216"/>
+    <path d="M224 137 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H122"/>
+    <circle cx="174" cy="173" r="24"/>
+    <path d="M192 190 L211 210"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 104 L232 104"/>
-    <path d="M56 160 L96 160"/>
+    <path d="M32 106 L224 106"/>
+    <path d="M62 158 L98 158"/>
   </g>
 </svg>

@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="scissors,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="184" r="32"/>
+    <circle cx="180" cy="184" r="32"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="76" cy="184" r="32"/>
     <circle cx="180" cy="184" r="32"/>
-    <path d="M95.2 158.4 L184 40"/>
-    <path d="M160.8 158.4 L72 40"/>
+    <path d="M95 158 L184 40"/>
+    <path d="M161 158 L72 40"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

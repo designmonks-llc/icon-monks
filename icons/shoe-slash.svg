@@ -1,7 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="shoe,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 64 C64 64 72 104 112 104 L160 112 C204 120 224 140 224 164 V168 A16 16 0 0 1 208 184 H40 Z"/>
+    <rect x="40" y="184" width="56" height="32" rx="8"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 64 C64 64 72 104 112 104 L160 112 C204 120 224 140 224 164 V168 A16 16 0 0 1 208 184 H40 Z"/>
     <path d="M40 184 V208 A8 8 0 0 0 48 216 H88 A8 8 0 0 0 96 208 V184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 136 L144 140"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

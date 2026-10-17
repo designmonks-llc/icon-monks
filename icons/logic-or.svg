@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="or gate,logic,circuit,boolean">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M72 64 C138 64 165.6 84 192 128 C165.6 172 138 192 72 192 Q116 128 72 64 Z"/>
+    <path d="M72 64 C138 64 165.6 84 192 128 C165.6 172 138 192 72 192 C86.67 170.67 94 149.33 94 128 C94 106.67 86.67 85.33 72 64 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M72 64 C138 64 165.6 84 192 128 C165.6 172 138 192 72 192 Q116 128 72 64 Z"/>
-    <path d="M32 96 L88.5 96"/>
-    <path d="M32 160 L88.5 160"/>
+    <path d="M72 64 C138 64 165.6 84 192 128 C165.6 172 138 192 72 192 C86.67 170.67 94 149.33 94 128 C94 106.67 86.67 85.33 72 64 Z"/>
+    <path d="M32 96 L88 96"/>
+    <path d="M32 160 L88 160"/>
     <path d="M192 128 L224 128"/>
   </g>
 </svg>

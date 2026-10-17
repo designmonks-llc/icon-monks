@@ -4,7 +4,7 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M97.46 169.5 A19 19 0 0 0 62 179 V205 A19 19 0 0 0 100 205 V198.4 H82.9"/>
+    <path d="M97 170 A19 19 0 0 0 62 179 V205 A19 19 0 0 0 100 205 V198 H83"/>
     <path d="M132 160 L132 224"/>
     <path d="M194 160 L164 160 L164 224"/>
     <path d="M164 192 L188 192"/>

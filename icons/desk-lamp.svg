@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="desk lamp,reading light,study,lamp,table lamp">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M145.11 50.82 L214.26 90.3 L132.34 147.66 L118.89 69.18 Z"/>
+    <path d="M145 51 L214 90 L132 148 L119 69 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 216 L136 216"/>
     <path d="M88 208 L48 128 L132 60"/>
-    <path d="M145.11 50.82 L214.26 90.3 L132.34 147.66 L118.89 69.18 Z"/>
+    <path d="M145 51 L214 90 L132 148 L119 69 Z"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="48" cy="128" r="14"/>

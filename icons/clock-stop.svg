@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock,stop,halt,time,hour">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M133.9 223.82 A96 96 0 1 1 224 128 A96 96 0 0 1 223.82 133.9 A64 64 0 0 0 133.9 223.82 Z"/>
+    <path d="M134 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 134 A64 64 0 0 0 134 224 Z"/>
     <rect x="160" y="160" width="48" height="48" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133.9 223.82 A96 96 0 1 1 224 128 A96 96 0 0 1 223.82 133.9"/>
+    <path d="M134 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 134"/>
     <rect x="160" y="160" width="48" height="48" rx="8"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

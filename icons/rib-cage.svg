@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="ribs,chest,skeleton,anatomy">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 40 L128 216"/>
-    <path d="M128 64 C96 52 48 60 48 96"/>
-    <path d="M128 64 C160 52 208 60 208 96"/>
-    <path d="M128 112 C96 100 48 108 48 144"/>
-    <path d="M128 112 C160 100 208 108 208 144"/>
-    <path d="M128 160 C96 148 48 156 48 192"/>
-    <path d="M128 160 C160 148 208 156 208 192"/>
+    <path d="M128 64 C118.92 60.59 108.2 59 98 59 C72.27 59 48 70.22 48 96"/>
+    <path d="M128 64 C137.08 60.59 147.8 59 158 59 C183.73 59 208 70.22 208 96"/>
+    <path d="M128 112 C118.92 108.59 108.2 107 98 107 C72.27 107 48 118.22 48 144"/>
+    <path d="M128 112 C137.08 108.59 147.8 107 158 107 C183.73 107 208 118.22 208 144"/>
+    <path d="M128 160 C118.92 156.59 108.2 155 98 155 C72.27 155 48 166.22 48 192"/>
+    <path d="M128 160 C137.08 156.59 147.8 155 158 155 C183.73 155 208 166.22 208 192"/>
   </g>
 </svg>

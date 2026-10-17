@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="percent,discount,square,rate">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M168 88 L88 168"/>
-    <circle cx="96" cy="96" r="14"/>
-    <circle cx="160" cy="160" r="14"/>
+    <path d="M165 91 L91 165"/>
+    <circle cx="99" cy="99" r="13"/>
+    <circle cx="157" cy="157" r="13"/>
   </g>
 </svg>

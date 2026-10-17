@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="colors,paint,art,theme,design">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 32 A96 96 0 0 0 128 224 C152 224 160 208 152 192 C144 176 152 160 172 160 H192 A32 32 0 0 0 224 128 A96 96 0 0 0 128 32 Z"/>
+    <path d="M128 32 A96 96 0 0 0 128 224 C146 224 155 215.25 155 204 C155 200.25 154 196 152 192 C149.93 187.87 149 183.86 149 180 C149 168.93 157.17 160 172 160 H192 A32 32 0 0 0 224 128 A96 96 0 0 0 128 32 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 32 A96 96 0 0 0 128 224 C152 224 160 208 152 192 C144 176 152 160 172 160 H192 A32 32 0 0 0 224 128 A96 96 0 0 0 128 32 Z"/>
+    <path d="M128 32 A96 96 0 0 0 128 224 C146 224 155 215.25 155 204 C155 200.25 154 196 152 192 C149.93 187.87 149 183.86 149 180 C149 168.93 157.17 160 172 160 H192 A32 32 0 0 0 224 128 A96 96 0 0 0 128 32 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="84" cy="112" r="16"/>

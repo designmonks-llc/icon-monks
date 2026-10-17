@@ -1,10 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="artboard,disabled,off,design">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="72" width="112" height="112" rx="8"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="72" y="72" width="112" height="112" rx="8"/>
+    <path d="M72 32 L72 48"/>
+    <path d="M32 72 L48 72"/>
     <path d="M184 32 L184 48"/>
     <path d="M208 72 L224 72"/>
     <path d="M72 208 L72 224"/>
     <path d="M32 184 L48 184"/>
+    <path d="M184 208 L184 224"/>
+    <path d="M208 184 L224 184"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

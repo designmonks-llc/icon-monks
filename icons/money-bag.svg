@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money bag,savings,wealth,cash,sack">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M104 84.12 L80 40 H176 L152 84.12 A72 72 0 1 1 104 84.12 Z"/>
+    <path d="M104 84 L80 40 H176 L152 84 A72 72 0 1 1 104 84 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M104 84.12 L80 40 H176 L152 84.12 A72 72 0 1 1 104 84.12 Z"/>
-    <path d="M92 84.12 L164 84.12"/>
+    <path d="M104 84 L80 40 H176 L152 84 A72 72 0 1 1 104 84 Z"/>
+    <path d="M92 84 L164 84"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 112 L128 200"/>

@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="regex,off,disabled,hidden">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M156 121.6 L156 40"/>
-    <path d="M207.96 130 L104.04 70"/>
-    <path d="M142.49 107.8 L207.96 70"/>
-    <path d="M48 48 L208 208"/>
+    <path d="M156 160 L156 40"/>
+    <path d="M208 130 L104 70"/>
+    <path d="M104 130 L208 70"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="68" cy="188" r="28"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

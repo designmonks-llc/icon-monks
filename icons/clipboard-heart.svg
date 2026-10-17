@@ -10,6 +10,6 @@
     <rect x="88" y="32" width="80" height="40" rx="10"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 169.14 C128 169.14 87.68 147.3 87.68 121.26 A21 21 0 0 1 128 112.86 A21 21 0 0 1 168.32 121.26 C168.32 147.3 128 169.14 128 169.14 Z"/>
+    <path d="M128 169 C128 169 88 147.04 88 121 A21 21 0 0 1 128 113 A21 21 0 0 1 168 121 C168 147.04 128 169 128 169 Z"/>
   </g>
 </svg>

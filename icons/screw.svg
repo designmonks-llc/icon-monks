@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="screw,hardware,fastener,diy">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="68" y="32" width="120" height="36" rx="12"/>
-    <path d="M104 68 L152 68 Q156 68 156 72 L156 168 Q156 176 151.7 182.75 L131.22 214.94 Q128 220 124.78 214.94 L104.3 182.75 Q100 176 100 168 L100 72 Q100 68 104 68 Z"/>
+    <path d="M104 68 L152 68 Q156 68 156 72 L156 168 Q156.15 176.12 152 183 L131 215 C130 216.69 129 218 128 218 C127 218 126 216.69 125 215 L104 183 Q99.85 176.12 100 168 L100 72 Q100 68 104 68 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="68" y="32" width="120" height="36" rx="12"/>
-    <path d="M104 68 L152 68 Q156 68 156 72 L156 168 Q156 176 151.7 182.75 L131.22 214.94 Q128 220 124.78 214.94 L104.3 182.75 Q100 176 100 168 L100 72 Q100 68 104 68 Z"/>
+    <path d="M104 68 L152 68 Q156 68 156 72 L156 168 Q156.15 176.12 152 183 L131 215 C130 216.69 129 218 128 218 C127 218 126 216.69 125 215 L104 183 Q99.85 176.12 100 168 L100 72 Q100 68 104 68 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M100 112 L156 96"/>

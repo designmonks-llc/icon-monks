@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="pencil,pin,pinned">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M34 200 L48.72 148.48 L151.76 45.44 L188.56 82.24 L85.52 185.28 Z"/>
-    <path d="M200.25 146.03 L217.86 160.8 L209.01 166.23 L198.46 178.81 L197.12 203.4 L161.9 173.85 L185.88 168.26 L196.43 155.68 Z"/>
+    <path d="M34 200 L49 148 L152 45 L189 82 L86 185 Z"/>
+    <path d="M200 146 L218 161 L209 166 L198 179 L197 203 L162 174 L186 168 L196 156 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M34 200 L48.72 148.48 L151.76 45.44 L188.56 82.24 L85.52 185.28 Z"/>
-    <path d="M200.25 146.03 L217.86 160.8 L209.01 166.23 L198.46 178.81 L197.12 203.4 L161.9 173.85 L185.88 168.26 L196.43 155.68 Z"/>
-    <path d="M179.51 188.63 L160.51 211.26"/>
+    <path d="M34 200 L49 148 L152 45 L189 82 L86 185 Z"/>
+    <path d="M200 146 L218 161 L209 166 L198 179 L197 203 L162 174 L186 168 L196 156 Z"/>
+    <path d="M180 189 L161 211"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126 71.2 L162.8 108"/>
+    <path d="M126 71 L163 108"/>
   </g>
 </svg>

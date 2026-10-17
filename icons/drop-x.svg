@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="drop,remove,cancel,water,liquid">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M165.43 133.3 C156.21 97.78 124.35 59.14 104 32 C80 64 40 112 40 152 A64 64 0 0 0 135.49 207.72 A54 54 0 0 1 165.43 133.3 Z"/>
+    <path d="M165 133 C155.78 97.48 124.35 59.14 104 32 C80 64 40 112 40 152 A64 64 0 0 0 135 208 A54 54 0 0 1 165 133 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M165.43 133.3 C156.21 97.78 124.35 59.14 104 32 C80 64 40 112 40 152 A64 64 0 0 0 135.49 207.72"/>
+    <path d="M165 133 C155.78 97.48 124.35 59.14 104 32 C80 64 40 112 40 152 A64 64 0 0 0 135 208"/>
     <path d="M164 164 L204 204"/>
     <path d="M204 164 L164 204"/>
   </g>

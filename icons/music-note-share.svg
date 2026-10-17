@@ -5,7 +5,7 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="88" cy="184" r="32"/>
     <path d="M120 184 L120 40"/>
-    <path d="M120 40 C152 48 192 64 184 112"/>
+    <path d="M120 40 C149.19 47.3 185 61.17 185 100 C185 103.74 184.7 107.78 184 112"/>
     <path d="M164 216 V200 A24 24 0 0 1 188 176 H212"/>
     <path d="M196 160 L212 176 L196 192"/>
   </g>

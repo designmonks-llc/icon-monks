@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="explosion,blast,boom,burst,bang">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 34 L146.37 85.65 L190.67 79.25 L170.57 112.37 L220.16 130 L174.12 149.1 L176.33 189.68 L144.9 170.8 L128 224.08 L109.63 174.35 L63.84 181.96 L85.43 147.63 L39.68 130 L81.88 110.9 L78.46 68.82 L111.1 89.2 Z"/>
+    <path d="M128 34 L146 86 L191 79 L171 112 L220 130 L174 149 L176 190 L145 171 L128 224 L110 174 L64 182 L85 148 L40 130 L82 111 L78 69 L111 89 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 34 L146.37 85.65 L190.67 79.25 L170.57 112.37 L220.16 130 L174.12 149.1 L176.33 189.68 L144.9 170.8 L128 224.08 L109.63 174.35 L63.84 181.96 L85.43 147.63 L39.68 130 L81.88 110.9 L78.46 68.82 L111.1 89.2 Z"/>
+    <path d="M128 34 L146 86 L191 79 L171 112 L220 130 L174 149 L176 190 L145 171 L128 224 L110 174 L64 182 L85 148 L40 130 L82 111 L78 69 L111 89 Z"/>
   </g>
 </svg>

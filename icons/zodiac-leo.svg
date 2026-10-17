@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="leo,zodiac,astrology,horoscope">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="156" r="32"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="76" cy="156" r="32"/>
-    <path d="M108 156 V96 A44 44 0 0 1 196 96 C196 140 164 160 172 196 Q178 216 208 204"/>
+    <path d="M108 156 V96 A44 44 0 0 1 196 96 C196 135.11 171 155.72 171 185 C171 188.66 171.11 192 172 196 C174.5 204.33 180.25 208 189 208 C194.25 208 200.5 207 208 204"/>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music note,fast,power,instant,music">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="88" cy="184" r="32"/>
-    <path d="M196 159.2 L172 191.2 L191.2 191.2 L181.6 216.8 L205.6 183.2 L186.4 183.2 Z"/>
+    <path d="M196 159 L172 191 L191 191 L182 217 L206 183 L186 183 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="88" cy="184" r="32"/>
     <path d="M120 184 L120 40"/>
-    <path d="M120 40 C152 48 192 64 184 112"/>
-    <path d="M196 159.2 L172 191.2 L191.2 191.2 L181.6 216.8 L205.6 183.2 L186.4 183.2 Z"/>
+    <path d="M120 40 C149.19 47.3 185 61.17 185 100 C185 103.74 184.7 107.78 184 112"/>
+    <path d="M196 159 L172 191 L191 191 L182 217 L206 183 L186 183 Z"/>
   </g>
 </svg>

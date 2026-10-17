@@ -6,8 +6,8 @@
     <rect x="32" y="64" width="192" height="136" rx="14"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M108 168 L134.87 158.1 L184.37 108.6 L167.4 91.63 L117.9 141.13 Z"/>
-    <path d="M117.9 141.13 L134.87 158.1"/>
+    <path d="M108 168 L135 158 L184 109 L167 92 L118 141 Z"/>
+    <path d="M118 141 L135 158"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="64" cy="112" r="12"/>

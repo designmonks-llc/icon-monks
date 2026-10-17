@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.Heptagon: ImageVector
-    get() = cache ?: iconMonksVector("HeptagonFill", "M47.91 64.69Q44.44 66.36 43.58 70.12L24.66 153.03Q23.8 156.79 26.21 159.8L79.23 226.28Q81.63 229.29 85.48 229.29H170.52Q174.37 229.29 176.77 226.28L229.79 159.8Q232.2 156.79 231.34 153.03L212.42 70.12Q211.56 66.36 208.09 64.69L131.47 27.79Q128 26.12 124.53 27.79L47.91 64.69Z").also { cache = it }
+    get() = cache ?: iconMonksVector("HeptagonFill", "M47.54 64.79A8 8 0 0 0 43.2 70.21L24.2 153.21A8 8 0 0 0 25.76 160.01L78.76 226.01A8 8 0 0 0 85 229H171A8 8 0 0 0 177.24 226.01L230.24 160.01A8 8 0 0 0 231.8 153.21L212.8 70.21A8 8 0 0 0 208.46 64.79L131.46 27.79A8 8 0 0 0 124.54 27.79L47.54 64.79Z").also { cache = it }

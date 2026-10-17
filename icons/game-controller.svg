@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="gaming,gamepad,console,play">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 72 H172 C204 72 216 96 220 128 L224 168 C226 192 200 204 184 188 L160 164 H96 L72 188 C56 204 30 192 32 168 L36 128 C40 96 52 72 84 72 Z"/>
+    <path d="M84 72 H172 C204 72 216 96 220 128 L224 168 C225.37 184.47 213.72 195 201 195 C195.18 195 189.02 193.02 184 188 L160 164 H96 L72 188 C66.98 193.02 60.82 195 55 195 C42.28 195 30.63 184.47 32 168 L36 128 C40 96 52 72 84 72 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 72 H172 C204 72 216 96 220 128 L224 168 C226 192 200 204 184 188 L160 164 H96 L72 188 C56 204 30 192 32 168 L36 128 C40 96 52 72 84 72 Z"/>
+    <path d="M84 72 H172 C204 72 216 96 220 128 L224 168 C225.37 184.47 213.72 195 201 195 C195.18 195 189.02 193.02 184 188 L160 164 H96 L72 188 C66.98 193.02 60.82 195 55 195 C42.28 195 30.63 184.47 32 168 L36 128 C40 96 52 72 84 72 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M68 120 L100 120"/>

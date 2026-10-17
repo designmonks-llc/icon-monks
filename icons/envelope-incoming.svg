@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="received mail,inbox,incoming">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128.25 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 142 A58 58 0 0 0 128.25 200 Z"/>
+    <path d="M128 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 142 A58 58 0 0 0 128 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128.25 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 142"/>
+    <path d="M128 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 142"/>
     <path d="M206 162 L162 206"/>
     <path d="M162 178 L162 206 L190 206"/>
   </g>

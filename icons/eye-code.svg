@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="eye,developer,code,view,visible">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M124.25 178.57 C122.13 178.73 120.05 178.8 118 178.8 C89.2 178.8 53.2 164.4 24.4 114 C53.2 63.6 89.2 49.2 118 49.2 C146.8 49.2 182.8 63.6 211.6 114 C208.91 118.71 206.15 123.11 203.35 127.21 A60 60 0 0 0 124.25 178.57 Z"/>
+    <path d="M132 179 C130.13 178.73 128.05 178.8 126 179 C97.2 178.8 61.2 164.4 32 114 C61.2 63.6 97.2 49.2 126 49 C154.8 49.2 190.8 63.6 220 114 C216.91 118.71 214.15 123.11 211 127 A60 60 0 0 0 132 179 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124.25 178.57 C122.13 178.73 120.05 178.8 118 178.8 C89.2 178.8 53.2 164.4 24.4 114 C53.2 63.6 89.2 49.2 118 49.2 C146.8 49.2 182.8 63.6 211.6 114 C208.91 118.71 206.15 123.11 203.35 127.21"/>
-    <path d="M172 162 L154 184 L172 206"/>
-    <path d="M196 162 L214 184 L196 206"/>
+    <path d="M132 179 C130.13 178.73 128.05 178.8 126 179 C97.2 178.8 61.2 164.4 32 114 C61.2 63.6 97.2 49.2 126 49 C154.8 49.2 190.8 63.6 220 114 C216.91 118.71 214.15 123.11 211 127"/>
+    <path d="M180 162 L162 184 L180 206"/>
+    <path d="M204 162 L222 184 L204 206"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="118" cy="114" r="32"/>
+    <circle cx="126" cy="114" r="32"/>
   </g>
 </svg>

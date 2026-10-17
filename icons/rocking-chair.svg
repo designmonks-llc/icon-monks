@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="rocking chair,chair,relax,furniture">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 188 A176 176 0 0 0 216 188"/>
-    <path d="M60 40 L84 136 L176 136 L180 203.72"/>
-    <path d="M84 136 L80 204.91"/>
+    <path d="M60 40 L84 136 L176 136 L180 204"/>
+    <path d="M84 136 L80 205"/>
     <path d="M74 96 L160 96 L160 136"/>
   </g>
 </svg>

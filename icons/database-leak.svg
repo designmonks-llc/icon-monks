@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="database,leak,breach,storage,data">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M133.98 223.93 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 128.57 A64 64 0 0 0 133.98 223.93 Z"/>
-    <path d="M174 154 L191.59 186.48 A20 20 0 1 1 156.41 186.48 Z"/>
-    <path d="M214 184 L221.33 200.8 A8 8 0 1 1 206.67 200.8 Z"/>
+    <path d="M134 224 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 129 A64 64 0 0 0 134 224 Z"/>
+    <path d="M174 154 L192 186 A20 20 0 1 1 156 186 Z"/>
+    <path d="M214 184 L221 201 A8 8 0 1 1 207 201 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133.98 223.93 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 128.57"/>
-    <path d="M174 154 L191.59 186.48 A20 20 0 1 1 156.41 186.48 Z"/>
-    <path d="M214 184 L221.33 200.8 A8 8 0 1 1 206.67 200.8 Z"/>
+    <path d="M134 224 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 129"/>
+    <path d="M174 154 L192 186 A20 20 0 1 1 156 186 Z"/>
+    <path d="M214 184 L221 201 A8 8 0 1 1 207 201 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 64 A88 32 0 0 0 216 64"/>
-    <path d="M40 128 A88 32 0 0 0 124.68 159.98"/>
+    <path d="M40 128 A88 32 0 0 0 125 160"/>
   </g>
 </svg>

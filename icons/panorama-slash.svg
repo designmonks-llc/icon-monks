@@ -1,7 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="panorama,off,disabled,hidden,wide photo">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 64 C64 76 96 82 128 82 C160 82 192 76 224 64 V192 C192 180 160 174 128 174 C96 174 64 180 32 192 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 64 C96 88 160 88 224 64 V192 C160 168 96 168 32 192 Z"/>
+    <path d="M32 64 C64 76 96 82 128 82 C160 82 192 76 224 64 V192 C192 180 160 174 128 174 C96 174 64 180 32 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 180 L92 124 L128 160 L156 132 L208 182"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="184" cy="112" r="14"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

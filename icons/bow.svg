@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="bow,archery,arrow,hunting,target">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M59 67 A125.8 125.8 0 0 1 189 197 L96 160 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M58.95 66.95 A125.8 125.8 0 0 1 189.05 197.05 L95.72 160.28 Z"/>
-    <path d="M95.72 160.28 L191.88 64.12"/>
-    <path d="M152.28 64.12 L191.88 64.12 L191.88 103.72"/>
+    <path d="M59 67 A125.8 125.8 0 0 1 189 197 L96 160 Z"/>
+    <path d="M96 160 L192 64"/>
+    <path d="M152 64 L192 64 L192 104"/>
   </g>
 </svg>

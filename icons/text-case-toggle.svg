@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="toggle case,change case,text,typography">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="toggle case,change case,text,typography">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 136 L76 40 L112 136"/>
-    <path d="M50.5 108 L101.5 108"/>
+    <path d="M50 108 L102 108"/>
     <circle cx="176" cy="110" r="26"/>
     <path d="M202 84 L202 136"/>
     <path d="M48 196 L208 196"/>

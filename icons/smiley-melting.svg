@@ -6,7 +6,7 @@
     <path d="M52 128 A76 76 0 0 1 204 128 V148 C204 172 224 180 224 198 C224 210 216 216 206 216 H50 C38 216 32 210 32 202 C32 190 52 186 52 170 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M92 160 C112 176 140 176 164 164"/>
+    <path d="M92 160 C102.72 168.57 115.53 173 129 173 C140.66 173 152.86 169.57 164 164"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="100" cy="116" r="16"/>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="brush,shaving,barber,grooming">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 120 C76 72 100 36 128 36 C156 36 180 72 172 120 Z"/>
+    <path d="M84 120 C82.94 113.63 82 107.89 82 102 C82 63.5 103.72 36 128 36 C152.28 36 174 63.5 174 102 C174 107.89 173.06 113.63 172 120 Z"/>
     <path d="M96 120 C96 152 72 168 72 196 A20 20 0 0 0 92 216 H164 A20 20 0 0 0 184 196 C184 168 160 152 160 120 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 120 C76 72 100 36 128 36 C156 36 180 72 172 120 Z"/>
+    <path d="M84 120 C82.94 113.63 82 107.89 82 102 C82 63.5 103.72 36 128 36 C152.28 36 174 63.5 174 102 C174 107.89 173.06 113.63 172 120 Z"/>
     <path d="M96 120 C96 152 72 168 72 196 A20 20 0 0 0 92 216 H164 A20 20 0 0 0 184 196 C184 168 160 152 160 120 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

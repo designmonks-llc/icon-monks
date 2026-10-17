@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet latin,alphabet,script,language,latin">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 208 L80 48 L128 208"/>
-    <path d="M46.4 160 L113.6 160"/>
+    <path d="M46 160 L114 160"/>
     <path d="M156 112 L220 112 L156 208 L220 208"/>
   </g>
 </svg>

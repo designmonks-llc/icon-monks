@@ -1,7 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="no fire,no open flame,fire off,prohibited">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 224 C88 224 56 196 56 152 C56 104 100 84 112 32 C144 56 164 84 164 116 C176 108 184 96 186 84 C196 104 200 128 200 152 C200 196 168 224 128 224 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 224 C88 224 56 196 56 152 C56 104 100 84 112 32 C144 56 164 84 164 116 C176 108 184 96 186 84 C196 104 200 128 200 152 C200 196 168 224 128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M104 168 C104 148 120 136 128 116 C136 136 152 148 152 168 A24 24 0 0 1 104 168 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

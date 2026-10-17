@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="bell,remove,subtract,notification,alert">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M134 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 119.82 184.48 127.16 185.43 134.02 A50 50 0 0 0 134 184 Z"/>
+    <path d="M134 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 119.82 184.05 127.14 185 134 A50 50 0 0 0 134 184 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M134 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 119.82 184.48 127.16 185.43 134.02"/>
+    <path d="M134 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 119.82 184.05 127.14 185 134"/>
     <path d="M128 40 L128 56"/>
     <path d="M158 184 L210 184"/>
   </g>

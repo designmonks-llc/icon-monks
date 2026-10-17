@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="foggy night,fog,moon,mist,haze">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M 114.92 35.84 A 58.08 58.08 0 1 0 176.65 102.32 A 47.52 47.52 0 0 1 114.92 35.84 Z"/>
+    <path d="M115 36 A58.08 58.08 0 1 0 177 102 A47.52 47.52 0 0 1 115 36 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 114.92 35.84 A 58.08 58.08 0 1 0 176.65 102.32 A 47.52 47.52 0 0 1 114.92 35.84 Z"/>
+    <path d="M115 36 A58.08 58.08 0 1 0 177 102 A47.52 47.52 0 0 1 115 36 Z"/>
     <path d="M48 188 L208 188"/>
     <path d="M80 220 L176 220"/>
   </g>

@@ -1,7 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="ticket,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 64 H212 A12 12 0 0 1 224 76 V104 A24 24 0 0 0 224 152 V180 A12 12 0 0 1 212 192 H44 A12 12 0 0 1 32 180 V152 A24 24 0 0 0 32 104 V76 A12 12 0 0 1 44 64 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M44 64 H212 A12 12 0 0 1 224 76 V104 A24 24 0 0 0 224 152 V180 A12 12 0 0 1 212 192 H44 A12 12 0 0 1 32 180 V152 A24 24 0 0 0 32 104 V76 A12 12 0 0 1 44 64 Z"/>
-    <path d="M168 96 L168 128"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 96 L168 160"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -6,7 +6,7 @@
     <path d="M56 128 V32 H152 L200 80 V128"/>
     <path d="M39 160 L59 192 L79 160"/>
     <path d="M59 192 L59 224"/>
-    <path d="M111 224 L111 160 L133 198.4 L155 160 L155 224"/>
+    <path d="M111 224 L111 160 L133 198 L155 160 L155 224"/>
     <path d="M187 160 L187 224 L217 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

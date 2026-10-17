@@ -4,12 +4,12 @@
     <rect x="156" y="176" width="56" height="40" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M129.01 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139.28"/>
+    <path d="M129 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139"/>
     <path d="M96 48 L96 208"/>
     <rect x="156" y="176" width="56" height="40" rx="8"/>
     <path d="M168 176 V164 A16 16 0 0 1 200 164 V176"/>
     <path d="M96 96 L224 96"/>
-    <path d="M96 152 L128.57 152"/>
+    <path d="M96 152 L129 152"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 96 L96 96"/>

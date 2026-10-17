@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="thinking,pondering,hmm">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M42.4 171.45 A96 96 0 0 1 195.88 60.12 A96 96 0 0 1 152.68 220.77 Z"/>
-    <path d="M72 220 L112 220 A16 16 0 0 0 112 188 L72 188 A16 16 0 0 0 72 220 Z"/>
+    <path d="M50 168 A88 88 0 0 1 190 66 A88 88 0 0 1 151 213 Z"/>
+    <path d="M77 212 L113 212 A14.67 14.67 0 0 0 113 183 L77 183 A14.67 14.67 0 0 0 77 212 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M42.4 171.45 A96 96 0 0 1 195.88 60.12 A96 96 0 0 1 152.68 220.77"/>
-    <path d="M72 220 L112 220 A16 16 0 0 0 112 188 L72 188 A16 16 0 0 0 72 220 Z"/>
-    <path d="M128 192 L144 172"/>
+    <path d="M50 168 A88 88 0 0 1 190 66 A88 88 0 0 1 151 213"/>
+    <path d="M77 212 L113 212 A14.67 14.67 0 0 0 113 183 L77 183 A14.67 14.67 0 0 0 77 212 Z"/>
+    <path d="M128 187 L143 168"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M144 80 A20 20 0 0 1 180 84"/>
-    <path d="M124 148 L168 140"/>
+    <path d="M143 84 A18.34 18.34 0 0 1 176 88"/>
+    <path d="M124 146 L165 139"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="96" cy="108" r="16"/>
-    <circle cx="160" cy="112" r="16"/>
+    <circle cx="99" cy="110" r="16"/>
+    <circle cx="157" cy="113" r="16"/>
   </g>
 </svg>

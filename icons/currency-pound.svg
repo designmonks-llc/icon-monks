@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="pound sterling,gbp,uk money,pound,sterling">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M178.64 68 A40 40 0 0 0 104 88 V168 C104 192 88 208 64 208 H192"/>
+    <path d="M179 68 A40 40 0 0 0 104 88 V168 C104 192 88 208 64 208 H192"/>
     <path d="M64 136 L152 136"/>
   </g>
 </svg>

@@ -4,9 +4,9 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M35.8 224 L35.8 160 L57.8 198.4 L79.8 160 L79.8 224"/>
-    <rect x="111.78" y="160" width="38" height="64" rx="19"/>
-    <path d="M178.2 160 L199.2 224 L220.2 160"/>
+    <path d="M36 224 L36 160 L58 198 L80 160 L80 224"/>
+    <rect x="112" y="160" width="38" height="64" rx="19"/>
+    <path d="M178 160 L199 224 L220 160"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

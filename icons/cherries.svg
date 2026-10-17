@@ -2,13 +2,13 @@
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="76" cy="180" r="38"/>
     <circle cx="178" cy="172" r="38"/>
-    <path d="M152 52 C164 32 196 28 216 40 C204 60 176 64 152 52 Z"/>
+    <path d="M152 52 C159.5 39.5 174.69 33 190 33 C199.19 33 208.5 35.5 216 40 C208.5 52.5 195.12 59 180 59 C170.93 59 161 56.5 152 52 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="76" cy="180" r="38"/>
     <circle cx="178" cy="172" r="38"/>
     <path d="M76 142 C84 104 120 68 152 52"/>
     <path d="M178 134 C168 104 158 76 152 52"/>
-    <path d="M152 52 C164 32 196 28 216 40 C204 60 176 64 152 52 Z"/>
+    <path d="M152 52 C159.5 39.5 174.69 33 190 33 C199.19 33 208.5 35.5 216 40 C208.5 52.5 195.12 59 180 59 C170.93 59 161 56.5 152 52 Z"/>
   </g>
 </svg>

@@ -6,9 +6,9 @@
     <rect x="188" y="52" width="32" height="32" rx="6"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M59.43 172 L96.57 92"/>
-    <path d="M111.38 92 L144.62 164"/>
-    <path d="M159.43 164 L196.57 84"/>
+    <path d="M59 172 L97 92"/>
+    <path d="M111 92 L145 164"/>
+    <path d="M159 164 L197 84"/>
     <rect x="36" y="172" width="32" height="32" rx="6"/>
     <rect x="88" y="60" width="32" height="32" rx="6"/>
     <rect x="136" y="164" width="32" height="32" rx="6"/>

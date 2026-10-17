@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="merge,lane,road sign,traffic">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M139.31 36.69 L219.31 116.69 A16 16 0 0 1 219.31 139.31 L139.31 219.31 A16 16 0 0 1 116.69 219.31 L36.69 139.31 A16 16 0 0 1 36.69 116.69 L116.69 36.69 A16 16 0 0 1 139.31 36.69 Z"/>
+    <path d="M139 37 L219 117 A16 16 0 0 1 219 139 L139 219 A16 16 0 0 1 117 219 L37 139 A16 16 0 0 1 37 117 L117 37 A16 16 0 0 1 139 37 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M139.31 36.69 L219.31 116.69 A16 16 0 0 1 219.31 139.31 L139.31 219.31 A16 16 0 0 1 116.69 219.31 L36.69 139.31 A16 16 0 0 1 36.69 116.69 L116.69 36.69 A16 16 0 0 1 139.31 36.69 Z"/>
+    <path d="M139 37 L219 117 A16 16 0 0 1 219 139 L139 219 A16 16 0 0 1 117 219 L37 139 A16 16 0 0 1 37 117 L117 37 A16 16 0 0 1 139 37 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M144 82 L144 174"/>

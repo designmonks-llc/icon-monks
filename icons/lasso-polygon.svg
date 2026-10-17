@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="polygon lasso,select,freeform,tool">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64.95 130.97 L53.91 111.95"/>
-    <path d="M41.54 86.77 L58.72 73.03"/>
-    <path d="M81.88 54.49 L99.06 40.75"/>
-    <path d="M128.37 42.27 L150.3 44.02"/>
-    <path d="M179.88 46.39 L200 48 L200.6 49.71"/>
-    <path d="M210.48 77.68 L217.8 98.43"/>
-    <path d="M214.3 121.25 L194.94 131.71"/>
-    <path d="M168.85 145.81 L150 156 L149.42 155.95"/>
-    <path d="M119.86 153.56 L97.93 151.78"/>
-    <path d="M76 150 C72 182 48 182 56 216"/>
+    <path d="M65 131 L54 112"/>
+    <path d="M42 87 L59 73"/>
+    <path d="M82 54 L99 41"/>
+    <path d="M128 42 L150 44"/>
+    <path d="M180 46 L200 48 L201 50"/>
+    <path d="M210 78 L218 98"/>
+    <path d="M214 121 L195 132"/>
+    <path d="M169 146 L150 156 L149 156"/>
+    <path d="M120 154 L98 152"/>
+    <path d="M76 150 C72.56 177.48 54 180.92 54 203 C54 206.63 54.87 211.2 56 216"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="76" cy="150" r="18"/>

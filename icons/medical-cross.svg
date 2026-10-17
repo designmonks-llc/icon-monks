@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="medical,asterisk,emergency,star of life">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M108 32 L148 32 L148 93.36 L201.14 62.68 L221.14 97.32 L168 128 L221.14 158.68 L201.14 193.32 L148 162.64 L148 224 L108 224 L108 162.64 L54.86 193.32 L34.86 158.68 L88 128 L34.86 97.32 L54.86 62.68 L108 93.36 Z"/>
+    <path d="M108 32 L148 32 L148 93 L201 63 L221 97 L168 128 L221 159 L201 193 L148 163 L148 224 L108 224 L108 163 L55 193 L35 159 L88 128 L35 97 L55 63 L108 93 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M108 32 L148 32 L148 93.36 L201.14 62.68 L221.14 97.32 L168 128 L221.14 158.68 L201.14 193.32 L148 162.64 L148 224 L108 224 L108 162.64 L54.86 193.32 L34.86 158.68 L88 128 L34.86 97.32 L54.86 62.68 L108 93.36 Z"/>
+    <path d="M108 32 L148 32 L148 93 L201 63 L221 97 L168 128 L221 159 L201 193 L148 163 L148 224 L108 224 L108 163 L55 193 L35 159 L88 128 L35 97 L55 63 L108 93 Z"/>
   </g>
 </svg>

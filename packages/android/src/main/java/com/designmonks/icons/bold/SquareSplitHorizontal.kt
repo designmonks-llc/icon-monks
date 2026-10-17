@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Bold.SquareSplitHorizontal: ImageVector
-    get() = cache ?: iconMonksVector("SquareSplitHorizontalBold", "M28.2 28.2Q20 36.4 20 48V208Q20 219.6 28.2 227.8Q36.4 236 48 236H208Q219.6 236 227.8 227.8Q236 219.6 236 208V48Q236 36.4 227.8 28.2Q219.6 20 208 20H48Q36.4 20 28.2 28.2ZM48 212Q44 212 44 208V48Q44 44 48 44H116V212H48ZM208 44Q212 44 212 48V208Q212 212 208 212H140V44H208Z").also { cache = it }
+    get() = cache ?: iconMonksVector("SquareSplitHorizontalBold", "M35.91 35.91A27 27 0 0 0 28 55V201A27 27 0 0 0 55 228H201A27 27 0 0 0 228 201V55A27 27 0 0 0 201 28H55A27 27 0 0 0 35.91 35.91ZM55 204A3 3 0 0 1 52 201V55A3 3 0 0 1 55 52H116V204H55ZM201 52A3 3 0 0 1 204 55V201A3 3 0 0 1 201 204H140V52H201Z").also { cache = it }

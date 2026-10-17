@@ -6,9 +6,9 @@
     <path d="M40 216 V128 A88 88 0 0 1 216 128 V216 H168 V128 A40 40 0 0 0 88 128 V216 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M91.23 97.15 L66.72 76.58"/>
+    <path d="M91 97 L67 77"/>
     <path d="M128 80 L128 48"/>
-    <path d="M164.77 97.15 L189.28 76.58"/>
+    <path d="M165 97 L189 77"/>
     <path d="M48 176 L80 176"/>
     <path d="M176 176 L208 176"/>
   </g>

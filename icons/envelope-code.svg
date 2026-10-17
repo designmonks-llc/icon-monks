@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="envelope,developer,code,mail,email">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126.17 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139.28 A60 60 0 0 0 126.17 200 Z"/>
+    <path d="M126 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139 A60 60 0 0 0 126 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126.17 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139.28"/>
+    <path d="M126 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139"/>
     <path d="M170 164 L150 184 L170 204"/>
     <path d="M198 164 L218 184 L198 204"/>
   </g>

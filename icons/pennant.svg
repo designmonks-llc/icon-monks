@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="pennant,flag,team,banner,triangular flag">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M59.81 45.2 L198.46 88.99 Q208 92 198.46 95.01 L59.81 138.8 Q56 140 56 136 L56 48 Q56 44 59.81 45.2 Z"/>
+    <path d="M60 45 L198 89 C201.18 90 203 91 203 92 C203 93 201.18 94 198 95 L60 139 Q56.09 140.1 56 136 L56 48 Q56.09 43.9 60 45 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 32 L56 224"/>
-    <path d="M59.81 45.2 L198.46 88.99 Q208 92 198.46 95.01 L59.81 138.8 Q56 140 56 136 L56 48 Q56 44 59.81 45.2 Z"/>
+    <path d="M60 45 L198 89 C201.18 90 203 91 203 92 C203 93 201.18 94 198 95 L60 139 Q56.09 140.1 56 136 L56 48 Q56.09 43.9 60 45 Z"/>
   </g>
 </svg>

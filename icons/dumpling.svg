@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="dumpling,dim sum,gyoza,food">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M43 137.22 A30 30 0 0 1 65.77 97.77 A30 30 0 0 1 105.22 75 A30 30 0 0 1 150.78 75 A30 30 0 0 1 190.23 97.77 A30 30 0 0 1 213 137.22 C200 204 56 204 43 137.22 Z"/>
+    <path d="M43 137 A30 30 0 0 1 66 98 A30 30 0 0 1 105 75 A30 30 0 0 1 151 75 A30 30 0 0 1 190 98 A30 30 0 0 1 213 137 C206.5 170.39 167.25 187 128 187 C88.75 187 49.5 170.39 43 137 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M43 137.22 A30 30 0 0 1 65.77 97.77 A30 30 0 0 1 105.22 75 A30 30 0 0 1 150.78 75 A30 30 0 0 1 190.23 97.77 A30 30 0 0 1 213 137.22 C200 204 56 204 43 137.22 Z"/>
+    <path d="M43 137 A30 30 0 0 1 66 98 A30 30 0 0 1 105 75 A30 30 0 0 1 151 75 A30 30 0 0 1 190 98 A30 30 0 0 1 213 137 C206.5 170.39 167.25 187 128 187 C88.75 187 49.5 170.39 43 137 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M65.77 97.77 L82.75 114.75"/>
-    <path d="M105.22 75 L111.44 98.18"/>
-    <path d="M150.78 75 L144.56 98.18"/>
-    <path d="M190.23 97.77 L173.25 114.75"/>
+    <path d="M66 98 L83 115"/>
+    <path d="M105 75 L111 98"/>
+    <path d="M151 75 L145 98"/>
+    <path d="M190 98 L173 115"/>
   </g>
 </svg>

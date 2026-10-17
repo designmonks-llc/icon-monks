@@ -7,6 +7,6 @@
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="52"/>
-    <path d="M128 128 L139 108.95"/>
+    <path d="M128 128 L139 109"/>
   </g>
 </svg>

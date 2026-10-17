@@ -3,12 +3,12 @@
     <path d="M128 32 L208 64 V120 C208 176 168 208 128 224 C88 208 48 176 48 120 V64 Z"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M118 133.75 A24 24 0 1 1 138 133.75 L146 168 H110 Z"/>
+    <path d="M118 134 A24 24 0 1 1 138 134 L146 168 H110 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 32 L208 64 V120 C208 176 168 208 128 224 C88 208 48 176 48 120 V64 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M118 133.75 A24 24 0 1 1 138 133.75 L146 168 H110 Z"/>
+    <path d="M118 134 A24 24 0 1 1 138 134 L146 168 H110 Z"/>
   </g>
 </svg>

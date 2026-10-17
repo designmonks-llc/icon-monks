@@ -1,9 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="hexagonal prism,off,disabled,hidden,hexagonal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 72 L84 44 L172 44 L216 72 L216 184 L172 212 L84 212 L40 184 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 72 L84 44.29 L172 44.29 L216 72 L216 184 L172 211.71 L84 211.71 L40 184 Z"/>
-    <path d="M40 72 L84 99.71 L172 99.71 L216 72"/>
-    <path d="M84 99.71 L84 211.71"/>
-    <path d="M172 99.71 L172 211.71"/>
+    <path d="M40 72 L84 44 L172 44 L216 72 L216 184 L172 212 L84 212 L40 184 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 72 L84 100 L172 100 L216 72"/>
+    <path d="M84 100 L84 212"/>
+    <path d="M172 100 L172 212"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

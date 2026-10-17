@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="and,ampersand,symbol">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M208 216 L96 104 C76 84 76 48 108 44 C136 40 152 64 140 84 C130 100 104 112 84 126 C56 146 52 186 84 206 C120 226 164 200 192 140"/>
+    <path d="M208 216 L96 104 C87.17 95.17 82 82.94 82 72 C82 58.17 90.13 46.23 108 44 C129.58 40.92 144 54.47 144 70 C144 74.62 142.75 79.41 140 84 C130 100 104 112 84 126 C69.53 136.33 61 151.51 61 167 C61 181.5 68.53 196.33 84 206 C92.06 210.48 100.41 213 109 213 C138.79 213 170.27 186.56 192 140"/>
   </g>
 </svg>

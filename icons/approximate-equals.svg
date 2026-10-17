@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="approximately,about,similar">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 112 C64 88 104 84 128 100 C152 116 192 112 208 88"/>
-    <path d="M48 168 C64 144 104 140 128 156 C152 172 192 168 208 144"/>
+    <path d="M48 112 C57.6 97.6 75.76 90 94 90 C106.16 90 118.4 93.6 128 100 C137.6 106.4 149.84 110 162 110 C180.24 110 198.4 102.4 208 88"/>
+    <path d="M48 168 C57.6 153.6 75.76 146 94 146 C106.16 146 118.4 149.6 128 156 C137.6 162.4 149.84 166 162 166 C180.24 166 198.4 158.4 208 144"/>
   </g>
 </svg>

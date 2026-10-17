@@ -1,11 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="rocket,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C168 60 176 104 176 144 V176 H80 V144 C80 104 88 60 128 32 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100.84 59.68 L124.45 34.59 L128 32 L155.16 59.68 L173.13 107.09 L175.85 134.85"/>
-    <path d="M136 176 L80 176 L80.94 121.91"/>
+    <path d="M128 32 C168 60 176 104 176 144 V176 H80 V144 C80 104 88 60 128 32 Z"/>
     <path d="M80 136 L48 168 L48 200 L80 184"/>
-    <path d="M176 136 L208 168"/>
+    <path d="M176 136 L208 168 L208 200 L176 184"/>
     <path d="M128 200 L128 224"/>
-    <path d="M126.1 86.08 L135.3 87.24 L142.92 91.83 L148.09 99.02 L150 108 L149.92 109.9"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="108" r="22"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

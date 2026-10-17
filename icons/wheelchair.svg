@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="accessibility,disabled,handicap,accessible,mobility">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88.85 111.38 A56 56 0 1 0 156.5 192"/>
+    <path d="M89 111 A56 56 0 1 0 156 192"/>
     <path d="M124 84 L124 140 L176 140 L200 208 L216 208"/>
   </g>
   <g data-role="dot" fill="currentColor">

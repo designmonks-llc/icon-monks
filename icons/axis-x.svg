@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="axis,remove,cancel,chart,graph">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 40 L48 208 L216 208"/>
-    <path d="M199.03 191.03 L216 208 L199.03 224.97"/>
-    <path d="M156 136 L196 176"/>
-    <path d="M196 136 L156 176"/>
+    <path d="M48 39 L48 207 L216 207"/>
+    <path d="M199 190 L216 207 L199 224"/>
+    <path d="M156 135 L196 175"/>
+    <path d="M196 135 L156 175"/>
   </g>
 </svg>

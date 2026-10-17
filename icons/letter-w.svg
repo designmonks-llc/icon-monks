@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="letter w,w,alphabet,character">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44.4 40 L84 216 L128 101.6 L172 216 L211.6 40"/>
+    <path d="M44 40 L84 216 L128 102 L172 216 L212 40"/>
   </g>
 </svg>

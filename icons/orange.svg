@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="orange,citrus,fruit,vitamin c">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="128" cy="140" r="84"/>
-    <path d="M132 48 A30.67 30.67 0 0 1 180 40 A30.67 30.67 0 0 1 132 48 Z"/>
+    <path d="M132 48 A30.49 30.49 0 0 1 180 40 A30.49 30.49 0 0 1 132 48 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="140" r="84"/>
     <path d="M128 56 L128 40"/>
-    <path d="M132 48 A30.67 30.67 0 0 1 180 40 A30.67 30.67 0 0 1 132 48 Z"/>
+    <path d="M132 48 A30.49 30.49 0 0 1 180 40 A30.49 30.49 0 0 1 132 48 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M73.91 125.51 A56 56 0 0 1 104.33 89.25"/>
+    <path d="M74 126 A56 56 0 0 1 104 89"/>
   </g>
 </svg>

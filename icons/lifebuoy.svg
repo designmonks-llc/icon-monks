@@ -10,9 +10,9 @@
     <circle cx="128" cy="128" r="44"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M159.11 159.11 L195.88 195.88"/>
-    <path d="M96.89 159.11 L60.12 195.88"/>
-    <path d="M96.89 96.89 L60.12 60.12"/>
-    <path d="M159.11 96.89 L195.88 60.12"/>
+    <path d="M159 159 L196 196"/>
+    <path d="M97 159 L60 196"/>
+    <path d="M97 97 L60 60"/>
+    <path d="M159 97 L196 60"/>
   </g>
 </svg>

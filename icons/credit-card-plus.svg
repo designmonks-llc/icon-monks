@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="add card,new payment,credit card,add">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M232 144.32 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H127.17 A62 62 0 0 1 232 144.32 Z"/>
+    <path d="M224 144 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H127 A57 57 0 0 1 224 144 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M232 144.32 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H127.17"/>
-    <path d="M160 188 L216 188"/>
-    <path d="M188 160 L188 216"/>
+    <path d="M224 144 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H127"/>
+    <path d="M158 184 L209 184"/>
+    <path d="M183 158 L183 210"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 104 L232 104"/>
-    <path d="M56 160 L96 160"/>
+    <path d="M32 106 L224 106"/>
+    <path d="M62 158 L98 158"/>
   </g>
 </svg>

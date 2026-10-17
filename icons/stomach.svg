@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="stomach,abdomen,digestion,organ">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M148 24 V60 C164 48 216 52 216 120 C216 184 168 216 120 216 C92 216 72 192 48 184 L40 184 L40 144 L48 144 C92 144 108 124 108 80 V24 Z"/>
+    <path d="M148 32 V68 C152.28 64.79 159.25 63 167 63 C188.21 63 216 78.2 216 128 C216 192 168 224 120 224 C92 224 72 200 48 192 L40 192 L40 152 L48 152 C92 152 108 132 108 88 V32 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M108 32 V80 C108 124 92 144 48 144"/>
-    <path d="M148 32 V60 C164 48 216 52 216 120 C216 184 168 216 120 216 C92 216 72 192 48 184"/>
+    <path d="M108 40 V88 C108 132 92 152 48 152"/>
+    <path d="M148 40 V68 C152.28 64.79 159.25 63 167 63 C188.21 63 216 78.2 216 128 C216 192 168 224 120 224 C92 224 72 200 48 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M176 112 C180 148 164 172 132 180"/>
+    <path d="M176 120 C180 156 164 180 132 188"/>
   </g>
 </svg>

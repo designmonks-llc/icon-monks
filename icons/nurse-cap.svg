@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="nurse,cap,medical,care">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 192 L60 72 C100 48 156 48 196 72 L216 192 C160 176 96 176 40 192 Z"/>
+    <path d="M40 192 L60 72 C80 60 104 54 128 54 C152 54 176 60 196 72 L216 192 C188 184 158 180 128 180 C98 180 68 184 40 192 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 192 L60 72 C100 48 156 48 196 72 L216 192 C160 176 96 176 40 192 Z"/>
+    <path d="M40 192 L60 72 C80 60 104 54 128 54 C152 54 176 60 196 72 L216 192 C188 184 158 180 128 180 C98 180 68 184 40 192 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 82 L144 82 L144 102 L164 102 L164 134 L144 134 L144 154 L112 154 L112 134 L92 134 L92 102 L112 102 Z"/>

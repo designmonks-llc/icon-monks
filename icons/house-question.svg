@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,help,unknown,question">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131.2 208 L48 208 L48 112 L128 44 L208 112 L208 131.2 A58 58 0 0 0 131.2 208 Z"/>
+    <path d="M131 208 L48 208 L48 112 L128 44 L208 112 L208 131 A58 58 0 0 0 131 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 112 L48 208 L131.2 208"/>
+    <path d="M48 112 L48 208 L131 208"/>
     <path d="M32 124 L128 40 L224 124"/>
     <path d="M166 164 A18 18 0 1 1 190 181 C185 184 184 187 184 192"/>
   </g>

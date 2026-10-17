@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,search,find">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M133.4 208 L48 208 L48 112 L128 44 L208 112 L208 133.4 A56 56 0 0 0 133.4 208 Z"/>
+    <path d="M133 208 L48 208 L48 112 L128 44 L208 112 L208 133 A56 56 0 0 0 133 208 Z"/>
     <circle cx="178" cy="178" r="18"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 112 L48 208 L133.4 208"/>
-    <path d="M208 133.4 L208 112"/>
+    <path d="M48 112 L48 208 L133 208"/>
+    <path d="M208 133 L208 112"/>
     <path d="M32 124 L128 40 L224 124"/>
     <circle cx="178" cy="178" r="18"/>
     <path d="M192 192 L210 210"/>

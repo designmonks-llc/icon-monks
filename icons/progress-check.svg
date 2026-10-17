@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="progress complete,done,circle,status">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="128" cy="128" r="104"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M115.1 32.87 A96 96 0 1 1 33.54 145.13"/>
-    <path d="M33.54 110.87 A96 96 0 0 1 41.51 86.34"/>
-    <path d="M61.65 58.62 A96 96 0 0 1 82.52 43.46"/>
+    <path d="M116 40 A88.62 88.62 0 1 1 41 144"/>
+    <path d="M41 112 A88.62 88.62 0 0 1 48 90"/>
+    <path d="M67 64 A88.62 88.62 0 0 1 86 50"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88 132 L116 160 L172 104"/>
+    <path d="M91 132 L117 158 L169 106"/>
   </g>
 </svg>

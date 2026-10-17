@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="fishing,rod,hook,angling">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="84" cy="200" r="14"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 216 L196 40"/>
     <path d="M196 40 V172 A24 24 0 0 1 148 172 V160"/>

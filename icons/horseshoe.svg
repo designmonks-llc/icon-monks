@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="horseshoe,luck,horse,fortune">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M87.67 206.69 A92 92 0 1 1 168.33 206.69 L145.23 166.65 A46 46 0 1 0 110.77 166.65 Z"/>
+    <path d="M88 207 A92 92 0 1 1 168 207 L145 167 A46 46 0 1 0 111 167 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M87.67 206.69 A92 92 0 1 1 168.33 206.69 L145.23 166.65 A46 46 0 1 0 110.77 166.65 Z"/>
+    <path d="M88 207 A92 92 0 1 1 168 207 L145 167 A46 46 0 1 0 111 167 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="68.24" cy="158.5" r="10"/>
-    <circle cx="61.35" cy="106.14" r="10"/>
-    <circle cx="93.5" cy="64.24" r="10"/>
-    <circle cx="162.5" cy="64.24" r="10"/>
-    <circle cx="194.65" cy="106.14" r="10"/>
-    <circle cx="187.76" cy="158.5" r="10"/>
+    <circle cx="68" cy="158" r="10"/>
+    <circle cx="61" cy="106" r="10"/>
+    <circle cx="94" cy="64" r="10"/>
+    <circle cx="162" cy="64" r="10"/>
+    <circle cx="195" cy="106" r="10"/>
+    <circle cx="188" cy="158" r="10"/>
   </g>
 </svg>

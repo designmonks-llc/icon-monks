@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping bag,edit,write,shopping,bag">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126.28 216 L56 216 L48 80 L208 80 L205.55 121.62 A66 66 0 0 0 126.28 216 Z"/>
-    <path d="M157.13 210.87 L160.67 186.12 L198.85 147.94 L220.06 169.15 L181.88 207.33 Z"/>
+    <path d="M126 216 L56 216 L48 80 L208 80 L206 122 A66 66 0 0 0 126 216 Z"/>
+    <path d="M157 211 L161 186 L199 148 L220 169 L182 207 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126.28 216 L56 216 L48 80 L208 80 L205.55 121.62"/>
+    <path d="M126 216 L56 216 L48 80 L208 80 L206 122"/>
     <path d="M96 112 V72 A32 32 0 0 1 160 72 V112"/>
-    <path d="M157.13 210.87 L160.67 186.12 L198.85 147.94 L220.06 169.15 L181.88 207.33 Z"/>
+    <path d="M157 211 L161 186 L199 148 L220 169 L182 207 Z"/>
   </g>
 </svg>

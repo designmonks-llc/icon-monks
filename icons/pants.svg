@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="trousers,jeans,clothing,pants">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M72 32 L184 32 Q192 32 192.83 39.96 L211.17 216.04 Q212 224 204 224 L156 224 Q148 224 146.68 216.11 L128.66 107.95 Q128 104 127.34 107.95 L109.32 216.11 Q108 224 100 224 L52 224 Q44 224 44.83 216.04 L63.17 39.96 Q64 32 72 32 Z"/>
+    <path d="M72 32 L184 32 Q192.08 32.02 193 40 L211 216 Q211.92 223.98 204 224 L156 224 Q148.16 223.94 147 216 L129 108 C128.67 106.68 128.33 106 128 106 C127.67 106 127.33 106.68 127 108 L109 216 Q107.84 223.94 100 224 L52 224 Q44.09 223.98 45 216 L63 40 Q63.91 32.02 72 32 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M72 32 L184 32 Q192 32 192.83 39.96 L211.17 216.04 Q212 224 204 224 L156 224 Q148 224 146.68 216.11 L128.66 107.95 Q128 104 127.34 107.95 L109.32 216.11 Q108 224 100 224 L52 224 Q44 224 44.83 216.04 L63.17 39.96 Q64 32 72 32 Z"/>
+    <path d="M72 32 L184 32 Q192.08 32.02 193 40 L211 216 Q211.92 223.98 204 224 L156 224 Q148.16 223.94 147 216 L129 108 C128.67 106.68 128.33 106 128 106 C127.67 106 127.33 106.68 127 108 L109 216 Q107.84 223.94 100 224 L52 224 Q44.09 223.98 45 216 L63 40 Q63.91 32.02 72 32 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M92 64 L164 64"/>

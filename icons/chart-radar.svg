@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="radar chart,spider chart,polar,comparison,chart radar">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 40 L219.3 106.33 L184.43 213.67 L71.57 213.67 L36.7 106.33 Z"/>
+    <path d="M128 40 L219 106 L184 214 L72 214 L37 106 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 40 L219.3 106.33 L184.43 213.67 L71.57 213.67 L36.7 106.33 Z"/>
+    <path d="M128 40 L219 106 L184 214 L72 214 L37 106 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 80 L166.04 123.64 L158.56 178.07 L108.02 163.51 L84.25 121.79 Z"/>
+    <path d="M128 80 L166 124 L159 178 L108 164 L84 122 Z"/>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="erase,delete,remove,clear,rubber">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M34.66 159.11 L159.11 34.66 L221.34 96.89 L96.89 221.34 Z"/>
+    <path d="M35 159 L159 35 L221 97 L97 221 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M34.66 159.11 L159.11 34.66 L221.34 96.89 L96.89 221.34 Z"/>
+    <path d="M35 159 L159 35 L221 97 L97 221 Z"/>
     <path d="M120 216 L216 216"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M79.92 113.86 L142.14 176.08"/>
+    <path d="M80 114 L142 176"/>
   </g>
 </svg>

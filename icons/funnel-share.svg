@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="funnel,share,send">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32.2 44.6 L185.8 44.6 L128.2 115 L128.2 166.2 L89.8 185.4 L89.8 115 Z"/>
+    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32.2 44.6 L185.8 44.6 L128.2 115 L128.2 166.2 L89.8 185.4 L89.8 115 Z"/>
+    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
     <path d="M160 210 V198 A24 24 0 0 1 184 174 H210"/>
     <path d="M194 158 L210 174 L194 190"/>
   </g>

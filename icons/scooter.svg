@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="scooter,kick scooter,moped,e-scooter,delivery scooter">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="56" cy="188" r="24"/>
+    <circle cx="200" cy="188" r="24"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="56" cy="188" r="24"/>
     <circle cx="200" cy="188" r="24"/>

@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="stamp,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M92 144 C92 124 112 120.29 112 96 A32 32 0 1 1 144 96 C144 120.29 164 124 164 144 Z"/>
+    <rect x="40" y="144" width="176" height="40" rx="12"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M92 144 C92 124 112 120 112 95.71 A32 32 0 1 1 144 95.71 C144 120 164 124 164 144"/>
+    <path d="M92 144 C92 124 112 120.29 112 96 A32 32 0 1 1 144 96 C144 120.29 164 124 164 144"/>
     <rect x="40" y="144" width="176" height="40" rx="12"/>
     <path d="M56 216 L200 216"/>
-    <path d="M40 40 L216 216"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

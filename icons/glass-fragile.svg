@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="fragile,handle with care,shipping">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32H110.18L100 60L124 92L111.08 134C79.48 126.39 56 97.94 56 64Z"/>
-    <path d="M147.26 133.39 160 92 136 60 146.18 32H200V64C200 97.09 177.67 124.97 147.26 133.39Z"/>
+    <path d="M56 32 H110 L100 60 L124 92 L111 134 C79.4 126.39 56 97.94 56 64 Z"/>
+    <path d="M147 133 L160 92 L136 60 L146 32 H200 V64 C200 97.09 177.41 124.58 147 133 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 32H110.18L100 60L124 92L111.08 134C79.48 126.39 56 97.94 56 64Z"/>
-    <path d="M147.26 133.39 160 92 136 60 146.18 32H200V64C200 97.09 177.67 124.97 147.26 133.39Z"/>
+    <path d="M56 32 H110 L100 60 L124 92 L111 134 C79.4 126.39 56 97.94 56 64 Z"/>
+    <path d="M147 133 L160 92 L136 60 L146 32 H200 V64 C200 97.09 177.41 124.58 147 133 Z"/>
     <path d="M128 152 L128 208"/>
     <path d="M84 208 L172 208"/>
   </g>

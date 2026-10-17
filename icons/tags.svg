@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="tags,labels,prices,sale">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 52 L102.4 52 L179.2 128.8 L108.8 199.2 L32 122.4 Z"/>
+    <path d="M32 52 L102 52 L179 129 L109 199 L32 122 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 52 L102.4 52 L179.2 128.8 L108.8 199.2 L32 122.4 Z"/>
-    <path d="M132.74 37.66 L223.89 128.8 L139.14 213.54"/>
+    <path d="M32 52 L102 52 L179 129 L109 199 L32 122 Z"/>
+    <path d="M133 38 L224 129 L139 214"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="70.4" cy="90.4" r="14"/>
+    <circle cx="70" cy="90" r="14"/>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="ballpoint,write,sign,pen,ballpoint pen">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M71.96 151.01 L166.28 56.68 A27.6 27.6 0 0 1 205.32 95.72 L110.99 190.04 L45.94 216.06 Z"/>
+    <path d="M72 151 L166 57 A27.6 27.6 0 0 1 205 96 L111 190 L46 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M71.96 151.01 L166.28 56.68 A27.6 27.6 0 0 1 205.32 95.72 L110.99 190.04 L45.94 216.06 Z"/>
-    <path d="M159.78 63.19 L133.76 37.17 L78.46 92.46"/>
+    <path d="M72 151 L166 57 A27.6 27.6 0 0 1 205 96 L111 190 L46 216 Z"/>
+    <path d="M160 63 L134 37 L78 92"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M71.96 151.01 L110.99 190.04"/>
+    <path d="M72 151 L111 190"/>
   </g>
 </svg>

@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="layers off,hide layers,stack,slash,clear layers">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 40 L224 92 L128 144 L32 92 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 40 L224 92 L128 144 L32 92 Z"/>
     <path d="M32 132 L128 184 L224 132"/>
     <path d="M32 172 L128 224 L224 172"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

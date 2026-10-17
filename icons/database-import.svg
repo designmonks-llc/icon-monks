@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="database,import,load,storage,data">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M133.98 223.93 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 128.57 A64 64 0 0 0 133.98 223.93 Z"/>
+    <path d="M134 224 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 129 A64 64 0 0 0 134 224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133.98 223.93 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 128.57"/>
+    <path d="M134 224 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 129"/>
     <path d="M212 212 L160 160"/>
     <path d="M160 192 L160 160 L192 160"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 64 A88 32 0 0 0 216 64"/>
-    <path d="M40 128 A88 32 0 0 0 124.68 159.98"/>
+    <path d="M40 128 A88 32 0 0 0 125 160"/>
   </g>
 </svg>

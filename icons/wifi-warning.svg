@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="weak connection,network problem,wifi alert,connection problem,wifi">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.89 168.89 A44 44 0 0 1 159.11 168.89"/>
-    <path d="M65.77 137.77 A88 88 0 0 1 167.95 121.59"/>
-    <path d="M34.66 106.66 A132 132 0 0 1 188.95 82.91"/>
+    <path d="M97 169 A44 44 0 0 1 159 169"/>
+    <path d="M66 138 A88 88 0 0 1 168 122"/>
+    <path d="M35 107 A132 132 0 0 1 189 83"/>
     <path d="M204 116 L204 150"/>
   </g>
   <g data-role="dot" fill="currentColor">

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="form,input fields,survey,application,input">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="40" width="192" height="176" rx="16"/>
+    <rect x="40" y="47" width="176" height="162" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="40" width="192" height="176" rx="16"/>
+    <rect x="40" y="47" width="176" height="162" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 94 L84 94"/>
-    <rect x="112" y="76" width="80" height="36" rx="8"/>
-    <path d="M64 162 L84 162"/>
-    <rect x="112" y="144" width="80" height="36" rx="8"/>
+    <path d="M69 97 L88 97"/>
+    <rect x="113" y="80" width="74" height="33" rx="7"/>
+    <path d="M69 159 L88 159"/>
+    <rect x="113" y="143" width="74" height="33" rx="7"/>
   </g>
 </svg>

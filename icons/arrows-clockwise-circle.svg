@@ -6,9 +6,9 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M83.57 116.09 A46 46 0 0 1 160.53 95.47"/>
-    <path d="M160.53 67.19 L160.53 95.47 L132.24 95.47"/>
-    <path d="M172.43 139.91 A46 46 0 0 1 95.47 160.53"/>
-    <path d="M95.47 188.81 L95.47 160.53 L123.76 160.53"/>
+    <path d="M84 116 A46 46 0 0 1 161 95"/>
+    <path d="M161 67 L161 95 L132 95"/>
+    <path d="M172 140 A46 46 0 0 1 95 161"/>
+    <path d="M95 189 L95 161 L124 161"/>
   </g>
 </svg>

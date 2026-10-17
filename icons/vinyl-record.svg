@@ -7,8 +7,8 @@
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="32"/>
-    <path d="M67.86 106.11 A64 64 0 0 1 106.11 67.86"/>
-    <path d="M188.14 149.89 A64 64 0 0 1 149.89 188.14"/>
+    <path d="M68 106 A64 64 0 0 1 106 68"/>
+    <path d="M188 150 A64 64 0 0 1 150 188"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="128" cy="128" r="10"/>

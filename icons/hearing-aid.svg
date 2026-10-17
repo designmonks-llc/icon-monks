@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="hearing aid,deaf,accessibility,ear">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64.86 180 A96 96 0 0 1 86.29 58.46 A20 20 0 0 1 112 89.1 A56 56 0 0 0 99.5 160 A20 20 0 0 1 64.86 180 Z"/>
+    <path d="M65 180 A96 96 0 0 1 86 58 A20 20 0 0 1 112 89 A56 56 0 0 0 100 160 A20 20 0 0 1 65 180 Z"/>
     <path d="M172 132 A20 20 0 0 1 212 132 V144 A8 8 0 0 1 204 152 H180 A8 8 0 0 1 172 144 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64.86 180 A96 96 0 0 1 86.29 58.46 A20 20 0 0 1 112 89.1 A56 56 0 0 0 99.5 160 A20 20 0 0 1 64.86 180 Z"/>
-    <path d="M114.47 60.92 C132 32 192 40 192 112"/>
+    <path d="M65 180 A96 96 0 0 1 86 58 A20 20 0 0 1 112 89 A56 56 0 0 0 100 160 A20 20 0 0 1 65 180 Z"/>
+    <path d="M114 61 C120.1 50.94 131.87 45 144 45 C166.76 45 192 65.04 192 112"/>
     <path d="M172 132 A20 20 0 0 1 212 132 V144 A8 8 0 0 1 204 152 H180 A8 8 0 0 1 172 144 Z"/>
   </g>
 </svg>

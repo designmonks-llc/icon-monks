@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat circle,money,price,message,conversation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M133.24 215.99 A92 92 0 0 1 97.54 209.3 L40 216 L52.33 170 A92 92 0 1 1 222.88 138.3 A60 60 0 0 0 133.24 215.99 Z"/>
+    <path d="M133 216 A92 92 0 0 1 98 209 L40 216 L52 170 A92 92 0 1 1 223 138 A60 60 0 0 0 133 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133.24 215.99 A92 92 0 0 1 97.54 209.3 L40 216 L52.33 170 A92 92 0 1 1 222.88 138.3"/>
+    <path d="M133 216 A92 92 0 0 1 98 209 L40 216 L52 170 A92 92 0 1 1 223 138"/>
     <path d="M200 160 H180 A12 12 0 0 0 180 184 H188 A12 12 0 0 1 188 208 H168"/>
     <path d="M184 146 L184 160"/>
     <path d="M184 208 L184 222"/>

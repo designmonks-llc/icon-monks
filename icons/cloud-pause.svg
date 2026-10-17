@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="cloud,paused,hold,storage,online">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M215.27 139.98 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L130.6 176 A54 54 0 0 1 215.27 139.98 Z"/>
+    <path d="M215 140 A44 44 0 0 0 183 89 A60 60 0 0 0 64 98 A40 40 0 0 0 76 176 L131 176 A54 54 0 0 1 215 140 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M215.27 139.98 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L130.6 176"/>
+    <path d="M215 140 A44 44 0 0 0 183 89 A60 60 0 0 0 64 98 A40 40 0 0 0 76 176 L131 176"/>
     <path d="M168 160 L168 208"/>
     <path d="M200 160 L200 208"/>
   </g>

@@ -4,10 +4,10 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="80" y="56" width="96" height="144" rx="40"/>
-    <path d="M104 32 L104 59.34"/>
-    <path d="M152 32 L152 59.34"/>
-    <path d="M104 196.66 L104 224"/>
-    <path d="M152 196.66 L152 224"/>
+    <path d="M104 32 L104 59"/>
+    <path d="M152 32 L152 59"/>
+    <path d="M104 197 L104 224"/>
+    <path d="M152 197 L152 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 112 L144 112"/>

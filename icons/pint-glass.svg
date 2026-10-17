@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="beer glass,pint,pub">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64 40 H192 L186 72 C192 84 192 92 188 104 L176 204 A14 14 0 0 1 162 216 H94 A14 14 0 0 1 80 204 L68 104 C64 92 64 84 70 72 Z"/>
+    <path d="M64 40 H192 L186 72 C189.3 78.61 191 84.48 191 90 C191 94.5 189.8 98.61 188 104 L176 204 A14 14 0 0 1 162 216 H94 A14 14 0 0 1 80 204 L68 104 C66.2 98.61 65 94.5 65 90 C65 84.48 66.7 78.61 70 72 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 40 H192 L186 72 C192 84 192 92 188 104 L176 204 A14 14 0 0 1 162 216 H94 A14 14 0 0 1 80 204 L68 104 C64 92 64 84 70 72 Z"/>
+    <path d="M64 40 H192 L186 72 C189.3 78.61 191 84.48 191 90 C191 94.5 189.8 98.61 188 104 L176 204 A14 14 0 0 1 162 216 H94 A14 14 0 0 1 80 204 L68 104 C66.2 98.61 65 94.5 65 90 C65 84.48 66.7 78.61 70 72 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M70 88 L186 88"/>

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map trifold,favorite,starred,featured,map">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 64 L96 40 L160 64 L224 40 L224 139.28 A60 60 0 0 0 127.35 203.75 L96 192 L32 216 L32 64 Z"/>
-    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+    <path d="M32 64 L96 40 L160 64 L224 40 L224 139 A60 60 0 0 0 127 204 L96 192 L32 216 L32 64 Z"/>
+    <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M127.35 203.75 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 139.28"/>
-    <path d="M184 153 L192.82 174.86 L216.34 176.49 L198.27 191.64 L203.98 214.51 L184 202 L164.02 214.51 L169.73 191.64 L151.66 176.49 L175.18 174.86 Z"/>
+    <path d="M127 204 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 139"/>
+    <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M96 40 L96 192"/>
-    <path d="M160 64 L160 129.01"/>
+    <path d="M160 64 L160 129"/>
   </g>
 </svg>

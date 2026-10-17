@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit switch open,circuit,electronics,schematic,switch">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="72" cy="152" r="16"/>
+    <circle cx="184" cy="152" r="16"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 152 L56 152"/>
     <circle cx="72" cy="152" r="16"/>
     <circle cx="184" cy="152" r="16"/>
     <path d="M200 152 L224 152"/>
-    <path d="M85.57 143.52 L183.94 82.05"/>
+    <path d="M86 144 L184 82"/>
   </g>
 </svg>

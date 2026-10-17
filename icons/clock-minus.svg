@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock,remove,subtract,time,hour">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M145.94 222.31 A96 96 0 1 1 224 128 A96 96 0 0 1 222.31 145.94 A54 54 0 1 0 145.94 222.31 Z"/>
+    <path d="M146 222 A96 96 0 1 1 224 128 A96 96 0 0 1 222 146 A54 54 0 1 0 146 222 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M145.94 222.31 A96 96 0 1 1 224 128 A96 96 0 0 1 222.31 145.94"/>
+    <path d="M146 222 A96 96 0 1 1 224 128 A96 96 0 0 1 222 146"/>
     <path d="M158 184 L210 184"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

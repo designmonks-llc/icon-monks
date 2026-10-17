@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="virtual space,vr,metaverse,3d">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M76 136 H180 A20 20 0 0 1 200 156 V196 A20 20 0 0 1 180 216 H158 L146 196 H110 L98 216 H76 A20 20 0 0 1 56 196 V156 A20 20 0 0 1 76 136 Z"/>
-    <path d="M128 32 L159.18 50 L159.18 86 L128 104 L96.82 86 L96.82 50 Z"/>
+    <path d="M128 32 L159 50 L159 86 L128 104 L97 86 L97 50 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M76 136 H180 A20 20 0 0 1 200 156 V196 A20 20 0 0 1 180 216 H158 L146 196 H110 L98 216 H76 A20 20 0 0 1 56 196 V156 A20 20 0 0 1 76 136 Z"/>
-    <path d="M128 32 L159.18 50 L159.18 86 L128 104 L96.82 86 L96.82 50 Z"/>
+    <path d="M128 32 L159 50 L159 86 L128 104 L97 86 L97 50 Z"/>
     <path d="M40 172 L56 172"/>
     <path d="M200 172 L216 172"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96.82 50 L128 68 L159.18 50"/>
+    <path d="M97 50 L128 68 L159 50"/>
     <path d="M128 68 L128 104"/>
   </g>
 </svg>

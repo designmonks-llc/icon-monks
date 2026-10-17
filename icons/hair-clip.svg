@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="hair clip,barrette,accessory,hair">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M125.94 196.4 L195.73 87.91 A20 20 0 0 0 168.09 60.27 L59.6 130.06 A48 48 0 1 0 125.94 196.4 Z"/>
+    <path d="M126 196 L196 88 A20 20 0 0 0 168 60 L60 130 A48 48 0 1 0 126 196 Z"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M91.68 175.59 L145.73 111.68 A1 1 0 0 0 144.32 110.27 L80.41 164.32 A8 8 0 1 0 91.68 175.59 Z"/>
+    <path d="M92 176 L146 112 A1 1 0 0 0 144 110 L80 164 A8 8 0 1 0 92 176 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M125.94 196.4 L195.73 87.91 A20 20 0 0 0 168.09 60.27 L59.6 130.06 A48 48 0 1 0 125.94 196.4 Z"/>
-    <path d="M98.61 179.7 L146.6 112.19 A2 2 0 0 0 143.81 109.4 L76.3 157.39 A16 16 0 1 0 98.61 179.7 Z"/>
+    <path d="M126 196 L196 88 A20 20 0 0 0 168 60 L60 130 A48 48 0 1 0 126 196 Z"/>
+    <path d="M99 180 L147 112 A2 2 0 0 0 144 109 L76 157 A16 16 0 1 0 99 180 Z"/>
   </g>
 </svg>

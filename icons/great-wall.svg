@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="great wall,china,landmark,fortress">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M100 164.75 A144 144 0 0 0 32 198.67 L32 149.03 L32.12 121.42 L50.47 112.99 L59.42 135.26 L76.3 129.41 L69.56 106.38 L89.19 101.65 L100 124.14 Z"/>
-    <path d="M156 124.14 L166.81 101.65 L186.44 106.38 L179.7 129.41 L196.58 135.26 L205.53 112.99 L223.88 121.42 L224 149.03 L224 198.67 A144 144 0 0 0 156 164.75 Z"/>
-    <path d="M100 164.75 L100 58 L118 58 L118 76 L138 76 L138 58 L156 58 L156 164.75 Z"/>
+    <path d="M100 165 A144 144 0 0 0 32 199 L32 149 L32 121 L50 113 L59 135 L76 129 L70 106 L89 102 L100 124 Z"/>
+    <path d="M156 124 L167 102 L186 106 L180 129 L197 135 L206 113 L224 121 L224 149 L224 199 A144 144 0 0 0 156 165 Z"/>
+    <path d="M100 165 L100 58 L118 58 L118 76 L138 76 L138 58 L156 58 L156 165 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100 164.75 A144 144 0 0 0 32 198.67 L32 149.03 L32.12 121.42 L50.47 112.99 L59.42 135.26 L76.3 129.41 L69.56 106.38 L89.19 101.65 L100 124.14"/>
-    <path d="M156 124.14 L166.81 101.65 L186.44 106.38 L179.7 129.41 L196.58 135.26 L205.53 112.99 L223.88 121.42 L224 149.03 L224 198.67 A144 144 0 0 0 156 164.75"/>
-    <path d="M100 164.75 L100 58 L118 58 L118 76 L138 76 L138 58 L156 58 L156 164.75"/>
+    <path d="M100 165 A144 144 0 0 0 32 199 L32 149 L32 121 L50 113 L59 135 L76 129 L70 106 L89 102 L100 124"/>
+    <path d="M156 124 L167 102 L186 106 L180 129 L197 135 L206 113 L224 121 L224 149 L224 199 A144 144 0 0 0 156 165"/>
+    <path d="M100 165 L100 58 L118 58 L118 76 L138 76 L138 58 L156 58 L156 165"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M116 162 V142 A12 12 0 0 1 140 142 V162"/>

@@ -2,10 +2,10 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 32 L40 224"/>
     <path d="M40 72 L176 72"/>
-    <path d="M159.03 55.03 L176 72 L159.03 88.97"/>
+    <path d="M159 55 L176 72 L159 89"/>
     <path d="M40 128 L216 128"/>
-    <path d="M199.03 111.03 L216 128 L199.03 144.97"/>
+    <path d="M199 111 L216 128 L199 145"/>
     <path d="M40 184 L136 184"/>
-    <path d="M119.03 167.03 L136 184 L119.03 200.97"/>
+    <path d="M119 167 L136 184 L119 201"/>
   </g>
 </svg>

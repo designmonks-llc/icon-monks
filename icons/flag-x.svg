@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="flag x,remove,cancel,flag,report">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128.3 161.69 C103.75 155.3 82.27 146.86 56 160 L56 48 C104 24 136 72 200 48 L200 126.17 A60 60 0 0 0 128.3 161.69 Z"/>
+    <path d="M128 162 C112.78 158.04 98.64 153 84 153 C75.02 153 65.99 155 56 160 L56 48 C66.14 42.93 75.83 41 85 41 C110.05 41 132.62 55 163 55 C174.12 55 186.48 53.07 200 48 L200 126 A60 60 0 0 0 128 162 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 224 L56 40"/>
-    <path d="M128.3 161.69 C103.75 155.3 82.27 146.86 56 160 L56 48 C104 24 136 72 200 48 L200 126.17"/>
+    <path d="M128 162 C112.78 158.04 98.64 153 84 153 C75.02 153 65.99 155 56 160 L56 48 C66.14 42.93 75.83 41 85 41 C110.05 41 132.62 55 163 55 C174.12 55 186.48 53.07 200 48 L200 126"/>
     <path d="M162 162 L206 206"/>
     <path d="M206 162 L162 206"/>
   </g>

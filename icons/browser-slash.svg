@@ -1,9 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="browser,disabled,off,window,web">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M85.25 40 L210 40 A14 14 0 0 1 224 54 L224 178.75"/>
-    <path d="M170.75 216 L46 216 A14 14 0 0 1 32 202 L32 77.25"/>
-    <path d="M149.25 104 L224 104"/>
-    <path d="M117.25 72 L192 72"/>
-    <path d="M32 32 L224 224"/>
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 106 L216 106"/>
+    <path d="M106 77 L187 77"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="77" r="10"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

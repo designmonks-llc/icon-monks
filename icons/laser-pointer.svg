@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="laser pointer,presentation,pointer,beam">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M73.86 216.08 L136.08 153.86 A24 24 0 0 0 102.14 119.92 L39.92 182.14 A24 24 0 0 0 73.86 216.08 Z"/>
+    <path d="M74 216 L136 154 A24 24 0 0 0 102 120 L40 182 A24 24 0 0 0 74 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M73.86 216.08 L136.08 153.86 A24 24 0 0 0 102.14 119.92 L39.92 182.14 A24 24 0 0 0 73.86 216.08 Z"/>
+    <path d="M74 216 L136 154 A24 24 0 0 0 102 120 L40 182 A24 24 0 0 0 74 216 Z"/>
     <path d="M154 102 L160 96"/>
     <path d="M180 46 L180 34"/>
-    <path d="M201.21 54.79 L209.7 46.3"/>
+    <path d="M201 55 L210 46"/>
     <path d="M210 76 L222 76"/>
   </g>
   <g data-role="dot" fill="currentColor">

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="void receipt,refund,cancelled order">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M132.62 211.08 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 129.21 A60 60 0 0 0 132.62 211.08 Z"/>
+    <path d="M133 211 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 129 A60 60 0 0 0 133 211 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M132.62 211.08 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 129.21"/>
+    <path d="M133 211 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 129"/>
     <path d="M166 166 L210 210"/>
     <path d="M210 166 L166 210"/>
   </g>

@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="bicycle,disabled,off,transport">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="68" cy="152" r="34"/>
+    <circle cx="188" cy="152" r="34"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100.87 143.29 A34 34 0 1 1 68 118 A34 34 0 0 1 76.71 119.13"/>
-    <path d="M167.39 124.96 A34 34 0 0 1 188 118 A34 34 0 0 1 215.04 172.61"/>
-    <path d="M68 152 L85.32 127.75"/>
-    <path d="M109.57 152 L68 152"/>
-    <path d="M138.43 96 L168 96 L155.68 113.25"/>
-    <path d="M184.54 142.11 L160 72 L184 72"/>
+    <circle cx="68" cy="152" r="34"/>
+    <circle cx="188" cy="152" r="34"/>
+    <path d="M68 152 L108 96 L128 152 L68 152"/>
+    <path d="M108 96 L168 96 L128 152"/>
+    <path d="M188 152 L160 72 L184 72"/>
+    <path d="M108 96 L100 76"/>
+    <path d="M88 76 L116 76"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

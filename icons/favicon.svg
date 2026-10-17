@@ -6,6 +6,6 @@
     <rect x="40" y="40" width="176" height="176" rx="36"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 76 L142.11 112.58 L181.26 114.7 L150.83 139.42 L160.92 177.3 L128 156 L95.08 177.3 L105.17 139.42 L74.74 114.7 L113.89 112.58 Z"/>
+    <path d="M128 76 L142 113 L181 115 L151 139 L161 177 L128 156 L95 177 L105 139 L75 115 L114 113 Z"/>
   </g>
 </svg>

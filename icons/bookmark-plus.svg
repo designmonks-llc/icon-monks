@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="add bookmark,save,bookmark,new,favourite">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M124.05 186.47 L64 224 L64 32 L192 32 L192 124.54 A60 60 0 0 0 124.05 186.47 Z"/>
+    <path d="M124 186 L64 224 L64 32 L192 32 L192 125 A60 60 0 0 0 124 186 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124.05 186.47 L64 224 L64 32 L192 32 L192 124.54"/>
+    <path d="M124 186 L64 224 L64 32 L192 32 L192 125"/>
     <path d="M184 158 L184 210"/>
     <path d="M158 184 L210 184"/>
   </g>

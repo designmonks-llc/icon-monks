@@ -1,7 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="badges,disabled,off,interface">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 92 L128 52 L208 92 L208 128 L128 88 L48 128 Z"/>
+    <path d="M48 172 L128 132 L208 172 L208 208 L128 168 L48 208 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 92 L128 52 L208 92 L208 128 L128 88 L48 128 Z"/>
     <path d="M48 172 L128 132 L208 172 L208 208 L128 168 L48 208 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

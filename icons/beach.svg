@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="sea,holiday,summer,beach,maps">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="128" cy="92" r="32"/>
+    <circle cx="128" cy="96" r="32"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="92" r="32"/>
-    <path d="M78 92 L64 92"/>
-    <path d="M92.64 56.64 L82.75 46.75"/>
-    <path d="M128 42 L128 28"/>
-    <path d="M163.36 56.64 L173.25 46.75"/>
-    <path d="M178 92 L192 92"/>
-    <path d="M32 168 C48 156 64 156 80 168 C96 180 112 180 128 168 C144 156 160 156 176 168 C192 180 208 180 224 168"/>
-    <path d="M32 208 C48 196 64 196 80 208 C96 220 112 220 128 208 C144 196 160 196 176 208 C192 220 208 220 224 208"/>
+    <circle cx="128" cy="96" r="32"/>
+    <path d="M78 96 L64 96"/>
+    <path d="M93 61 L83 51"/>
+    <path d="M128 46 L128 32"/>
+    <path d="M163 61 L173 51"/>
+    <path d="M178 96 L192 96"/>
+    <path d="M32 172 C40 166 48 163 56 163 C64 163 72 166 80 172 C88 178 96 181 104 181 C112 181 120 178 128 172 C136 166 144 163 152 163 C160 163 168 166 176 172 C184 178 192 181 200 181 C208 181 216 178 224 172"/>
+    <path d="M32 212 C40 206 48 203 56 203 C64 203 72 206 80 212 C88 218 96 221 104 221 C112 221 120 218 128 212 C136 206 144 203 152 203 C160 203 168 206 176 212 C184 218 192 221 200 221 C208 221 216 218 224 212"/>
   </g>
 </svg>

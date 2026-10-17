@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="font size,text size,typography,scale,aa">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 208 L84 48 L136 208"/>
-    <path d="M47.6 160 L120.4 160"/>
+    <path d="M48 160 L120 160"/>
     <path d="M168 208 L196 120 L224 208"/>
-    <path d="M176.91 180 L215.09 180"/>
+    <path d="M177 180 L215 180"/>
   </g>
 </svg>

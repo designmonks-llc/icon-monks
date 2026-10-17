@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="booth,kiosk,stand,stall">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 32 H200 L216 72 A29.33 29.33 0 0 1 157.33 72 A29.33 29.33 0 0 1 98.67 72 A29.33 29.33 0 0 1 40 72 Z"/>
+    <path d="M56 32 H200 L216 72 A29.33 29.33 0 0 1 157 72 A29.33 29.33 0 0 1 99 72 A29.33 29.33 0 0 1 40 72 Z"/>
     <rect x="40" y="144" width="176" height="72" rx="12"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 32 H200 L216 72 A29.33 29.33 0 0 1 157.33 72 A29.33 29.33 0 0 1 98.67 72 A29.33 29.33 0 0 1 40 72 Z"/>
+    <path d="M56 32 H200 L216 72 A29.33 29.33 0 0 1 157 72 A29.33 29.33 0 0 1 99 72 A29.33 29.33 0 0 1 40 72 Z"/>
     <path d="M56 104 L56 144"/>
     <path d="M200 104 L200 144"/>
     <rect x="40" y="144" width="176" height="72" rx="12"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M104 32 L98.67 72"/>
-    <path d="M152 32 L157.33 72"/>
+    <path d="M104 32 L99 72"/>
+    <path d="M152 32 L157 72"/>
   </g>
 </svg>

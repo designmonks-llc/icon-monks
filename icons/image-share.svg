@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="share image,send photo,picture,arrow">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M129.01 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139.28 A60 60 0 0 0 129.01 208 Z"/>
+    <path d="M129 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139 A60 60 0 0 0 129 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M129.01 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139.28"/>
+    <path d="M129 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 139"/>
     <path d="M156 212 V200 A24 24 0 0 1 180 176 H212"/>
     <path d="M192 156 L212 176 L192 196"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44 188 L96 136 L117.18 157.18"/>
+    <path d="M44 188 L96 136 L117 157"/>
     <circle cx="152" cy="96" r="16"/>
   </g>
 </svg>

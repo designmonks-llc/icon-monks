@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="increase font size,larger text,typography,plus,increase font">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 208 L88 48 L144 208"/>
-    <path d="M48.8 160 L127.2 160"/>
+    <path d="M49 160 L127 160"/>
     <path d="M192 136 L192 56"/>
     <path d="M216 80 L192 56 L168 80"/>
   </g>

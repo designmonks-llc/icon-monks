@@ -1,13 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="server down,offline,outage,disabled">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="192" height="80" rx="14"/>
+    <rect x="32" y="144" width="192" height="80" rx="14"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="32" y="32" width="192" height="80" rx="14"/>
     <rect x="32" y="144" width="192" height="80" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M72 72 L136 72"/>
     <path d="M72 184 L136 184"/>
-    <path d="M48 48 L208 208"/>
   </g>
-  <g data-role="dot" fill="currentColor">
+  <g data-role="dotcut" fill="currentColor">
     <circle cx="184" cy="72" r="12"/>
     <circle cx="184" cy="184" r="12"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

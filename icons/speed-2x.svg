@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="2x,double speed,playback,fast">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M54.85 101.44 A34.32 34.32 0 0 1 114.29 132.38 L53.68 180 H122.32"/>
-    <path d="M150.32 119.68 L202.32 180"/>
-    <path d="M202.32 119.68 L150.32 180"/>
+    <path d="M55 101 A34.32 34.32 0 0 1 114 132 L54 180 H122"/>
+    <path d="M150 120 L202 180"/>
+    <path d="M202 120 L150 180"/>
   </g>
 </svg>

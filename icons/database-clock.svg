@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="database,history,backup,schedule">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M124.11 223.97 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 119.5 A72 72 0 0 0 124.11 223.97 Z"/>
+    <path d="M124 224 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 120 A72 72 0 0 0 124 224 Z"/>
     <circle cx="184" cy="184" r="38"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124.11 223.97 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 119.5"/>
+    <path d="M124 224 A88 32 0 0 1 40 192 L40 64 A88 32 0 0 1 216 64 L216 120"/>
     <circle cx="184" cy="184" r="38"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 64 A88 32 0 0 0 216 64"/>
-    <path d="M40 128 A88 32 0 0 0 116.22 159.71"/>
+    <path d="M40 128 A88 32 0 0 0 116 160"/>
     <path d="M184 170 L184 184 L194 192"/>
   </g>
 </svg>

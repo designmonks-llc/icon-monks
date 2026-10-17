@@ -10,7 +10,7 @@
     <circle cx="128" cy="88" r="24"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M146.39 103.43 L184 128"/>
+    <path d="M146 103 L184 128"/>
     <path d="M104 160 L152 160"/>
     <path d="M104 192 L136 192"/>
   </g>

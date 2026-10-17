@@ -1,16 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="abacus,disabled,off,education">
-  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="40" width="192" height="176" rx="14"/>
-    <path d="M32 96 L224 96"/>
-    <path d="M32 160 L224 160"/>
-    <path d="M48 48 L208 208"/>
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="76" cy="96" r="24"/>
-    <circle cx="120" cy="96" r="24"/>
-    <circle cx="180" cy="96" r="24"/>
-    <circle cx="76" cy="160" r="24"/>
-    <circle cx="136" cy="160" r="24"/>
-    <circle cx="180" cy="160" r="24"/>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 99 L216 99"/>
+    <path d="M40 157 L216 157"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="99" r="24"/>
+    <circle cx="121" cy="99" r="24"/>
+    <circle cx="176" cy="99" r="24"/>
+    <circle cx="80" cy="157" r="24"/>
+    <circle cx="135" cy="157" r="24"/>
+    <circle cx="176" cy="157" r="24"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

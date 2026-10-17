@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="loading,progress,wait,busy">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 76 L128 32"/>
-    <path d="M164.77 91.23 L195.88 60.12"/>
+    <path d="M165 91 L196 60"/>
     <path d="M180 128 L224 128"/>
-    <path d="M164.77 164.77 L195.88 195.88"/>
+    <path d="M165 165 L196 196"/>
     <path d="M128 180 L128 224"/>
-    <path d="M91.23 164.77 L60.12 195.88"/>
+    <path d="M91 165 L60 196"/>
     <path d="M76 128 L32 128"/>
-    <path d="M91.23 91.23 L60.12 60.12"/>
+    <path d="M91 91 L60 60"/>
   </g>
 </svg>

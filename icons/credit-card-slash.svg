@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="no card,card declined,payment,slash,declined">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="62" width="192" height="132" rx="13"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="24" y="56" width="208" height="144" rx="14"/>
-    <path d="M24 104 L232 104"/>
-    <path d="M56 160 L96 160"/>
+    <rect x="32" y="62" width="192" height="132" rx="13"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 106 L224 106"/>
+    <path d="M62 158 L98 158"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

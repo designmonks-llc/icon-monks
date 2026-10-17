@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="light off,lamp,dark,disabled">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 40 L168 40 L208 128 L48 128 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M88 40 L168 40 L208 128 L48 128 Z"/>
     <path d="M128 128 L128 216"/>
     <path d="M80 216 L176 216"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

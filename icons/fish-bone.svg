@@ -6,8 +6,8 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 128 C48 100 66 88 88 88 V168 C66 168 48 156 40 128 Z"/>
     <path d="M88 128 L192 128"/>
-    <path d="M122 92 Q134 128 122 164"/>
-    <path d="M154 100 Q164 128 154 156"/>
+    <path d="M122 92 C126 104 128 116 128 128 C128 140 126 152 122 164"/>
+    <path d="M154 100 C157.33 109.33 159 118.67 159 128 C159 137.33 157.33 146.67 154 156"/>
     <path d="M192 128 L224 92 L224 164 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">

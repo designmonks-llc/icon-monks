@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="add,dashed,square,placeholder">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="24" y="24" width="208" height="208" rx="24"/>
+    <rect x="40" y="40" width="176" height="176" rx="20"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 56 V48 A16 16 0 0 1 48 32 H56"/>
-    <path d="M200 32 H208 A16 16 0 0 1 224 48 V56"/>
-    <path d="M224 200 V208 A16 16 0 0 1 208 224 H200"/>
-    <path d="M56 224 H48 A16 16 0 0 1 32 208 V200"/>
-    <path d="M88 32 L112 32"/>
-    <path d="M88 224 L112 224"/>
-    <path d="M32 88 L32 112"/>
-    <path d="M224 88 L224 112"/>
-    <path d="M144 32 L168 32"/>
-    <path d="M144 224 L168 224"/>
-    <path d="M32 144 L32 168"/>
-    <path d="M224 144 L224 168"/>
+    <path d="M47 67 V60 A13.54 13.54 0 0 1 60 47 H67"/>
+    <path d="M189 47 H196 A13.54 13.54 0 0 1 209 60 V67"/>
+    <path d="M209 189 V196 A13.54 13.54 0 0 1 196 209 H189"/>
+    <path d="M67 209 H60 A13.54 13.54 0 0 1 47 196 V189"/>
+    <path d="M94 47 L114 47"/>
+    <path d="M94 209 L114 209"/>
+    <path d="M47 94 L47 114"/>
+    <path d="M209 94 L209 114"/>
+    <path d="M142 47 L162 47"/>
+    <path d="M142 209 L162 209"/>
+    <path d="M47 142 L47 162"/>
+    <path d="M209 142 L209 162"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 84 L128 172"/>
-    <path d="M84 128 L172 128"/>
+    <path d="M128 91 L128 165"/>
+    <path d="M91 128 L165 128"/>
   </g>
 </svg>

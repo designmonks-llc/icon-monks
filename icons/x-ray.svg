@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="radiology,scan,bones,imaging">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="40" width="192" height="176" rx="16"/>
+    <rect x="40" y="47" width="176" height="162" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="40" width="192" height="176" rx="16"/>
+    <rect x="40" y="47" width="176" height="162" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 72 L128 188"/>
-    <path d="M128 92 C108 92 84 96 76 112"/>
-    <path d="M128 92 C148 92 172 96 180 112"/>
-    <path d="M128 128 C108 128 84 132 76 148"/>
-    <path d="M128 128 C148 128 172 132 180 148"/>
-    <path d="M128 164 C108 164 84 168 76 184"/>
-    <path d="M128 164 C148 164 172 168 180 184"/>
+    <path d="M128 77 L128 183"/>
+    <path d="M128 95 C109.67 95 87.67 98.67 80 113"/>
+    <path d="M128 95 C146.33 95 168.33 98.67 176 113"/>
+    <path d="M128 128 C109.67 128 87.67 131.67 80 146"/>
+    <path d="M128 128 C146.33 128 168.33 131.67 176 146"/>
+    <path d="M128 161 C109.67 161 87.67 164.67 80 179"/>
+    <path d="M128 161 C146.33 161 168.33 164.67 176 179"/>
   </g>
 </svg>

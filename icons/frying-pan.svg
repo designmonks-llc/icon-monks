@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="skillet,frying pan,cook,kitchen">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="100" cy="156" r="68"/>
-    <path d="M184.34 91.46 L215.46 60.34 A14 14 0 0 0 195.66 40.54 L164.54 71.66 A14 14 0 0 0 184.34 91.46 Z"/>
+    <path d="M184 91 L215 60 A14 14 0 0 0 196 41 L165 72 A14 14 0 0 0 184 91 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="100" cy="156" r="68"/>
-    <path d="M184.34 91.46 L215.46 60.34 A14 14 0 0 0 195.66 40.54 L164.54 71.66 A14 14 0 0 0 184.34 91.46 Z"/>
+    <path d="M184 91 L215 60 A14 14 0 0 0 196 41 L165 72 A14 14 0 0 0 184 91 Z"/>
     <path d="M148 108 L170 86"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="cheque,checkbook,payment,bank">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="24" y="56" width="136" height="104" rx="14"/>
-    <path d="M196 56 A12 12 0 0 1 220 56 V180 L208 212 L196 180 Z"/>
+    <rect x="32" y="57" width="133" height="102" rx="14"/>
+    <path d="M200 57 A12 12 0 0 1 224 57 V179 L212 210 L200 179 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="24" y="56" width="136" height="104" rx="14"/>
-    <path d="M40 192 L144 192"/>
-    <path d="M196 56 A12 12 0 0 1 220 56 V180 L208 212 L196 180 Z"/>
+    <rect x="32" y="57" width="133" height="102" rx="14"/>
+    <path d="M48 191 L150 191"/>
+    <path d="M200 57 A12 12 0 0 1 224 57 V179 L212 210 L200 179 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 92 L128 92"/>
-    <path d="M88 128 L128 128"/>
+    <path d="M63 93 L134 93"/>
+    <path d="M95 128 L134 128"/>
   </g>
 </svg>

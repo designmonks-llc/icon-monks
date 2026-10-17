@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="brainstorm,idea,neural">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126.49 201.09 A32 32 0 0 1 96 204 A32 32 0 0 1 52 164 A32 32 0 0 1 44 112 A32 32 0 0 1 72 64 A32 32 0 0 1 128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 221.91 137.49 A60 60 0 0 0 126.49 201.09 Z"/>
+    <path d="M126 201 A32 32 0 0 1 96 204 A32 32 0 0 1 52 164 A32 32 0 0 1 44 112 A32 32 0 0 1 72 64 A32 32 0 0 1 128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 222 137 A60 60 0 0 0 126 201 Z"/>
     <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126.49 201.09 A32 32 0 0 1 96 204 A32 32 0 0 1 52 164 A32 32 0 0 1 44 112 A32 32 0 0 1 72 64 A32 32 0 0 1 128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 221.91 137.49"/>
+    <path d="M126 201 A32 32 0 0 1 96 204 A32 32 0 0 1 52 164 A32 32 0 0 1 44 112 A32 32 0 0 1 72 64 A32 32 0 0 1 128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 222 137"/>
     <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

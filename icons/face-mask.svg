@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="surgical mask,mask,medical,protection,medical mask">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64 80 C100 64 156 64 192 80 V160 C156 188 100 188 64 160 Z"/>
+    <path d="M64 80 C82 72 105 68 128 68 C151 68 174 72 192 80 V160 C174 174 151 181 128 181 C105 181 82 174 64 160 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 80 C100 64 156 64 192 80 V160 C156 188 100 188 64 160 Z"/>
+    <path d="M64 80 C82 72 105 68 128 68 C151 68 174 72 192 80 V160 C174 174 151 181 128 181 C105 181 82 174 64 160 Z"/>
     <path d="M64 100 H56 A24 24 0 0 0 56 148 H64"/>
     <path d="M192 100 H200 A24 24 0 0 1 200 148 H192"/>
   </g>

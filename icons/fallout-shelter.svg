@@ -3,16 +3,16 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M64.16 91 L112.16 91 L88.16 133 Z"/>
-    <path d="M143.84 91 L191.84 91 L167.84 133 Z"/>
+    <path d="M64 91 L112 91 L88 133 Z"/>
+    <path d="M144 91 L192 91 L168 133 Z"/>
     <path d="M104 160 L152 160 L128 202 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64.16 91 L112.16 91 L88.16 133 Z"/>
-    <path d="M143.84 91 L191.84 91 L167.84 133 Z"/>
+    <path d="M64 91 L112 91 L88 133 Z"/>
+    <path d="M144 91 L192 91 L168 133 Z"/>
     <path d="M104 160 L152 160 L128 202 Z"/>
   </g>
 </svg>

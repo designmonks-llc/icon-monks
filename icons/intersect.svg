@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="join,venn,intersection,overlap,relation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 66.03 A68 68 0 0 1 128 189.97 A68 68 0 0 1 128 66.03 Z"/>
+    <path d="M128 66 A68 68 0 0 1 128 190 A68 68 0 0 1 128 66 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="100" cy="128" r="68"/>

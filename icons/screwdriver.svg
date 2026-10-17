@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tool,repair,fix,settings">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M161.6 43.49 A28 28 0 0 1 201.2 43.49 L212.51 54.8 A28 28 0 0 1 212.51 94.4 L150.28 156.63 L99.37 105.72 Z"/>
+    <path d="M162 43 A28 28 0 0 1 201 43 L213 55 A28 28 0 0 1 213 94 L150 157 L99 106 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M161.6 43.49 A28 28 0 0 1 201.2 43.49 L212.51 54.8 A28 28 0 0 1 212.51 94.4 L150.28 156.63 L99.37 105.72 Z"/>
-    <path d="M124.83 131.17 L42.8 213.2"/>
+    <path d="M162 43 A28 28 0 0 1 201 43 L213 55 A28 28 0 0 1 213 94 L150 157 L99 106 Z"/>
+    <path d="M125 131 L43 213"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M181.4 74.6 L147.46 108.54"/>
+    <path d="M181 75 L147 109"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="building,office,secure,lock">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V126.17 A60 60 0 0 0 133.25 216 Z"/>
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V126 A60 60 0 0 0 133 216 Z"/>
     <rect x="156" y="180" width="56" height="40" rx="10"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V126.17"/>
-    <path d="M32 216 L133.25 216"/>
+    <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V126"/>
+    <path d="M32 216 L133 216"/>
     <rect x="156" y="180" width="56" height="40" rx="10"/>
     <path d="M168 180 V168 A16 16 0 0 1 200 168 V180"/>
   </g>

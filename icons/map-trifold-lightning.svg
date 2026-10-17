@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map trifold,fast,power,instant,map">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 64 L96 40 L160 64 L224 40 L224 142 A58 58 0 0 0 129.81 204.68 L96 192 L32 216 L32 64 Z"/>
+    <path d="M32 64 L96 40 L160 64 L224 40 L224 142 A58 58 0 0 0 130 205 L96 192 L32 216 L32 64 Z"/>
     <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M129.81 204.68 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 142"/>
+    <path d="M130 205 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 142"/>
     <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M96 40 L96 192"/>
-    <path d="M160 64 L160 131.2"/>
+    <path d="M160 64 L160 131"/>
   </g>
 </svg>

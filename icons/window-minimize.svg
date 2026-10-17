@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="minimize,window,hide,underscore">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="40" width="192" height="176" rx="14"/>
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="40" width="192" height="176" rx="14"/>
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 104 L224 104"/>
-    <path d="M88 172 L168 172"/>
+    <path d="M40 106 L216 106"/>
+    <path d="M91 168 L165 168"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="68" cy="72" r="13"/>
-    <circle cx="108" cy="72" r="13"/>
+    <circle cx="73" cy="77" r="13"/>
+    <circle cx="110" cy="77" r="13"/>
   </g>
 </svg>

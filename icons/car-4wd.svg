@@ -14,7 +14,7 @@
     <path d="M176 172 L208 172"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M104 104 Q128 92 152 104"/>
+    <path d="M104 104 C112 100 120 98 128 98 C136 98 144 100 152 104"/>
     <path d="M108 172 L148 172"/>
   </g>
 </svg>

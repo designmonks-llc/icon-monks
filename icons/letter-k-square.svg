@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="letter k,k,square,alphabet">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M92.64 76 L92.64 180"/>
-    <path d="M163.36 76 L92.64 140.48"/>
-    <path d="M122.34 113.4 L163.36 180"/>
+    <path d="M96 80 L96 176"/>
+    <path d="M160 80 L96 139"/>
+    <path d="M123 115 L160 176"/>
   </g>
 </svg>

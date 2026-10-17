@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="letter q,q,alphabet,character">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="letter q,q,alphabet,character">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="54.08" y="40" width="147.84" height="176" rx="73.92"/>
-    <path d="M142.78 163.2 L209.92 224"/>
+    <rect x="54" y="40" width="148" height="176" rx="74"/>
+    <path d="M143 163 L210 224"/>
   </g>
 </svg>

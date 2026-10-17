@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="heptagon,shape,seven sides,polygon">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 35 L204.62 71.9 L223.54 154.81 L170.52 221.29 L85.48 221.29 L32.46 154.81 L51.38 71.9 Z"/>
+    <path d="M128 35 L205 72 L224 155 L171 221 L85 221 L32 155 L51 72 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 35 L204.62 71.9 L223.54 154.81 L170.52 221.29 L85.48 221.29 L32.46 154.81 L51.38 71.9 Z"/>
+    <path d="M128 35 L205 72 L224 155 L171 221 L85 221 L32 155 L51 72 Z"/>
   </g>
 </svg>

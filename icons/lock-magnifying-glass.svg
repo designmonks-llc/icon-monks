@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="lock,search,find">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M138.04 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 133.4 A56 56 0 0 0 138.04 216 Z"/>
+    <path d="M138 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 133 A56 56 0 0 0 138 216 Z"/>
     <circle cx="178" cy="178" r="18"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M138.04 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 133.4"/>
+    <path d="M138 216 L62 216 A14 14 0 0 1 48 202 L48 118 A14 14 0 0 1 62 104 L194 104 A14 14 0 0 1 208 118 L208 133"/>
     <path d="M88 104 V72 A40 40 0 0 1 168 72 V104"/>
     <circle cx="178" cy="178" r="18"/>
     <path d="M192 192 L210 210"/>

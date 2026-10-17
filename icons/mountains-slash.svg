@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="mountains,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 200 L88 112 L116 156 L160 56 L224 200 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M154.75 200 L32 200 L79.73 124.99"/>
-    <path d="M141.92 96.66 L160 56 L207 161.74"/>
-    <path d="M156.98 111.73 L166 104 L181.3 104"/>
+    <path d="M32 200 L88 112 L116 156 L160 56 L224 200 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139 104 L152 116 L166 104 L181 104"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

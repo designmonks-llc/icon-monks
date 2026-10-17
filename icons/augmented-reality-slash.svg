@@ -1,9 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="augmented reality,disabled,off,devices">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="64" width="192" height="128" rx="18"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="32" y="64" width="192" height="128" rx="18"/>
-    <path d="M128 92 L159.18 110 L159.18 146 L128 164 L96.82 146 L96.82 110 Z"/>
-    <path d="M96.82 110 L128 128 L159.18 110"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 92 L159 110 L159 146 L128 164 L97 146 L97 110 Z"/>
+    <path d="M97 110 L128 128 L159 110"/>
     <path d="M128 128 L128 164"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

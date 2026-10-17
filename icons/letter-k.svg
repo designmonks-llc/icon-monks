@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="letter k,k,alphabet,character">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M68.16 40 L68.16 216"/>
-    <path d="M187.84 40 L68.16 149.12"/>
-    <path d="M118.43 103.29 L187.84 216"/>
+    <path d="M68 40 L68 216"/>
+    <path d="M188 40 L68 149"/>
+    <path d="M118 103 L188 216"/>
   </g>
 </svg>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="sliding door,patio,glass door,door">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="96" width="192" height="120" rx="14"/>
+    <rect x="32" y="100" width="192" height="120" rx="14"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="96" width="192" height="120" rx="14"/>
-    <path d="M72 48 L184 48"/>
-    <path d="M164 28 L184 48 L164 68"/>
+    <rect x="32" y="100" width="192" height="120" rx="14"/>
+    <path d="M72 52 L184 52"/>
+    <path d="M164 32 L184 52 L164 72"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 96 L128 216"/>
+    <path d="M128 100 L128 220"/>
   </g>
 </svg>

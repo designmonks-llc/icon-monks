@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="attachment,email attachment,mail,clip,envelope">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 124.13 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H113.8 A72 72 0 0 1 224 124.13 Z"/>
+    <path d="M224 124 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H114 A72 72 0 0 1 224 124 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 124.13 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H113.8"/>
-    <path d="M182.24 173.76 L162.44 193.56 A13 13 0 0 0 180.83 211.94 L209.11 183.66 A26 26 0 0 0 172.34 146.89 L142.64 176.59"/>
+    <path d="M224 124 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H114"/>
+    <path d="M182 174 L162 194 A13 13 0 0 0 181 212 L209 184 A26 26 0 0 0 172 147 L143 177"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 76 L127.39 139.51"/>
-    <path d="M155.82 117.74 L208 76"/>
+    <path d="M48 76 L127 140"/>
+    <path d="M156 118 L208 76"/>
   </g>
 </svg>

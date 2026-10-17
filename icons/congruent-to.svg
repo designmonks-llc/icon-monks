@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="congruent,math,equal,geometry">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 92 C72 60 104 60 128 80 C152 100 184 100 208 68"/>
+    <path d="M48 92 C61.4 74.13 77.39 66 93 66 C105.34 66 117.4 71.17 128 80 C138.6 88.83 150.66 94 163 94 C178.61 94 194.6 85.87 208 68"/>
     <path d="M48 148 L208 148"/>
     <path d="M48 196 L208 196"/>
   </g>

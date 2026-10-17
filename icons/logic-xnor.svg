@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="xnor gate,logic,circuit,boolean">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M76 64 C131 64 154 84 176 128 C154 172 131 192 76 192 Q120 128 76 64 Z"/>
+    <path d="M76 64 C131 64 154 84 176 128 C154 172 131 192 76 192 C90.67 170.67 98 149.33 98 128 C98 106.67 90.67 85.33 76 64 Z"/>
     <circle cx="194" cy="128" r="18"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M76 64 C131 64 154 84 176 128 C154 172 131 192 76 192 Q120 128 76 64 Z"/>
-    <path d="M32 96 L56.5 96"/>
-    <path d="M32 160 L56.5 160"/>
-    <path d="M40 64 Q84 128 40 192"/>
+    <path d="M76 64 C131 64 154 84 176 128 C154 172 131 192 76 192 C90.67 170.67 98 149.33 98 128 C98 106.67 90.67 85.33 76 64 Z"/>
+    <path d="M32 96 L56 96"/>
+    <path d="M32 160 L56 160"/>
+    <path d="M40 64 C54.67 85.33 62 106.67 62 128 C62 149.33 54.67 170.67 40 192"/>
     <circle cx="194" cy="128" r="18"/>
     <path d="M212 128 L224 128"/>
   </g>

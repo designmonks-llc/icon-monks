@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="vr headset,disabled,off,vr,virtual reality">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 80 H180 A28 28 0 0 1 208 108 V156 A20 20 0 0 1 188 176 H160 L146 152 H110 L96 176 H68 A20 20 0 0 1 48 156 V108 A28 28 0 0 1 76 80 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M76 80 H180 A28 28 0 0 1 208 108 V156 A20 20 0 0 1 188 176 H160 L146 152 H110 L96 176 H68 A20 20 0 0 1 48 156 V108 A28 28 0 0 1 76 80 Z"/>
     <path d="M32 124 L48 124"/>
     <path d="M208 124 L224 124"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

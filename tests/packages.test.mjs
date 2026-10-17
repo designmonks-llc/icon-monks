@@ -74,3 +74,15 @@ test('font codepoints are stable and unique', () => {
   assert.equal(new Set(values).size, values.length);
   for (const { name } of icons) assert.ok(cps[name] >= 0xe000, name);
 });
+
+// Size budgets: the outlines write round caps and joins as arcs (scripts/build.py, to_d). A build that falls back to
+// chains of short curves roughly doubles these numbers and fails here.
+test('svg outputs stay within their size budget', () => {
+  for (const w of weights) {
+    const dir = new URL(`../svg/${w}/`, import.meta.url);
+    const sizes = readdirSync(dir).map((f) => readFileSync(new URL(f, dir)).length);
+    const avg = sizes.reduce((a, b) => a + b, 0) / sizes.length;
+    assert.ok(avg <= (w === 'duotone' ? 1150 : 1000), `${w}: average ${Math.round(avg)} bytes`);
+    assert.ok(Math.max(...sizes) <= 6144, `${w}: largest ${Math.max(...sizes)} bytes`);
+  }
+});

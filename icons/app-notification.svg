@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="app,badge,notification,indicator,app badge">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126.13 72 H64 A32 32 0 0 0 32 104 V192 A32 32 0 0 0 64 224 H152 A32 32 0 0 0 184 192 V129.87 A62 62 0 0 1 126.13 72 Z"/>
+    <path d="M126 72 H64 A32 32 0 0 0 32 104 V192 A32 32 0 0 0 64 224 H152 A32 32 0 0 0 184 192 V130 A62 62 0 0 1 126 72 Z"/>
     <circle cx="188" cy="68" r="30"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126.13 72 H64 A32 32 0 0 0 32 104 V192 A32 32 0 0 0 64 224 H152 A32 32 0 0 0 184 192 V129.87"/>
+    <path d="M126 72 H64 A32 32 0 0 0 32 104 V192 A32 32 0 0 0 64 224 H152 A32 32 0 0 0 184 192 V130"/>
     <circle cx="188" cy="68" r="30"/>
   </g>
 </svg>

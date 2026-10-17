@@ -1,9 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="coffee,disabled,off,food">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 88 H176 V152 A56 56 0 0 1 120 208 H104 A56 56 0 0 1 48 152 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 88 H176 V152 A56 56 0 0 1 120 208 H104 A56 56 0 0 1 48 152 Z"/>
     <path d="M176 104 H192 A24 24 0 0 1 192 152 H174"/>
     <path d="M88 32 L88 56"/>
     <path d="M136 32 L136 56"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

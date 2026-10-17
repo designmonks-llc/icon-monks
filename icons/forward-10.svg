@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="forward 10 seconds,skip,ahead,video">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="forward 10 seconds,skip,ahead,video">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M216 136 A88 88 0 1 1 190.23 73.77"/>
-    <path d="M154.23 73.77 L190.23 73.77 L190.23 37.77"/>
+    <path d="M216 136 A88 88 0 1 1 190 74"/>
+    <path d="M154 74 L190 74 L190 38"/>
     <path d="M86 120 L100 108 L100 168"/>
     <rect x="132" y="108" width="40" height="60" rx="20"/>
   </g>

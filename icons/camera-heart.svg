@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="camera,favorite,like,photo,picture">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131.2 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 142 A58 58 0 0 0 131.2 208 Z"/>
-    <path d="M184 210.48 C184 210.48 151.36 192.8 151.36 171.72 A17 17 0 0 1 184 164.92 A17 17 0 0 1 216.64 171.72 C216.64 192.8 184 210.48 184 210.48 Z"/>
+    <path d="M131 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 142 A58 58 0 0 0 131 208 Z"/>
+    <path d="M184 210 C184 210 151 193.08 151 172 A17 17 0 0 1 184 165 A17 17 0 0 1 217 172 C217 193.08 184 210 184 210 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M131.2 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 142"/>
-    <path d="M184 210.48 C184 210.48 151.36 192.8 151.36 171.72 A17 17 0 0 1 184 164.92 A17 17 0 0 1 216.64 171.72 C216.64 192.8 184 210.48 184 210.48 Z"/>
+    <path d="M131 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 142"/>
+    <path d="M184 210 C184 210 151 193.08 151 172 A17 17 0 0 1 184 165 A17 17 0 0 1 217 172 C217 193.08 184 210 184 210 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="96" cy="132" r="28"/>

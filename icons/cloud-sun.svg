@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="partly cloudy,weather,sun,cloud,forecast">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M104 192 H180.8 A35.2 35.2 0 0 0 189.65 122.73 A48 48 0 0 0 94.43 129.46 A32 32 0 0 0 104 192 Z"/>
-    <path d="M106.41 68.64C104.34 68.22 102.2 68 100 68C82.33 68 68 82.33 68 100C68 105.15 69.22 110.02 71.38 114.33Q71.92 113.95 72.47 113.58Q76.87 95.39 90.61 81.16Q97.91 73.6 106.41 68.64Z"/>
+    <path d="M104 192 H181 A35.2 35.2 0 0 0 190 123 A48 48 0 0 0 94 129 A32 32 0 0 0 104 192 Z"/>
+    <path d="M106 69 C103.93 68.58 102.2 68 100 68 C82.33 68 68 82.33 68 100 C68 105.15 68.84 109.69 71 114 Q71.5 114 72 114 Q76.83 95.52 91 81 Q97.9 73.7 106 69 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M104 192 H180.8 A35.2 35.2 0 0 0 189.65 122.73 A48 48 0 0 0 94.43 129.46 A32 32 0 0 0 104 192 Z"/>
-    <path d="M71.44 114.44 A32 32 0 0 1 106.65 68.7"/>
+    <path d="M104 192 H181 A35.2 35.2 0 0 0 190 123 A48 48 0 0 0 94 129 A32 32 0 0 0 104 192 Z"/>
+    <path d="M71 114 A32 32 0 0 1 107 69"/>
     <path d="M48 100 L32 100"/>
-    <path d="M63.23 63.23 L51.92 51.92"/>
+    <path d="M63 63 L52 52"/>
     <path d="M100 48 L100 32"/>
   </g>
 </svg>

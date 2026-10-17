@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="locked phone,screen lock,rotation lock,phone">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 124.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H133.08 A64 64 0 0 1 184 124.03 Z"/>
+    <path d="M184 124 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H133 A64 64 0 0 1 184 124 Z"/>
     <rect x="158" y="182" width="56" height="42" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 124.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H133.08"/>
+    <path d="M184 124 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H133"/>
     <rect x="158" y="182" width="56" height="42" rx="8"/>
     <path d="M170 182 V170 A16 16 0 0 1 202 170 V182"/>
   </g>

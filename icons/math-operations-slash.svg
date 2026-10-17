@@ -6,10 +6,12 @@
     <path d="M56 152 L104 200"/>
     <path d="M104 152 L56 200"/>
     <path d="M144 176 L208 176"/>
-    <path d="M48 48 L208 208"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="176" cy="144" r="14"/>
     <circle cx="176" cy="208" r="14"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

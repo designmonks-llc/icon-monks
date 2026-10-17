@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="globe,dollar,price,money">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M223.82 133.9 A96 96 0 1 0 133.9 223.82 A64 64 0 0 1 223.82 133.9 Z"/>
+    <path d="M224 134 A96 96 0 1 0 134 224 A64 64 0 0 1 224 134 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M223.82 133.9 A96 96 0 1 0 133.9 223.82"/>
+    <path d="M224 134 A96 96 0 1 0 134 224"/>
     <path d="M200 160 H180 A12 12 0 0 0 180 184 H188 A12 12 0 0 1 188 208 H168"/>
     <path d="M184 146 L184 160"/>
     <path d="M184 208 L184 222"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 224 A40 96 0 0 1 128 32 A40 96 0 0 1 167.9 121.3"/>
-    <path d="M32 128 L153.02 128"/>
+    <path d="M128 224 A40 96 0 0 1 128 32 A40 96 0 0 1 168 121"/>
+    <path d="M32 128 L153 128"/>
   </g>
 </svg>

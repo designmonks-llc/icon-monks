@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="pliers,wire stripper,tool,grip">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M135.16 149.98 L150.28 203.74 A18 18 0 1 0 184.84 194.02 L169.72 140.26 A18 18 0 0 0 135.16 149.98 Z"/>
-    <path d="M86.28 140.26 L71.16 194.02 A18 18 0 0 0 105.72 203.74 L120.84 149.98 A18 18 0 1 0 86.28 140.26 Z"/>
+    <path d="M135 150 L150 204 A18 18 0 1 0 185 194 L170 140 A18 18 0 0 0 135 150 Z"/>
+    <path d="M86 140 L71 194 A18 18 0 0 0 106 204 L121 150 A18 18 0 1 0 86 140 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M100 36 C96 68 104 92 128 112 C152 136 164 176 172 216"/>
     <path d="M156 36 C160 68 152 92 128 112 C104 136 92 176 84 216"/>
-    <path d="M135.16 149.98 L150.28 203.74 A18 18 0 1 0 184.84 194.02 L169.72 140.26 A18 18 0 0 0 135.16 149.98 Z"/>
-    <path d="M86.28 140.26 L71.16 194.02 A18 18 0 0 0 105.72 203.74 L120.84 149.98 A18 18 0 1 0 86.28 140.26 Z"/>
+    <path d="M135 150 L150 204 A18 18 0 1 0 185 194 L170 140 A18 18 0 0 0 135 150 Z"/>
+    <path d="M86 140 L71 194 A18 18 0 0 0 106 204 L121 150 A18 18 0 1 0 86 140 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="128" cy="112" r="8"/>

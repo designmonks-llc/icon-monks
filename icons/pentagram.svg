@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="pentagram,star,five point,symbol">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 36 L187 217 L33 105 L223 105 L69 217 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 36 L186.78 216.9 L32.89 105.1 L223.11 105.1 L69.22 216.9 Z"/>
+    <path d="M128 36 L187 217 L33 105 L223 105 L69 217 Z"/>
   </g>
 </svg>

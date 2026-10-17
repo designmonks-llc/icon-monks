@@ -1,10 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="radio,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="88" width="192" height="128" rx="16"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="32" y="88" width="192" height="128" rx="16"/>
     <path d="M72 88 L184 40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="92" cy="152" r="28"/>
     <path d="M152 136 L184 136"/>
     <path d="M152 168 L184 168"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

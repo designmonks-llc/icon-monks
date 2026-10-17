@@ -1,8 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="hexagons,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 34 L175 60 L175 114 L128 142 L81 114 L81 60 Z"/>
+    <path d="M81 114 L128 142 L128 196 L81 222 L34 196 L34 142 Z"/>
+    <path d="M175 114 L222 142 L222 196 L175 222 L128 196 L128 142 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 33.5 L174.77 60.5 L174.77 114.5 L128 141.5 L81.23 114.5 L81.23 60.5 Z"/>
-    <path d="M81.23 114.5 L128 141.5 L128 195.5 L81.23 222.5 L34.47 195.5 L34.47 141.5 Z"/>
-    <path d="M174.77 114.5 L221.53 141.5 L221.53 195.5 L174.77 222.5 L128 195.5 L128 141.5 Z"/>
+    <path d="M128 34 L175 60 L175 114 L128 142 L81 114 L81 60 Z"/>
+    <path d="M81 114 L128 142 L128 196 L81 222 L34 196 L34 142 Z"/>
+    <path d="M175 114 L222 142 L222 196 L175 222 L128 196 L128 142 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M81 114 L128 142 L175 114"/>
+    <path d="M128 142 L128 196"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

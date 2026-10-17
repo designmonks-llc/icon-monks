@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="circle,dashed,dotted,draft,dashed circle">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M115.07 32.87 A96 96 0 0 1 128 32 A96 96 0 0 1 140.93 32.87"/>
-    <path d="M173.45 43.44 A96 96 0 0 1 194.37 58.64"/>
-    <path d="M214.47 86.31 A96 96 0 0 1 222.46 110.9"/>
-    <path d="M222.47 145.1 A96 96 0 0 1 214.47 169.69"/>
-    <path d="M194.37 197.36 A96 96 0 0 1 173.45 212.56"/>
-    <path d="M140.93 223.13 A96 96 0 0 1 115.07 223.13"/>
-    <path d="M82.55 212.56 A96 96 0 0 1 61.63 197.36"/>
-    <path d="M41.53 169.69 A96 96 0 0 1 33.54 145.1"/>
-    <path d="M33.53 110.9 A96 96 0 0 1 41.53 86.31"/>
-    <path d="M61.63 58.64 A96 96 0 0 1 82.55 43.44"/>
+    <path d="M115 33 A96 96 0 0 1 128 32 A96 96 0 0 1 141 33"/>
+    <path d="M173 43 A96 96 0 0 1 194 59"/>
+    <path d="M214 86 A96 96 0 0 1 222 111"/>
+    <path d="M222 145 A96 96 0 0 1 214 170"/>
+    <path d="M194 197 A96 96 0 0 1 173 213"/>
+    <path d="M141 223 A96 96 0 0 1 115 223"/>
+    <path d="M83 213 A96 96 0 0 1 62 197"/>
+    <path d="M42 170 A96 96 0 0 1 34 145"/>
+    <path d="M34 111 A96 96 0 0 1 42 86"/>
+    <path d="M62 59 A96 96 0 0 1 83 43"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map pin,warning,alert,error,map">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131.52 208.7 C122.47 218.25 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 111.25 186.79 118.64 184.69 126 A58 58 0 0 0 131.52 208.7 Z"/>
+    <path d="M132 209 C122.95 218.55 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 111.25 187.1 118.64 185 126 A58 58 0 0 0 132 209 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M131.52 208.7 C122.47 218.25 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 111.25 186.79 118.64 184.69 126"/>
+    <path d="M132 209 C122.95 218.55 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 111.25 187.1 118.64 185 126"/>
     <path d="M184 150 L184 182"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

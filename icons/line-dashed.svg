@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="dashed line,stroke,dashes,style">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44 212 L80.77 175.23"/>
-    <path d="M109.62 146.38 L146.38 109.62"/>
-    <path d="M175.23 80.77 L212 44"/>
+    <path d="M44 212 L81 175"/>
+    <path d="M110 146 L146 110"/>
+    <path d="M175 81 L212 44"/>
   </g>
 </svg>

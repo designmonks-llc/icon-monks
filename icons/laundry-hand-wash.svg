@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="hand wash,laundry,care symbol,delicate">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 120 C48 104 64 104 80 120 C96 136 112 136 128 120 C144 104 160 104 176 120 C192 136 208 136 224 120 L200 208 H56 Z"/>
+    <path d="M32 120 C40 112 48 108 56 108 C64 108 72 112 80 120 C88 128 96 132 104 132 C112 132 120 128 128 120 C136 112 144 108 152 108 C160 108 168 112 176 120 C184 128 192 132 200 132 C208 132 216 128 224 120 L200 208 H56 Z"/>
     <path d="M112 120 V64 A24 24 0 0 1 160 64 V120 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 120 L56 208 H200 L224 120"/>
-    <path d="M32 120 C48 104 64 104 80 120 C96 136 112 136 128 120 C144 104 160 104 176 120 C192 136 208 136 224 120"/>
+    <path d="M32 120 C40 112 48 108 56 108 C64 108 72 112 80 120 C88 128 96 132 104 132 C112 132 120 128 128 120 C136 112 144 108 152 108 C160 108 168 112 176 120 C184 128 192 132 200 132 C208 132 216 128 224 120"/>
     <path d="M112 120 V64 A24 24 0 0 1 160 64 V120"/>
     <path d="M112 104 L84 76"/>
   </g>

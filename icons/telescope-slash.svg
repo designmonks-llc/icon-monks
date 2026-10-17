@@ -1,9 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="telescope,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 121 L179 52 A10 10 0 0 1 194 55 L213 89 A10 10 0 0 1 209 103 L97 157 A10 10 0 0 1 84 153 L73 135 A10 10 0 0 1 76 121 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M76.38 121.47 L179.46 52.01 A10 10 0 0 1 193.71 55.3 L212.99 88.7 A10 10 0 0 1 208.72 102.68 L97.02 157.23 A10 10 0 0 1 83.98 153.24 L73.31 134.76 A10 10 0 0 1 76.38 121.47 Z"/>
-    <path d="M47.46 162 L68.25 150"/>
+    <path d="M76 121 L179 52 A10 10 0 0 1 194 55 L213 89 A10 10 0 0 1 209 103 L97 157 A10 10 0 0 1 84 153 L73 135 A10 10 0 0 1 76 121 Z"/>
+    <path d="M47 162 L68 150"/>
     <path d="M136 140 L96 216"/>
     <path d="M136 140 L176 216"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

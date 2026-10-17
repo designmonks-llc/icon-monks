@@ -3,8 +3,8 @@
     <path d="M56 208 L56 168"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="104" cy="208" r="10.67"/>
-    <circle cx="152" cy="208" r="10.67"/>
-    <circle cx="200" cy="208" r="10.67"/>
+    <circle cx="104" cy="208" r="11"/>
+    <circle cx="152" cy="208" r="11"/>
+    <circle cx="200" cy="208" r="11"/>
   </g>
 </svg>

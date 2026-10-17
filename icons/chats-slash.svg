@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat disabled,messages off,mute,conversation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 192 L32 216 V104 A16 16 0 0 1 48 88 H152 A16 16 0 0 1 168 104 V176 A16 16 0 0 1 152 192 Z"/>
+    <path d="M88 88 V56 A16 16 0 0 1 104 40 H208 A16 16 0 0 1 224 56 V184 L192 152 H168 V88 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M149.57 192 L64 192 L32 216 L32 104 A16 16 0 0 1 45.73 88.16"/>
-    <path d="M130.43 88 L152 88 A16 16 0 0 1 168 104 L168 125.57"/>
-    <path d="M90.25 47.82 A16 16 0 0 1 104 40 L208 40 A16 16 0 0 1 224 56 L224 181.57"/>
+    <path d="M64 192 L32 216 V104 A16 16 0 0 1 48 88 H152 A16 16 0 0 1 168 104 V176 A16 16 0 0 1 152 192 Z"/>
+    <path d="M88 88 V56 A16 16 0 0 1 104 40 H208 A16 16 0 0 1 224 56 V184 L192 152 H168"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

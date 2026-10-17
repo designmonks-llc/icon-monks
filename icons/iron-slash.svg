@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="do not iron,laundry,care label,iron,care symbol">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 192 L216 192 V136 A24 24 0 0 0 192 112 H120 C76 112 44 140 32 192 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 192 L216 192 V136 A24 24 0 0 0 192 112 H120 C76 112 44 140 32 192 Z"/>
     <path d="M112 112 L124 72 H184 A16 16 0 0 1 200 88 V112"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M92 156 L180 156"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="read mail,email read,sent,done,mail sent">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M130.33 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 144.81 A56 56 0 0 0 130.33 200 Z"/>
+    <path d="M130 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 145 A56 56 0 0 0 130 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M130.33 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 144.81"/>
+    <path d="M130 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 145"/>
     <path d="M158 186 L176 204 L210 168"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

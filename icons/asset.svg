@@ -8,8 +8,8 @@
     <rect x="100" y="32" width="56" height="56" rx="12"/>
     <circle cx="64" cy="184" r="28"/>
     <circle cx="192" cy="184" r="28"/>
-    <path d="M113.5 88 L76.8 159.1"/>
-    <path d="M142.5 88 L179.2 159.1"/>
+    <path d="M114 88 L77 159"/>
+    <path d="M142 88 L179 159"/>
     <path d="M92 184 L164 184"/>
   </g>
 </svg>

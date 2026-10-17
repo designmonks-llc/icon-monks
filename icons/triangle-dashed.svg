@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="dashed triangle,shape,outline,draft">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M165.08 104.9 L186.92 143.1"/>
+    <path d="M165 105 L187 143"/>
     <path d="M150 208 L106 208"/>
-    <path d="M69.08 143.1 L90.92 104.9"/>
-    <path d="M113.12 66.05 L128 40 L142.88 66.05"/>
-    <path d="M209.12 181.95 L224 208 L194 208"/>
-    <path d="M62 208 L32 208 L46.88 181.95"/>
+    <path d="M69 143 L91 105"/>
+    <path d="M113 66 L128 40 L143 66"/>
+    <path d="M209 182 L224 208 L194 208"/>
+    <path d="M62 208 L32 208 L47 182"/>
   </g>
 </svg>

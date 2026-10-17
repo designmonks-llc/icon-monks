@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="cart off,remove from cart,no shopping,cart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M73 80 H224 L200 160 H92 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 40 L56 40 L84 160 L192 160 L216 80 L65 80"/>
-    <circle cx="96" cy="204" r="16"/>
-    <circle cx="184" cy="204" r="16"/>
+    <path d="M32 40 L64 40 L92 160 L200 160 L224 80 L73 80"/>
+    <circle cx="104" cy="204" r="16"/>
+    <circle cx="192" cy="204" r="16"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

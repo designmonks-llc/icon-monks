@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock,money,price,time,hour">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M138.75 223.4 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.4 138.75 A60 60 0 0 0 138.75 223.4 Z"/>
+    <path d="M139 223 A96 96 0 0 1 60 60 A96 96 0 0 1 223 139 A60 60 0 0 0 139 223 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M138.75 223.4 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.4 138.75"/>
+    <path d="M139 223 A96 96 0 0 1 60 60 A96 96 0 0 1 223 139"/>
     <path d="M200 160 H180 A12 12 0 0 0 180 184 H188 A12 12 0 0 1 188 208 H168"/>
     <path d="M184 146 L184 160"/>
     <path d="M184 208 L184 222"/>

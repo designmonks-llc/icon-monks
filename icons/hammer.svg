@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tool,build,construction,repair">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M55.98 97.92 L121.03 32.86 L160.63 72.46 L95.57 137.51 L53.15 157.31 L36.18 140.34 Z"/>
-    <path d="M98.4 134.69 L126.69 106.4 L203.05 182.77 A20 20 0 0 1 174.77 211.05 Z"/>
+    <path d="M56 98 L121 33 L161 72 L96 138 L53 157 L36 140 Z"/>
+    <path d="M98 135 L127 106 L203 183 A20 20 0 0 1 175 211 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M55.98 97.92 L121.03 32.86 L160.63 72.46 L95.57 137.51 L53.15 157.31 L36.18 140.34 Z"/>
-    <path d="M98.4 134.69 L126.69 106.4 L203.05 182.77 A20 20 0 0 1 174.77 211.05 Z"/>
+    <path d="M56 98 L121 33 L161 72 L96 138 L53 157 L36 140 Z"/>
+    <path d="M98 135 L127 106 L203 183 A20 20 0 0 1 175 211 Z"/>
   </g>
 </svg>

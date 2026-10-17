@@ -6,7 +6,7 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="76" cy="108" r="24"/>
     <circle cx="172" cy="68" r="32"/>
-    <path d="M48 168 C56 152 76 146 100 150 L150 102"/>
+    <path d="M48 168 C54.4 155.2 68.34 149 86 149 C90.42 149 95.2 149.2 100 150 L150 102"/>
     <path d="M32 184 Q48 169 64 184 T96 184 T128 184 T160 184 T192 184 T224 184"/>
     <path d="M32 216 Q48 201 64 216 T96 216 T128 216 T160 216 T192 216 T224 216"/>
   </g>

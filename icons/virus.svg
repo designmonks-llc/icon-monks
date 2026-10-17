@@ -5,23 +5,23 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="60"/>
     <path d="M188 128 L204 128"/>
-    <path d="M170.43 170.43 L181.74 181.74"/>
+    <path d="M170 170 L182 182"/>
     <path d="M128 188 L128 204"/>
-    <path d="M85.57 170.43 L74.26 181.74"/>
+    <path d="M86 170 L74 182"/>
     <path d="M68 128 L52 128"/>
-    <path d="M85.57 85.57 L74.26 74.26"/>
+    <path d="M86 86 L74 74"/>
     <path d="M128 68 L128 52"/>
-    <path d="M170.43 85.57 L181.74 74.26"/>
+    <path d="M170 86 L182 74"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="214" cy="128" r="16"/>
-    <circle cx="188.81" cy="188.81" r="16"/>
+    <circle cx="189" cy="189" r="16"/>
     <circle cx="128" cy="214" r="16"/>
-    <circle cx="67.19" cy="188.81" r="16"/>
+    <circle cx="67" cy="189" r="16"/>
     <circle cx="42" cy="128" r="16"/>
-    <circle cx="67.19" cy="67.19" r="16"/>
+    <circle cx="67" cy="67" r="16"/>
     <circle cx="128" cy="42" r="16"/>
-    <circle cx="188.81" cy="67.19" r="16"/>
+    <circle cx="189" cy="67" r="16"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="108" cy="116" r="12"/>

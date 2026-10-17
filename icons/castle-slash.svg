@@ -1,10 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="castle,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M47 210 V54 H62 V77 H87 V54 H102 V114 H154 V54 H169 V77 H194 V54 H209 V210 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M117 210 V176 A11 11 0 0 1 139 176 V210 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 216 V48 H56 V72 H84 V48 H100 V112 H156 V48 H172 V72 H200 V48 H216 V216"/>
-    <path d="M24 216 L232 216"/>
-    <path d="M108 216 V180 A20 20 0 0 1 148 180 V216"/>
-    <path d="M70 108 L70 140"/>
-    <path d="M186 108 L186 140"/>
+    <path d="M47 210 V54 H62 V77 H87 V54 H102 V114 H154 V54 H169 V77 H194 V54 H209 V210"/>
+    <path d="M32 210 L224 210"/>
+    <path d="M110 210 V176 A18.46 18.46 0 0 1 146 176 V210"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74 110 L74 139"/>
+    <path d="M182 110 L182 139"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

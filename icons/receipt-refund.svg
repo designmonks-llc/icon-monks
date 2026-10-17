@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="refund,return,receipt,money back">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128.92 208.62 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 121.14 A64 64 0 0 0 128.92 208.62 Z"/>
+    <path d="M129 209 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 121 A64 64 0 0 0 129 209 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128.92 208.62 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 121.14"/>
+    <path d="M129 209 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 121"/>
     <path d="M160 168 L196 168 A20 20 0 0 1 196 208 L172 208"/>
     <path d="M180 148 L160 168 L180 188"/>
   </g>

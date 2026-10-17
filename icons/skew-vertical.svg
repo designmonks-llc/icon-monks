@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="skew y,slant,transform,shear">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 101.2 A8 8 0 0 1 60.75 93.89 L188.75 37 A8 8 0 0 1 200 44.31 L200 154.8 A8 8 0 0 1 195.25 162.11 L67.25 219 A8 8 0 0 1 56 211.69 Z"/>
+    <path d="M56 101 A8 8 0 0 1 61 94 L189 37 A8 8 0 0 1 200 44 L200 155 A8 8 0 0 1 195 162 L67 219 A8 8 0 0 1 56 212 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 101.2 A8 8 0 0 1 60.75 93.89 L188.75 37 A8 8 0 0 1 200 44.31 L200 154.8 A8 8 0 0 1 195.25 162.11 L67.25 219 A8 8 0 0 1 56 211.69 Z"/>
+    <path d="M56 101 A8 8 0 0 1 61 94 L189 37 A8 8 0 0 1 200 44 L200 155 A8 8 0 0 1 195 162 L67 219 A8 8 0 0 1 56 212 Z"/>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music note,favorite,starred,featured,music">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="88" cy="184" r="32"/>
-    <path d="M188 158 L196.23 178.67 L218.43 180.11 L201.31 194.33 L206.81 215.89 L188 204 L169.19 215.89 L174.69 194.33 L157.57 180.11 L179.77 178.67 Z"/>
+    <path d="M188 158 L196 179 L218 180 L201 194 L207 216 L188 204 L169 216 L175 194 L158 180 L180 179 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="88" cy="184" r="32"/>
     <path d="M120 184 L120 40"/>
-    <path d="M120 40 C152 48 192 64 184 112"/>
-    <path d="M188 158 L196.23 178.67 L218.43 180.11 L201.31 194.33 L206.81 215.89 L188 204 L169.19 215.89 L174.69 194.33 L157.57 180.11 L179.77 178.67 Z"/>
+    <path d="M120 40 C149.19 47.3 185 61.17 185 100 C185 103.74 184.7 107.78 184 112"/>
+    <path d="M188 158 L196 179 L218 180 L201 194 L207 216 L188 204 L169 216 L175 194 L158 180 L180 179 Z"/>
   </g>
 </svg>

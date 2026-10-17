@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="takeout,takeaway,noodle box,delivery">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M90.67 72 L165.33 72 A6 6 0 0 1 169.79 73.99 L202 109.78 A6 6 0 0 1 203.44 114.93 L185.87 206.27 A12 12 0 0 1 174.09 216 L81.91 216 A12 12 0 0 1 70.13 206.27 L52.56 114.93 A6 6 0 0 1 54 109.78 L86.21 73.99 A6 6 0 0 1 90.67 72 Z"/>
+    <path d="M91 72 L165 72 A6 6 0 0 1 170 74 L202 110 A6 6 0 0 1 203 115 L186 206 A12 12 0 0 1 174 216 L82 216 A12 12 0 0 1 70 206 L53 115 A6 6 0 0 1 54 110 L86 74 A6 6 0 0 1 91 72 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M90.67 72 L165.33 72 A6 6 0 0 1 169.79 73.99 L202 109.78 A6 6 0 0 1 203.44 114.93 L185.87 206.27 A12 12 0 0 1 174.09 216 L81.91 216 A12 12 0 0 1 70.13 206.27 L52.56 114.93 A6 6 0 0 1 54 109.78 L86.21 73.99 A6 6 0 0 1 90.67 72 Z"/>
-    <path d="M70 92 C56 16 200 16 186 92"/>
+    <path d="M91 72 L165 72 A6 6 0 0 1 170 74 L202 110 A6 6 0 0 1 203 115 L186 206 A12 12 0 0 1 174 216 L82 216 A12 12 0 0 1 70 206 L53 115 A6 6 0 0 1 54 110 L86 74 A6 6 0 0 1 91 72 Z"/>
+    <path d="M70 92 C63 54 95.5 35 128 35 C160.5 35 193 54 186 92"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 112 L200 112"/>

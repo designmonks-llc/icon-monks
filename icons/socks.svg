@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="socks,clothing,feet,laundry,sock">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 32 H156 V128 L204 164 A36 36 0 0 1 160 220 L100 176 C90 168 84 156 84 140 Z"/>
+    <path d="M84 32 H156 V128 L204 164 A36 36 0 0 1 160 220 L100 176 C90.84 167.44 84.92 155.6 84 140 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 32 H156 V128 L204 164 A36 36 0 0 1 160 220 L100 176 C90 168 84 156 84 140 Z"/>
+    <path d="M84 32 H156 V128 L204 164 A36 36 0 0 1 160 220 L100 176 C90.84 167.44 84.92 155.6 84 140 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M108 68 L132 68"/>

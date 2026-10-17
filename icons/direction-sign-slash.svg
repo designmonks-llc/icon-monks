@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="direction sign,disabled,off,sign,road sign">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 42 C117.33 36.81 122.67 34 128 34 C133.33 34 138.67 36.81 144 42 L214 112 C219.19 117.33 222 122.67 222 128 C222 133.33 219.19 138.67 214 144 L144 214 C138.67 219.19 133.33 222 128 222 C122.67 222 117.33 219.19 112 214 L42 144 C36.81 138.67 34 133.33 34 128 C34 122.67 36.81 117.33 42 112 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M112.44 41.56 Q128 26 143.56 41.56 L214.44 112.44 Q230 128 214.44 143.56 L143.56 214.44 Q128 230 112.44 214.44 L41.56 143.56 Q26 128 41.56 112.44 Z"/>
+    <path d="M112 42 C117.33 36.81 122.67 34 128 34 C133.33 34 138.67 36.81 144 42 L214 112 C219.19 117.33 222 122.67 222 128 C222 133.33 219.19 138.67 214 144 L144 214 C138.67 219.19 133.33 222 128 222 C122.67 222 117.33 219.19 112 214 L42 144 C36.81 138.67 34 133.33 34 128 C34 122.67 36.81 117.33 42 112 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M108 168 V140 A12 12 0 0 1 120 128 H162"/>
     <path d="M140 106 L162 128 L140 150"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

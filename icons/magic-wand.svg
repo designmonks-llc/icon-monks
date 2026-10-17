@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="magic,wizard,auto,enhance,ai">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M67.72 210.91 L146.91 131.72 A16 16 0 1 0 124.28 109.09 L45.09 188.28 A16 16 0 0 0 67.72 210.91 Z"/>
+    <path d="M68 211 L147 132 A16 16 0 1 0 124 109 L45 188 A16 16 0 0 0 68 211 Z"/>
     <path d="M180 36 C183.33 62.67 193.33 72.67 220 76 C193.33 79.33 183.33 89.33 180 116 C176.67 89.33 166.67 79.33 140 76 C166.67 72.67 176.67 62.67 180 36 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M67.72 210.91 L146.91 131.72 A16 16 0 1 0 124.28 109.09 L45.09 188.28 A16 16 0 0 0 67.72 210.91 Z"/>
+    <path d="M68 211 L147 132 A16 16 0 1 0 124 109 L45 188 A16 16 0 0 0 68 211 Z"/>
     <path d="M180 36 C183.33 62.67 193.33 72.67 220 76 C193.33 79.33 183.33 89.33 180 116 C176.67 89.33 166.67 79.33 140 76 C166.67 72.67 176.67 62.67 180 36 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M104.5 128.9 L127.1 151.5"/>
+    <path d="M104 129 L127 152"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="88" cy="56" r="12"/>

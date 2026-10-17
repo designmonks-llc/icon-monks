@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="0.5x,half speed,playback,slow">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="0.5x,half speed,playback,slow">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="20" y="92" width="47.52" height="72" rx="23.76"/>
-    <path d="M172 92 H129.47 L127.47 125.48 A24.48 24.48 0 1 1 127.47 153.56"/>
-    <path d="M200 122.24 L236 164"/>
-    <path d="M236 122.24 L200 164"/>
+    <rect x="32" y="96" width="42" height="64" rx="21"/>
+    <path d="M167 96 H129 L128 126 A22 22 0 1 1 128 151"/>
+    <path d="M192 123 L224 160"/>
+    <path d="M224 123 L192 160"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="96.72" cy="160" r="12"/>
+    <circle cx="100" cy="156" r="12"/>
   </g>
 </svg>

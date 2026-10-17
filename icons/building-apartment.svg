@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="apartment,residential,block">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 216 V48 A16 16 0 0 1 64 32 H192 A16 16 0 0 1 208 48 V216 Z"/>
+    <path d="M54 209 V54 A15 15 0 0 1 69 39 H187 A15 15 0 0 1 202 54 V209 Z"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M116 216 V192 H140 V216 Z"/>
+    <path d="M117 209 V187 H139 V209 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 216 V48 A16 16 0 0 1 64 32 H192 A16 16 0 0 1 208 48 V216"/>
-    <path d="M24 216 L232 216"/>
-    <path d="M108 216 V184 H148 V216"/>
+    <path d="M54 209 V54 A15 15 0 0 1 69 39 H187 A15 15 0 0 1 202 54 V209"/>
+    <path d="M32 209 L224 209"/>
+    <path d="M110 209 V179 H146 V209"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="88" cy="72" r="12"/>
-    <circle cx="88" cy="108" r="12"/>
-    <circle cx="88" cy="144" r="12"/>
-    <circle cx="128" cy="72" r="12"/>
-    <circle cx="128" cy="108" r="12"/>
-    <circle cx="128" cy="144" r="12"/>
-    <circle cx="168" cy="72" r="12"/>
-    <circle cx="168" cy="108" r="12"/>
-    <circle cx="168" cy="144" r="12"/>
+    <circle cx="91" cy="76" r="12"/>
+    <circle cx="91" cy="109" r="12"/>
+    <circle cx="91" cy="142" r="12"/>
+    <circle cx="128" cy="76" r="12"/>
+    <circle cx="128" cy="109" r="12"/>
+    <circle cx="128" cy="142" r="12"/>
+    <circle cx="165" cy="76" r="12"/>
+    <circle cx="165" cy="109" r="12"/>
+    <circle cx="165" cy="142" r="12"/>
   </g>
 </svg>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="torch,flame,olympic,fire,olympic flame">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M100 116 C84 92 100 64 128 32 C156 64 172 92 156 116 Z"/>
+    <path d="M100 116 C95.63 109.44 94 102.16 94 95 C94 75.97 107.65 55.25 128 32 C148.35 55.25 162 75.97 162 95 C162 102.16 160.37 109.44 156 116 Z"/>
     <path d="M72 116 L184 116 L152 148 L140 216 L116 216 L104 148 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100 116 C84 92 100 64 128 32 C156 64 172 92 156 116"/>
+    <path d="M100 116 C95.63 109.44 94 102.16 94 95 C94 75.97 107.65 55.25 128 32 C148.35 55.25 162 75.97 162 95 C162 102.16 160.37 109.44 156 116"/>
     <path d="M72 116 L184 116 L152 148 L140 216 L116 216 L104 148 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

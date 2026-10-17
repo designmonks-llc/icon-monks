@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="windy,cloud,wind,breeze">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M88 140.8 L164.8 140.8 A35.2 35.2 0 0 0 173.65 71.53 A48 48 0 0 0 78.43 78.26 A32 32 0 0 0 88 140.8 Z"/>
+    <path d="M88 146 L165 146 A35 35 0 0 0 174 77 A48 48 0 0 0 78 83 A32 32 0 0 0 88 146 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88 140.8 L164.8 140.8 A35.2 35.2 0 0 0 173.65 71.53 A48 48 0 0 0 78.43 78.26 A32 32 0 0 0 88 140.8 Z"/>
-    <path d="M40 212 H182 A18 18 0 1 0 164 194"/>
-    <path d="M64 176 L136 176"/>
+    <path d="M88 146 L165 146 A35 35 0 0 0 174 77 A48 48 0 0 0 78 83 A32 32 0 0 0 88 146 Z"/>
+    <path d="M40 217 H182 A18 18 0 1 0 164 199"/>
+    <path d="M64 181 L136 181"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="charging,power,battery">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128.25 168 L64 168 A12 12 0 0 1 52 156 L52 68 A12 12 0 0 1 64 56 L192 56 A12 12 0 0 1 204 68 L204 129.56 A58 58 0 0 0 128.25 168 Z"/>
-    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+    <path d="M132 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 130 A58 58 0 0 0 132 168 Z"/>
+    <path d="M194 150 L166 190 L188 190 L182 218 L210 178 L188 178 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128.25 168 L64 168 A12 12 0 0 1 52 156 L52 68 A12 12 0 0 1 64 56 L192 56 A12 12 0 0 1 204 68 L204 129.56"/>
-    <path d="M28 196 L127.25 196"/>
-    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+    <path d="M132 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 130"/>
+    <path d="M32 196 L131 196"/>
+    <path d="M194 150 L166 190 L188 190 L182 218 L210 178 L188 178 Z"/>
   </g>
 </svg>

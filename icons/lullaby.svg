@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="sleep music,baby,bedtime">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M99.12 80.17 A72 72 0 1 0 175.83 156.88 A58 58 0 0 1 99.12 80.17 Z"/>
+    <path d="M99 80 A72 72 0 1 0 176 157 A58 58 0 0 1 99 80 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M99.12 80.17 A72 72 0 1 0 175.83 156.88 A58 58 0 0 1 99.12 80.17 Z"/>
+    <path d="M99 80 A72 72 0 1 0 176 157 A58 58 0 0 1 99 80 Z"/>
     <path d="M200 112 L200 40"/>
-    <path d="M200 40 C216 44 228 56 222 76"/>
+    <path d="M200 40 C213.13 43.28 224 51.94 224 66 C224 69.07 223.07 72.42 222 76"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="184" cy="116" r="20"/>

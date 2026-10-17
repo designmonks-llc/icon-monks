@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="variable,add,new,create">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M68.8 32.8 C36.4 72.4 36.4 151.6 68.8 191.2"/>
-    <path d="M155.2 32.8 C172.86 54.38 180.89 87.73 179.3 120.01"/>
-    <path d="M94 83.2 L130 140.8"/>
-    <path d="M133.6 83.2 L90.4 140.8"/>
+    <path d="M69 33 C52.8 52.8 45 82.4 45 112 C45 141.6 52.8 171.2 69 191"/>
+    <path d="M155 33 C172.66 54.58 180.59 87.72 179 120"/>
+    <path d="M94 83 L130 141"/>
+    <path d="M134 83 L90 141"/>
     <path d="M184 158 L184 210"/>
     <path d="M158 184 L210 184"/>
   </g>

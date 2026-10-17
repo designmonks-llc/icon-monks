@@ -6,7 +6,7 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 104 H112 V128 A36 36 0 0 1 76 164 A36 36 0 0 1 40 128 Z"/>
     <path d="M144 104 H216 V128 A36 36 0 0 1 180 164 A36 36 0 0 1 144 128 Z"/>
-    <path d="M112 112 Q128 96 144 112"/>
+    <path d="M112 112 C117.33 106.67 122.67 104 128 104 C133.33 104 138.67 106.67 144 112"/>
     <path d="M40 104 L32 92"/>
     <path d="M216 104 L224 92"/>
   </g>

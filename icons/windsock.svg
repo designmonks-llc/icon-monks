@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="windsock,wind,direction,airport">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 56 L104 65.33 L104 132 L48 136 Z"/>
-    <path d="M160 74.67 L216 84 L216 124 L160 128 Z"/>
+    <path d="M48 56 L104 65 L104 132 L48 136 Z"/>
+    <path d="M160 75 L216 84 L216 124 L160 128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 40 L48 224"/>
     <path d="M48 56 L216 84 L216 124 L48 136 Z"/>
-    <path d="M104 65.33 L104 132"/>
-    <path d="M160 74.67 L160 128"/>
+    <path d="M104 65 L104 132"/>
+    <path d="M160 75 L160 128"/>
   </g>
 </svg>

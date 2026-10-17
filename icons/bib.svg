@@ -6,6 +6,6 @@
     <path d="M88 40 H104 A24 24 0 0 0 152 40 H168 C196 56 212 88 212 128 A84 84 0 0 1 44 128 C44 88 60 56 88 40 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88 156 C104 176 152 176 168 156"/>
+    <path d="M88 156 C96 166 112 171 128 171 C144 171 160 166 168 156"/>
   </g>
 </svg>

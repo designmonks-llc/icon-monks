@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device mobile,increase,upload,phone,smartphone">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 128.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H138 A60 60 0 0 1 184 128.03 Z"/>
+    <path d="M184 128 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H138 A60 60 0 0 1 184 128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 128.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H138"/>
+    <path d="M184 128 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H138"/>
     <path d="M186 216 L186 160"/>
     <path d="M164 182 L186 160 L208 182"/>
   </g>

@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit switch closed,circuit,electronics,schematic,switch">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="72" cy="128" r="16"/>
+    <circle cx="184" cy="128" r="16"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 128 L56 128"/>
     <circle cx="72" cy="128" r="16"/>

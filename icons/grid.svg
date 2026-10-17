@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="grid,guides,3x3,layout">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="192" rx="16"/>
+    <rect x="40" y="40" width="176" height="176" rx="15"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96 32 L96 224"/>
-    <path d="M160 32 L160 224"/>
-    <path d="M32 96 L224 96"/>
-    <path d="M32 160 L224 160"/>
+    <path d="M99 40 L99 216"/>
+    <path d="M157 40 L157 216"/>
+    <path d="M40 99 L216 99"/>
+    <path d="M40 157 L216 157"/>
   </g>
 </svg>

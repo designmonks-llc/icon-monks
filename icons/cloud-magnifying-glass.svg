@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="cloud,search,find,storage,online">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M215.62 137.78 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L128.57 176 A56 56 0 0 1 215.62 137.78 Z"/>
+    <path d="M216 138 A44 44 0 0 0 183 89 A60 60 0 0 0 64 98 A40 40 0 0 0 76 176 L129 176 A56 56 0 0 1 216 138 Z"/>
     <circle cx="178" cy="178" r="18"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M215.62 137.78 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L128.57 176"/>
+    <path d="M216 138 A44 44 0 0 0 183 89 A60 60 0 0 0 64 98 A40 40 0 0 0 76 176 L129 176"/>
     <circle cx="178" cy="178" r="18"/>
     <path d="M192 192 L210 210"/>
   </g>

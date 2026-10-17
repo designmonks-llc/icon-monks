@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="houses,neighborhood,real estate,homes,community">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M104 125 L160 76 L216 125 L216 208 L104 208 Z"/>
-    <path d="M40 98.5 L84 60 L131.14 101.25 L104 125 L104 208 L40 208 Z"/>
+    <path d="M101 125 L155 78 L209 125 L209 205 L101 205 Z"/>
+    <path d="M40 100 L82 63 L127 103 L101 125 L101 205 L40 205 Z"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M152 208 V180 A8 8 0 0 1 168 180 V208 Z"/>
+    <path d="M147 205 V178 A7.68 7.68 0 0 1 163 178 V205 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 105.5 L84 60 L131.14 101.25"/>
-    <path d="M88 139 L160 76 L232 139"/>
-    <path d="M40 98.5 V208 H216 V125"/>
-    <path d="M104 125 L104 208"/>
-    <path d="M144 208 V180 A16 16 0 0 1 176 180 V208"/>
+    <path d="M32 107 L82 63 L127 103"/>
+    <path d="M86 139 L155 78 L224 139"/>
+    <path d="M40 100 V205 H209 V125"/>
+    <path d="M101 125 L101 205"/>
+    <path d="M140 205 V178 A15.36 15.36 0 0 1 170 178 V205"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M120.61 110.47 L88 139"/>
-    <path d="M104 125 L104 184"/>
+    <path d="M117 111 L86 139"/>
+    <path d="M101 125 L101 182"/>
   </g>
 </svg>

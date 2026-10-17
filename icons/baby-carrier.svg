@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="baby carrier,sling,parent,infant">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="112" cy="56" r="26"/>
-    <path d="M40 216 C40 152 72 116 112 116 C152 116 184 152 184 216 Z"/>
+    <circle cx="112" cy="58" r="26"/>
+    <path d="M40 218 C40 154 72 118 112 118 C152 118 184 154 184 218 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="112" cy="56" r="26"/>
-    <path d="M40 216 C40 152 72 116 112 116 C152 116 184 152 184 216"/>
+    <circle cx="112" cy="58" r="26"/>
+    <path d="M40 218 C40 154 72 118 112 118 C152 118 184 154 184 218"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="160" r="18"/>
-    <path d="M92 168 C100 208 156 208 164 168"/>
+    <circle cx="128" cy="162" r="18"/>
+    <path d="M92 170 C96 190 112 200 128 200 C144 200 160 190 164 170"/>
   </g>
 </svg>

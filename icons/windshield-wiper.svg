@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="wiper,windshield,car,rain">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M43.18 154.37 L64.82 61.63 Q68 48 82 48 L174 48 Q188 48 191.18 61.63 L212.82 154.37 Q216 168 202 168 L54 168 Q40 168 43.18 154.37 Z"/>
+    <path d="M43 154 L65 62 Q68.09 48.19 82 48 L174 48 Q187.91 48.19 191 62 L213 154 Q216.09 167.81 202 168 L54 168 Q39.91 167.81 43 154 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M43.18 154.37 L64.82 61.63 Q68 48 82 48 L174 48 Q188 48 191.18 61.63 L212.82 154.37 Q216 168 202 168 L54 168 Q40 168 43.18 154.37 Z"/>
+    <path d="M43 154 L65 62 Q68.09 48.19 82 48 L174 48 Q187.91 48.19 191 62 L213 154 Q216.09 167.81 202 168 L54 168 Q39.91 167.81 43 154 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 148 L94 89.11"/>
-    <path d="M83.41 107.85 A64 64 0 0 1 172.59 107.85"/>
+    <path d="M128 148 L94 89"/>
+    <path d="M83 108 A64 64 0 0 1 173 108"/>
   </g>
 </svg>

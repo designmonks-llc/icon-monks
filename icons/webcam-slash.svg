@@ -1,10 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="camera off,video off,privacy,webcam,disabled">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="104" r="72"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M79.36 50.92 A72 72 0 0 1 181.08 152.64"/>
-    <path d="M145.42 173.86 A72 72 0 0 1 58.14 86.58"/>
-    <path d="M110.47 82.16 A28 28 0 0 1 149.84 121.53"/>
+    <circle cx="128" cy="104" r="72"/>
     <path d="M128 176 L128 216"/>
-    <path d="M72 216 L168 216"/>
+    <path d="M72 216 L184 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="104" r="28"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

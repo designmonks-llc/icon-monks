@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="electricity,power,energy waves,current">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M135.04 85.76 L96.32 135.04 L124.48 135.04 L117.44 170.24 L159.68 119.2 L131.52 119.2 Z"/>
+    <path d="M135 86 L96 135 L124 135 L117 170 L160 119 L132 119 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M135.04 85.76 L96.32 135.04 L124.48 135.04 L117.44 170.24 L159.68 119.2 L131.52 119.2 Z"/>
-    <path d="M178.43 88.6 A64 64 0 0 1 178.43 167.4"/>
-    <path d="M77.57 167.4 A64 64 0 0 1 77.57 88.6"/>
-    <path d="M203.65 68.9 A96 96 0 0 1 203.65 187.1"/>
-    <path d="M52.35 187.1 A96 96 0 0 1 52.35 68.9"/>
+    <path d="M135 86 L96 135 L124 135 L117 170 L160 119 L132 119 Z"/>
+    <path d="M178 89 A63.71 63.71 0 0 1 178 167"/>
+    <path d="M78 167 A63.71 63.71 0 0 1 78 89"/>
+    <path d="M204 69 A95 95 0 0 1 204 187"/>
+    <path d="M52 187 A95 95 0 0 1 52 69"/>
   </g>
 </svg>

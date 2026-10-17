@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,stats,analytics">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M124.67 208 L48 208 L48 112 L128 44 L208 112 L208 124.67 A64 64 0 0 0 124.67 208 Z"/>
+    <path d="M125 208 L48 208 L48 112 L128 44 L208 112 L208 125 A64 64 0 0 0 125 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 112 L48 208 L124.67 208"/>
-    <path d="M208 124.67 L208 112"/>
+    <path d="M48 112 L48 208 L125 208"/>
+    <path d="M208 125 L208 112"/>
     <path d="M32 124 L128 40 L224 124"/>
     <path d="M154 196 L154 214"/>
     <path d="M184 176 L184 214"/>

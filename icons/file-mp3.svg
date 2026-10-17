@@ -4,10 +4,10 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M41.58 224 L41.58 160 L63.58 198.4 L85.58 160 L85.58 224"/>
-    <path d="M117.58 224 V160 H134.3 A17.28 17.28 0 0 1 134.3 194.56 H117.58"/>
-    <path d="M180.42 160 H195.38 A15.04 15.04 0 0 1 195.38 190.08 H190.62"/>
-    <path d="M195.38 190.08 H197.46 A16.96 16.96 0 0 1 197.46 224 H180.42"/>
+    <path d="M42 224 L42 160 L64 198 L86 160 L86 224"/>
+    <path d="M118 224 V160 H134 A17.28 17.28 0 0 1 134 195 H118"/>
+    <path d="M180 160 H195 A15.04 15.04 0 0 1 195 190 H191"/>
+    <path d="M195 190 H197 A16.96 16.96 0 0 1 197 224 H180"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

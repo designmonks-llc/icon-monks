@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="eyebrow,face,beauty,brow">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 108 C76 56 168 40 216 84 C172 76 92 92 48 124 Z"/>
-    <path d="M48 168 C88 116 168 116 208 168 C168 220 88 220 48 168 Z"/>
+    <path d="M40 108 C61.66 76.72 103.58 58 144 58 C170.77 58 196.88 66.47 216 84 C208.45 82.63 200.31 82 191 82 C146.07 82 84.45 97.49 48 124 Z"/>
+    <path d="M48 168 C68 142 98 129 128 129 C158 129 188 142 208 168 C188 194 158 207 128 207 C98 207 68 194 48 168 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 108 C76 56 168 40 216 84 C172 76 92 92 48 124 Z"/>
-    <path d="M48 168 C88 116 168 116 208 168 C168 220 88 220 48 168 Z"/>
+    <path d="M40 108 C61.66 76.72 103.58 58 144 58 C170.77 58 196.88 66.47 216 84 C208.45 82.63 200.31 82 191 82 C146.07 82 84.45 97.49 48 124 Z"/>
+    <path d="M48 168 C68 142 98 129 128 129 C158 129 188 142 208 168 C188 194 158 207 128 207 C98 207 68 194 48 168 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="128" cy="168" r="16"/>

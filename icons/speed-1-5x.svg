@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="1.5x,playback speed,faster,video">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M27.8 112.8 L55.16 90 L55.16 166"/>
-    <path d="M162.2 90 H117.19 L115.19 125.34 A25.84 25.84 0 1 1 115.19 154.98"/>
-    <path d="M190.2 121.92 L228.2 166"/>
-    <path d="M228.2 121.92 L190.2 166"/>
+    <path d="M32 113 L58 92 L58 164"/>
+    <path d="M161 92 H118 L116 125 A25 25 0 1 1 116 154"/>
+    <path d="M188 122 L224 164"/>
+    <path d="M224 122 L188 164"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="84.36" cy="162" r="12"/>
+    <circle cx="86" cy="161" r="12"/>
   </g>
 </svg>

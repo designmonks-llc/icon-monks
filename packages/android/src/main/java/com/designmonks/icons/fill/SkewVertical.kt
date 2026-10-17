@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.SkewVertical: ImageVector
-    get() = cache ?: iconMonksVector("SkewVerticalFill", "M55.28 225.11Q62.56 229.84 70.5 226.31L198.5 169.42Q208 165.2 208 154.8V44.31Q208 35.63 200.72 30.89Q193.44 26.16 185.5 29.69L57.5 86.58Q48 90.8 48 101.2V211.69Q48 220.37 55.28 225.11Z").also { cache = it }
+    get() = cache ?: iconMonksVector("SkewVerticalFill", "M48 212A8 8 0 0 0 48.01 212.41A16 16 0 0 0 70.01 226.41A7.99 7.99 0 0 0 70.25 226.31L198.14 169.36Q207.46 165.53 207.99 155.42A8 8 0 0 0 208 155V44A8 8 0 0 0 207.99 43.59A16 16 0 0 0 185.99 29.59A8 8 0 0 0 185.75 29.69L57.86 86.64Q48.54 90.47 48.01 100.58A8 8 0 0 0 48 101V212Z").also { cache = it }

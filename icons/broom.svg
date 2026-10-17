@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="sweep,clean,chores">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M119.22 95.22 L160.78 119.22 L135.96 234.21 L32.04 174.21 Z"/>
+    <path d="M119 88 L160 112 L135 224 L34 165 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M180 37.93 L140 107.22"/>
-    <path d="M119.22 95.22 L160.78 119.22 L135.96 234.21 L32.04 174.21 Z"/>
+    <path d="M178 32 L139 100"/>
+    <path d="M119 88 L160 112 L135 224 L34 165 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M103.34 150.71 L68.41 195.21"/>
-    <path d="M120.66 160.71 L99.59 213.21"/>
+    <path d="M103 142 L69 186"/>
+    <path d="M120 152 L100 204"/>
   </g>
 </svg>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="pillow,sleep,bed,cushion">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 60 C104 80 152 80 200 60 C188 104 188 152 200 196 C152 176 104 176 56 196 C68 152 68 104 56 60 Z"/>
+    <path d="M56 60 C80 70 104 75 128 75 C152 75 176 70 200 60 C194 82 191 105 191 128 C191 151 194 174 200 196 C176 186 152 181 128 181 C104 181 80 186 56 196 C62 174 65 151 65 128 C65 105 62 82 56 60 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 60 C104 80 152 80 200 60 C188 104 188 152 200 196 C152 176 104 176 56 196 C68 152 68 104 56 60 Z"/>
+    <path d="M56 60 C80 70 104 75 128 75 C152 75 176 70 200 60 C194 82 191 105 191 128 C191 151 194 174 200 196 C176 186 152 181 128 181 C104 181 80 186 56 196 C62 174 65 151 65 128 C65 105 62 82 56 60 Z"/>
   </g>
 </svg>

@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="armchair,disabled,off,home">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 120 V72 A24 24 0 0 1 88 48 H168 A24 24 0 0 1 192 72 V120 V160 H64 Z"/>
+    <path d="M80 160 V144 A24 24 0 0 0 32 144 V200 H224 V144 A24 24 0 0 0 176 144 V160 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M93.25 48 L168 48 A24 24 0 0 1 192 72 L192 120"/>
-    <path d="M114.75 160 L80 160 L80 144 A24 24 0 0 0 32 144 L32 200 L154.75 200"/>
-    <path d="M224 178.75 L224 144 A24 24 0 0 0 178.53 133.27"/>
+    <path d="M64 120 V72 A24 24 0 0 1 88 48 H168 A24 24 0 0 1 192 72 V120"/>
+    <path d="M80 160 V144 A24 24 0 0 0 32 144 V200 H224 V144 A24 24 0 0 0 176 144 V160 Z"/>
     <path d="M56 200 L56 224"/>
+    <path d="M200 200 L200 224"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

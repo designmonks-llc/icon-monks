@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="inner shadow,bottom left,effect,depth">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M77.48 46.37 A96 96 0 1 0 209.63 178.52 A96 96 0 0 1 77.48 46.37 Z"/>
+    <path d="M77 46 A96 96 0 1 0 210 179 A96 96 0 0 1 77 46 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="96"/>
-    <path d="M209.63 178.52 A96 96 0 0 1 77.48 46.37"/>
+    <path d="M210 179 A96 96 0 0 1 77 46"/>
   </g>
 </svg>

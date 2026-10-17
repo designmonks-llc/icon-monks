@@ -8,10 +8,10 @@
     <circle cx="188" cy="68" r="36"/>
     <circle cx="68" cy="188" r="36"/>
     <circle cx="188" cy="188" r="36"/>
-    <path d="M104 104 L93.46 93.46"/>
-    <path d="M152 104 L162.54 93.46"/>
-    <path d="M104 152 L93.46 162.54"/>
-    <path d="M152 152 L162.54 162.54"/>
+    <path d="M104 104 L93 93"/>
+    <path d="M152 104 L163 93"/>
+    <path d="M104 152 L93 163"/>
+    <path d="M152 152 L163 163"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="68" cy="68" r="11"/>

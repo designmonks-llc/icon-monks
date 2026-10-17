@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="envelope,fast,power,mail,email">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 134.04 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H122.03 A64 64 0 0 1 224 134.04 Z"/>
+    <path d="M224 134 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H122 A64 64 0 0 1 224 134 Z"/>
     <path d="M194 148 L164 188 L188 188 L176 220 L206 178 L182 178 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 134.04 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H122.03"/>
+    <path d="M224 134 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H122"/>
     <path d="M194 148 L164 188 L188 188 L176 220 L206 178 L182 178 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

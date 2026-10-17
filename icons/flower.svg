@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="nature,garden,spring,bloom,plant">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M99.5 52.64 A30 30 0 0 1 156.5 52.64 A30 30 0 0 1 185 102 A30 30 0 0 1 156.5 151.36 A30 30 0 0 1 99.5 151.36 A30 30 0 0 1 71 102 A30 30 0 0 1 99.5 52.64 Z"/>
+    <path d="M100 53 A30 30 0 0 1 156 53 A30 30 0 0 1 185 102 A30 30 0 0 1 156 151 A30 30 0 0 1 100 151 A30 30 0 0 1 71 102 A30 30 0 0 1 100 53 Z"/>
     <path d="M128 204 C128 180 148 168 176 168 C176 192 156 204 128 204 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M99.5 52.64 A30 30 0 0 1 156.5 52.64 A30 30 0 0 1 185 102 A30 30 0 0 1 156.5 151.36 A30 30 0 0 1 99.5 151.36 A30 30 0 0 1 71 102 A30 30 0 0 1 99.5 52.64 Z"/>
+    <path d="M100 53 A30 30 0 0 1 156 53 A30 30 0 0 1 185 102 A30 30 0 0 1 156 151 A30 30 0 0 1 100 151 A30 30 0 0 1 71 102 A30 30 0 0 1 100 53 Z"/>
     <path d="M128 172 L128 224"/>
     <path d="M128 204 C128 180 148 168 176 168 C176 192 156 204 128 204 Z"/>
   </g>

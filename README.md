@@ -34,6 +34,7 @@ role, which tells the build how each weight is made:
 | `area` | | merged in | 20% tint |
 | `hole` | | cut out | |
 | `dot` / `dotcut` | solid dot | merged in / cut out | solid dot |
+| `slash` | stroked, with a gap cut around it | stroked, with a gap | stroked, with a gap |
 
 `scripts/build.py` outlines strokes at 8 / 12 / 16 / 24 units with Skia path ops, so every output is a single flat
 path that renders identically in browsers, fonts, Android and Xcode. `scripts/packages.py` turns that into each package.
@@ -48,9 +49,12 @@ node tests/browser.mjs   # renders the web component, fonts and sprites in Chrom
 
 ## Contributing an icon
 
+Read [STYLE.md](STYLE.md) first. It has the drawing rules every new icon follows.
+
 1. Copy a similar file in `icons/` and draw inside the 32–224 live area on the 256 grid.
 2. Put strokes that should become knock-outs in the fill weight in the `detail` group, and the shape to fill in `area`.
-3. Add `data-category` and a few `data-tags` for search, run `npm run build`, and check the result in `index.html`.
+3. Add `data-category` and a few `data-tags` for search, then run `npm run lint`.
+4. Run `npm run build` and check the result in `index.html`.
 
 Font codepoints are append-only (`codepoints.json`), so existing glyphs never move.
 

@@ -1,8 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="do not disturb,hotel,door hanger,privacy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 88 A56 56 0 0 1 184 88 V208 A16 16 0 0 1 168 224 H88 A16 16 0 0 1 72 208 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="128" cy="88" r="16"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M72 88 A56 56 0 0 1 184 88 V208 A16 16 0 0 1 168 224 H88 A16 16 0 0 1 72 208 Z"/>
     <circle cx="128" cy="88" r="24"/>
-    <path d="M146.39 103.43 L184 128"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M146 103 L184 128"/>
+    <path d="M104 160 L152 160"/>
+    <path d="M104 192 L136 192"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

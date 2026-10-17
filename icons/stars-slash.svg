@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="stars,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L142 67 L179 69 L151 93 L160 130 L128 110 L96 130 L105 93 L77 69 L114 67 Z"/>
+    <path d="M68 144 L77 167 L102 169 L83 185 L89 209 L68 196 L47 209 L53 185 L34 169 L59 167 Z"/>
+    <path d="M188 144 L197 167 L222 169 L203 185 L209 209 L188 196 L167 209 L173 185 L154 169 L179 167 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M110.1 67.04 L114.03 66.78 L128 32 L141.97 66.78 L179.36 69.31 L150.6 93.34 L155.41 112.47"/>
-    <path d="M68 144 L77.31 167.19 L102.24 168.88 L83.06 184.89 L89.16 209.12 L68 195.84 L46.84 209.12 L52.94 184.89 L33.76 168.88 L58.69 167.19 L68 144"/>
-    <path d="M210.73 168.1 L222.24 168.88 L216.34 173.8 L188.72 145.78"/>
+    <path d="M128 32 L142 67 L179 69 L151 93 L160 130 L128 110 L96 130 L105 93 L77 69 L114 67 Z"/>
+    <path d="M68 144 L77 167 L102 169 L83 185 L89 209 L68 196 L47 209 L53 185 L34 169 L59 167 Z"/>
+    <path d="M188 144 L197 167 L222 169 L203 185 L209 209 L188 196 L167 209 L173 185 L154 169 L179 167 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

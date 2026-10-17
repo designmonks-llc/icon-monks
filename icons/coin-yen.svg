@@ -8,7 +8,7 @@
     <path d="M108 32 H144 A76 96 0 0 1 144 224 H108"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M156.85 54.46 A76 96 0 0 1 156.85 201.54"/>
+    <path d="M157 54 A76 96 0 0 1 157 202"/>
     <path d="M84 64 L108 104 L132 64"/>
     <path d="M108 104 L108 192"/>
     <path d="M84 132 L132 132"/>

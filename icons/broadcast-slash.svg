@@ -1,10 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="broadcast,disabled,off,communication">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="18"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="18"/>
-    <path d="M169.6 90.51 A56 56 0 0 1 182.65 140.22"/>
-    <path d="M86.4 165.49 A56 56 0 0 1 73.35 115.78"/>
-    <path d="M199.34 63.76 A96 96 0 0 1 213.7 171.27"/>
-    <path d="M56.66 192.24 A96 96 0 0 1 42.3 84.73"/>
+    <path d="M170 91 A56 56 0 0 1 170 165"/>
+    <path d="M86 165 A56 56 0 0 1 86 91"/>
+    <path d="M199 64 A96 96 0 0 1 199 192"/>
+    <path d="M57 192 A96 96 0 0 1 57 64"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

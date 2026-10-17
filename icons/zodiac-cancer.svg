@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="cancer,zodiac,astrology,horoscope">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="104" r="24"/>
+    <circle cx="176" cy="152" r="24"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="80" cy="104" r="24"/>
-    <path d="M80 80 C124 68 180 72 212 108"/>
+    <path d="M80 80 C94.21 76.13 109.5 74 125 74 C157.5 74 190.33 83.62 212 108"/>
     <circle cx="176" cy="152" r="24"/>
-    <path d="M176 176 C132 188 76 184 44 148"/>
+    <path d="M176 176 C161.79 179.87 146.5 182 131 182 C98.5 182 65.67 172.38 44 148"/>
   </g>
 </svg>

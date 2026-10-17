@@ -9,9 +9,9 @@
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 104 L216 104"/>
-    <path d="M97.93 149.06 A32 32 0 0 1 152.51 139.43"/>
-    <path d="M136.57 138.04 L152.51 139.43 L153.91 123.49"/>
-    <path d="M158.07 170.94 A32 32 0 0 1 103.49 180.57"/>
-    <path d="M119.43 181.96 L103.49 180.57 L102.09 196.51"/>
+    <path d="M98 149 A32 32 0 0 1 153 139"/>
+    <path d="M137 138 L153 139 L154 123"/>
+    <path d="M158 171 A32 32 0 0 1 103 181"/>
+    <path d="M119 182 L103 181 L102 197"/>
   </g>
 </svg>

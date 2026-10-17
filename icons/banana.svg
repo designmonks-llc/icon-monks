@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="banana,fruit,food,potassium">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M168 64 L204 64 C216 156 152 216 60 212 C44 211 42 196 54 192 C124 176 168 132 168 64 Z"/>
+    <path d="M168 64 L204 64 C204.97 71.45 205 78.98 205 86 C205 165.59 144.55 215.68 60 212 C50.86 211.43 46 206.05 46 201 C46 197.21 48.86 193.71 54 192 C124 176 168 132 168 64 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M168 64 L204 64 C216 156 152 216 60 212 C44 211 42 196 54 192 C124 176 168 132 168 64 Z"/>
+    <path d="M168 64 L204 64 C204.97 71.45 205 78.98 205 86 C205 165.59 144.55 215.68 60 212 C50.86 211.43 46 206.05 46 201 C46 197.21 48.86 193.71 54 192 C124 176 168 132 168 64 Z"/>
     <path d="M188 64 L192 36"/>
   </g>
 </svg>

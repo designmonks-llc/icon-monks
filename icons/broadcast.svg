@@ -4,9 +4,9 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="18"/>
-    <path d="M169.62 90.53 A56 56 0 0 1 169.62 165.47"/>
-    <path d="M86.38 165.47 A56 56 0 0 1 86.38 90.53"/>
-    <path d="M199.34 63.76 A96 96 0 0 1 199.34 192.24"/>
-    <path d="M56.66 192.24 A96 96 0 0 1 56.66 63.76"/>
+    <path d="M170 91 A56 56 0 0 1 170 165"/>
+    <path d="M86 165 A56 56 0 0 1 86 91"/>
+    <path d="M199 64 A96 96 0 0 1 199 192"/>
+    <path d="M57 192 A96 96 0 0 1 57 64"/>
   </g>
 </svg>

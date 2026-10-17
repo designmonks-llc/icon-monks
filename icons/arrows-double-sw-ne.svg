@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrows,direction,double,sw,ne">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M156.28 48.8 L48.8 156.28"/>
-    <path d="M48.8 105.37 L48.8 156.28 L99.72 156.28"/>
-    <path d="M99.72 207.2 L207.2 99.72"/>
-    <path d="M207.2 150.63 L207.2 99.72 L156.28 99.72"/>
+    <path d="M156 49 L49 156"/>
+    <path d="M49 105 L49 156 L100 156"/>
+    <path d="M100 207 L207 100"/>
+    <path d="M207 151 L207 100 L156 100"/>
   </g>
 </svg>

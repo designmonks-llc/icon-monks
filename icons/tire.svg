@@ -7,11 +7,11 @@
     <circle cx="128" cy="128" r="44"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M62.22 104.06 A70 70 0 0 1 93 67.38"/>
-    <path d="M115.84 59.06 A70 70 0 0 1 163 67.38"/>
-    <path d="M181.62 83 A70 70 0 0 1 198 128"/>
-    <path d="M193.78 151.94 A70 70 0 0 1 163 188.62"/>
-    <path d="M140.16 196.94 A70 70 0 0 1 93 188.62"/>
-    <path d="M74.38 173 A70 70 0 0 1 58 128"/>
+    <path d="M62 104 A70 70 0 0 1 93 67"/>
+    <path d="M116 59 A70 70 0 0 1 163 67"/>
+    <path d="M182 83 A70 70 0 0 1 198 128"/>
+    <path d="M194 152 A70 70 0 0 1 163 189"/>
+    <path d="M140 197 A70 70 0 0 1 93 189"/>
+    <path d="M74 173 A70 70 0 0 1 58 128"/>
   </g>
 </svg>

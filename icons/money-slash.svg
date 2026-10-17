@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="no cash,money,cashless,slash,no money">
-  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="24" y="64" width="208" height="128" rx="14"/>
-    <circle cx="128" cy="128" r="28"/>
-    <path d="M48 48 L208 208"/>
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="69" width="192" height="118" rx="13"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="64" cy="128" r="16"/>
-    <circle cx="192" cy="128" r="16"/>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="69" width="192" height="118" rx="13"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="26"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="128" r="16"/>
+    <circle cx="187" cy="128" r="16"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

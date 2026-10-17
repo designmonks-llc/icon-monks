@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money minus,remove,subtract,money,cash">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M132.13 192 L38 192 A14 14 0 0 1 24 178 L24 78 A14 14 0 0 1 38 64 L218 64 A14 14 0 0 1 232 78 L232 143.08 A64 64 0 0 0 132.13 192 Z"/>
+    <path d="M132 187 L45 187 A13 13 0 0 1 32 174 L32 82 A13 13 0 0 1 45 69 L211 69 A13 13 0 0 1 224 82 L224 142 A59 59 0 0 0 132 187 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M132.13 192 L38 192 A14 14 0 0 1 24 178 L24 78 A14 14 0 0 1 38 64 L218 64 A14 14 0 0 1 232 78 L232 143.08"/>
-    <path d="M168 196 L224 196"/>
+    <path d="M132 187 L45 187 A13 13 0 0 1 32 174 L32 82 A13 13 0 0 1 45 69 L211 69 A13 13 0 0 1 224 82 L224 142"/>
+    <path d="M165 191 L217 191"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="128" r="28"/>
+    <circle cx="128" cy="128" r="26"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="64" cy="128" r="16"/>
+    <circle cx="69" cy="128" r="16"/>
   </g>
 </svg>

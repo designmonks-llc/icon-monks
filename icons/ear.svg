@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="hearing,listen,audio,sound,deaf">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M76 100 A60 60 0 0 1 196 100 C196 140 168 148 160 172 C152 200 136 220 108 220 C92 220 80 212 72 200 C64 180 76 140 76 100 Z"/>
+    <path d="M76 100 A60 60 0 0 1 196 100 C196 140 168 148 160 172 C152 200 136 220 108 220 C92 220 80 212 72 200 C70 195 69 189.19 69 182 C69 160.44 76 130 76 100 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M76 100 A60 60 0 0 1 196 100 C196 140 168 148 160 172 C152 200 136 220 108 220 C92 220 80 212 72 200"/>

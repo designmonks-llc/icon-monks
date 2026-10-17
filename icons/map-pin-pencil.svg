@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="edit location,pin,place,pencil">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M130.04 210.25 C121.77 218.87 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 110.6 187 117.31 185.24 124.01 A60 60 0 0 0 130.04 210.25 Z"/>
-    <path d="M153.76 214.24 L159.52 194.08 L199.84 153.76 L214.24 168.16 L173.92 208.48 Z"/>
+    <path d="M130 210 C121.73 218.62 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 110.6 186.76 117.3 185 124 A60 60 0 0 0 130 210 Z"/>
+    <path d="M154 214 L160 194 L200 154 L214 168 L174 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M130.04 210.25 C121.77 218.87 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 110.6 187 117.31 185.24 124.01"/>
-    <path d="M153.76 214.24 L159.52 194.08 L199.84 153.76 L214.24 168.16 L173.92 208.48 Z"/>
+    <path d="M130 210 C121.73 218.62 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 110.6 186.76 117.3 185 124"/>
+    <path d="M154 214 L160 194 L200 154 L214 168 L174 208 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="116" cy="104" r="24"/>

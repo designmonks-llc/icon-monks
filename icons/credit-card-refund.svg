@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="credit card refund,payment,card,pay,credit">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M232 137.52 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H126.03 A64 64 0 0 1 232 137.52 Z"/>
+    <path d="M224 137 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H126 A59 59 0 0 1 224 137 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M232 137.52 V70 A14 14 0 0 0 218 56 H38 A14 14 0 0 0 24 70 V186 A14 14 0 0 0 38 200 H126.03"/>
-    <path d="M160 168 L196 168 A20 20 0 0 1 196 208 L172 208"/>
-    <path d="M180 148 L160 168 L180 188"/>
+    <path d="M224 137 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H126"/>
+    <path d="M158 165 L191 165 A18.46 18.46 0 0 1 191 202 L169 202"/>
+    <path d="M176 147 L158 165 L176 184"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 104 L232 104"/>
-    <path d="M56 160 L96 160"/>
+    <path d="M32 106 L224 106"/>
+    <path d="M62 158 L98 158"/>
   </g>
 </svg>

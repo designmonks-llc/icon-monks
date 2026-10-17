@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="hat,fedora,clothing,fashion">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M76 148 L84 96 C86 80 100 72 114 76 L128 82 L142 76 C156 72 170 80 172 96 L180 148 Z"/>
+    <path d="M76 148 L84 96 C85.66 82.75 95.69 75 107 75 C109.34 75 111.6 75.31 114 76 L128 82 L142 76 C144.4 75.31 146.66 75 149 75 C160.31 75 170.34 82.75 172 96 L180 148 Z"/>
     <ellipse cx="128" cy="168" rx="96" ry="24"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M76 148 L84 96 C86 80 100 72 114 76 L128 82 L142 76 C156 72 170 80 172 96 L180 148"/>
+    <path d="M76 148 L84 96 C85.66 82.75 95.69 75 107 75 C109.34 75 111.6 75.31 114 76 L128 82 L142 76 C144.4 75.31 146.66 75 149 75 C160.31 75 170.34 82.75 172 96 L180 148"/>
     <path d="M76 148 A96 24 0 1 0 180 148"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

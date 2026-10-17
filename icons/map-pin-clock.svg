@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="location time,map,pin,schedule">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128.57 211.77 C121.09 219.47 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 109.95 187.19 115.98 185.74 122.02 A62 62 0 0 0 128.57 211.77 Z"/>
+    <path d="M129 212 C121.52 219.7 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 109.95 187.45 115.96 186 122 A62 62 0 0 0 129 212 Z"/>
     <circle cx="184" cy="184" r="34"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128.57 211.77 C121.09 219.47 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 109.95 187.19 115.98 185.74 122.02"/>
+    <path d="M129 212 C121.52 219.7 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 109.95 187.45 115.96 186 122"/>
     <circle cx="184" cy="184" r="34"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

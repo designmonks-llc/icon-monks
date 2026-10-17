@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="base station,antenna,signal,tower,cell tower">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M84 224 L128 104 L172 224"/>
-    <path d="M110.4 152 L169.07 216"/>
-    <path d="M145.6 152 L86.93 216"/>
-    <path d="M161.16 57.63 A40 40 0 0 1 161.16 102.37"/>
-    <path d="M94.84 102.37 A40 40 0 0 1 94.84 57.63"/>
-    <path d="M191.01 37.5 A76 76 0 0 1 191.01 122.5"/>
-    <path d="M64.99 122.5 A76 76 0 0 1 64.99 37.5"/>
+    <path d="M110 152 L169 216"/>
+    <path d="M146 152 L87 216"/>
+    <path d="M161 58 A40 40 0 0 1 161 102"/>
+    <path d="M95 102 A40 40 0 0 1 95 58"/>
+    <path d="M191 38 A76 76 0 0 1 191 122"/>
+    <path d="M65 122 A76 76 0 0 1 65 38"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="128" cy="80" r="16"/>

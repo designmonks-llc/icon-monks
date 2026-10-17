@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="suv,car,vehicle">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 160 L32 72 Q32 56 48 56 L144 56 Q152 56 156.44 62.66 L179.56 97.34 Q184 104 191.84 105.57 L212.23 109.65 Q224 112 224 124 L224 160 L32 160 Z"/>
+    <path d="M32 160 L32 72 Q32 56 48 56 L144 56 Q151.78 56.17 156 63 L180 97 Q184.3 104.05 192 106 L212 110 Q223.88 112.17 224 124 L224 160 L32 160 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 160 L32 72 Q32 56 48 56 L144 56 Q152 56 156.44 62.66 L179.56 97.34 Q184 104 191.84 105.57 L212.23 109.65 Q224 112 224 124 L224 160 L32 160 Z"/>
+    <path d="M32 160 L32 72 Q32 56 48 56 L144 56 Q151.78 56.17 156 63 L180 97 Q184.3 104.05 192 106 L212 110 Q223.88 112.17 224 124 L224 160 L32 160 Z"/>
     <circle cx="72" cy="188" r="20"/>
     <circle cx="184" cy="188" r="20"/>
   </g>

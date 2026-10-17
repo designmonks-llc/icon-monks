@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="delivery,shipping,transport,lorry,vehicle">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 56 H136 A16 16 0 0 1 152 72 V160 H24 V72 A16 16 0 0 1 40 56 Z"/>
-    <path d="M152 96 H188 L224 136 V160 H152 Z"/>
+    <path d="M47 59 H140 A15.36 15.36 0 0 1 155 74 V159 H32 V74 A15.36 15.36 0 0 1 47 59 Z"/>
+    <path d="M155 97 H189 L224 136 V159 H155 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 56 H136 A16 16 0 0 1 152 72 V160 H24 V72 A16 16 0 0 1 40 56 Z"/>
-    <path d="M152 96 H188 L224 136 V160 H152"/>
-    <circle cx="72" cy="188" r="20"/>
-    <circle cx="184" cy="188" r="20"/>
+    <path d="M47 59 H140 A15.36 15.36 0 0 1 155 74 V159 H32 V74 A15.36 15.36 0 0 1 47 59 Z"/>
+    <path d="M155 97 H189 L224 136 V159 H155"/>
+    <circle cx="78" cy="186" r="19"/>
+    <circle cx="186" cy="186" r="19"/>
   </g>
 </svg>

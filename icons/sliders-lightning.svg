@@ -2,7 +2,7 @@
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="160" cy="80" r="24"/>
     <circle cx="80" cy="176" r="24"/>
-    <path d="M189.76 149.44 L158.08 189.76 L181.12 189.76 L175.36 218.56 L209.92 176.8 L186.88 176.8 Z"/>
+    <path d="M190 149 L158 190 L181 190 L175 219 L210 177 L187 177 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 80 L136 80"/>
@@ -10,7 +10,7 @@
     <path d="M184 80 L216 80"/>
     <path d="M40 176 L56 176"/>
     <circle cx="80" cy="176" r="24"/>
-    <path d="M104 176 L124.54 176"/>
-    <path d="M189.76 149.44 L158.08 189.76 L181.12 189.76 L175.36 218.56 L209.92 176.8 L186.88 176.8 Z"/>
+    <path d="M104 176 L125 176"/>
+    <path d="M190 149 L158 190 L181 190 L175 219 L210 177 L187 177 Z"/>
   </g>
 </svg>

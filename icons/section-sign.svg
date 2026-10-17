@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="section sign,legal,paragraph,§">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M155.19 55.32 A30 30 0 1 0 128 98 A30 30 0 0 1 128 158"/>
-    <path d="M100.81 200.68 A30 30 0 1 0 128 158 A30 30 0 0 1 128 98"/>
+    <path d="M155 55 A30 30 0 1 0 128 98 A30 30 0 0 1 128 158"/>
+    <path d="M101 201 A30 30 0 1 0 128 158 A30 30 0 0 1 128 98"/>
   </g>
 </svg>

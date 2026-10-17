@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="clapperboard,movie,action,cinema,production">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="32" y="120" width="192" height="96" rx="14"/>
-    <path d="M40 112 L212.15 75.41 L205.5 44.11 L33.35 80.7 Z"/>
+    <path d="M40 112 L212 75 L206 44 L33 81 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="32" y="120" width="192" height="96" rx="14"/>
-    <path d="M40 112 L212.15 75.41 L205.5 44.11 L33.35 80.7 Z"/>
+    <path d="M40 112 L212 75 L206 44 L33 81 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M77.87 103.95 L91.88 68.26"/>
-    <path d="M122.63 94.44 L136.64 58.74"/>
-    <path d="M167.39 84.92 L181.4 49.23"/>
+    <path d="M78 104 L92 68"/>
+    <path d="M123 94 L137 59"/>
+    <path d="M167 85 L181 49"/>
   </g>
 </svg>

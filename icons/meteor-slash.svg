@@ -1,13 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="meteor,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="92" cy="164" r="50"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="92" cy="164" r="50"/>
-    <path d="M110.85 97.06 L158.47 49.45"/>
-    <path d="M144.33 111.67 L202.31 53.69"/>
-    <path d="M158.94 145.15 L195.24 108.85"/>
-    <path d="M48 48 L208 208"/>
+    <path d="M111 97 L158 49"/>
+    <path d="M144 112 L202 54"/>
+    <path d="M159 145 L195 109"/>
   </g>
-  <g data-role="dot" fill="currentColor">
+  <g data-role="dotcut" fill="currentColor">
     <circle cx="76" cy="176" r="14"/>
     <circle cx="108" cy="148" r="10"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="blocked phone,mobile cancel,remove device,phone,device mobile">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 130.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H140.52 A58 58 0 0 1 184 130.03 Z"/>
+    <path d="M184 130 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H141 A58 58 0 0 1 184 130 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 130.03 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H140.52"/>
+    <path d="M184 130 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H141"/>
     <path d="M165 167 L207 209"/>
     <path d="M207 167 L165 209"/>
   </g>

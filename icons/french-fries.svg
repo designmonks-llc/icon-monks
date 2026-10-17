@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="fries,chips,fast food,potato">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 112 C96 132 160 132 208 112 L188 206 Q185 220 170 220 H86 Q71 220 68 206 Z"/>
+    <path d="M48 112 C72 122 100 127 128 127 C156 127 184 122 208 112 L188 206 Q185 220 170 220 H86 Q71 220 68 206 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 112 C96 132 160 132 208 112 L188 206 Q185 220 170 220 H86 Q71 220 68 206 Z"/>
+    <path d="M48 112 C72 122 100 127 128 127 C156 127 184 122 208 112 L188 206 Q185 220 170 220 H86 Q71 220 68 206 Z"/>
     <path d="M84 122 L72 48"/>
     <path d="M112 126 L108 36"/>
     <path d="M144 126 L148 36"/>

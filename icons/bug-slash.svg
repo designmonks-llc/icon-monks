@@ -1,14 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="bug,disabled,off,development">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="80" width="96" height="136" rx="48"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M160.74 203.16 A47.9 47.9 0 0 1 128.1 216 L127.9 216 A47.9 47.9 0 0 1 80 168.1 L80 127.9 A47.9 47.9 0 0 1 80.28 122.71"/>
-    <path d="M122.71 80.28 A47.9 47.9 0 0 1 127.9 80 L128.1 80 A47.9 47.9 0 0 1 176 127.9 L176 133.57"/>
+    <rect x="80" y="80" width="96" height="136" rx="48"/>
+    <path d="M108 80 L92 48"/>
     <path d="M148 80 L164 48"/>
     <path d="M40 152 L80 152"/>
-    <path d="M194.43 152 L216 152"/>
-    <path d="M48 104 L68.36 110.79"/>
+    <path d="M176 152 L216 152"/>
+    <path d="M48 104 L84 116"/>
     <path d="M208 104 L172 116"/>
     <path d="M48 204 L84 188"/>
-    <path d="M128 170.43 L128 192"/>
+    <path d="M208 204 L172 188"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 128 L176 128"/>
+    <path d="M128 156 L128 192"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

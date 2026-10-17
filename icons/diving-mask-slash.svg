@@ -1,7 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="diving mask,off,disabled,hidden,diving">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 80 H152 A24 24 0 0 1 176 104 V136 C176 164 160 176 144 176 H132 C122 176 114 160 104 160 C94 160 86 176 76 176 H64 C48 176 32 164 32 136 V104 A24 24 0 0 1 56 80 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 80 H152 A24 24 0 0 1 176 104 V136 C176 164 160 176 144 176 H132 C122 176 114 160 104 160 C94 160 86 176 76 176 H64 C48 176 32 164 32 136 V104 A24 24 0 0 1 56 80 Z"/>
     <path d="M208 40 V168 A32 32 0 0 1 176 200 H152"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="60" y="108" width="88" height="32" rx="12"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

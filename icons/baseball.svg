@@ -6,13 +6,13 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M60.12 60.12 A112 112 0 0 1 60.12 195.88"/>
-    <path d="M195.88 60.12 A112 112 0 0 0 195.88 195.88"/>
-    <path d="M67.46 89.04 L82.3 83.05"/>
-    <path d="M188.54 89.04 L173.7 83.05"/>
-    <path d="M75.03 128 L91.03 128"/>
-    <path d="M180.97 128 L164.97 128"/>
-    <path d="M67.46 166.96 L82.3 172.95"/>
-    <path d="M188.54 166.96 L173.7 172.95"/>
+    <path d="M60 60 A112 112 0 0 1 60 196"/>
+    <path d="M196 60 A112 112 0 0 0 196 196"/>
+    <path d="M67 89 L82 83"/>
+    <path d="M189 89 L174 83"/>
+    <path d="M75 128 L91 128"/>
+    <path d="M181 128 L165 128"/>
+    <path d="M67 167 L82 173"/>
+    <path d="M189 167 L174 173"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="cloud,crypto,bitcoin,storage,online">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M215.99 130.89 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L122.52 176 A62 62 0 0 1 215.99 130.89 Z"/>
+    <path d="M216 131 A44 44 0 0 0 183 89 A60 60 0 0 0 64 98 A40 40 0 0 0 76 176 L123 176 A62 62 0 0 1 216 131 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M215.99 130.89 A44 44 0 0 0 183.06 89.41 A60 60 0 0 0 64.04 97.83 A40 40 0 0 0 76 176 L122.52 176"/>
+    <path d="M216 131 A44 44 0 0 0 183 89 A60 60 0 0 0 64 98 A40 40 0 0 0 76 176 L123 176"/>
     <path d="M166 156 H186 A14 14 0 0 1 186 184 H166"/>
     <path d="M166 184 H188 A14 14 0 0 1 188 212 H166 Z"/>
     <path d="M166 156 L166 212"/>

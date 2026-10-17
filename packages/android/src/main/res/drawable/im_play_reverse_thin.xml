@@ -3,5 +3,5 @@
   android:width="24dp" android:height="24dp"
   android:viewportWidth="256" android:viewportHeight="256"
   android:tint="?android:attr/colorControlNormal" android:autoMirrored="false">
-  <path android:fillColor="@android:color/white" android:pathData="M44.74 125.68Q44.28 126.33 44.1 127.1Q43.92 127.88 44.05 128.66Q44.19 129.45 44.61 130.12Q45.1 130.9 45.88 131.39L173.88 211.39Q174.55 211.81 175.34 211.95Q176.12 212.08 176.9 211.9Q177.67 211.72 178.32 211.26Q178.97 210.79 179.39 210.12Q180 209.15 180 208V48Q180 47.2 179.7 46.47Q179.39 45.73 178.83 45.17Q178.27 44.61 177.53 44.3Q176.8 44 176 44Q174.85 44 173.88 44.61L45.88 124.61Q45.21 125.03 44.74 125.68ZM55.55 128 172 55.22V200.78L55.55 128Z"/>
+  <path android:fillColor="@android:color/white" android:pathData="M44.74 125.68A4 4 0 0 0 45.88 131.39L173.88 211.39A4 4 0 0 0 180 208V48A4 4 0 0 0 173.88 44.61L45.88 124.61A4 4 0 0 0 44.74 125.68ZM55.55 128L172 55.22V200.78L55.55 128Z"/>
 </vector>

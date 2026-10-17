@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.SelectionUnion: ImageVector
-    get() = cache ?: iconMonksVector("SelectionUnionFill", "M24.01 128Q24.01 154.25 40.2 174.9Q56.4 195.55 81.89 201.81Q105.62 207.64 128 198.66Q150.38 207.64 174.11 201.81Q199.6 195.55 215.8 174.9Q231.99 154.25 231.99 128Q231.99 101.75 215.8 81.1Q199.6 60.45 174.11 54.19Q150.38 48.36 128 57.34Q105.62 48.36 81.89 54.19Q56.4 60.45 40.2 81.1Q24.01 101.75 24.01 128Z").also { cache = it }
+    get() = cache ?: iconMonksVector("SelectionUnionFill", "M24.07 128A76 76 0 0 0 81.9 201.8A75.46 75.46 0 0 0 128 198.69A75.57 75.57 0 0 0 174.1 201.8A76 76 0 0 0 174.1 54.2A75.46 75.46 0 0 0 128 57.31A75.57 75.57 0 0 0 81.9 54.2A76 76 0 0 0 24.07 128Z").also { cache = it }

@@ -4,8 +4,8 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="64"/>
-    <path d="M54.46 189.71 A96 96 0 0 1 54.46 66.29"/>
-    <path d="M201.54 66.29 A96 96 0 0 1 201.54 189.71"/>
+    <path d="M55 190 A95.3 95.3 0 0 1 55 66"/>
+    <path d="M201 66 A95.3 95.3 0 0 1 201 190"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 96 L128 132"/>

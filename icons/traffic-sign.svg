@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="road sign,warning sign,traffic">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M135.61 43.75 L208.39 156.25 Q216 168 202 168 L54 168 Q40 168 47.61 156.25 L120.39 43.75 Q128 32 135.61 43.75 Z"/>
+    <path d="M136 44 L208 156 C209.88 158.86 211 161.16 211 163 C211 166.25 207.88 167.95 202 168 L54 168 C48.12 167.95 45 166.25 45 163 C45 161.16 46.12 158.86 48 156 L120 44 C122.67 40.08 125.33 38 128 38 C130.67 38 133.33 40.08 136 44 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M135.61 43.75 L208.39 156.25 Q216 168 202 168 L54 168 Q40 168 47.61 156.25 L120.39 43.75 Q128 32 135.61 43.75 Z"/>
+    <path d="M136 44 L208 156 C209.88 158.86 211 161.16 211 163 C211 166.25 207.88 167.95 202 168 L54 168 C48.12 167.95 45 166.25 45 163 C45 161.16 46.12 158.86 48 156 L120 44 C122.67 40.08 125.33 38 128 38 C130.67 38 133.33 40.08 136 44 Z"/>
     <path d="M128 168 L128 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

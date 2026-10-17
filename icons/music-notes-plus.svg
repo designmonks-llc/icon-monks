@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="add songs,add to playlist,new track,music,plus">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="64" cy="158" r="22.4"/>
-    <circle cx="147.2" cy="138.8" r="22.4"/>
+    <circle cx="64" cy="158" r="22"/>
+    <circle cx="147" cy="139" r="22"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="64" cy="158" r="22.4"/>
-    <circle cx="147.2" cy="138.8" r="22.4"/>
-    <path d="M86.4 158 L86.4 68.4"/>
-    <path d="M169.6 138.8 L169.6 49.2"/>
-    <path d="M86.4 68.4 L169.6 49.2"/>
+    <circle cx="64" cy="158" r="22"/>
+    <circle cx="147" cy="139" r="22"/>
+    <path d="M86 158 L86 68"/>
+    <path d="M170 139 L170 49"/>
+    <path d="M86 68 L170 49"/>
     <path d="M164 194 L220 194"/>
     <path d="M192 166 L192 222"/>
   </g>

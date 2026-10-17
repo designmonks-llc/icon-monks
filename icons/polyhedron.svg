@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="polyhedron,3d shape,gem,geometry">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 32 L184.43 50.33 L219.3 98.33 L219.3 157.67 L184.43 205.67 L128 224 L71.57 205.67 L36.7 157.67 L36.7 98.33 L71.57 50.33 Z"/>
+    <path d="M128 32 L184 50 L219 98 L219 158 L184 206 L128 224 L72 206 L37 158 L37 98 L72 50 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 32 L184.43 50.33 L219.3 98.33 L219.3 157.67 L184.43 205.67 L128 224 L71.57 205.67 L36.7 157.67 L36.7 98.33 L71.57 50.33 Z"/>
+    <path d="M128 32 L184 50 L219 98 L219 158 L184 206 L128 224 L72 206 L37 158 L37 98 L72 50 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 82 L171.75 113.79 L155.04 165.21 L100.96 165.21 L84.25 113.79 Z"/>
+    <path d="M128 82 L172 114 L155 165 L101 165 L84 114 Z"/>
     <path d="M128 82 L128 32"/>
-    <path d="M171.75 113.79 L219.3 98.33"/>
-    <path d="M155.04 165.21 L184.43 205.67"/>
-    <path d="M100.96 165.21 L71.57 205.67"/>
-    <path d="M84.25 113.79 L36.7 98.33"/>
+    <path d="M172 114 L219 98"/>
+    <path d="M155 165 L184 206"/>
+    <path d="M101 165 L72 206"/>
+    <path d="M84 114 L37 98"/>
   </g>
 </svg>

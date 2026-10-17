@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="short pants,summer,clothing,shorts,pants">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M68 48 L188 48 Q196 48 197.25 55.9 L218.75 192.1 Q220 200 212 200 L156 200 Q148 200 145.61 192.36 L129.19 139.82 Q128 136 126.81 139.82 L110.39 192.36 Q108 200 100 200 L44 200 Q36 200 37.25 192.1 L58.75 55.9 Q60 48 68 48 Z"/>
+    <path d="M68 48 L188 48 Q195.88 48.05 197 56 L219 192 Q220.12 199.95 212 200 L156 200 Q148.19 199.82 146 192 L129 140 C128.67 138.73 128.33 138 128 138 C127.67 138 127.33 138.73 127 140 L110 192 Q107.81 199.82 100 200 L44 200 Q35.88 199.95 37 192 L59 56 Q60.12 48.05 68 48 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M68 48 L188 48 Q196 48 197.25 55.9 L218.75 192.1 Q220 200 212 200 L156 200 Q148 200 145.61 192.36 L129.19 139.82 Q128 136 126.81 139.82 L110.39 192.36 Q108 200 100 200 L44 200 Q36 200 37.25 192.1 L58.75 55.9 Q60 48 68 48 Z"/>
+    <path d="M68 48 L188 48 Q195.88 48.05 197 56 L219 192 Q220.12 199.95 212 200 L156 200 Q148.19 199.82 146 192 L129 140 C128.67 138.73 128.33 138 128 138 C127.67 138 127.33 138.73 127 140 L110 192 Q107.81 199.82 100 200 L44 200 Q35.88 199.95 37 192 L59 56 Q60.12 48.05 68 48 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M92 80 L164 80"/>

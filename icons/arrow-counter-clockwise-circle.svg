@@ -6,7 +6,7 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M82 132 A46 46 0 1 0 95.47 99.47"/>
-    <path d="M123.47 99.47 L95.47 99.47 L95.47 71.47"/>
+    <path d="M82 132 A46 46 0 1 0 95 99"/>
+    <path d="M123 99 L95 99 L95 71"/>
   </g>
 </svg>

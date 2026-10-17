@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="no steam,laundry,care symbol,iron">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 152 L216 152 V96 A24 24 0 0 0 192 72 H120 C76 72 44 100 32 152 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 152 L216 152 V96 A24 24 0 0 0 192 72 H120 C76 72 44 100 32 152 Z"/>
     <path d="M112 72 L124 32 H184 A16 16 0 0 1 200 48 V72"/>
-    <path d="M84 180 C68 196 100 208 84 224"/>
-    <path d="M128 180 C112 196 144 208 128 224"/>
-    <path d="M172 180 C156 196 188 208 172 224"/>
+    <path d="M84 180 C80.62 183.38 79 186.9 79 190 C79 198.47 89 205.53 89 214 C89 217.1 87.38 220.62 84 224"/>
+    <path d="M128 180 C124.62 183.38 123 186.9 123 190 C123 198.47 133 205.53 133 214 C133 217.1 131.38 220.62 128 224"/>
+    <path d="M172 180 C168.62 183.38 167 186.9 167 190 C167 198.47 177 205.53 177 214 C177 217.1 175.38 220.62 172 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M92 116 L180 116"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

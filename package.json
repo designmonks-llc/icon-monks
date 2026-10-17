@@ -5,6 +5,7 @@
   "description": "Icon Monks: an open source icon family in six weights with packages for web and native platforms.",
   "license": "MIT",
   "scripts": {
+    "lint": "python3 scripts/lint.py",
     "build": "python3 scripts/build.py && python3 scripts/packages.py && node scripts/docs.mjs",
     "test": "node --test tests/*.test.mjs"
   },

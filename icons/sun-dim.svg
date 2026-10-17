@@ -7,12 +7,12 @@
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="212" cy="128" r="16"/>
-    <circle cx="187.4" cy="187.4" r="16"/>
+    <circle cx="187" cy="187" r="16"/>
     <circle cx="128" cy="212" r="16"/>
-    <circle cx="68.6" cy="187.4" r="16"/>
+    <circle cx="69" cy="187" r="16"/>
     <circle cx="44" cy="128" r="16"/>
-    <circle cx="68.6" cy="68.6" r="16"/>
+    <circle cx="69" cy="69" r="16"/>
     <circle cx="128" cy="44" r="16"/>
-    <circle cx="187.4" cy="68.6" r="16"/>
+    <circle cx="187" cy="69" r="16"/>
   </g>
 </svg>

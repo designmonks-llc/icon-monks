@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="step out,debugger,debug,arrow">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 140 L128 36"/>
-    <path d="M156.28 64.28 L128 36 L99.72 64.28"/>
+    <path d="M156 64 L128 36 L100 64"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="128" cy="192" r="32"/>

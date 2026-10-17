@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="stop sign,octagon,road sign,traffic">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M157.9 37.82 L192.18 72.1 A8 8 0 0 1 194.52 77.76 L194.52 126.24 A8 8 0 0 1 192.18 131.9 L157.9 166.18 A8 8 0 0 1 152.24 168.52 L103.76 168.52 A8 8 0 0 1 98.1 166.18 L63.82 131.9 A8 8 0 0 1 61.48 126.24 L61.48 77.76 A8 8 0 0 1 63.82 72.1 L98.1 37.82 A8 8 0 0 1 103.76 35.48 L152.24 35.48 A8 8 0 0 1 157.9 37.82 Z"/>
+    <path d="M158 38 L192 72 A8 8 0 0 1 195 78 L195 126 A8 8 0 0 1 192 132 L158 166 A8 8 0 0 1 152 169 L104 169 A8 8 0 0 1 98 166 L64 132 A8 8 0 0 1 61 126 L61 78 A8 8 0 0 1 64 72 L98 38 A8 8 0 0 1 104 35 L152 35 A8 8 0 0 1 158 38 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M157.9 37.82 L192.18 72.1 A8 8 0 0 1 194.52 77.76 L194.52 126.24 A8 8 0 0 1 192.18 131.9 L157.9 166.18 A8 8 0 0 1 152.24 168.52 L103.76 168.52 A8 8 0 0 1 98.1 166.18 L63.82 131.9 A8 8 0 0 1 61.48 126.24 L61.48 77.76 A8 8 0 0 1 63.82 72.1 L98.1 37.82 A8 8 0 0 1 103.76 35.48 L152.24 35.48 A8 8 0 0 1 157.9 37.82 Z"/>
-    <path d="M128 168.5 L128 224"/>
+    <path d="M158 38 L192 72 A8 8 0 0 1 195 78 L195 126 A8 8 0 0 1 192 132 L158 166 A8 8 0 0 1 152 169 L104 169 A8 8 0 0 1 98 166 L64 132 A8 8 0 0 1 61 126 L61 78 A8 8 0 0 1 64 72 L98 38 A8 8 0 0 1 104 35 L152 35 A8 8 0 0 1 158 38 Z"/>
+    <path d="M128 168 L128 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M100 102 L156 102"/>

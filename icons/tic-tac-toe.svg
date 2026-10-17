@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="tic tac toe,noughts and crosses,game,grid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="202" cy="202" r="20"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M100 32 L100 224"/>
     <path d="M156 32 L156 224"/>

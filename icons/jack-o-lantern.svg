@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="halloween,pumpkin,jack o lantern,scary">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 76 C160 60 224 72 224 144 C224 200 176 224 128 212 C80 224 32 200 32 144 C32 72 96 60 128 76 Z"/>
+    <path d="M128 76 C136 72 145.5 70 156 70 C187.5 70 224 90 224 144 C224 190.58 190.79 215 152 215 C144.15 215 136.08 214.02 128 212 C119.92 214.02 111.85 215 104 215 C65.21 215 32 190.58 32 144 C32 90 68.5 70 100 70 C110.5 70 120 72 128 76 Z"/>
   </g>
   <g data-role="hole" fill="none">
     <path d="M76 140 L96 108 L116 140 Z"/>
@@ -8,7 +8,7 @@
     <path d="M72 160 L104 174 L128 162 L152 174 L184 160 C176 184 152 196 128 196 C104 196 80 184 72 160 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 76 C160 60 224 72 224 144 C224 200 176 224 128 212 C80 224 32 200 32 144 C32 72 96 60 128 76 Z"/>
+    <path d="M128 76 C136 72 145.5 70 156 70 C187.5 70 224 90 224 144 C224 190.58 190.79 215 152 215 C144.15 215 136.08 214.02 128 212 C119.92 214.02 111.85 215 104 215 C65.21 215 32 190.58 32 144 C32 90 68.5 70 100 70 C110.5 70 120 72 128 76 Z"/>
     <path d="M128 74 C128 56 132 44 144 36"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

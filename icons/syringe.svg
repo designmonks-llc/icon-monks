@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="vaccine,injection,medical,needle,shot">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M57.29 153.46 L133.66 77.09 L178.91 122.34 L102.54 198.71 Z"/>
+    <path d="M57 153 L134 77 L179 122 L103 199 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M57.29 153.46 L133.66 77.09 L178.91 122.34 L102.54 198.71 Z"/>
-    <path d="M79.92 176.08 L51.63 204.37"/>
-    <path d="M156.28 99.72 L190.23 65.77"/>
-    <path d="M167.6 43.15 L212.85 88.4"/>
+    <path d="M57 153 L134 77 L179 122 L103 199 Z"/>
+    <path d="M80 176 L52 204"/>
+    <path d="M156 100 L190 66"/>
+    <path d="M168 43 L213 88"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M82.75 128 L102.54 147.8"/>
-    <path d="M108.2 102.54 L128 122.34"/>
+    <path d="M83 128 L103 148"/>
+    <path d="M108 103 L128 122"/>
   </g>
 </svg>

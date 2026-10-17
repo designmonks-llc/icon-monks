@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="science,lab,research,biology,magnify">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M66.02 54.75 L102.02 128.75 L137.98 111.25 L101.98 37.25 Z"/>
+    <path d="M66 55 L102 129 L138 111 L102 37 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M66.02 54.75 L102.02 128.75 L137.98 111.25 L101.98 37.25 Z"/>
+    <path d="M66 55 L102 129 L138 111 L102 37 Z"/>
     <path d="M48 216 L208 216"/>
     <path d="M136 78 A69 69 0 0 1 128 216"/>
     <path d="M64 164 L148 164"/>

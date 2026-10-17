@@ -1,11 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="parachute,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 112 A96 80 0 0 1 224 112 A32 16 0 0 0 160 112 A32 16 0 0 0 96 112 A32 16 0 0 0 32 112 Z"/>
+    <rect x="108" y="184" width="40" height="32" rx="8"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56.66 96.42 L40.56 101.11 L33.48 107.17 L32 112 L38.08 83.91 L39.54 80.86"/>
-    <path d="M81.81 41.85 L119.72 32.29 L161.7 37.07 L195.88 55.43 L216.46 80.86 L223.91 108.53 L224 112 L221.71 106.05 L213.79 100.28 L196.95 96.19 L177.93 97.63 L165.63 102.93 L160.85 108.33 L160 112 L157.71 106.05 L149.79 100.28 L137.66 96.74"/>
+    <path d="M32 112 A96 80 0 0 1 224 112 A32 16 0 0 0 160 112 A32 16 0 0 0 96 112 A32 16 0 0 0 32 112 Z"/>
     <path d="M32 112 L112 184"/>
-    <path d="M105.19 145.08 L116 184"/>
-    <path d="M224 112 L186.26 145.96"/>
-    <path d="M116 184 H140 A8 8 0 0 1 148 192 V208 A8 8 0 0 1 140 216 H116 A8 8 0 0 1 108 208 V192 A8 8 0 0 1 116 184 Z"/>
+    <path d="M96 112 L116 184"/>
+    <path d="M160 112 L140 184"/>
+    <path d="M224 112 L144 184"/>
+    <rect x="108" y="184" width="40" height="32" rx="8"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

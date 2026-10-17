@@ -9,7 +9,7 @@
     <path d="M40 96 L40 120"/>
     <path d="M40 152 L40 176 L64 176"/>
     <circle cx="148" cy="148" r="52"/>
-    <path d="M184.77 184.77 L216 216"/>
+    <path d="M185 185 L216 216"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M124 148 L172 148"/>

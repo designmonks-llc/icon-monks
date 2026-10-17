@@ -6,7 +6,7 @@
     <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="128" cy="103.85" rx="24.15" ry="21.85"/>
-    <ellipse cx="128" cy="149.85" rx="27.6" ry="24.15"/>
+    <ellipse cx="128" cy="104" rx="24" ry="22"/>
+    <ellipse cx="128" cy="150" rx="28" ry="24"/>
   </g>
 </svg>

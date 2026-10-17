@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="chili,pepper,spicy,hot,vegetable">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M120 96 C116 144 96 184 48 208 C120 224 188 176 200 112 C204 92 192 80 176 80 C152 80 124 80 120 96 Z"/>
+    <path d="M120 96 C116 144 96 184 48 208 C57.47 210.1 66.79 211 76 211 C136.84 211 189.58 167.59 200 112 C204 92 192 80 176 80 C152 80 124 80 120 96 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M120 96 C116 144 96 184 48 208 C120 224 188 176 200 112 C204 92 192 80 176 80 C152 80 124 80 120 96 Z"/>
+    <path d="M120 96 C116 144 96 184 48 208 C57.47 210.1 66.79 211 76 211 C136.84 211 189.58 167.59 200 112 C204 92 192 80 176 80 C152 80 124 80 120 96 Z"/>
     <path d="M160 82 C160 60 168 44 188 36"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M120 100 C140 112 176 112 200 104"/>
+    <path d="M120 100 C131.01 106.61 146.96 110 163 110 C176.09 110 189.21 107.6 200 104"/>
   </g>
 </svg>

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="science,physics,nuclear,energy,react">
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="science,physics,nuclear,energy,react">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M224 128 A96 36 0 1 1 32 128 A96 36 0 1 1 224 128 Z"/>
-    <path d="M176 211.14 A96 36 60 1 1 80 44.86 A96 36 60 1 1 176 211.14 Z"/>
-    <path d="M80 211.14 A96 36 120 1 1 176 44.86 A96 36 120 1 1 80 211.14 Z"/>
+    <path d="M176 211 A96 36 60 1 1 80 45 A96 36 60 1 1 176 211 Z"/>
+    <path d="M80 211 A96 36 120 1 1 176 45 A96 36 120 1 1 80 211 Z"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="128" cy="128" r="16"/>

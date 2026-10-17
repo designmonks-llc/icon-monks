@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="image,fast,power,instant">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131.2 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 142 A58 58 0 0 0 131.2 208 Z"/>
+    <path d="M131 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 142 A58 58 0 0 0 131 208 Z"/>
     <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M131.2 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 142"/>
+    <path d="M131 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 142"/>
     <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44 188 L96 136 L118.72 158.72"/>
+    <path d="M44 188 L96 136 L119 159"/>
     <circle cx="152" cy="96" r="16"/>
   </g>
 </svg>

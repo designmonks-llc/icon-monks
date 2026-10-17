@@ -7,10 +7,10 @@
     <path d="M32 160 L32 224"/>
     <path d="M68 160 L68 224"/>
     <path d="M32 192 L68 192"/>
-    <path d="M129.33 160 L97.33 160 L97.33 224 L129.33 224"/>
-    <path d="M97.33 192 L122.93 192"/>
-    <path d="M158.67 160 L158.67 224"/>
-    <path d="M221.59 169 A18 18 0 0 0 188 178 V206 A18 18 0 0 0 221.59 215"/>
+    <path d="M129 160 L97 160 L97 224 L129 224"/>
+    <path d="M97 192 L123 192"/>
+    <path d="M159 160 L159 224"/>
+    <path d="M222 169 A18 18 0 0 0 188 178 V206 A18 18 0 0 0 222 215"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="swipe right,gesture,touch,scroll">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M61.28 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 219.1 217.22 217.41 224 Z"/>
+    <path d="M63 224 L43 197 A17.45 17.45 0 0 1 70 176 L78 185 L78 112 A17.45 17.45 0 0 1 113 112 L113 164 A17.45 17.45 0 0 1 147 164 L147 168 A17.45 17.45 0 0 1 182 168 L182 174 A17.45 17.45 0 0 1 217 174 L217 203 C217.24 210.3 216.36 217.43 215 224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M61.28 224 L40 196 A18 18 0 0 1 68 174 L76 184 L76 108 A18 18 0 0 1 112 108 L112 162 A18 18 0 0 1 148 162 L148 166 A18 18 0 0 1 184 166 L184 172 A18 18 0 0 1 220 172 L220 202 C220 209.87 219.1 217.22 217.41 224"/>
-    <path d="M56 48 L200 48"/>
-    <path d="M178 70 L200 48 L178 26"/>
+    <path d="M63 224 L43 197 A17.45 17.45 0 0 1 70 176 L78 185 L78 112 A17.45 17.45 0 0 1 113 112 L113 164 A17.45 17.45 0 0 1 147 164 L147 168 A17.45 17.45 0 0 1 182 168 L182 174 A17.45 17.45 0 0 1 217 174 L217 203 C217.24 210.3 216.36 217.43 215 224"/>
+    <path d="M58 53 L198 53"/>
+    <path d="M177 75 L198 53 L177 32"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M148 166 L148 200"/>
-    <path d="M184 172 L184 200"/>
+    <path d="M147 168 L147 201"/>
+    <path d="M182 174 L182 201"/>
   </g>
 </svg>

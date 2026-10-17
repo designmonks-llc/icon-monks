@@ -4,7 +4,7 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="128" r="24"/>
-    <path d="M211.14 176 A96 50 30 1 1 44.86 80 A96 50 30 1 1 211.14 176 Z"/>
-    <path d="M211.14 80 A96 50 -30 1 1 44.86 176 A96 50 -30 1 1 211.14 80 Z"/>
+    <path d="M211 176 A96 50 30 1 1 45 80 A96 50 30 1 1 211 176 Z"/>
+    <path d="M211 80 A96 50 -30 1 1 45 176 A96 50 -30 1 1 211 80 Z"/>
   </g>
 </svg>

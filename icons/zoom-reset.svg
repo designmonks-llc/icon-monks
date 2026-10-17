@@ -3,8 +3,8 @@
     <circle cx="112" cy="112" r="72"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 112 A72 72 0 1 0 61.09 61.09"/>
-    <path d="M61.09 32.8 L61.09 61.09 L89.37 61.09"/>
+    <path d="M40 112 A72 72 0 1 0 61 61"/>
+    <path d="M61 33 L61 61 L89 61"/>
     <path d="M163 163 L216 216"/>
   </g>
 </svg>

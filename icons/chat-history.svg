@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat history,conversation log,messages,past">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M97.54 209.3 L40 216 L52.33 170 A92 92 0 1 1 97.54 209.3 Z"/>
+    <path d="M98 209 L40 216 L52 170 A91.68 91.68 0 1 1 98 209 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M45.55 92.53 A92 92 0 1 1 97.54 209.3 L40 216 L52.33 170 A92 92 0 0 1 40.9 136.8"/>
-    <path d="M73.75 79.39 L45.55 92.53 L32.4 64.34"/>
+    <path d="M46 93 A91.68 91.68 0 1 1 98 209 L40 216 L52 170 A91.68 91.68 0 0 1 41 137"/>
+    <path d="M74 79 L46 93 L32 64"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M132 82 L132 124 L162 142"/>

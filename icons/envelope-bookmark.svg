@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="mail,saved,bookmark,envelope">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126.17 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139.28 A60 60 0 0 0 126.17 200 Z"/>
+    <path d="M126 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139 A60 60 0 0 0 126 200 Z"/>
     <path d="M166 154 L202 154 L202 214 L184 200 L166 214 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126.17 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139.28"/>
+    <path d="M126 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 139"/>
     <path d="M166 154 L202 154 L202 214 L184 200 L166 214 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

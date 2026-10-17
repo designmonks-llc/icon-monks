@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="venn,intersect,overlap">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M102.89 150.49 A60 60 0 0 1 128 107.01 A60 60 0 0 1 153.11 150.49 A60 60 0 0 1 102.89 150.49 Z"/>
+    <path d="M103 150 A60 60 0 0 1 128 107 A60 60 0 0 1 153 150 A60 60 0 0 1 103 150 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="96" r="60"/>
-    <circle cx="162.64" cy="156" r="60"/>
-    <circle cx="93.36" cy="156" r="60"/>
+    <circle cx="163" cy="156" r="60"/>
+    <circle cx="93" cy="156" r="60"/>
   </g>
 </svg>

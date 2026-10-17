@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="table,download,down,decrease">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M137.87 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 150.77 A52 52 0 0 0 137.87 208 Z"/>
+    <path d="M138 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 151 A52 52 0 0 0 138 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M137.87 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 150.77"/>
+    <path d="M138 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 151"/>
     <path d="M184 154 L184 214"/>
     <path d="M160 190 L184 214 L208 190"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 96 L224 96"/>
-    <path d="M32 152 L138.04 152"/>
+    <path d="M32 152 L138 152"/>
     <path d="M96 96 L96 208"/>
   </g>
 </svg>

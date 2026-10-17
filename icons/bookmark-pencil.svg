@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="bookmark,edit,write,save,mark">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126.01 185.24 L64 224 L64 32 L192 32 L192 126.55 A58 58 0 0 0 126.01 185.24 Z"/>
-    <path d="M161.37 206.63 L182.59 202.38 L210.87 174.1 L193.9 157.13 L165.62 185.41 Z"/>
+    <path d="M126 185 L64 224 L64 32 L192 32 L192 127 A58 58 0 0 0 126 185 Z"/>
+    <path d="M161 207 L183 202 L211 174 L194 157 L166 185 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126.01 185.24 L64 224 L64 32 L192 32 L192 126.55"/>
-    <path d="M161.37 206.63 L182.59 202.38 L210.87 174.1 L193.9 157.13 L165.62 185.41 Z"/>
+    <path d="M126 185 L64 224 L64 32 L192 32 L192 127"/>
+    <path d="M161 207 L183 202 L211 174 L194 157 L166 185 Z"/>
   </g>
 </svg>

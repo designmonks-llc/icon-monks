@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="contactless off,nfc off,tap to pay,disabled">
-  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100.28 99.72 A40 40 0 0 1 100.28 156.28"/>
-    <path d="M128.57 71.43 A80 80 0 0 1 128.57 184.57"/>
-    <path d="M156.85 43.15 A120 120 0 0 1 156.85 212.85"/>
-    <path d="M48 48 L208 208"/>
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="62" width="192" height="132" rx="13"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="72" cy="128" r="16"/>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="62" width="192" height="132" rx="13"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M122 104 A33 33 0 0 1 122 152"/>
+    <path d="M149 85 A66.46 66.46 0 0 1 149 171"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="98" cy="128" r="16"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

@@ -4,16 +4,16 @@
     <path d="M128 168 L128 220"/>
     <path d="M88 128 L36 128"/>
     <path d="M128 88 L128 36"/>
-    <path d="M156.28 156.28 L173.25 173.25"/>
-    <path d="M99.72 156.28 L82.75 173.25"/>
-    <path d="M99.72 99.72 L82.75 82.75"/>
-    <path d="M156.28 99.72 L173.25 82.75"/>
+    <path d="M156 156 L173 173"/>
+    <path d="M100 156 L83 173"/>
+    <path d="M100 100 L83 83"/>
+    <path d="M156 100 L173 83"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="191.64" cy="191.64" r="16"/>
-    <circle cx="64.36" cy="191.64" r="16"/>
-    <circle cx="64.36" cy="64.36" r="16"/>
-    <circle cx="191.64" cy="64.36" r="16"/>
+    <circle cx="192" cy="192" r="16"/>
+    <circle cx="64" cy="192" r="16"/>
+    <circle cx="64" cy="64" r="16"/>
+    <circle cx="192" cy="64" r="16"/>
     <circle cx="128" cy="128" r="16"/>
   </g>
 </svg>

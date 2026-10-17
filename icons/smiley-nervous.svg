@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="nervous,anxious,awkward,face,emoji">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M219.66 99.45 A96 96 0 0 1 60.12 195.88 A96 96 0 0 1 156.55 36.34 A46 46 0 0 0 219.66 99.45 Z"/>
-    <path d="M196 30 C196 30 180 52 180 64 A16 16 0 0 0 212 64 C212 52 196 30 196 30 Z"/>
+    <path d="M219 101 A95 95 0 0 1 61 196 A95 95 0 0 1 156 38 A45.53 45.53 0 0 0 219 101 Z"/>
+    <path d="M195 32 C195.3 32 179.47 53.77 179 66 A16 16 0 0 0 211 66 C211.14 53.77 195.3 32 195 32 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M219.66 99.45 A96 96 0 0 1 60.12 195.88 A96 96 0 0 1 156.55 36.34"/>
-    <path d="M196 30 C196 30 180 52 180 64 A16 16 0 0 0 212 64 C212 52 196 30 196 30 Z"/>
+    <path d="M219 101 A95 95 0 0 1 61 196 A95 95 0 0 1 156 38"/>
+    <path d="M195 32 C195.3 32 179.47 53.77 179 66 A16 16 0 0 0 211 66 C211.14 53.77 195.3 32 195 32 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 168 C100 152 112 152 128 164 C144 176 156 176 172 160"/>
+    <path d="M84 169 C92.72 160.3 100.53 156 108 156 C114.49 156 120.64 159.3 128 165 C135.33 170.32 141.54 173 148 173 C155.5 173 163.25 169.33 172 161"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="92" cy="112" r="16"/>
-    <circle cx="152" cy="112" r="16"/>
+    <circle cx="92" cy="113" r="16"/>
+    <circle cx="152" cy="113" r="16"/>
   </g>
 </svg>

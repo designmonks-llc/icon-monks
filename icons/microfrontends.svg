@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="micro frontends,modules,architecture,web">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="40" width="192" height="176" rx="14"/>
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="40" width="192" height="176" rx="14"/>
+    <rect x="40" y="47" width="176" height="162" rx="13"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 104 L224 104"/>
-    <path d="M104 72 L192 72"/>
-    <path d="M112 104 L112 216"/>
-    <path d="M112 160 L224 160"/>
+    <path d="M40 106 L216 106"/>
+    <path d="M106 77 L187 77"/>
+    <path d="M113 106 L113 209"/>
+    <path d="M113 157 L216 157"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="64" cy="72" r="10"/>
+    <circle cx="69" cy="77" r="10"/>
   </g>
 </svg>

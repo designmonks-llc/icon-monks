@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="bandage,first aid,injury,plaster,heal">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M116.69 201.54 L201.54 116.69 A44 44 0 0 0 139.31 54.46 L54.46 139.31 A44 44 0 0 0 116.69 201.54 Z"/>
+    <path d="M117 202 L202 117 A44 44 0 0 0 139 54 L54 139 A44 44 0 0 0 117 202 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M116.69 201.54 L201.54 116.69 A44 44 0 0 0 139.31 54.46 L54.46 139.31 A44 44 0 0 0 116.69 201.54 Z"/>
+    <path d="M117 202 L202 117 A44 44 0 0 0 139 54 L54 139 A44 44 0 0 0 117 202 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M72.85 120.93 L135.07 183.15"/>
-    <path d="M120.93 72.85 L183.15 135.07"/>
+    <path d="M73 121 L135 183"/>
+    <path d="M121 73 L183 135"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="128" cy="128" r="12"/>

@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="pisa,tower,landmark,italy">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M94.89 216 L120.91 68.41 L187.88 80.21 L163.94 216 Z"/>
-    <path d="M132.73 70.49 L135.85 52.76 A22 22 0 0 1 179.19 60.4 L176.06 78.13 Z"/>
+    <path d="M95 216 L121 68 L188 80 L164 216 Z"/>
+    <path d="M133 70 L136 53 A22 22 0 0 1 179 60 L176 78 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M94.89 216 L120.91 68.41 L187.88 80.21 L163.94 216"/>
-    <path d="M132.73 70.49 L135.85 52.76 A22 22 0 0 1 179.19 60.4 L176.06 78.13"/>
+    <path d="M95 216 L121 68 L188 80 L164 216"/>
+    <path d="M133 70 L136 53 A22 22 0 0 1 179 60 L176 78"/>
     <path d="M40 216 L216 216"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M114.66 103.86 L181.63 115.67"/>
-    <path d="M108.41 139.31 L175.38 151.12"/>
-    <path d="M102.16 174.76 L169.12 186.57"/>
+    <path d="M115 104 L182 116"/>
+    <path d="M108 139 L175 151"/>
+    <path d="M102 175 L169 187"/>
   </g>
 </svg>

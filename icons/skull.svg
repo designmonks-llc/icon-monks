@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="death,danger,poison,halloween,pirate">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M51.79 164 A88 88 0 1 1 204.21 164 L176 180 V200 A16 16 0 0 1 160 216 H96 A16 16 0 0 1 80 200 V180 Z"/>
+    <path d="M52 164 A88 88 0 1 1 204 164 L176 180 V200 A16 16 0 0 1 160 216 H96 A16 16 0 0 1 80 200 V180 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M51.79 164 A88 88 0 1 1 204.21 164 L176 180 V200 A16 16 0 0 1 160 216 H96 A16 16 0 0 1 80 200 V180 Z"/>
+    <path d="M52 164 A88 88 0 1 1 204 164 L176 180 V200 A16 16 0 0 1 160 216 H96 A16 16 0 0 1 80 200 V180 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 192 L112 216"/>

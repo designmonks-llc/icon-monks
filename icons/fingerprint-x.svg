@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="biometric failed,access denied,unrecognised">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M37.79 172.83 A96 96 0 0 1 187.2 130.1"/>
-    <path d="M64 200 L64 140 A64 64 0 0 1 191.29 130.49"/>
-    <path d="M96 176 L96 140 A32 32 0 0 1 159.72 135.77"/>
+    <path d="M38 173 A96 96 0 0 1 187 130"/>
+    <path d="M64 200 L64 140 A64 64 0 0 1 191 130"/>
+    <path d="M96 176 L96 140 A32 32 0 0 1 160 136"/>
     <path d="M128 140 L128 216"/>
     <path d="M164 164 L204 204"/>
     <path d="M204 164 L164 204"/>

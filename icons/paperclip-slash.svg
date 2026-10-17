@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="no attachment,detach,paperclip,remove">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M136 176 A32 32 0 0 1 72 176 V106"/>
-    <path d="M85.5 51.5 A56 56 0 0 1 184 88 V150"/>
+    <path d="M136 104 V176 A32 32 0 0 1 72 176 V88 A56 56 0 0 1 184 88 V168"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

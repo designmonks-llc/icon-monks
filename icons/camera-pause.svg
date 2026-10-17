@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="camera,paused,hold,photo,picture">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M135.63 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 147.72 A54 54 0 0 0 135.63 208 Z"/>
+    <path d="M136 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 148 A54 54 0 0 0 136 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M135.63 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 147.72"/>
+    <path d="M136 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L80 72 L96 48 L160 48 L176 72 L208 72 A16 16 0 0 1 224 88 L224 148"/>
     <path d="M168 160 L168 208"/>
     <path d="M200 160 L200 208"/>
   </g>

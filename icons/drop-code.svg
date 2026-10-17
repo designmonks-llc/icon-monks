@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="drop,developer,code,water,liquid">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M163.74 127.52 C152.81 93.65 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130.13 210.42 A60 60 0 0 1 163.74 127.52 Z"/>
+    <path d="M164 128 C153.07 94.13 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130 210 A60 60 0 0 1 164 128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M163.74 127.52 C152.81 93.65 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130.13 210.42"/>
+    <path d="M164 128 C153.07 94.13 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130 210"/>
     <path d="M170 164 L150 184 L170 204"/>
     <path d="M198 164 L218 184 L198 204"/>
   </g>

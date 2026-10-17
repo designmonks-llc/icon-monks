@@ -1,9 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="assembly,disabled,off,development">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M94.04 51.61 L128 32 L211.14 80 L211.14 168.71"/>
-    <path d="M161.96 204.39 L128 224 L44.86 176 L44.86 87.29"/>
-    <path d="M124.58 82.15 A10 10 0 0 1 133 82.89 L164.57 101.11 A10 10 0 0 1 169.57 109.77 L169.57 127.14"/>
-    <path d="M131.42 173.85 A10 10 0 0 1 123 173.11 L91.43 154.89 A10 10 0 0 1 86.43 146.23 L86.43 128.86"/>
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M123 83 A10 10 0 0 1 133 83 L165 101 A10 10 0 0 1 170 110 L170 146 A10 10 0 0 1 165 155 L133 173 A10 10 0 0 1 123 173 L91 155 A10 10 0 0 1 86 146 L86 110 A10 10 0 0 1 91 101 L123 83 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

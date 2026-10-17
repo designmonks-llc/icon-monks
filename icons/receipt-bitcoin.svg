@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="receipt,bitcoin,crypto">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131.18 210.12 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 108.74 A68 68 0 0 0 131.18 210.12 Z"/>
+    <path d="M131 210 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 109 A68 68 0 0 0 131 210 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M131.18 210.12 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 108.74"/>
+    <path d="M131 210 L128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 109"/>
     <path d="M170 144 H192 A16 16 0 0 1 192 176 H170 M192 176 H196 A16 16 0 0 1 196 208 H170 V144"/>
     <path d="M186 132 L186 144"/>
     <path d="M186 208 L186 220"/>

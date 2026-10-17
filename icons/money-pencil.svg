@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money,edit,write">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M132.13 192 L38 192 A14 14 0 0 1 24 178 L24 78 A14 14 0 0 1 38 64 L218 64 A14 14 0 0 1 232 78 L232 143.08 A64 64 0 0 0 132.13 192 Z"/>
-    <path d="M166 226 L172 204 L204 172 L218 186 L186 218 Z"/>
+    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143 A59 59 0 0 0 132 188 Z"/>
+    <path d="M163 220 L169 199 L198 170 L211 183 L182 212 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M132.13 192 L38 192 A14 14 0 0 1 24 178 L24 78 A14 14 0 0 1 38 64 L218 64 A14 14 0 0 1 232 78 L232 143.08"/>
-    <path d="M166 226 L172 204 L204 172 L218 186 L186 218 Z"/>
+    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143"/>
+    <path d="M163 220 L169 199 L198 170 L211 183 L182 212 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="128" r="28"/>
+    <circle cx="128" cy="129" r="26"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="64" cy="128" r="16"/>
+    <circle cx="69" cy="129" r="16"/>
   </g>
 </svg>

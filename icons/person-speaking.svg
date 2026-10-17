@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="voice over,speaker,talk,narrator">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64 224 L64 188.02 A53.2 53.2 0 1 1 141.98 124.6 L157.8 162.4 L148 168 L148 186.2 A12.6 12.6 0 0 1 135.4 198.8 L117.2 198.8 L117.2 224 Z"/>
+    <path d="M64 224 L64 188 A53.2 53.2 0 1 1 142 125 L158 162 L148 168 L148 186 A12.6 12.6 0 0 1 135 199 L117 199 L117 224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 224 L64 188.02 A53.2 53.2 0 1 1 141.98 124.6 L157.8 162.4 L148 168 L148 186.2 A12.6 12.6 0 0 1 135.4 198.8 L117.2 198.8 L117.2 224"/>
-    <path d="M184.29 139.93 A30 30 0 0 1 184.29 180.07"/>
-    <path d="M206.6 116.93 A62 62 0 0 1 206.6 203.07"/>
+    <path d="M64 224 L64 188 A53.2 53.2 0 1 1 142 125 L158 162 L148 168 L148 186 A12.6 12.6 0 0 1 135 199 L117 199 L117 224"/>
+    <path d="M184 140 A30 30 0 0 1 184 180"/>
+    <path d="M207 117 A62 62 0 0 1 207 203"/>
   </g>
 </svg>

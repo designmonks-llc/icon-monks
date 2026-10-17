@@ -1,15 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="aperture,disabled,off,media">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84.73 42.3 A96 96 0 0 1 224 128 A96 96 0 0 1 213.7 171.27"/>
-    <path d="M171.27 213.7 A96 96 0 0 1 42.3 84.73"/>
-    <path d="M133.74 91.31 L222.86 142.77"/>
-    <path d="M162.64 108 L162.64 120.21"/>
-    <path d="M162.64 205.07 L162.64 217.53"/>
-    <path d="M126.46 168.89 L67.78 202.77"/>
-    <path d="M122.26 164.69 L33.14 113.23"/>
-    <path d="M93.36 148 L93.36 135.79"/>
-    <path d="M93.36 50.93 L93.36 38.47"/>
-    <path d="M129.54 87.11 L188.22 53.23"/>
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 88 L223 143"/>
+    <path d="M163 108 L163 218"/>
+    <path d="M163 148 L68 203"/>
+    <path d="M128 168 L33 113"/>
+    <path d="M93 148 L93 38"/>
+    <path d="M93 108 L188 53"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

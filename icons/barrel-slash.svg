@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="barrel,disabled,off,cask,wine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 36 H188 C202 62 209 95 209 128 C209 161 202 194 188 220 H68 C54 194 47 161 47 128 C47 95 54 62 68 36 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M68 36 H188 C216 88 216 168 188 220 H68 C40 168 40 88 68 36 Z"/>
+    <path d="M68 36 H188 C202 62 209 95 209 128 C209 161 202 194 188 220 H68 C54 194 47 161 47 128 C47 95 54 62 68 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M80 92 L176 92"/>
     <path d="M80 164 L176 164"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

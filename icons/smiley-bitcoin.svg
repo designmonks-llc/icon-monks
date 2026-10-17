@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="smiley,bitcoin,crypto">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M136.33 223.64 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.64 136.33 A62 62 0 0 0 136.33 223.64 Z"/>
+    <path d="M136 223 A94.53 94.53 0 0 1 61 61 A94.53 94.53 0 0 1 223 136 A61 61 0 0 0 136 223 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M136.33 223.64 A96 96 0 0 1 60.12 60.12 A96 96 0 0 1 223.64 136.33"/>
-    <path d="M162 158 H186 A13 13 0 0 1 186 184 H170"/>
-    <path d="M170 184 H189 A13 13 0 0 1 189 210 H162"/>
-    <path d="M170 158 L170 210"/>
-    <path d="M180 146 L180 158"/>
-    <path d="M180 210 L180 222"/>
+    <path d="M136 223 A94.53 94.53 0 0 1 61 61 A94.53 94.53 0 0 1 223 136"/>
+    <path d="M162 158 H185 A13 13 0 0 1 185 183 H170"/>
+    <path d="M170 183 H188 A13 13 0 0 1 188 209 H162"/>
+    <path d="M170 158 L170 209"/>
+    <path d="M179 146 L179 158"/>
+    <path d="M179 209 L179 221"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M80 136 A40 40 0 0 0 144 136"/>
+    <path d="M80 136 A39.59 39.59 0 0 0 144 136"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
     <circle cx="84" cy="96" r="16"/>

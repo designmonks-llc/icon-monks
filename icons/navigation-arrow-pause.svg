@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="navigation arrow,paused,hold,navigation,arrow">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M44.48 97.52 L169.28 44.48 L116.24 169.28 L100.64 113.12 Z"/>
+    <path d="M44 98 L169 44 L116 169 L101 113 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44.48 97.52 L169.28 44.48 L116.24 169.28 L100.64 113.12 Z"/>
+    <path d="M44 98 L169 44 L116 169 L101 113 Z"/>
     <path d="M168 160 L168 208"/>
     <path d="M200 160 L200 208"/>
   </g>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="unknown user,anonymous,guest,person">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M144 84C144 61.91 126.09 44 104 44C81.91 44 64 61.91 64 84C64 106.09 81.91 124 104 124C126.09 124 144 106.09 144 84ZM143.26 216C136.8 206.98 133 195.94 133 184C133 173.76 135.8 164.17 140.67 155.96C129.96 150.7 117.43 148 104 148C64 148 32 172 32 216H143.26Z"/>
+    <path d="M144 84 C144 61.91 126.09 44 104 44 C81.91 44 64 61.91 64 84 C64 106.09 81.91 124 104 124 C126.09 124 144 106.09 144 84 Z M143 216 C136.54 206.98 133 195.94 133 184 C133 173.76 136.13 164.21 141 156 C130.29 150.74 117.43 148 104 148 C64 148 32 172 32 216 H143 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M64 84 A40 40 0 0 1 144 84 A40 40 0 0 1 64 84 Z"/>
-    <path d="M32 216 C32 172 64 148 104 148 C117.43 148 129.96 150.71 140.68 155.97"/>
+    <path d="M32 216 C32 172 64 148 104 148 C117.43 148 130.28 150.74 141 156"/>
     <path d="M170 164 A18 18 0 1 1 194 181 C189 184 188 187 188 192"/>
   </g>
   <g data-role="dot" fill="currentColor">

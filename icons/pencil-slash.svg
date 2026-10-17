@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="read only,no editing,locked edit,edit off,locked">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 L56 160 L168 48 L208 88 L96 200 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 216 L56 160"/>
-    <path d="M56 160 L85.37 130.63"/>
-    <path d="M130.63 85.37 L168 48"/>
-    <path d="M168 48 L208 88"/>
-    <path d="M208 88 L170.63 125.37"/>
-    <path d="M125.37 170.63 L96 200"/>
-    <path d="M96 200 L40 216"/>
+    <path d="M40 216 L56 160 L168 48 L208 88 L96 200 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M140 76 L180 116"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

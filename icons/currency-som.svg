@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="currency som,currency,money,som,commerce">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M188.09 68.29 A68 68 0 1 0 188.09 155.71"/>
+    <path d="M188 68 A68 68 0 1 0 188 156"/>
     <path d="M64 216 L192 216"/>
   </g>
 </svg>

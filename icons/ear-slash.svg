@@ -1,7 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="deaf,hearing disabled,mute,ear,disabled">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 100 A60 60 0 0 1 196 100 C196 140 168 148 160 172 C152 200 136 220 108 220 C92 220 80 212 72 200 C70 195 69 189.19 69 182 C69 160.44 76 130 76 100 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M76 100 A60 60 0 0 1 196 100 C196 140 168 148 160 172 C152 200 136 220 108 220 C92 220 80 212 72 200"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 112 A24 24 0 0 1 160 104 C160 124 140 132 136 152"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

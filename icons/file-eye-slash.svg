@@ -7,7 +7,7 @@
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>
-    <path d="M80.16 156 C94.88 130.24 113.28 122.88 128 122.88 C142.72 122.88 161.12 130.24 175.84 156 C161.12 181.76 142.72 189.12 128 189.12 C113.28 189.12 94.88 181.76 80.16 156 Z"/>
+    <path d="M80 156 C94.72 130.24 113.28 123 128 123 C142.72 123 161.28 130.24 176 156 C161.28 181.76 142.72 189 128 189 C113.28 189 94.72 181.76 80 156 Z"/>
     <path d="M92 120 L164 192"/>
   </g>
   <g data-role="dotcut" fill="currentColor">

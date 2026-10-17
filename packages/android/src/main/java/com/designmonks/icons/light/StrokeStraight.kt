@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Light.StrokeStraight: ImageVector
-    get() = cache ?: iconMonksVector("StrokeStraightLight", "M42 208Q42 209.19 42.46 210.3Q42.91 211.4 43.76 212.24Q44.6 213.09 45.7 213.54Q46.81 214 48 214Q49.19 214 50.3 213.54Q51.4 213.09 52.24 212.24L212.24 52.24Q213.09 51.4 213.54 50.3Q214 49.19 214 48Q214 46.81 213.54 45.7Q213.09 44.6 212.24 43.76Q211.4 42.91 210.3 42.46Q209.19 42 208 42Q206.81 42 205.7 42.46Q204.6 42.91 203.76 43.76L43.76 203.76Q42.91 204.6 42.46 205.7Q42 206.81 42 208Z").also { cache = it }
+    get() = cache ?: iconMonksVector("StrokeStraightLight", "M42 208A6 6 0 0 0 52.24 212.24L212.24 52.24A6 6 0 0 0 205.7 42.46A6 6 0 0 0 203.76 43.76L43.76 203.76A6 6 0 0 0 42 208Z").also { cache = it }

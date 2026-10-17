@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="bedtime off,night mode off,sleep,moon">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M114 48 A88 88 0 1 0 207 149 A72 72 0 0 1 114 48 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M107.47 106.1 A72 72 0 0 1 113.51 48.24 A88 88 0 0 0 40.29 173.28"/>
-    <path d="M82.72 215.71 A88 88 0 0 0 207.04 148.97 A72 72 0 0 1 148.06 150.36"/>
-    <path d="M208 48 L48 208"/>
+    <path d="M114 48 A88 88 0 1 0 207 149 A72 72 0 0 1 114 48 Z"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
   </g>
 </svg>

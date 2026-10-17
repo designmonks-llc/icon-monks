@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="humidity,dew,condensation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M 56 140 V 68 A 28 28 0 0 1 112 68 V 140 A 44 44 0 1 1 56 140 Z"/>
+    <path d="M56 140 V68 A28 28 0 0 1 112 68 V140 A44 44 0 1 1 56 140 Z"/>
     <path d="M184 92 C172 108 152 134 152 158 A32 32 0 0 0 216 158 C216 134 196 108 184 92 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 56 140 V 68 A 28 28 0 0 1 112 68 V 140 A 44 44 0 1 1 56 140 Z"/>
+    <path d="M56 140 V68 A28 28 0 0 1 112 68 V140 A44 44 0 1 1 56 140 Z"/>
     <path d="M184 92 C172 108 152 134 152 158 A32 32 0 0 0 216 158 C216 134 196 108 184 92 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 84 172 L 84 104"/>
+    <path d="M84 172 L84 104"/>
   </g>
 </svg>

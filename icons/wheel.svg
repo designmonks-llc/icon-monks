@@ -6,10 +6,10 @@
     <circle cx="128" cy="128" r="96"/>
     <circle cx="128" cy="128" r="64"/>
     <path d="M128 128 L128 64"/>
-    <path d="M128 128 L188.87 108.22"/>
-    <path d="M128 128 L165.62 179.78"/>
-    <path d="M128 128 L90.38 179.78"/>
-    <path d="M128 128 L67.13 108.22"/>
+    <path d="M128 128 L189 108"/>
+    <path d="M128 128 L166 180"/>
+    <path d="M128 128 L90 180"/>
+    <path d="M128 128 L67 108"/>
   </g>
   <g data-role="dot" fill="currentColor">
     <circle cx="128" cy="128" r="20"/>

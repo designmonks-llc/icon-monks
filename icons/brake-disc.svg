@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="brakes,disc,car parts,maintenance">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="116" cy="140" r="84"/>
-    <path d="M128.47 81.31 L138.45 34.36 A108 108 0 0 1 221.64 117.55 L174.69 127.53 A60 60 0 0 0 128.47 81.31 Z"/>
+    <path d="M128 81 L138 34 A108 108 0 0 1 222 118 L175 128 A60 60 0 0 0 128 81 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M198.17 122.54 A84 84 0 0 1 200 140 A84 84 0 1 1 133.46 57.83"/>
-    <path d="M128.47 81.31 L138.45 34.36 A108 108 0 0 1 221.64 117.55 L174.69 127.53 A60 60 0 0 0 128.47 81.31 Z"/>
+    <path d="M198 123 A84 84 0 0 1 200 140 A84 84 0 1 1 133 58"/>
+    <path d="M128 81 L138 34 A108 108 0 0 1 222 118 L175 128 A60 60 0 0 0 128 81 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="116" cy="140" r="24"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="162.77" cy="167" r="10"/>
-    <circle cx="104.77" cy="192.82" r="10"/>
-    <circle cx="62.3" cy="145.64" r="10"/>
-    <circle cx="94.04" cy="90.67" r="10"/>
+    <circle cx="163" cy="167" r="10"/>
+    <circle cx="105" cy="193" r="10"/>
+    <circle cx="62" cy="146" r="10"/>
+    <circle cx="94" cy="91" r="10"/>
   </g>
 </svg>

@@ -1,7 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="school,off,disabled,hidden">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 V136 L108 93 V60 L128 40 L148 60 V93 L216 136 V216 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M116 216 V180 A12 12 0 0 1 140 180 V216 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 216 V136 L108 92.73 V60 L128 40 L148 60 V92.73 L216 136 V216 Z"/>
+    <path d="M40 216 V136 L108 93 V60 L128 40 L148 60 V93 L216 136 V216 Z"/>
     <path d="M108 216 V180 A20 20 0 0 1 148 180 V216"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

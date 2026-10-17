@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="intersex,gender,symbol,identity">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="108" cy="128" r="52"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="108" cy="128" r="52"/>
-    <path d="M144.77 91.23 L204 52"/>
+    <path d="M145 91 L204 52"/>
     <path d="M164 52 L204 52 L204 92"/>
     <path d="M108 180 L108 224"/>
     <path d="M84 204 L132 204"/>

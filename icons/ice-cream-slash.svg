@@ -1,7 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="ice cream,off,disabled,hidden,ice">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 128 A64 64 0 1 1 184 128 Z"/>
+    <path d="M84 128 L128 224 L172 128 Z"/>
+  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M72 128 A64 64 0 1 1 184 128 Z"/>
     <path d="M84 128 L128 224 L172 128"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>
   </g>
 </svg>

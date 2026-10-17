@@ -5,11 +5,11 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M56 128 V32 H152 L200 80 V128"/>
     <path d="M77 160 L45 160 L45 224 L77 224"/>
-    <path d="M45 192 L70.6 192"/>
+    <path d="M45 192 L71 192"/>
     <path d="M109 160 L147 224"/>
     <path d="M147 160 L109 224"/>
     <path d="M211 160 L179 160 L179 224 L211 224"/>
-    <path d="M179 192 L204.6 192"/>
+    <path d="M179 192 L205 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>

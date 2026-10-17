@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="add to cloud,cloud,plus,new">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+    <path d="M82 192 H178 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 192 H180 A44 44 0 0 0 191.06 105.41 A60 60 0 0 0 72.04 113.83 A40 40 0 0 0 84 192 Z"/>
+    <path d="M82 192 H178 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 120 L128 164"/>
-    <path d="M106 142 L150 142"/>
+    <path d="M126 120 L126 164"/>
+    <path d="M104 142 L148 142"/>
   </g>
 </svg>

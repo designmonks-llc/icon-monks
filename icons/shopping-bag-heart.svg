@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="bag,wishlist,favorite,heart">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M134.83 216 L56 216 L48 80 L208 80 L204.98 131.37 A62 62 0 0 0 134.83 216 Z"/>
+    <path d="M135 216 L56 216 L48 80 L208 80 L205 131 A62 62 0 0 0 135 216 Z"/>
     <path d="M192 218 L170 194 A15 15 0 0 1 192 174 A15 15 0 0 1 214 194 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M134.83 216 L56 216 L48 80 L208 80 L204.98 131.37"/>
+    <path d="M135 216 L56 216 L48 80 L208 80 L205 131"/>
     <path d="M96 112 V72 A32 32 0 0 1 160 72 V112"/>
     <path d="M192 218 L170 194 A15 15 0 0 1 192 174 A15 15 0 0 1 214 194 Z"/>
   </g>
