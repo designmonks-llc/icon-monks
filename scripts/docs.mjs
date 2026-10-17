@@ -15,27 +15,74 @@ const meta = {
   searchPath: data.icons.find((i) => i.name === 'magnifying-glass').paths.bold,
   icons: data.icons.map((i, n) => ({ i: n, name: i.name, category: i.category, tags: i.tags })),
 };
+const SITE = 'https://designmonks.github.io/icon-monks/';
+const REPO = 'https://github.com/designmonks/icon-monks';
+const n = data.icons.length;
+const count = n.toLocaleString('en-US');
+const cats = [...new Set(data.icons.map((i) => i.category))];
+const esc = (t) => t.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+
+// Static sections, rendered at build time so search engines see them without running the icon browser.
+const byName = Object.fromEntries(data.icons.map((i) => [i.name, i]));
+const draw = (name, w) => {
+  const d = byName[name].paths[w];
+  const body = w === 'duotone' ? (d[0] ? `<path d="${d[0]}" opacity="0.2"/>` : '') + `<path d="${d[1]}"/>` : `<path d="${d}"/>`;
+  return `<svg viewBox="0 0 256 256" width="40" height="40" fill="currentColor" aria-hidden="true">${body}</svg>`;
+};
+const WEIGHT_NOTES = {
+  thin: '8-unit stroke for large, quiet display sizes.',
+  light: '12-unit stroke for airy interfaces and marketing pages.',
+  regular: 'The 16-unit default, tuned for 24 px UI.',
+  bold: '24-unit stroke that holds up at 16 px and on busy screens.',
+  fill: 'Solid shapes for selected states and tab bars.',
+  duotone: 'An outline over a 20% tint for illustrations and empty states.',
+};
+const weightsHtml = data.weights.map((w) => `<div class="weight"><div class="weight-row">${['house', 'heart', 'bell', 'camera'].map((i) => draw(i, w)).join('')}</div><h3>${w[0].toUpperCase() + w.slice(1)}</h3><p>${WEIGHT_NOTES[w]}</p></div>`).join('\n    ');
+const catCounts = cats.map((c) => [c, data.icons.filter((i) => i.category === c).length]).sort((a, b) => b[1] - a[1]);
+const catsHtml = catCounts.map(([c, k]) => `<li><a href="?category=${encodeURIComponent(c)}">${esc(c)} icons <span>${k}</span></a></li>`).join('\n    ');
+const FAQ = [
+  ['Is Icon Monks free for commercial projects?',
+    'Yes. Every icon is released under the MIT license, so you can use it in personal, client and commercial work, modify it and ship it in paid products. No credit is needed in your interface; keep the license file if you redistribute the source.'],
+  ['How many icons are in Icon Monks?',
+    `There are ${count} icons in ${cats.length} categories, and each one comes in six weights, which makes ${(n * 6).toLocaleString('en-US')} ready-to-use SVG files.`],
+  ['Which frameworks and platforms does it support?',
+    'There are packages for React, Vue 3, Web Components (plain HTML, Angular, Svelte, Astro, WordPress), an icon font, Flutter, Android (Jetpack Compose and VectorDrawable) and Apple platforms through a Swift package for SwiftUI and UIKit. Raw SVG files work everywhere else.'],
+  ['What are the six weights?',
+    'Thin, light, regular and bold are outlines with 8, 12, 16 and 24 unit strokes on a 256 unit grid. Fill is a solid version and duotone layers the outline over a soft tint. Every weight shares the same shapes, so you can mix them in one product.'],
+  ['Can I change the size and color of the icons?',
+    'Yes. Icons draw in currentColor and scale as vectors, so they take the text color and size of their surroundings. The React, Vue and web component packages also accept size, color and weight props.'],
+  ['Can I use the icons in Figma, Sketch or Illustrator?',
+    'Yes. Pick an icon on this page and download it as SVG or PDF, or copy the SVG markup and paste it straight onto your canvas. PNG and WebP exports go up to 1024 px.'],
+  ['Will the packages make my app bigger?',
+    'Only by the icons you use. The React and Vue packages export each icon as its own module, so bundlers drop the rest, and the native packages ship vector assets rather than images.'],
+  ['How do I request or contribute an icon?',
+    `Open an issue on <a href="${REPO}/issues">GitHub</a> to request one. To contribute, draw a source SVG on the 256 unit grid; the build generates every weight and package from it.`],
+];
+const faqHtml = FAQ.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${a}</p></details>`).join('\n    ');
+
 const page = readFileSync(new URL('docs/template.html', root), 'utf8').replace('/*__ICONS__*/null', JSON.stringify(meta))
-  .replace('<b id="stat-icons">0</b>', `<b id="stat-icons">${data.icons.length}</b>`);
+  .replace('<b id="stat-icons">0</b>', `<b id="stat-icons">${count}</b>`)
+  .replace('<b id="stat-cats">0</b>', `<b id="stat-cats">${cats.length}</b>`)
+  .replaceAll('__COUNT__', count)
+  .replace('<!--__WEIGHTS__-->', weightsHtml)
+  .replace('<!--__CATEGORIES__-->', catsHtml)
+  .replace('<!--__FAQ__-->', faqHtml);
 
 const split = page.indexOf('</style>') + '</style>'.length;
-const SITE = 'https://designmonks.github.io/icon-monks/';
-const n = data.icons.length;
-const cats = [...new Set(data.icons.map((i) => i.category))];
-const title = `Icon Monks: ${n} Free Open Source Icons for React, Vue, Flutter, iOS and Android`;
-const description = `${n} free, MIT-licensed icons in six weights (thin, light, regular, bold, fill, duotone). Download SVG, PNG or PDF, or install for React, Vue, Web Components, Flutter, SwiftUI and Jetpack Compose.`;
-const esc = (t) => t.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+const title = `Icon Monks: ${count} Free SVG Icons for React, Vue, Flutter, iOS & Android`;
+const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
 const ld = {
   '@context': 'https://schema.org',
   '@graph': [
     { '@type': 'WebSite', '@id': `${SITE}#website`, name: 'Icon Monks', url: SITE, description, inLanguage: 'en',
       publisher: { '@id': `${SITE}#org` },
       potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${SITE}?q={search_term_string}` }, 'query-input': 'required name=search_term_string' } },
-    { '@type': 'Organization', '@id': `${SITE}#org`, name: 'Design Monks', url: 'https://github.com/designmonks', logo: `${SITE}icon-512.png` },
+    { '@type': 'Organization', '@id': `${SITE}#org`, name: 'Design Monks', url: 'https://github.com/designmonks', logo: `${SITE}icon-512.png`, sameAs: [REPO] },
+    { '@type': 'FAQPage', '@id': `${SITE}#faq`, mainEntity: FAQ.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } })) },
     { '@type': 'SoftwareSourceCode', '@id': `${SITE}#code`, name: 'Icon Monks', description, url: SITE,
-      codeRepository: 'https://github.com/designmonks/icon-monks', license: 'https://opensource.org/licenses/MIT',
+      codeRepository: REPO, license: 'https://opensource.org/licenses/MIT',
       programmingLanguage: ['TypeScript', 'Dart', 'Kotlin', 'Swift'], version: JSON.parse(readFileSync(new URL('package.json', root))).version, author: { '@id': `${SITE}#org` },
-      keywords: ['icons', 'icon library', 'svg icons', 'react icons', 'vue icons', 'flutter icons', 'swiftui icons', 'jetpack compose icons', ...cats.map((c) => `${c.toLowerCase()} icons`)].join(', '),
+      keywords: ['icons', 'free icons', 'open source icons', 'icon library', 'svg icons', 'react icons', 'vue icons', 'flutter icons', 'swiftui icons', 'jetpack compose icons', ...cats.map((c) => `${c.toLowerCase()} icons`)].join(', '),
       image: `${SITE}og-image.png` },
   ],
 };
@@ -44,7 +91,7 @@ const head = `<title>${esc(title)}</title>
 <link rel="canonical" href="${SITE}">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="author" content="Design Monks">
-<meta name="keywords" content="icons, icon library, open source icons, free icons, svg icons, react icons, vue icons, flutter icons, swiftui icons, jetpack compose icons, icon font">
+<meta name="keywords" content="free icons, open source icons, svg icons, icon library, react icons, vue icons, flutter icons, swiftui icons, jetpack compose icons, android icons, icon font, figma icons">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Icon Monks">
 <meta property="og:title" content="${esc(title)}">
@@ -53,13 +100,13 @@ const head = `<title>${esc(title)}</title>
 <meta property="og:image" content="${SITE}og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Icon Monks: ${n} open source icons in six weights">
+<meta property="og:image:alt" content="Icon Monks: ${count} open source icons in six weights">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${esc(title)}">
 <meta name="twitter:description" content="${esc(description)}">
 <meta name="twitter:image" content="${SITE}og-image.png">
-<meta name="twitter:image:alt" content="Icon Monks: ${n} open source icons in six weights">
+<meta name="twitter:image:alt" content="Icon Monks: ${count} open source icons in six weights">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -69,7 +116,7 @@ const head = `<title>${esc(title)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`;
-const noscript = `<noscript><p class="wrap">Icon Monks has ${n} icons in ${cats.length} categories: ${cats.join(', ')}. The icon browser needs JavaScript; every icon is also on <a href="https://github.com/designmonks/icon-monks/tree/main/svg">GitHub as SVG</a>.</p></noscript>`;
+const noscript = `<noscript><p class="wrap">Icon Monks has ${count} icons in ${cats.length} categories: ${cats.join(', ')}. The icon browser needs JavaScript; every icon is also on <a href="https://github.com/designmonks/icon-monks/tree/main/svg">GitHub as SVG</a>.</p></noscript>`;
 const full = `<!doctype html>
 <html lang="en">
 <head>
