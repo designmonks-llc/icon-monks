@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Getting Started with Icon Monks: Install Free Icons on Any Platform</title>
+<meta name="description" content="Add Icon Monks to a website, React or Vue app, Flutter project, iOS app or Android app in a few steps. Free, open source and MIT licensed.">
+<link rel="canonical" href="https://designmonks.github.io/icon-monks/getting-started/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Icon Monks">
+<meta property="og:title" content="Getting Started with Icon Monks: Install Free Icons on Any Platform">
+<meta property="og:description" content="Add Icon Monks to a website, React or Vue app, Flutter project, iOS app or Android app in a few steps. Free, open source and MIT licensed.">
+<meta property="og:url" content="https://designmonks.github.io/icon-monks/getting-started/">
+<meta property="og:image" content="https://designmonks.github.io/icon-monks/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Getting Started with Icon Monks: Install Free Icons on Any Platform">
+<meta name="twitter:description" content="Add Icon Monks to a website, React or Vue app, Flutter project, iOS app or Android app in a few steps. Free, open source and MIT licensed.">
+<meta name="twitter:image" content="https://designmonks.github.io/icon-monks/og-image.png">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="../site.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Icon Monks","item":"https://designmonks.github.io/icon-monks/"},{"@type":"ListItem","position":2,"name":"Get started","item":"https://designmonks.github.io/icon-monks/getting-started/"}]},{"@type":"HowTo","name":"Add Icon Monks to a project","step":[{"@type":"HowToStep","name":"Choose a package","text":"Pick the package for your platform: React, Vue, Web Components, icon font, SVG, Flutter, SwiftUI or Jetpack Compose."},{"@type":"HowToStep","name":"Install it","text":"Install with npm, flutter pub, Swift Package Manager or Gradle, or link the stylesheet or SVG file directly."},{"@type":"HowToStep","name":"Use an icon","text":"Import the icon by name and set its size, color and weight."}]}]}</script>
+</head>
+<body>
+<header class="nav"><div class="wrap">
+  <a class="brand" href="../"><img src="../favicon.svg" alt="" width="24" height="24">Icon Monks</a>
+  <nav aria-label="Main"><a href="../">Icons</a><a href="../categories/">Categories</a><a href="../getting-started/">Get started</a><a href="../license/">License</a><a href="https://github.com/designmonks/icon-monks">GitHub</a></nav>
+</div></header>
+<main class="wrap">
+  <ol class="crumbs"><li><a href="../">Icon Monks</a></li><li aria-current="page">Get started</li></ol>
+  <h1>Getting started with Icon Monks</h1>
+  <p class="lede">Pick the setup that matches your project. Every option uses the same 4,732 icons and six weights, so you can mix platforms freely.</p>
+  
+  <h2>1. Choose your platform</h2>
+  <div class="cards"><a class="card" href="../react-icons/"><h3>React icons</h3><p>Typed, tree-shakeable components with an IconContext for defaults.</p><code>npm i @icon-monks/react</code></a><a class="card" href="../vue-icons/"><h3>Vue icons</h3><p>Vue 3 components with provide/inject defaults.</p><code>npm i @icon-monks/vue</code></a><a class="card" href="../web-components/"><h3>Web components</h3><p>An <icon-monks> element for plain HTML, Angular, Svelte, Astro and WordPress.</p><code>npm i @icon-monks/web</code></a><a class="card" href="../icon-font/"><h3>Icon font</h3><p>OTF and WOFF2 fonts with CSS classes in five weights.</p><code>npm i @icon-monks/font</code></a><a class="card" href="../svg-icons/"><h3>SVG icons</h3><p>Raw SVG files, sprites, metadata and a toSvg() helper.</p><code>npm i @icon-monks/core</code></a><a class="card" href="../flutter-icons/"><h3>Flutter icons</h3><p>IconData constants backed by bundled fonts.</p><code>flutter pub add icon_monks</code></a><a class="card" href="../swiftui-icons/"><h3>SwiftUI icons</h3><p>A Swift package with vector assets for SwiftUI and UIKit.</p><code>.package(url: &quot;https://github.com/designmonks/icon-monks&quot;, from: &quot;0.3.0&quot;)</code></a><a class="card" href="../jetpack-compose-icons/"><h3>Android icons</h3><p>Jetpack Compose ImageVectors and XML VectorDrawables.</p><code>implementation(&quot;com.github.designmonks:icon-monks:v0.3.0&quot;)</code></a></div>
+  <h2>2. No build step? Link a file</h2>
+  <p>Every icon is served as a standalone SVG, and the icon font ships with a ready-made stylesheet:</p>
+  <pre><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;https://designmonks.github.io/icon-monks/packages/font/dist/index.css&quot;&gt;
+&lt;i class=&quot;im im-house&quot;&gt;&lt;/i&gt;
+
+&lt;img src=&quot;https://designmonks.github.io/icon-monks/svg/bold/heart-bold.svg&quot; alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot;&gt;</code></pre>
+  <h2>3. Pick a weight</h2>
+  <p>Thin, light, regular and bold are outlines with 8, 12, 16 and 24-unit strokes on a 256-unit grid. Fill is solid and duotone layers the outline over a 20% tint. Regular is the default; use bold for small sizes and fill for selected states.</p>
+  <h2>4. Find icons</h2>
+  <p>Search all 4,732 icons by name or tag in the <a href="../">icon browser</a>, or explore <a href="../categories/">30 categories</a>. Each icon has its own page with every weight, downloads and code for each platform.</p>
+</main>
+<footer><div class="wrap foot">
+  <div><h2>Icon Monks</h2><p>4,732 free, open source icons in six weights by Design Monks, released under the MIT license.</p></div>
+  <nav aria-label="Popular categories"><h2>Categories</h2><ul><li><a href="../categories/interface/">Interface icons</a></li><li><a href="../categories/arrows/">Arrows icons</a></li><li><a href="../categories/commerce/">Commerce icons</a></li><li><a href="../categories/media/">Media icons</a></li><li><a href="../categories/communication/">Communication icons</a></li><li><a href="../categories/weather/">Weather icons</a></li><li><a href="../categories/">All categories</a></li></ul></nav>
+  <nav aria-label="Platforms"><h2>Platforms</h2><ul><li><a href="../react-icons/">React icons</a></li><li><a href="../vue-icons/">Vue icons</a></li><li><a href="../web-components/">Web components</a></li><li><a href="../icon-font/">Icon font</a></li><li><a href="../svg-icons/">SVG icons</a></li><li><a href="../flutter-icons/">Flutter icons</a></li><li><a href="../swiftui-icons/">SwiftUI icons</a></li><li><a href="../jetpack-compose-icons/">Android icons</a></li></ul></nav>
+  <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="../getting-started/">Get started</a></li><li><a href="../license/">License</a></li><li><a href="https://github.com/designmonks/icon-monks/releases">Releases</a></li><li><a href="https://github.com/designmonks/icon-monks/issues">Request an icon</a></li><li><a href="https://github.com/designmonks/icon-monks">GitHub</a></li></ul></nav>
+</div></footer>
+</body>
+</html>

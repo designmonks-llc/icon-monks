@@ -132,6 +132,8 @@ section.install > p { color: var(--muted); margin: 0 0 20px; max-width: 64ch; }
 .platforms { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); border-radius: 14px; overflow: hidden; }
 .platform { background: var(--sheet); padding: 16px; display: grid; gap: 6px; align-content: start; min-width: 0; }
 .platform h3 { margin: 0; font: 600 15px var(--body); }
+.platform h3 a { text-decoration: none; }
+.platform h3 a:hover { color: var(--saffron); text-decoration: underline; }
 .platform p { margin: 0; color: var(--muted); font-size: 13px; }
 .platform code { font: 12px var(--mono); background: var(--paper); padding: 6px 8px; border-radius: 6px; overflow-x: auto; white-space: nowrap; display: block; }
 /* Visitor counter pill, same pattern as AI Metadata Remover */
@@ -293,14 +295,14 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
   <h2>Native packages for every platform</h2>
   <p>Every package is generated from the same SVG sources, so an icon looks identical in a React app, a Flutter screen and an iOS tab bar.</p>
   <div class="platforms">
-    <div class="platform"><h3>React</h3><p>Tree-shakeable components with an IconContext for defaults.</p><code>npm i @icon-monks/react</code></div>
-    <div class="platform"><h3>Vue 3</h3><p>Components with provide/inject defaults.</p><code>npm i @icon-monks/vue</code></div>
-    <div class="platform"><h3>Web Components</h3><p>A &lt;icon-monks&gt; element for plain HTML, Svelte, Angular or WordPress.</p><code>npm i @icon-monks/web</code></div>
-    <div class="platform"><h3>Icon font</h3><p>OTF and WOFF2 with CSS classes, five weights.</p><code>npm i @icon-monks/font</code></div>
-    <div class="platform"><h3>SVG &amp; sprites</h3><p>Raw files, sprites, metadata and a toSvg() helper.</p><code>npm i @icon-monks/core</code></div>
-    <div class="platform"><h3>Flutter</h3><p>IconData constants backed by bundled fonts.</p><code>flutter pub add icon_monks</code></div>
-    <div class="platform"><h3>Android</h3><p>Jetpack Compose ImageVectors and XML VectorDrawables.</p><code>com.github.designmonks:icon-monks</code></div>
-    <div class="platform"><h3>iOS &amp; macOS</h3><p>Swift Package with vector assets for SwiftUI and UIKit.</p><code>Image(iconMonks: .house)</code></div>
+    <div class="platform"><h3><a href="react-icons/">React</a></h3><p>Tree-shakeable components with an IconContext for defaults.</p><code>npm i @icon-monks/react</code></div>
+    <div class="platform"><h3><a href="vue-icons/">Vue 3</a></h3><p>Components with provide/inject defaults.</p><code>npm i @icon-monks/vue</code></div>
+    <div class="platform"><h3><a href="web-components/">Web Components</a></h3><p>A &lt;icon-monks&gt; element for plain HTML, Svelte, Angular or WordPress.</p><code>npm i @icon-monks/web</code></div>
+    <div class="platform"><h3><a href="icon-font/">Icon font</a></h3><p>OTF and WOFF2 with CSS classes, five weights.</p><code>npm i @icon-monks/font</code></div>
+    <div class="platform"><h3><a href="svg-icons/">SVG &amp; sprites</a></h3><p>Raw files, sprites, metadata and a toSvg() helper.</p><code>npm i @icon-monks/core</code></div>
+    <div class="platform"><h3><a href="flutter-icons/">Flutter</a></h3><p>IconData constants backed by bundled fonts.</p><code>flutter pub add icon_monks</code></div>
+    <div class="platform"><h3><a href="jetpack-compose-icons/">Android</a></h3><p>Jetpack Compose ImageVectors and XML VectorDrawables.</p><code>com.github.designmonks:icon-monks</code></div>
+    <div class="platform"><h3><a href="swiftui-icons/">iOS &amp; macOS</a></h3><p>Swift Package with vector assets for SwiftUI and UIKit.</p><code>Image(iconMonks: .house)</code></div>
   </div>
 </section>
 
@@ -319,38 +321,38 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
 
 <section class="wrap band" aria-labelledby="cats-title">
   <h2 id="cats-title">Browse icons by category</h2>
-  <p>From arrows and interface controls to commerce, health, weather and emoji, jump straight to the set you need.</p>
+  <p>From arrows and interface controls to commerce, health, weather and emoji, jump straight to the set you need, or see <a href="categories/">all categories</a>.</p>
   <ul class="cats" id="cat-links">
-    <li><a href="?category=Interface">Interface icons <span>452</span></a></li>
-    <li><a href="?category=Design">Design icons <span>305</span></a></li>
-    <li><a href="?category=Devices">Devices icons <span>286</span></a></li>
-    <li><a href="?category=Arrows">Arrows icons <span>265</span></a></li>
-    <li><a href="?category=Media">Media icons <span>248</span></a></li>
-    <li><a href="?category=Editor">Editor icons <span>247</span></a></li>
-    <li><a href="?category=Files">Files icons <span>227</span></a></li>
-    <li><a href="?category=Commerce">Commerce icons <span>221</span></a></li>
-    <li><a href="?category=Maps">Maps icons <span>217</span></a></li>
-    <li><a href="?category=Objects">Objects icons <span>184</span></a></li>
-    <li><a href="?category=Communication">Communication icons <span>180</span></a></li>
-    <li><a href="?category=Home">Home icons <span>164</span></a></li>
-    <li><a href="?category=Development">Development icons <span>153</span></a></li>
-    <li><a href="?category=People">People icons <span>152</span></a></li>
-    <li><a href="?category=Food">Food icons <span>144</span></a></li>
-    <li><a href="?category=Letters%20%26%20Numbers">Letters &amp; Numbers icons <span>139</span></a></li>
-    <li><a href="?category=Transport">Transport icons <span>125</span></a></li>
-    <li><a href="?category=Sports">Sports icons <span>116</span></a></li>
-    <li><a href="?category=Health">Health icons <span>104</span></a></li>
-    <li><a href="?category=Science">Science icons <span>100</span></a></li>
-    <li><a href="?category=Security">Security icons <span>98</span></a></li>
-    <li><a href="?category=Symbols">Symbols icons <span>95</span></a></li>
-    <li><a href="?category=Time">Time icons <span>89</span></a></li>
-    <li><a href="?category=Nature">Nature icons <span>87</span></a></li>
-    <li><a href="?category=Weather">Weather icons <span>74</span></a></li>
-    <li><a href="?category=Business">Business icons <span>71</span></a></li>
-    <li><a href="?category=Emoji">Emoji icons <span>58</span></a></li>
-    <li><a href="?category=Charts">Charts icons <span>53</span></a></li>
-    <li><a href="?category=Education">Education icons <span>39</span></a></li>
-    <li><a href="?category=Animals">Animals icons <span>39</span></a></li>
+    <li><a href="categories/interface/">Interface icons <span>452</span></a></li>
+    <li><a href="categories/design/">Design icons <span>305</span></a></li>
+    <li><a href="categories/devices/">Devices icons <span>286</span></a></li>
+    <li><a href="categories/arrows/">Arrows icons <span>265</span></a></li>
+    <li><a href="categories/media/">Media icons <span>248</span></a></li>
+    <li><a href="categories/editor/">Editor icons <span>247</span></a></li>
+    <li><a href="categories/files/">Files icons <span>227</span></a></li>
+    <li><a href="categories/commerce/">Commerce icons <span>221</span></a></li>
+    <li><a href="categories/maps/">Maps icons <span>217</span></a></li>
+    <li><a href="categories/objects/">Objects icons <span>184</span></a></li>
+    <li><a href="categories/communication/">Communication icons <span>180</span></a></li>
+    <li><a href="categories/home/">Home icons <span>164</span></a></li>
+    <li><a href="categories/development/">Development icons <span>153</span></a></li>
+    <li><a href="categories/people/">People icons <span>152</span></a></li>
+    <li><a href="categories/food/">Food icons <span>144</span></a></li>
+    <li><a href="categories/letters-and-numbers/">Letters &amp; Numbers icons <span>139</span></a></li>
+    <li><a href="categories/transport/">Transport icons <span>125</span></a></li>
+    <li><a href="categories/sports/">Sports icons <span>116</span></a></li>
+    <li><a href="categories/health/">Health icons <span>104</span></a></li>
+    <li><a href="categories/science/">Science icons <span>100</span></a></li>
+    <li><a href="categories/security/">Security icons <span>98</span></a></li>
+    <li><a href="categories/symbols/">Symbols icons <span>95</span></a></li>
+    <li><a href="categories/time/">Time icons <span>89</span></a></li>
+    <li><a href="categories/nature/">Nature icons <span>87</span></a></li>
+    <li><a href="categories/weather/">Weather icons <span>74</span></a></li>
+    <li><a href="categories/business/">Business icons <span>71</span></a></li>
+    <li><a href="categories/emoji/">Emoji icons <span>58</span></a></li>
+    <li><a href="categories/charts/">Charts icons <span>53</span></a></li>
+    <li><a href="categories/education/">Education icons <span>39</span></a></li>
+    <li><a href="categories/animals/">Animals icons <span>39</span></a></li>
   </ul>
 </section>
 
@@ -381,27 +383,29 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
   <div><h2>Icon Monks</h2><p>Free, open source icons by Design Monks, released under the MIT license. Contributions welcome: draw a source SVG on the 256 grid and the build makes every weight and package.</p></div>
   <nav aria-label="Icons"><h2>Icons</h2><ul>
     <li><a href="#icons">All icons</a></li>
-    <li><a href="?category=Interface">Interface icons</a></li>
-    <li><a href="?category=Arrows">Arrow icons</a></li>
-    <li><a href="?category=Commerce">Commerce icons</a></li>
+    <li><a href="categories/">All categories</a></li>
+    <li><a href="categories/interface/">Interface icons</a></li>
+    <li><a href="categories/arrows/">Arrow icons</a></li>
+    <li><a href="categories/commerce/">Commerce icons</a></li>
     <li><a href="?weight=duotone">Duotone icons</a></li>
     <li><a href="?weight=fill">Filled icons</a></li>
   </ul></nav>
   <nav aria-label="Packages"><h2>Packages</h2><ul>
-    <li><a href="https://github.com/designmonks/icon-monks/tree/main/packages/react">React icons</a></li>
-    <li><a href="https://github.com/designmonks/icon-monks/tree/main/packages/vue">Vue icons</a></li>
-    <li><a href="https://github.com/designmonks/icon-monks/tree/main/packages/web">Web component</a></li>
-    <li><a href="https://github.com/designmonks/icon-monks/tree/main/packages/font">Icon font</a></li>
-    <li><a href="https://github.com/designmonks/icon-monks/tree/main/packages/flutter">Flutter icons</a></li>
-    <li><a href="https://github.com/designmonks/icon-monks/tree/main/packages/android">Android icons</a></li>
-    <li><a href="https://github.com/designmonks/icon-monks/tree/main/packages/swift">SwiftUI icons</a></li>
+    <li><a href="react-icons/">React icons</a></li>
+    <li><a href="vue-icons/">Vue icons</a></li>
+    <li><a href="web-components/">Web components</a></li>
+    <li><a href="icon-font/">Icon font</a></li>
+    <li><a href="flutter-icons/">Flutter icons</a></li>
+    <li><a href="jetpack-compose-icons/">Android icons</a></li>
+    <li><a href="swiftui-icons/">SwiftUI icons</a></li>
   </ul></nav>
   <nav aria-label="Resources"><h2>Resources</h2><ul>
-    <li><a href="#get-started">Get started</a></li>
+    <li><a href="getting-started/">Get started</a></li>
+    <li><a href="svg-icons/">SVG icons</a></li>
     <li><a href="#faq">FAQ</a></li>
     <li><a href="https://github.com/designmonks/icon-monks">GitHub</a></li>
     <li><a href="https://github.com/designmonks/icon-monks/releases">Releases</a></li>
-    <li><a href="https://github.com/designmonks/icon-monks/blob/main/LICENSE">MIT license</a></li>
+    <li><a href="license/">MIT license</a></li>
     <li><a href="https://github.com/designmonks/icon-monks/issues">Request an icon</a></li>
   </ul></nav>
 </div></footer>
@@ -645,13 +649,6 @@ function syncUrl() {
 ['grid', 'weights'].forEach((id) => $(id).addEventListener('click', syncUrl));
 ['q', 'cat'].forEach((id) => $(id).addEventListener('input', syncUrl));
 $('cat').addEventListener('change', syncUrl);
-// Category links stay real links for crawlers; on the page they filter in place.
-$('cat-links').addEventListener('click', (e) => {
-  const a = e.target.closest('a'); if (!a) return;
-  const c = new URLSearchParams(a.search).get('category'); if (!cats[c]) return;
-  e.preventDefault(); state.cat = c; $('cat').value = c; renderGrid(); syncUrl();
-  $('icons').scrollIntoView({ block: 'start' });
-});
 renderWeights(); renderGrid();
 loadWeight(state.weight).then(() => {
   renderDetail();

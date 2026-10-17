@@ -4,6 +4,7 @@
 //   data/<weight>.json   path data per weight, fetched by the page (publish next to the artifact)
 //   sitemap.xml, robots.txt, site.webmanifest for search engines (brand images come from scripts/brand.cjs)
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { buildPages } from './pages.mjs';
 
 const root = new URL('..', import.meta.url);
 const data = JSON.parse(readFileSync(new URL('build/icons.json', root)));
@@ -39,7 +40,9 @@ const WEIGHT_NOTES = {
 };
 const weightsHtml = data.weights.map((w) => `<div class="weight"><div class="weight-row">${['house', 'heart', 'bell', 'camera'].map((i) => draw(i, w)).join('')}</div><h3>${w[0].toUpperCase() + w.slice(1)}</h3><p>${WEIGHT_NOTES[w]}</p></div>`).join('\n    ');
 const catCounts = cats.map((c) => [c, data.icons.filter((i) => i.category === c).length]).sort((a, b) => b[1] - a[1]);
-const catsHtml = catCounts.map(([c, k]) => `<li><a href="?category=${encodeURIComponent(c)}">${esc(c)} icons <span>${k}</span></a></li>`).join('\n    ');
+const version = JSON.parse(readFileSync(new URL('package.json', root))).version;
+const pages = buildPages({ root, data, SITE, REPO, count, version });
+const catsHtml = catCounts.map(([c, k]) => `<li><a href="categories/${pages.slug(c)}/">${esc(c)} icons <span>${k}</span></a></li>`).join('\n    ');
 const FAQ = [
   ['Is Icon Monks free for commercial projects?',
     'Yes. Every icon is released under the MIT license, so you can use it in personal, client and commercial work, modify it and ship it in paid products. No credit is needed in your interface; keep the license file if you redistribute the source.'],
@@ -81,7 +84,7 @@ const ld = {
     { '@type': 'FAQPage', '@id': `${SITE}#faq`, mainEntity: FAQ.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } })) },
     { '@type': 'SoftwareSourceCode', '@id': `${SITE}#code`, name: 'Icon Monks', description, url: SITE,
       codeRepository: REPO, license: 'https://opensource.org/licenses/MIT',
-      programmingLanguage: ['TypeScript', 'Dart', 'Kotlin', 'Swift'], version: JSON.parse(readFileSync(new URL('package.json', root))).version, author: { '@id': `${SITE}#org` },
+      programmingLanguage: ['TypeScript', 'Dart', 'Kotlin', 'Swift'], version, author: { '@id': `${SITE}#org` },
       keywords: ['icons', 'free icons', 'open source icons', 'icon library', 'svg icons', 'react icons', 'vue icons', 'flutter icons', 'swiftui icons', 'jetpack compose icons', ...cats.map((c) => `${c.toLowerCase()} icons`)].join(', '),
       image: `${SITE}og-image.png` },
   ],
@@ -138,6 +141,7 @@ writeFileSync(new URL('sitemap.xml', root), `<?xml version="1.0" encoding="UTF-8
     <loc>${SITE}</loc>
     <lastmod>${today}</lastmod>
   </url>
+${pages.urls.map((u) => `  <url><loc>${u}</loc></url>`).join('\n')}
 </urlset>
 `);
 writeFileSync(new URL('robots.txt', root), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
@@ -148,4 +152,4 @@ writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
 }, null, 2) + '\n');
 writeFileSync(new URL('index.html', root), full);
 writeFileSync(new URL('build/artifact.html', root), page);
-console.log(`index.html + build/artifact.html: ${data.icons.length} icons`);
+console.log(`index.html + build/artifact.html: ${data.icons.length} icons; ${pages.urls.length} static pages`);
