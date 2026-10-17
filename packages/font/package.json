@@ -1,6 +1,6 @@
 {
   "name": "@icon-monks/font",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Icon Monks as icon fonts (OTF + WOFF2) with CSS classes.",
   "license": "MIT",
   "author": "Design Monks",

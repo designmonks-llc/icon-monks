@@ -1,6 +1,6 @@
 {
   "name": "@icon-monks/core",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Icon Monks: raw SVG assets, sprites, metadata and a toSvg() helper.",
   "license": "MIT",
   "author": "Design Monks",

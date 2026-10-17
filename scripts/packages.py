@@ -27,6 +27,9 @@ ICONS = DATA['icons']
 WEIGHTS = DATA['weights']
 SOLID_WEIGHTS = [w for w in WEIGHTS if w != 'duotone']
 VERSION = json.load(open(os.path.join(ROOT, 'package.json')))['version']
+CHANGELOG = ('## 0.3.0\n\n- Adds 4,235 icons (4,732 total) across 30 categories, unifies icon families and fixes shapes '
+             'that collapsed in some weights.\n\n'
+             '## 0.2.0\n\n- Adds 400 icons (497 total) across 22 categories.\n\n## 0.1.0\n\n- Initial release with 97 icons.\n')
 LICENSE = open(os.path.join(ROOT, 'LICENSE')).read()
 DUO = 0.2
 
@@ -556,10 +559,7 @@ Icon(IconMonks.fill.star, size: 32)
 
 Weights: `thin`, `light`, `regular`, `bold`, `fill`. Icon fonts are single-colour, so duotone is not offered here.
 """ % VERSION)
-    write(os.path.join(path, 'CHANGELOG.md'), f'## {VERSION}\n\n- {len(ICONS)} icons in {len({i["category"] for i in ICONS})} categories, six weights each.\n\n'
-          '## 0.2.0\n\n- Adds 400 icons (497 total) across 22 categories.\n\n## 0.1.0\n\n- Initial release with 97 icons.\n'
-          if VERSION != '0.2.0' else
-          f'## 0.2.0\n\n- Adds 400 icons ({len(ICONS)} total) across {len({i["category"] for i in ICONS})} categories.\n\n## 0.1.0\n\n- Initial release with 97 icons.\n')
+    write(os.path.join(path, 'CHANGELOG.md'), CHANGELOG)
 
 
 # ---------------------------------------------------------------------------- android

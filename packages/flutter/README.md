@@ -2,7 +2,7 @@
 
 ```yaml
 dependencies:
-  icon_monks: ^0.2.0
+  icon_monks: ^0.3.0
 ```
 
 ```dart

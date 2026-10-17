@@ -4,7 +4,7 @@ In Xcode choose File > Add Package Dependencies and enter `https://github.com/de
 `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/designmonks/icon-monks", from: "0.2.0")
+.package(url: "https://github.com/designmonks/icon-monks", from: "0.3.0")
 ```
 
 ```swift
