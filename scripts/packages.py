@@ -321,29 +321,42 @@ provide(IconContextKey, { size: 24, weight: 'bold' }); // optional defaults for 
 
 
 # ---------------------------------------------------------------------------- web component
+# The element itself; `lookup(name, weight)` returns path data, a promise of it, or undefined for an unknown icon.
 WEB_ELEMENT = """
 const ATTRS = ['name', 'weight', 'size', 'color', 'mirrored', 'label'];
+const WEIGHTS = %s;
 
-function render(el) {
-  const name = el.getAttribute('name');
-  const icon = PATHS[name];
-  if (!icon) { el.innerHTML = ''; return; }
-  const weight = el.getAttribute('weight') || 'regular';
+function draw(el, d, weight) {
   const size = el.getAttribute('size') || '1em';
   const color = el.getAttribute('color') || 'currentColor';
-  const label = el.getAttribute('label');
-  const d = icon[weight] || icon.regular;
-  const body = weight === 'duotone'
+  const body = !d ? '' : weight === 'duotone'
     ? (d[0] ? '<path d="' + d[0] + '" opacity="%s"/>' : '') + '<path d="' + d[1] + '"/>'
     : '<path d="' + d + '"/>';
   const flip = el.hasAttribute('mirrored') ? ' transform="scale(-1, 1)"' : '';
   el.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="' + size + '" height="' + size +
     '" viewBox="0 0 256 256" fill="' + color + '"' + flip + ' style="display:block">' + body + '</svg>';
-  if (label) { el.setAttribute('role', 'img'); el.setAttribute('aria-label', label); }
-  else { el.setAttribute('aria-hidden', 'true'); }
 }
 
-class IconMonkElement extends HTMLElement {
+function render(el) {
+  const name = el.getAttribute('name') || '';
+  const asked = el.getAttribute('weight') || 'regular';
+  const weight = WEIGHTS.indexOf(asked) < 0 ? 'regular' : asked;
+  const label = el.getAttribute('label');
+  if (label) { el.setAttribute('role', 'img'); el.setAttribute('aria-label', label); }
+  else { el.removeAttribute('role'); el.removeAttribute('aria-label'); el.setAttribute('aria-hidden', 'true'); }
+  const d = lookup(name, weight);
+  if (d && typeof d.then === 'function') {
+    draw(el, null, weight);  // holds the icon's space while its path data loads
+    const ticket = el._iconMonks = {};
+    d.then((v) => { if (el._iconMonks !== ticket) return; if (v) draw(el, v, weight); else el.innerHTML = ''; });
+  } else {
+    el._iconMonks = null;
+    if (d) draw(el, d, weight); else el.innerHTML = '';
+  }
+}
+
+// Importable during server rendering, where there is no HTMLElement; the element only registers in a browser.
+class IconMonkElement extends (typeof HTMLElement === 'undefined' ? class {} : HTMLElement) {
   static get observedAttributes() { return ATTRS; }
   connectedCallback() { this.style.display ||= 'inline-block'; this.style.lineHeight ||= '0'; render(this); }
   attributeChangedCallback() { if (this.isConnected) render(this); }
@@ -352,23 +365,82 @@ class IconMonkElement extends HTMLElement {
 if (typeof customElements !== 'undefined' && !customElements.get('icon-monks')) {
   customElements.define('icon-monks', IconMonkElement);
 }
-""" % DUO
+""" % (json.dumps(WEIGHTS), DUO)
+
+# Lazy loading: each icon's path data is fetched once per weight, on first use, from dist/icons/<weight>/<name>.json.
+# BASES lists where to look, in order; a base that answers with something other than JSON (a dev server's HTML
+# fallback, a network error) is dropped. The pinned CDN copy is the last resort.
+WEB_LAZY = """
+const CDN = 'https://cdn.jsdelivr.net/npm/@icon-monks/web@%s/dist/icons/';
+let BASES = [];
+const cache = new Map();
+
+function setIconBase(url) { BASES = [String(url).replace(/\\/?$/, '/')]; cache.clear(); }
+
+async function fetchIcon(key) {
+  for (const base of BASES.slice()) {
+    try {
+      const res = await fetch(base + key + '.json');
+      if (res.ok) return await res.json();
+    } catch (e) {
+      BASES = BASES.filter((b) => b !== base);
+    }
+  }
+  return undefined;
+}
+
+function lookup(name, weight) {
+  if (!/^[a-z0-9-]+$/.test(name)) return undefined;
+  const key = weight + '/' + name;
+  if (!cache.has(key)) cache.set(key, fetchIcon(key).then((d) => { if (d) cache.set(key, d); else cache.delete(key); return d; }));
+  return cache.get(key);
+}
+""" % VERSION
+
+# Where the CDN script finds the icon files: next to itself, or under dist/ when it was loaded by package name
+# (https://cdn.jsdelivr.net/npm/@icon-monks/web). <script data-base="..."> overrides both.
+WEB_CDN_BASE = """
+const script = typeof document !== 'undefined' ? document.currentScript : null;
+if (script && script.dataset.base) BASES = [script.dataset.base.replace(/\\/?$/, '/')];
+else if (script && script.src) {
+  const src = script.src.split(/[?#]/)[0];
+  BASES = [/\\.js$/.test(src) ? new URL('icons/', src).href : src.replace(/\\/?$/, '/') + 'dist/icons/', CDN];
+} else BASES = [CDN];
+"""
 
 
 def web():
     path = fresh('web')
-    data = f"const PATHS = {json.dumps(PATHS, separators=(',', ':'))};\n"
-    write(os.path.join(path, 'dist', 'index.js'),
-          data + WEB_ELEMENT + "\nexport { IconMonkElement, PATHS as paths };\n")
-    write(os.path.join(path, 'dist', 'icon-monks.js'), '(function () {\n' + data + WEB_ELEMENT + '})();\n')
-    write(os.path.join(path, 'dist', 'index.d.ts'), """export declare class IconMonkElement extends HTMLElement {}
-export declare const paths: Record<string, Record<string, string | [string, string]>>;
+    dist = os.path.join(path, 'dist')
+    for w in WEIGHTS:
+        os.makedirs(os.path.join(dist, 'icons', w), exist_ok=True)
+        for name, paths in PATHS.items():
+            with open(os.path.join(dist, 'icons', w, name + '.json'), 'w') as fh:
+                json.dump(paths[w], fh, separators=(',', ':'))
+    # The base must be set before the element is defined: defining it renders icons already on the page.
+    write(os.path.join(dist, 'index.js'), WEB_LAZY + "BASES = [new URL('./icons/', import.meta.url).href, CDN];\n" +
+          WEB_ELEMENT + "\nexport { IconMonkElement, setIconBase };\n")
+    write(os.path.join(dist, 'icon-monks.js'), '(function () {\n' + WEB_LAZY + WEB_CDN_BASE + WEB_ELEMENT + '})();\n')
+    every = (f"const PATHS = {json.dumps(PATHS, separators=(',', ':'))};\n"
+             "function lookup(name, weight) { const icon = PATHS[name]; return icon && (icon[weight] || icon.regular); }\n"
+             + WEB_ELEMENT)
+    write(os.path.join(dist, 'all.js'), every + "\nexport { IconMonkElement, PATHS as paths };\n")
+    write(os.path.join(dist, 'icon-monks.all.js'), '(function () {\n' + every + '})();\n')
+    element = """export declare class IconMonkElement extends HTMLElement {}
 declare global { interface HTMLElementTagNameMap { 'icon-monks': IconMonkElement; } }
+"""
+    write(os.path.join(dist, 'index.d.ts'), element + """/** Where icon files are fetched from: a folder holding <weight>/<name>.json, such as a copy of dist/icons/. */
+export declare function setIconBase(url: string | URL): void;
 """)
+    write(os.path.join(dist, 'all.d.ts'), element +
+          "export declare const paths: Record<string, Record<string, string | [string, string]>>;\n")
     npm_package(path, '@icon-monks/web', 'Icon Monks as a <icon-monks> custom element. Works in any framework or plain HTML.', {
         'type': 'module', 'main': './dist/index.js', 'types': './dist/index.d.ts', 'unpkg': './dist/icon-monks.js',
-        'jsdelivr': './dist/icon-monks.js', 'exports': {'.': {'types': './dist/index.d.ts', 'default': './dist/index.js'},
-                                                          './cdn': './dist/icon-monks.js'},
+        'jsdelivr': './dist/icon-monks.js',
+        'exports': {'.': {'types': './dist/index.d.ts', 'default': './dist/index.js'},
+                    './all': {'types': './dist/all.d.ts', 'default': './dist/all.js'},
+                    './cdn': './dist/icon-monks.js', './cdn-all': './dist/icon-monks.all.js',
+                    './icons/*': './dist/icons/*'},
         'files': ['dist'], 'sideEffects': True,
     })
     write(os.path.join(path, 'README.md'), f"""# @icon-monks/web
@@ -385,6 +457,18 @@ A dependency-free `<icon-monks>` custom element for plain HTML, Angular, Svelte,
 Or `npm install @icon-monks/web` and `import '@icon-monks/web';` once in your app.
 
 Attributes: `name`, `weight`, `size`, `color`, `mirrored`, `label` (sets an accessible name; icons are hidden from screen readers otherwise).
+
+## How icons load
+
+The script is a few KB. Each icon is fetched the first time a page uses it, about 1 KB per icon and weight, and
+cached for the rest of the visit. Files come from `dist/icons/<weight>/<name>.json` next to the script, with the
+jsDelivr copy of this version as the fallback.
+
+- **Self-hosting or a strict CSP:** serve a copy of `dist/icons/` and point the element at it with
+  `<script src="…/icon-monks.js" data-base="/assets/icon-monks/"></script>`, or `setIconBase('/assets/icon-monks/')`
+  when you import the package.
+- **Offline, or every icon up front:** use the full bundle instead, which holds every icon in every weight (about
+  23 MB): `import '@icon-monks/web/all'`, or the `icon-monks.all.js` script. It also exports the raw `paths`.
 """)
 
 

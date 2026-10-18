@@ -31,6 +31,7 @@ const browser = await playwright.chromium.launch();
 const p = await browser.newPage({ viewport: { width: 640, height: 220 } });
 await p.goto(url);
 await p.evaluate(() => document.fonts.ready);
+await p.waitForFunction(() => document.querySelectorAll('icon-monks path').length >= 8);  // icons load on demand
 const result = await p.evaluate(() => ({
   wc: [...document.querySelectorAll('icon-monks svg')].length,
   label: document.querySelector('icon-monks[label]').getAttribute('aria-label'),

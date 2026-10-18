@@ -33,7 +33,13 @@
       "types": "./dist/index.d.ts",
       "default": "./dist/index.js"
     },
-    "./cdn": "./dist/icon-monks.js"
+    "./all": {
+      "types": "./dist/all.d.ts",
+      "default": "./dist/all.js"
+    },
+    "./cdn": "./dist/icon-monks.js",
+    "./cdn-all": "./dist/icon-monks.all.js",
+    "./icons/*": "./dist/icons/*"
   },
   "files": [
     "dist"

@@ -68,6 +68,20 @@ test('vue renders props and injected defaults', async () => {
   assert.equal((html.match(/<svg/g) || []).length, 2);
 });
 
+test('web element loads icons on demand; the full bundle holds them all', async () => {
+  const dist = new URL('../packages/web/dist/', import.meta.url);
+  assert.ok(readFileSync(new URL('icon-monks.js', dist)).length < 8192, 'lazy CDN script stays small');
+  assert.ok(readFileSync(new URL('index.js', dist)).length < 8192, 'lazy module stays small');
+  const { paths } = await import('../packages/web/dist/all.js');
+  assert.equal(Object.keys(paths).length, icons.length);
+  for (const w of weights) {
+    for (const { name } of icons) {
+      const file = JSON.parse(readFileSync(new URL(`icons/${w}/${name}.json`, dist)));
+      assert.deepEqual(file, paths[name][w], `${w}/${name}`);
+    }
+  }
+});
+
 test('font codepoints are stable and unique', () => {
   const cps = JSON.parse(readFileSync(new URL('../codepoints.json', import.meta.url)));
   const values = Object.values(cps);

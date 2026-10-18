@@ -315,7 +315,7 @@ const PLATFORMS = [
     ],
     faq: [['Does it work in Angular?', 'Yes. Add CUSTOM_ELEMENTS_SCHEMA to the module or standalone component that uses it, then use the element in templates.'],
       ['Can I use it in WordPress?', 'Yes. Load the script once in your theme, then use the element in any block that accepts HTML.'],
-      ['How big is the script?', 'It includes every icon in every weight, so for production apps that use a handful of icons the framework packages or SVG files are lighter.']] },
+      ['How big is the script?', 'About 3 KB. Each icon is fetched the first time a page uses it, about 1 KB per icon and weight, and cached. For offline use, import <code>@icon-monks/web/all</code>, which holds every icon up front.']] },
   { path: 'icon-font/', short: 'Icon font', pkg: '@icon-monks/font', lang: 'CSS', install: 'npm i @icon-monks/font',
     blurb: 'OTF and WOFF2 fonts with CSS classes in five weights.',
     title: (n) => `Free Icon Font: ${n} Icons as WOFF2 with CSS Classes | Icon Monks`,
