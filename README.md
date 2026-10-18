@@ -62,7 +62,7 @@ Font codepoints are append-only (`codepoints.json`), so existing glyphs never mo
 ## License
 
 MIT © Design Monks. The icon designs are original; the project is inspired by the approach of
-[Phosphor Icons](https://phosphoricons.com/) but shares no artwork with it.
+[Phosphor Icons](https://phosphoricons.com/), but shares no artwork with it.
 
 Icons in the Brands category show logos and products that are trademarks of their owners. The MIT license covers our
 drawings, not the trademarks: using a brand's logo is still subject to that brand's own guidelines.
