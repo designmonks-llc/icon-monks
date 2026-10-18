@@ -106,11 +106,14 @@ def regular_polygon(c, r, n, start=-90):
 ICONS = []
 
 
-def icon(name, category, tags, line=(), detail=(), area=(), hole=(), dot=(), dotcut=(), slash=(), outline=False):
-    """outline=True marks a glyph that stays outlined in the fill weight (letters, numbers, symbols)."""
+def icon(name, category, tags, line=(), detail=(), area=(), hole=(), dot=(), dotcut=(), slash=(), outline=False,
+         reviewed=False, symbol=False):
+    """outline=True marks a glyph that stays outlined in the fill weight (letters, numbers, symbols).
+    reviewed=True marks an icon with more than 8 strokes that was checked and reads clearly at 16 px.
+    symbol=True marks a symbol meant to sit smaller than the keylines (carets, dot, x); see STYLE.md."""
     ICONS.append(dict(name=name, category=category, tags=list(tags), line=list(line), detail=list(detail),
                       area=list(area), hole=list(hole), dot=list(dot), dotcut=list(dotcut), slash=list(slash),
-                      outline=outline))
+                      outline=outline, reviewed=reviewed, symbol=symbol))
 
 
 def _group(role, items, attrs):
@@ -154,7 +157,9 @@ def save(overwrite=False):
             raise SystemExit(f'{ic["name"]} is an existing icon; pick another name')
         if os.path.exists(path) and not overwrite:
             raise SystemExit(f'{ic["name"]} already exists; pick another name or pass overwrite=True')
-        svg = (f'<svg {"data-fill=\"outline\" " if ic["outline"] else ""}'
+        marks = (('data-fill="outline" ' if ic['outline'] else '') + ('data-detail="reviewed" ' if ic['reviewed'] else '')
+                 + ('data-size="symbol" ' if ic['symbol'] else ''))
+        svg = (f'<svg {marks}'
                f'xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" '
                f'data-category="{_attr(ic["category"])}" data-tags="{_attr(",".join(ic["tags"]))}">\n'
                + _group('area', ic['area'], 'fill="currentColor" opacity="0.2"')

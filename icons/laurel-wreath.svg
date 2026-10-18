@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="laurel,wreath,award,victory">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="laurel,wreath,award,victory">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M82 175 C75.2 180.02 68.55 183 63 183 C54.3 183 47.62 176.35 42 164 C48.8 158.98 55.45 156 61 156 C69.7 156 76.38 162.65 82 175 Z"/>
     <path d="M62 140 Q28.97 141.62 34 109 Q67.02 107.37 62 140 Z"/>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="kitesurf,kite,surf,water sports">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="kitesurf,kite,surf,water sports">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M119 47 C129.12 43.92 138.52 42 147 42 C174.82 42 193.76 58.92 204 92 Q171.27 51.13 119 47 Z"/>
     <circle cx="72" cy="104" r="18"/>

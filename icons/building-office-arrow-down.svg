@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="building,office,download,arrow">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="building,office,download,arrow">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M56 216 V48 A16 16 0 0 1 72 32 H184 A16 16 0 0 1 200 48 V126 A60 60 0 0 0 133 216 Z"/>
   </g>

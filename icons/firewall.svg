@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="firewall,network,protection,brick wall">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="firewall,network,protection,brick wall">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M129 208 L44 208 A12 12 0 0 1 32 196 L32 60 A12 12 0 0 1 44 48 L212 48 A12 12 0 0 1 224 60 L224 139 A60 60 0 0 0 129 208 Z"/>
     <path d="M184 217 C169.6 217 158 206.84 158 191 C158 173.72 173.68 165.72 178 147 C189.52 155.64 197 166.48 197 178 C201.32 175.12 204.28 170.32 205 166 C208.6 173.2 210 182.36 210 191 C210 206.84 198.4 217 184 217 Z"/>

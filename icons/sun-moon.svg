@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="day night,light dark,theme,cycle">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="day night,light dark,theme,cycle">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="84" cy="84" r="22"/>
     <path d="M169 132 A44 44 0 1 0 216 183 A36 36 0 0 1 169 132 Z"/>

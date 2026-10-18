@@ -4,10 +4,10 @@
   python3 scripts/lint.py                    # fail on any problem not recorded in the baseline
   python3 scripts/lint.py house bell         # check named icons only
   python3 scripts/lint.py --all              # list every problem, baseline included
-  python3 scripts/lint.py --update-baseline  # record current problems (review the diff in the PR)
+  python3 scripts/lint.py --update-baseline  # drop fixed icons from the baseline (it never grows)
 
-Existing icons that predate STYLE.md are recorded in scripts/lint-baseline.json, so only new icons and new
-problems fail. Fixing an old icon and re-running --update-baseline removes it from the file.
+scripts/lint-baseline.json lists the icons waiting to be redrawn; every other problem fails. Redrawing one and
+re-running --update-baseline removes it from the file.
 """
 import json
 import math
@@ -43,9 +43,11 @@ RULES = {
     'no-fill': 'has a closed shape but no area/detail/hole/dotcut, so the fill weight is just the outline '
                '(letters, numbers and symbols that should stay outlined say so with data-fill="outline")',
     'live-area': f'geometry leaves the {LIVE[0]}..{LIVE[1]} live area',
-    'small': f'larger side spans less than {MIN_SIZE} units, so it looks smaller than its neighbours',
+    'small': f'larger side spans less than {MIN_SIZE} units, so it looks smaller than its neighbours '
+             '(symbols meant to sit small, such as carets, say so with data-size="symbol")',
     'off-grid': 'straight-segment endpoints, circle centres or rect corners are not whole numbers',
-    'detail': f'more than {MAX_STROKED} stroked elements',
+    'detail': f'more than {MAX_STROKED} stroked elements; simplify it, or check it at 16 px and mark it '
+              'data-detail="reviewed" if it still reads clearly',
     'extremes': 'a curve bulges past its ends with no anchor at its top, bottom, left or right extreme',
     'tessellated': f'a path is more than {MAX_SEGMENTS} straight segments; draw curves with arcs and cubics',
     'keyline': 'a container is bigger than its keyline: circle 192, square 176, other rectangle 192 on the long side',
@@ -304,9 +306,9 @@ def check(path):
         if min(xs) < LIVE[0] - LIVE_TOL or min(ys) < LIVE[0] - LIVE_TOL or max(xs) > LIVE[1] + LIVE_TOL or \
                 max(ys) > LIVE[1] + LIVE_TOL:
             found.add('live-area')
-        if max(max(xs) - min(xs), max(ys) - min(ys)) < MIN_SIZE:
+        if max(max(xs) - min(xs), max(ys) - min(ys)) < MIN_SIZE and root.get('data-size') != 'symbol':
             found.add('small')
-    if len(roles['line']) + len(roles['detail']) > MAX_STROKED:
+    if len(roles['line']) + len(roles['detail']) > MAX_STROKED and root.get('data-detail') != 'reviewed':
         found.add('detail')
     if over_keyline(root):
         found.add('keyline')
@@ -334,6 +336,13 @@ def main(args):
     if update:
         if names:
             raise SystemExit('--update-baseline checks every icon; drop the icon names')
+        # The baseline only shrinks: it holds the icons waiting for a redraw, never new problems.
+        old = json.load(open(BASELINE)) if os.path.exists(BASELINE) else {}
+        grown = {n: [r for r in rs if r not in old.get(n, [])] for n, rs in results.items()}
+        grown = {n: rs for n, rs in grown.items() if rs}
+        if grown:
+            raise SystemExit('--update-baseline would add problems; fix these icons instead:\n' +
+                             '\n'.join(f'  {n}: {", ".join(rs)}' for n, rs in sorted(grown.items())))
         # One icon per line keeps baseline diffs readable in review.
         with open(BASELINE, 'w') as fh:
             fh.write('{\n' + ',\n'.join(f'{json.dumps(n)}: {json.dumps(rs)}' for n, rs in sorted(results.items()))

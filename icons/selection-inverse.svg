@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="invert selection,inverse,marquee">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="invert selection,inverse,marquee">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M163 93 A10 10 0 0 1 180 100 L180 170 A10 10 0 0 1 170 180 L100 180 A10 10 0 0 1 93 163 Z"/>
   </g>

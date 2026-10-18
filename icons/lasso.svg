@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="lasso select,selection,freeform,select,lasso">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="lasso select,selection,freeform,select,lasso">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M64 128 L61 125 L59 122 L58 119 L56 116 L55 113 L54 110 L53 109"/>
     <path d="M57 77 L58 76 L60 73 L62 71 L64 68 L66 65 L69 63 L71 60"/>

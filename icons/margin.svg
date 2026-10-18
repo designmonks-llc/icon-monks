@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="margin,spacing,padding,box model,box margin">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="margin,spacing,padding,box model,box margin">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="84" y="84" width="88" height="88" rx="12"/>
   </g>

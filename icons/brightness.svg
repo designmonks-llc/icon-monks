@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="brightness,half,contrast,display">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="brightness,half,contrast,display">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M128 84 A44 44 0 0 1 128 172 Z"/>
   </g>

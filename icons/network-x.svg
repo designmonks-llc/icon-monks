@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="network error,disconnected,network,offline,no network">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="network error,disconnected,network,offline,no network">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="128" cy="56" r="24"/>
     <circle cx="52" cy="200" r="20"/>

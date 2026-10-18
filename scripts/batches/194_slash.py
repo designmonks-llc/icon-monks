@@ -11,6 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'
 from draw import ROOT
 
 SLASH, MIRRORED = 'M48 48 L208 208', 'M208 48 L48 208'
+MARKS = ('data-fill="outline"', 'data-detail="reviewed"', 'data-size="symbol"')
 MIRROR = {'analyze-slash', 'corners-out-slash', 'cursor-slash', 'find-replace-slash', 'magnifying-glass-slash'}
 GROUP = ('  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" '
          'stroke-linejoin="round">\n    <path d="{}"/>\n  </g>\n')
@@ -21,9 +22,10 @@ def rebuild(name):
     src = open(os.path.join(icons, name + '.svg')).read()
     base = open(os.path.join(icons, name[:-6] + '.svg')).read()
     head = re.match(r'<svg[^>]*>\n', src).group(0)          # keeps the slash icon's own category and tags
-    head = head.replace('data-fill="outline" ', '')
-    if 'data-fill="outline"' in base[:base.index('>')]:
-        head = head.replace('<svg ', '<svg data-fill="outline" ', 1)
+    for mark in MARKS:  # marks follow the base icon
+        head = head.replace(mark + ' ', '')
+        if mark in base[:base.index('>')]:
+            head = head.replace('<svg ', f'<svg {mark} ', 1)
     body = base[re.match(r'<svg[^>]*>\n', base).end():base.rindex('</svg>')]
     slash = MIRRORED if name in MIRROR else SLASH
     new = head + body + GROUP.format(slash) + '</svg>\n'

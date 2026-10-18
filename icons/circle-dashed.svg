@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="circle,dashed,dotted,draft,dashed circle">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="circle,dashed,dotted,draft,dashed circle">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M115 33 A96 96 0 0 1 128 32 A96 96 0 0 1 141 33"/>
     <path d="M173 43 A96 96 0 0 1 194 59"/>

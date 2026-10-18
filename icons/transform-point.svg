@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="anchor point,transform,origin,pivot">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="anchor point,transform,origin,pivot">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="56" y="56" width="144" height="144"/>
     <rect x="40" y="40" width="32" height="32" rx="6"/>
