@@ -39,4 +39,3 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: swift build
-      - run: xcodebuild -scheme IconMonks -destination 'generic/platform=iOS' -quiet build
