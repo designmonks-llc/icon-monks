@@ -13,6 +13,7 @@
   --rule: #dfe2ec;
   --saffron: #c96a00;
   --saffron-soft: #fbe9d2;
+  --fill: #a85600; --on-fill: #ffffff;
   --grid: #e9ebf3;
   --display: 'Funnel Display', 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;
   --body: 'DM Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
@@ -21,27 +22,35 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --paper: #11132a; --sheet: #191c38; --ink: #e8e9f4; --muted: #a0a4c4; --rule: #2c3058;
-    --saffron: #f5a53a; --saffron-soft: #3a2a14; --grid: #24284a; color-scheme: dark;
+    --saffron: #f5a53a; --saffron-soft: #3a2a14; --fill: #f5a53a; --on-fill: #1b1e3a; --grid: #24284a; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --paper: #11132a; --sheet: #191c38; --ink: #e8e9f4; --muted: #a0a4c4; --rule: #2c3058;
-  --saffron: #f5a53a; --saffron-soft: #3a2a14; --grid: #24284a; color-scheme: dark;
+  --saffron: #f5a53a; --saffron-soft: #3a2a14; --fill: #f5a53a; --on-fill: #1b1e3a; --grid: #24284a; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
 [hidden] { display: none !important; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 a { color: inherit; }
-.eyebrow a { color: var(--saffron); text-underline-offset: 3px; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
 .wrap { max-width: 1240px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
-header.top { padding-block: 40px 24px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: end; }
+.topbar { border-bottom: 1px solid var(--rule); }
+.topbar .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: center; justify-content: space-between; padding-block: 12px; }
+.logo { display: flex; gap: 10px; align-items: center; font: 500 18px var(--display); text-decoration: none; }
+.logo img { border-radius: 7px; display: block; }
+.topbar nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 20px; font-size: 14px; }
+.topbar nav a { text-decoration: none; color: var(--muted); }
+.topbar nav a:hover { color: var(--ink); }
+header.top { padding-block: 48px 32px; }
 .eyebrow { font: 500 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--saffron); }
 h1 { font: 400 clamp(40px, 7vw, 76px)/1 var(--display); letter-spacing: -.01em; margin: 10px 0 14px; text-wrap: balance; }
 .lede { max-width: 60ch; color: var(--muted); margin: 0; font-size: 17px; }
-.specs { display: grid; grid-template-columns: repeat(3, auto); gap: 4px 28px; font-family: var(--mono); font-size: 12px; color: var(--muted); }
-.specs b { display: block; font: 400 30px/1.1 var(--display); color: var(--ink); letter-spacing: 0; }
+.specs { display: flex; flex-wrap: wrap; gap: 14px 0; margin-top: 32px; font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.specs > div { padding-inline: 24px; border-left: 1px solid var(--rule); }
+.specs > div:first-child { padding-left: 0; border-left: 0; }
+.specs b { display: block; font: 400 28px/1.1 var(--display); color: var(--ink); letter-spacing: 0; font-variant-numeric: tabular-nums; }
 .rail { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-block: 1px solid var(--rule); }
 .rail .wrap { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding-block: 12px; }
 .search { flex: 1 1 220px; min-width: 0; position: relative; }
@@ -85,7 +94,7 @@ aside.detail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 84px)
 .dl { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; border-top: 1px solid var(--rule); padding-top: 14px; }
 .dl-head { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
 .dl-title { font: 500 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
-.dl button { font: 600 13px var(--body); border: 0; background: var(--saffron); color: #1b1e3a; border-radius: 10px; padding: 9px 6px; cursor: pointer; display: inline-flex; justify-content: center; align-items: center; gap: 6px; }
+.dl button { font: 600 13px var(--body); border: 0; background: var(--fill); color: var(--on-fill); border-radius: 10px; padding: 9px 6px; cursor: pointer; display: inline-flex; justify-content: center; align-items: center; gap: 6px; }
 .dl button svg { width: 14px; height: 14px; }
 .dl button:hover { filter: brightness(1.08); }
 .dl button:focus-visible, .dl select:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
@@ -104,15 +113,17 @@ section.install > p { color: var(--muted); margin: 0 0 20px; max-width: 64ch; }
 .platform p { margin: 0; color: var(--muted); font-size: 13px; }
 .platform code { font: 12px var(--mono); background: var(--paper); padding: 6px 8px; border-radius: 6px; overflow-x: auto; white-space: nowrap; display: block; }
 /* Visitor counter pill, same pattern as AI Metadata Remover */
-.visits { display: inline-flex; align-items: center; gap: 8px; margin-top: 16px; padding: 5px 12px; border-radius: 99px; background: var(--sheet); border: 1px solid var(--rule); font-size: 13px; color: var(--muted); }
+.visits span { display: inline-flex; align-items: center; gap: 6px; }
 .visits[hidden] { display: none; }
-.visits b { color: var(--ink); font-weight: 650; font-variant-numeric: tabular-nums; }
+
 .vdot { width: 7px; height: 7px; border-radius: 50%; background: #1f9d55; box-shadow: 0 0 0 3px rgba(31, 157, 85, .18); }
 h1 .h1-sub { display: block; font: 600 clamp(18px, 2.4vw, 24px)/1.25 var(--body); letter-spacing: 0; color: var(--muted); margin-top: 12px; }
 .cta { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
 .btn { display: inline-flex; align-items: center; font: 600 14px var(--body); text-decoration: none; border-radius: 10px; padding: 10px 16px; border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); }
-.btn.primary { background: var(--saffron); border-color: var(--saffron); color: #1b1e3a; }
+.btn.primary { background: var(--fill); border-color: var(--fill); color: var(--on-fill); }
 .btn:hover { filter: brightness(1.06); }
+.cta .link { align-self: center; margin-left: 6px; font: 600 14px var(--body); color: var(--muted); text-decoration: none; }
+.cta .link:hover { color: var(--ink); }
 .btn:focus-visible, .cats a:focus-visible, summary:focus-visible, footer a:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; }
 section.band { padding-block: 8px 72px; }
 section.band h2 { font: 400 32px/1.1 var(--display); letter-spacing: 0; margin: 0 0 6px; text-wrap: balance; }
@@ -151,7 +162,6 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
 @media (max-width: 720px) { .foot { grid-template-columns: repeat(2, minmax(0, 1fr)); } .foot > div:first-child { grid-column: 1 / -1; } }
 @media (max-width: 900px) {
   main.wrap { grid-template-columns: minmax(0, 1fr); }
-  header.top { grid-template-columns: minmax(0, 1fr); }
 }
 @media (max-width: 480px) { .grid { grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); } .knob input[type=range] { width: 72px; } }
 .theme { display: inline-flex; align-items: center; gap: 6px; font: 500 12px var(--mono); color: var(--muted); }
@@ -164,6 +174,10 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
   .weights { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
   .weights button { flex: none; }
   .knob.size { display: none; }
+  header.top { padding-block: 32px 24px; }
+  .specs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px 0; margin-top: 24px; }
+  .specs > div { padding-inline: 0; border-left: 0; }
+  .topbar nav { gap: 4px 14px; }
 }
 @media (max-width: 900px) {
   aside.detail { position: fixed; left: 0; right: 0; bottom: 0; top: auto; z-index: 20; max-height: 82vh; overflow-y: auto;
@@ -177,21 +191,23 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
 @media (prefers-reduced-motion: no-preference) { .tile { transition: border-color .12s, transform .12s; } .tile:active { transform: scale(.97); } }
 </style>
 
+<div class="topbar"><div class="wrap">
+  <a class="logo" href="./"><img src="favicon.svg" alt="" width="28" height="28">Icon Monks</a>
+  <nav aria-label="Main"><a href="showcase/">Showcase</a><a href="#get-started">Get started</a><a href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">GitHub</a><label class="theme"><span class="sr">Theme</span><select id="theme" aria-label="Theme"><option value="">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label></nav>
+</div></div>
+
 <header class="wrap top">
-  <div>
-    <div class="eyebrow">Open source · MIT · by Design Monks · <a href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">GitHub</a> · <label class="theme" for="theme">Theme <select id="theme"><option value="">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label></div>
-    <h1>Icon Monks <span class="h1-sub">Free open source icons for web and native apps</span></h1>
-    <p class="lede">__COUNT__ SVG icons in six weights, drawn on one 256-unit grid and shipped as packages for React, Vue, Web Components, icon fonts, Flutter, Android and Apple platforms. MIT licensed, free for commercial use.</p>
-    <div class="cta"><a class="btn primary" href="#icons">Browse icons</a><a class="btn" href="#get-started">Get started</a><a class="btn" href="showcase/">See it in use</a><a class="btn" href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">Star on GitHub</a></div>
-    <div class="visits" id="visits" hidden><span class="vdot"></span><b id="visitCount"></b> people have visited</div>
-  </div>
+  <div class="eyebrow">Open source · MIT · by Design Monks</div>
+  <h1>Icon Monks <span class="h1-sub">Free open source icons for web and native apps</span></h1>
+  <p class="lede">__COUNT__ SVG icons in six weights, drawn on one 256-unit grid and shipped as packages for React, Vue, Web Components, icon fonts, Flutter, Android and Apple platforms. MIT licensed, free for commercial use.</p>
+  <div class="cta"><a class="btn primary" href="#icons">Browse icons</a><a class="btn" href="showcase/">See it in use</a><a class="link" href="#get-started">Get started <span aria-hidden="true">→</span></a></div>
   <div class="specs">
     <div><b id="stat-icons">0</b>icons</div>
     <div><b>6</b>weights</div>
     <div><b>8</b>platforms</div>
     <div><b id="stat-cats">0</b>categories</div>
     <div><b>MIT</b>license</div>
-    <div><b>$0</b>forever</div>
+    <div class="visits" id="visits" hidden><b id="visitCount"></b><span><span class="vdot"></span>visitors</span></div>
   </div>
 </header>
 

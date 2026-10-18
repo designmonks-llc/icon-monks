@@ -394,9 +394,9 @@ const LICENSE_FAQ = [
   ['Can I include the icons in an icon pack or UI kit I sell?', 'Yes, as long as the license notice is included with the redistributed icons.'],
 ];
 
-const CSS = `:root{--paper:#f4f5f8;--sheet:#fff;--ink:#1b1e3a;--muted:#5d6280;--rule:#dfe2ec;--saffron:#c96a00;--display:'Funnel Display','Space Grotesk','Helvetica Neue',Arial,sans-serif;--body:'DM Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,monospace}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;color-scheme:dark}:root:not([data-theme="light"]) img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}}
-:root[data-theme="dark"]{--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;color-scheme:dark}:root[data-theme="dark"] img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}
+const CSS = `:root{--paper:#f4f5f8;--sheet:#fff;--ink:#1b1e3a;--muted:#5d6280;--rule:#dfe2ec;--saffron:#c96a00;--fill:#a85600;--on-fill:#fff;--display:'Funnel Display','Space Grotesk','Helvetica Neue',Arial,sans-serif;--body:'DM Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;--fill:#f5a53a;--on-fill:#1b1e3a;color-scheme:dark}:root:not([data-theme="light"]) img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}}
+:root[data-theme="dark"]{--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;--fill:#f5a53a;--on-fill:#1b1e3a;color-scheme:dark}:root[data-theme="dark"] img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}.theme select{font:500 13px var(--body);color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:8px;padding:3px 6px}
 .tiles span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 var(--body)}a{color:inherit}
@@ -408,7 +408,7 @@ h1{font:400 clamp(34px,5vw,56px)/1.05 var(--display);margin:0 0 12px;letter-spac
 .lede{font-size:18px;color:var(--muted);max-width:68ch;margin:0 0 24px}p{max-width:72ch}p a,.faq a{color:var(--saffron)}
 pre{margin:0 0 12px;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:14px;overflow-x:auto;font:13px/1.6 var(--mono)}code{font-family:var(--mono);font-size:.92em}
 table{border-collapse:collapse;width:100%;max-width:720px;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;overflow:hidden;font-size:14px}th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--rule)}
-.btn{display:inline-flex;align-items:center;font:600 14px var(--body);text-decoration:none;border-radius:10px;padding:10px 16px;border:1px solid var(--rule);background:var(--sheet)}.btn.primary{background:var(--saffron);border-color:var(--saffron);color:#1b1e3a}
+.btn{display:inline-flex;align-items:center;font:600 14px var(--body);text-decoration:none;border-radius:10px;padding:10px 16px;border:1px solid var(--rule);background:var(--sheet)}.btn.primary{background:var(--fill);border-color:var(--fill);color:var(--on-fill)}
 .actions{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;max-width:none}.hint{font-size:14px;color:var(--muted)}
 .weights{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:8px 0 20px}.weights figure{margin:0;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:20px 12px 12px;display:grid;justify-items:center;gap:8px}.weights figcaption{font-size:13px;color:var(--muted)}
 .dl{font:500 12px var(--mono);color:var(--saffron);text-decoration:none}.dl:hover{text-decoration:underline}
