@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="download,inbox,receive,import,archive">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="download,inbox,receive,import,archive">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M32 152 H84 L100 176 H156 L172 152 H224 V194 A14 14 0 0 1 210 208 H46 A14 14 0 0 1 32 194 Z"/>
   </g>

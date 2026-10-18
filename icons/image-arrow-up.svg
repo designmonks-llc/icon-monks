@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="upload image,gallery upload,photo,share,photo upload">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="upload image,gallery upload,photo,share,photo upload">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M133 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 145 A56 56 0 0 0 133 208 Z"/>
   </g>

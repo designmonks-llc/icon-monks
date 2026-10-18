@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="sliders,remove,subtract,adjustments,controls">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="sliders,remove,subtract,adjustments,controls">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="160" cy="80" r="24"/>
     <circle cx="80" cy="176" r="24"/>

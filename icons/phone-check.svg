@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="phone check,done,approved,phone,call">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="phone check,done,approved,phone,call">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M64 40 H96 L112 92 L88 112 C108 132 124 148 144 168 L164 144 L216 160 V192 A24 24 0 0 1 192 216 C104 216 40 152 40 64 A24 24 0 0 1 64 40 Z"/>
   </g>

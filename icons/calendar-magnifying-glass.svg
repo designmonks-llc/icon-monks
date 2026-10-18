@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="calendar,search,find,date,schedule">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M138 216 L54 216 A14 14 0 0 1 40 202 L40 62 A14 14 0 0 1 54 48 L202 48 A14 14 0 0 1 216 62 L216 138 A56 56 0 0 0 138 216 Z"/>
-    <circle cx="178" cy="178" r="18"/>
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M138 216 L54 216 A14 14 0 0 1 40 202 L40 62 A14 14 0 0 1 54 48 L202 48 A14 14 0 0 1 216 62 L216 138"/>
+    <rect x="40" y="48" width="176" height="168" rx="14"/>
     <path d="M88 32 L88 72"/>
     <path d="M168 32 L168 72"/>
-    <circle cx="178" cy="178" r="18"/>
-    <path d="M192 192 L210 210"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 104 L216 104"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="182" cy="182" r="18"/>
+    <path d="M196 196 L214 214"/>
   </g>
 </svg>

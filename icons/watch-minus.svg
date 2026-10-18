@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="watch,remove,subtract,smartwatch,wearable">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="watch,remove,subtract,smartwatch,wearable">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M159 141 A64 64 0 1 0 134 179 A50 50 0 0 1 159 141 Z"/>
   </g>

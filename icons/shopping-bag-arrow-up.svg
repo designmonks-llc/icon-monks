@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="remove from bag,return,refund">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M135 216 L56 216 L48 80 L208 80 L205 131 A62 62 0 0 0 135 216 Z"/>
+    <path d="M48 80 H208 L200 216 H56 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M135 216 L56 216 L48 80 L208 80 L205 131"/>
+    <path d="M48 80 H208 L200 216 H56 Z"/>
     <path d="M96 112 V72 A32 32 0 0 1 160 72 V112"/>
-    <path d="M192 220 L192 164"/>
-    <path d="M170 186 L192 164 L214 186"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 214 V162"/>
+    <path d="M166 184 L188 162 L210 184"/>
   </g>
 </svg>

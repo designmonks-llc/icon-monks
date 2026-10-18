@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="flag check,done,approved,flag,report">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="flag check,done,approved,flag,report">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M152 140 C147.53 140.75 143.08 141 139 141 C114.55 141 97.03 130 77 130 C69.85 130 61.99 131.01 54 135 L54 46 C62.11 41.94 69.68 40 77 40 C97 40 115.73 52 140 52 C148.88 52 158.18 50.06 169 46 L169 131 A60 60 0 0 0 152 140 Z"/>
   </g>

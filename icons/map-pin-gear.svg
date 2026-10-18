@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map pin,settings,configure,map,pin">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map pin,settings,configure,map,pin">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M129 212 C121.52 219.7 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 109.95 187.45 115.96 186 122 A62 62 0 0 0 129 212 Z"/>
     <path d="M175 161 L176 148 L192 148 L193 161 A25 25 0 0 1 199 164 L212 159 L219 173 L209 181 A25 25 0 0 1 209 187 L219 195 L212 209 L199 204 A25 25 0 0 1 193 207 L192 220 L176 220 L175 207 A25 25 0 0 1 169 204 L156 209 L149 195 L159 187 A25 25 0 0 1 159 181 L149 173 L156 159 L169 164 A25 25 0 0 1 175 161 Z"/>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="add printer,printer,new device,plus">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="add printer,printer,new device,plus">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M128 184 L48 184 A16 16 0 0 1 32 168 L32 104 A16 16 0 0 1 48 88 L208 88 A16 16 0 0 1 224 104 L224 140 A60 60 0 0 0 128 184 Z"/>
     <rect x="72" y="40" width="112" height="48"/>

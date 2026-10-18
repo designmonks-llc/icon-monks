@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="upload user,export contact,person,arrow,upload">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="upload user,export contact,person,arrow,upload">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M144 84 C144 61.91 126.09 44 104 44 C81.91 44 64 61.91 64 84 C64 106.09 81.91 124 104 124 C126.09 124 144 106.09 144 84 Z M142 216 C135.67 206.93 132 195.9 132 184 C132 173.6 135.06 164.34 140 156 C129.48 151.03 117.05 148 104 148 C64 148 32 172 32 216 H142 Z"/>
   </g>

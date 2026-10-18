@@ -1,15 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="monitor,settings,configure,desktop,computer">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M129 176 L46 176 A14 14 0 0 1 32 162 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 140 A60 60 0 0 0 129 176 Z"/>
-    <path d="M180 167 L181 155 L195 155 L196 167 A22 22 0 0 1 202 171 L213 165 L220 177 L210 184 A22 22 0 0 1 210 192 L220 199 L213 211 L202 205 A22 22 0 0 1 196 209 L195 221 L181 221 L180 209 A22 22 0 0 1 174 205 L163 211 L156 199 L166 192 A22 22 0 0 1 166 184 L156 177 L163 165 L174 171 A22 22 0 0 1 180 167 Z"/>
-  </g>
-  <g data-role="hole" fill="none">
-    <circle cx="188" cy="188" r="8"/>
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M129 176 L46 176 A14 14 0 0 1 32 162 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 140"/>
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
     <path d="M128 176 L128 208"/>
-    <path d="M88 208 L131 208"/>
-    <path d="M180 167 L181 155 L195 155 L196 167 A22 22 0 0 1 202 171 L213 165 L220 177 L210 184 A22 22 0 0 1 210 192 L220 199 L213 211 L202 205 A22 22 0 0 1 196 209 L195 221 L181 221 L180 209 A22 22 0 0 1 174 205 L163 211 L156 199 L166 192 A22 22 0 0 1 166 184 L156 177 L163 165 L174 171 A22 22 0 0 1 180 167 Z"/>
+    <path d="M88 208 L168 208"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M182 161 L194 161 L195 169 L201 173 L208 169 L215 180 L208 184 L208 192 L215 196 L208 207 L201 203 L195 207 L194 215 L182 215 L181 207 L175 203 L168 207 L161 196 L168 192 L168 184 L161 180 L168 169 L175 173 L181 169 Z"/>
   </g>
 </svg>

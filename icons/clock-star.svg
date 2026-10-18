@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="clock,favorite,starred,time,hour">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M134 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 134 A64 64 0 0 0 134 224 Z"/>
-    <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M134 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 134"/>
-    <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 76 L128 128 L88 128"/>
+    <path d="M128 72 L128 128 L168 152"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 162 L196 181 L217 183 L200 196 L206 216 L188 205 L170 216 L176 196 L159 183 L180 181 Z"/>
   </g>
 </svg>

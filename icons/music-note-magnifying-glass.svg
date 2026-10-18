@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music note,search,find,music,note">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="88" cy="184" r="32"/>
-    <circle cx="182" cy="182" r="20"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="88" cy="184" r="32"/>
     <path d="M120 184 L120 40"/>
     <path d="M120 40 C149.19 47.3 185 61.17 185 100 C185 103.74 184.7 107.78 184 112"/>
-    <circle cx="182" cy="182" r="20"/>
-    <path d="M196 196 L212 212"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="182" cy="182" r="18"/>
+    <path d="M196 196 L214 214"/>
   </g>
 </svg>

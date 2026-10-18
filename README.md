@@ -35,6 +35,7 @@ role, which tells the build how each weight is made:
 | `hole` | | cut out | |
 | `dot` / `dotcut` | solid dot | merged in / cut out | solid dot |
 | `slash` | stroked, with a gap cut around it | stroked, with a gap | stroked, with a gap |
+| `badge` | standard corner mark, with a round clearing cut around it | stroked; closed marks filled | stroked, with a clearing |
 
 `scripts/build.py` outlines strokes at 8 / 12 / 16 / 24 units with Skia path ops, so every output is a single flat
 path that renders identically in browsers, fonts, Android and Xcode. `scripts/packages.py` turns that into each package.

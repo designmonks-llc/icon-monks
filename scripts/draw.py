@@ -10,6 +10,7 @@ Each call becomes icons/<name>.svg. Roles decide how every weight is generated:
   dot     solid dot whose radius scales with weight, merged into fill (source r=16 renders r=12 at regular)
   dotcut  solid dot in outline weights, knocked out of the fill weight
   slash   one line M48 48 L208 208 on <name>-slash icons; the build cuts a gap around it in every weight
+  badge   the standard corner mark on <base>-<modifier> icons (lint.BADGES); the build clears a round corner for it
 
 Rules: live area 32..224 (strokes reach 24..232 at regular), 16-unit strokes, round caps and joins.
 """
@@ -106,13 +107,15 @@ def regular_polygon(c, r, n, start=-90):
 ICONS = []
 
 
-def icon(name, category, tags, line=(), detail=(), area=(), hole=(), dot=(), dotcut=(), slash=(), outline=False,
+def icon(name, category, tags, line=(), detail=(), area=(), hole=(), dot=(), dotcut=(), slash=(), badge=(),
+         outline=False,
          reviewed=False, symbol=False):
     """outline=True marks a glyph that stays outlined in the fill weight (letters, numbers, symbols).
     reviewed=True marks an icon with more than 8 strokes that was checked and reads clearly at 16 px.
     symbol=True marks a symbol meant to sit smaller than the keylines (carets, dot, x); see STYLE.md."""
     ICONS.append(dict(name=name, category=category, tags=list(tags), line=list(line), detail=list(detail),
                       area=list(area), hole=list(hole), dot=list(dot), dotcut=list(dotcut), slash=list(slash),
+                      badge=list(badge),
                       outline=outline, reviewed=reviewed, symbol=symbol))
 
 
@@ -129,7 +132,7 @@ def load(name):
     """Return the source elements of an existing icon by role, e.g. load('bell')['line'], to build variants on it."""
     import re
     src = open(os.path.join(ROOT, 'icons', name + '.svg')).read()
-    out = {r: [] for r in ('line', 'detail', 'area', 'hole', 'dot', 'dotcut', 'slash')}
+    out = {r: [] for r in ('line', 'detail', 'area', 'hole', 'dot', 'dotcut', 'slash', 'badge')}
     for role, body in re.findall(r'<g data-role="(\w+)"[^>]*>(.*?)</g>', src, re.S):
         out[role] = [e.strip() for e in re.findall(r'<(?:path|circle|rect|ellipse)\b[^>]*/>', body)]
     return out
@@ -169,6 +172,7 @@ def save(overwrite=False):
                + _group('dot', ic['dot'], 'fill="currentColor"')
                + _group('dotcut', ic['dotcut'], 'fill="currentColor"')
                + _group('slash', ic['slash'], STROKE)
+               + _group('badge', ic['badge'], STROKE)
                + '</svg>\n')
         with open(path, 'w') as fh:
             fh.write(svg)

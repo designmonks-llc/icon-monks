@@ -2,8 +2,10 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 64 L216 64"/>
     <path d="M40 128 L216 128"/>
-    <path d="M40 192 L120 192"/>
-    <path d="M164 172 L204 212"/>
-    <path d="M204 172 L164 212"/>
+    <path d="M40 192 L216 192"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 168 L208 208"/>
+    <path d="M208 168 L168 208"/>
   </g>
 </svg>

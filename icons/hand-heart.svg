@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="service,care,charity,support,donate">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="service,care,charity,support,donate">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M64 152 H108 C120 152 126 160 132 168 H160 L194 146 A15 15 0 0 1 212 168 L168 212 H64 Z"/>
     <path d="M144 133 C144 133 91 104.1 91 70 A27.5 27.5 0 0 1 144 59 A27.5 27.5 0 0 1 197 70 C197 104.1 144 133 144 133 Z"/>

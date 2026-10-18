@@ -1,13 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="mail,delete,error,envelope,delete mail">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 139 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H126 A60 60 0 0 1 224 139 Z"/>
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 139 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H126"/>
-    <path d="M162 162 L206 206"/>
-    <path d="M206 162 L162 206"/>
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 76 L128 140 L208 76"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 168 L208 208"/>
+    <path d="M208 168 L168 208"/>
   </g>
 </svg>

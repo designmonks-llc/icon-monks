@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,favorite,starred,featured">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="house,favorite,starred,featured">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M129 208 L48 208 L48 112 L128 44 L208 112 L208 129 A60 60 0 0 0 129 208 Z"/>
     <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="navigation arrow,warning,alert,error,navigation">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="navigation arrow,warning,alert,error,navigation">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M44 98 L169 44 L116 169 L101 113 Z"/>
   </g>

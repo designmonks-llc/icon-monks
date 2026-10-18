@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="remove group member,group,users,minus,remove members">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="remove group member,group,users,minus,remove members">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M136 100 C136 80.12 119.88 64 100 64 C80.12 64 64 80.12 64 100 C64 119.88 80.12 136 100 136 C119.88 136 136 119.88 136 100 Z M142 208 C138.26 200.82 136 192.66 136 184 C136 175.51 138.39 167.08 142 160 C130.79 154.22 116.21 152 100 152 C60 152 32 168 32 208 H142 Z"/>
   </g>

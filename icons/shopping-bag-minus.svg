@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="bag,remove item,minus,shopping,cart">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M138 216 L56 216 L48 80 L208 80 L205 135 A56 56 0 0 0 138 216 Z"/>
+    <path d="M48 80 H208 L200 216 H56 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M138 216 L56 216 L48 80 L208 80 L205 135"/>
+    <path d="M48 80 H208 L200 216 H56 Z"/>
     <path d="M96 112 V72 A32 32 0 0 1 160 72 V112"/>
-    <path d="M160 188 L212 188"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 188 H216"/>
   </g>
 </svg>

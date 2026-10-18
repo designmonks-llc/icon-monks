@@ -6,9 +6,9 @@
     <circle cx="88" cy="184" r="32"/>
     <path d="M120 184 L120 40"/>
     <path d="M120 40 C149.19 47.3 185 61.17 185 100 C185 103.74 184.7 107.78 184 112"/>
-    <path d="M172 164 A18 18 0 1 1 200 179 C194 183 190 187 190 194"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="190" cy="216" r="16"/>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174 170 A14 14 0 1 1 192 183 C189 185 188 187 188 188"/>
+    <circle cx="188" cy="212" r="12"/>
   </g>
 </svg>

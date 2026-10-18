@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,favorite,like,love,shopping">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,favorite,like,love,shopping">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M136 159 L90 159 L72 82 L218 82 L204 128 A62 62 0 0 0 136 159 Z"/>
     <path d="M191 213 C190.86 213.08 157.44 194.98 157 173 A17.41 17.41 0 0 1 191 166 A17.41 17.41 0 0 1 224 173 C224.28 194.98 190.86 213.08 191 213 Z"/>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="gear,help,unknown,question">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="gear,help,unknown,question">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M125 196 L103 196 L99 177 A63 63 0 0 1 85 171 L69 181 L51 163 L61 147 A63 63 0 0 1 55 133 L36 129 L36 103 L55 99 A63 63 0 0 1 61 85 L51 69 L69 51 L85 61 A63 63 0 0 1 99 55 L103 36 L129 36 L133 55 A63 63 0 0 1 147 61 L163 51 L181 69 L171 85 A63 63 0 0 1 177 99 L196 103 L196 125 A60 60 0 0 0 125 196 Z"/>
   </g>

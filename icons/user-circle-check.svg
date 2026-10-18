@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="verified user,approved,member">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M160 100 C160 82.33 145.67 68 128 68 C110.33 68 96 82.33 96 100 C96 117.67 110.33 132 128 132 C145.67 132 160 117.67 160 100 Z M140 223 C130.7 212.57 125 199.07 125 184 C125 176.98 125.75 170.25 128 164 C127.84 164 128.16 164 128 164 C100 164 76.21 173.53 58 193 C76.16 212.47 101.38 224 128 224 C132.02 224 136.06 223.5 140 223 Z"/>
+    <circle cx="128" cy="100" r="32"/>
+    <path d="M58 193 C76.21 173.53 100 164 128 164 C156 164 179.79 173.53 198 193 A96 96 0 0 1 58 193 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M140 223 A96 96 0 0 1 32 128 A96 96 0 0 1 224 128 A96 96 0 0 1 223 140"/>
-    <path d="M96 100 A32 32 0 0 1 160 100 A32 32 0 0 1 96 100 Z"/>
-    <path d="M58 193 C76.21 173.53 100 164 128 164 C128.16 164 127.84 164 128 164"/>
-    <path d="M156 186 L176 206 L212 166"/>
+    <circle cx="128" cy="128" r="96"/>
+    <circle cx="128" cy="100" r="32"/>
+    <path d="M58 193 C76.21 173.53 100 164 128 164 C156 164 179.79 173.53 198 193"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162 190 L180 208 L214 172"/>
   </g>
 </svg>

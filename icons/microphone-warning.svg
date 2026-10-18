@@ -4,11 +4,11 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="96" y="32" width="64" height="120" rx="32"/>
-    <path d="M64 128 A64 64 0 0 0 130 192"/>
+    <path d="M64 128 A64 64 0 0 0 192 128"/>
     <path d="M128 192 L128 224"/>
-    <path d="M190 158 L190 188"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="190" cy="216" r="16"/>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V186"/>
+    <circle cx="188" cy="212" r="12"/>
   </g>
 </svg>

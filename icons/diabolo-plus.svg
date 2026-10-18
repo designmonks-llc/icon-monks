@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="diabolo,add,new,shape,toy">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="diabolo,add,new,shape,toy">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M133 220 A80 24 0 0 1 48 196 L108 128 L48 60 A80 24 0 0 1 208 60 L148 128 L151 131 A62 62 0 0 0 133 220 Z"/>
   </g>

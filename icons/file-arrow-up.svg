@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file upload,document,import,arrow,upload file">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="file upload,document,import,arrow,upload file">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M56 32 H152 L200 80 V224 H56 Z"/>
   </g>

@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat circle,search,find,message,conversation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M138 216 A92 92 0 0 1 98 209 L40 216 L52 170 A92 92 0 1 1 222 143 A56 56 0 0 0 138 216 Z"/>
-    <circle cx="178" cy="178" r="18"/>
+    <path d="M98 210 L40 217 L52 171 A92 92 0 1 1 98 210 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M138 216 A92 92 0 0 1 98 209 L40 216 L52 170 A92 92 0 1 1 222 143"/>
-    <circle cx="178" cy="178" r="18"/>
-    <path d="M192 192 L210 210"/>
+    <path d="M98 210 L40 217 L52 171 A92 92 0 1 1 98 210 Z"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="182" cy="182" r="18"/>
+    <path d="M196 196 L214 214"/>
   </g>
 </svg>

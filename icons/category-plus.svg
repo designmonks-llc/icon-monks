@@ -3,12 +3,16 @@
     <rect x="40" y="40" width="72" height="72" rx="10"/>
     <circle cx="180" cy="76" r="36"/>
     <rect x="40" y="144" width="72" height="72" rx="10"/>
+    <rect x="144" y="144" width="72" height="72" rx="10"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="40" y="40" width="72" height="72" rx="10"/>
     <circle cx="180" cy="76" r="36"/>
     <rect x="40" y="144" width="72" height="72" rx="10"/>
-    <path d="M180 148 L180 212"/>
-    <path d="M148 180 L212 180"/>
+    <rect x="144" y="144" width="72" height="72" rx="10"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V216"/>
+    <path d="M160 188 H216"/>
   </g>
 </svg>

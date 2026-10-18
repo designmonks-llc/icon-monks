@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="pencil,upload,up,increase">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="pencil,upload,up,increase">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M34 200 L49 148 L152 45 L189 82 L86 185 Z"/>
   </g>

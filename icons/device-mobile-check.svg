@@ -1,12 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="verified phone,mobile ok,phone check,done,device mobile">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 128 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H138 A60 60 0 0 1 184 128 Z"/>
+    <rect x="72" y="32" width="112" height="192" rx="20"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 128 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H138"/>
-    <path d="M158 190 L178 210 L214 172"/>
+    <rect x="72" y="32" width="112" height="192" rx="20"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 64 L144 64"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162 190 L180 208 L214 172"/>
   </g>
 </svg>

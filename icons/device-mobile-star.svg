@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device mobile,favorite,starred,phone,smartphone">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 122 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H131 A66 66 0 0 1 184 122 Z"/>
-    <path d="M186 155 L195 178 L220 180 L201 196 L207 220 L186 207 L165 220 L171 196 L152 180 L177 178 Z"/>
+    <rect x="72" y="32" width="112" height="192" rx="20"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 122 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H131"/>
-    <path d="M186 155 L195 178 L220 180 L201 196 L207 220 L186 207 L165 220 L171 196 L152 180 L177 178 Z"/>
+    <rect x="72" y="32" width="112" height="192" rx="20"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M112 64 L144 64"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 162 L196 181 L217 183 L200 196 L206 216 L188 205 L170 216 L176 196 L159 183 L180 181 Z"/>
   </g>
 </svg>

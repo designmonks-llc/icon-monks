@@ -2,17 +2,17 @@
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124 L144 110 A46 46 0 0 0 98 64 Z"/>
     <rect x="32" y="96" width="80" height="128" rx="14"/>
-    <path d="M178 165 L179 153 L189 153 L190 165 A20 20 0 0 1 197 169 L208 164 L213 174 L204 180 A20 20 0 0 1 204 188 L213 194 L208 204 L197 199 A20 20 0 0 1 190 203 L189 215 L179 215 L178 203 A20 20 0 0 1 171 199 L160 204 L155 194 L164 188 A20 20 0 0 1 164 180 L155 174 L160 164 L171 169 A20 20 0 0 1 178 165 Z"/>
-  </g>
-  <g data-role="hole" fill="none">
-    <circle cx="184" cy="184" r="7"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124"/>
+    <path d="M184 124 L184 164"/>
+    <path d="M152 164 L216 164"/>
     <rect x="32" y="96" width="80" height="128" rx="14"/>
-    <path d="M178 165 L179 153 L189 153 L190 165 A20 20 0 0 1 197 169 L208 164 L213 174 L204 180 A20 20 0 0 1 204 188 L213 194 L208 204 L197 199 A20 20 0 0 1 190 203 L189 215 L179 215 L178 203 A20 20 0 0 1 171 199 L160 204 L155 194 L164 188 A20 20 0 0 1 164 180 L155 174 L160 164 L171 169 A20 20 0 0 1 178 165 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M60 128 L84 128"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M182 161 L194 161 L195 169 L201 173 L208 169 L215 180 L208 184 L208 192 L215 196 L208 207 L201 203 L195 207 L194 215 L182 215 L181 207 L175 203 L168 207 L161 196 L168 192 L168 184 L161 180 L168 169 L175 173 L181 169 Z"/>
   </g>
 </svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="laptop error,issue,alert">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="laptop error,issue,alert">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M132 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 130 A58 58 0 0 0 132 168 Z"/>
   </g>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="favorites list,star,list,rating,starred list">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="favorites list,star,list,rating,starred list">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M60 38 L68 55 L87 57 L72 70 L76 89 L60 79 L44 89 L48 70 L33 57 L52 55 Z"/>
     <path d="M60 102 L68 119 L87 121 L72 134 L76 153 L60 143 L44 153 L48 134 L33 121 L52 119 Z"/>

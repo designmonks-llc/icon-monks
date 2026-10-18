@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="mail help,unknown,envelope,question">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 134 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H122 A64 64 0 0 1 224 134 Z"/>
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 134 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H122"/>
-    <path d="M168 160 A18 18 0 1 1 196 175 C190 179 186 183 186 190"/>
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 76 L128 140 L208 76"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="186" cy="212" r="16"/>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174 170 A14 14 0 1 1 192 183 C189 185 188 187 188 188"/>
+    <circle cx="188" cy="212" r="12"/>
   </g>
 </svg>

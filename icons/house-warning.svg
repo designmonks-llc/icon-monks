@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="home alert,house,warning,danger">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="home alert,house,warning,danger">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M131 208 L48 208 L48 112 L128 44 L208 112 L208 131 A58 58 0 0 0 131 208 Z"/>
   </g>

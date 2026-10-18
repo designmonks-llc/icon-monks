@@ -1,14 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="list settings,configure,preferences,list">
-  <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 154 L190 143 L199 147 L195 159 A26 26 0 0 1 201 165 L213 161 L217 170 L206 176 A26 26 0 0 1 206 184 L217 190 L213 199 L201 195 A26 26 0 0 1 195 201 L199 213 L190 217 L184 206 A26 26 0 0 1 176 206 L170 217 L161 213 L165 201 A26 26 0 0 1 159 195 L147 199 L143 190 L154 184 A26 26 0 0 1 154 176 L143 170 L147 161 L159 165 A26 26 0 0 1 165 159 L161 147 L170 143 L176 154 A26 26 0 0 1 184 154 Z"/>
-  </g>
-  <g data-role="hole" fill="none">
-    <circle cx="180" cy="180" r="10"/>
-  </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 64 L216 64"/>
-    <path d="M40 128 L120 128"/>
-    <path d="M40 192 L104 192"/>
-    <path d="M184 154 L190 143 L199 147 L195 159 A26 26 0 0 1 201 165 L213 161 L217 170 L206 176 A26 26 0 0 1 206 184 L217 190 L213 199 L201 195 A26 26 0 0 1 195 201 L199 213 L190 217 L184 206 A26 26 0 0 1 176 206 L170 217 L161 213 L165 201 A26 26 0 0 1 159 195 L147 199 L143 190 L154 184 A26 26 0 0 1 154 176 L143 170 L147 161 L159 165 A26 26 0 0 1 165 159 L161 147 L170 143 L176 154 A26 26 0 0 1 184 154 Z"/>
+    <path d="M40 128 L216 128"/>
+    <path d="M40 192 L216 192"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M182 161 L194 161 L195 169 L201 173 L208 169 L215 180 L208 184 L208 192 L215 196 L208 207 L201 203 L195 207 L194 215 L182 215 L181 207 L175 203 L168 207 L161 196 L168 192 L168 184 L161 180 L168 169 L175 173 L181 169 Z"/>
   </g>
 </svg>

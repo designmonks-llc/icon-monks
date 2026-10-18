@@ -2,14 +2,17 @@
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124 L144 110 A46 46 0 0 0 98 64 Z"/>
     <rect x="32" y="96" width="80" height="128" rx="14"/>
-    <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124"/>
+    <path d="M184 124 L184 164"/>
+    <path d="M152 164 L216 164"/>
     <rect x="32" y="96" width="80" height="128" rx="14"/>
-    <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M60 128 L84 128"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 162 L196 181 L217 183 L200 196 L206 216 L188 205 L170 216 L176 196 L159 183 L180 181 Z"/>
   </g>
 </svg>

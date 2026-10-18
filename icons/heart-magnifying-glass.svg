@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="heart,search,find">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="heart,search,find">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M124 183 C120.24 185.27 118 186 118 186 C118 186 34 141.25 34 87 A43.75 43.75 0 0 1 118 69 A43.75 43.75 0 0 1 202 87 C202 100.2 197.52 112.37 190 124 A60 60 0 0 0 124 183 Z"/>
     <circle cx="178" cy="178" r="22"/>

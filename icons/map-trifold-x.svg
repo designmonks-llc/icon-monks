@@ -1,14 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="map trifold x,remove,cancel,map,location">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 64 L96 40 L160 64 L224 40 L224 148 A54 54 0 0 0 135 207 L96 192 L32 216 L32 64 Z"/>
+    <path d="M32 64 L96 40 L160 64 L224 40 L224 192 L160 216 L96 192 L32 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M135 207 L96 192 L32 216 L32 64 L96 40 L160 64 L224 40 L224 148"/>
-    <path d="M164 164 L204 204"/>
-    <path d="M204 164 L164 204"/>
+    <path d="M32 64 L96 40 L160 64 L224 40 L224 192 L160 216 L96 192 L32 216 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M96 40 L96 192"/>
-    <path d="M160 64 L160 136"/>
+    <path d="M160 64 L160 216"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 168 L208 208"/>
+    <path d="M208 168 L168 208"/>
   </g>
 </svg>

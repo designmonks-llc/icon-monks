@@ -1,12 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="add group member,invite,group,users,add members">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M136 100 C136 80.12 119.88 64 100 64 C80.12 64 64 80.12 64 100 C64 119.88 80.12 136 100 136 C119.88 136 136 119.88 136 100 Z M142 208 C138.26 200.82 136 192.66 136 184 C136 175.51 138.39 167.08 142 160 C130.79 154.22 116.21 152 100 152 C60 152 32 168 32 208 H142 Z"/>
+    <circle cx="99" cy="101" r="35"/>
+    <path d="M32 206 C32 167.22 59.43 151.55 99 152 C137.8 151.55 165.22 167.22 165 206 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 100 A36 36 0 0 1 136 100 A36 36 0 0 1 64 100 Z"/>
-    <path d="M32 208 C32 168 60 152 100 152 C116.21 152 130.79 154.21 142 160"/>
-    <path d="M152 56 A32 32 0 1 1 168 116"/>
-    <path d="M160 184 L216 184"/>
-    <path d="M188 156 L188 212"/>
+    <circle cx="99" cy="101" r="35"/>
+    <path d="M32 206 C32 167.22 59.43 151.55 99 152 C137.8 151.55 165.22 167.22 165 206"/>
+    <path d="M150 58 A31.35 31.35 0 1 1 165 116"/>
+    <path d="M181 144 C208.33 147.63 224 167.22 224 199"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V216"/>
+    <path d="M160 188 H216"/>
   </g>
 </svg>

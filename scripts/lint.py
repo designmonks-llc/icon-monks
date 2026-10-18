@@ -21,7 +21,7 @@ SRC = os.path.join(ROOT, 'icons')
 BASELINE = os.path.join(ROOT, 'scripts', 'lint-baseline.json')
 NS = '{http://www.w3.org/2000/svg}'
 
-ROLES = ('line', 'detail', 'area', 'hole', 'dot', 'dotcut', 'slash')
+ROLES = ('line', 'detail', 'area', 'hole', 'dot', 'dotcut', 'slash', 'badge')
 CATEGORIES = {
     'Animals', 'Arrows', 'Business', 'Charts', 'Commerce', 'Communication', 'Design', 'Development', 'Devices',
     'Editor', 'Education', 'Emoji', 'Files', 'Food', 'Health', 'Home', 'Interface', 'Letters & Numbers', 'Maps',
@@ -34,6 +34,23 @@ MAX_STROKED = 8         # line + detail elements; more than this turns to mush a
 MAX_SEGMENTS = 40       # straight segments in one curve-free path; more means a curve saved as points
 KEYLINES = {'circle': 192, 'square': 176, 'rect': 192}  # max centreline size of a container shape
 SLASHES = ('M48 48 L208 208', 'M208 48 L48 208')
+# Standard corner badges for <base>-<modifier> icons (STYLE.md rule 11): paths in a 'badge' group, circles of r<=12
+# are solid dots. Every badge sits in the same 56-unit spot around (188, 188).
+BADGES = {
+    'plus': ['M188 160 V216', 'M160 188 H216'],
+    'minus': ['M160 188 H216'],
+    'x': ['M168 168 L208 208', 'M208 168 L168 208'],
+    'check': ['M162 190 L180 208 L214 172'],
+    'warning': ['M188 160 V186', ('circle', 188, 212, 12)],
+    'question': ['M174 170 A14 14 0 1 1 192 183 C189 185 188 187 188 188', ('circle', 188, 212, 12)],
+    'heart': ['M188 214 C174 206 160 194 160 180 A14 14 0 0 1 188 174 A14 14 0 0 1 216 180 C216 194 202 206 188 214 Z'],
+    'star': ['M188 162 L196 181 L217 183 L200 196 L206 216 L188 205 L170 216 L176 196 L159 183 L180 181 Z'],
+    'gear': ['M182 161 L194 161 L195 169 L201 173 L208 169 L215 180 L208 184 L208 192 L215 196 L208 207 L201 203 L195 207 L194 215 L182 215 L181 207 L175 203 L168 207 L161 196 L168 192 L168 184 L161 180 L168 169 L175 173 L181 169 Z'],
+    'magnifying-glass': [('circle', 182, 182, 18), 'M196 196 L214 214'],
+    'arrow-up': ['M188 214 V162', 'M166 184 L188 162 L210 184'],
+    'arrow-down': ['M188 162 V214', 'M166 192 L188 214 L210 192'],
+    'user': [('circle', 188, 172, 14), 'M162 214 A26 26 0 0 1 214 214'],
+}
 NO_BASE_SLASH = {'cell-signal-slash', 'file-eye-slash'}  # partial slash drawn as part of the glyph
 
 RULES = {
@@ -51,6 +68,8 @@ RULES = {
     'extremes': 'a curve bulges past its ends with no anchor at its top, bottom, left or right extreme',
     'tessellated': f'a path is more than {MAX_SEGMENTS} straight segments; draw curves with arcs and cubics',
     'keyline': 'a container is bigger than its keyline: circle 192, square 176, other rectangle 192 on the long side',
+    'badge': 'a <base>-<modifier> icon (plus, minus, x, check, ...) is its base icon unchanged plus the standard '
+             'badge group from BADGES, or is marked data-badge="custom" when the modifier is drawn into the icon',
     'slash': 'a -slash icon is its base icon unchanged plus one slash group with M48 48 L208 208 '
              '(or the mirrored M208 48 L48 208); no other icon has a slash group',
 }
@@ -184,7 +203,7 @@ def container(root):
     """(kind, w, h) of the closed line/area shape that spans the whole icon ('circle' or 'rect'), or None."""
     pts, closed = [], []
     for g in root:
-        if g.get('data-role') == 'slash':
+        if g.get('data-role') in ('slash', 'badge'):
             continue
         for el in g:
             p, _, shut = role_shape(g.get('data-role'), el)
@@ -264,6 +283,32 @@ def bad_slash(path, name, roles):
     return src[:src.index('  <g data-role="slash"')] != ref
 
 
+def badge_of(name, folder):
+    """The modifier of a <base>-<modifier> icon whose base exists, e.g. 'plus' for bell-plus, else None."""
+    for mod in sorted(BADGES, key=len, reverse=True):
+        if name.endswith('-' + mod) and os.path.exists(os.path.join(folder, name[:-len(mod) - 1] + '.svg')):
+            return mod
+    return None
+
+
+def badge_elements(mod):
+    return [('circle', m[1], m[2], m[3]) if isinstance(m, tuple) else ('path', m) for m in BADGES[mod]]
+
+
+def bad_badge(path, name, roles, root):
+    mod = None if name.endswith('-slash') else badge_of(name, os.path.dirname(path))
+    if mod is None or root.get('data-badge') == 'custom':
+        return bool(roles['badge'])
+    els = [('circle', float(e.get('cx')), float(e.get('cy')), float(e.get('r'))) if e.tag == NS + 'circle'
+           else ('path', e.get('d')) for e in roles['badge']]
+    if els != badge_elements(mod):
+        return True
+    body = lambda s: s[s.index('>') + 1:s.rindex('</svg>')]
+    src = body(open(path).read())
+    ref = body(open(os.path.join(os.path.dirname(path), name[:-len(mod) - 1] + '.svg')).read())
+    return src[:src.index('  <g data-role="badge"')] != ref
+
+
 def check(path):
     name = os.path.basename(path)[:-4]
     root = ET.parse(path).getroot()
@@ -274,7 +319,7 @@ def check(path):
             found.add('role')
             continue
         role = el.get('data-role')
-        if role in ('line', 'detail', 'slash') and (el.get('stroke-width') != '16' or el.get('stroke-linecap') != 'round'
+        if role in ('line', 'detail', 'slash', 'badge') and (el.get('stroke-width') != '16' or el.get('stroke-linecap') != 'round'
                                            or el.get('stroke-linejoin') != 'round'):
             found.add('stroke')
         roles[role] += list(el)
@@ -314,6 +359,8 @@ def check(path):
         found.add('keyline')
     if bad_slash(path, name, roles):
         found.add('slash')
+    if bad_badge(path, name, roles, root):
+        found.add('badge')
     return name, sorted(found)
 
 

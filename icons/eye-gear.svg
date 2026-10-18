@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="eye,settings,configure,view,visible">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="eye,settings,configure,view,visible">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M132 179 C130.13 178.73 128.05 178.8 126 179 C97.2 178.8 61.2 164.4 32 114 C61.2 63.6 97.2 49.2 126 49 C154.8 49.2 190.8 63.6 220 114 C216.91 118.71 214.15 123.11 211 127 A60 60 0 0 0 132 179 Z"/>
     <path d="M184 165 L185 154 L199 154 L200 165 A21 21 0 0 1 205 167 L215 163 L222 175 L213 181 A21 21 0 0 1 213 187 L222 193 L215 205 L205 201 A21 21 0 0 1 200 203 L199 214 L185 214 L184 203 A21 21 0 0 1 179 201 L169 205 L162 193 L171 187 A21 21 0 0 1 171 181 L162 175 L169 163 L179 167 A21 21 0 0 1 184 165 Z"/>

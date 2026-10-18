@@ -1,16 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="time settings,schedule settings,history settings,clock,settings">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 131 A66 66 0 0 0 131 224 Z"/>
-    <path d="M177 162 L178 150 L190 150 L191 162 A23 23 0 0 1 199 167 L211 161 L217 172 L206 179 A23 23 0 0 1 206 189 L217 196 L211 207 L199 201 A23 23 0 0 1 191 206 L190 218 L178 218 L177 206 A23 23 0 0 1 169 201 L157 207 L151 196 L162 189 A23 23 0 0 1 162 179 L151 172 L157 161 L169 167 A23 23 0 0 1 177 162 Z"/>
-  </g>
-  <g data-role="hole" fill="none">
-    <circle cx="184" cy="184" r="8"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M131 224 A96 96 0 1 1 224 128 A96 96 0 0 1 224 131"/>
-    <path d="M177 162 L178 150 L190 150 L191 162 A23 23 0 0 1 199 167 L211 161 L217 172 L206 179 A23 23 0 0 1 206 189 L217 196 L211 207 L199 201 A23 23 0 0 1 191 206 L190 218 L178 218 L177 206 A23 23 0 0 1 169 201 L157 207 L151 196 L162 189 A23 23 0 0 1 162 179 L151 172 L157 161 L169 167 A23 23 0 0 1 177 162 Z"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 76 L128 128 L88 128"/>
+    <path d="M128 72 L128 128 L168 152"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M182 161 L194 161 L195 169 L201 173 L208 169 L215 180 L208 184 L208 192 L215 196 L208 207 L201 203 L195 207 L194 215 L182 215 L181 207 L175 203 L168 207 L161 196 L168 192 L168 184 L161 180 L168 169 L175 173 L181 169 Z"/>
   </g>
 </svg>

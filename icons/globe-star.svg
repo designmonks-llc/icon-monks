@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="globe,favorite,starred,featured">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M139 223 C135.47 223.4 131.64 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 131.64 223.4 135.47 223 139 A60 60 0 0 0 139 223 Z"/>
-    <path d="M184 153 L192 175 L215 176 L197 190 L203 213 L184 200 L165 213 L171 190 L153 176 L176 175 Z"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M139 223 C135.47 223.4 131.64 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 131.64 223.4 135.47 223 139"/>
-    <path d="M184 153 L192 175 L215 176 L197 190 L203 213 L184 200 L165 213 L171 190 L153 176 L176 175 Z"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M137 221 C134.06 222.65 131.15 224 128 224 C105.91 224 88 181.02 88 128 C88 74.98 105.91 32 128 32 C149.84 32 167.6 73.83 168 126"/>
-    <path d="M32 128 L162 128"/>
+    <ellipse cx="128" cy="128" rx="40" ry="96"/>
+    <path d="M32 128 L224 128"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 162 L196 181 L217 183 L200 196 L206 216 L188 205 L170 216 L176 196 L159 183 L180 181 Z"/>
   </g>
 </svg>

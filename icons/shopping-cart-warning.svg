@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,warning,alert,error,shopping">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M134 160 L92 160 L73 80 L224 80 L213 118 A66 66 0 0 0 134 160 Z"/>
+    <path d="M73 80 H224 L200 160 H92 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 40 L64 40 L92 160 L134 160"/>
-    <path d="M213 118 L224 80 L73 80"/>
+    <path d="M32 40 L64 40 L92 160 L200 160 L224 80 L73 80"/>
     <circle cx="104" cy="204" r="16"/>
-    <path d="M196 146 L196 188"/>
+    <circle cx="192" cy="204" r="16"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="196" cy="218" r="13"/>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V186"/>
+    <circle cx="188" cy="212" r="12"/>
   </g>
 </svg>

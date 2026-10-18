@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="balloon,love,party,valentine,heart balloon">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="balloon,love,party,valentine,heart balloon">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M128 161 C128 161 55 121.12 55 74 A38 38 0 0 1 128 59 A38 38 0 0 1 201 74 C201 121.12 128 161 128 161 Z"/>
   </g>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="drop,favorite,starred,water,liquid">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="drop,favorite,starred,water,liquid">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M164 128 C153.07 94.13 123.26 57.67 104 32 C80 64 40 112 40 152 A64 64 0 0 0 130 210 A60 60 0 0 1 164 128 Z"/>
     <path d="M184 153 L193 175 L216 176 L198 192 L204 215 L184 202 L164 215 L170 192 L152 176 L175 175 Z"/>

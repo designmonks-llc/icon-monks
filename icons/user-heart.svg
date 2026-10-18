@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="favourite person,friend,care,user,love">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="favourite person,friend,care,user,love">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M144 84 C144 61.91 126.09 44 104 44 C81.91 44 64 61.91 64 84 C64 106.09 81.91 124 104 124 C126.09 124 144 106.09 144 84 Z M130 216 C124.74 206.52 122 195.61 122 184 C122 172.33 124.69 161.51 130 152 C121.86 149.44 113.32 148 104 148 C64 148 32 172 32 216 H130 Z"/>
     <path d="M188 210 C188 210 155 193.08 155 172 A17 17 0 0 1 188 165 A17 17 0 0 1 221 172 C221 193.08 188 210 188 210 Z"/>

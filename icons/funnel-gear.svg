@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="funnel,settings,configure">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="funnel,settings,configure">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
     <path d="M176 165 L177 154 L191 154 L192 165 A21 21 0 0 1 197 167 L207 163 L214 175 L205 181 A21 21 0 0 1 205 187 L214 193 L207 205 L197 201 A21 21 0 0 1 192 203 L191 214 L177 214 L176 203 A21 21 0 0 1 171 201 L161 205 L154 193 L163 187 A21 21 0 0 1 163 181 L154 175 L161 163 L171 167 A21 21 0 0 1 176 165 Z"/>

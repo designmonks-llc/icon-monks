@@ -1,13 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="globe minus,remove,subtract,globe,world">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 134 A96 96 0 1 0 134 224 A64 64 0 0 1 224 134 Z"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 134 A96 96 0 1 0 134 224"/>
-    <path d="M156 184 L212 184"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 224 A40 96 0 0 1 128 32 A40 96 0 0 1 168 121"/>
-    <path d="M32 128 L153 128"/>
+    <ellipse cx="128" cy="128" rx="40" ry="96"/>
+    <path d="M32 128 L224 128"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 188 H216"/>
   </g>
 </svg>

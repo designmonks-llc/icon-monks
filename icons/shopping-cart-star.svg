@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="shopping cart,favorite,starred,featured,shopping">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M132 159 L91 159 L72 81 L220 81 L207 124 A64.57 64.57 0 0 0 132 159 Z"/>
-    <path d="M191 154 L200 177 L224 179 L206 195 L211 218 L191 205 L170 218 L176 195 L157 179 L181 177 Z"/>
+    <path d="M73 80 H224 L200 160 H92 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 42 L63 42 L91 159 L132 159"/>
-    <path d="M207 124 L220 81 L72 81"/>
-    <circle cx="103" cy="202" r="16"/>
-    <path d="M191 154 L200 177 L224 179 L206 195 L211 218 L191 205 L170 218 L176 195 L157 179 L181 177 Z"/>
+    <path d="M32 40 L64 40 L92 160 L200 160 L224 80 L73 80"/>
+    <circle cx="104" cy="204" r="16"/>
+    <circle cx="192" cy="204" r="16"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 162 L196 181 L217 183 L200 196 L206 216 L188 205 L170 216 L176 196 L159 183 L180 181 Z"/>
   </g>
 </svg>

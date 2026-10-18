@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="terminal,remove,console,minus">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="terminal,remove,console,minus">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M224 145 V62 A14 14 0 0 0 210 48 H46 A14 14 0 0 0 32 62 V194 A14 14 0 0 0 46 208 H133 A56 56 0 0 1 224 145 Z"/>
   </g>

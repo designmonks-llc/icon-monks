@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="bell,decrease,download,notification,alert">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="bell,decrease,download,notification,alert">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M128 184 L48 184 C64 168 72 144 72 112 A56 56 0 0 1 184 112 C184 117.58 184.51 122.91 185 128 A56 56 0 0 0 128 184 Z"/>
   </g>

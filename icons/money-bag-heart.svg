@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money bag,favorite,like,love,money">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="money bag,favorite,like,love,money">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M198 134 A72 72 0 0 0 152 84 L176 40 L80 40 L104 84 A72 72 0 0 0 140 223 A62 62 0 0 1 198 134 Z"/>
     <path d="M196 222 L174 198 A15 15 0 0 1 196 178 A15 15 0 0 1 218 198 Z"/>

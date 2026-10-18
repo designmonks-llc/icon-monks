@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="chat,settings,configure,message,conversation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 133 A60 60 0 0 0 126 200 Z"/>
-    <path d="M178 165 L179 153 L189 153 L190 165 A20 20 0 0 1 197 169 L208 164 L213 174 L204 180 A20 20 0 0 1 204 188 L213 194 L208 204 L197 199 A20 20 0 0 1 190 203 L189 215 L179 215 L178 203 A20 20 0 0 1 171 199 L160 204 L155 194 L164 188 A20 20 0 0 1 164 180 L155 174 L160 164 L171 169 A20 20 0 0 1 178 165 Z"/>
-  </g>
-  <g data-role="hole" fill="none">
-    <circle cx="184" cy="184" r="7"/>
+    <path d="M80 200 L40 224 V72 A16 16 0 0 1 56 56 H200 A16 16 0 0 1 216 72 V184 A16 16 0 0 1 200 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126 200 L80 200 L40 224 L40 72 A16 16 0 0 1 56 56 L200 56 A16 16 0 0 1 216 72 L216 133"/>
-    <path d="M178 165 L179 153 L189 153 L190 165 A20 20 0 0 1 197 169 L208 164 L213 174 L204 180 A20 20 0 0 1 204 188 L213 194 L208 204 L197 199 A20 20 0 0 1 190 203 L189 215 L179 215 L178 203 A20 20 0 0 1 171 199 L160 204 L155 194 L164 188 A20 20 0 0 1 164 180 L155 174 L160 164 L171 169 A20 20 0 0 1 178 165 Z"/>
+    <path d="M80 200 L40 224 V72 A16 16 0 0 1 56 56 H200 A16 16 0 0 1 216 72 V184 A16 16 0 0 1 200 200 Z"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M182 161 L194 161 L195 169 L201 173 L208 169 L215 180 L208 184 L208 192 L215 196 L208 207 L201 203 L195 207 L194 215 L182 215 L181 207 L175 203 L168 207 L161 196 L168 192 L168 184 L161 180 L168 169 L175 173 L181 169 Z"/>
   </g>
 </svg>

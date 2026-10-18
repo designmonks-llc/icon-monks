@@ -4,9 +4,9 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 40 L208 112 L136 136 L112 208 Z"/>
-    <path d="M188 154 L188 186"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="188" cy="214" r="16"/>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V186"/>
+    <circle cx="188" cy="212" r="12"/>
   </g>
 </svg>

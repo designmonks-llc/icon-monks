@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="place review,rated place,favourite,pin">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="place review,rated place,favourite,pin">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M130 210 C121.73 218.62 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 110.6 186.76 117.3 185 124 A60 60 0 0 0 130 210 Z"/>
     <path d="M184 153 L192 175 L215 176 L197 190 L203 213 L184 200 L165 213 L171 190 L153 176 L176 175 Z"/>

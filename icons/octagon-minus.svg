@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="octagon,remove,subtract">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="octagon,remove,subtract">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M224 113 L224 88 L168 32 L88 32 L32 88 L32 168 L88 224 L113 224 A80 80 0 0 1 224 113 Z"/>
     <circle cx="180" cy="180" r="44"/>

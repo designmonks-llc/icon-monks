@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="add time,extend,more time,clock,add">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="add time,extend,more time,clock,add">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M139 223 A96 96 0 1 1 224 128 A96 96 0 0 1 223 139 A60 60 0 0 0 139 223 Z"/>
   </g>

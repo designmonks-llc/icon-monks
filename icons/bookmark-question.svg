@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="bookmark,help,unknown,save,mark">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M126 185 L64 224 L64 32 L192 32 L192 127 A58 58 0 0 0 126 185 Z"/>
+    <path d="M64 32 H192 V224 L128 184 L64 224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M126 185 L64 224 L64 32 L192 32 L192 127"/>
-    <path d="M166 164 A18 18 0 1 1 190 181 C185 184 184 187 184 192"/>
+    <path d="M64 32 H192 V224 L128 184 L64 224 Z"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="184" cy="216" r="14"/>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174 170 A14 14 0 1 1 192 183 C189 185 188 187 188 188"/>
+    <circle cx="188" cy="212" r="12"/>
   </g>
 </svg>

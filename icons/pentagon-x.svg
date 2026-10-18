@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="pentagon,remove,delete,cancel">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M143 219 L69 219 L33 107 L128 38 L223 107 L213 138 A54 54 0 0 0 143 219 Z"/>
+    <path d="M128 38 L223 107 L187 219 L69 219 L33 107 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M143 219 L69 219 L33 107 L128 38 L223 107 L213 138"/>
-    <path d="M164 164 L204 204"/>
-    <path d="M204 164 L164 204"/>
+    <path d="M128 38 L223 107 L187 219 L69 219 L33 107 Z"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 168 L208 208"/>
+    <path d="M208 168 L168 208"/>
   </g>
 </svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="admin,user settings,account settings,manage,manage account">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="admin,user settings,account settings,manage,manage account">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M144 84 C144 61.91 126.09 44 104 44 C81.91 44 64 61.91 64 84 C64 106.09 81.91 124 104 124 C126.09 124 144 106.09 144 84 Z M137 216 C131.15 206.74 128 195.76 128 184 C128 173.03 130.86 162.85 136 154 C126.36 150.09 115.55 148 104 148 C64 148 32 172 32 216 H137 Z"/>
     <path d="M182 165 L183 153 L193 153 L194 165 A20 20 0 0 1 201 169 L212 164 L217 174 L208 180 A20 20 0 0 1 208 188 L217 194 L212 204 L201 199 A20 20 0 0 1 194 203 L193 215 L183 215 L182 203 A20 20 0 0 1 175 199 L164 204 L159 194 L168 188 A20 20 0 0 1 168 180 L159 174 L164 164 L175 169 A20 20 0 0 1 182 165 Z"/>

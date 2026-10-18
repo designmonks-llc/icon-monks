@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="smiley,remove,delete,cancel">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="smiley,remove,delete,cancel">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M139 223 A96 96 0 0 1 60 60 A96 96 0 0 1 223 139 A60 60 0 0 0 139 223 Z"/>
   </g>

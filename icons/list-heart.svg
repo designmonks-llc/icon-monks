@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="favorites list,wishlist,liked">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="favorites list,wishlist,liked">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M183 200 C183 200 143 178.04 143 152 A21 21 0 0 1 183 144 A21 21 0 0 1 223 152 C223 178.04 183 200 183 200 Z"/>
   </g>

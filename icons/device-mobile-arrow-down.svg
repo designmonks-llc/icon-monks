@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="mobile download,phone,download,app,download to phone">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="mobile download,phone,download,app,download to phone">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="72" y="32" width="112" height="192" rx="20"/>
   </g>

@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="bookmark,remove,minus,unsave,remove bookmark">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M124 186 L64 224 L64 32 L192 32 L192 125 A60 60 0 0 0 124 186 Z"/>
+    <path d="M64 32 H192 V224 L128 184 L64 224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124 186 L64 224 L64 32 L192 32 L192 125"/>
-    <path d="M158 184 L210 184"/>
+    <path d="M64 32 H192 V224 L128 184 L64 224 Z"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 188 H216"/>
   </g>
 </svg>

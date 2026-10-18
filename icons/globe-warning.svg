@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="globe,warning,alert,error">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M141 223 C136.69 223.6 132.47 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 132.47 223.6 136.69 223 141 A58 58 0 0 0 141 223 Z"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M141 223 C136.69 223.6 132.47 224 128 224 C74.98 224 32 181.02 32 128 C32 74.98 74.98 32 128 32 C181.02 32 224 74.98 224 128 C224 132.47 223.6 136.69 223 141"/>
-    <path d="M184 150 L184 182"/>
+    <circle cx="128" cy="128" r="96"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M139 220 C135.55 222.33 131.76 224 128 224 C105.91 224 88 181.02 88 128 C88 74.98 105.91 32 128 32 C150.09 32 168 74.98 168 128 L168 128"/>
-    <path d="M32 128 L169 128"/>
+    <ellipse cx="128" cy="128" rx="40" ry="96"/>
+    <path d="M32 128 L224 128"/>
   </g>
-  <g data-role="dot" fill="currentColor">
-    <circle cx="184" cy="210" r="16"/>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V186"/>
+    <circle cx="188" cy="212" r="12"/>
   </g>
 </svg>

@@ -27,6 +27,10 @@ STROKES = {'thin': 8, 'light': 12, 'regular': 16, 'bold': 24}
 WEIGHTS = ['thin', 'light', 'regular', 'bold', 'fill', 'duotone']
 DUOTONE_OPACITY = 0.2
 SLASH_GAP = 16  # clear space between a slash and the icon it crosses, in every weight
+BADGE_GAP = 16  # clear space between a corner badge (a plus, a check, a heart) and the icon it sits on
+BADGE_DOT = 12  # circles in a badge up to this radius are solid dots (the point of a ! or ?)
+BADGE_CENTRE = (188, 188)  # every badge mark is drawn around this point (lint.BADGES)
+BADGE_ZONE = (120, 120, 256, 256)  # the badge's corner: base pieces the cut leaves wholly in here are dropped
 NS = '{http://www.w3.org/2000/svg}'
 
 
@@ -320,12 +324,16 @@ def to_d(p):
 
 def load(path):
     root = ET.parse(path).getroot()
-    roles = {k: [] for k in ('line', 'detail', 'area', 'hole', 'dot', 'dotcut', 'slash')}
+    roles = {k: [] for k in ('line', 'detail', 'area', 'hole', 'dot', 'dotcut', 'slash', 'badge', 'badgedot',
+                             'badgefill')}
     for g in root.iter(NS + 'g'):
         role = g.get('data-role')
         for el in g:
-            if role in ('dot', 'dotcut'):
-                roles[role].append((num(el, 'cx'), num(el, 'cy'), num(el, 'r')))
+            if role in ('dot', 'dotcut') or (role == 'badge' and el.tag == NS + 'circle' and num(el, 'r') <= BADGE_DOT):
+                roles['badgedot' if role == 'badge' else role].append((num(el, 'cx'), num(el, 'cy'), num(el, 'r')))
+            elif role == 'badge' and el.tag == NS + 'path' and el.get('d').rstrip().endswith(('Z', 'z')):
+                roles['badge'].append(element_d(el))
+                roles['badgefill'].append(element_d(el))  # closed outlines (a heart, a star) are solid in fill
             else:
                 roles[role].append(element_d(el))
     tags = [t for t in root.get('data-tags', '').split(',') if t]
@@ -438,6 +446,43 @@ def clip_near(d, a, b, dist):
     return out
 
 
+def _grow(p, by):
+    """p grown outward by `by` units: its outline stroked at twice that, merged with p."""
+    if p is None:
+        return None
+    edge = pathops.Path()
+    edge.addPath(p)
+    edge.stroke(2 * by, pathops.LineCap.ROUND_CAP, pathops.LineJoin.ROUND_JOIN, 4)
+    return union(p, clean(edge))
+
+
+def _drop_slivers(p, cut, w, zone):
+    """p without the pieces the badge cut leaves behind: pieces touching the cut that are too small to read (under
+    about two stroke widths long), and pieces lying wholly inside the badge's zone (x0, y0, x1, y1), such as the
+    rest of a square the badge replaces. Pieces away from the badge are kept however small."""
+    if p is None:
+        return p
+    keep = pathops.Path()
+    shapes = fix_winding(p)
+    for c in shapes.contours:
+        piece = pathops.Path()
+        piece.addPath(c)
+        if c.clockwise:
+            x0, y0, x1, y1 = piece.bounds
+            inside = x0 >= zone[0] and y0 >= zone[1] and x1 <= zone[2] and y1 <= zone[3]
+            if inside:
+                continue
+            if abs(piece.area) < 2.2 * w * w:
+                try:
+                    touches = abs(pathops.op(piece, cut, pathops.PathOp.INTERSECTION).area) > 0.01
+                except pathops.PathOpsError:
+                    touches = False
+                if touches:
+                    continue
+        keep.addPath(c)
+    return fix_winding(keep)
+
+
 def _slash_line(roles):
     nums = [float(v) for v in re.findall(r'-?[\d.]+', roles['slash'][0])]
     return (nums[0], nums[1]), (nums[2], nums[3])
@@ -445,7 +490,8 @@ def _slash_line(roles):
 
 def outline(roles):
     """All six weights. A slash (role 'slash', one straight line) is drawn on top of the icon, and everything
-    else keeps SLASH_GAP of clear space from it: strokes are trimmed with round ends, filled shapes are cut."""
+    else keeps SLASH_GAP of clear space from it: strokes are trimmed with round ends, filled shapes are cut.
+    A badge (role 'badge', a standard mark in the corner) works the same way with BADGE_GAP."""
     out = {}
     slash = roles['slash']
     sa, sb = _slash_line(roles) if slash else (None, None)
@@ -456,9 +502,25 @@ def outline(roles):
         return [p for d in ds for p in clip_near(d, sa, sb, w + SLASH_GAP)]
 
     def clear(shape, w):  # filled shapes (areas, dots): cut a band around the slash, then draw the slash
+        if roles['badge'] or roles['badgedot']:
+            shape = badge(shape, w)
+        w = 16 if w == 'fill' else w
         if not slash:
             return shape
         return union(difference(shape, stroke(slash, w + 2 * SLASH_GAP)), stroke(slash, w))
+
+    def badge(shape, w):  # cut BADGE_GAP of clear space around the badge, drop the slivers that leaves, draw it
+        solid = w == 'fill'  # the fill weight fills closed marks (a heart, a star) as well as stroking them
+        w = 16 if solid else w
+        mark = union(stroke(roles['badge'], w), dots(roles['badgedot'], w),
+                     filled(roles['badgefill']) if solid and roles['badgefill'] else None)
+        # One round clearing for every badge, so every variant gets the same corner: the mark's reach (28) plus
+        # half a stroke plus BADGE_GAP. Following the mark's own outline instead bites thin crescents out of
+        # nearby edges.
+        cx, cy = BADGE_CENTRE
+        r = 28 + w / 2 + BADGE_GAP
+        room = to_path([f'M{cx - r} {cy} A{r} {r} 0 1 1 {cx + r} {cy} A{r} {r} 0 1 1 {cx - r} {cy} Z'])
+        return union(_drop_slivers(difference(shape, room), _grow(room, 1), w, BADGE_ZONE), mark)
 
     for weight, w in STROKES.items():
         out[weight] = to_d(clear(union(stroke(cut(roles['line'] + roles['detail'], w), w),
@@ -467,12 +529,16 @@ def outline(roles):
         base = union(filled(roles['area']), stroke(cut(roles['line'], 16), 16), dots(roles['dot'], 16))
         cuts = [stroke(cut(roles['detail'], 16), 16) if roles['detail'] else None, filled(roles['hole']),
                 dots(roles['dotcut'], 16)]
-        out['fill'] = to_d(clear(difference(base, *cuts), 16))
+        out['fill'] = to_d(clear(difference(base, *cuts), 'fill'))
     else:
         out['fill'] = out['regular']
     area = filled(roles['area'])
     if area is not None and slash:
         area = difference(area, stroke(slash, 16 + 2 * SLASH_GAP))
+    if area is not None and (roles['badge'] or roles['badgedot']):
+        cx, cy = BADGE_CENTRE
+        r = 28 + 8 + BADGE_GAP
+        area = difference(area, to_path([f'M{cx - r} {cy} A{r} {r} 0 1 1 {cx + r} {cy} A{r} {r} 0 1 1 {cx - r} {cy} Z']))
     out['duotone'] = [to_d(area) if area is not None else '', out['regular']]
     return out
 

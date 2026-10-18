@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="restore,undelete,recover,trash">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="restore,undelete,recover,trash">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M64 64 L72 208 A16 16 0 0 0 88 224 H168 A16 16 0 0 0 184 208 L192 64 Z"/>
   </g>

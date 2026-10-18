@@ -54,6 +54,13 @@ Icon Monks uses the same construction as Phosphor, so the two sets sit together 
 10. **No text glyphs** inside icons (like "CI" in a triangle) except in Letters & Numbers and the file-type
    family (`file-jpg`, `file-html` and so on), where the label is the point of the icon. Text doesn't scale
    across weights.
+11. **Variants are the base icon plus a standard badge** **[lint `badge`]**. `<base>-<modifier>` (plus, minus, x,
+   check, warning, question, heart, star, gear, magnifying-glass, arrow-up, arrow-down, user) repeats
+   `<base>` unchanged and adds one `badge` group holding the standard mark from `BADGES` in `scripts/lint.py`, all
+   drawn around (188, 188). The build clears a round corner (radius 52) around it in every weight and drops base
+   pieces left inside that corner. When the modifier is drawn into the icon instead (a lock inside a file, an arrow
+   inside a cloud, a hand holding a heart), mark the variant `data-badge="custom"`. `scripts/batches/200_badges.py`
+   rebuilds every badge variant from its base.
 
 ## Adding icons
 

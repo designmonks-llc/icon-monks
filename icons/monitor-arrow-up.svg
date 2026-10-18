@@ -1,12 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="share screen,cast,upload,monitor,increase">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M129 176 L46 176 A14 14 0 0 1 32 162 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 140 A60 60 0 0 0 129 176 Z"/>
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M129 176 L46 176 A14 14 0 0 1 32 162 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 140"/>
+    <rect x="32" y="48" width="192" height="128" rx="14"/>
     <path d="M128 176 L128 208"/>
-    <path d="M88 208 L131 208"/>
-    <path d="M188 218 L188 160"/>
-    <path d="M164 184 L188 160 L212 184"/>
+    <path d="M88 208 L168 208"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 214 V162"/>
+    <path d="M166 184 L188 162 L210 184"/>
   </g>
 </svg>

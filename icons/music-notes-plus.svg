@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="add songs,add to playlist,new track,music,plus">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="add songs,add to playlist,new track,music,plus">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="64" cy="158" r="22"/>
     <circle cx="147" cy="139" r="22"/>

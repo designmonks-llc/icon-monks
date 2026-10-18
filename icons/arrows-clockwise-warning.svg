@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="sync error,refresh,failed,exclamation,refresh failed">
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="sync error,refresh,failed,exclamation,refresh failed">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M51 107 A80 80 0 0 1 185 71"/>
     <path d="M205 149 A80 80 0 0 1 71 185"/>
