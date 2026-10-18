@@ -7,16 +7,11 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M84 216 L100 112 L156 112 L172 216"/>
     <path d="M48 216 L208 216"/>
-    <path d="M84 112 L172 112"/>
     <path d="M108 112 L108 76 L148 76 L148 112"/>
     <path d="M100 76 H156 A28 28 0 0 0 100 76 Z"/>
-    <path d="M72 68 L40 56"/>
-    <path d="M72 100 L40 112"/>
-    <path d="M184 68 L216 56"/>
-    <path d="M184 100 L216 112"/>
-  </g>
-  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M95 152 L161 152"/>
-    <path d="M90 184 L166 184"/>
+    <path d="M76 72 L40 56"/>
+    <path d="M76 104 L40 120"/>
+    <path d="M180 72 L216 56"/>
+    <path d="M180 104 L216 120"/>
   </g>
 </svg>

@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="car lifter,car,vehicle,auto,lifter">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M70 91 H186 C192.36 91 197 95.64 197 102 V131 C197 137.36 192.36 143 186 143 H70 C63.64 143 59 137.36 59 131 V102 C59 95.64 63.64 91 70 91 Z"/>
+    <path d="M72 88 L92 48 H164 L184 88 Z"/>
+    <rect x="48" y="88" width="160" height="40" rx="16"/>
+    <rect x="60" y="128" width="40" height="40"/>
+    <rect x="156" y="128" width="40" height="40"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M70 91 H186 C192.36 91 197 95.64 197 102 V131 C197 137.36 192.36 143 186 143 H70 C63.64 143 59 137.36 59 131 V102 C59 95.64 63.64 91 70 91 Z"/>
-    <path d="M76 91 L93 51 H163 L180 91"/>
-    <path d="M76 143 V154 C76 157.18 78.82 160 82 160 H93 C96.18 160 99 157.18 99 154 V143"/>
-    <path d="M157 143 V154 C157 157.18 159.82 160 163 160 H174 C177.18 160 180 157.18 180 154 V143"/>
-    <path d="M40 168 L216 168"/>
+    <rect x="48" y="88" width="160" height="40" rx="16"/>
+    <path d="M72 88 L92 48 H164 L184 88"/>
+    <path d="M60 128 V168 H100 V128"/>
+    <path d="M156 128 V168 H196 V128"/>
+    <path d="M40 168 H216"/>
     <path d="M88 168 L168 216"/>
     <path d="M168 168 L88 216"/>
-    <path d="M64 216 L192 216"/>
-  </g>
-  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M116 120 H140"/>
+    <path d="M64 216 H192"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="88" cy="117" r="12"/>
-    <circle cx="168" cy="117" r="12"/>
+    <circle cx="80" cy="108" r="14"/>
+    <circle cx="176" cy="108" r="14"/>
   </g>
 </svg>

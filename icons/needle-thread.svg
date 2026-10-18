@@ -5,15 +5,9 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 48 L144 48"/>
     <path d="M32 208 L144 208"/>
-    <path d="M56 48 V208"/>
-    <path d="M120 48 V208"/>
+    <rect x="56" y="48" width="64" height="160"/>
     <path d="M120 168 C160 168 176 120 196 84"/>
     <path d="M215 79 L220 56 A14 14 0 0 0 193 49 L188 72 A14 14 0 0 0 215 79 Z"/>
     <path d="M198 89 L188 216"/>
-  </g>
-  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M80 96 L96 96"/>
-    <path d="M80 128 L96 128"/>
-    <path d="M80 160 L96 160"/>
   </g>
 </svg>

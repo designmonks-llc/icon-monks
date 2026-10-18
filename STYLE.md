@@ -51,7 +51,8 @@ Icon Monks uses the same construction as Phosphor, so the two sets sit together 
    **[lint `extremes`]** A curve that bulges more than a unit past its ends needs an anchor at that extreme
    (its leftmost, rightmost, top or bottom point). `scripts/batches/198_extremes.py` adds them without changing the
    shape.
-10. **No text glyphs** inside icons (like "CI" in a triangle) except in Letters & Numbers. Text doesn't scale
+10. **No text glyphs** inside icons (like "CI" in a triangle) except in Letters & Numbers and the file-type
+   family (`file-jpg`, `file-html` and so on), where the label is the point of the icon. Text doesn't scale
    across weights.
 
 ## Adding icons

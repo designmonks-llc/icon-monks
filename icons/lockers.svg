@@ -1,21 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="lockers,gym,storage">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="40" y="40" width="176" height="176" rx="13"/>
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="40" width="176" height="176" rx="13"/>
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M99 40 L99 216"/>
     <path d="M157 40 L157 216"/>
-    <path d="M62 69 L77 69"/>
-    <path d="M62 102 L77 102"/>
-    <path d="M77 143 L77 165"/>
-    <path d="M121 69 L135 69"/>
-    <path d="M121 102 L135 102"/>
-    <path d="M135 143 L135 165"/>
-    <path d="M179 69 L194 69"/>
-    <path d="M179 102 L194 102"/>
-    <path d="M194 143 L194 165"/>
+    <path d="M62 72 L77 72"/>
+    <path d="M121 72 L135 72"/>
+    <path d="M179 72 L194 72"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="70" cy="144" r="14"/>
+    <circle cx="128" cy="144" r="14"/>
+    <circle cx="186" cy="144" r="14"/>
   </g>
 </svg>

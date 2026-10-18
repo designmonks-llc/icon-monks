@@ -1,24 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="video call,meeting,conference,webinar,people">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="160" rx="14"/>
+    <rect x="32" y="40" width="192" height="144" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="160" rx="14"/>
-    <path d="M128 192 L128 216"/>
-    <path d="M92 216 L164 216"/>
+    <rect x="32" y="40" width="192" height="144" rx="16"/>
+    <path d="M128 184 L128 208"/>
+    <path d="M88 208 L168 208"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 48 L128 176"/>
-    <path d="M48 112 L208 112"/>
-    <path d="M60 112 A20 20 0 0 1 100 112"/>
-    <path d="M60 192 A20 20 0 0 1 100 192"/>
-    <path d="M156 112 A20 20 0 0 1 196 112"/>
-    <path d="M156 192 A20 20 0 0 1 196 192"/>
-  </g>
-  <g data-role="dotcut" fill="currentColor">
-    <circle cx="80" cy="64" r="13"/>
-    <circle cx="80" cy="136" r="13"/>
-    <circle cx="176" cy="64" r="13"/>
-    <circle cx="176" cy="136" r="13"/>
+    <path d="M128 40 L128 184"/>
+    <circle cx="80" cy="104" r="20"/>
+    <circle cx="176" cy="104" r="20"/>
+    <path d="M56 184 A24 24 0 0 1 104 184"/>
+    <path d="M152 184 A24 24 0 0 1 200 184"/>
   </g>
 </svg>

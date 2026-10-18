@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="pagoda,temple,asia,landmark">
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="pagoda,temple,asia,landmark">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M72 66 C77.49 67.96 82.66 69 87 69 C97.41 69 104.24 63.29 108 52 H148 C151.76 63.29 158.59 69 169 69 C173.34 69 178.51 67.96 184 66 Z"/>
     <path d="M52 120 C57.49 121.96 62.66 123 67 123 C77.41 123 84.24 117.29 88 106 H168 C171.76 117.29 178.59 123 189 123 C193.34 123 198.51 121.96 204 120 Z"/>

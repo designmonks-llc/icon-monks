@@ -7,12 +7,14 @@
     <path d="M163 163 L216 216"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="112" cy="112" r="22"/>
-    <path d="M112 90 L112 70"/>
-    <path d="M131 101 L148 91"/>
-    <path d="M131 123 L148 133"/>
-    <path d="M112 134 L112 154"/>
-    <path d="M93 123 L76 133"/>
-    <path d="M93 101 L76 91"/>
+    <circle cx="112" cy="112" r="24"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="112" cy="66" r="14"/>
+    <circle cx="152" cy="89" r="14"/>
+    <circle cx="152" cy="135" r="14"/>
+    <circle cx="112" cy="158" r="14"/>
+    <circle cx="72" cy="135" r="14"/>
+    <circle cx="72" cy="89" r="14"/>
   </g>
 </svg>

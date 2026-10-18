@@ -5,13 +5,11 @@
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M104 124 L202 124 A8 8 0 0 1 210 130 L221 174 A8 8 0 0 1 214 184 L75 184 A8 8 0 0 1 68 172 L98 128 A8 8 0 0 1 104 124 Z"/>
-    <path d="M142 184 L142 216"/>
-    <path d="M108 216 L176 216"/>
+    <path d="M116 216 L144 184 L172 216"/>
     <circle cx="76" cy="76" r="20"/>
-    <path d="M42 76 L32 76"/>
-    <path d="M59 47 L54 38"/>
-    <path d="M93 47 L98 38"/>
-    <path d="M110 76 L120 76"/>
+    <path d="M32 76 L44 76"/>
+    <path d="M76 32 L76 44"/>
+    <path d="M45 45 L53 53"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M136 124 L115 184"/>

@@ -1,22 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="crab,seafood,sea,crustacean">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M192 152 A64 40 0 1 1 64 152 A64 40 0 1 1 192 152 Z"/>
-    <path d="M64 76 L89 63 A28 28 0 1 1 63 48 Z"/>
-    <path d="M192 76 L193 48 A28 28 0 1 1 167 63 Z"/>
+    <ellipse cx="128" cy="152" rx="64" ry="40"/>
+    <path d="M86 88 A28 28 0 1 1 70 36 L76 57 L97 52 A28 28 0 0 1 86 88 Z"/>
+    <path d="M170 88 A28 28 0 1 0 186 36 L180 57 L159 52 A28 28 0 0 0 170 88 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M192 152 A64 40 0 1 1 64 152 A64 40 0 1 1 192 152 Z"/>
-    <path d="M64 76 L89 63 A28 28 0 1 1 63 48 Z"/>
-    <path d="M192 76 L193 48 A28 28 0 1 1 167 63 Z"/>
-    <path d="M80 100 L98 118"/>
-    <path d="M176 100 L158 118"/>
+    <ellipse cx="128" cy="152" rx="64" ry="40"/>
+    <path d="M100 116 L86 88 A28 28 0 1 1 70 36 L76 57 L97 52 A28 28 0 0 1 86 88"/>
+    <path d="M156 116 L170 88 A28 28 0 1 0 186 36 L180 57 L159 52 A28 28 0 0 0 170 88"/>
     <path d="M68 164 L36 184"/>
     <path d="M92 186 L68 216"/>
     <path d="M188 164 L220 184"/>
     <path d="M164 186 L188 216"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="108" cy="144" r="12"/>
-    <circle cx="148" cy="144" r="12"/>
+    <circle cx="108" cy="144" r="14"/>
+    <circle cx="148" cy="144" r="14"/>
   </g>
 </svg>

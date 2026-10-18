@@ -1,23 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="wall,bricks,construction,firewall,masonry">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="48" width="192" height="160" rx="12"/>
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="48" width="192" height="160" rx="12"/>
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 88 L224 88"/>
-    <path d="M32 128 L224 128"/>
-    <path d="M32 168 L224 168"/>
-    <path d="M96 48 L96 88"/>
-    <path d="M160 48 L160 88"/>
-    <path d="M64 88 L64 128"/>
-    <path d="M128 88 L128 128"/>
-    <path d="M192 88 L192 128"/>
-    <path d="M96 128 L96 168"/>
-    <path d="M160 128 L160 168"/>
-    <path d="M64 168 L64 208"/>
-    <path d="M128 168 L128 208"/>
-    <path d="M192 168 L192 208"/>
+    <path d="M40 100 L216 100"/>
+    <path d="M40 156 L216 156"/>
+    <path d="M128 40 L128 100"/>
+    <path d="M84 100 L84 156"/>
+    <path d="M172 100 L172 156"/>
+    <path d="M128 156 L128 216"/>
   </g>
 </svg>

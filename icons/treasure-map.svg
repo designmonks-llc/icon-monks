@@ -11,10 +11,9 @@
     <path d="M200 64 L200 192"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 164 L92 164"/>
-    <path d="M117 158 L123 153"/>
-    <path d="M132 129 L132 124"/>
-    <path d="M146 90 L172 116"/>
-    <path d="M172 90 L146 116"/>
+    <path d="M80 168 L92 168"/>
+    <path d="M116 156 L126 146"/>
+    <path d="M144 88 L176 120"/>
+    <path d="M176 88 L144 120"/>
   </g>
 </svg>

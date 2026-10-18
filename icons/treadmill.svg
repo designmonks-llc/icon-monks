@@ -1,17 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="treadmill,running machine,gym,cardio,running">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="32" y="176" width="176" height="36" rx="18"/>
-    <circle cx="104" cy="52" r="18"/>
+    <circle cx="124" cy="48" r="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="32" y="176" width="176" height="36" rx="18"/>
-    <path d="M180 176 L200 72"/>
-    <path d="M196 92 L160 100"/>
-    <circle cx="104" cy="52" r="18"/>
-    <path d="M100 82 L92 122"/>
-    <path d="M92 122 L120 140 L116 160"/>
-    <path d="M92 122 L76 144 L52 148"/>
-    <path d="M98 90 L124 104 L140 96"/>
-    <path d="M98 90 L76 100 L64 116"/>
+    <path d="M164 84 L200 76 L180 176"/>
+    <circle cx="124" cy="48" r="16"/>
+    <path d="M104 84 L88 120 L116 136 L112 164"/>
+    <path d="M88 120 L76 148 L48 152"/>
+    <path d="M64 112 L80 92 L104 88 L124 108 L140 100"/>
   </g>
 </svg>

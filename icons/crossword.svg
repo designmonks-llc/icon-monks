@@ -1,4 +1,4 @@
-<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="crossword,puzzle,word game,grid">
+<svg data-fill="outline" data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="crossword,puzzle,word game,grid">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="40" y="40" width="176" height="176" rx="13"/>
     <path d="M84 40 L84 216"/>

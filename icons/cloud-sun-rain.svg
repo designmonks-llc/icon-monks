@@ -6,12 +6,11 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M118 160 L185 160 A30.8 30.8 0 0 0 193 99 A42 42 0 0 0 109 105 A28 28 0 0 0 118 160 Z"/>
     <path d="M91 123 A28 28 0 0 1 98 68 A28 28 0 0 1 120 79"/>
-    <path d="M65 129 L54 140"/>
     <path d="M52 96 L36 96"/>
     <path d="M65 63 L54 52"/>
     <path d="M98 50 L98 34"/>
-    <path d="M128 188 L116 216"/>
-    <path d="M164 188 L152 216"/>
-    <path d="M200 188 L188 216"/>
+    <path d="M132 192 L120 220"/>
+    <path d="M172 192 L160 220"/>
+    <path d="M212 192 L200 220"/>
   </g>
 </svg>

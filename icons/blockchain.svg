@@ -1,23 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="blockchain,chain,ledger,crypto">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 32 L163 52 L163 92 L128 112 L93 92 L93 52 Z"/>
-    <path d="M68 140 L103 160 L103 200 L68 220 L33 200 L33 160 Z"/>
-    <path d="M188 140 L223 160 L223 200 L188 220 L153 200 L153 160 Z"/>
+    <path d="M128 32 L166 54 L166 98 L128 120 L90 98 L90 54 Z"/>
+    <path d="M70 136 L108 158 L108 202 L70 224 L32 202 L32 158 Z"/>
+    <path d="M186 136 L224 158 L224 202 L186 224 L148 202 L148 158 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 32 L163 52 L163 92 L128 112 L93 92 L93 52 Z"/>
-    <path d="M68 140 L103 160 L103 200 L68 220 L33 200 L33 160 Z"/>
-    <path d="M188 140 L223 160 L223 200 L188 220 L153 200 L153 160 Z"/>
-    <path d="M104 115 L92 137"/>
-    <path d="M152 115 L164 137"/>
-    <path d="M117 180 L139 180"/>
+    <path d="M128 32 L166 54 L166 98 L128 120 L90 98 L90 54 Z"/>
+    <path d="M70 136 L108 158 L108 202 L70 224 L32 202 L32 158 Z"/>
+    <path d="M186 136 L224 158 L224 202 L186 224 L148 202 L148 158 Z"/>
+    <path d="M109 109 L89 147"/>
+    <path d="M147 109 L167 147"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M93 52 L128 72 L163 52"/>
-    <path d="M128 72 L128 112"/>
-    <path d="M33 160 L68 180 L103 160"/>
-    <path d="M68 180 L68 220"/>
-    <path d="M153 160 L188 180 L223 160"/>
-    <path d="M188 180 L188 220"/>
+    <path d="M128 120 L128 76 L90 54 L128 76 L166 54"/>
+    <path d="M70 224 L70 180 L32 158 L70 180 L108 158"/>
+    <path d="M186 224 L186 180 L148 158 L186 180 L224 158"/>
   </g>
 </svg>
