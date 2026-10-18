@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="autoscroll,scroll point,horizontal scroll,pan,cursor,move">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 L80 88 L80 168 Z"/>
+    <path d="M224 128 L176 88 L176 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L80 88 L80 168 Z"/>
+    <path d="M224 128 L176 88 L176 168 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="128" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="leg,anatomy,limb,knee,body part,thigh">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 32 H148 C150 64 164 92 164 116 C164 140 150 168 144 188 C160 194 176 198 188 202 A12 12 0 0 1 184 224 H116 A12 12 0 0 1 104 212 L108 188 C100.98 179.23 98 168.83 98 158 C98 144.12 103.02 129.48 112 116 C100 92 84 64 84 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 32 H148 C150 64 164 92 164 116 C164 140 150 168 144 188 C160 194 176 198 188 202 A12 12 0 0 1 184 224 H116 A12 12 0 0 1 104 212 L108 188 C100.98 179.23 98 168.83 98 158 C98 144.12 103.02 129.48 112 116 C100 92 84 64 84 32 Z"/>
+  </g>
+</svg>

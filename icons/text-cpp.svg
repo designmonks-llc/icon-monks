@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="c++,cpp,programming language,code,developer,c plus plus">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M121 91 A52 52 0 1 0 121 165"/>
+    <path d="M136 128 L168 128"/>
+    <path d="M152 112 L152 144"/>
+    <path d="M192 128 L224 128"/>
+    <path d="M208 112 L208 144"/>
+  </g>
+</svg>

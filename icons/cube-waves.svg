@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="submerge,immerse,dip,underwater,sink,plunge,water">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 160 V68 L128 32 L200 68 V160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 156 V68 L128 32 L200 68 V156"/>
+    <path d="M32 164 C37.33 158.67 42.67 156 48 156 C53.33 156 58.67 158.67 64 164 C69.33 169.33 74.67 172 80 172 C85.33 172 90.67 169.33 96 164 C101.33 158.67 106.67 156 112 156 C117.33 156 122.67 158.67 128 164 C133.33 169.33 138.67 172 144 172 C149.33 172 154.67 169.33 160 164 C165.33 158.67 170.67 156 176 156 C181.33 156 186.67 158.67 192 164 C197.33 169.33 202.67 172 208 172 C213.33 172 218.67 169.33 224 164"/>
+    <path d="M32 208 C37.33 202.67 42.67 200 48 200 C53.33 200 58.67 202.67 64 208 C69.33 213.33 74.67 216 80 216 C85.33 216 90.67 213.33 96 208 C101.33 202.67 106.67 200 112 200 C117.33 200 122.67 202.67 128 208 C133.33 213.33 138.67 216 144 216 C149.33 216 154.67 213.33 160 208 C165.33 202.67 170.67 200 176 200 C181.33 200 186.67 202.67 192 208 C197.33 213.33 202.67 216 208 216 C213.33 216 218.67 213.33 224 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 68 L128 104 L200 68"/>
+    <path d="M128 104 L128 152"/>
+  </g>
+</svg>

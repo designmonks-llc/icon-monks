@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="reddit,snoo,social media,forum,community,mascot,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="152" rx="80" ry="60"/>
+    <circle cx="64" cy="108" r="18"/>
+    <circle cx="192" cy="108" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="152" rx="80" ry="60"/>
+    <path d="M57 125 A18 18 0 1 1 81 103"/>
+    <path d="M199 125 A18 18 0 1 0 175 103"/>
+    <path d="M128 92 L140 52 L160 50"/>
+    <circle cx="176" cy="48" r="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 176 A48 48 0 0 0 156 176"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="144" r="14"/>
+    <circle cx="156" cy="144" r="14"/>
+  </g>
+</svg>

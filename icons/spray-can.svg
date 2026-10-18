@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="spray paint,aerosol,graffiti,airbrush,paint,spray">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 120 C56 100 72 88 96 88 C120 88 136 100 136 120 V208 A16 16 0 0 1 120 224 H72 A16 16 0 0 1 56 208 Z"/>
+    <rect x="80" y="48" width="32" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 120 C56 100 72 88 96 88 C120 88 136 100 136 120 V208 A16 16 0 0 1 120 224 H72 A16 16 0 0 1 56 208 Z"/>
+    <rect x="80" y="48" width="32" height="40" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 L136 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="160" cy="64" r="16"/>
+    <circle cx="200" cy="48" r="16"/>
+    <circle cx="200" cy="88" r="16"/>
+  </g>
+</svg>

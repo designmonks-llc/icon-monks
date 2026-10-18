@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ai phone,smartphone,mobile ai,phone assistant,smart device,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M184 128 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H140 A60 60 0 0 1 184 128 Z"/>
+    <path d="M188 152 C191.03 176.26 199.74 184.97 224 188 C199.74 191.03 191.03 199.74 188 224 C184.97 199.74 176.26 191.03 152 188 C176.26 184.97 184.97 176.26 188 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 128 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H140"/>
+    <path d="M188 152 C191.03 176.26 199.74 184.97 224 188 C199.74 191.03 191.03 199.74 188 224 C184.97 199.74 176.26 191.03 152 188 C176.26 184.97 184.97 176.26 188 152 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+</svg>

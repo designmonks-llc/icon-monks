@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="perplexity,perplexity ai,ai,search,answer engine,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="96" width="176" height="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="96" width="176" height="64"/>
+    <path d="M64 96 V40 L128 96 L192 40 V96"/>
+    <path d="M64 160 V216 L128 160 L192 216 V160"/>
+    <path d="M128 32 L128 96"/>
+    <path d="M128 160 L128 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 96 L128 160"/>
+  </g>
+</svg>

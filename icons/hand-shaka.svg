@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="shaka,hang loose,call me,gesture,hand,surf">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 140 H76 V118 A18 18 0 0 1 112 118 V114 A18 18 0 0 1 148 114 V118 A18 18 0 0 1 184 118 V74 A18 18 0 0 1 220 74 V152 C220 196 192 224 152 224 H132 C104 224 84 208 78 180 H52 A20 20 0 0 1 32 160 A20 20 0 0 1 52 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 140 H76 V118 A18 18 0 0 1 112 118 V114 A18 18 0 0 1 148 114 V118 A18 18 0 0 1 184 118 V74 A18 18 0 0 1 220 74 V152 C220 196 192 224 152 224 H132 C104 224 84 208 78 180 H52 A20 20 0 0 1 32 160 A20 20 0 0 1 52 140 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 118 L112 146"/>
+    <path d="M148 118 L148 146"/>
+    <path d="M184 118 L184 146"/>
+  </g>
+</svg>

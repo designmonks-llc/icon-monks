@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="chest expander,spring,resistance,stretch,gym,equipment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="48" width="32" height="160" rx="16"/>
+    <rect x="184" y="48" width="32" height="160" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="48" width="32" height="160" rx="16"/>
+    <rect x="184" y="48" width="32" height="160" rx="16"/>
+    <path d="M72 88 Q79 80 86 88 T100 88 T114 88 T128 88 T142 88 T156 88 T170 88 T184 88"/>
+    <path d="M72 128 Q79 120 86 128 T100 128 T114 128 T128 128 T142 128 T156 128 T170 128 T184 128"/>
+    <path d="M72 168 Q79 160 86 168 T100 168 T114 168 T128 168 T142 168 T156 168 T170 168 T184 168"/>
+  </g>
+</svg>

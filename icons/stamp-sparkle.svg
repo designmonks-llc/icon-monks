@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="ai watermark,ai generated,content label,provenance,stamp,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    M64 128 C64 112 84 104 84 88 A28 28 0 1 1 116 88 C116 104 136 112 136 128 Z
+    <rect x="32" y="128" width="136" height="36" rx="12"/>
+    <path d="M192 160 C194.69 181.56 202.44 189.31 224 192 C202.44 194.69 194.69 202.44 192 224 C189.31 202.44 181.56 194.69 160 192 C181.56 189.31 189.31 181.56 192 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 128 C64 112 84 104 84 88 A28 28 0 1 1 116 88 C116 104 136 112 136 128"/>
+    <rect x="32" y="128" width="136" height="36" rx="12"/>
+    <path d="M40 200 L132 200"/>
+    <path d="M192 160 C194.69 181.56 202.44 189.31 224 192 C202.44 194.69 194.69 202.44 192 224 C189.31 202.44 181.56 194.69 160 192 C181.56 189.31 189.31 181.56 192 160 Z"/>
+  </g>
+</svg>

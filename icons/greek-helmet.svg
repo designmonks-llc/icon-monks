@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="greek helmet,spartan,corinthian,ancient,warrior,crest">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 152 H64 A56 56 0 0 1 176 152 V216 H104 L64 196 L104 180 Z"/>
+    <path d="M80 112 C80 64 112 40 144 40 C184 40 216 72 216 128 L168 124 A56 56 0 0 0 80 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 152 H64 A56 56 0 0 1 176 152 V216 H104 L64 196 L104 180 Z"/>
+    <path d="M80 112 C80 64 112 40 144 40 C184 40 216 72 216 128 L168 124"/>
+  </g>
+</svg>

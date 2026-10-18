@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="back,muscles,anatomy,lats,spine,body">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 32 V44 C112 52 100 58 80 62 C52 68 36 84 36 108 V164 H64 V128 C64 160 80 192 80 224 H176 C176 192 192 160 192 128 V164 H220 V108 C220 84 204 68 176 62 C156 58 144 52 144 44 V32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 32 V44 C112 52 100 58 80 62 C52 68 36 84 36 108 V164 H64 V128 C64 160 80 192 80 224 H176 C176 192 192 160 192 128 V164 H220 V108 C220 84 204 68 176 62 C156 58 144 52 144 44 V32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 76 L128 200"/>
+    <path d="M108 88 L88 104 L104 148"/>
+    <path d="M148 88 L168 104 L152 148"/>
+  </g>
+</svg>

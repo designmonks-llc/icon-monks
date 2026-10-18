@@ -1,0 +1,9 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="behance,adobe,portfolio,design,creative,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 72 V192"/>
+    <path d="M36 72 H76 A26 26 0 0 1 76 124 H36"/>
+    <path d="M36 124 H80 A34 34 0 0 1 80 192 H36"/>
+    <path d="M148 156 H220 A36 36 0 1 0 210 181"/>
+    <path d="M156 84 H212"/>
+  </g>
+</svg>

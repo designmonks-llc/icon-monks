@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="magic eraser,object removal,erase,retouch,cleanup,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M35 159 L159 35 L221 97 L97 221 Z"/>
+    <path d="M194 164 C196.52 184.16 203.84 191.48 224 194 C203.84 196.52 196.52 203.84 194 224 C191.48 203.84 184.16 196.52 164 194 C184.16 191.48 191.48 184.16 194 164 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 159 L159 35 L221 97 L97 221 Z"/>
+    <path d="M194 164 C196.52 184.16 203.84 191.48 224 194 C203.84 196.52 196.52 203.84 194 224 C191.48 203.84 184.16 196.52 164 194 C184.16 191.48 191.48 184.16 194 164 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 114 L142 176"/>
+  </g>
+</svg>

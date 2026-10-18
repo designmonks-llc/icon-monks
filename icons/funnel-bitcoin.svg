@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="filter crypto,bitcoin filter,btc,funnel,sort,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
+    <path d="M170 144 H192 A16 16 0 0 1 192 176 H170 M192 176 H196 A16 16 0 0 1 196 208 H170 V144"/>
+    <path d="M186 132 L186 144"/>
+    <path d="M186 208 L186 220"/>
+  </g>
+</svg>

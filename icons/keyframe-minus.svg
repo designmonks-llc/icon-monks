@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="remove keyframe,animation,timeline,keyframe,minus">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M138 46 L210 118 A14 14 0 0 1 210 138 L138 210 A14 14 0 0 1 118 210 L46 138 A14 14 0 0 1 46 118 L118 46 A14 14 0 0 1 138 46 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M138 46 L210 118 A14 14 0 0 1 210 138 L138 210 A14 14 0 0 1 118 210 L46 138 A14 14 0 0 1 46 118 L118 46 A14 14 0 0 1 138 46 Z"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 188 H216"/>
+  </g>
+</svg>

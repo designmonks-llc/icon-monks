@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="power line,pylon,electricity,grid,transmission tower,utility pole,energy">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 224 L120 64 L128 32 L136 64 L168 224"/>
+    <path d="M56 100 V80 H200 V100"/>
+    <path d="M72 148 V128 H184 V148"/>
+    <path d="M104 144 L168 224"/>
+    <path d="M152 144 L88 224"/>
+  </g>
+</svg>

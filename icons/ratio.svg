@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="ratio,proportion,colon,math,compare,a to b">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="128" r="28"/>
+    <circle cx="192" cy="128" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="128" r="28"/>
+    <circle cx="192" cy="128" r="28"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="100" r="16"/>
+    <circle cx="128" cy="156" r="16"/>
+  </g>
+</svg>

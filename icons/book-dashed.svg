@@ -1,0 +1,15 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="book,placeholder,draft,empty,dashed,template">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 224 H72 A24 24 0 0 1 48 200 A24 24 0 0 1 72 176 H84"/>
+    <path d="M48 160 V124"/>
+    <path d="M48 88 V56 A24 24 0 0 1 72 32 H76"/>
+    <path d="M112 32 H148"/>
+    <path d="M184 32 H208 V44"/>
+    <path d="M208 76 V110"/>
+    <path d="M208 142 V176"/>
+    <path d="M208 208 V224 H192"/>
+    <path d="M156 224 H120"/>
+    <path d="M120 176 H156"/>
+    <path d="M188 176 H208"/>
+  </g>
+</svg>

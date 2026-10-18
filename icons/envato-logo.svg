@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="envato,envato market,leaf,creative marketplace,design,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 196 C83.82 184.85 82 173.14 82 162 C82 109.2 126.64 59.82 196 40 C198.19 50.42 199 60.12 199 70 C199 132.16 157.03 182.19 88 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 196 C83.82 184.85 82 173.14 82 162 C82 109.2 126.64 59.82 196 40 C198.19 50.42 199 60.12 199 70 C199 132.16 157.03 182.19 88 196 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="56" cy="200" r="16"/>
+  </g>
+</svg>

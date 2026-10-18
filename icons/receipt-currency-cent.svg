@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="receipt,cent,price,bill,money,currency">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 109 A68 68 0 0 0 128 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 208 L104 224 L80 208 L56 224 L56 32 L200 32 L200 109"/>
+    <path d="M212 156 A36 36 0 1 0 212 200"/>
+    <path d="M190 132 L190 220"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 80 L168 80"/>
+    <path d="M88 120 L148 120"/>
+  </g>
+</svg>

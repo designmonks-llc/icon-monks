@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="print complete,printed,printer,success,done,check">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="88" width="192" height="96" rx="16"/>
+    <rect x="72" y="40" width="112" height="48"/>
+    <rect x="72" y="144" width="112" height="72" rx="4"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <rect x="80" y="152" width="96" height="56"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 88 V40 H184 V88"/>
+    <path d="M72 184 H48 A16 16 0 0 1 32 168 V104 A16 16 0 0 1 48 88 H208 A16 16 0 0 1 224 104 V168 A16 16 0 0 1 208 184 H184"/>
+    <rect x="72" y="144" width="112" height="72" rx="4"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="192" cy="116" r="12"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162 190 L180 208 L214 172"/>
+  </g>
+</svg>

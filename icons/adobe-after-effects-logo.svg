@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="after effects,adobe,ae,motion graphics,video,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 172 L92 92 L118 172"/>
+    <path d="M74 148 L110 148"/>
+    <path d="M142 148 H190 A24 24 0 1 0 183 165"/>
+  </g>
+</svg>

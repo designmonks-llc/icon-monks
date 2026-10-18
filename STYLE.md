@@ -13,7 +13,7 @@ Icon Monks uses the same construction as Phosphor, so the two sets sit together 
   regular 16 and bold 24. Fill and duotone come from the roles.
 - **Roles**: every shape sits in a `<g data-role>` group: `line`, `detail`, `area`, `hole`, `dot`, `dotcut`
   **[lint `role`]**. The README explains what each role does in each weight.
-- **Metadata**: one `data-category` from the 30 categories and at least 3 `data-tags` **[lint `meta`]**.
+- **Metadata**: one `data-category` from the 31 categories (see `CATEGORIES` in `scripts/lint.py`; `Brands` holds logos) and at least 3 `data-tags` **[lint `meta`]**.
 
 ## Rules
 
@@ -51,9 +51,10 @@ Icon Monks uses the same construction as Phosphor, so the two sets sit together 
    **[lint `extremes`]** A curve that bulges more than a unit past its ends needs an anchor at that extreme
    (its leftmost, rightmost, top or bottom point). `scripts/batches/198_extremes.py` adds them without changing the
    shape.
-10. **No text glyphs** inside icons (like "CI" in a triangle) except in Letters & Numbers and the file-type
-   family (`file-jpg`, `file-html` and so on), where the label is the point of the icon. Text doesn't scale
-   across weights.
+10. **Text only when the text is the concept.** Letters & Numbers, the file-type family (`file-jpg`, `file-html`),
+   text-formatting icons (`text-*`), maths functions (`math-sin`) and labels like `television-4k` may use up to 3
+   characters, drawn as large stroked letterforms. Elsewhere use a symbol, not text (no "CI" in a triangle): text
+   doesn't scale across weights. Mark text icons `data-fill="outline"` when filling would close the counters.
 11. **Variants are the base icon plus a standard badge** **[lint `badge`]**. `<base>-<modifier>` (plus, minus, x,
    check, warning, question, heart, star, gear, magnifying-glass, arrow-up, arrow-down, user) repeats
    `<base>` unchanged and adds one `badge` group holding the standard mark from `BADGES` in `scripts/lint.py`, all

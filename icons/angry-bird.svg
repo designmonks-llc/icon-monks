@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="angry birds,rovio,bird,game,mobile game,character,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="136" r="84"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="136" r="84"/>
+    <path d="M120 52 C116 40 104 32 88 32"/>
+    <path d="M132 52 C138 43 146.5 38 157 38 C160.5 38 164 39 168 40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 104 L128 124 L176 104"/>
+    <path d="M108 168 H148 L128 196 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="142" r="14"/>
+    <circle cx="152" cy="142" r="14"/>
+  </g>
+</svg>

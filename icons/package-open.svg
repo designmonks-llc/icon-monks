@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="open box,unbox,unpack,parcel,package,return">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 112 L128 72 L208 112 V176 L128 216 L48 176 Z"/>
+    <path d="M48 112 L32 80 L112 40 L128 72 Z"/>
+    <path d="M208 112 L224 80 L144 40 L128 72 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M48 112 L128 72 L208 112 L128 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 V176 L128 216 L208 176 V112"/>
+    <path d="M48 112 L32 80 L112 40 L128 72 Z"/>
+    <path d="M208 112 L224 80 L144 40 L128 72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 112 L128 152 L208 112"/>
+    <path d="M128 152 V216"/>
+  </g>
+</svg>

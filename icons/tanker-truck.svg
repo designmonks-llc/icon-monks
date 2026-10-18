@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="tanker truck,fuel,tanker,oil,transport,liquid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 79 H100 A40 40 0 0 1 100 159 H72 A40 40 0 0 1 72 79 Z"/>
+    <path d="M164 159 V97 H192 L224 132 V159 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 79 H100 A40 40 0 0 1 100 159 H72 A40 40 0 0 1 72 79 Z"/>
+    <path d="M76 79 V63 H100 V79"/>
+    <path d="M100 159 H164"/>
+    <path d="M164 159 V97 H192 L224 132 V159 Z"/>
+    <circle cx="78" cy="186" r="19"/>
+    <circle cx="186" cy="186" r="19"/>
+  </g>
+</svg>

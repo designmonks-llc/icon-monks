@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="qwen,ai,artificial intelligence,model,alibaba,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 92 L152 132"/>
+    <path d="M211 176 L159 146 L113 147"/>
+    <path d="M45 176 L97 146 L119 105"/>
+  </g>
+</svg>

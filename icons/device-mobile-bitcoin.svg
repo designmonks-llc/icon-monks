@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="mobile crypto,bitcoin app,crypto wallet,btc,phone,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M184 122 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H136 A64 64 0 0 1 184 122 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 122 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H136"/>
+    <path d="M168 160 H192 A13 13 0 0 1 192 186 H176"/>
+    <path d="M176 186 H195 A13 13 0 0 1 195 212 H168"/>
+    <path d="M176 160 L176 212"/>
+    <path d="M186 148 L186 160"/>
+    <path d="M186 212 L186 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+</svg>

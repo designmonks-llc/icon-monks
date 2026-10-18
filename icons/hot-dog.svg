@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="hot dog,sausage,bun,fast food,street food,snack">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 76 H192 A32 32 0 0 1 224 108 A32 32 0 0 1 192 140 H64 A32 32 0 0 1 32 108 A32 32 0 0 1 64 76 Z"/>
+    <path d="M48 136 V148 A32 32 0 0 0 80 180 H176 A32 32 0 0 0 208 148 V136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 76 H192 A32 32 0 0 1 224 108 A32 32 0 0 1 192 140 H64 A32 32 0 0 1 32 108 A32 32 0 0 1 64 76 Z"/>
+    <path d="M48 136 V148 A32 32 0 0 0 80 180 H176 A32 32 0 0 0 208 148 V136"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 108 A20 20 0 0 1 86 102.3 A20 20 0 0 1 100 108 A20 20 0 0 0 114 113.7 A20 20 0 0 0 128 108 A20 20 0 0 1 142 102.3 A20 20 0 0 1 156 108 A20 20 0 0 0 170 113.7 A20 20 0 0 0 184 108"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="elearning,exchange,student exchange,course,learning,swap">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 56 L224 104 L128 152 L32 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 56 L224 104 L128 152 L32 104 Z"/>
+    <path d="M80 128 V176 C80 196 104 208 128 208"/>
+    <path d="M165 180 A24 24 0 0 1 207 172"/>
+    <path d="M190 175 L207 172 L204 156"/>
+    <path d="M211 196 A24 24 0 0 1 169 204"/>
+    <path d="M186 201 L169 204 L172 220"/>
+  </g>
+</svg>

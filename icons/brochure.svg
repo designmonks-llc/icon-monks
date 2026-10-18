@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="pamphlet,leaflet,flyer,tri-fold,marketing,catalog">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 56 L80 40 L176 56 L224 40 V200 L176 216 L80 200 L32 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 56 L80 40 L176 56 L224 40 V200 L176 216 L80 200 L32 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 40 V200"/>
+    <path d="M176 56 V216"/>
+    <path d="M108 88 L148 95"/>
+    <path d="M108 120 L148 127"/>
+    <path d="M108 152 L148 159"/>
+  </g>
+</svg>

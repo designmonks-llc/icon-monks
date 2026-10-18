@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="sujood,prostration,prayer,salah,kneeling,worship">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="60" cy="184" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="184" r="24"/>
+    <path d="M220 208 H168 L184 116 C179.82 114.81 175.29 114 171 114 C146.54 114 121.61 132.78 108 160"/>
+    <path d="M108 160 L104 208"/>
+  </g>
+</svg>

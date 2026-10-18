@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="no meeting room,room unavailable,booked,meeting,disabled,slash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="76" r="24"/>
+    <circle cx="176" cy="76" r="24"/>
+    <path d="M44 156 C44 136 60 124 80 124 C100 124 116 136 116 156 Z"/>
+    <path d="M140 156 C140 136 156 124 176 124 C196 124 212 136 212 156 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="76" r="24"/>
+    <circle cx="176" cy="76" r="24"/>
+    <path d="M44 156 C44 136 60 124 80 124 C100 124 116 136 116 156"/>
+    <path d="M140 156 C140 136 156 124 176 124 C196 124 212 136 212 156"/>
+    <path d="M32 156 H224"/>
+    <path d="M60 156 V216"/>
+    <path d="M196 156 V216"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

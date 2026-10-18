@@ -1,0 +1,17 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="bitcoin exchange,crypto exchange,convert,btc,forex,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="80" r="44"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="80" r="44"/>
+    <path d="M150 41 A90 90 0 0 1 211 94"/>
+    <path d="M186 83 L211 94 L222 69"/>
+    <path d="M106 215 A90 90 0 0 1 45 162"/>
+    <path d="M70 173 L45 162 L34 187"/>
+    <path d="M150 128 L150 224"/>
+    <path d="M140 144 H180 A16 16 0 0 1 180 176 H150"/>
+    <path d="M150 176 H186 A16 16 0 0 1 186 208 H140"/>
+    <path d="M174 132 L174 144"/>
+    <path d="M174 208 L174 220"/>
+  </g>
+</svg>

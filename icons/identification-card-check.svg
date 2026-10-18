@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="id verified,identity verified,kyc,verified,approved,check">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="192" height="144" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="90" cy="104" r="18"/>
+    <path d="M60 168 C60 152 72 144 90 144 C108 144 120 152 120 168 Z"/>
+    <path d="M150 108 L188 108"/>
+    <path d="M150 148 L176 148"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162 190 L180 208 L214 172"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="crypto wallet,bitcoin,btc,cryptocurrency,wallet,payment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 208 H48 A16 16 0 0 1 32 192 V88 A16 16 0 0 1 48 72 H208 A16 16 0 0 1 224 88 V140 A56 56 0 0 0 136 208 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M216 96 H196 A12 12 0 0 0 196 120 H216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 208 H48 A16 16 0 0 1 32 192 V88 A16 16 0 0 1 48 72 H208 A16 16 0 0 1 224 88 V140"/>
+    <path d="M56 72 V56 A16 16 0 0 1 72 40 H168 A16 16 0 0 1 184 56 V72"/>
+    <path d="M224 92 H196 A16 16 0 0 0 196 124 H224"/>
+    <path d="M170 158 L194 158 A13 13 0 0 1 194 184 L178 184"/>
+    <path d="M178 184 L197 184 A13 13 0 0 1 197 210 L170 210"/>
+    <path d="M178 158 L178 210"/>
+    <path d="M188 146 L188 158"/>
+    <path d="M188 210 L188 222"/>
+  </g>
+</svg>

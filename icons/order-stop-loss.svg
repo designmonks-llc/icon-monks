@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="stop loss,trading,risk limit,stocks,order,chart">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+    <path d="M64 64 L104 112 L136 88 L172 136"/>
+    <path d="M56 168 L72 168"/>
+    <path d="M104 168 L120 168"/>
+    <path d="M152 168 L224 168"/>
+    <path d="M180 152 L212 184"/>
+    <path d="M212 152 L180 184"/>
+  </g>
+</svg>

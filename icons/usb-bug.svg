@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="usb malware,infected usb,bug,virus,usb,threat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="32" width="80" height="56" rx="6"/>
+    <rect x="64" y="88" width="128" height="136" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="32" width="80" height="56" rx="6"/>
+    <rect x="64" y="88" width="128" height="136" rx="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="108" y="132" width="40" height="64" rx="20"/>
+    <path d="M116 136 L104 112"/>
+    <path d="M140 136 L152 112"/>
+    <path d="M88 164 L108 164"/>
+    <path d="M148 164 L168 164"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="112" cy="60" r="8"/>
+    <circle cx="144" cy="60" r="8"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="soundcloud,music,audio,streaming,podcast,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 176 V124 A50 50 0 0 1 211 132 A24 24 0 0 1 198 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 176 V124 A50 50 0 0 1 211 132 A24 24 0 0 1 198 176 Z"/>
+    <path d="M72 104 V176"/>
+    <path d="M32 128 V176"/>
+  </g>
+</svg>

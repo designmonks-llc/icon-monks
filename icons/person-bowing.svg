@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="ruku,bowing,prayer,posture,salah,bow">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="188" cy="80" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="188" cy="80" r="24"/>
+    <path d="M84 132 L148 100"/>
+    <path d="M132 108 L132 176"/>
+    <path d="M68 220 L84 132 L100 220"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="pathfinder trim,trim,boolean,hidden parts,shapes,pathfinder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="96" y="96" width="128" height="128" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 72 V46 A14 14 0 0 0 146 32 H46 A14 14 0 0 0 32 46 V146 A14 14 0 0 0 46 160 H72"/>
+    <rect x="96" y="96" width="128" height="128" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 128 V146 A14 14 0 0 1 146 160 H128"/>
+  </g>
+</svg>

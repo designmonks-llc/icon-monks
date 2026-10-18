@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="elbow connector,orthogonal,connector,diagram,flowchart,edge">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="64" cy="192" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="192" r="24"/>
+    <circle cx="192" cy="64" r="24"/>
+    <path d="M64 168 V128 H192 V88"/>
+  </g>
+</svg>

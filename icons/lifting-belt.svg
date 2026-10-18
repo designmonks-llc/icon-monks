@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="lifting belt,harness,weightlifting,strength,gym,support">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 92 C107.2 106.4 132.19 114 156 114 C171.87 114 187.2 110.4 200 104 A24 24 0 0 1 200 152 C187.2 158.4 171.87 162 156 162 C132.19 162 107.2 154.4 88 140 Z"/>
+    <rect x="40" y="64" width="48" height="96" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 92 C107.2 106.4 132.19 114 156 114 C171.87 114 187.2 110.4 200 104 A24 24 0 0 1 200 152 C187.2 158.4 171.87 162 156 162 C132.19 162 107.2 154.4 88 140"/>
+    <rect x="40" y="64" width="48" height="96" rx="12"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 88 V136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="144" cy="134" r="8"/>
+    <circle cx="176" cy="130" r="8"/>
+  </g>
+</svg>

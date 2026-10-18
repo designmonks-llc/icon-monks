@@ -26,6 +26,7 @@ CATEGORIES = {
     'Animals', 'Arrows', 'Business', 'Charts', 'Commerce', 'Communication', 'Design', 'Development', 'Devices',
     'Editor', 'Education', 'Emoji', 'Files', 'Food', 'Health', 'Home', 'Interface', 'Letters & Numbers', 'Maps',
     'Media', 'Nature', 'Objects', 'People', 'Science', 'Security', 'Sports', 'Symbols', 'Time', 'Transport', 'Weather',
+    'Brands',
 }
 LIVE = (32, 224)        # geometry must stay inside; 16-unit strokes then reach 24..232
 LIVE_TOL = 1            # curves bulge a little between whole-unit anchors
@@ -51,7 +52,7 @@ BADGES = {
     'arrow-down': ['M188 162 V214', 'M166 192 L188 214 L210 192'],
     'user': [('circle', 188, 172, 14), 'M162 214 A26 26 0 0 1 214 214'],
 }
-NO_BASE_SLASH = {'cell-signal-slash', 'file-eye-slash'}  # partial slash drawn as part of the glyph
+NO_BASE_SLASH = {'cell-signal-slash', 'file-eye-slash', 'device-mobile-wifi-slash'}  # slash drawn as part of the glyph
 
 RULES = {
     'stroke': 'line/detail groups must use stroke-width 16 with round caps and joins',

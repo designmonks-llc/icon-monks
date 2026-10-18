@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="global refresh,sync worldwide,update,web,globe,sync">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M222 110 A96 96 0 1 0 110 222 A83.19 83.19 0 0 1 222 110 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M222 110 A96 96 0 1 0 110 222"/>
+    <path d="M153 176 A32 32 0 0 1 184 152 A32 32 0 0 1 207 161"/>
+    <path d="M207 145 L207 161 L191 161"/>
+    <path d="M215 192 A32 32 0 0 1 184 216 A32 32 0 0 1 161 207"/>
+    <path d="M161 223 L161 207 L177 207"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 A40 96 0 0 1 128 32 A40 96 0 0 1 168 121"/>
+    <path d="M32 128 L168 128"/>
+  </g>
+</svg>

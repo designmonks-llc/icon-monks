@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="eraser,add,new eraser,editing,correction,plus">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M35 159 L159 35 L221 97 L97 221 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 159 L159 35 L221 97 L97 221 Z"/>
+    <path d="M120 216 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 114 L142 176"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V216"/>
+    <path d="M160 188 H216"/>
+  </g>
+</svg>

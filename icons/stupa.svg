@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="stupa,borobudur,buddhist,temple,landmark,indonesia">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V192 H56 V168 H80 V144 H92 C92 112 108 96 128 96 C148 96 164 112 164 144 H176 V168 H200 V192 H224 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V192 H56 V168 H80 V144 H92 C92 112 108 96 128 96 C148 96 164 112 164 144 H176 V168 H200 V192 H224 V216 Z"/>
+    <path d="M128 96 V40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 192 H200"/>
+    <path d="M80 168 H176"/>
+    <path d="M92 144 H164"/>
+  </g>
+</svg>

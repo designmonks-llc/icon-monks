@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="work glove,glove,protection,safety,gardening,hand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 176 V156 C60 156 40 140 40 116 C40 102.75 48.35 95 58 95 C60 95 61.94 95.31 64 96 C74 100 80 108 84 116 V78 A14 14 0 0 1 98 64 A14 14 0 0 1 112 78 V62 A14 14 0 0 1 126 48 A14 14 0 0 1 140 62 V70 A14 14 0 0 1 154 56 A14 14 0 0 1 168 70 V90 A14 14 0 0 1 182 76 A14 14 0 0 1 196 90 V176 Z"/>
+    <rect x="76" y="176" width="128" height="48" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 176 V156 C60 156 40 140 40 116 C40 102.75 48.35 95 58 95 C60 95 61.94 95.31 64 96 C74 100 80 108 84 116 V78 A14 14 0 0 1 98 64 A14 14 0 0 1 112 78 V62 A14 14 0 0 1 126 48 A14 14 0 0 1 140 62 V70 A14 14 0 0 1 154 56 A14 14 0 0 1 168 70 V90 A14 14 0 0 1 182 76 A14 14 0 0 1 196 90 V176 Z"/>
+    <rect x="76" y="176" width="128" height="48" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 78 L112 120"/>
+    <path d="M140 70 L140 120"/>
+    <path d="M168 90 L168 120"/>
+    <path d="M100 176 L180 176"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="mayan pyramid,step pyramid,ziggurat,ancient,landmark,temple">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 L38 184 L46 184 L52 152 L60 152 L66 120 L74 120 L80 88 H176 L182 120 L190 120 L196 152 L204 152 L210 184 L218 184 L224 216 Z"/>
+    <path d="M104 88 V48 H152 V88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 L38 184 L46 184 L52 152 L60 152 L66 120 L74 120 L80 88 H176 L182 120 L190 120 L196 152 L204 152 L210 184 L218 184 L224 216 Z"/>
+    <path d="M104 88 V48 H152 V88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 184 H116 M140 184 H218"/>
+    <path d="M52 152 H116 M140 152 H204"/>
+    <path d="M66 120 H116 M140 120 H190"/>
+    <path d="M116 88 V216"/>
+    <path d="M140 88 V216"/>
+  </g>
+</svg>

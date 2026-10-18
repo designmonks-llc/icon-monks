@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="replit,ide,code editor,coding,development,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 48 A16 16 0 0 1 64 32 H112 A16 16 0 0 1 128 48 V96 H64 A16 16 0 0 1 48 80 Z"/>
+    <path d="M128 96 H192 A16 16 0 0 1 208 112 V144 A16 16 0 0 1 192 160 H128 Z"/>
+    <path d="M48 176 A16 16 0 0 1 64 160 H128 V208 A16 16 0 0 1 112 224 H64 A16 16 0 0 1 48 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 A16 16 0 0 1 64 32 H112 A16 16 0 0 1 128 48 V96 H64 A16 16 0 0 1 48 80 Z"/>
+    <path d="M128 96 H192 A16 16 0 0 1 208 112 V144 A16 16 0 0 1 192 160 H128 Z"/>
+    <path d="M48 176 A16 16 0 0 1 64 160 H128 V208 A16 16 0 0 1 112 224 H64 A16 16 0 0 1 48 208 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="security key,hardware key,usb key,passkey,2fa,authentication">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="76" width="152" height="104" rx="28"/>
+    <rect x="184" y="100" width="40" height="56" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="76" width="152" height="104" rx="28"/>
+    <rect x="184" y="100" width="40" height="56" rx="6"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="128" r="20"/>
+    <circle cx="68" cy="128" r="6"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="204" cy="116" r="7"/>
+    <circle cx="204" cy="140" r="7"/>
+  </g>
+</svg>

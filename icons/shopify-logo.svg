@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="shopify,ecommerce,shop,store,shopping bag,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 88 H204 L212 216 H44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 88 H204 L212 216 H44 Z"/>
+    <path d="M100 88 V64 A28 28 0 0 1 156 64 V88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 132 A20 20 0 0 0 108 132 C108 152 148 148 148 168 A20 20 0 0 1 108 168"/>
+  </g>
+</svg>

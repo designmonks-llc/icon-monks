@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="steak,meat,beef,grill,protein,butcher,bbq">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 136 C36 88 72 48 128 48 C184 48 216 76 216 112 C216 148 184 160 152 168 C128 174 120 212 88 212 C56 212 36 184 36 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 136 C36 88 72 48 128 48 C184 48 216 76 216 112 C216 148 184 160 152 168 C128 174 120 212 88 212 C56 212 36 184 36 136 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="152" r="22"/>
+    <path d="M100 80 C152 80 188 88 188 112 C188 132 168 140 148 144"/>
+  </g>
+</svg>

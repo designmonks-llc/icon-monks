@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="change payment method,swap card,exchange,credit card,switch,transaction">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124 194 L45 194 A13 13 0 0 1 32 181 L32 75 A13 13 0 0 1 45 62 L211 62 A13 13 0 0 1 224 75 L224 135 A64 64 0 0 0 124 194 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 194 L45 194 A13 13 0 0 1 32 181 L32 75 A13 13 0 0 1 45 62 L211 62 A13 13 0 0 1 224 75 L224 135"/>
+    <path d="M164 168 H212 M200 156 L212 168 L200 180"/>
+    <path d="M212 204 H164 M176 192 L164 204 L176 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 106 L224 106"/>
+    <path d="M62 158 L98 158"/>
+  </g>
+</svg>

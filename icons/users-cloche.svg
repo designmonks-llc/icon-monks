@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="waiters,serving staff,catering team,restaurant,service,users">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="99" cy="101" r="35"/>
+    <path d="M32 206 C32 167.22 59.43 151.55 99 152 C116.54 151.8 131.75 154.89 143 162 L136 206 Z"/>
+    <path d="M156 204 A32 32 0 0 1 220 204 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="99" cy="101" r="35"/>
+    <path d="M32 206 C32 167.22 59.43 151.55 99 152 C116.54 151.8 131.75 154.89 143 162"/>
+    <path d="M150 58 A31.35 31.35 0 1 1 165 116"/>
+    <path d="M156 204 A32 32 0 0 1 220 204 Z"/>
+    <path d="M148 204 L224 204"/>
+    <path d="M188 164 L188 172"/>
+  </g>
+</svg>

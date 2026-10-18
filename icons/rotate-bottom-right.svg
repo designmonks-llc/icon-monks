@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="rotate corner,rotate cursor,bottom right,transform,rotate,handle">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 H104 V40"/>
+    <path d="M200 104 A96 96 0 0 1 104 200"/>
+    <path d="M124 180 L104 200 L124 220"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="chef,cook,culinary,kitchen staff,restaurant,person">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M98 92 V76 A18 18 0 0 1 108 44 A24 24 0 0 1 148 44 A18 18 0 0 1 158 76 V92 Z"/>
+    <circle cx="128" cy="124" r="44"/>
+    <path d="M48 224 C48 196 84 184 128 184 C172 184 208 196 208 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 92 V76 A18 18 0 0 1 108 44 A24 24 0 0 1 148 44 A18 18 0 0 1 158 76 V92 Z"/>
+    <path d="M98 92 A44 44 0 1 0 158 92"/>
+    <path d="M48 224 C48 196 84 184 128 184 C172 184 208 196 208 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 92 L158 92"/>
+  </g>
+</svg>

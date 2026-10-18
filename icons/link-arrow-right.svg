@@ -1,0 +1,8 @@
+<svg data-badge="custom" data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="link,forward,next,outgoing link,continue,navigate">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 170 L128 131 A24.6 24.6 0 0 0 93 96 L54 136 A24.6 24.6 0 0 0 88 170 Z"/>
+    <path d="M131 128 L170 88 A24.6 24.6 0 0 0 136 54 L96 93 A24.6 24.6 0 0 0 131 128 Z"/>
+    <path d="M160 188 L212 188"/>
+    <path d="M190 166 L212 188 L190 210"/>
+  </g>
+</svg>

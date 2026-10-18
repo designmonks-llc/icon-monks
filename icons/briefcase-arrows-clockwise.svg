@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="work update,job update,status update,refresh,briefcase,sync">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M118 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L208 72 A16 16 0 0 1 224 88 L224 127 A70 70 0 0 0 118 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L208 72 A16 16 0 0 1 224 88 L224 127"/>
+    <path d="M88 72 V56 A16 16 0 0 1 104 40 H152 A16 16 0 0 1 168 56 V72"/>
+    <path d="M153 176 A32 32 0 0 1 184 152 A32 32 0 0 1 207 161"/>
+    <path d="M207 145 L207 161 L191 161"/>
+    <path d="M215 192 A32 32 0 0 1 184 216 A32 32 0 0 1 161 207"/>
+    <path d="M161 223 L161 207 L177 207"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 124 L148 124"/>
+  </g>
+</svg>

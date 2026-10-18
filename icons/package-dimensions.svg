@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="package size,dimensions,parcel,measure,shipping,box">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M152 32 L216 66 L216 134 L152 168 L88 134 L88 66 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 32 L216 66 L216 134 L152 168 L88 134 L88 66 Z"/>
+    <path d="M32 82 L48 66 L64 82 M48 66 L48 134 M32 118 L48 134 L64 118"/>
+    <path d="M104 192 L88 208 L104 224 M88 208 L216 208 M200 192 L216 208 L200 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 66 L152 100 L216 66"/>
+    <path d="M152 100 L152 168"/>
+  </g>
+</svg>

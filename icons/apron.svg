@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="apron,chef,cooking,kitchen,baking,workshop">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 76 H160 V100 C160 116 172 124 192 124 V200 A16 16 0 0 1 176 216 H80 A16 16 0 0 1 64 200 V124 C84 124 96 116 96 100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 76 H160 V100 C160 116 172 124 192 124 V200 A16 16 0 0 1 176 216 H80 A16 16 0 0 1 64 200 V124 C84 124 96 116 96 100 Z"/>
+    <path d="M96 76 A32 32 0 0 1 160 76"/>
+    <path d="M64 128 L36 148"/>
+    <path d="M192 128 L220 148"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 152 V172 A12 12 0 0 0 112 184 H144 A12 12 0 0 0 156 172 V152"/>
+  </g>
+</svg>

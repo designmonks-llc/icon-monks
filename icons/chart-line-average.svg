@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="average,mean,baseline,statistics,chart,line">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+    <path d="M64 176 L112 96 L152 152 L208 72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 124 L64 124"/>
+    <path d="M96 124 L112 124"/>
+    <path d="M144 124 L160 124"/>
+    <path d="M192 124 L208 124"/>
+  </g>
+</svg>

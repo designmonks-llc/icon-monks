@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="3d axis,xyz,gizmo,coordinate system,3d modeling,axes">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 152 V40 M84 60 L104 40 L124 60"/>
+    <path d="M104 152 H224 M204 132 L224 152 L204 172"/>
+    <path d="M104 152 L44 212 M44 184 V212 H72"/>
+  </g>
+</svg>

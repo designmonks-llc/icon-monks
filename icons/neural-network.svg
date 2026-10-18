@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="neural network,ai,machine learning,deep learning,nodes,layers">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 56 L128 92"/>
+    <path d="M52 128 L128 92"/>
+    <path d="M52 128 L128 164"/>
+    <path d="M52 200 L128 164"/>
+    <path d="M128 92 L204 128"/>
+    <path d="M128 164 L204 128"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="52" cy="56" r="24"/>
+    <circle cx="52" cy="128" r="24"/>
+    <circle cx="52" cy="200" r="24"/>
+    <circle cx="128" cy="92" r="24"/>
+    <circle cx="128" cy="164" r="24"/>
+    <circle cx="204" cy="128" r="24"/>
+  </g>
+</svg>

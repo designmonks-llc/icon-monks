@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="hangouts,google,chat,messaging,conversation,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 A88 88 0 0 0 128 208 H144 V224 C184 208 216 168 216 120 A88 88 0 0 0 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 A88 88 0 0 0 128 208 H144 V224 C184 208 216 168 216 120 A88 88 0 0 0 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 96 V120 C100 136 96 144 84 152"/>
+    <path d="M156 96 V120 C156 136 152 144 140 152"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="104" r="14"/>
+    <circle cx="156" cy="104" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="bitcoin savings,crypto savings,btc,piggy bank,save,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M195 126 A80 56 0 1 0 137 170 A48 48 0 0 1 195 126 Z"/>
+    <rect x="184" y="96" width="28" height="40" rx="10"/>
+    <path d="M86 68 L94 36 L124 62 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M195 126 A80 56 0 1 0 137 170"/>
+    <rect x="184" y="96" width="28" height="40" rx="10"/>
+    <path d="M86 68 L94 36 L124 62"/>
+    <path d="M76 166 L76 196"/>
+    <path d="M124 170 L124 196"/>
+    <path d="M168 161 H191 A13 13 0 0 1 191 186 H176"/>
+    <path d="M176 186 H194 A13 13 0 0 1 194 212 H168"/>
+    <path d="M176 161 L176 212"/>
+    <path d="M185 149 L185 161"/>
+    <path d="M185 212 L185 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 88 L140 88"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="164" cy="100" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="maximum,peak,high,statistics,chart,line">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L32 216 L224 216"/>
+    <path d="M56 176 L96 120 L128 152 L160 72 L208 136"/>
+    <path d="M56 72 L72 72"/>
+    <path d="M104 72 L120 72"/>
+    <path d="M196 72 L212 72"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="160" cy="72" r="16"/>
+  </g>
+</svg>

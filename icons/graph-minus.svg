@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="remove node,delete node,diagram,network,graph,minus">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="68" cy="68" r="24"/>
+    <circle cx="188" cy="92" r="20"/>
+    <circle cx="96" cy="188" r="24"/>
+    <circle cx="196" cy="196" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="68" cy="68" r="24"/>
+    <circle cx="188" cy="92" r="20"/>
+    <circle cx="96" cy="188" r="24"/>
+    <circle cx="196" cy="196" r="16"/>
+    <path d="M92 73 L168 88"/>
+    <path d="M73 91 L91 165"/>
+    <path d="M174 106 L113 171"/>
+    <path d="M190 112 L195 180"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 188 H216"/>
+  </g>
+</svg>

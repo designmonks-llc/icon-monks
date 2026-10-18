@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="rtl,right to left,blockquote,quote,arabic,hebrew">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 56 L208 200"/>
+    <path d="M160 56 L40 56"/>
+    <path d="M160 104 L80 104"/>
+    <path d="M160 152 L40 152"/>
+    <path d="M160 200 L104 200"/>
+  </g>
+</svg>

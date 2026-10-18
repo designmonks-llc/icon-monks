@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="codesandbox,sandbox,code,ide,web development,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L194 68 L128 104 L62 68 Z"/>
+    <path d="M216 176 L216 104 L150 140 L150 212 Z"/>
+    <path d="M40 176 L40 104 L106 140 L106 212 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L194 68 L128 104 L62 68 Z"/>
+    <path d="M216 176 L216 104 L150 140 L150 212 Z"/>
+    <path d="M40 176 L40 104 L106 140 L106 212 Z"/>
+  </g>
+</svg>

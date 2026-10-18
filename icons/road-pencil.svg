@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="edit road,map editing,road,route edit,pencil,street">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 L100 40 L156 40 L185 125 A60 60 0 0 0 133 216 Z"/>
+    <path d="M154 214 L160 194 L200 154 L214 168 L174 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 L100 40"/>
+    <path d="M185 125 L156 40"/>
+    <path d="M154 214 L160 194 L200 154 L214 168 L174 208 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 52 L128 76"/>
+    <path d="M128 108 L128 140"/>
+    <path d="M128 172 L128 200"/>
+  </g>
+</svg>

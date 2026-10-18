@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="open wifi,public network,unlocked,wifi,no password,open lock">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="160" y="176" width="64" height="48" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97 169 A44 44 0 0 1 130 156"/>
+    <path d="M66 138 A88 88 0 0 1 164 120"/>
+    <path d="M35 107 A132 132 0 0 1 221 107"/>
+    <rect x="160" y="176" width="64" height="48" rx="10"/>
+    <path d="M176 176 V164 A16 16 0 0 1 207 159"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="200" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="192" cy="200" r="9"/>
+  </g>
+</svg>

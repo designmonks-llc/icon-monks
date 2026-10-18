@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="roblox,game,gaming,platform,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M77 40 L216 77 L179 216 L40 179 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M120 113 L143 120 L136 143 L113 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M77 40 L216 77 L179 216 L40 179 Z"/>
+    <path d="M114 104 L152 114 L142 152 L104 142 Z"/>
+  </g>
+</svg>

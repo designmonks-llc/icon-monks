@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ai game,ai gaming,game generation,gamepad,controller,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 148 L96 148 L72 172 C66.98 177.02 60.82 179 55 179 C42.28 179 30.63 168.47 32 152 L36 112 C40 80 52 56 84 56 L172 56 C204 56 216 80 220 112 L223 138 A60 60 0 0 0 136 148 Z"/>
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 148 L96 148 L72 172 C66.98 177.02 60.82 179 55 179 C42.28 179 30.63 168.47 32 152 L36 112 C40 80 52 56 84 56 L172 56 C204 56 216 80 220 112 L223 138"/>
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 104 L100 104"/>
+    <path d="M84 88 L84 120"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="160" cy="96" r="12"/>
+    <circle cx="184" cy="120" r="12"/>
+  </g>
+</svg>

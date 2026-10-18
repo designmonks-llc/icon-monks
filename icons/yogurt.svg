@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="yogurt,dairy,cup,dessert,breakfast,spoon">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="100" width="176" height="28" rx="8"/>
+    <path d="M56 128 L72 216 H184 L200 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="100" width="176" height="28" rx="8"/>
+    <path d="M56 128 L72 216 H184 L200 128"/>
+    <path d="M48 100 C48 72 88 48 136 48 C152 48 168 52 176 56"/>
+    <path d="M168 96 L192 40"/>
+  </g>
+</svg>

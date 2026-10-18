@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="octopus,sea creature,ocean,tentacles,marine,squid">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 140 V112 A64 64 0 0 1 192 112 V140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 140 V112 A64 64 0 0 1 192 112 V140 Z"/>
+    <path d="M72 140 C72 168 40 164 40 196 C40 204 44 208 52 208"/>
+    <path d="M108 140 V192 C108 204 100 212 88 212"/>
+    <path d="M148 140 V192 C148 204 156 212 168 212"/>
+    <path d="M184 140 C184 168 216 164 216 196 C216 204 212 208 204 208"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="104" r="14"/>
+    <circle cx="152" cy="104" r="14"/>
+  </g>
+</svg>

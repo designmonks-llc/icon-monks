@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="safari,apple,browser,web,compass,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M182 74 L139 139 L74 182 L117 117 Z"/>
+    <path d="M128 56 V64"/>
+    <path d="M200 128 H192"/>
+    <path d="M128 200 V192"/>
+    <path d="M56 128 H64"/>
+  </g>
+</svg>

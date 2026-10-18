@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="biometric access,fingerprint lock,touch id,authentication,access control,lock">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="158" y="182" width="56" height="40" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 173 A96 96 0 0 1 224 146"/>
+    <path d="M64 200 V140 A64 64 0 0 1 190 124"/>
+    <path d="M96 176 V140 A32 32 0 0 1 160 136"/>
+    <path d="M128 140 L128 216"/>
+    <rect x="158" y="182" width="56" height="40" rx="10"/>
+    <path d="M170 182 V170 A16 16 0 0 1 202 170 V182"/>
+  </g>
+</svg>

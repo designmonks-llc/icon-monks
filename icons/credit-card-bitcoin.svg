@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="crypto card,bitcoin card,btc,payment,credit card,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 136 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H120 A63 63 0 0 1 224 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 136 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H120"/>
+    <path d="M170 144 H192 A16 16 0 0 1 192 176 H170 M192 176 H196 A16 16 0 0 1 196 208 H170 V144"/>
+    <path d="M186 132 L186 144"/>
+    <path d="M186 208 L186 220"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 107 L224 107"/>
+    <path d="M62 158 L98 158"/>
+  </g>
+</svg>

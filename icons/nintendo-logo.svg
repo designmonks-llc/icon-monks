@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="nintendo,gaming,video games,console,n,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="192" height="112" rx="56"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="192" height="112" rx="56"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 152 V104 L152 152 V104"/>
+  </g>
+</svg>

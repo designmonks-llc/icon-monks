@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="ice,ice cube,cold,frozen,chill,drinks">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M110 42 Q119 37 128 37 Q137 37 146 42 L198 70 Q216 80 216 100 L216 156 Q216 176 198 186 L146 214 Q137 219 128 219 Q119 219 110 214 L58 186 Q40 176 40 156 L40 100 Q40 80 58 70 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 42 Q119 37 128 37 Q137 37 146 42 L198 70 Q216 80 216 100 L216 156 Q216 176 198 186 L146 214 Q137 219 128 219 Q119 219 110 214 L58 186 Q40 176 40 156 L40 100 Q40 80 58 70 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 82 L128 128 L212 82"/>
+    <path d="M128 128 L128 219"/>
+    <path d="M68 132 V152"/>
+  </g>
+</svg>

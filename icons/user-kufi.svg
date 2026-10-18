@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="muslim,man,kufi,cap,avatar,profile">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 68 C84 46 104 36 128 36 C152 36 172 46 172 68 Z"/>
+    <circle cx="128" cy="88" r="44"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 68 C84 46 104 36 128 36 C152 36 172 46 172 68"/>
+    <path d="M89 68 A44 44 0 0 0 84 88 A44 44 0 0 0 128 132 A44 44 0 0 0 172 88 A44 44 0 0 0 167 68"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 68 L172 68"/>
+  </g>
+</svg>

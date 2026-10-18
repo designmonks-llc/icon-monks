@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="waze,navigation,gps,map,directions,traffic,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 172 C56 160 56 136 56 112 C56 68 92 40 136 40 C180 40 216 72 216 108 C216 144 188 176 144 176 H88 C76 176 60 174 40 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 172 C56 160 56 136 56 112 C56 68 92 40 136 40 C180 40 216 72 216 108 C216 144 188 176 144 176 H88 C76 176 60 174 40 172 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 136 A36 36 0 0 0 168 136"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="96" cy="204" r="16"/>
+    <circle cx="176" cy="204" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="112" cy="96" r="14"/>
+    <circle cx="164" cy="96" r="14"/>
+  </g>
+</svg>

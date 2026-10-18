@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="crypto portfolio,allocation,btc share,pie chart,chart,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 223 A94.53 94.53 0 0 1 61 61 A94.53 94.53 0 0 1 223 136 A61 61 0 0 0 136 223 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 223 A94.53 94.53 0 0 1 61 61 A94.53 94.53 0 0 1 223 136"/>
+    <path d="M162 158 H185 A13 13 0 0 1 185 183 H170"/>
+    <path d="M170 183 H188 A13 13 0 0 1 188 209 H162"/>
+    <path d="M170 158 L170 209"/>
+    <path d="M179 146 L179 158"/>
+    <path d="M179 209 L179 221"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 128 L45 176"/>
+  </g>
+</svg>

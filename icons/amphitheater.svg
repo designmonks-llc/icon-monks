@@ -1,0 +1,17 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="colosseum,rome,amphitheater,arena,landmark,italy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V76 C56 66 92 61 128 61 C164 61 200 66 224 76 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V76 C56 66 92 61 128 61 C164 61 200 66 224 76 V216 Z"/>
+    <path d="M32 136 H224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 136 V108 A14 14 0 0 1 86 108 V136"/>
+    <path d="M114 136 V108 A14 14 0 0 1 142 108 V136"/>
+    <path d="M170 136 V108 A14 14 0 0 1 198 108 V136"/>
+    <path d="M58 216 V180 A14 14 0 0 1 86 180 V216"/>
+    <path d="M114 216 V180 A14 14 0 0 1 142 180 V216"/>
+    <path d="M170 216 V180 A14 14 0 0 1 198 180 V216"/>
+  </g>
+</svg>

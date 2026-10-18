@@ -1,0 +1,6 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="muhammad,name,calligraphy,arabic,islam,prophet,religion,muslim">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 96 A24 24 0 0 1 148 72 A24 24 0 0 1 172 48 A24 24 0 0 1 196 72 A24 24 0 0 1 172 96 H124 C144 112 168 132 168 156 C168 180 156 200 132 200 H108 A24 24 0 0 1 84 176 A24 24 0 0 1 108 152 A24 24 0 0 1 132 176 A24 24 0 0 1 108 200 H40"/>
+    <path d="M60 200 C60 176 56 160 48 148"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="ai co-editing,collaboration,human and ai,co-pilot,team,users,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="99" cy="101" r="35"/>
+    <path d="M32 206 C32 167.22 59.43 151.55 99 152 C111.32 151.86 122.49 153.34 132 157 A58.59 58.59 0 0 0 130 206 Z"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="99" cy="101" r="35"/>
+    <path d="M32 206 C32 167.22 59.43 151.55 99 152 C111.32 151.86 122.49 153.34 132 157"/>
+    <path d="M150 58 A31.35 31.35 0 1 1 165 116"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+</svg>

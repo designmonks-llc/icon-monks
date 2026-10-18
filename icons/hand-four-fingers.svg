@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="four fingers,count,gesture,hand,number four,palm">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 140 V64 A18 18 0 0 1 92 64 V56 A18 18 0 0 1 128 56 V64 A18 18 0 0 1 164 64 V80 A18 18 0 0 1 200 80 V152 C200 196 172 224 132 224 H112 C80 224 56 204 56 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 140 V64 A18 18 0 0 1 92 64 V56 A18 18 0 0 1 128 56 V64 A18 18 0 0 1 164 64 V80 A18 18 0 0 1 200 80 V152 C200 196 172 224 132 224 H112 C80 224 56 204 56 172 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 64 L92 132"/>
+    <path d="M128 64 L128 132"/>
+    <path d="M164 80 L164 132"/>
+    <path d="M56 176 H116 A16 16 0 0 0 132 160"/>
+  </g>
+</svg>

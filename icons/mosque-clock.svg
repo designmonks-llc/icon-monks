@@ -1,0 +1,20 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="prayer time,salah,mosque,clock,schedule,islam">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 216 V136 C72 100 112 92 128 64 C141.3 87.3 171.3 96.8 181 120 A64 64 0 0 0 128 216 Z"/>
+    <path d="M32 104 L40 76 L48 104 Z"/>
+    <path d="M208 104 L216 76 L224 104 Z"/>
+    <circle cx="184" cy="184" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 216 V136 C72 100 112 92 128 64 C141.3 87.3 171.3 96.8 181 120"/>
+    <path d="M128 64 L128 44"/>
+    <path d="M40 216 V104 M32 104 L40 76 L48 104 Z"/>
+    <path d="M216 128 V104 M208 104 L216 76 L224 104 Z"/>
+    <path d="M32 216 L128 216"/>
+    <circle cx="184" cy="184" r="32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 216 V192 A16 16 0 0 1 120 192 V216"/>
+    <path d="M184 164 L184 184 L198 192"/>
+  </g>
+</svg>

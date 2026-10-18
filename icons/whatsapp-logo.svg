@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="whatsapp,messaging,chat,phone,call,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M98 210 L40 217 L52 171 A92 92 0 1 1 98 210 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 210 L40 217 L52 171 A92 92 0 1 1 98 210 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M105 87 H119 L125 109 L115 117 C124 126 130 132 139 141 L147 131 L169 137 V151 A10.08 10.08 0 0 1 159 161 C122 161 95 134 95 97 A10.08 10.08 0 0 1 105 87 Z"/>
+  </g>
+</svg>

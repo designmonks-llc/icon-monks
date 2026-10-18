@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="discord,chat,gaming,voice,community,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 60 L104 72 H152 L180 60 C204 92 216 132 216 172 C200 188 184 196 168 200 L156 180 C150 184 140 186 128 186 C116 186 106 184 100 180 L88 200 C72 196 56 188 40 172 C40 132 52 92 76 60 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 60 L104 72 H152 L180 60 C204 92 216 132 216 172 C200 188 184 196 168 200 L156 180 C150 184 140 186 128 186 C116 186 106 184 100 180 L88 200 C72 196 56 188 40 172 C40 132 52 92 76 60 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="136" r="14"/>
+    <circle cx="156" cy="136" r="14"/>
+  </g>
+</svg>

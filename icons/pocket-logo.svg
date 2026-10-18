@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="pocket,mozilla,read later,bookmark,save,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 64 A16 16 0 0 1 56 48 H200 A16 16 0 0 1 216 64 V120 A88 88 0 0 1 40 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 A16 16 0 0 1 56 48 H200 A16 16 0 0 1 216 64 V120 A88 88 0 0 1 40 120 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 104 L128 144 L168 104"/>
+  </g>
+</svg>

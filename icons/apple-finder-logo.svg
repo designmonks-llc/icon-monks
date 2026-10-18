@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="finder,apple,macos,file manager,files,desktop,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 40 C124 72 108 108 108 140 H132 C132 168 134 192 140 216"/>
+    <path d="M88 92 V108"/>
+    <path d="M172 92 V108"/>
+    <path d="M80 168 C94 178 111 183 128 183 C145 183 162 178 176 168"/>
+  </g>
+</svg>

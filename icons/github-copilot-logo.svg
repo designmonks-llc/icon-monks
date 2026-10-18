@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="copilot,github,ai,assistant,coding,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 120 C56 96 72 88 88 88 H168 C184 88 200 96 200 120 V168 C200 196 168 212 128 212 C88 212 56 196 56 168 Z"/>
+    <path d="M72 72 A24 24 0 0 1 96 48 H112 A20 20 0 0 1 128 60 A20 20 0 0 1 144 48 H160 A24 24 0 0 1 184 72 V96 A24 24 0 0 1 160 120 H96 A24 24 0 0 1 72 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 120 C56 96 72 88 88 88 H168 C184 88 200 96 200 120 V168 C200 196 168 212 128 212 C88 212 56 196 56 168 Z"/>
+    <path d="M72 72 A24 24 0 0 1 96 48 H112 A20 20 0 0 1 128 60 A20 20 0 0 1 144 48 H160 A24 24 0 0 1 184 72 V96 A24 24 0 0 1 160 120 H96 A24 24 0 0 1 72 96 Z"/>
+    <path d="M40 128 L40 168"/>
+    <path d="M216 128 L216 168"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 152 L104 172"/>
+    <path d="M152 152 L152 172"/>
+  </g>
+</svg>

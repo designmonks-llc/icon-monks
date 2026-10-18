@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="twin towers,petronas,kuala lumpur,skyscraper,landmark,malaysia">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 224 V112 L64 96 V72 L80 56 L96 72 V96 L112 112 V224 Z"/>
+    <path d="M144 224 V112 L160 96 V72 L176 56 L192 72 V96 L208 112 V224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 224 V112 L64 96 V72 L80 56 L96 72 V96 L112 112 V224 Z"/>
+    <path d="M144 224 V112 L160 96 V72 L176 56 L192 72 V96 L208 112 V224 Z"/>
+    <path d="M80 56 V32"/>
+    <path d="M176 56 V32"/>
+    <path d="M112 144 H144"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="ai swap,ai replace,smart replace,generative replace,swap,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="72" height="72" rx="12"/>
+    <path d="M188 152 C191.02 176.26 199.74 184.98 224 188 C199.74 191.02 191.02 199.74 188 224 C184.98 199.74 176.26 191.02 152 188 C176.26 184.98 184.98 176.26 188 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="72" height="72" rx="12"/>
+    <path d="M188 152 C191.02 176.26 199.74 184.98 224 188 C199.74 191.02 191.02 199.74 188 224 C184.98 199.74 176.26 191.02 152 188 C176.26 184.98 184.98 176.26 188 152 Z"/>
+    <path d="M148 60 A48 48 0 0 1 196 108"/>
+    <path d="M176 88 L196 108 L216 88"/>
+    <path d="M108 196 A48 48 0 0 1 60 148"/>
+    <path d="M80 168 L60 148 L40 168"/>
+  </g>
+</svg>

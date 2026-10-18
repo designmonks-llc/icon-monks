@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="global education,international,world,learning,book,globe">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M139 224 H72 A24 24 0 0 1 48 200 V56 A24 24 0 0 1 72 32 H208 V129 A60 60 0 0 0 139 224 Z"/>
+    <circle cx="184" cy="184" r="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139 224 H72 A24 24 0 0 1 48 200 V56 A24 24 0 0 1 72 32 H208 V129"/>
+    <circle cx="184" cy="184" r="36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 200 A24 24 0 0 1 72 176 H124"/>
+    <ellipse cx="184" cy="184" rx="14" ry="36"/>
+    <path d="M148 184 L220 184"/>
+  </g>
+</svg>

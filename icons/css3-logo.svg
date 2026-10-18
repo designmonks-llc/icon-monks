@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="css3,css,stylesheet,web,w3c,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 40 H208 L192 200 L128 224 L64 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 40 H208 L192 200 L128 224 L64 200 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 80 H160 L122 120 H128 A32 32 0 1 1 100 168"/>
+  </g>
+</svg>

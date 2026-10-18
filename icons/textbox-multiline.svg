@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="textarea,long text,multiline,input,form field,paragraph">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="44" width="192" height="168" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="44" width="192" height="168" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 84 L184 84"/>
+    <path d="M72 124 L184 124"/>
+    <path d="M72 164 L124 164"/>
+    <path d="M188 164 L164 188"/>
+  </g>
+</svg>

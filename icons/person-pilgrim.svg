@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="hajj,haji,pilgrim,ihram,pilgrimage,islam">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="56" r="24"/>
+    <path d="M96 100 H160 C172 100 180 108 182 120 L192 196 H64 L74 120 C76 108 84 100 96 100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="56" r="24"/>
+    <path d="M96 100 H160 C172 100 180 108 182 120 L192 196 H64 L74 120 C76 108 84 100 96 100 Z"/>
+    <path d="M108 196 V224"/>
+    <path d="M148 196 V224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 100 L72 168"/>
+  </g>
+</svg>

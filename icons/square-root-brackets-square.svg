@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="square root,square brackets,math,radical,formula,brackets">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 152 L52 140 L84 208 L124 48 L224 48"/>
+    <path d="M164 80 H144 V200 H164"/>
+    <path d="M196 80 H216 V200 H196"/>
+  </g>
+</svg>

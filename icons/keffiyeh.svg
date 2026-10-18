@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="keffiyeh,headdress,shemagh,scarf,agal,clothing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C168 32 184 64 184 104 V136 C184 168 208 184 216 216 H40 C48 184 72 168 72 136 V104 C72 64 88 32 128 32 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <rect x="100" y="112" width="56" height="80" rx="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C168 32 184 64 184 104 V136 C184 168 208 184 216 216 H40 C48 184 72 168 72 136 V104 C72 64 88 32 128 32 Z"/>
+    <rect x="100" y="112" width="56" height="80" rx="28"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 64 C96 72 112 76 128 76 C144 76 160 72 176 64"/>
+    <path d="M74 88 C92 96 110 100 128 100 C146 100 164 96 182 88"/>
+  </g>
+</svg>

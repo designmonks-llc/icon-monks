@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="astronaut,space,spaceman,cosmonaut,helmet,explorer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="96" r="60"/>
+    <path d="M48 216 C48 176 80 156 128 156 C176 156 208 176 208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="96" r="60"/>
+    <path d="M48 216 C48 176 80 156 128 156 C176 156 208 176 208 216"/>
+    <path d="M56 186 V148 A12 12 0 0 1 68 136 H76"/>
+    <path d="M200 186 V148 A12 12 0 0 0 188 136 H180"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="76" width="64" height="40" rx="20"/>
+  </g>
+</svg>

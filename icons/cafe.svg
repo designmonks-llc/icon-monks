@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="cafe,coffee shop,bistro,storefront,awning,outdoor seating">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 40 H208 L224 88 A24 24 0 0 1 176 88 A24 24 0 0 1 128 88 A24 24 0 0 1 80 88 A24 24 0 0 1 32 88 Z"/>
+    <path d="M76 140 H156 V188 A28 28 0 0 1 128 216 H104 A28 28 0 0 1 76 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 40 H208 L224 88 A24 24 0 0 1 176 88 A24 24 0 0 1 128 88 A24 24 0 0 1 80 88 A24 24 0 0 1 32 88 Z"/>
+    <path d="M76 140 H156 V188 A28 28 0 0 1 128 216 H104 A28 28 0 0 1 76 188 Z"/>
+    <path d="M156 152 H164 A20 20 0 0 1 164 192 H156"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 40 L80 88"/>
+    <path d="M128 40 L128 88"/>
+    <path d="M168 40 L176 88"/>
+  </g>
+</svg>

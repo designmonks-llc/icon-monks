@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="waiter,server,hospitality,restaurant,staff,serving">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="88" cy="56" r="24"/>
+    <path d="M132 112 A40 40 0 0 1 212 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="56" r="24"/>
+    <path d="M88 100 L88 152"/>
+    <path d="M40 148 L88 108 L132 144 L164 116"/>
+    <path d="M44 220 L88 152 L132 220"/>
+    <path d="M132 112 A40 40 0 0 1 212 112 Z"/>
+    <path d="M124 112 L220 112"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="172" cy="64" r="16"/>
+  </g>
+</svg>

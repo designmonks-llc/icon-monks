@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="rose,flower,bloom,valentine,garden,love,plant">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 100 A48 48 0 0 1 192 100 A64 64 0 0 1 64 100 Z"/>
+    <path d="M128 216 C128 188 148 172 180 172 C180 200 160 214 128 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 100 A48 48 0 0 1 192 100 A64 64 0 0 1 64 100"/>
+    <path d="M128 164 L128 224"/>
+    <path d="M128 216 C128 188 148 172 180 172 C180 200 160 214 128 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 100 A16 16 0 0 1 160 100 A32 32 0 0 1 96 100"/>
+  </g>
+</svg>

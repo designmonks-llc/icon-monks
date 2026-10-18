@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="torus,donut,ring,3d,geometry,shape">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="128" rx="96" ry="64"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M96 135 A32 26 0 0 1 160 135 A56 30 0 0 1 96 135 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="128" rx="96" ry="64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 110 A56 30 0 0 0 184 110"/>
+    <path d="M96 135 A32 26 0 0 1 160 135"/>
+  </g>
+</svg>

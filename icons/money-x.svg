@@ -1,0 +1,16 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="payment failed,declined,cancel payment,money,banknote,x">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M142 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 156 A50 50 0 0 0 142 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M142 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 156"/>
+    <path d="M172 174 L212 214"/>
+    <path d="M212 174 L172 214"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="129" r="26"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="129" r="16"/>
+  </g>
+</svg>

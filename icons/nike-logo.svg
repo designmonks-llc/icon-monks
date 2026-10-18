@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="nike,swoosh,sports,apparel,footwear,athletic,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 80 L96 172 C82.85 181.04 69.65 185 59 185 C43.73 185 33.64 176.49 36 160 C38 146 48 132 60 120 C57.33 126.67 56 132.67 56 138 C56 148.67 61.33 156 72 156 C84 156 96 150 108 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 80 L96 172 C82.85 181.04 69.65 185 59 185 C43.73 185 33.64 176.49 36 160 C38 146 48 132 60 120 C57.33 126.67 56 132.67 56 138 C56 148.67 61.33 156 72 156 C84 156 96 150 108 144 Z"/>
+  </g>
+</svg>

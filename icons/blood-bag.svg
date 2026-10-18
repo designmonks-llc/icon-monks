@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="blood bag,blood donation,transfusion,iv bag,donate,blood">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="32" width="128" height="160" rx="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="32" width="128" height="160" rx="24"/>
+    <path d="M128 192 V204 A20 20 0 0 0 148 224 H200"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 60 H144"/>
+    <path d="M128 98 C121 108 106 124 106 142 A22 22 0 0 0 128 164 A22 22 0 0 0 150 142 C150 124 135 108 128 98 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="flying,superhero,person,flight,motion,action">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="88" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="88" r="24"/>
+    <path d="M136 144 L80 144"/>
+    <path d="M136 144 L216 100"/>
+    <path d="M80 144 L32 132"/>
+    <path d="M80 144 L36 164"/>
+    <path d="M72 192 L128 192"/>
+    <path d="M112 220 L168 220"/>
+  </g>
+</svg>

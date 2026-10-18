@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="train track,railway,rails,sleepers,railroad,line">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 224 L108 32"/>
+    <path d="M200 224 L148 32"/>
+    <path d="M40 200 L216 200"/>
+    <path d="M60 148 L196 148"/>
+    <path d="M76 104 L180 104"/>
+    <path d="M88 68 L168 68"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="crypto vault,cold storage,secure bitcoin,btc,safe,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="32" width="192" height="168" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="32" width="192" height="168" rx="16"/>
+    <path d="M72 200 L72 216"/>
+    <path d="M184 200 L184 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M91 84 H113 A16 16 0 0 1 113 116 H91 M113 116 H117 A16 16 0 0 1 117 148 H91 V84"/>
+    <path d="M107 72 L107 84"/>
+    <path d="M107 148 L107 160"/>
+    <path d="M184 88 L184 144"/>
+  </g>
+</svg>

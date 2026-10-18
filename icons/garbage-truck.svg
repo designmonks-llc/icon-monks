@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="garbage truck,refuse,waste,trash,collection,sanitation">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 159 V104 A56 56 0 0 1 88 48 H140 A15 15 0 0 1 155 63 V159 Z"/>
+    <path d="M155 97 H189 L224 136 V159 H155 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 159 V104 A56 56 0 0 1 88 48 H140 A15 15 0 0 1 155 63 V159 Z"/>
+    <path d="M155 97 H189 L224 136 V159 H155"/>
+    <circle cx="78" cy="186" r="19"/>
+    <circle cx="186" cy="186" r="19"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 96 L120 96"/>
+    <path d="M80 96 L86 136 L106 136 L112 96"/>
+  </g>
+</svg>

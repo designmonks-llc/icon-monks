@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="cosine,cos,trigonometry,math,function,formula">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M73 125 A24 44 0 1 0 73 187"/>
+    <ellipse cx="128" cy="156" rx="24" ry="44"/>
+    <path d="M222 126 A24 22 0 1 0 200 156 A24 22 0 1 1 178 186"/>
+  </g>
+</svg>

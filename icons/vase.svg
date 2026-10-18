@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="vase,flower vase,pottery,decor,jar,ceramic,urn">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 40 H176 C160 48 148 58 148 72 V80 C180 92 200 116 200 144 C200 176 184 200 164 216 H92 C72 200 56 176 56 144 C56 116 76 92 108 80 V72 C108 58 96 48 80 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 40 H176 C160 48 148 58 148 72 V80 C180 92 200 116 200 144 C200 176 184 200 164 216 H92 C72 200 56 176 56 144 C56 116 76 92 108 80 V72 C108 58 96 48 80 40 Z"/>
+  </g>
+</svg>

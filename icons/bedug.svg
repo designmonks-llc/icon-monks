@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="bedug,drum,mosque drum,indonesia,ramadan,percussion">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M168 60 H64 A20 52 0 0 0 64 164 H168 Z"/>
+    <ellipse cx="168" cy="112" rx="24" ry="52"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 60 H64 A20 52 0 0 0 64 164 H168"/>
+    <ellipse cx="168" cy="112" rx="24" ry="52"/>
+    <path d="M92 164 L68 212"/>
+    <path d="M140 164 L164 212"/>
+    <path d="M76 196 L156 196"/>
+    <path d="M208 156 L224 216"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="206" cy="148" r="16"/>
+  </g>
+</svg>

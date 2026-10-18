@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="forward 5 seconds,skip 5,jump ahead,seek forward,video,audio">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 136 A88 88 0 1 1 190 74"/>
+    <path d="M154 74 L190 74 L190 38"/>
+    <path d="M148 108 H112 V134 H130 A17 17 0 0 1 130 168 H108"/>
+  </g>
+</svg>

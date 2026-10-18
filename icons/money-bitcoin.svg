@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="bitcoin banknote,crypto cash,btc,paper money,cryptocurrency,payment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="69" width="192" height="118" rx="13"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="69" width="192" height="118" rx="13"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 98 H130 A15 15 0 0 1 130 128 H110 M130 128 H134 A15 15 0 0 1 134 158 H110 V98"/>
+    <path d="M122 88 L122 98"/>
+    <path d="M122 158 L122 168"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="128" r="16"/>
+    <circle cx="187" cy="128" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="ai genetics,ai biology,gene,helix,dna,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 32 C48 80 144 80 144 128 C144 176 48 176 48 224"/>
+    <path d="M144 32 C144 80 48 80 48 128 C48 162.1 96.94 171.93 125 192"/>
+    <path d="M72 112 L120 112"/>
+    <path d="M72 144 L120 144"/>
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="rtl,right to left,dash list,list,arabic,hebrew">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 64 L40 64"/>
+    <path d="M152 128 L40 128"/>
+    <path d="M152 192 L40 192"/>
+    <path d="M216 64 L192 64"/>
+    <path d="M216 128 L192 128"/>
+    <path d="M216 192 L192 192"/>
+  </g>
+</svg>

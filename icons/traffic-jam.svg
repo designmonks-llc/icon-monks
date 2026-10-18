@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="traffic jam,congestion,gridlock,cars,delay,queue">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="104" y="164" width="120" height="45" rx="10"/>
+    <path d="M152 108 V94 A10 10 0 0 0 142 84 H42 A10 10 0 0 0 32 94 V119 A10 10 0 0 0 42 129 H108 L124 108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="104" y="164" width="120" height="45" rx="10"/>
+    <path d="M119 164 L134 129 L194 129 L209 164"/>
+    <path d="M119 209 V219 A5 5 0 0 0 124 224 H134 A5 5 0 0 0 139 219 V209"/>
+    <path d="M189 209 V219 A5 5 0 0 0 194 224 H204 A5 5 0 0 0 209 219 V209"/>
+    <path d="M47 84 L62 49 L122 49 L137 84"/>
+    <path d="M152 108 V94 A10 10 0 0 0 142 84 H42 A10 10 0 0 0 32 94 V119 A10 10 0 0 0 42 129 H108"/>
+    <path d="M47 129 V139 A5 5 0 0 0 52 144 H62 A5 5 0 0 0 67 139 V129"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154 189 L174 189"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="129" cy="187" r="10"/>
+    <circle cx="199" cy="187" r="10"/>
+    <circle cx="57" cy="106" r="10"/>
+  </g>
+</svg>

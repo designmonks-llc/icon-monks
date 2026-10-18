@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google lens,google,visual search,camera,image search,lens,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 152 V88 A48 48 0 0 0 168 40 H88 A48 48 0 0 0 40 88 V168 A48 48 0 0 0 88 216 H152"/>
+    <circle cx="128" cy="128" r="36"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="192" cy="192" r="16"/>
+  </g>
+</svg>

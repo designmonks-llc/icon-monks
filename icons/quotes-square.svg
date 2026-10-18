@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="quote,quotes,quotation,citation,square,blockquote">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="148" r="20"/>
+    <path d="M76 148 V140 C76 116 88 100 112 92"/>
+    <circle cx="160" cy="148" r="20"/>
+    <path d="M140 148 V140 C140 116 152 100 176 92"/>
+  </g>
+</svg>

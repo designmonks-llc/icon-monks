@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="baggage claim,luggage,airport,conveyor,arrivals,travel">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 168 H196 A28 28 0 0 1 196 224 H60 A28 28 0 0 1 60 168 Z"/>
+    <rect x="72" y="64" width="112" height="80" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 168 H196 A28 28 0 0 1 196 224 H60 A28 28 0 0 1 60 168 Z"/>
+    <rect x="72" y="64" width="112" height="80" rx="12"/>
+    <path d="M100 64 V44 A12 12 0 0 1 112 32 H144 A12 12 0 0 1 156 44 V64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 88 L108 120"/>
+    <path d="M148 88 L148 120"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="64" cy="196" r="14"/>
+    <circle cx="192" cy="196" r="14"/>
+  </g>
+</svg>

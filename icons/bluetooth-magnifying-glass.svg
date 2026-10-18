@@ -1,0 +1,10 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="bluetooth search,find device,scan,pairing,discover,magnifying glass">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="186" cy="182" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 88 L140 168 L92 208 L92 48 L140 88 L44 168"/>
+    <circle cx="186" cy="182" r="22"/>
+    <path d="M202 198 L218 214"/>
+  </g>
+</svg>

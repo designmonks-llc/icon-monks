@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="3d printer,additive manufacturing,fabrication,prototype,printing,maker">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="104" y="40" width="48" height="32" rx="8"/>
+    <rect x="96" y="136" width="64" height="56" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 224 V40 H208 V224"/>
+    <path d="M48 192 H208"/>
+    <rect x="104" y="40" width="48" height="32" rx="8"/>
+    <path d="M116 72 L128 92 L140 72"/>
+    <rect x="96" y="136" width="64" height="56" rx="8"/>
+  </g>
+</svg>

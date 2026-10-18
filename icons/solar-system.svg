@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="solar system,planets,orbit,sun,astronomy,space">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="24"/>
+    <path d="M188 128 A60 60 0 1 1 128 68"/>
+    <path d="M36 157 A96 96 0 1 1 99 220"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="170" cy="86" r="20"/>
+    <circle cx="60" cy="196" r="20"/>
+  </g>
+</svg>

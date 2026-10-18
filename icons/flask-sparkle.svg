@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="ai chemistry,ai science,lab,experiment,flask,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M70 152 L44 192 C41.86 195.22 41 198.02 41 201 C41 209.15 48.29 216 60 216 H135 A60 60 0 0 1 140 152 Z"/>
+    <path d="M188 152 C191.03 176.26 199.74 184.97 224 188 C199.74 191.03 191.03 199.74 188 224 C184.97 199.74 176.26 191.03 152 188 C176.26 184.97 184.97 176.26 188 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M135 216 H60 C48.29 216 41 209.15 41 201 C41 198.02 41.86 195.22 44 192 L104 100 V40"/>
+    <path d="M171 129 L152 100 V40"/>
+    <path d="M88 40 L168 40"/>
+    <path d="M70 152 L140 152"/>
+    <path d="M188 152 C191.03 176.26 199.74 184.97 224 188 C199.74 191.03 191.03 199.74 188 224 C184.97 199.74 176.26 191.03 152 188 C176.26 184.97 184.97 176.26 188 152 Z"/>
+  </g>
+</svg>

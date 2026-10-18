@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="add fingerprint,enroll,biometric,fingerprint,new,plus">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 173 A96 96 0 0 1 218 173"/>
+    <path d="M64 200 V140 A64 64 0 0 1 192 140 V168"/>
+    <path d="M96 176 V140 A32 32 0 0 1 160 140 V200"/>
+    <path d="M128 140 L128 216"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V216"/>
+    <path d="M160 188 H216"/>
+  </g>
+</svg>

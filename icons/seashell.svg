@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="seashell,scallop,shell,beach,ocean,shellfish,clam">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 196 L44 108 A34.68 34.68 0 0 1 40.4 92.62 A34.68 34.68 0 0 1 73 58 A35.11 35.11 0 0 1 107.13 31.13 A35.11 35.11 0 0 1 128 38 A35.11 35.11 0 0 1 148.87 31.13 A35.11 35.11 0 0 1 183 58 A34.68 34.68 0 0 1 215.6 92.62 A34.68 34.68 0 0 1 212 108 L148 196 L160 216 L96 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 196 L44 108 A34.68 34.68 0 0 1 40.4 92.62 A34.68 34.68 0 0 1 73 58 A35.11 35.11 0 0 1 107.13 31.13 A35.11 35.11 0 0 1 128 38 A35.11 35.11 0 0 1 148.87 31.13 A35.11 35.11 0 0 1 183 58 A34.68 34.68 0 0 1 215.6 92.62 A34.68 34.68 0 0 1 212 108 L148 196 L160 216 L96 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M73 58 L103 138"/>
+    <path d="M128 38 L128 129"/>
+    <path d="M183 58 L153 138"/>
+  </g>
+</svg>

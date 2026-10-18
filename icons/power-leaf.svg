@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="eco power,green energy,renewable,sustainable,power,leaf">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M172 84 C169.6 57.4 186.2 38.4 220 36 C222.4 67.4 203.4 86.4 172 84 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 L128 120"/>
+    <path d="M88 72 A80 80 0 1 0 203 114"/>
+    <path d="M172 84 C169.6 57.4 186.2 38.4 220 36 C222.4 67.4 203.4 86.4 172 84 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 84 L204 52"/>
+  </g>
+</svg>

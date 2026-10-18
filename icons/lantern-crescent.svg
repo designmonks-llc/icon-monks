@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="eid mubarak,eid,ramadan,lantern,crescent,celebration,islam">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 88 L40 128 L56 192 L120 192 L136 128 L120 88 Z"/>
+    <path d="M56 88 A32 32 0 0 1 88 56 A32 32 0 0 1 120 88 Z"/>
+    <path d="M177 149 A36 36 0 1 0 219 191 A30 30 0 0 1 177 149 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="44" r="12"/>
+    <path d="M56 88 A32 32 0 0 1 88 56 A32 32 0 0 1 120 88"/>
+    <path d="M56 88 L40 128 L56 192 L120 192 L136 128 L120 88 Z"/>
+    <path d="M88 192 L88 216"/>
+    <path d="M177 149 A36 36 0 1 0 219 191 A30 30 0 0 1 177 149 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 88 L88 192"/>
+  </g>
+</svg>

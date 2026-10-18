@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ipod,apple,music player,mp3,device,click wheel,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="60" y="32" width="136" height="192" rx="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="60" y="32" width="136" height="192" rx="24"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="56" width="80" height="48" rx="8"/>
+    <circle cx="128" cy="164" r="32"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="164" r="14"/>
+  </g>
+</svg>

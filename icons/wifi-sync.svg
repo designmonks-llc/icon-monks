@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="wifi,sync,reconnect,refresh,wireless,network">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97 169 A44 44 0 0 1 130 156"/>
+    <path d="M66 138 A88 88 0 0 1 164 120"/>
+    <path d="M35 107 A132 132 0 0 1 221 107"/>
+    <path d="M150 172 A36 36 0 0 1 212 161"/>
+    <path d="M218 196 A36 36 0 0 1 156 207"/>
+    <path d="M212 145 L212 161 L196 161"/>
+    <path d="M156 223 L156 207 L172 207"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="200" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="weight change,fluctuation,approximate,variation,weight,measurement">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 216 A68 68 0 1 1 193 136 A52 52 0 0 0 144 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M193 136 A68 68 0 1 0 96 216 H144"/>
+    <path d="M80 112 L70 66 A24 24 0 0 1 94 36 H162 A24 24 0 0 1 186 66 L176 112"/>
+    <path d="M160 204 C163.78 186.78 170.09 178.5 176 178 C180.49 178.5 184.55 181.84 188 188 C191.45 194.17 195.51 197.5 200 198 C205.91 197.5 212.22 189.22 216 172"/>
+  </g>
+</svg>

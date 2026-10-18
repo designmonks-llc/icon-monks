@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="rate,feedback,like,dislike,vote,review">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M61 164 L78 126 C80 119.6 84.8 117.2 90 117 C99.2 117.2 106.4 124.4 104 135 L99 159 L130 159 C140 159.2 147.2 167.6 145 177 L138 212 C136.4 219.2 130.4 224 123 224 L61 224 Z"/>
+    <rect x="32" y="164" width="29" height="60" rx="6"/>
+    <path d="M195 92 L178 130 C176 136.4 171.2 138.8 166 139 C156.8 138.8 149.6 131.6 152 121 L157 97 L126 97 C116 96.8 108.8 88.4 111 79 L118 44 C119.6 36.8 125.6 32 133 32 L195 32 Z"/>
+    <rect x="195" y="32" width="29" height="60" rx="6"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M61 164 L78 126 C80 119.6 84.8 117.2 90 117 C99.2 117.2 106.4 124.4 104 135 L99 159 L130 159 C140 159.2 147.2 167.6 145 177 L138 212 C136.4 219.2 130.4 224 123 224 L61 224 Z"/>
+    <rect x="32" y="164" width="29" height="60" rx="6"/>
+    <path d="M195 92 L178 130 C176 136.4 171.2 138.8 166 139 C156.8 138.8 149.6 131.6 152 121 L157 97 L126 97 C116 96.8 108.8 88.4 111 79 L118 44 C119.6 36.8 125.6 32 133 32 L195 32 Z"/>
+    <rect x="195" y="32" width="29" height="60" rx="6"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M61 169 L61 219"/>
+    <path d="M195 87 L195 37"/>
+  </g>
+</svg>

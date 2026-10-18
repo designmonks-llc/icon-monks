@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="cinnamon roll,pastry,bun,bakery,dessert,swirl">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M148 202 A84 84 0 1 1 180 186 C180 206 174 224 164 224 C154 224 148 214 148 202 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 202 A84 84 0 1 1 180 186 C180 206 174 224 164 224 C154 224 148 214 148 202 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 120 A16 16 0 0 0 112 120 A32 32 0 0 0 176 120 A48 48 0 0 0 80 120"/>
+  </g>
+</svg>

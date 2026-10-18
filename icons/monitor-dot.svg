@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="monitor,notification,status,online,indicator,display,desktop">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M174 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V166 A36 36 0 0 0 174 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V166"/>
+    <path d="M128 176 L128 208"/>
+    <path d="M88 208 L168 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="204" cy="196" r="20"/>
+  </g>
+</svg>

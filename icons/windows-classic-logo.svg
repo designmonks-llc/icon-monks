@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="windows,microsoft,operating system,classic,retro,flag,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 64 C58.29 56.29 69.06 54 80 54 C107.35 54 136.27 71 166 71 C179.88 71 194 67 208 56 V184 C194 195 179.88 199 166 199 C136.27 199 107.35 182 80 182 C69.06 182 58.29 184.29 48 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 C58.29 56.29 69.06 54 80 54 C107.35 54 136.27 71 166 71 C179.88 71 194 67 208 56 V184 C194 195 179.88 199 166 199 C136.27 199 107.35 182 80 182 C69.06 182 58.29 184.29 48 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 128 C58.29 120.29 69.06 118 80 118 C107.35 118 136.27 135 166 135 C179.88 135 194 131 208 120"/>
+    <path d="M128 64 V192"/>
+  </g>
+</svg>

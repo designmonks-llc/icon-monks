@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="wechat,messaging,chat,messenger,social,tencent,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 100 A68 56 0 1 1 168 100 A68 56 0 1 1 32 100 Z"/>
+    <path d="M192 199 A56 46 0 1 1 208 189 L214 214 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 155 A68 56 0 0 1 68 149 L52 176 L49 137 A68 56 0 1 1 166 112"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 199 A56 46 0 1 1 208 189 L214 214 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="76" cy="92" r="14"/>
+    <circle cx="124" cy="92" r="14"/>
+    <circle cx="146" cy="156" r="14"/>
+    <circle cx="186" cy="156" r="14"/>
+  </g>
+</svg>

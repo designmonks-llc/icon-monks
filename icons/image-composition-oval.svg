@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="oval composition,framing,portrait guide,photography,image,oval">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="192" height="160" rx="14"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 104 A48 56 0 0 1 176 128 A48 56 0 0 1 172 152"/>
+    <path d="M148 179 A48 56 0 0 1 128 184 A48 56 0 0 1 108 179"/>
+    <path d="M84 152 A48 56 0 0 1 80 128 A48 56 0 0 1 84 104"/>
+    <path d="M108 77 A48 56 0 0 1 128 72 A48 56 0 0 1 148 77"/>
+  </g>
+</svg>

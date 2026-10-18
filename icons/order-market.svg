@@ -1,0 +1,14 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="market order,trading,instant buy,stocks,order,chart">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="100" width="40" height="64" rx="8"/>
+    <rect x="104" y="64" width="40" height="72" rx="8"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="100" width="40" height="64" rx="8"/>
+    <rect x="104" y="64" width="40" height="72" rx="8"/>
+    <path d="M60 72 V100 M60 164 V196"/>
+    <path d="M124 40 V64 M124 136 V168"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+</svg>

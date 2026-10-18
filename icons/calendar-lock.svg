@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="private event,locked date,calendar,lock,restricted,booking">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124 216 L54 216 A14 14 0 0 1 40 202 L40 62 A14 14 0 0 1 54 48 L202 48 A14 14 0 0 1 216 62 L216 124 A68 68 0 0 0 124 216 Z"/>
+    <rect x="154" y="176" width="60" height="44" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 216 L54 216 A14 14 0 0 1 40 202 L40 62 A14 14 0 0 1 54 48 L202 48 A14 14 0 0 1 216 62 L216 124"/>
+    <path d="M88 32 L88 72"/>
+    <path d="M168 32 L168 72"/>
+    <rect x="154" y="176" width="60" height="44" rx="8"/>
+    <path d="M168 176 V164 A16 16 0 0 1 200 164 V176"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 L216 104"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="staking,stake,locked coins,crypto,earn,coins">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M166 139 A68 68 0 1 0 137 213 A56 56 0 0 1 166 139 Z"/>
+    <path d="M98 64 A68 68 0 1 1 212 139 A56 56 0 0 0 189 134 A92 92 0 0 0 98 64 Z"/>
+    <rect x="160" y="184" width="56" height="40" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M166 139 A68 68 0 1 0 137 213"/>
+    <path d="M98 64 A68 68 0 1 1 212 139"/>
+    <rect x="160" y="184" width="56" height="40" rx="8"/>
+    <path d="M172 184 V172 A16 16 0 0 1 204 172 V184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="156" r="32"/>
+  </g>
+</svg>

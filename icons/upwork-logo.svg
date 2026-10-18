@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="upwork,freelance,marketplace,gig work,jobs,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 80 V124 A36 36 0 0 0 112 124 V80"/>
+    <circle cx="184" cy="128" r="36"/>
+    <path d="M148 136 L136 216"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="app menu,apps,launcher,grid menu,circle,dots">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="84" r="14"/>
+    <circle cx="128" cy="84" r="14"/>
+    <circle cx="172" cy="84" r="14"/>
+    <circle cx="84" cy="128" r="14"/>
+    <circle cx="128" cy="128" r="14"/>
+    <circle cx="172" cy="128" r="14"/>
+    <circle cx="84" cy="172" r="14"/>
+    <circle cx="128" cy="172" r="14"/>
+    <circle cx="172" cy="172" r="14"/>
+  </g>
+</svg>

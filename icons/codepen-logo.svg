@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="codepen,code editor,playground,frontend,web development,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L216 88 L216 168 L128 224 L40 168 L40 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L216 88 L216 168 L128 224 L40 168 L40 88 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 128 L128 72 L216 128 L128 184 Z"/>
+    <path d="M128 32 V72"/>
+    <path d="M128 184 V224"/>
+  </g>
+</svg>

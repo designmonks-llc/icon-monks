@@ -1,0 +1,13 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="crypto security,secure bitcoin,btc,protection,shield,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M125 197 C122.54 198.13 120.47 199.01 118 200 C83 186 48 158 48 109 L48 60 L118 32 L188 60 L188 109 C188 114.26 187.77 119.21 187 124 A60 60 0 0 0 125 197 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125 197 C122.54 198.13 120.47 199.01 118 200 C83 186 48 158 48 109 L48 60 L118 32 L188 60 L188 109 C188 114.26 187.77 119.21 187 124"/>
+    <path d="M162 158 H186 A13 13 0 0 1 186 184 H170"/>
+    <path d="M170 184 H189 A13 13 0 0 1 189 210 H162"/>
+    <path d="M170 158 L170 210"/>
+    <path d="M180 146 L180 158"/>
+    <path d="M180 210 L180 222"/>
+  </g>
+</svg>

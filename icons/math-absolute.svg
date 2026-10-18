@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="absolute value,modulus,math,algebra,x,bars">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 40 V216"/>
+    <path d="M200 40 V216"/>
+    <path d="M96 96 L160 160"/>
+    <path d="M160 96 L96 160"/>
+  </g>
+</svg>

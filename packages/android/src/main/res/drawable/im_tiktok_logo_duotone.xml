@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+  android:width="24dp" android:height="24dp"
+  android:viewportWidth="256" android:viewportHeight="256"
+  android:tint="?android:attr/colorControlNormal" android:autoMirrored="false">
+  <path android:fillColor="@android:color/white" android:fillAlpha="0.2" android:pathData="M124 36V156C124 169.25 113.25 180 100 180C86.75 180 76 169.25 76 156C76 142.75 86.75 132 100 132V92C64.65 92 36 120.65 36 156C36 191.35 64.65 220 100 220C135.35 220 164 191.35 164 156V112C176 122 192 128 212 128V88C188 88 164 68 164 36H124Z"/>
+  <path android:fillColor="@android:color/white" android:pathData="M118.34 30.34A8 8 0 0 0 116 36V156A16 16 0 1 1 100 140A8 8 0 0 0 108 132V92A8 8 0 0 0 100 84Q70.18 84 49.09 105.09Q28 126.18 28 156Q28 185.82 49.09 206.91Q70.18 228 100 228Q129.82 228 150.91 206.91Q172 185.82 172 156V126.91Q189.39 136 212 136A8 8 0 0 0 220 128V88A8 8 0 0 0 212 80Q196.31 80 184.66 68.34Q172 55.69 172 36A8 8 0 0 0 164 28H124A8 8 0 0 0 118.34 30.34ZM204 95.45V119.64Q183.4 117.75 169.12 105.85A8 8 0 0 0 156 112V156A56 56 0 1 1 60.4 116.4Q73.9 102.9 92 100.51V124.94A31.53 31.53 0 0 0 77.37 133.37A32 32 0 1 0 132 156V44H156.42A59.34 59.34 0 0 0 173.34 79.66Q186.68 93 204 95.45Z"/>
+</vector>

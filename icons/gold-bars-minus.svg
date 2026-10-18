@@ -1,0 +1,11 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="sell gold,gold,bullion,divest,sell,minus">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 L112 216 L92 144 L52 144 Z"/>
+    <path d="M88 112 L168 112 L148 40 L108 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 L112 216 L92 144 L52 144 Z"/>
+    <path d="M88 112 L168 112 L148 40 L108 40 Z"/>
+    <path d="M160 188 H216"/>
+  </g>
+</svg>

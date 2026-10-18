@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="salary,business,finance,investment,earnings,briefcase,dollar">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="192" height="136" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="192" height="136" rx="16"/>
+    <path d="M88 72 V56 A16 16 0 0 1 104 40 H152 A16 16 0 0 1 168 56 V72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 96 L128 184"/>
+    <path d="M154 112 H114 A14 14 0 0 0 114 140 H142 A14 14 0 0 1 142 168 H102"/>
+  </g>
+</svg>

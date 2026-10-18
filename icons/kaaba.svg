@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="kaaba,mecca,hajj,landmark,islam,cube">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 48 L216 64 L216 184 L152 216 L40 200 L40 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 48 L216 64 L216 184 L152 216 L40 200 L40 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 80 L152 96 L216 64"/>
+    <path d="M152 96 L152 216"/>
+    <path d="M40 112 L152 128 L216 96"/>
+    <path d="M100 186 L100 160 L124 163 L124 189"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="snapchat,ghost,snap,social media,messaging,story,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 112 V100 A56 56 0 0 1 184 100 V112 L208 120 L188 144 C192 168 204 180 220 184 C208 196 184 196 176 208 C172.8 206.4 169.98 206 167 206 C155.1 206 144 216 128 216 C112 216 100.9 206 89 206 C86.02 206 83.2 206.4 80 208 C72 196 48 196 36 184 C52 180 64 168 68 144 L48 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 112 V100 A56 56 0 0 1 184 100 V112 L208 120 L188 144 C192 168 204 180 220 184 C208 196 184 196 176 208 C172.8 206.4 169.98 206 167 206 C155.1 206 144 216 128 216 C112 216 100.9 206 89 206 C86.02 206 83.2 206.4 80 208 C72 196 48 196 36 184 C52 180 64 168 68 144 L48 120 Z"/>
+  </g>
+</svg>

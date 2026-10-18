@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="adventure,rpg,quest,sword,shield,fantasy,battle,game">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 48 L184 72 V120 C184 164 156 188 128 200 C100 188 72 164 72 120 V72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 48 L184 72 V120 C184 164 156 188 128 200 C100 188 72 164 72 120 V72 Z"/>
+    <path d="M220 36 L198 58"/>
+    <path d="M48 176 L80 208"/>
+    <path d="M64 192 L52 204"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="44" cy="212" r="16"/>
+  </g>
+</svg>

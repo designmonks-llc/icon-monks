@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="ai brain,artificial intelligence,mind,thinking,intelligence,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 222 132 A64 64 0 0 0 123 203 A32 32 0 0 1 96 204 A32 32 0 0 1 52 164 A32 32 0 0 1 44 112 A32 32 0 0 1 72 64 A32 32 0 0 1 128 56 Z"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 56 A32 32 0 0 0 72 64 A32 32 0 0 0 44 112 A32 32 0 0 0 52 164 A32 32 0 0 0 96 204 A32 32 0 0 0 123 203"/>
+    <path d="M128 56 A32 32 0 0 1 184 64 A32 32 0 0 1 212 112 A32 32 0 0 1 222 132"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 153"/>
+    <path d="M84 132 A28 28 0 0 1 100 104"/>
+  </g>
+</svg>

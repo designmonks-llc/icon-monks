@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="catalog,catalogue,brochure,products,inventory,publication">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 72 C111.43 58.75 87.04 51 54 51 C47.16 51 39.55 51.31 32 52 V196 C39.55 195.31 47.16 195 54 195 C87.04 195 111.43 202.75 128 216 C144.57 202.75 168.96 195 202 195 C208.84 195 216.45 195.31 224 196 V52 C216.45 51.31 208.84 51 202 51 C168.96 51 144.57 58.75 128 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 C111.43 58.75 87.04 51 54 51 C47.16 51 39.55 51.31 32 52 V196 C39.55 195.31 47.16 195 54 195 C87.04 195 111.43 202.75 128 216 C144.57 202.75 168.96 195 202 195 C208.84 195 216.45 195.31 224 196 V52 C216.45 51.31 208.84 51 202 51 C168.96 51 144.57 58.75 128 72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 72 L128 216"/>
+    <path d="M64 104 L96 104"/>
+    <path d="M64 144 L96 144"/>
+    <rect x="156" y="100" width="12" height="12" rx="2"/>
+    <rect x="188" y="100" width="12" height="12" rx="2"/>
+    <rect x="156" y="136" width="12" height="12" rx="2"/>
+    <rect x="188" y="136" width="12" height="12" rx="2"/>
+  </g>
+</svg>

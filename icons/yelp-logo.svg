@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="yelp,reviews,rating,restaurant,local business,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 108 L154 60 A26 26 0 0 0 102 60 Z"/>
+    <path d="M151 125 L205 134 A26 26 0 0 0 188 85 Z"/>
+    <path d="M142 151 L149 206 A26 26 0 0 0 191 175 Z"/>
+    <path d="M114 151 L65 175 A26 26 0 0 0 107 206 Z"/>
+    <path d="M105 125 L68 85 A26 26 0 0 0 51 134 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 108 L154 60 A26 26 0 0 0 102 60 Z"/>
+    <path d="M151 125 L205 134 A26 26 0 0 0 188 85 Z"/>
+    <path d="M142 151 L149 206 A26 26 0 0 0 191 175 Z"/>
+    <path d="M114 151 L65 175 A26 26 0 0 0 107 206 Z"/>
+    <path d="M105 125 L68 85 A26 26 0 0 0 51 134 Z"/>
+  </g>
+</svg>

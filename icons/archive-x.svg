@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="delete archive,remove archive,archive,box,storage,x">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="44" width="192" height="52" rx="12"/>
+    <path d="M48 96 V200 A16 16 0 0 0 64 216 H192 A16 16 0 0 0 208 200 V96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="44" width="192" height="52" rx="12"/>
+    <path d="M48 96 V200 A16 16 0 0 0 64 216 H192 A16 16 0 0 0 208 200 V96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 140 L152 140"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 168 L208 208"/>
+    <path d="M208 168 L168 208"/>
+  </g>
+</svg>

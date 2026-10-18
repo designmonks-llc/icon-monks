@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="camel,desert,hump,dromedary,travel,animal">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 88 C36 76 44 68 56 68 L64 68 C72 68 76 74 76 82 C76 100 84 112 104 112 C112 80 132 64 152 64 C176 64 188 88 200 104 C212 116 216 128 216 140 C216 148 212 152 204 152 L104 152 C88 152 72 144 64 128 C60 118 56 104 52 100 C48 96 36 96 36 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 88 C36 76 44 68 56 68 L64 68 C72 68 76 74 76 82 C76 100 84 112 104 112 C112 80 132 64 152 64 C176 64 188 88 200 104 C212 116 216 128 216 140 C216 148 212 152 204 152 L104 152 C88 152 72 144 64 128 C60 118 56 104 52 100 C48 96 36 96 36 88 Z"/>
+    <path d="M108 152 L96 216"/>
+    <path d="M124 152 L136 216"/>
+    <path d="M180 152 L168 216"/>
+    <path d="M196 152 L208 216"/>
+  </g>
+</svg>

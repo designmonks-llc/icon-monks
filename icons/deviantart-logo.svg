@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="deviantart,art,creative,community,artists,social,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M180 40 H150 L132 72 H76 V116 H104 L76 176 V216 H104 L124 184 H180 V140 H152 L180 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 40 H150 L132 72 H76 V116 H104 L76 176 V216 H104 L124 184 H180 V140 H152 L180 80 Z"/>
+  </g>
+</svg>

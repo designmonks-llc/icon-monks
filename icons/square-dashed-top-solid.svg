@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="solid top,border top,partial border,square,dashed,edge">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 V54 A14 14 0 0 1 54 40 H202 A14 14 0 0 1 216 54 V104"/>
+    <path d="M216 192 V202 A14 14 0 0 1 202 216 H192"/>
+    <path d="M64 216 H54 A14 14 0 0 1 40 202 V192"/>
+    <path d="M40 136 L40 160"/>
+    <path d="M216 136 L216 160"/>
+    <path d="M96 216 L112 216"/>
+    <path d="M144 216 L160 216"/>
+  </g>
+</svg>

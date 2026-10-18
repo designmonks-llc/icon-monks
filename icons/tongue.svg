@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="tongue,mouth,taste,lick,body part,lips">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 92 C60 56 84 40 104 42 C114 43 122 48 128 54 C134 48 142 43 152 42 C172 40 196 56 224 92 C196 134 164 152 128 152 C92 152 60 134 32 92 Z"/>
+    <path d="M88 97 V180 A40 40 0 0 0 168 180 V97 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 92 C60 56 84 40 104 42 C114 43 122 48 128 54 C134 48 142 43 152 42 C172 40 196 56 224 92"/>
+    <path d="M224 92 C206.84 117.75 188.17 134.47 168 144"/>
+    <path d="M88 144 C67.83 134.47 49.16 117.75 32 92"/>
+    <path d="M88 97 V180 A40 40 0 0 0 168 180 V97"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 92 C84 96 106 98 128 98 C150 98 172 96 188 92"/>
+    <path d="M128 156 L128 184"/>
+  </g>
+</svg>

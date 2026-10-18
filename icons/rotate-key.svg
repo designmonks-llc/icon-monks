@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="key rotation,rotate credentials,renew key,api key,security,rotate">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="108" cy="156" r="18"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 136 A84 84 0 1 0 69 77"/>
+    <path d="M113 77 L69 77 L69 33"/>
+    <circle cx="108" cy="156" r="18"/>
+    <path d="M121 143 L160 104"/>
+    <path d="M150 114 L166 130"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="swim fins,flippers,diving,snorkeling,swimming,scuba">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 64 A20 20 0 0 1 100 64 V100 L116 208 A8 8 0 0 1 108 216 H52 A8 8 0 0 1 44 208 L60 100 Z"/>
+    <path d="M156 64 A20 20 0 0 1 196 64 V100 L212 208 A8 8 0 0 1 204 216 H148 A8 8 0 0 1 140 208 L156 100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 64 A20 20 0 0 1 100 64 V100 L116 208 A8 8 0 0 1 108 216 H52 A8 8 0 0 1 44 208 L60 100 Z"/>
+    <path d="M156 64 A20 20 0 0 1 196 64 V100 L212 208 A8 8 0 0 1 204 216 H148 A8 8 0 0 1 140 208 L156 100 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 100 L100 100"/>
+    <path d="M156 100 L196 100"/>
+    <path d="M80 132 L80 188"/>
+    <path d="M176 132 L176 188"/>
+  </g>
+</svg>

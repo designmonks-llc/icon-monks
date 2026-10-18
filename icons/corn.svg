@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="corn,maize,crop,grain,agriculture,vegetable">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 160 V84 A44 44 0 0 1 172 84 V160 Z"/>
+    <path d="M128 224 C96 220 64 196 56 136 C84 148 104 168 116 196 Z"/>
+    <path d="M128 224 C160 220 192 196 200 136 C172 148 152 168 140 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 160 V84 A44 44 0 0 1 172 84 V160"/>
+    <path d="M128 224 C96 220 64 196 56 136 C84 148 104 168 116 196"/>
+    <path d="M128 224 C160 220 192 196 200 136 C172 148 152 168 140 196"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M113 68 V152"/>
+    <path d="M143 68 V152"/>
+  </g>
+</svg>

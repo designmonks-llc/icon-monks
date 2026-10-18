@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="night snow,snowfall,winter,forecast,moon,cloud">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M113 156 L178 156 A29.57 29.57 0 0 0 186 98 A40.32 40.32 0 0 0 105 103 A26.88 26.88 0 0 0 113 156 Z"/>
+    <path d="M70 112 Q71.02 107.9 73.04 104.2 Q78.47 95.82 86.48 90.76 Q89.29 78.89 96.56 68.92 C93.27 63.2 91.52 56.83 92 50 C91.52 44.13 93.23 37.79 97 32 C72.63 33.72 54.56 53.32 55 77 C54.55 90.84 60.28 103.34 70 112 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M113 156 L178 156 A29.57 29.57 0 0 0 186 98 A40.32 40.32 0 0 0 105 103 A26.88 26.88 0 0 0 113 156 Z"/>
+    <path d="M70 112 A45.83 45.83 0 0 1 97 32"/>
+    <path d="M97 69 A37.5 37.5 0 0 1 97 32"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="108" cy="184" r="14"/>
+    <circle cx="152" cy="184" r="14"/>
+    <circle cx="196" cy="184" r="14"/>
+    <circle cx="130" cy="216" r="14"/>
+    <circle cx="174" cy="216" r="14"/>
+  </g>
+</svg>

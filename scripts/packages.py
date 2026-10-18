@@ -27,7 +27,10 @@ ICONS = DATA['icons']
 WEIGHTS = DATA['weights']
 SOLID_WEIGHTS = [w for w in WEIGHTS if w != 'duotone']
 VERSION = json.load(open(os.path.join(ROOT, 'package.json')))['version']
-CHANGELOG = ('## 0.3.0\n\n- Adds 4,235 icons (4,732 total) across 30 categories, unifies icon families and fixes shapes '
+CHANGELOG = ('## Unreleased\n\n- Adds 786 icons (5,518 total) across 31 categories, including a new Brands category. '
+             'Variant icons share one badge pattern, every icon passes a strict lint, and the web component loads icons '
+             'on demand.\n\n'
+             '## 0.3.0\n\n- Adds 4,235 icons (4,732 total) across 30 categories, unifies icon families and fixes shapes '
              'that collapsed in some weights.\n\n'
              '## 0.2.0\n\n- Adds 400 icons (497 total) across 22 categories.\n\n## 0.1.0\n\n- Initial release with 97 icons.\n')
 LICENSE = open(os.path.join(ROOT, 'LICENSE.md')).read()  # not LICENSE: the site's license/ page shares that name on case-insensitive disks

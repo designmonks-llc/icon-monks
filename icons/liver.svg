@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="liver,organ,hepatology,anatomy,digestion,health">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 96 C72 72 128 60 176 60 C204 60 220 80 220 112 C220 160 196 196 160 196 C136 196 132 168 112 160 C88 150 56 124 32 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 C72 72 128 60 176 60 C204 60 220 80 220 112 C220 160 196 196 160 196 C136 196 132 168 112 160 C88 150 56 124 32 96 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 64 C134 88 130 108 124 128"/>
+  </g>
+</svg>

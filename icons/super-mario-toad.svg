@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="toad,super mario,nintendo,mushroom,character,game,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 124 A92 92 0 0 1 220 124 Q220 148 196 148 H60 Q36 148 36 124 Z"/>
+    <path d="M80 148 V172 A44 44 0 0 0 124 216 H132 A44 44 0 0 0 176 172 V148 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="128" cy="76" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 124 A92 92 0 0 1 220 124 Q220 148 196 148 H60 Q36 148 36 124 Z"/>
+    <path d="M80 148 V172 A44 44 0 0 0 124 216 H132 A44 44 0 0 0 176 172 V148"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="76" r="24"/>
+    <path d="M36 124 A32 32 0 0 0 57 65"/>
+    <path d="M199 65 A32 32 0 0 0 220 124"/>
+    <path d="M112 168 V184"/>
+    <path d="M144 168 V184"/>
+  </g>
+</svg>

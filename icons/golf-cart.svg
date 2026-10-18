@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="golf cart,buggy,golf,cart,electric,course">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="136" width="192" height="32" rx="12"/>
+    <circle cx="72" cy="192" r="24"/>
+    <circle cx="184" cy="192" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 48"/>
+    <path d="M64 48 V136"/>
+    <path d="M184 48 L200 136"/>
+    <rect x="32" y="136" width="192" height="32" rx="12"/>
+    <path d="M88 80 V112 H136"/>
+    <circle cx="72" cy="192" r="24"/>
+    <circle cx="184" cy="192" r="24"/>
+  </g>
+</svg>

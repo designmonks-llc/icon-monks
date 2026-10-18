@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mastodon,social media,fediverse,decentralized,social network,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M216 152 V96 C216 64 192 40 160 40 H96 C64 40 40 64 40 96 V144 C40 184 64 212 120 212 C136 212 148 210 160 206 V184 C149.28 186.14 139.69 187 131 187 C107.27 187 92 179.71 92 168 C106.64 170.93 122.71 173 139 173 C167.21 173 195.71 167.22 216 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 152 V96 C216 64 192 40 160 40 H96 C64 40 40 64 40 96 V144 C40 184 64 212 120 212 C136 212 148 210 160 206 V184 C149.28 186.14 139.69 187 131 187 C107.27 187 92 179.71 92 168 C106.64 170.93 122.71 173 139 173 C167.21 173 195.71 167.22 216 152 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 136 V104 C88 92 96 84 108 84 C120 84 128 92 128 104 V124"/>
+    <path d="M128 104 C128 92 136 84 148 84 C160 84 168 92 168 104 V136"/>
+  </g>
+</svg>

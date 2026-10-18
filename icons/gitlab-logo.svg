@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="gitlab,git,devops,code,repository,tanuki,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 212 L220 144 L192 48 L164 112 H92 L64 48 L36 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 212 L220 144 L192 48 L164 112 H92 L64 48 L36 144 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 112 L128 212 L164 112"/>
+  </g>
+</svg>

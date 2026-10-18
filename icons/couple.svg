@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="couple,man and woman,pair,partners,family,two people">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="76" cy="56" r="24"/>
+    <circle cx="172" cy="56" r="24"/>
+    <path d="M156 96 L188 96 L216 176 L128 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="56" r="24"/>
+    <path d="M76 100 L76 152"/>
+    <path d="M40 140 L76 108 L112 140"/>
+    <path d="M48 216 L76 152 L104 216"/>
+    <circle cx="172" cy="56" r="24"/>
+    <path d="M156 96 L188 96 L216 176 L128 176 Z"/>
+    <path d="M156 176 L156 216"/>
+    <path d="M188 176 L188 216"/>
+  </g>
+</svg>

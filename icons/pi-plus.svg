@@ -1,0 +1,9 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="pi,insert,add,math,constant,plus">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 80 Q50 60 76 60 H184"/>
+    <path d="M92 60 Q92 140 68 180"/>
+    <path d="M144 60 V156 Q144 172 156 172"/>
+    <path d="M192 168 V224"/>
+    <path d="M164 196 L220 196"/>
+  </g>
+</svg>

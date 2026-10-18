@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="ham,pork,meat,roast,butcher,protein">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M168 80 L108 80 A20 20 0 0 0 80 108 L80 168 A72 72 0 1 0 168 80 Z"/>
+    <path d="M68 68 A18 18 0 1 1 56 56 A18 18 0 1 1 68 68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 80 L108 80 A20 20 0 0 0 80 108 L80 168 A72 72 0 1 0 168 80 Z"/>
+    <path d="M86 86 L70 70"/>
+    <path d="M68 68 A18 18 0 1 1 56 56 A18 18 0 1 1 68 68 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 160 L160 112"/>
+    <path d="M140 188 L188 140"/>
+  </g>
+</svg>

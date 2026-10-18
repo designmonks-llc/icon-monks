@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="dropbox,cloud storage,file sharing,sync,backup,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 40 L128 68 L84 96 L40 68 Z"/>
+    <path d="M172 40 L216 68 L172 96 L128 68 Z"/>
+    <path d="M84 96 L128 124 L84 152 L40 124 Z"/>
+    <path d="M172 96 L216 124 L172 152 L128 124 Z"/>
+    <path d="M128 160 L168 188 L128 216 L88 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 40 L128 68 L84 96 L40 68 Z"/>
+    <path d="M172 40 L216 68 L172 96 L128 68 Z"/>
+    <path d="M84 96 L128 124 L84 152 L40 124 Z"/>
+    <path d="M172 96 L216 124 L172 152 L128 124 Z"/>
+    <path d="M128 160 L168 188 L128 216 L88 188 Z"/>
+  </g>
+</svg>

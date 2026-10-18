@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="folder,attachment,paperclip,attach,documents,email">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M116 208 H48 A16 16 0 0 1 32 192 V72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V124 A72 72 0 0 0 116 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 208 H48 A16 16 0 0 1 32 192 V72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V124"/>
+    <path d="M182 174 L162 194 A13 13 0 0 0 181 212 L209 184 A26 26 0 0 0 172 147 L143 177"/>
+  </g>
+</svg>

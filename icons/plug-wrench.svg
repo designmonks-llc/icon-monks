@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="power service,electrical service,electrician,maintenance,plug,wrench">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M134 184 A64 64 0 0 1 64 120 V72 H192 V120 A54 54 0 0 0 134 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M134 184 A64 64 0 0 1 64 120 V72 H192 V120"/>
+    <path d="M104 32 L104 72"/>
+    <path d="M152 32 L152 72"/>
+    <path d="M128 184 L128 224"/>
+    <path d="M216 177 A18 18 0 1 1 195 156"/>
+    <path d="M185 187 L162 210"/>
+  </g>
+</svg>

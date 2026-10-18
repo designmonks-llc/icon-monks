@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="pay with bitcoin,crypto shopping,btc,cart,checkout,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M138 160 L92 160 L73 80 L224 80 L211 124 A64 64 0 0 0 138 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L64 40 L92 160 L138 160"/>
+    <path d="M211 124 L224 80 L73 80"/>
+    <circle cx="104" cy="204" r="16"/>
+    <path d="M174 156 H194 A14 14 0 0 1 194 184 H174 M194 184 H198 A14 14 0 0 1 198 212 H174 V156"/>
+    <path d="M186 146 L186 156"/>
+    <path d="M186 212 L186 222"/>
+  </g>
+</svg>

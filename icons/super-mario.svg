@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="super mario,mario,nintendo,game,cap,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 152 C40 92 80 52 128 52 C176 52 216 92 216 152 C219.87 154.58 222 159.16 222 164 C222 166.66 221.42 169.17 220 172 C196 188 164 196 128 196 C92 196 60 188 36 172 C34.58 169.17 34 166.66 34 164 C34 159.16 36.13 154.58 40 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 152 C40 92 80 52 128 52 C176 52 216 92 216 152 C219.87 154.58 222 159.16 222 164 C222 166.66 221.42 169.17 220 172 C196 188 164 196 128 196 C92 196 60 188 36 172 C34.58 169.17 34 166.66 34 164 C34 159.16 36.13 154.58 40 152 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 152 C60 160 94 164 128 164 C162 164 196 160 216 152"/>
+    <path d="M96 128 V84 L128 112 L160 84 V128"/>
+  </g>
+</svg>

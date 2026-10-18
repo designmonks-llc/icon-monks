@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="satellite dish,dish antenna,receiver,signal,broadcast,tv">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 88 L168 208 A110 110 0 0 1 157.5 208.5 A110 110 0 0 1 47.5 98.5 A110 110 0 0 1 48 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 88 L168 208 A110 110 0 0 1 157.5 208.5 A110 110 0 0 1 47.5 98.5 A110 110 0 0 1 48 88 Z"/>
+    <path d="M108 148 L148 108"/>
+    <path d="M80 176 L80 216"/>
+    <path d="M56 216 L104 216"/>
+    <path d="M155 69 A40 40 0 0 1 187 101"/>
+    <path d="M161 33 A76 76 0 0 1 223 95"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="148" cy="108" r="16"/>
+  </g>
+</svg>

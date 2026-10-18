@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="ai calendar,smart scheduling,planner,schedule,appointment,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M133 216 H54 A14 14 0 0 1 40 202 V62 A14 14 0 0 1 54 48 H202 A14 14 0 0 1 216 62 V133 A60 60 0 0 0 133 216 Z"/>
+    <path d="M184 144 C187.33 170.67 197.33 180.67 224 184 C197.33 187.33 187.33 197.33 184 224 C180.67 197.33 170.67 187.33 144 184 C170.67 180.67 180.67 170.67 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133 216 H54 A14 14 0 0 1 40 202 V62 A14 14 0 0 1 54 48 H202 A14 14 0 0 1 216 62 V133"/>
+    <path d="M88 32 L88 72"/>
+    <path d="M168 32 L168 72"/>
+    <path d="M184 144 C187.33 170.67 197.33 180.67 224 184 C197.33 187.33 187.33 197.33 184 224 C180.67 197.33 170.67 187.33 144 184 C170.67 180.67 180.67 170.67 184 144 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 104 L216 104"/>
+  </g>
+</svg>

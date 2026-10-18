@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="numero,number sign,no,ordinal,typography,text">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 216 V40 L140 216 V40"/>
+    <circle cx="188" cy="84" r="24"/>
+    <path d="M164 140 L212 140"/>
+  </g>
+</svg>

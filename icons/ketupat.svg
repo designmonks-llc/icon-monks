@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="ketupat,rice cake,woven,eid,indonesia,malaysia">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 64 L206 142 L128 220 L50 142 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 64 L206 142 L128 220 L50 142 Z"/>
+    <path d="M128 64 L108 32"/>
+    <path d="M128 64 L148 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 168 L154 90"/>
+    <path d="M102 194 L180 116"/>
+    <path d="M76 116 L154 194"/>
+    <path d="M102 90 L180 168"/>
+  </g>
+</svg>

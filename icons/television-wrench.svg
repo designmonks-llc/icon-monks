@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="tv repair,television,fix,service,maintenance,wrench">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 140 V96 A16 16 0 0 0 208 80 H48 A16 16 0 0 0 32 96 V200 A16 16 0 0 0 48 216 H135 A60 60 0 0 1 224 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 140 V96 A16 16 0 0 0 208 80 H48 A16 16 0 0 0 32 96 V200 A16 16 0 0 0 48 216 H135"/>
+    <path d="M88 32 L128 80 L168 32"/>
+    <path d="M216 177 A18 18 0 1 1 195 156"/>
+    <path d="M185 187 L162 210"/>
+  </g>
+</svg>

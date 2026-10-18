@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="photoshop,adobe,ps,photo editing,image editing,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 172 V92 H94 A22 22 0 0 1 94 136 H72"/>
+    <path d="M180 130 C176 126 168 124 160 124 C148 124 140 129 140 136 C140 143 148 148 160 148 C172 148 180 153 180 160 C180 167 172 172 160 172 C152 172 144 170 140 166"/>
+  </g>
+</svg>

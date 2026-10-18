@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="radiator,heater,space heater,heating,warmth,appliance">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 76 A20 20 0 0 1 68 56 A20 20 0 0 1 88 76 A20 20 0 0 1 108 56 A20 20 0 0 1 128 76 A20 20 0 0 1 148 56 A20 20 0 0 1 168 76 A20 20 0 0 1 188 56 A20 20 0 0 1 208 76 L208 180 A20 20 0 0 1 188 200 A20 20 0 0 1 168 180 A20 20 0 0 1 148 200 A20 20 0 0 1 128 180 A20 20 0 0 1 108 200 A20 20 0 0 1 88 180 A20 20 0 0 1 68 200 A20 20 0 0 1 48 180 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 76 A20 20 0 0 1 68 56 A20 20 0 0 1 88 76 A20 20 0 0 1 108 56 A20 20 0 0 1 128 76 A20 20 0 0 1 148 56 A20 20 0 0 1 168 76 A20 20 0 0 1 188 56 A20 20 0 0 1 208 76 L208 180 A20 20 0 0 1 188 200 A20 20 0 0 1 168 180 A20 20 0 0 1 148 200 A20 20 0 0 1 128 180 A20 20 0 0 1 108 200 A20 20 0 0 1 88 180 A20 20 0 0 1 68 200 A20 20 0 0 1 48 180 Z"/>
+    <path d="M68 200 L68 216"/>
+    <path d="M188 200 L188 216"/>
+    <path d="M208 92 L224 92"/>
+    <path d="M224 76 L224 108"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 76 L88 180"/>
+    <path d="M128 76 L128 180"/>
+    <path d="M168 76 L168 180"/>
+  </g>
+</svg>

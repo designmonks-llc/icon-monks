@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="ai art,generative art,ai drawing,image generation,paint,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 88 L168 128 L114 182 C97.65 198.35 82.52 204 67 204 C61.04 204 55.28 203.57 49 202 C46.18 176.54 57.03 158.97 74 142 Z"/>
+    <path d="M188 152 C191.02 176.19 199.81 184.98 224 188 C199.81 191.02 191.02 199.81 188 224 C184.98 199.81 176.19 191.02 152 188 C176.19 184.98 184.98 176.19 188 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M187 46 A16 16 0 0 1 210 69 L159 120 L136 97 Z"/>
+    <path d="M128 88 L168 128 L114 182 C97.65 198.35 82.52 204 67 204 C61.04 204 55.28 203.57 49 202 C46.18 176.54 57.03 158.97 74 142 Z"/>
+    <path d="M188 152 C191.02 176.19 199.81 184.98 224 188 C199.81 191.02 191.02 199.81 188 224 C184.98 199.81 176.19 191.02 152 188 C176.19 184.98 184.98 176.19 188 152 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 117 L139 156"/>
+  </g>
+</svg>

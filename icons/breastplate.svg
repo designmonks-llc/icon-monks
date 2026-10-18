@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="breastplate,body armor,chest plate,armor,warrior,cuirass">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 40 C96 52 112 56 128 56 C144 56 160 52 168 40 L200 56 C192 64 192 80 192 92 C192 108 200 120 208 128 L192 184 L208 208 L128 224 L48 208 L64 184 L48 128 C56 120 64 108 64 92 C64 80 64 64 56 56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 40 C96 52 112 56 128 56 C144 56 160 52 168 40 L200 56 C192 64 192 80 192 92 C192 108 200 120 208 128 L192 184 L208 208 L128 224 L48 208 L64 184 L48 128 C56 120 64 108 64 92 C64 80 64 64 56 56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 80 L128 184"/>
+    <path d="M64 184 L192 184"/>
+  </g>
+</svg>

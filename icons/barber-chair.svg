@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="barber chair,salon,barbershop,haircut,chair,stylist">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    M96 128 V48 A16 16 0 0 1 112 32 H144 A16 16 0 0 1 160 48 V128 Z
+    <rect x="48" y="128" width="160" height="32" rx="12"/>
+    <rect x="32" y="96" width="40" height="32" rx="12"/>
+    <rect x="184" y="96" width="40" height="32" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 128 V48 A16 16 0 0 1 112 32 H144 A16 16 0 0 1 160 48 V128"/>
+    <rect x="48" y="128" width="160" height="32" rx="12"/>
+    <rect x="32" y="96" width="40" height="32" rx="12"/>
+    <rect x="184" y="96" width="40" height="32" rx="12"/>
+    <path d="M128 160 V216"/>
+    <path d="M88 188 H168"/>
+    <path d="M80 216 H176"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="vscode,visual studio code,code editor,ide,microsoft,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M168 36 L212 56 V200 L168 220 L84 148 L56 172 L36 160 V96 L56 84 L84 108 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M168 88 L120 128 L168 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 36 L212 56 V200 L168 220 L84 148 L56 172 L36 160 V96 L56 84 L84 108 Z"/>
+    <path d="M168 88 L120 128 L168 168 Z"/>
+  </g>
+</svg>

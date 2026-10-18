@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="trullo,trulli,cone roof,stone hut,alberobello,cottage">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 144 L128 60 L196 144 Z"/>
+    <path d="M72 144 V208 H184 V144 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M116 208 V180 A12 12 0 0 1 140 180 V208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 144 L128 60 L196 144 Z"/>
+    <path d="M72 144 V208 H184 V144"/>
+    <path d="M108 208 V180 A20 20 0 0 1 148 180 V208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="48" r="16"/>
+  </g>
+</svg>

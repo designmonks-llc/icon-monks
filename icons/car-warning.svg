@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="car alert,vehicle warning,car problem,breakdown,caution,warning">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="112" width="192" height="72" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="112" width="192" height="72" rx="16"/>
+    <path d="M56 112 L80 56 L176 56 L200 112"/>
+    <path d="M56 184 V200 A8 8 0 0 0 64 208 H80 A8 8 0 0 0 88 200 V184"/>
+    <path d="M168 184 V200 A8 8 0 0 0 176 208 H192 A8 8 0 0 0 200 200 V184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 152 L144 152"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="72" cy="148" r="16"/>
+    <circle cx="184" cy="148" r="16"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V186"/>
+    <circle cx="188" cy="212" r="12"/>
+  </g>
+</svg>

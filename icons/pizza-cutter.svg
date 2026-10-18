@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="pizza cutter,wheel cutter,kitchen,slicer,pizza,tool">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="96" cy="160" r="64"/>
+    <path d="M163 75 L199 39 A12.73 12.73 0 0 1 217 57 L181 93 A12.73 12.73 0 0 1 163 75 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="160" r="64"/>
+    <path d="M138 78 L178 118"/>
+    <path d="M163 75 L199 39 A12.73 12.73 0 0 1 217 57 L181 93 A12.73 12.73 0 0 1 163 75 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 160 L158 98"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="160" r="16"/>
+  </g>
+</svg>

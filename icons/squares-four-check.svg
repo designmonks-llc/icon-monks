@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="grid check,squares,select all,apps,approved,check,dashboard">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="72" height="72" rx="10"/>
+    <rect x="144" y="40" width="72" height="72" rx="10"/>
+    <rect x="40" y="144" width="72" height="72" rx="10"/>
+    <rect x="144" y="144" width="72" height="72" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="72" height="72" rx="10"/>
+    <rect x="144" y="40" width="72" height="72" rx="10"/>
+    <rect x="40" y="144" width="72" height="72" rx="10"/>
+    <rect x="144" y="144" width="72" height="72" rx="10"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162 190 L180 208 L214 172"/>
+  </g>
+</svg>

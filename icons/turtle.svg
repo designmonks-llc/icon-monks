@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="turtle,tortoise,reptile,slow,shell,wildlife,pet">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 144 A72 64 0 0 1 120 80 A72 64 0 0 1 192 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 144 A72 64 0 0 1 120 80 A72 64 0 0 1 192 144 Z"/>
+    <path d="M184 144 H200 A20 20 0 0 0 220 124 A20 20 0 0 0 200 104 C192 104 186 108 182 112"/>
+    <path d="M64 144 V168 A12 12 0 0 0 88 168 V144"/>
+    <path d="M152 144 V168 A12 12 0 0 0 176 168 V144"/>
+    <path d="M48 144 L32 156"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 144 L104 84"/>
+    <path d="M148 144 L136 84"/>
+  </g>
+</svg>

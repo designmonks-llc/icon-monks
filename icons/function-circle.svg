@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="function,f(x),math,formula,code,circle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M166 90 C161.6 80.96 152.64 78.72 146 79 C136.96 78.72 132.48 85.44 130 94 L119 162 C116.8 170.56 112.32 177.28 103 177 C96.64 177.28 92.16 175.04 90 168"/>
+    <path d="M110 115 L157 115"/>
+  </g>
+</svg>

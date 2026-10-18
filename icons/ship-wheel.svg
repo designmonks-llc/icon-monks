@@ -1,0 +1,17 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="ship wheel,helm,steering,nautical,captain,marine,boat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="28"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="68"/>
+    <circle cx="128" cy="128" r="28"/>
+    <path d="M156 128 L224 128"/>
+    <path d="M148 148 L196 196"/>
+    <path d="M128 156 L128 224"/>
+    <path d="M108 148 L60 196"/>
+    <path d="M100 128 L32 128"/>
+    <path d="M108 108 L60 60"/>
+    <path d="M128 100 L128 32"/>
+    <path d="M148 108 L196 60"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="videotape,video cassette,vhs,retro,tape,recording,movie">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="68" width="192" height="120" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="68" width="192" height="120" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 96 L184 96"/>
+    <circle cx="88" cy="140" r="20"/>
+    <circle cx="168" cy="140" r="20"/>
+    <path d="M88 120 L168 120"/>
+    <path d="M88 160 L168 160"/>
+  </g>
+</svg>

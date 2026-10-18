@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="dual sim,sim card,two sims,mobile,carrier,cellular">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 72 H128 L168 112 V208 A16 16 0 0 1 152 224 H56 A16 16 0 0 1 40 208 V88 A16 16 0 0 1 56 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 72 H128 L168 112 V208 A16 16 0 0 1 152 224 H56 A16 16 0 0 1 40 208 V88 A16 16 0 0 1 56 72 Z"/>
+    <path d="M88 48 A16 16 0 0 1 104 32 H176 L216 72 V168 A16 16 0 0 1 200 184 H192"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="136" width="64" height="64" rx="8"/>
+  </g>
+</svg>

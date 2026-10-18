@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="permanent job,full-time,tenure,career,employment,briefcase">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="72" width="192" height="136" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="192" height="136" rx="16"/>
+    <path d="M88 72 V56 A16 16 0 0 1 104 40 H152 A16 16 0 0 1 168 56 V72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 183 140 C 183.2 153.12 175.81 168.2 161 168 C 146.86 168.2 135.21 150.31 128 140 C 120.79 129.69 109.14 111.8 95 112 C 80.19 111.8 72.8 126.88 73 140 C 72.8 153.12 80.19 168.2 95 168 C 109.14 168.2 120.79 150.31 128 140 C 135.21 129.69 146.86 111.8 161 112 C 175.81 111.8 183.2 126.88 183 140 Z"/>
+  </g>
+</svg>

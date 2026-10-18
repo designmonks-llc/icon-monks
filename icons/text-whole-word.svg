@@ -1,0 +1,9 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="whole word,match word,find,search,text,word">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="76" cy="124" r="36"/>
+    <path d="M112 88 L112 160"/>
+    <path d="M144 40 L144 160"/>
+    <circle cx="180" cy="124" r="36"/>
+    <path d="M40 184 V208 H216 V184"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="airbnb,vacation rental,lodging,travel,booking,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 184 C116 204 104 216 84 216 C60 216 40 196 40 172 C40 160 44 152 48 144 L108 52 A24 24 0 0 1 148 52 L208 144 C212 152 216 160 216 172 C216 196 196 216 172 216 C152 216 140 204 128 184 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M128 184 C104 160 96 148 96 132 A32 32 0 0 1 160 132 C160 148 152 160 128 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 184 C116 204 104 216 84 216 C60 216 40 196 40 172 C40 160 44 152 48 144 L108 52 A24 24 0 0 1 148 52 L208 144 C212 152 216 160 216 172 C216 196 196 216 172 216 C152 216 140 204 128 184 Z"/>
+    <path d="M128 184 C104 160 96 148 96 132 A32 32 0 0 1 160 132 C160 148 152 160 128 184 Z"/>
+  </g>
+</svg>

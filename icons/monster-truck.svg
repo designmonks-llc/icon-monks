@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="monster truck,off road,truck,big wheels,stunt,4x4">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 120 V96 H104 L120 60 H172 L188 96 H216 V120 Z"/>
+    <circle cx="76" cy="180" r="40"/>
+    <circle cx="180" cy="180" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 120 V96 H104 L120 60 H172 L188 96 H216 V120 Z"/>
+    <circle cx="76" cy="180" r="40"/>
+    <circle cx="180" cy="180" r="40"/>
+    <path d="M76 120 L76 140"/>
+    <path d="M180 120 L180 140"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="76" cy="180" r="14"/>
+    <circle cx="180" cy="180" r="14"/>
+  </g>
+</svg>

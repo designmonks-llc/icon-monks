@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="monocle,eyeglass,lens,vintage,gentleman,optics">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="104" cy="104" r="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="104" cy="104" r="64"/>
+    <path d="M168 104 C208 128 160 176 200 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 104 A32 32 0 0 1 104 72"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="re,reply,email reply,response,subject,mail">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 208 V48 H68 A36 36 0 0 1 68 120 H36"/>
+    <path d="M64 120 L104 208"/>
+    <path d="M120 176 H184 A32 32 0 1 0 175 199"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="212" cy="152" r="16"/>
+    <circle cx="212" cy="196" r="16"/>
+  </g>
+</svg>

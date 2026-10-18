@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="gemini,google gemini,google,ai,assistant,sparkle,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C128 88 168 128 224 128 C168 128 128 168 128 224 C128 168 88 128 32 128 C88 128 128 88 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C128 88 168 128 224 128 C168 128 128 168 128 224 C128 168 88 128 32 128 C88 128 128 88 128 32 Z"/>
+  </g>
+</svg>

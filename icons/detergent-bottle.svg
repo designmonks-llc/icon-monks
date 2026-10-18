@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="detergent,laundry,soap,cleaning,washing,jug">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 208 V104 L88 72 H184 A16 16 0 0 1 200 88 V208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 Z"/>
+    <rect x="96" y="40" width="40" height="32" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 208 V104 L88 72 H184 A16 16 0 0 1 200 88 V208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 Z"/>
+    <rect x="96" y="40" width="40" height="32" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="144" y="96" width="32" height="40" rx="12"/>
+    <circle cx="108" cy="172" r="20"/>
+    <circle cx="152" cy="192" r="12"/>
+  </g>
+</svg>

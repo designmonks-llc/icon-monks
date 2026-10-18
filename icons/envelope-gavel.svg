@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="subpoena,summons,legal notice,court,law,official">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 116 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H112 A72 72 0 0 1 224 116 Z"/>
+    <path d="M147 161 L207 139 L217 165 L157 187 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 116 V70 A14 14 0 0 0 210 56 H46 A14 14 0 0 0 32 70 V186 A14 14 0 0 0 46 200 H112"/>
+    <path d="M147 161 L207 139 L217 165 L157 187 Z"/>
+    <path d="M187 176 L200 214"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 76 L128 140 L208 76"/>
+  </g>
+</svg>

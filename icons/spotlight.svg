@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="spotlight,stage light,featured,highlight,theater,focus">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 40 L136 96 L96 136 L40 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 40 L136 96 L96 136 L40 80 Z"/>
+    <path d="M64 112 V224"/>
+    <path d="M40 224 H88"/>
+    <path d="M136 96 L224 136 A110 110 0 0 1 136 224 L96 136"/>
+  </g>
+</svg>

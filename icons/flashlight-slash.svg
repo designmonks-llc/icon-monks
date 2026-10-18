@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="flashlight off,torch off,light off,disabled,slash">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M158 36 L220 98 A12 12 0 0 1 220 115 L206 129 L155 135 L79 211 A12 12 0 0 1 62 211 L45 194 A12 12 0 0 1 45 177 L121 101 L127 50 L141 36 A12 12 0 0 1 158 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M158 36 L220 98 A12 12 0 0 1 220 115 L206 129 L155 135 L79 211 A12 12 0 0 1 62 211 L45 194 A12 12 0 0 1 45 177 L121 101 L127 50 L141 36 A12 12 0 0 1 158 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M127 50 L206 129"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="152" r="12"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

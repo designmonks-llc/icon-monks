@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="pound cashback,refund,rebate,money back,gbp,currency">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 136 V82 A13 13 0 0 0 211 69 H45 A13 13 0 0 0 32 82 V174 A13 13 0 0 0 45 187 H128 A60 60 0 0 1 224 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 136 V82 A13 13 0 0 0 211 69 H45 A13 13 0 0 0 32 82 V174 A13 13 0 0 0 45 187 H128"/>
+    <path d="M166 168 L196 168 A18 18 0 0 1 196 204 L176 204"/>
+    <path d="M184 150 L166 168 L184 186"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 104 A16 16 0 0 0 116 112 V142 C116 152 110 158 100 158 H144"/>
+    <path d="M100 132 L134 132"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="128" r="16"/>
+  </g>
+</svg>

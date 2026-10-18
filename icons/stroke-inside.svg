@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="stroke position,inner stroke,inside border,stroke alignment,inset,vector">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="88" width="80" height="80" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="88" width="80" height="80" rx="8"/>
+    <path d="M40 104 V56 A16 16 0 0 1 56 40 H104"/>
+    <path d="M152 40 H200 A16 16 0 0 1 216 56 V104"/>
+    <path d="M216 152 V200 A16 16 0 0 1 200 216 H152"/>
+    <path d="M104 216 H56 A16 16 0 0 1 40 200 V152"/>
+  </g>
+</svg>

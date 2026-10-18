@@ -1,0 +1,17 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="global soil moisture,satellite,agriculture,regional,soil,water">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 208 C40 120 88 64 128 64 C153.67 64 182.62 87.06 202 127 A60 60 0 0 0 129 208 Z"/>
+    <circle cx="184" cy="184" r="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 208 C40 120 88 64 128 64 C153.67 64 182.62 87.06 202 127"/>
+    <path d="M32 208 L129 208"/>
+    <circle cx="184" cy="184" r="36"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 88 C122 96 110 108 110 124 A18 18 0 0 0 146 124 C146 108 134 96 128 88 Z"/>
+    <path d="M56 168 Q72 152 88 168 T120 168"/>
+    <ellipse cx="184" cy="184" rx="14" ry="36"/>
+    <path d="M148 184 L220 184"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="lantern,camping light,lamp,outdoor,glow,portable light">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 96 L96 64 H160 L184 96 V192 H72 Z"/>
+    <rect x="64" y="192" width="128" height="24" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 64 A24 24 0 0 1 152 64"/>
+    <path d="M72 96 L96 64 H160 L184 96 Z"/>
+    <path d="M80 96 V192"/>
+    <path d="M176 96 V192"/>
+    <rect x="64" y="192" width="128" height="24" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 176 C114 176 104 166 104 152 C104 136 120 128 128 112 C136 128 152 136 152 152 C152 166 142 176 128 176 Z"/>
+  </g>
+</svg>

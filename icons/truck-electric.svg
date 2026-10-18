@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="electric truck,ev,truck,lightning,delivery,green">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 159 V74 A15.36 15.36 0 0 1 47 59 H140 A15.36 15.36 0 0 1 155 74 V97 H189 L224 136 V154 A50 50 0 0 0 141 159 Z"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 159 H32 V74 A15.36 15.36 0 0 1 47 59 H140 A15.36 15.36 0 0 1 155 74 V136"/>
+    <path d="M155 97 H189 L224 136 V142"/>
+    <circle cx="78" cy="186" r="19"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+</svg>

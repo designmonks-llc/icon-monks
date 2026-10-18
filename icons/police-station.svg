@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="police station,precinct,law enforcement,building,headquarters,security">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L136 55 L160 55 L141 70 L148 94 L128 80 L108 94 L115 70 L96 55 L120 55 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L136 55 L160 55 L141 70 L148 94 L128 80 L108 94 L115 70 L96 55 L120 55 Z"/>
+    <path d="M40 120 L216 120"/>
+    <path d="M72 152 L72 184"/>
+    <path d="M109 152 L109 184"/>
+    <path d="M147 152 L147 184"/>
+    <path d="M184 152 L184 184"/>
+    <path d="M32 216 L224 216"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="bend tool,warp,bend path,distort,curve,vector">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="112" y="124" width="32" height="32" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 204 C56 156 80 140 112 140"/>
+    <path d="M144 140 C176 140 200 156 224 204"/>
+    <rect x="112" y="124" width="32" height="32" rx="8"/>
+    <path d="M128 108 L128 44"/>
+    <path d="M104 68 L128 44 L152 68"/>
+  </g>
+</svg>

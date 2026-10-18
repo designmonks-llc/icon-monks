@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="sketch,design tool,gem,diamond,ui design,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 44 H176 L224 100 L128 212 L32 100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 44 H176 L224 100 L128 212 L32 100 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 100 H224"/>
+    <path d="M80 100 L128 44 L176 100"/>
+    <path d="M80 100 L128 212 L176 100"/>
+  </g>
+</svg>

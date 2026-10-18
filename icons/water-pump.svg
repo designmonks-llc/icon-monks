@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="water pump,hand pump,well,village pump,water,farm">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 216 V82 A10 10 0 0 1 114 72 H142 A10 10 0 0 1 152 82 V216 Z"/>
+    <path d="M64 148 C58 156 52 164 52 172 A12 12 0 0 0 76 172 C76 164 70 156 64 148 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 216 V82 A10 10 0 0 1 114 72 H142 A10 10 0 0 1 152 82 V216"/>
+    <path d="M72 216 L184 216"/>
+    <path d="M104 104 H64 V124"/>
+    <path d="M152 104 L212 64"/>
+    <path d="M64 148 C58 156 52 164 52 172 A12 12 0 0 0 76 172 C76 164 70 156 64 148 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="twisted tower,cayan tower,dubai,skyscraper,landmark,modern">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 216 V64 L128 48 L160 64 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 216 V64 L128 48 L160 64 V216"/>
+    <path d="M32 216 L224 216"/>
+    <path d="M128 48 L128 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 184 C120 184 136 164 160 160"/>
+    <path d="M96 136 C120 136 136 116 160 112"/>
+    <path d="M96 88 C120 88 136 68 152 68"/>
+  </g>
+</svg>

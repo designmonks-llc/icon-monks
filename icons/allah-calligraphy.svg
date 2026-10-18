@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="allah,god,islam,arabic,calligraphy,religion,muslim">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 48 V200"/>
+    <path d="M144 48 V188 A12 12 0 0 1 132 200 H72 C53.61 200 44 186.14 44 171 C44 163.09 46.51 154.86 52 148 C56.96 141.8 63.05 139 69 139 C82.26 139 94.76 152.67 92 172 C90 188 80 196 68 200"/>
+    <path d="M104 48 V200"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="trampoline,bounce,jump,play,backyard,gym">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="104" rx="96" ry="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="104" rx="96" ry="40"/>
+    <path d="M48 126 L48 184"/>
+    <path d="M208 126 L208 184"/>
+    <path d="M92 141 L92 208"/>
+    <path d="M164 141 L164 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="104" rx="64" ry="16"/>
+  </g>
+</svg>

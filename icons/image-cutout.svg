@@ -1,0 +1,18 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="remove background,background eraser,cutout,portrait,photo editing,ai">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="104" r="32"/>
+    <path d="M64 224 C64 184 92 160 128 160 C164 160 192 184 192 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 64 V56 A16 16 0 0 1 48 40 H56"/>
+    <path d="M200 40 H208 A16 16 0 0 1 224 56 V64"/>
+    <path d="M224 152 V160 A16 16 0 0 1 208 176 H200"/>
+    <path d="M56 176 H48 A16 16 0 0 1 32 160 V152"/>
+    <path d="M88 40 L112 40"/>
+    <path d="M144 40 L168 40"/>
+    <path d="M32 96 L32 120"/>
+    <path d="M224 96 L224 120"/>
+    <circle cx="128" cy="104" r="32"/>
+    <path d="M64 224 C64 184 92 160 128 160 C164 160 192 184 192 224"/>
+  </g>
+</svg>

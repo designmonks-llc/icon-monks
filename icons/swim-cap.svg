@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="swim cap,swimming,pool,swimmer,cap,head">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 148 A80 80 0 0 1 128 68 A80 80 0 0 1 208 148 Z"/>
+    <rect x="40" y="148" width="176" height="40" rx="20"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 148 A80 80 0 0 1 128 68 A80 80 0 0 1 208 148"/>
+    <rect x="40" y="148" width="176" height="40" rx="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M57 110 C72 104 100 100 128 100 C156 100 184 104 199 110"/>
+  </g>
+</svg>

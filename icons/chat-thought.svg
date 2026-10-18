@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="thought bubble,thinking,idea,comic,daydream,chat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M110 151 A36 36 0 0 1 100 152 A36 36 0 0 1 64 116 A36 36 0 0 1 88 82 A36 36 0 0 1 88 76 A36 36 0 0 1 124 40 A36 36 0 0 1 152 53 A36 36 0 0 1 180 40 A36 36 0 0 1 216 76 A36 36 0 0 1 209 97 A32 32 0 0 1 224 124 A32 32 0 0 1 192 156 A32 32 0 0 1 178 153 A36 36 0 0 1 144 176 A36 36 0 0 1 110 151 Z"/>
+    <circle cx="76" cy="188" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 151 A36 36 0 0 1 100 152 A36 36 0 0 1 64 116 A36 36 0 0 1 88 82 A36 36 0 0 1 88 76 A36 36 0 0 1 124 40 A36 36 0 0 1 152 53 A36 36 0 0 1 180 40 A36 36 0 0 1 216 76 A36 36 0 0 1 209 97 A32 32 0 0 1 224 124 A32 32 0 0 1 192 156 A32 32 0 0 1 178 153 A36 36 0 0 1 144 176 A36 36 0 0 1 110 151 Z"/>
+    <circle cx="76" cy="188" r="16"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="44" cy="216" r="12"/>
+  </g>
+</svg>

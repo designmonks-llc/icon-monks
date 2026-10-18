@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="push up bars,push up,handles,gym,fitness,strength">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="44" y="92" width="64" height="24" rx="12"/>
+    <rect x="148" y="92" width="64" height="24" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="44" y="92" width="64" height="24" rx="12"/>
+    <path d="M56 116 V176 M96 116 V176"/>
+    <path d="M36 200 A40 32 0 0 1 116 200"/>
+    <rect x="148" y="92" width="64" height="24" rx="12"/>
+    <path d="M160 116 V176 M200 116 V176"/>
+    <path d="M140 200 A40 32 0 0 1 220 200"/>
+  </g>
+</svg>

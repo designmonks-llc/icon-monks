@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="sperm,fertility,reproduction,ivf,biology,cell">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 56 A39.6 28 45 1 1 112 112 A39.6 28 45 1 1 56 56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 56 A39.6 28 45 1 1 112 112 A39.6 28 45 1 1 56 56 Z"/>
+    <path d="M112 112 C128 128 152 112 164 136 C176 160 156 184 180 200 C196 210 208 208 220 220"/>
+  </g>
+</svg>

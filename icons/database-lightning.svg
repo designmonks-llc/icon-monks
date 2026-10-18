@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="fast database,cache,database speed,performance,database,lightning">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 216 A78 29 0 0 1 49 187 V69 A78 29 0 0 1 207 69 V131 A58 58 0 0 0 136 216 Z"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 216 A78 29 0 0 1 49 187 V69 A78 29 0 0 1 207 69 V131"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M49 69 A78 29 0 0 0 207 69"/>
+    <path d="M49 128 A78 29 0 0 0 206 130"/>
+  </g>
+</svg>

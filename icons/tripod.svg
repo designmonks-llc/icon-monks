@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="tripod,camera stand,photography,stand,video,filming">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 64 A16 16 0 0 1 80 48 H100 L108 32 H148 L156 48 H176 A16 16 0 0 1 192 64 V104 A16 16 0 0 1 176 120 H80 A16 16 0 0 1 64 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 64 A16 16 0 0 1 80 48 H100 L108 32 H148 L156 48 H176 A16 16 0 0 1 192 64 V104 A16 16 0 0 1 176 120 H80 A16 16 0 0 1 64 104 Z"/>
+    <path d="M128 120 V224"/>
+    <path d="M48 224 L128 144 L208 224"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="84" r="14"/>
+  </g>
+</svg>

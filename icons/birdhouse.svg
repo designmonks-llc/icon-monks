@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="birdhouse,bird box,nest box,garden,bird,feeder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 88 L128 40 L176 88 V192 H80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 120 L128 40 L208 120"/>
+    <path d="M80 88 V192 H176 V88"/>
+    <path d="M128 192 L128 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="124" r="20"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="168" r="12"/>
+  </g>
+</svg>

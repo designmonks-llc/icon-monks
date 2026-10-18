@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ai computer,ai pc,smart display,desktop,monitor,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M126 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V140 A60 60 0 0 0 126 176 Z"/>
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V140"/>
+    <path d="M96 176 V208"/>
+    <path d="M64 208 H128"/>
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+</svg>

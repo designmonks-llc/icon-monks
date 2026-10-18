@@ -1,0 +1,16 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="squircle,dashed,shape,placeholder,rounded square,frame">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M115 40 C119.15 40.06 123.46 40 128 40 C132.57 40 136.92 40.06 141 40"/>
+    <path d="M165 42 C174.73 43.79 182.86 46.25 189 50"/>
+    <path d="M206 67 C209.77 73.2 212.22 81.33 214 91"/>
+    <path d="M216 115 C215.94 119.15 216 123.46 216 128 C216 132.57 215.94 136.92 216 141"/>
+    <path d="M214 165 C212.21 174.73 209.75 182.86 206 189"/>
+    <path d="M189 206 C182.8 209.77 174.67 212.22 165 214"/>
+    <path d="M141 216 C136.85 215.94 132.54 216 128 216 C123.43 216 119.08 215.94 115 216"/>
+    <path d="M91 214 C81.27 212.21 73.14 209.75 67 206"/>
+    <path d="M50 189 C46.23 182.8 43.78 174.67 42 165"/>
+    <path d="M40 141 C40.06 136.85 40 132.54 40 128 C40 123.43 40.06 119.08 40 115"/>
+    <path d="M42 91 C43.79 81.27 46.25 73.14 50 67"/>
+    <path d="M67 50 C73.2 46.23 81.33 43.78 91 42"/>
+  </g>
+</svg>

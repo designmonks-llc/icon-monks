@@ -1,0 +1,15 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="tablet,usb,connected,cable,charging,device">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208 128 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H133 A64 64 0 0 1 208 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 128 V48 A16 16 0 0 0 192 32 H64 A16 16 0 0 0 48 48 V208 A16 16 0 0 0 64 224 H133"/>
+    <path d="M188 220 L188 156"/>
+    <path d="M176 168 L188 156 L200 168"/>
+    <path d="M188 208 L164 196 L164 184"/>
+    <path d="M188 196 L212 184 L212 176"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 64 L144 64"/>
+  </g>
+</svg>

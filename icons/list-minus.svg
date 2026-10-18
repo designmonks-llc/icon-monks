@@ -1,0 +1,13 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="remove from list,list,minus,remove item,bullet list,subtract">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 64 L216 64"/>
+    <path d="M96 128 L216 128"/>
+    <path d="M96 192 L120 192"/>
+    <path d="M156 192 L212 192"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="64" r="16"/>
+    <circle cx="48" cy="128" r="16"/>
+    <circle cx="48" cy="192" r="16"/>
+  </g>
+</svg>

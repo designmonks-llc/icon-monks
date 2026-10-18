@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="flip phone,clamshell,feature phone,mobile,classic phone,cellular">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 124 V48 A16 16 0 0 1 96 32 H160 A16 16 0 0 1 176 48 V124 Z"/>
+    <rect x="72" y="124" width="112" height="24" rx="12"/>
+    <path d="M72 148 V208 A16 16 0 0 0 88 224 H168 A16 16 0 0 0 184 208 V148 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 124 V48 A16 16 0 0 1 96 32 H160 A16 16 0 0 1 176 48 V124"/>
+    <rect x="72" y="124" width="112" height="24" rx="12"/>
+    <path d="M72 148 V208 A16 16 0 0 0 88 224 H168 A16 16 0 0 0 184 208 V148"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="104" y="56" width="48" height="40" rx="4"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="104" cy="176" r="8"/>
+    <circle cx="128" cy="176" r="8"/>
+    <circle cx="152" cy="176" r="8"/>
+    <circle cx="104" cy="204" r="8"/>
+    <circle cx="128" cy="204" r="8"/>
+    <circle cx="152" cy="204" r="8"/>
+  </g>
+</svg>

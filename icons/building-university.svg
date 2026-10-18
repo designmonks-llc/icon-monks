@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="university,college,campus,academic,institution,building">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L216 68 L128 104 L40 68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L216 68 L128 104 L40 68 Z"/>
+    <path d="M216 68 V108"/>
+    <path d="M64 108 V176"/>
+    <path d="M106 136 V176"/>
+    <path d="M150 136 V176"/>
+    <path d="M192 136 V176"/>
+    <path d="M32 208 H224"/>
+  </g>
+</svg>

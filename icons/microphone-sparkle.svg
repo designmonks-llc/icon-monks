@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="ai microphone,voice assistant,voice input,speech recognition,dictation,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="32" width="64" height="120" rx="32"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="32" width="64" height="120" rx="32"/>
+    <path d="M40 128 A64 64 0 0 0 124 189"/>
+    <path d="M104 192 L104 224"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+</svg>

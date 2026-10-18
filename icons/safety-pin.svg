@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="safety pin,pin,fasten,sewing,diaper,clasp">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="74" cy="182" r="24"/>
+    <path d="M134 77 L151 60 A32 32 0 0 1 196 105 L179 122 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="74" cy="182" r="24"/>
+    <path d="M57 165 L139 83"/>
+    <path d="M91 199 L173 117"/>
+    <path d="M134 77 L151 60 A32 32 0 0 1 196 105 L179 122 Z"/>
+  </g>
+</svg>

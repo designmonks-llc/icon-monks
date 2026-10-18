@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google maps,maps,navigation,location,google,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 224 C128 224 56 160 56 104 A72 72 0 0 1 200 104 C200 160 128 224 128 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 C128 224 56 160 56 104 A72 72 0 0 1 200 104 C200 160 128 224 128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="104" r="24"/>
+    <path d="M77 53 L108 84"/>
+    <path d="M148 124 L180 156"/>
+  </g>
+</svg>

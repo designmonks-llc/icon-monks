@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="stylus,wifi,pen,wireless,connected,smart pen">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
+    <path d="M166 187 A28 28 0 0 1 202 187"/>
+    <path d="M154 165 A52 52 0 0 1 214 165"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133 97 L159 123"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="208" r="16"/>
+  </g>
+</svg>

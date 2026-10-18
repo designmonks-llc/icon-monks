@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="sink,basin,washbasin,bathroom,kitchen sink,plumbing">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 136 H208 C208 184 176 216 128 216 C80 216 48 184 48 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 136 H224"/>
+    <path d="M48 136 C48 184 80 216 128 216 C176 216 208 184 208 136"/>
+    <path d="M88 136 V60 A12 12 0 0 1 100 48 H140 A20 20 0 0 1 160 68 V84"/>
+    <path d="M56 92 H88"/>
+  </g>
+</svg>

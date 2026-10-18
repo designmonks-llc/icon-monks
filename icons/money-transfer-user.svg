@@ -1,0 +1,15 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="self transfer,own accounts,move money,transfer,account,user">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 80 L128 32 L216 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 80 L128 32 L216 80 Z"/>
+    <path d="M80 112 L80 144"/>
+    <path d="M128 112 L128 144"/>
+    <path d="M176 112 L176 144"/>
+    <path d="M32 196 L136 196"/>
+    <path d="M52 176 L32 196 L52 216 M116 176 L136 196 L116 216"/>
+    <circle cx="188" cy="180" r="14"/>
+    <path d="M162 222 A26 26 0 0 1 214 222"/>
+  </g>
+</svg>

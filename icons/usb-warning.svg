@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="usb error,usb warning,device error,connection problem,usb,warning">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L148 64 L108 64 Z"/>
+    <rect x="176" y="80" width="16" height="16"/>
+    <circle cx="128" cy="200" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L148 64 L108 64 Z"/>
+    <path d="M128 64 L128 184"/>
+    <path d="M128 176 L72 144 L72 120"/>
+    <path d="M128 152 L184 120 L184 96"/>
+    <rect x="176" y="80" width="16" height="16"/>
+    <circle cx="128" cy="200" r="16"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="72" cy="108" r="16"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V186"/>
+    <circle cx="188" cy="212" r="12"/>
+  </g>
+</svg>

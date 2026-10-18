@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="rss,error,feed error,warning,feed,news">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 120 A88 88 0 0 1 136 208"/>
+    <path d="M48 48 A160 160 0 0 1 208 208"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="66" cy="190" r="22"/>
+  </g>
+  <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 160 V186"/>
+    <circle cx="188" cy="212" r="12"/>
+  </g>
+</svg>

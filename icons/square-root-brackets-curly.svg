@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="square root,curly braces,math,radical,formula,braces">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 136 L56 124 L84 208 L124 48 L224 48"/>
+    <path d="M160 76 H156 A12 12 0 0 0 144 88 V120 Q144 136 132 136 Q144 136 144 152 V184 A12 12 0 0 0 156 196 H160"/>
+    <path d="M196 76 H200 A12 12 0 0 1 212 88 V120 Q212 136 224 136 Q212 136 212 152 V184 A12 12 0 0 1 200 196 H196"/>
+  </g>
+</svg>

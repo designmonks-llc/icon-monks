@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="binder clip,clip,office,stationery,fastener,paper clamp">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 128 H180 L208 208 H48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 128 H180 L208 208 H48 Z"/>
+    <path d="M84 128 L52 60 A12 12 0 0 1 74 50 L112 128"/>
+    <path d="M172 128 L204 60 A12 12 0 0 0 182 50 L144 128"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 184 H200"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="candy cane,christmas,holiday,peppermint,sweet,xmas">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 96 A60 60 0 0 1 128 36 A60 60 0 0 1 188 96 L188 204 A20 20 0 0 1 168 224 A20 20 0 0 1 148 204 L148 96 A20 20 0 0 0 128 76 A20 20 0 0 0 108 96 A20 20 0 0 1 88 116 A20 20 0 0 1 68 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 96 A60 60 0 0 1 128 36 A60 60 0 0 1 188 96 L188 204 A20 20 0 0 1 168 224 A20 20 0 0 1 148 204 L148 96 A20 20 0 0 0 128 76 A20 20 0 0 0 108 96 A20 20 0 0 1 88 116 A20 20 0 0 1 68 96 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 140 L188 120"/>
+    <path d="M148 180 L188 160"/>
+    <path d="M142 82 L170 54"/>
+    <path d="M114 82 L86 54"/>
+  </g>
+</svg>

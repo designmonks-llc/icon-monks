@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="broken bone,fracture,injury,orthopedic,x-ray,bone">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M134 151 L110 175 A26 26 -45 1 1 67 189 A26 26 -45 1 1 81 146 L105 122 L108 148 Z"/>
+    <path d="M122 105 L146 81 A26 26 -45 1 1 189 67 A26 26 -45 1 1 175 110 L151 134 L125 131 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M134 151 L110 175 A26 26 -45 1 1 67 189 A26 26 -45 1 1 81 146 L105 122 L108 148 Z"/>
+    <path d="M122 105 L146 81 A26 26 -45 1 1 189 67 A26 26 -45 1 1 175 110 L151 134 L125 131 Z"/>
+  </g>
+</svg>

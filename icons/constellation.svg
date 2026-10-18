@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="constellation,stars,astronomy,night sky,zodiac,space,star map">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 52 L96 100 L176 84 L212 172 L120 196"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="40" cy="52" r="22"/>
+    <circle cx="96" cy="100" r="22"/>
+    <circle cx="176" cy="84" r="22"/>
+    <circle cx="212" cy="172" r="22"/>
+    <circle cx="120" cy="196" r="22"/>
+  </g>
+</svg>

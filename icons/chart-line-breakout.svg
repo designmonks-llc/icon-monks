@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Charts" data-tags="breakout,trading range,price breakout,stocks,chart,trend">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 184 L80 152 L104 172 L208 68"/>
+    <path d="M176 68 H208 V100"/>
+    <path d="M32 136 V112 H56"/>
+    <path d="M80 112 H104"/>
+    <path d="M32 184 V208 H56"/>
+    <path d="M76 208 H100"/>
+    <path d="M120 208 H144 V184"/>
+  </g>
+</svg>

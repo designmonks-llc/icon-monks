@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="sushi,nigiri,japanese,rice,fish,seafood">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 144 C36 108 80 80 128 80 C176 80 220 108 224 144 C200 124 168 112 128 112 C88 112 56 124 32 144 Z"/>
+    <path d="M52 128 V156 A32 32 0 0 0 84 188 H172 A32 32 0 0 0 204 156 V128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 144 C36 108 80 80 128 80 C176 80 220 108 224 144 C200 124 168 112 128 112 C88 112 56 124 32 144 Z"/>
+    <path d="M52 128 V156 A32 32 0 0 0 84 188 H172 A32 32 0 0 0 204 156 V128"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 88 V188"/>
+    <path d="M144 88 V188"/>
+  </g>
+</svg>

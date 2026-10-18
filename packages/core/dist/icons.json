@@ -39,6 +39,18 @@
   ]
  },
  {
+  "name": "abs",
+  "category": "Health",
+  "tags": [
+   "abs",
+   "six pack",
+   "core",
+   "anatomy",
+   "stomach",
+   "fitness"
+  ]
+ },
+ {
   "name": "access-point",
   "category": "Devices",
   "tags": [
@@ -157,6 +169,86 @@
   ]
  },
  {
+  "name": "adobe-after-effects-logo",
+  "category": "Brands",
+  "tags": [
+   "after effects",
+   "adobe",
+   "ae",
+   "motion graphics",
+   "video",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-illustrator-logo",
+  "category": "Brands",
+  "tags": [
+   "illustrator",
+   "adobe",
+   "ai",
+   "vector graphics",
+   "graphic design",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-indesign-logo",
+  "category": "Brands",
+  "tags": [
+   "adobe indesign",
+   "indesign",
+   "adobe",
+   "layout",
+   "publishing",
+   "desktop publishing",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-photoshop-logo",
+  "category": "Brands",
+  "tags": [
+   "photoshop",
+   "adobe",
+   "ps",
+   "photo editing",
+   "image editing",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-premiere-pro-logo",
+  "category": "Brands",
+  "tags": [
+   "adobe",
+   "premiere pro",
+   "pr",
+   "video editing",
+   "film",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-xd-logo",
+  "category": "Brands",
+  "tags": [
+   "adobe xd",
+   "xd",
+   "adobe",
+   "ui design",
+   "prototyping",
+   "design tool",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "affiliate",
   "category": "Business",
   "tags": [
@@ -258,6 +350,32 @@
   ]
  },
  {
+  "name": "airbnb-logo",
+  "category": "Brands",
+  "tags": [
+   "airbnb",
+   "vacation rental",
+   "lodging",
+   "travel",
+   "booking",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "airdrop",
+  "category": "Brands",
+  "tags": [
+   "airdrop",
+   "apple",
+   "share",
+   "wireless",
+   "file sharing",
+   "nearby",
+   "brand"
+  ]
+ },
+ {
   "name": "airplane",
   "category": "Maps",
   "tags": [
@@ -356,6 +474,18 @@
    "airport",
    "terminal",
    "flight"
+  ]
+ },
+ {
+  "name": "al-aqsa-mosque",
+  "category": "Maps",
+  "tags": [
+   "al aqsa",
+   "mosque",
+   "jerusalem",
+   "landmark",
+   "islam",
+   "dome"
   ]
  },
  {
@@ -750,6 +880,18 @@
   ]
  },
  {
+  "name": "align-key-object",
+  "category": "Design",
+  "tags": [
+   "key object",
+   "align to",
+   "anchor object",
+   "alignment",
+   "illustrator",
+   "distribute"
+  ]
+ },
+ {
   "name": "align-left",
   "category": "Design",
   "tags": [
@@ -826,6 +968,19 @@
    "distribute vertically",
    "spacing",
    "layout"
+  ]
+ },
+ {
+  "name": "allah-calligraphy",
+  "category": "Symbols",
+  "tags": [
+   "allah",
+   "god",
+   "islam",
+   "arabic",
+   "calligraphy",
+   "religion",
+   "muslim"
   ]
  },
  {
@@ -1024,6 +1179,19 @@
   ]
  },
  {
+  "name": "amazon-logo",
+  "category": "Brands",
+  "tags": [
+   "amazon",
+   "ecommerce",
+   "online shopping",
+   "marketplace",
+   "retail",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "ambulance",
   "category": "Health",
   "tags": [
@@ -1034,12 +1202,36 @@
   ]
  },
  {
+  "name": "ammo",
+  "category": "Objects",
+  "tags": [
+   "ammo",
+   "bullets",
+   "ammunition",
+   "cartridge",
+   "rounds",
+   "weapon"
+  ]
+ },
+ {
   "name": "ampersand",
   "category": "Letters & Numbers",
   "tags": [
    "and",
    "ampersand",
    "symbol"
+  ]
+ },
+ {
+  "name": "amphitheater",
+  "category": "Maps",
+  "tags": [
+   "colosseum",
+   "rome",
+   "amphitheater",
+   "arena",
+   "landmark",
+   "italy"
   ]
  },
  {
@@ -1093,6 +1285,19 @@
   ]
  },
  {
+  "name": "android-logo",
+  "category": "Brands",
+  "tags": [
+   "android",
+   "google",
+   "robot",
+   "mobile",
+   "operating system",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "angle",
   "category": "Design",
   "tags": [
@@ -1109,6 +1314,19 @@
    "protractor",
    "measure angle",
    "geometry"
+  ]
+ },
+ {
+  "name": "angry-bird",
+  "category": "Brands",
+  "tags": [
+   "angry birds",
+   "rovio",
+   "bird",
+   "game",
+   "mobile game",
+   "character",
+   "brand"
   ]
  },
  {
@@ -1202,6 +1420,18 @@
   ]
  },
  {
+  "name": "api-gateway",
+  "category": "Development",
+  "tags": [
+   "api gateway",
+   "api",
+   "gateway",
+   "middleware",
+   "integration",
+   "router"
+  ]
+ },
+ {
   "name": "api-slash",
   "category": "Development",
   "tags": [
@@ -1220,6 +1450,19 @@
    "notification",
    "indicator",
    "app badge"
+  ]
+ },
+ {
+  "name": "app-store-logo",
+  "category": "Brands",
+  "tags": [
+   "app store",
+   "apple",
+   "ios",
+   "apps",
+   "download",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -1307,6 +1550,18 @@
   ]
  },
  {
+  "name": "app-window-swap",
+  "category": "Interface",
+  "tags": [
+   "screen mode",
+   "display mode",
+   "toggle view",
+   "switch layout",
+   "window",
+   "swap"
+  ]
+ },
+ {
   "name": "app-window-x",
   "category": "Interface",
   "tags": [
@@ -1338,12 +1593,94 @@
   ]
  },
  {
+  "name": "apple-finder-logo",
+  "category": "Brands",
+  "tags": [
+   "finder",
+   "apple",
+   "macos",
+   "file manager",
+   "files",
+   "desktop",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "apple-half",
   "category": "Food",
   "tags": [
    "apple slice",
    "fruit",
    "cut apple"
+  ]
+ },
+ {
+  "name": "apple-music-logo",
+  "category": "Brands",
+  "tags": [
+   "apple music",
+   "music",
+   "streaming",
+   "song",
+   "apple",
+   "itunes",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-news-logo",
+  "category": "Brands",
+  "tags": [
+   "apple news",
+   "apple",
+   "news",
+   "newspaper",
+   "headlines",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-reminders-logo",
+  "category": "Brands",
+  "tags": [
+   "reminders",
+   "apple",
+   "checklist",
+   "to-do",
+   "tasks",
+   "list",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-stocks-logo",
+  "category": "Brands",
+  "tags": [
+   "stocks",
+   "apple",
+   "stock market",
+   "chart",
+   "finance",
+   "app",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-vision-pro",
+  "category": "Brands",
+  "tags": [
+   "apple vision pro",
+   "apple",
+   "vr headset",
+   "spatial computing",
+   "mixed reality",
+   "headset",
+   "brand"
   ]
  },
  {
@@ -1356,6 +1693,31 @@
   ]
  },
  {
+  "name": "apron",
+  "category": "Objects",
+  "tags": [
+   "apron",
+   "chef",
+   "cooking",
+   "kitchen",
+   "baking",
+   "workshop"
+  ]
+ },
+ {
+  "name": "arc-browser-logo",
+  "category": "Brands",
+  "tags": [
+   "arc browser",
+   "arc",
+   "browser",
+   "web browser",
+   "internet",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "arc-de-triomphe",
   "category": "Maps",
   "tags": [
@@ -1363,6 +1725,18 @@
    "paris",
    "monument",
    "arch"
+  ]
+ },
+ {
+  "name": "arcade-spaceship",
+  "category": "Sports",
+  "tags": [
+   "arcade",
+   "space shooter",
+   "spaceship",
+   "retro game",
+   "shooter",
+   "gaming"
   ]
  },
  {
@@ -1406,6 +1780,18 @@
   ]
  },
  {
+  "name": "archive-x",
+  "category": "Communication",
+  "tags": [
+   "delete archive",
+   "remove archive",
+   "archive",
+   "box",
+   "storage",
+   "x"
+  ]
+ },
+ {
   "name": "archway",
   "category": "Maps",
   "tags": [
@@ -1444,6 +1830,18 @@
    "disabled",
    "off",
    "home"
+  ]
+ },
+ {
+  "name": "armored-boot",
+  "category": "Sports",
+  "tags": [
+   "armored boot",
+   "greave",
+   "armor",
+   "knight",
+   "medieval",
+   "gear"
   ]
  },
  {
@@ -1977,6 +2375,18 @@
    "direction",
    "down",
    "arc"
+  ]
+ },
+ {
+  "name": "arrow-down-to-dot",
+  "category": "Arrows",
+  "tags": [
+   "arrow down",
+   "target",
+   "drop point",
+   "down",
+   "arrow",
+   "dot"
   ]
  },
  {
@@ -3000,6 +3410,18 @@
   ]
  },
  {
+  "name": "arrow-up-from-dot",
+  "category": "Arrows",
+  "tags": [
+   "arrow up",
+   "origin",
+   "launch",
+   "up",
+   "arrow",
+   "dot"
+  ]
+ },
+ {
   "name": "arrow-up-from-line",
   "category": "Arrows",
   "tags": [
@@ -3154,6 +3576,18 @@
    "refresh off",
    "no sync",
    "paused"
+  ]
+ },
+ {
+  "name": "arrows-clockwise-sparkle",
+  "category": "Arrows",
+  "tags": [
+   "ai auto rotate",
+   "smart rotate",
+   "auto rotate",
+   "rotate",
+   "arrows",
+   "sparkle"
   ]
  },
  {
@@ -3502,6 +3936,42 @@
   ]
  },
  {
+  "name": "arrows-transfer-diagonal",
+  "category": "Arrows",
+  "tags": [
+   "data transfer",
+   "diagonal",
+   "upload download",
+   "sync",
+   "exchange",
+   "arrows"
+  ]
+ },
+ {
+  "name": "arrows-transfer-diagonal-circle",
+  "category": "Arrows",
+  "tags": [
+   "data transfer",
+   "diagonal",
+   "sync",
+   "exchange",
+   "circle",
+   "arrows"
+  ]
+ },
+ {
+  "name": "arrows-transfer-diagonal-square",
+  "category": "Arrows",
+  "tags": [
+   "data transfer",
+   "diagonal",
+   "sync",
+   "exchange",
+   "square",
+   "arrows"
+  ]
+ },
+ {
   "name": "arrows-transfer-down",
   "category": "Arrows",
   "tags": [
@@ -3697,6 +4167,18 @@
   ]
  },
  {
+  "name": "astronaut",
+  "category": "People",
+  "tags": [
+   "astronaut",
+   "space",
+   "spaceman",
+   "cosmonaut",
+   "helmet",
+   "explorer"
+  ]
+ },
+ {
   "name": "at",
   "category": "Interface",
   "tags": [
@@ -3829,6 +4311,20 @@
   ]
  },
  {
+  "name": "aws-lambda-logo",
+  "category": "Brands",
+  "tags": [
+   "aws lambda",
+   "aws",
+   "amazon",
+   "lambda",
+   "serverless",
+   "cloud",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "axe",
   "category": "Objects",
   "tags": [
@@ -3847,6 +4343,18 @@
    "3d axes",
    "axes",
    "graph"
+  ]
+ },
+ {
+  "name": "axis-3d",
+  "category": "Design",
+  "tags": [
+   "3d axis",
+   "xyz",
+   "gizmo",
+   "coordinate system",
+   "3d modeling",
+   "axes"
   ]
  },
  {
@@ -3951,6 +4459,18 @@
    "meal",
    "jar",
    "feeding"
+  ]
+ },
+ {
+  "name": "back-muscles",
+  "category": "Health",
+  "tags": [
+   "back",
+   "muscles",
+   "anatomy",
+   "lats",
+   "spine",
+   "body"
   ]
  },
  {
@@ -4549,6 +5069,18 @@
   ]
  },
  {
+  "name": "barber-chair",
+  "category": "Objects",
+  "tags": [
+   "barber chair",
+   "salon",
+   "barbershop",
+   "haircut",
+   "chair",
+   "stylist"
+  ]
+ },
+ {
   "name": "barcode",
   "category": "Devices",
   "tags": [
@@ -4922,6 +5454,18 @@
   ]
  },
  {
+  "name": "basket-shield",
+  "category": "Commerce",
+  "tags": [
+   "secure checkout",
+   "safe shopping",
+   "protected purchase",
+   "basket",
+   "shield",
+   "security"
+  ]
+ },
+ {
   "name": "basket-slash",
   "category": "Commerce",
   "tags": [
@@ -5165,6 +5709,18 @@
   ]
  },
  {
+  "name": "battle-ropes",
+  "category": "Sports",
+  "tags": [
+   "battle ropes",
+   "rope training",
+   "cardio",
+   "workout",
+   "gym",
+   "conditioning"
+  ]
+ },
+ {
   "name": "beach",
   "category": "Nature",
   "tags": [
@@ -5236,6 +5792,18 @@
   ]
  },
  {
+  "name": "beans-slash",
+  "category": "Food",
+  "tags": [
+   "no beans",
+   "bean free",
+   "allergen",
+   "legume",
+   "dietary",
+   "soy"
+  ]
+ },
+ {
   "name": "bear",
   "category": "Animals",
   "tags": [
@@ -5244,6 +5812,18 @@
    "animal",
    "face",
    "wildlife"
+  ]
+ },
+ {
+  "name": "bebo-logo",
+  "category": "Brands",
+  "tags": [
+   "bebo",
+   "social network",
+   "social media",
+   "b",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -5287,6 +5867,18 @@
   ]
  },
  {
+  "name": "bedug",
+  "category": "Objects",
+  "tags": [
+   "bedug",
+   "drum",
+   "mosque drum",
+   "indonesia",
+   "ramadan",
+   "percussion"
+  ]
+ },
+ {
   "name": "bee",
   "category": "Animals",
   "tags": [
@@ -5324,6 +5916,19 @@
    "disabled",
    "off",
    "food"
+  ]
+ },
+ {
+  "name": "behance-logo",
+  "category": "Brands",
+  "tags": [
+   "behance",
+   "adobe",
+   "portfolio",
+   "design",
+   "creative",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -5711,6 +6316,30 @@
   ]
  },
  {
+  "name": "binder-clip",
+  "category": "Objects",
+  "tags": [
+   "binder clip",
+   "clip",
+   "office",
+   "stationery",
+   "fastener",
+   "paper clamp"
+  ]
+ },
+ {
+  "name": "bing-logo",
+  "category": "Brands",
+  "tags": [
+   "bing",
+   "microsoft",
+   "search engine",
+   "web search",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "binoculars",
   "category": "Objects",
   "tags": [
@@ -5750,6 +6379,30 @@
    "nature",
    "wildlife",
    "pet"
+  ]
+ },
+ {
+  "name": "birdhouse",
+  "category": "Home",
+  "tags": [
+   "birdhouse",
+   "bird box",
+   "nest box",
+   "garden",
+   "bird",
+   "feeder"
+  ]
+ },
+ {
+  "name": "black-hole",
+  "category": "Science",
+  "tags": [
+   "black hole",
+   "space",
+   "singularity",
+   "event horizon",
+   "astronomy",
+   "vortex"
   ]
  },
  {
@@ -5898,6 +6551,18 @@
   ]
  },
  {
+  "name": "blockquote-rtl",
+  "category": "Editor",
+  "tags": [
+   "rtl",
+   "right to left",
+   "blockquote",
+   "quote",
+   "arabic",
+   "hebrew"
+  ]
+ },
+ {
   "name": "blocks",
   "category": "Development",
   "tags": [
@@ -5905,6 +6570,31 @@
    "modules",
    "components",
    "build"
+  ]
+ },
+ {
+  "name": "blogger-logo",
+  "category": "Brands",
+  "tags": [
+   "blogger",
+   "blog",
+   "blogging",
+   "blogspot",
+   "writing",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "blood-bag",
+  "category": "Health",
+  "tags": [
+   "blood bag",
+   "blood donation",
+   "transfusion",
+   "iv bag",
+   "donate",
+   "blood"
   ]
  },
  {
@@ -5918,12 +6608,37 @@
   ]
  },
  {
+  "name": "blood-type",
+  "category": "Health",
+  "tags": [
+   "blood type",
+   "blood group",
+   "donor",
+   "blood drop",
+   "type a",
+   "hematology"
+  ]
+ },
+ {
   "name": "blueprint",
   "category": "Design",
   "tags": [
    "plan",
    "blueprint",
    "architecture"
+  ]
+ },
+ {
+  "name": "bluesky-logo",
+  "category": "Brands",
+  "tags": [
+   "bluesky",
+   "bsky",
+   "butterfly",
+   "social media",
+   "microblogging",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -5948,6 +6663,18 @@
   ]
  },
  {
+  "name": "bluetooth-magnifying-glass",
+  "category": "Devices",
+  "tags": [
+   "bluetooth search",
+   "find device",
+   "scan",
+   "pairing",
+   "discover",
+   "magnifying glass"
+  ]
+ },
+ {
   "name": "bluetooth-slash",
   "category": "Devices",
   "tags": [
@@ -5956,6 +6683,18 @@
    "wireless",
    "disconnect",
    "disconnected"
+  ]
+ },
+ {
+  "name": "bluetooth-square",
+  "category": "Devices",
+  "tags": [
+   "bluetooth",
+   "wireless",
+   "connection",
+   "pairing",
+   "square",
+   "badge"
   ]
  },
  {
@@ -6033,6 +6772,18 @@
   ]
  },
  {
+  "name": "bone-broken",
+  "category": "Health",
+  "tags": [
+   "broken bone",
+   "fracture",
+   "injury",
+   "orthopedic",
+   "x-ray",
+   "bone"
+  ]
+ },
+ {
   "name": "bone-slash",
   "category": "Animals",
   "tags": [
@@ -6106,12 +6857,96 @@
   ]
  },
  {
+  "name": "book-check",
+  "category": "Files",
+  "tags": [
+   "book read",
+   "finished reading",
+   "completed",
+   "book",
+   "done",
+   "check"
+  ]
+ },
+ {
+  "name": "book-chef-hat",
+  "category": "Food",
+  "tags": [
+   "cookbook",
+   "recipes",
+   "cooking",
+   "book",
+   "chef",
+   "kitchen"
+  ]
+ },
+ {
+  "name": "book-dashed",
+  "category": "Education",
+  "tags": [
+   "book",
+   "placeholder",
+   "draft",
+   "empty",
+   "dashed",
+   "template"
+  ]
+ },
+ {
+  "name": "book-globe",
+  "category": "Education",
+  "tags": [
+   "global education",
+   "international",
+   "world",
+   "learning",
+   "book",
+   "globe"
+  ]
+ },
+ {
+  "name": "book-headphones",
+  "category": "Education",
+  "tags": [
+   "audiobook",
+   "book",
+   "headphones",
+   "listen",
+   "podcast",
+   "audio learning"
+  ]
+ },
+ {
   "name": "book-heart",
   "category": "Education",
   "tags": [
    "favorite book",
    "loved",
    "reading list"
+  ]
+ },
+ {
+  "name": "book-letter-a",
+  "category": "Education",
+  "tags": [
+   "dictionary",
+   "alphabet",
+   "language",
+   "vocabulary",
+   "book",
+   "letter a"
+  ]
+ },
+ {
+  "name": "book-letter-t",
+  "category": "Education",
+  "tags": [
+   "glossary",
+   "typography",
+   "font",
+   "grammar",
+   "book",
+   "letter t"
   ]
  },
  {
@@ -6124,6 +6959,18 @@
   ]
  },
  {
+  "name": "book-magnifying-glass",
+  "category": "Files",
+  "tags": [
+   "search book",
+   "find book",
+   "catalog",
+   "book",
+   "lookup",
+   "magnifying glass"
+  ]
+ },
+ {
   "name": "book-medical",
   "category": "Health",
   "tags": [
@@ -6132,6 +6979,18 @@
    "manual",
    "reference",
    "health record"
+  ]
+ },
+ {
+  "name": "book-minus",
+  "category": "Education",
+  "tags": [
+   "book",
+   "remove",
+   "minus",
+   "library",
+   "delete",
+   "unsubscribe"
   ]
  },
  {
@@ -6165,6 +7024,18 @@
   ]
  },
  {
+  "name": "book-plus",
+  "category": "Files",
+  "tags": [
+   "add book",
+   "new book",
+   "book",
+   "library",
+   "reading",
+   "plus"
+  ]
+ },
+ {
   "name": "book-slash",
   "category": "Education",
   "tags": [
@@ -6173,6 +7044,42 @@
    "off",
    "read",
    "library"
+  ]
+ },
+ {
+  "name": "book-sparkle",
+  "category": "Education",
+  "tags": [
+   "ai book",
+   "ai guide",
+   "learning",
+   "ebook",
+   "knowledge",
+   "sparkle"
+  ]
+ },
+ {
+  "name": "book-warning",
+  "category": "Education",
+  "tags": [
+   "important",
+   "priority",
+   "attention",
+   "alert",
+   "book",
+   "warning"
+  ]
+ },
+ {
+  "name": "book-x",
+  "category": "Education",
+  "tags": [
+   "book",
+   "remove",
+   "delete",
+   "x",
+   "library",
+   "cancel"
   ]
  },
  {
@@ -6361,6 +7268,19 @@
    "hiking",
    "boots",
    "shoes"
+  ]
+ },
+ {
+  "name": "bootstrap-logo",
+  "category": "Brands",
+  "tags": [
+   "bootstrap",
+   "css framework",
+   "frontend",
+   "web development",
+   "b",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -6601,6 +7521,18 @@
   ]
  },
  {
+  "name": "border-top-x",
+  "category": "Editor",
+  "tags": [
+   "remove top border",
+   "border",
+   "top",
+   "close",
+   "x",
+   "cancel"
+  ]
+ },
+ {
   "name": "border-vertical",
   "category": "Editor",
   "tags": [
@@ -6680,6 +7612,18 @@
    "arrow",
    "hunting",
    "target"
+  ]
+ },
+ {
+  "name": "bow-tie",
+  "category": "Objects",
+  "tags": [
+   "bow tie",
+   "bowtie",
+   "formal",
+   "tuxedo",
+   "suit",
+   "party"
   ]
  },
  {
@@ -6958,6 +7902,18 @@
   ]
  },
  {
+  "name": "brackets-curly-circle",
+  "category": "Development",
+  "tags": [
+   "curly braces",
+   "braces",
+   "code",
+   "object",
+   "circle",
+   "frame"
+  ]
+ },
+ {
   "name": "brackets-curly-slash",
   "category": "Development",
   "tags": [
@@ -6969,6 +7925,18 @@
   ]
  },
  {
+  "name": "brackets-curly-square",
+  "category": "Development",
+  "tags": [
+   "curly braces",
+   "second bracket",
+   "brackets",
+   "code",
+   "json",
+   "square"
+  ]
+ },
+ {
   "name": "brackets-round",
   "category": "Development",
   "tags": [
@@ -6976,6 +7944,18 @@
    "brackets",
    "code",
    "round"
+  ]
+ },
+ {
+  "name": "brackets-round-circle",
+  "category": "Development",
+  "tags": [
+   "parentheses",
+   "round brackets",
+   "brackets",
+   "circle",
+   "code",
+   "function"
   ]
  },
  {
@@ -6990,6 +7970,18 @@
   ]
  },
  {
+  "name": "brackets-round-square",
+  "category": "Development",
+  "tags": [
+   "parentheses",
+   "round brackets",
+   "code",
+   "math",
+   "square",
+   "frame"
+  ]
+ },
+ {
   "name": "brackets-square",
   "category": "Editor",
   "tags": [
@@ -6997,6 +7989,18 @@
    "array",
    "code",
    "square"
+  ]
+ },
+ {
+  "name": "brackets-square-circle",
+  "category": "Development",
+  "tags": [
+   "square brackets",
+   "array",
+   "code",
+   "math",
+   "circle",
+   "frame"
   ]
  },
  {
@@ -7008,6 +8012,18 @@
    "off",
    "brackets",
    "code"
+  ]
+ },
+ {
+  "name": "brackets-square-square",
+  "category": "Development",
+  "tags": [
+   "square brackets",
+   "third bracket",
+   "brackets",
+   "code",
+   "array",
+   "square"
   ]
  },
  {
@@ -7032,6 +8048,18 @@
   ]
  },
  {
+  "name": "brain-bitcoin",
+  "category": "People",
+  "tags": [
+   "crypto mindset",
+   "bitcoin idea",
+   "thinking crypto",
+   "btc",
+   "brain",
+   "bitcoin"
+  ]
+ },
+ {
   "name": "brain-lightning",
   "category": "Science",
   "tags": [
@@ -7047,6 +8075,18 @@
    "neuroscience",
    "research",
    "analysis"
+  ]
+ },
+ {
+  "name": "brain-sparkle",
+  "category": "People",
+  "tags": [
+   "ai brain",
+   "artificial intelligence",
+   "mind",
+   "thinking",
+   "intelligence",
+   "sparkle"
   ]
  },
  {
@@ -7129,6 +8169,18 @@
   ]
  },
  {
+  "name": "breastplate",
+  "category": "Sports",
+  "tags": [
+   "breastplate",
+   "body armor",
+   "chest plate",
+   "armor",
+   "warrior",
+   "cuirass"
+  ]
+ },
+ {
   "name": "bridge",
   "category": "Maps",
   "tags": [
@@ -7150,6 +8202,103 @@
   ]
  },
  {
+  "name": "briefcase-arrows-clockwise",
+  "category": "Business",
+  "tags": [
+   "work update",
+   "job update",
+   "status update",
+   "refresh",
+   "briefcase",
+   "sync"
+  ]
+ },
+ {
+  "name": "briefcase-clock",
+  "category": "Business",
+  "tags": [
+   "work history",
+   "job history",
+   "time tracking",
+   "work log",
+   "briefcase",
+   "clock"
+  ]
+ },
+ {
+  "name": "briefcase-currency-dollar",
+  "category": "Business",
+  "tags": [
+   "salary",
+   "business",
+   "finance",
+   "investment",
+   "earnings",
+   "briefcase",
+   "dollar"
+  ]
+ },
+ {
+  "name": "briefcase-infinity",
+  "category": "Business",
+  "tags": [
+   "permanent job",
+   "full-time",
+   "tenure",
+   "career",
+   "employment",
+   "briefcase"
+  ]
+ },
+ {
+  "name": "briefcase-link",
+  "category": "Business",
+  "tags": [
+   "job link",
+   "job posting",
+   "career link",
+   "job url",
+   "briefcase",
+   "link"
+  ]
+ },
+ {
+  "name": "briefcase-magnifying-glass",
+  "category": "Business",
+  "tags": [
+   "job search",
+   "find job",
+   "career",
+   "hiring",
+   "recruitment",
+   "vacancy"
+  ]
+ },
+ {
+  "name": "briefcase-plus",
+  "category": "Business",
+  "tags": [
+   "new job",
+   "job offer",
+   "hire",
+   "career",
+   "opportunity",
+   "add"
+  ]
+ },
+ {
+  "name": "briefcase-share",
+  "category": "Business",
+  "tags": [
+   "share job",
+   "refer",
+   "job posting",
+   "career",
+   "briefcase",
+   "share"
+  ]
+ },
+ {
   "name": "briefcase-slash",
   "category": "Business",
   "tags": [
@@ -7157,6 +8306,18 @@
    "disabled",
    "off",
    "business"
+  ]
+ },
+ {
+  "name": "briefcase-warning",
+  "category": "Business",
+  "tags": [
+   "job alert",
+   "urgent",
+   "work warning",
+   "briefcase",
+   "warning",
+   "attention"
   ]
  },
  {
@@ -7243,6 +8404,30 @@
    "disabled",
    "off",
    "communication"
+  ]
+ },
+ {
+  "name": "broccoli",
+  "category": "Food",
+  "tags": [
+   "broccoli",
+   "vegetable",
+   "greens",
+   "healthy",
+   "veggie",
+   "produce"
+  ]
+ },
+ {
+  "name": "brochure",
+  "category": "Business",
+  "tags": [
+   "pamphlet",
+   "leaflet",
+   "flyer",
+   "tri-fold",
+   "marketing",
+   "catalog"
   ]
  },
  {
@@ -7392,6 +8577,18 @@
    "off",
    "window",
    "web"
+  ]
+ },
+ {
+  "name": "browser-sparkle",
+  "category": "Editor",
+  "tags": [
+   "ai browser",
+   "smart browser",
+   "web",
+   "internet",
+   "website",
+   "sparkle"
   ]
  },
  {
@@ -7639,6 +8836,18 @@
   ]
  },
  {
+  "name": "building-university",
+  "category": "Education",
+  "tags": [
+   "university",
+   "college",
+   "campus",
+   "academic",
+   "institution",
+   "building"
+  ]
+ },
+ {
   "name": "buildings",
   "category": "Business",
   "tags": [
@@ -7657,6 +8866,42 @@
    "construction",
    "vehicle",
    "dig"
+  ]
+ },
+ {
+  "name": "bulletproof-vest",
+  "category": "Security",
+  "tags": [
+   "bulletproof vest",
+   "body armor",
+   "police",
+   "protection",
+   "kevlar",
+   "tactical"
+  ]
+ },
+ {
+  "name": "bunk-bed",
+  "category": "Home",
+  "tags": [
+   "bunk bed",
+   "bed",
+   "dorm",
+   "kids room",
+   "hostel",
+   "sleep"
+  ]
+ },
+ {
+  "name": "burj-al-arab",
+  "category": "Maps",
+  "tags": [
+   "burj al arab",
+   "dubai",
+   "hotel",
+   "landmark",
+   "sail",
+   "tower"
   ]
  },
  {
@@ -7711,6 +8956,18 @@
   ]
  },
  {
+  "name": "bush",
+  "category": "Nature",
+  "tags": [
+   "bush",
+   "shrub",
+   "hedge",
+   "plant",
+   "garden",
+   "vegetation"
+  ]
+ },
+ {
   "name": "business-plan",
   "category": "Business",
   "tags": [
@@ -7739,6 +8996,18 @@
    "chalet",
    "lodge",
    "bungalow"
+  ]
+ },
+ {
+  "name": "cabinet",
+  "category": "Home",
+  "tags": [
+   "cabinet",
+   "cupboard",
+   "sideboard",
+   "storage",
+   "furniture",
+   "kitchen"
   ]
  },
  {
@@ -7781,6 +9050,18 @@
    "disabled",
    "off",
    "nature"
+  ]
+ },
+ {
+  "name": "cafe",
+  "category": "Food",
+  "tags": [
+   "cafe",
+   "coffee shop",
+   "bistro",
+   "storefront",
+   "awning",
+   "outdoor seating"
   ]
  },
  {
@@ -7834,6 +9115,18 @@
   ]
  },
  {
+  "name": "calendar-1",
+  "category": "Time",
+  "tags": [
+   "calendar date",
+   "day one",
+   "first day",
+   "month start",
+   "date",
+   "numeral 1"
+  ]
+ },
+ {
   "name": "calendar-arrow-down",
   "category": "Time",
   "tags": [
@@ -7852,6 +9145,18 @@
    "back",
    "return date",
    "calendar"
+  ]
+ },
+ {
+  "name": "calendar-arrow-right",
+  "category": "Time",
+  "tags": [
+   "next week",
+   "postpone",
+   "forward",
+   "reschedule",
+   "calendar",
+   "later"
   ]
  },
  {
@@ -7943,6 +9248,18 @@
   ]
  },
  {
+  "name": "calendar-graduation-cap",
+  "category": "Education",
+  "tags": [
+   "graduation date",
+   "calendar",
+   "academic",
+   "commencement",
+   "graduation",
+   "school"
+  ]
+ },
+ {
   "name": "calendar-heart",
   "category": "Time",
   "tags": [
@@ -7974,6 +9291,18 @@
   ]
  },
  {
+  "name": "calendar-lock",
+  "category": "Time",
+  "tags": [
+   "private event",
+   "locked date",
+   "calendar",
+   "lock",
+   "restricted",
+   "booking"
+  ]
+ },
+ {
   "name": "calendar-magnifying-glass",
   "category": "Time",
   "tags": [
@@ -7993,6 +9322,18 @@
    "minus",
    "event",
    "remove event"
+  ]
+ },
+ {
+  "name": "calendar-moon",
+  "category": "Time",
+  "tags": [
+   "ramadan",
+   "calendar",
+   "month",
+   "crescent",
+   "islamic calendar",
+   "fasting"
   ]
  },
  {
@@ -8103,6 +9444,18 @@
   ]
  },
  {
+  "name": "calendar-sparkle",
+  "category": "Time",
+  "tags": [
+   "ai calendar",
+   "smart scheduling",
+   "planner",
+   "schedule",
+   "appointment",
+   "sparkle"
+  ]
+ },
+ {
   "name": "calendar-star",
   "category": "Time",
   "tags": [
@@ -8173,6 +9526,18 @@
    "measure",
    "diameter",
    "precision"
+  ]
+ },
+ {
+  "name": "camel",
+  "category": "Animals",
+  "tags": [
+   "camel",
+   "desert",
+   "hump",
+   "dromedary",
+   "travel",
+   "animal"
   ]
  },
  {
@@ -8311,6 +9676,18 @@
    "find",
    "photo",
    "picture"
+  ]
+ },
+ {
+  "name": "camera-microphone",
+  "category": "Media",
+  "tags": [
+   "camera microphone",
+   "camera mic",
+   "vlog",
+   "record",
+   "camera",
+   "microphone"
   ]
  },
  {
@@ -8541,6 +9918,18 @@
   ]
  },
  {
+  "name": "candy-cane",
+  "category": "Food",
+  "tags": [
+   "candy cane",
+   "christmas",
+   "holiday",
+   "peppermint",
+   "sweet",
+   "xmas"
+  ]
+ },
+ {
   "name": "candy-slash",
   "category": "Food",
   "tags": [
@@ -8558,6 +9947,18 @@
    "leaf",
    "hemp",
    "plant"
+  ]
+ },
+ {
+  "name": "cannabis-slash",
+  "category": "Nature",
+  "tags": [
+   "cannabis off",
+   "no cannabis",
+   "no smoking",
+   "hemp",
+   "disabled",
+   "slash"
   ]
  },
  {
@@ -8609,6 +10010,18 @@
    "12v",
    "power",
    "terminal"
+  ]
+ },
+ {
+  "name": "car-clock",
+  "category": "Transport",
+  "tags": [
+   "car",
+   "clock",
+   "parking time",
+   "rental",
+   "schedule",
+   "arrival"
   ]
  },
  {
@@ -8706,6 +10119,18 @@
   ]
  },
  {
+  "name": "car-signal",
+  "category": "Transport",
+  "tags": [
+   "connected car",
+   "car signal",
+   "wireless",
+   "telematics",
+   "vehicle",
+   "broadcast"
+  ]
+ },
+ {
   "name": "car-slash",
   "category": "Transport",
   "tags": [
@@ -8744,6 +10169,18 @@
    "turbo",
    "car",
    "engine"
+  ]
+ },
+ {
+  "name": "car-warning",
+  "category": "Transport",
+  "tags": [
+   "car alert",
+   "vehicle warning",
+   "car problem",
+   "breakdown",
+   "caution",
+   "warning"
   ]
  },
  {
@@ -9314,6 +10751,18 @@
   ]
  },
  {
+  "name": "catalog",
+  "category": "Commerce",
+  "tags": [
+   "catalog",
+   "catalogue",
+   "brochure",
+   "products",
+   "inventory",
+   "publication"
+  ]
+ },
+ {
   "name": "category",
   "category": "Design",
   "tags": [
@@ -9653,6 +11102,18 @@
   ]
  },
  {
+  "name": "chart-bar-down",
+  "category": "Charts",
+  "tags": [
+   "decreasing",
+   "decline",
+   "downtrend",
+   "falling",
+   "bar chart",
+   "report"
+  ]
+ },
+ {
   "name": "chart-bar-grouped",
   "category": "Charts",
   "tags": [
@@ -9671,6 +11132,18 @@
    "ranking",
    "analytics",
    "horizontal bars"
+  ]
+ },
+ {
+  "name": "chart-bar-line",
+  "category": "Charts",
+  "tags": [
+   "combined chart",
+   "bar and line",
+   "mixed chart",
+   "overlay",
+   "analytics",
+   "comparison"
   ]
  },
  {
@@ -9845,6 +11318,42 @@
   ]
  },
  {
+  "name": "chart-line-average",
+  "category": "Charts",
+  "tags": [
+   "average",
+   "mean",
+   "baseline",
+   "statistics",
+   "chart",
+   "line"
+  ]
+ },
+ {
+  "name": "chart-line-bitcoin",
+  "category": "Charts",
+  "tags": [
+   "bitcoin chart",
+   "crypto price",
+   "btc",
+   "market",
+   "chart",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "chart-line-breakout",
+  "category": "Charts",
+  "tags": [
+   "breakout",
+   "trading range",
+   "price breakout",
+   "stocks",
+   "chart",
+   "trend"
+  ]
+ },
+ {
   "name": "chart-line-down",
   "category": "Charts",
   "tags": [
@@ -9853,6 +11362,54 @@
    "decrease",
    "trend",
    "falling"
+  ]
+ },
+ {
+  "name": "chart-line-maximum",
+  "category": "Charts",
+  "tags": [
+   "maximum",
+   "peak",
+   "high",
+   "statistics",
+   "chart",
+   "line"
+  ]
+ },
+ {
+  "name": "chart-line-median",
+  "category": "Charts",
+  "tags": [
+   "median",
+   "middle",
+   "mid value",
+   "statistics",
+   "chart",
+   "line"
+  ]
+ },
+ {
+  "name": "chart-line-minimum",
+  "category": "Charts",
+  "tags": [
+   "minimum",
+   "low",
+   "trough",
+   "statistics",
+   "chart",
+   "line"
+  ]
+ },
+ {
+  "name": "chart-line-sparkle",
+  "category": "Charts",
+  "tags": [
+   "ai insights",
+   "smart analytics",
+   "trend",
+   "chart",
+   "sparkle",
+   "auto analytics"
   ]
  },
  {
@@ -9874,6 +11431,18 @@
    "analytics",
    "statistics",
    "share"
+  ]
+ },
+ {
+  "name": "chart-pie-bitcoin",
+  "category": "Charts",
+  "tags": [
+   "crypto portfolio",
+   "allocation",
+   "btc share",
+   "pie chart",
+   "chart",
+   "bitcoin"
   ]
  },
  {
@@ -9968,6 +11537,18 @@
    "graph",
    "analytics",
    "treemap"
+  ]
+ },
+ {
+  "name": "chart-waterfall",
+  "category": "Charts",
+  "tags": [
+   "waterfall chart",
+   "bridge chart",
+   "cumulative",
+   "breakdown",
+   "analytics",
+   "report"
   ]
  },
  {
@@ -10275,6 +11856,30 @@
   ]
  },
  {
+  "name": "chat-dashed",
+  "category": "Communication",
+  "tags": [
+   "draft message",
+   "temporary message",
+   "disappearing message",
+   "chat",
+   "dashed",
+   "placeholder"
+  ]
+ },
+ {
+  "name": "chat-diff",
+  "category": "Communication",
+  "tags": [
+   "chat diff",
+   "code review",
+   "changes",
+   "comment",
+   "diff",
+   "message"
+  ]
+ },
+ {
   "name": "chat-dots",
   "category": "Communication",
   "tags": [
@@ -10283,6 +11888,18 @@
    "comment",
    "bubble",
    "reply"
+  ]
+ },
+ {
+  "name": "chat-eye",
+  "category": "Communication",
+  "tags": [
+   "chat preview",
+   "message preview",
+   "read",
+   "view message",
+   "chat",
+   "eye"
   ]
  },
  {
@@ -10369,6 +11986,18 @@
    "secure",
    "message",
    "private chat"
+  ]
+ },
+ {
+  "name": "chat-lock-open",
+  "category": "Communication",
+  "tags": [
+   "unlocked chat",
+   "unencrypted",
+   "chat",
+   "open lock",
+   "unlock",
+   "message"
   ]
  },
  {
@@ -10596,6 +12225,18 @@
   ]
  },
  {
+  "name": "chat-thought",
+  "category": "Communication",
+  "tags": [
+   "thought bubble",
+   "thinking",
+   "idea",
+   "comic",
+   "daydream",
+   "chat"
+  ]
+ },
+ {
   "name": "chat-translate",
   "category": "Communication",
   "tags": [
@@ -10688,6 +12329,20 @@
    "assistant",
    "support",
    "ai"
+  ]
+ },
+ {
+  "name": "chatgpt-logo",
+  "category": "Brands",
+  "tags": [
+   "chatgpt",
+   "openai",
+   "ai",
+   "assistant",
+   "ai assistant",
+   "chatbot",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -10922,6 +12577,30 @@
   ]
  },
  {
+  "name": "chest-expander",
+  "category": "Sports",
+  "tags": [
+   "chest expander",
+   "spring",
+   "resistance",
+   "stretch",
+   "gym",
+   "equipment"
+  ]
+ },
+ {
+  "name": "chest-press",
+  "category": "Sports",
+  "tags": [
+   "chest press",
+   "gym machine",
+   "strength",
+   "exercise machine",
+   "workout",
+   "weights"
+  ]
+ },
+ {
   "name": "chicken",
   "category": "Animals",
   "tags": [
@@ -11053,6 +12732,18 @@
   ]
  },
  {
+  "name": "cinnamon-roll",
+  "category": "Food",
+  "tags": [
+   "cinnamon roll",
+   "pastry",
+   "bun",
+   "bakery",
+   "dessert",
+   "swirl"
+  ]
+ },
+ {
   "name": "circle",
   "category": "Interface",
   "tags": [
@@ -11084,6 +12775,30 @@
   ]
  },
  {
+  "name": "circle-dot-dashed",
+  "category": "Design",
+  "tags": [
+   "dashed circle dot",
+   "target",
+   "draft point",
+   "anchor",
+   "circle",
+   "dashed"
+  ]
+ },
+ {
+  "name": "circle-fading-arrow-up",
+  "category": "Arrows",
+  "tags": [
+   "update available",
+   "upgrade",
+   "progress",
+   "upload",
+   "arrow up",
+   "circle"
+  ]
+ },
+ {
   "name": "circle-half",
   "category": "Design",
   "tags": [
@@ -11111,6 +12826,18 @@
    "four circles",
    "grid",
    "dots"
+  ]
+ },
+ {
+  "name": "circles-pile",
+  "category": "Objects",
+  "tags": [
+   "pile",
+   "stack",
+   "logs",
+   "pipes",
+   "round",
+   "heap"
   ]
  },
  {
@@ -11402,6 +13129,20 @@
   ]
  },
  {
+  "name": "claude-logo",
+  "category": "Brands",
+  "tags": [
+   "claude",
+   "anthropic",
+   "ai",
+   "assistant",
+   "ai assistant",
+   "spark",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "clear-all",
   "category": "Interface",
   "tags": [
@@ -11545,6 +13286,18 @@
    "remove",
    "minus",
    "list"
+  ]
+ },
+ {
+  "name": "clipboard-pencil",
+  "category": "Files",
+  "tags": [
+   "edit form",
+   "clipboard",
+   "write",
+   "survey",
+   "edit",
+   "pencil"
   ]
  },
  {
@@ -11828,6 +13581,114 @@
    "like",
    "time",
    "hour"
+  ]
+ },
+ {
+  "name": "clock-hour-1",
+  "category": "Time",
+  "tags": [
+   "clock",
+   "1 o'clock",
+   "one",
+   "hour",
+   "time",
+   "schedule"
+  ]
+ },
+ {
+  "name": "clock-hour-2",
+  "category": "Time",
+  "tags": [
+   "clock",
+   "2 o'clock",
+   "two",
+   "hour",
+   "time",
+   "schedule"
+  ]
+ },
+ {
+  "name": "clock-hour-3",
+  "category": "Time",
+  "tags": [
+   "3 o'clock",
+   "three",
+   "hour",
+   "clock",
+   "time",
+   "schedule"
+  ]
+ },
+ {
+  "name": "clock-hour-4",
+  "category": "Time",
+  "tags": [
+   "clock",
+   "4 o'clock",
+   "four",
+   "hour",
+   "time",
+   "schedule"
+  ]
+ },
+ {
+  "name": "clock-hour-5",
+  "category": "Time",
+  "tags": [
+   "5 o'clock",
+   "five",
+   "hour",
+   "clock",
+   "time",
+   "schedule"
+  ]
+ },
+ {
+  "name": "clock-hour-6",
+  "category": "Time",
+  "tags": [
+   "6 oclock",
+   "six",
+   "clock",
+   "time",
+   "hour",
+   "clock face"
+  ]
+ },
+ {
+  "name": "clock-hour-7",
+  "category": "Time",
+  "tags": [
+   "clock",
+   "7 o'clock",
+   "seven",
+   "hour",
+   "time",
+   "schedule"
+  ]
+ },
+ {
+  "name": "clock-hour-8",
+  "category": "Time",
+  "tags": [
+   "8 oclock",
+   "eight",
+   "clock",
+   "time",
+   "hour",
+   "clock face"
+  ]
+ },
+ {
+  "name": "clock-hour-9",
+  "category": "Time",
+  "tags": [
+   "9 oclock",
+   "nine",
+   "clock",
+   "time",
+   "hour",
+   "clock face"
   ]
  },
  {
@@ -12359,6 +14220,18 @@
   ]
  },
  {
+  "name": "cloud-moon-snow",
+  "category": "Weather",
+  "tags": [
+   "night snow",
+   "snowfall",
+   "winter",
+   "forecast",
+   "moon",
+   "cloud"
+  ]
+ },
+ {
   "name": "cloud-network",
   "category": "Development",
   "tags": [
@@ -12486,6 +14359,18 @@
   ]
  },
  {
+  "name": "cloud-sparkle",
+  "category": "Development",
+  "tags": [
+   "ai cloud",
+   "cloud ai",
+   "cloud computing",
+   "machine learning",
+   "online",
+   "sparkle"
+  ]
+ },
+ {
   "name": "cloud-star",
   "category": "Development",
   "tags": [
@@ -12535,6 +14420,18 @@
    "sun",
    "rain",
    "partly cloudy"
+  ]
+ },
+ {
+  "name": "cloud-sun-snow",
+  "category": "Weather",
+  "tags": [
+   "snow",
+   "daytime snow",
+   "winter",
+   "forecast",
+   "sun",
+   "cloud"
   ]
  },
  {
@@ -12759,6 +14656,30 @@
   ]
  },
  {
+  "name": "code-variable-eye",
+  "category": "Development",
+  "tags": [
+   "view property",
+   "variable",
+   "attribute",
+   "inspect",
+   "code",
+   "eye"
+  ]
+ },
+ {
+  "name": "code-variable-magnifying-glass",
+  "category": "Development",
+  "tags": [
+   "search property",
+   "variable",
+   "attribute",
+   "find",
+   "code",
+   "search"
+  ]
+ },
+ {
   "name": "code-variable-minus",
   "category": "Development",
   "tags": [
@@ -12770,6 +14691,18 @@
   ]
  },
  {
+  "name": "code-variable-pencil",
+  "category": "Development",
+  "tags": [
+   "edit property",
+   "variable",
+   "attribute",
+   "edit",
+   "code",
+   "pencil"
+  ]
+ },
+ {
   "name": "code-variable-plus",
   "category": "Development",
   "tags": [
@@ -12778,6 +14711,44 @@
    "new",
    "code",
    "developer"
+  ]
+ },
+ {
+  "name": "code-variable-x",
+  "category": "Development",
+  "tags": [
+   "delete property",
+   "variable",
+   "attribute",
+   "remove",
+   "code",
+   "x"
+  ]
+ },
+ {
+  "name": "codepen-logo",
+  "category": "Brands",
+  "tags": [
+   "codepen",
+   "code editor",
+   "playground",
+   "frontend",
+   "web development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "codesandbox-logo",
+  "category": "Brands",
+  "tags": [
+   "codesandbox",
+   "sandbox",
+   "code",
+   "ide",
+   "web development",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -12851,6 +14822,30 @@
   ]
  },
  {
+  "name": "coin-bitcoin-arrow-down",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin price down",
+   "crypto drop",
+   "bearish",
+   "btc",
+   "decrease",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "coin-bitcoin-arrow-up",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin price up",
+   "crypto rise",
+   "bullish",
+   "btc",
+   "increase",
+   "bitcoin"
+  ]
+ },
+ {
   "name": "coin-euro",
   "category": "Commerce",
   "tags": [
@@ -12870,6 +14865,18 @@
    "money",
    "pound",
    "commerce"
+  ]
+ },
+ {
+  "name": "coin-rocket",
+  "category": "Commerce",
+  "tags": [
+   "ico",
+   "initial coin offering",
+   "token launch",
+   "crypto",
+   "coin",
+   "launch"
   ]
  },
  {
@@ -12927,6 +14934,19 @@
   ]
  },
  {
+  "name": "coinbase-logo",
+  "category": "Brands",
+  "tags": [
+   "coinbase",
+   "crypto",
+   "exchange",
+   "bitcoin",
+   "trading",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "coins",
   "category": "Commerce",
   "tags": [
@@ -12935,6 +14955,18 @@
    "change",
    "currency",
    "savings"
+  ]
+ },
+ {
+  "name": "coins-lock",
+  "category": "Commerce",
+  "tags": [
+   "staking",
+   "stake",
+   "locked coins",
+   "crypto",
+   "earn",
+   "coins"
   ]
  },
  {
@@ -13027,6 +15059,18 @@
    "layout",
    "grid",
    "columns"
+  ]
+ },
+ {
+  "name": "columns-three-gear",
+  "category": "Interface",
+  "tags": [
+   "column settings",
+   "layout settings",
+   "columns",
+   "configure",
+   "three columns",
+   "gear"
   ]
  },
  {
@@ -13209,6 +15253,19 @@
    "math",
    "equal",
    "geometry"
+  ]
+ },
+ {
+  "name": "constellation",
+  "category": "Science",
+  "tags": [
+   "constellation",
+   "stars",
+   "astronomy",
+   "night sky",
+   "zodiac",
+   "space",
+   "star map"
   ]
  },
  {
@@ -13462,6 +15519,18 @@
   ]
  },
  {
+  "name": "corn",
+  "category": "Food",
+  "tags": [
+   "corn",
+   "maize",
+   "crop",
+   "grain",
+   "agriculture",
+   "vegetable"
+  ]
+ },
+ {
   "name": "corner-bottom-left",
   "category": "Design",
   "tags": [
@@ -13654,6 +15723,18 @@
   ]
  },
  {
+  "name": "cotton-candy",
+  "category": "Food",
+  "tags": [
+   "cotton candy",
+   "candy floss",
+   "fair",
+   "sweet",
+   "carnival",
+   "dessert"
+  ]
+ },
+ {
   "name": "couch",
   "category": "Objects",
   "tags": [
@@ -13672,6 +15753,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "couple",
+  "category": "People",
+  "tags": [
+   "couple",
+   "man and woman",
+   "pair",
+   "partners",
+   "family",
+   "two people"
   ]
  },
  {
@@ -13734,6 +15827,44 @@
   ]
  },
  {
+  "name": "cpu-bitcoin",
+  "category": "Devices",
+  "tags": [
+   "bitcoin mining",
+   "crypto mining",
+   "mining rig",
+   "cpu",
+   "btc",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "cpu-gear",
+  "category": "Devices",
+  "tags": [
+   "cpu settings",
+   "processor",
+   "configure",
+   "overclock",
+   "chip",
+   "hardware",
+   "gear"
+  ]
+ },
+ {
+  "name": "cpu-lightning",
+  "category": "Devices",
+  "tags": [
+   "cpu power",
+   "processor",
+   "charging",
+   "performance",
+   "boost",
+   "chip",
+   "lightning"
+  ]
+ },
+ {
   "name": "cpu-slash",
   "category": "Devices",
   "tags": [
@@ -13741,6 +15872,18 @@
    "disabled",
    "off",
    "devices"
+  ]
+ },
+ {
+  "name": "cpu-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai chip",
+   "processor",
+   "npu",
+   "machine learning",
+   "hardware",
+   "sparkle"
   ]
  },
  {
@@ -13876,6 +16019,19 @@
   ]
  },
  {
+  "name": "creative-market-logo",
+  "category": "Brands",
+  "tags": [
+   "creative market",
+   "marketplace",
+   "shop",
+   "store",
+   "design assets",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "credit-card",
   "category": "Commerce",
   "tags": [
@@ -13893,6 +16049,30 @@
    "cvv",
    "magnetic stripe",
    "credit card"
+  ]
+ },
+ {
+  "name": "credit-card-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "crypto card",
+   "bitcoin card",
+   "btc",
+   "payment",
+   "credit card",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "credit-card-check",
+  "category": "Commerce",
+  "tags": [
+   "payment approved",
+   "accepted",
+   "success",
+   "verified",
+   "credit card",
+   "check"
   ]
  },
  {
@@ -13977,6 +16157,30 @@
    "payment",
    "slash",
    "declined"
+  ]
+ },
+ {
+  "name": "credit-card-swap",
+  "category": "Commerce",
+  "tags": [
+   "change payment method",
+   "swap card",
+   "exchange",
+   "credit card",
+   "switch",
+   "transaction"
+  ]
+ },
+ {
+  "name": "credit-card-thaw",
+  "category": "Commerce",
+  "tags": [
+   "unfreeze card",
+   "defrost card",
+   "reactivate card",
+   "unblock",
+   "credit card",
+   "payment"
   ]
  },
  {
@@ -14130,6 +16334,18 @@
   ]
  },
  {
+  "name": "crop-sparkle",
+  "category": "Design",
+  "tags": [
+   "ai crop",
+   "smart crop",
+   "auto crop",
+   "trim",
+   "crop",
+   "sparkle"
+  ]
+ },
+ {
   "name": "crop-square",
   "category": "Design",
   "tags": [
@@ -14182,6 +16398,30 @@
   ]
  },
  {
+  "name": "crown-minus",
+  "category": "Symbols",
+  "tags": [
+   "crown",
+   "remove",
+   "minus",
+   "premium",
+   "downgrade",
+   "king"
+  ]
+ },
+ {
+  "name": "crown-plus",
+  "category": "Symbols",
+  "tags": [
+   "crown",
+   "add",
+   "plus",
+   "premium",
+   "upgrade",
+   "king"
+  ]
+ },
+ {
   "name": "crown-slash",
   "category": "Objects",
   "tags": [
@@ -14218,6 +16458,19 @@
    "prediction",
    "magic",
    "future"
+  ]
+ },
+ {
+  "name": "css3-logo",
+  "category": "Brands",
+  "tags": [
+   "css3",
+   "css",
+   "stylesheet",
+   "web",
+   "w3c",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -14261,6 +16514,18 @@
   ]
  },
  {
+  "name": "cube-move",
+  "category": "Design",
+  "tags": [
+   "3d move",
+   "move",
+   "translate",
+   "cube",
+   "3d modeling",
+   "transform"
+  ]
+ },
+ {
   "name": "cube-plus",
   "category": "Design",
   "tags": [
@@ -14279,6 +16544,18 @@
    "rotate",
    "cube",
    "orbit"
+  ]
+ },
+ {
+  "name": "cube-scale",
+  "category": "Design",
+  "tags": [
+   "3d scale",
+   "scale",
+   "resize",
+   "transform",
+   "3d modeling",
+   "cube"
   ]
  },
  {
@@ -14333,6 +16610,19 @@
   ]
  },
  {
+  "name": "cube-waves",
+  "category": "Science",
+  "tags": [
+   "submerge",
+   "immerse",
+   "dip",
+   "underwater",
+   "sink",
+   "plunge",
+   "water"
+  ]
+ },
+ {
   "name": "cubic-meter",
   "category": "Science",
   "tags": [
@@ -14370,6 +16660,18 @@
    "soda",
    "cup",
    "straw"
+  ]
+ },
+ {
+  "name": "cupcake",
+  "category": "Food",
+  "tags": [
+   "cupcake",
+   "muffin",
+   "dessert",
+   "bakery",
+   "birthday",
+   "sweet"
   ]
  },
  {
@@ -14575,6 +16877,18 @@
    "currency",
    "forex",
    "convert"
+  ]
+ },
+ {
+  "name": "currency-exchange-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin exchange",
+   "crypto exchange",
+   "convert",
+   "btc",
+   "forex",
+   "bitcoin"
   ]
  },
  {
@@ -15056,6 +17370,18 @@
   ]
  },
  {
+  "name": "cursor-hourglass",
+  "category": "Interface",
+  "tags": [
+   "busy cursor",
+   "loading",
+   "wait",
+   "hourglass",
+   "cursor",
+   "processing"
+  ]
+ },
+ {
   "name": "cursor-lightning",
   "category": "Interface",
   "tags": [
@@ -15125,6 +17451,42 @@
   ]
  },
  {
+  "name": "cursor-scroll-diagonal",
+  "category": "Interface",
+  "tags": [
+   "autoscroll",
+   "scroll point",
+   "diagonal scroll",
+   "pan",
+   "cursor",
+   "move"
+  ]
+ },
+ {
+  "name": "cursor-scroll-horizontal",
+  "category": "Interface",
+  "tags": [
+   "autoscroll",
+   "scroll point",
+   "horizontal scroll",
+   "pan",
+   "cursor",
+   "move"
+  ]
+ },
+ {
+  "name": "cursor-scroll-vertical",
+  "category": "Interface",
+  "tags": [
+   "autoscroll",
+   "scroll point",
+   "vertical scroll",
+   "pan",
+   "cursor",
+   "move"
+  ]
+ },
+ {
   "name": "cursor-share",
   "category": "Interface",
   "tags": [
@@ -15141,6 +17503,18 @@
    "disabled",
    "off",
    "editor"
+  ]
+ },
+ {
+  "name": "cursor-spinner",
+  "category": "Interface",
+  "tags": [
+   "progress cursor",
+   "loading",
+   "busy",
+   "spinner",
+   "cursor",
+   "working"
   ]
  },
  {
@@ -15203,6 +17577,18 @@
    "bezier",
    "path",
    "spline"
+  ]
+ },
+ {
+  "name": "curve-bend",
+  "category": "Design",
+  "tags": [
+   "bend tool",
+   "warp",
+   "bend path",
+   "distort",
+   "curve",
+   "vector"
   ]
  },
  {
@@ -15290,6 +17676,18 @@
   ]
  },
  {
+  "name": "dam",
+  "category": "Science",
+  "tags": [
+   "dam",
+   "hydroelectric",
+   "hydro power",
+   "reservoir",
+   "water",
+   "barrier"
+  ]
+ },
+ {
   "name": "dango",
   "category": "Food",
   "tags": [
@@ -15351,6 +17749,18 @@
   ]
  },
  {
+  "name": "database-arrows-out",
+  "category": "Development",
+  "tags": [
+   "database",
+   "expand",
+   "scale",
+   "grow",
+   "resize",
+   "data"
+  ]
+ },
+ {
   "name": "database-backup",
   "category": "Development",
   "tags": [
@@ -15358,6 +17768,18 @@
    "restore point",
    "data copy",
    "database"
+  ]
+ },
+ {
+  "name": "database-bitcoin",
+  "category": "Development",
+  "tags": [
+   "blockchain storage",
+   "crypto database",
+   "ledger",
+   "btc",
+   "database",
+   "bitcoin"
   ]
  },
  {
@@ -15454,6 +17876,18 @@
    "breach",
    "storage",
    "data"
+  ]
+ },
+ {
+  "name": "database-lightning",
+  "category": "Development",
+  "tags": [
+   "fast database",
+   "cache",
+   "database speed",
+   "performance",
+   "database",
+   "lightning"
   ]
  },
  {
@@ -15663,6 +18097,19 @@
   ]
  },
  {
+  "name": "deepseek-logo",
+  "category": "Brands",
+  "tags": [
+   "deepseek",
+   "ai",
+   "chatbot",
+   "whale",
+   "llm",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "deer",
   "category": "Animals",
   "tags": [
@@ -15723,6 +18170,18 @@
   ]
  },
  {
+  "name": "design-monks-logo",
+  "category": "Brands",
+  "tags": [
+   "design monks",
+   "logo",
+   "brand",
+   "agency",
+   "smile",
+   "bubble"
+  ]
+ },
+ {
   "name": "desk",
   "category": "Home",
   "tags": [
@@ -15774,6 +18233,45 @@
   ]
  },
  {
+  "name": "detergent-bottle",
+  "category": "Home",
+  "tags": [
+   "detergent",
+   "laundry",
+   "soap",
+   "cleaning",
+   "washing",
+   "jug"
+  ]
+ },
+ {
+  "name": "dev-monks-logo",
+  "category": "Brands",
+  "tags": [
+   "dev monks",
+   "logo",
+   "brand",
+   "agency",
+   "development",
+   "bubble",
+   "steps"
+  ]
+ },
+ {
+  "name": "deviantart-logo",
+  "category": "Brands",
+  "tags": [
+   "deviantart",
+   "art",
+   "creative",
+   "community",
+   "artists",
+   "social",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "device-foldable",
   "category": "Devices",
   "tags": [
@@ -15813,6 +18311,18 @@
    "upload",
    "phone",
    "smartphone"
+  ]
+ },
+ {
+  "name": "device-mobile-bitcoin",
+  "category": "Devices",
+  "tags": [
+   "mobile crypto",
+   "bitcoin app",
+   "crypto wallet",
+   "btc",
+   "phone",
+   "bitcoin"
   ]
  },
  {
@@ -16053,6 +18563,18 @@
   ]
  },
  {
+  "name": "device-mobile-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai phone",
+   "smartphone",
+   "mobile ai",
+   "phone assistant",
+   "smart device",
+   "sparkle"
+  ]
+ },
+ {
   "name": "device-mobile-speaker",
   "category": "Devices",
   "tags": [
@@ -16106,6 +18628,30 @@
   ]
  },
  {
+  "name": "device-mobile-wifi",
+  "category": "Devices",
+  "tags": [
+   "phone wifi",
+   "mobile",
+   "wireless",
+   "internet",
+   "connected",
+   "hotspot"
+  ]
+ },
+ {
+  "name": "device-mobile-wifi-slash",
+  "category": "Devices",
+  "tags": [
+   "no wifi",
+   "phone",
+   "offline",
+   "disconnected",
+   "mobile",
+   "wifi off"
+  ]
+ },
+ {
   "name": "device-mobile-wrench",
   "category": "Devices",
   "tags": [
@@ -16155,6 +18701,18 @@
    "increase",
    "upload",
    "tablet",
+   "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-bluetooth",
+  "category": "Devices",
+  "tags": [
+   "tablet",
+   "bluetooth",
+   "wireless",
+   "pairing",
+   "connected",
    "ipad"
   ]
  },
@@ -16324,6 +18882,18 @@
   ]
  },
  {
+  "name": "device-tablet-usb",
+  "category": "Devices",
+  "tags": [
+   "tablet",
+   "usb",
+   "connected",
+   "cable",
+   "charging",
+   "device"
+  ]
+ },
+ {
   "name": "device-tablet-warning",
   "category": "Devices",
   "tags": [
@@ -16332,6 +18902,18 @@
    "error",
    "tablet",
    "ipad"
+  ]
+ },
+ {
+  "name": "device-tablet-wifi",
+  "category": "Devices",
+  "tags": [
+   "tablet",
+   "wifi",
+   "wireless",
+   "internet",
+   "connected",
+   "online"
   ]
  },
  {
@@ -16646,6 +19228,30 @@
   ]
  },
  {
+  "name": "diamond-minus",
+  "category": "Design",
+  "tags": [
+   "diamond",
+   "shape",
+   "remove",
+   "minus",
+   "rhombus",
+   "geometry"
+  ]
+ },
+ {
+  "name": "diamond-plus",
+  "category": "Design",
+  "tags": [
+   "diamond",
+   "shape",
+   "add",
+   "plus",
+   "rhombus",
+   "geometry"
+  ]
+ },
+ {
   "name": "diamond-slash",
   "category": "Objects",
   "tags": [
@@ -16786,6 +19392,18 @@
   ]
  },
  {
+  "name": "dining-table-umbrella",
+  "category": "Home",
+  "tags": [
+   "patio table",
+   "outdoor dining",
+   "restaurant",
+   "cafe",
+   "terrace",
+   "umbrella"
+  ]
+ },
+ {
   "name": "direction-arrows",
   "category": "Arrows",
   "tags": [
@@ -16874,6 +19492,19 @@
    "party",
    "disco",
    "dance"
+  ]
+ },
+ {
+  "name": "discord-logo",
+  "category": "Brands",
+  "tags": [
+   "discord",
+   "chat",
+   "gaming",
+   "voice",
+   "community",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -17052,6 +19683,18 @@
   ]
  },
  {
+  "name": "dna-sparkle",
+  "category": "Health",
+  "tags": [
+   "ai genetics",
+   "ai biology",
+   "gene",
+   "helix",
+   "dna",
+   "sparkle"
+  ]
+ },
+ {
   "name": "doctor",
   "category": "Health",
   "tags": [
@@ -17100,6 +19743,19 @@
    "observatory",
    "capitol",
    "building"
+  ]
+ },
+ {
+  "name": "domino",
+  "category": "Sports",
+  "tags": [
+   "domino",
+   "dominoes",
+   "tile",
+   "game",
+   "dots",
+   "pips",
+   "board game"
   ]
  },
  {
@@ -17264,6 +19920,18 @@
   ]
  },
  {
+  "name": "dots-nine-circle",
+  "category": "Interface",
+  "tags": [
+   "app menu",
+   "apps",
+   "launcher",
+   "grid menu",
+   "circle",
+   "dots"
+  ]
+ },
+ {
   "name": "dots-six",
   "category": "Interface",
   "tags": [
@@ -17412,6 +20080,19 @@
    "drawers",
    "furniture",
    "bedroom"
+  ]
+ },
+ {
+  "name": "dribbble-logo",
+  "category": "Brands",
+  "tags": [
+   "dribbble",
+   "design",
+   "community",
+   "portfolio",
+   "ball",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -17724,6 +20405,19 @@
   ]
  },
  {
+  "name": "dropbox-logo",
+  "category": "Brands",
+  "tags": [
+   "dropbox",
+   "cloud storage",
+   "file sharing",
+   "sync",
+   "backup",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "dropdown",
   "category": "Interface",
   "tags": [
@@ -17743,6 +20437,18 @@
    "humidity",
    "water",
    "liquid"
+  ]
+ },
+ {
+  "name": "drum",
+  "category": "Media",
+  "tags": [
+   "drum",
+   "snare",
+   "percussion",
+   "instrument",
+   "music",
+   "band"
   ]
  },
  {
@@ -17893,6 +20599,31 @@
    "earbuds",
    "charging case",
    "devices"
+  ]
+ },
+ {
+  "name": "earrings",
+  "category": "Objects",
+  "tags": [
+   "earrings",
+   "jewelry",
+   "accessory",
+   "fashion",
+   "drop earrings",
+   "pair"
+  ]
+ },
+ {
+  "name": "earth-layers",
+  "category": "Science",
+  "tags": [
+   "geology",
+   "earth layers",
+   "crust",
+   "core",
+   "mantle",
+   "planet",
+   "cross section"
   ]
  },
  {
@@ -18180,6 +20911,19 @@
   ]
  },
  {
+  "name": "envato-logo",
+  "category": "Brands",
+  "tags": [
+   "envato",
+   "envato market",
+   "leaf",
+   "creative marketplace",
+   "design",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "envelope",
   "category": "Communication",
   "tags": [
@@ -18310,6 +21054,18 @@
   ]
  },
  {
+  "name": "envelope-gavel",
+  "category": "Business",
+  "tags": [
+   "subpoena",
+   "summons",
+   "legal notice",
+   "court",
+   "law",
+   "official"
+  ]
+ },
+ {
   "name": "envelope-gear",
   "category": "Communication",
   "tags": [
@@ -18379,6 +21135,18 @@
    "private",
    "lock",
    "encrypted"
+  ]
+ },
+ {
+  "name": "envelope-lock-open",
+  "category": "Communication",
+  "tags": [
+   "unlocked mail",
+   "unencrypted email",
+   "envelope",
+   "unlock",
+   "mail",
+   "open lock"
   ]
  },
  {
@@ -18584,6 +21352,18 @@
   ]
  },
  {
+  "name": "envelope-user",
+  "category": "Communication",
+  "tags": [
+   "email account",
+   "contact",
+   "mail user",
+   "sender",
+   "envelope",
+   "user"
+  ]
+ },
+ {
   "name": "envelope-warning",
   "category": "Communication",
   "tags": [
@@ -18667,6 +21447,18 @@
   ]
  },
  {
+  "name": "eraser-plus",
+  "category": "Editor",
+  "tags": [
+   "eraser",
+   "add",
+   "new eraser",
+   "editing",
+   "correction",
+   "plus"
+  ]
+ },
+ {
   "name": "eraser-slash",
   "category": "Editor",
   "tags": [
@@ -18674,6 +21466,18 @@
    "disabled",
    "off",
    "editor"
+  ]
+ },
+ {
+  "name": "eraser-sparkle",
+  "category": "Design",
+  "tags": [
+   "magic eraser",
+   "object removal",
+   "erase",
+   "retouch",
+   "cleanup",
+   "sparkle"
   ]
  },
  {
@@ -18723,6 +21527,19 @@
    "estate",
    "mansion",
    "property"
+  ]
+ },
+ {
+  "name": "ethereum-logo",
+  "category": "Brands",
+  "tags": [
+   "ethereum",
+   "eth",
+   "crypto",
+   "cryptocurrency",
+   "blockchain",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -19306,6 +22123,18 @@
   ]
  },
  {
+  "name": "face-mask-heart",
+  "category": "Health",
+  "tags": [
+   "face mask",
+   "care",
+   "love",
+   "healthcare",
+   "heart",
+   "medical"
+  ]
+ },
+ {
   "name": "face-mask-slash",
   "category": "Health",
   "tags": [
@@ -19313,6 +22142,19 @@
    "disabled",
    "off",
    "health"
+  ]
+ },
+ {
+  "name": "facebook-logo",
+  "category": "Brands",
+  "tags": [
+   "facebook",
+   "meta",
+   "social media",
+   "social network",
+   "f",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -19477,6 +22319,18 @@
   ]
  },
  {
+  "name": "fencing-mask",
+  "category": "Sports",
+  "tags": [
+   "fencing mask",
+   "fencing",
+   "mesh",
+   "sword sport",
+   "epee",
+   "helmet"
+  ]
+ },
+ {
   "name": "ferris-wheel",
   "category": "Maps",
   "tags": [
@@ -19508,6 +22362,19 @@
   ]
  },
  {
+  "name": "figma-logo",
+  "category": "Brands",
+  "tags": [
+   "figma",
+   "design tool",
+   "ui design",
+   "prototyping",
+   "design",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "file",
   "category": "Files",
   "tags": [
@@ -19526,6 +22393,18 @@
    "page",
    "file",
    "3d"
+  ]
+ },
+ {
+  "name": "file-7z",
+  "category": "Files",
+  "tags": [
+   "7z",
+   "7-zip archive",
+   "compressed",
+   "archive",
+   "file",
+   "zip"
   ]
  },
  {
@@ -19827,6 +22706,30 @@
   ]
  },
  {
+  "name": "file-currency-pound",
+  "category": "Files",
+  "tags": [
+   "file",
+   "pound",
+   "gbp",
+   "invoice",
+   "document",
+   "currency"
+  ]
+ },
+ {
+  "name": "file-currency-yen",
+  "category": "Files",
+  "tags": [
+   "file",
+   "yen",
+   "jpy",
+   "invoice",
+   "document",
+   "currency"
+  ]
+ },
+ {
   "name": "file-cv",
   "category": "Files",
   "tags": [
@@ -19911,6 +22814,18 @@
    "page",
    "file",
    "dots"
+  ]
+ },
+ {
+  "name": "file-estimate",
+  "category": "Business",
+  "tags": [
+   "estimate",
+   "quote",
+   "quotation",
+   "approximate cost",
+   "proposal",
+   "document"
   ]
  },
  {
@@ -20187,6 +23102,18 @@
   ]
  },
  {
+  "name": "file-lock-open",
+  "category": "Files",
+  "tags": [
+   "unlocked file",
+   "file",
+   "unlock",
+   "unprotected",
+   "open lock",
+   "access"
+  ]
+ },
+ {
   "name": "file-m4p",
   "category": "Files",
   "tags": [
@@ -20427,6 +23354,18 @@
    "layered image",
    "design",
    "file type"
+  ]
+ },
+ {
+  "name": "file-push-pin",
+  "category": "Files",
+  "tags": [
+   "pinned file",
+   "pin",
+   "important",
+   "file",
+   "document",
+   "push pin"
   ]
  },
  {
@@ -20937,6 +23876,18 @@
   ]
  },
  {
+  "name": "file-xsl",
+  "category": "Files",
+  "tags": [
+   "xsl",
+   "xslt",
+   "stylesheet",
+   "xml",
+   "file type",
+   "transform"
+  ]
+ },
+ {
   "name": "file-yml",
   "category": "Files",
   "tags": [
@@ -21103,6 +24054,42 @@
    "verified",
    "biometric ok",
    "authenticated"
+  ]
+ },
+ {
+  "name": "fingerprint-lock",
+  "category": "Security",
+  "tags": [
+   "biometric access",
+   "fingerprint lock",
+   "touch id",
+   "authentication",
+   "access control",
+   "lock"
+  ]
+ },
+ {
+  "name": "fingerprint-plus",
+  "category": "Security",
+  "tags": [
+   "add fingerprint",
+   "enroll",
+   "biometric",
+   "fingerprint",
+   "new",
+   "plus"
+  ]
+ },
+ {
+  "name": "fingerprint-scan",
+  "category": "Security",
+  "tags": [
+   "fingerprint scan",
+   "touch id",
+   "biometric scan",
+   "authentication",
+   "scanning",
+   "security"
   ]
  },
  {
@@ -21344,6 +24331,19 @@
    "wearable",
    "activity",
    "step counter"
+  ]
+ },
+ {
+  "name": "fiverr-logo",
+  "category": "Brands",
+  "tags": [
+   "fiverr",
+   "freelance",
+   "gig",
+   "marketplace",
+   "hire",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -21627,6 +24627,17 @@
   ]
  },
  {
+  "name": "flashlight-slash",
+  "category": "Objects",
+  "tags": [
+   "flashlight off",
+   "torch off",
+   "light off",
+   "disabled",
+   "slash"
+  ]
+ },
+ {
   "name": "flask",
   "category": "Health",
   "tags": [
@@ -21659,6 +24670,43 @@
   ]
  },
  {
+  "name": "flask-sparkle",
+  "category": "Science",
+  "tags": [
+   "ai chemistry",
+   "ai science",
+   "lab",
+   "experiment",
+   "flask",
+   "sparkle"
+  ]
+ },
+ {
+  "name": "flaticon-logo",
+  "category": "Brands",
+  "tags": [
+   "flaticon",
+   "icons",
+   "graphics",
+   "library",
+   "f",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "flickr-logo",
+  "category": "Brands",
+  "tags": [
+   "flickr",
+   "photo sharing",
+   "photos",
+   "social media",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "flip-flops",
   "category": "Objects",
   "tags": [
@@ -21677,6 +24725,18 @@
    "horizontal",
    "reflect",
    "transform"
+  ]
+ },
+ {
+  "name": "flip-phone",
+  "category": "Devices",
+  "tags": [
+   "flip phone",
+   "clamshell",
+   "feature phone",
+   "mobile",
+   "classic phone",
+   "cellular"
   ]
  },
  {
@@ -21738,6 +24798,18 @@
   ]
  },
  {
+  "name": "floppy-disk-slash",
+  "category": "Files",
+  "tags": [
+   "save off",
+   "no save",
+   "floppy disk",
+   "disabled",
+   "unsaved",
+   "slash"
+  ]
+ },
+ {
   "name": "flow-arrow",
   "category": "Development",
   "tags": [
@@ -21787,6 +24859,19 @@
    "zen",
    "flower",
    "spa"
+  ]
+ },
+ {
+  "name": "flower-rose",
+  "category": "Nature",
+  "tags": [
+   "rose",
+   "flower",
+   "bloom",
+   "valentine",
+   "garden",
+   "love",
+   "plant"
   ]
  },
  {
@@ -21941,6 +25026,18 @@
   ]
  },
  {
+  "name": "folder-books",
+  "category": "Files",
+  "tags": [
+   "library folder",
+   "books",
+   "collection",
+   "resources",
+   "folder",
+   "reading"
+  ]
+ },
+ {
   "name": "folder-chart",
   "category": "Files",
   "tags": [
@@ -22056,6 +25153,18 @@
   ]
  },
  {
+  "name": "folder-kanban",
+  "category": "Files",
+  "tags": [
+   "project folder",
+   "kanban",
+   "board",
+   "tasks",
+   "folder",
+   "columns"
+  ]
+ },
+ {
   "name": "folder-lightning",
   "category": "Files",
   "tags": [
@@ -22073,6 +25182,18 @@
    "private",
    "protected",
    "directory"
+  ]
+ },
+ {
+  "name": "folder-lock-open",
+  "category": "Files",
+  "tags": [
+   "unlocked folder",
+   "folder",
+   "unlock",
+   "unprotected",
+   "open lock",
+   "access"
   ]
  },
  {
@@ -22137,12 +25258,36 @@
   ]
  },
  {
+  "name": "folder-paperclip",
+  "category": "Files",
+  "tags": [
+   "folder",
+   "attachment",
+   "paperclip",
+   "attach",
+   "documents",
+   "email"
+  ]
+ },
+ {
   "name": "folder-pause",
   "category": "Files",
   "tags": [
    "folder",
    "paused",
    "hold"
+  ]
+ },
+ {
+  "name": "folder-pencil",
+  "category": "Files",
+  "tags": [
+   "edit folder",
+   "rename folder",
+   "folder",
+   "pencil",
+   "modify",
+   "write"
   ]
  },
  {
@@ -22183,6 +25328,18 @@
    "folder",
    "question",
    "help",
+   "directory"
+  ]
+ },
+ {
+  "name": "folder-root",
+  "category": "Files",
+  "tags": [
+   "root folder",
+   "root directory",
+   "base",
+   "system",
+   "home",
    "directory"
   ]
  },
@@ -22403,6 +25560,30 @@
   ]
  },
  {
+  "name": "fork-knife-magnifying-glass",
+  "category": "Food",
+  "tags": [
+   "find restaurant",
+   "restaurant search",
+   "dining search",
+   "food search",
+   "fork knife",
+   "magnifying glass"
+  ]
+ },
+ {
+  "name": "fork-knife-scan",
+  "category": "Health",
+  "tags": [
+   "meal scan",
+   "food recognition",
+   "calorie tracking",
+   "scan",
+   "nutrition",
+   "meal"
+  ]
+ },
+ {
   "name": "fork-knife-slash",
   "category": "Food",
   "tags": [
@@ -22434,6 +25615,19 @@
   ]
  },
  {
+  "name": "forrst-logo",
+  "category": "Brands",
+  "tags": [
+   "forrst",
+   "tree",
+   "forest",
+   "community",
+   "developers",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "fortress",
   "category": "Maps",
   "tags": [
@@ -22450,6 +25644,18 @@
    "skip",
    "ahead",
    "video"
+  ]
+ },
+ {
+  "name": "forward-5",
+  "category": "Media",
+  "tags": [
+   "forward 5 seconds",
+   "skip 5",
+   "jump ahead",
+   "seek forward",
+   "video",
+   "audio"
   ]
  },
  {
@@ -22500,6 +25706,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "framer-logo",
+  "category": "Brands",
+  "tags": [
+   "framer",
+   "design tool",
+   "prototype",
+   "website builder",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -22624,6 +25842,18 @@
   ]
  },
  {
+  "name": "function-circle",
+  "category": "Development",
+  "tags": [
+   "function",
+   "f(x)",
+   "math",
+   "formula",
+   "code",
+   "circle"
+  ]
+ },
+ {
   "name": "function-slash",
   "category": "Development",
   "tags": [
@@ -22660,6 +25890,18 @@
    "upload",
    "up",
    "increase"
+  ]
+ },
+ {
+  "name": "funnel-bitcoin",
+  "category": "Interface",
+  "tags": [
+   "filter crypto",
+   "bitcoin filter",
+   "btc",
+   "funnel",
+   "sort",
+   "bitcoin"
   ]
  },
  {
@@ -22892,6 +26134,18 @@
   ]
  },
  {
+  "name": "game-controller-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai game",
+   "ai gaming",
+   "game generation",
+   "gamepad",
+   "controller",
+   "sparkle"
+  ]
+ },
+ {
   "name": "gamepad-button-letter",
   "category": "Devices",
   "tags": [
@@ -22920,6 +26174,30 @@
    "parking",
    "door",
    "car"
+  ]
+ },
+ {
+  "name": "garbage-truck",
+  "category": "Transport",
+  "tags": [
+   "garbage truck",
+   "refuse",
+   "waste",
+   "trash",
+   "collection",
+   "sanitation"
+  ]
+ },
+ {
+  "name": "garden-gnome",
+  "category": "Home",
+  "tags": [
+   "garden gnome",
+   "gnome",
+   "garden",
+   "decoration",
+   "figure",
+   "ornament"
   ]
  },
  {
@@ -22994,6 +26272,18 @@
   ]
  },
  {
+  "name": "gate-colonnade",
+  "category": "Maps",
+  "tags": [
+   "brandenburg gate",
+   "berlin",
+   "colonnade gate",
+   "landmark",
+   "germany",
+   "monument"
+  ]
+ },
+ {
   "name": "gauge",
   "category": "Charts",
   "tags": [
@@ -23011,6 +26301,30 @@
    "speed",
    "increase",
    "meter"
+  ]
+ },
+ {
+  "name": "gauge-gear",
+  "category": "Interface",
+  "tags": [
+   "dashboard settings",
+   "gauge",
+   "configure",
+   "preferences",
+   "meter",
+   "gear"
+  ]
+ },
+ {
+  "name": "gauge-pencil",
+  "category": "Interface",
+  "tags": [
+   "dashboard",
+   "edit",
+   "gauge",
+   "customize",
+   "widget",
+   "pencil"
   ]
  },
  {
@@ -23072,6 +26386,18 @@
    "upload",
    "up",
    "increase"
+  ]
+ },
+ {
+  "name": "gear-bitcoin",
+  "category": "Interface",
+  "tags": [
+   "crypto settings",
+   "bitcoin settings",
+   "btc",
+   "configure",
+   "gear",
+   "bitcoin"
   ]
  },
  {
@@ -23439,6 +26765,18 @@
   ]
  },
  {
+  "name": "git-branch-minus",
+  "category": "Development",
+  "tags": [
+   "git",
+   "branch",
+   "delete branch",
+   "remove",
+   "minus",
+   "version control"
+  ]
+ },
+ {
   "name": "git-cherry-pick",
   "category": "Development",
   "tags": [
@@ -23508,6 +26846,18 @@
   ]
  },
  {
+  "name": "git-merge-warning",
+  "category": "Development",
+  "tags": [
+   "merge conflict",
+   "git",
+   "conflict",
+   "version control",
+   "merge",
+   "warning"
+  ]
+ },
+ {
   "name": "git-pull-request",
   "category": "Development",
   "tags": [
@@ -23558,6 +26908,47 @@
    "git",
    "source",
    "git repository"
+  ]
+ },
+ {
+  "name": "github-copilot-logo",
+  "category": "Brands",
+  "tags": [
+   "copilot",
+   "github",
+   "ai",
+   "assistant",
+   "coding",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "github-logo",
+  "category": "Brands",
+  "tags": [
+   "github",
+   "octocat",
+   "git",
+   "code",
+   "repository",
+   "developer",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "gitlab-logo",
+  "category": "Brands",
+  "tags": [
+   "gitlab",
+   "git",
+   "devops",
+   "code",
+   "repository",
+   "tanuki",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -23704,6 +27095,18 @@
   ]
  },
  {
+  "name": "globe-arrows-clockwise",
+  "category": "Maps",
+  "tags": [
+   "global refresh",
+   "sync worldwide",
+   "update",
+   "web",
+   "globe",
+   "sync"
+  ]
+ },
+ {
   "name": "globe-check",
   "category": "Maps",
   "tags": [
@@ -23794,6 +27197,19 @@
   ]
  },
  {
+  "name": "globe-lock",
+  "category": "Security",
+  "tags": [
+   "secure web",
+   "vpn",
+   "private network",
+   "globe",
+   "lock",
+   "https",
+   "privacy"
+  ]
+ },
+ {
   "name": "globe-longitude",
   "category": "Maps",
   "tags": [
@@ -23830,6 +27246,18 @@
    "globe",
    "paused",
    "hold"
+  ]
+ },
+ {
+  "name": "globe-pencil",
+  "category": "Maps",
+  "tags": [
+   "global editing",
+   "edit worldwide",
+   "translate",
+   "web edit",
+   "globe",
+   "pencil"
   ]
  },
  {
@@ -23921,6 +27349,18 @@
   ]
  },
  {
+  "name": "glove",
+  "category": "Objects",
+  "tags": [
+   "work glove",
+   "glove",
+   "protection",
+   "safety",
+   "gardening",
+   "hand"
+  ]
+ },
+ {
   "name": "go-game",
   "category": "Sports",
   "tags": [
@@ -23961,6 +27401,30 @@
   ]
  },
  {
+  "name": "gold-bars-minus",
+  "category": "Commerce",
+  "tags": [
+   "sell gold",
+   "gold",
+   "bullion",
+   "divest",
+   "sell",
+   "minus"
+  ]
+ },
+ {
+  "name": "gold-bars-plus",
+  "category": "Commerce",
+  "tags": [
+   "buy gold",
+   "gold",
+   "bullion",
+   "invest",
+   "purchase",
+   "plus"
+  ]
+ },
+ {
   "name": "golf",
   "category": "Sports",
   "tags": [
@@ -23972,6 +27436,18 @@
   ]
  },
  {
+  "name": "golf-cart",
+  "category": "Transport",
+  "tags": [
+   "golf cart",
+   "buggy",
+   "golf",
+   "cart",
+   "electric",
+   "course"
+  ]
+ },
+ {
   "name": "golf-slash",
   "category": "Sports",
   "tags": [
@@ -23979,6 +27455,139 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "google-chrome-logo",
+  "category": "Brands",
+  "tags": [
+   "chrome",
+   "google",
+   "browser",
+   "web browser",
+   "internet",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-docs-logo",
+  "category": "Brands",
+  "tags": [
+   "google docs",
+   "google",
+   "document",
+   "writing",
+   "collaboration",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-drive-logo",
+  "category": "Brands",
+  "tags": [
+   "google drive",
+   "cloud storage",
+   "google",
+   "files",
+   "backup",
+   "sync",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-gemini-logo",
+  "category": "Brands",
+  "tags": [
+   "gemini",
+   "google gemini",
+   "google",
+   "ai",
+   "assistant",
+   "sparkle",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-hangouts-logo",
+  "category": "Brands",
+  "tags": [
+   "hangouts",
+   "google",
+   "chat",
+   "messaging",
+   "conversation",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-lens-logo",
+  "category": "Brands",
+  "tags": [
+   "google lens",
+   "google",
+   "visual search",
+   "camera",
+   "image search",
+   "lens",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-logo",
+  "category": "Brands",
+  "tags": [
+   "google",
+   "search",
+   "search engine",
+   "g",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-maps-logo",
+  "category": "Brands",
+  "tags": [
+   "google maps",
+   "maps",
+   "navigation",
+   "location",
+   "google",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-photos-logo",
+  "category": "Brands",
+  "tags": [
+   "google photos",
+   "google",
+   "photos",
+   "gallery",
+   "pinwheel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-play-logo",
+  "category": "Brands",
+  "tags": [
+   "google play",
+   "play store",
+   "android",
+   "app store",
+   "apps",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -24014,6 +27623,18 @@
   ]
  },
  {
+  "name": "gradient-radial",
+  "category": "Design",
+  "tags": [
+   "radial gradient",
+   "radial",
+   "concentric",
+   "fill",
+   "gradient",
+   "circle"
+  ]
+ },
+ {
   "name": "graduation-cap",
   "category": "People",
   "tags": [
@@ -24022,6 +27643,18 @@
    "student",
    "degree",
    "university"
+  ]
+ },
+ {
+  "name": "graduation-cap-arrows",
+  "category": "Education",
+  "tags": [
+   "elearning",
+   "exchange",
+   "student exchange",
+   "course",
+   "learning",
+   "swap"
   ]
  },
  {
@@ -24060,6 +27693,66 @@
    "nodes",
    "connections",
    "diagram"
+  ]
+ },
+ {
+  "name": "graph-arrow-down",
+  "category": "Development",
+  "tags": [
+   "move node down",
+   "reorder",
+   "diagram",
+   "network",
+   "graph",
+   "arrow down"
+  ]
+ },
+ {
+  "name": "graph-arrow-up",
+  "category": "Development",
+  "tags": [
+   "move node up",
+   "reorder",
+   "diagram",
+   "network",
+   "graph",
+   "arrow up"
+  ]
+ },
+ {
+  "name": "graph-minus",
+  "category": "Development",
+  "tags": [
+   "remove node",
+   "delete node",
+   "diagram",
+   "network",
+   "graph",
+   "minus"
+  ]
+ },
+ {
+  "name": "graph-pencil",
+  "category": "Development",
+  "tags": [
+   "edit node",
+   "diagram",
+   "network",
+   "modify",
+   "graph",
+   "pencil"
+  ]
+ },
+ {
+  "name": "graph-plus",
+  "category": "Development",
+  "tags": [
+   "add node",
+   "new node",
+   "diagram",
+   "network",
+   "graph",
+   "plus"
   ]
  },
  {
@@ -24104,6 +27797,19 @@
   ]
  },
  {
+  "name": "gravity",
+  "category": "Science",
+  "tags": [
+   "gravity",
+   "force",
+   "physics",
+   "pull",
+   "mass",
+   "downward",
+   "attraction"
+  ]
+ },
+ {
   "name": "great-wall",
   "category": "Maps",
   "tags": [
@@ -24133,6 +27839,18 @@
    "math",
    "greater than or equal",
    "comparison"
+  ]
+ },
+ {
+  "name": "greek-helmet",
+  "category": "Sports",
+  "tags": [
+   "greek helmet",
+   "spartan",
+   "corinthian",
+   "ancient",
+   "warrior",
+   "crest"
   ]
  },
  {
@@ -24247,6 +27965,19 @@
   ]
  },
  {
+  "name": "grok-logo",
+  "category": "Brands",
+  "tags": [
+   "grok",
+   "xai",
+   "ai",
+   "assistant",
+   "chatbot",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "growth",
   "category": "Business",
   "tags": [
@@ -24254,6 +27985,19 @@
    "sprout",
    "grow",
    "progress"
+  ]
+ },
+ {
+  "name": "groww-logo",
+  "category": "Brands",
+  "tags": [
+   "groww",
+   "investing",
+   "stocks",
+   "finance",
+   "growth",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -24284,6 +28028,18 @@
    "flip",
    "athlete",
    "sport"
+  ]
+ },
+ {
+  "name": "hackerrank-logo",
+  "category": "Brands",
+  "tags": [
+   "hackerrank",
+   "coding",
+   "programming",
+   "challenge",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -24335,6 +28091,18 @@
    "angel",
    "saint",
    "ring"
+  ]
+ },
+ {
+  "name": "ham",
+  "category": "Food",
+  "tags": [
+   "ham",
+   "pork",
+   "meat",
+   "roast",
+   "butcher",
+   "protein"
   ]
  },
  {
@@ -24445,6 +28213,19 @@
   ]
  },
  {
+  "name": "hand-device-mobile",
+  "category": "Devices",
+  "tags": [
+   "hand holding phone",
+   "phone",
+   "mobile",
+   "smartphone",
+   "hand",
+   "hold",
+   "device"
+  ]
+ },
+ {
   "name": "hand-drag",
   "category": "Interface",
   "tags": [
@@ -24464,6 +28245,18 @@
   ]
  },
  {
+  "name": "hand-finger-heart",
+  "category": "People",
+  "tags": [
+   "finger heart",
+   "korean heart",
+   "love",
+   "gesture",
+   "hand",
+   "kpop"
+  ]
+ },
+ {
   "name": "hand-fist",
   "category": "People",
   "tags": [
@@ -24471,6 +28264,18 @@
    "power",
    "solidarity",
    "punch"
+  ]
+ },
+ {
+  "name": "hand-four-fingers",
+  "category": "People",
+  "tags": [
+   "four fingers",
+   "count",
+   "gesture",
+   "hand",
+   "number four",
+   "palm"
   ]
  },
  {
@@ -24503,6 +28308,19 @@
    "horns",
    "metal",
    "gesture"
+  ]
+ },
+ {
+  "name": "hand-lock",
+  "category": "Security",
+  "tags": [
+   "hand",
+   "lock",
+   "hold",
+   "protected",
+   "restricted",
+   "access control",
+   "secure"
   ]
  },
  {
@@ -24639,6 +28457,31 @@
    "growth",
    "seedling",
    "care"
+  ]
+ },
+ {
+  "name": "hand-shaka",
+  "category": "People",
+  "tags": [
+   "shaka",
+   "hang loose",
+   "call me",
+   "gesture",
+   "hand",
+   "surf"
+  ]
+ },
+ {
+  "name": "hand-shield",
+  "category": "Security",
+  "tags": [
+   "protection",
+   "safe",
+   "care",
+   "security",
+   "trust",
+   "shield",
+   "hand"
   ]
  },
  {
@@ -24786,6 +28629,18 @@
   ]
  },
  {
+  "name": "handcuffs",
+  "category": "Security",
+  "tags": [
+   "handcuffs",
+   "arrest",
+   "police",
+   "law",
+   "crime",
+   "restraint"
+  ]
+ },
+ {
   "name": "handheld-console",
   "category": "Devices",
   "tags": [
@@ -24879,6 +28734,18 @@
   ]
  },
  {
+  "name": "hard-drive-arrow-up",
+  "category": "Devices",
+  "tags": [
+   "upload to drive",
+   "backup",
+   "hard drive",
+   "storage",
+   "upload",
+   "arrow up"
+  ]
+ },
+ {
   "name": "hard-drive-network",
   "category": "Devices",
   "tags": [
@@ -24900,6 +28767,18 @@
   ]
  },
  {
+  "name": "hard-drives-gear",
+  "category": "Development",
+  "tags": [
+   "server settings",
+   "server",
+   "configure",
+   "admin",
+   "gear",
+   "infrastructure"
+  ]
+ },
+ {
   "name": "hard-drives-slash",
   "category": "Development",
   "tags": [
@@ -24907,6 +28786,18 @@
    "offline",
    "outage",
    "disabled"
+  ]
+ },
+ {
+  "name": "hard-drives-warning",
+  "category": "Development",
+  "tags": [
+   "server error",
+   "server crash",
+   "outage",
+   "server warning",
+   "hard drives",
+   "warning"
   ]
  },
  {
@@ -25482,6 +29373,19 @@
   ]
  },
  {
+  "name": "hex-nut",
+  "category": "Objects",
+  "tags": [
+   "hex nut",
+   "nut",
+   "bolt",
+   "hardware",
+   "fastener",
+   "hexagon",
+   "tools"
+  ]
+ },
+ {
   "name": "hexagon",
   "category": "Interface",
   "tags": [
@@ -25656,6 +29560,18 @@
   ]
  },
  {
+  "name": "hologram",
+  "category": "Devices",
+  "tags": [
+   "hologram",
+   "projection",
+   "3d display",
+   "holographic",
+   "ar",
+   "virtual"
+  ]
+ },
+ {
   "name": "honey-jar",
   "category": "Food",
   "tags": [
@@ -25673,6 +29589,30 @@
    "sweatshirt",
    "clothing",
    "hood"
+  ]
+ },
+ {
+  "name": "hop",
+  "category": "Food",
+  "tags": [
+   "hop",
+   "hops",
+   "brewing",
+   "beer",
+   "cone",
+   "ingredient"
+  ]
+ },
+ {
+  "name": "hop-slash",
+  "category": "Food",
+  "tags": [
+   "no hops",
+   "hop free",
+   "allergen",
+   "gluten free",
+   "brewing",
+   "dietary"
   ]
  },
  {
@@ -25736,6 +29676,18 @@
    "travel",
    "air",
    "hot air balloon"
+  ]
+ },
+ {
+  "name": "hot-dog",
+  "category": "Food",
+  "tags": [
+   "hot dog",
+   "sausage",
+   "bun",
+   "fast food",
+   "street food",
+   "snack"
   ]
  },
  {
@@ -26101,6 +30053,18 @@
   ]
  },
  {
+  "name": "house-trullo",
+  "category": "Home",
+  "tags": [
+   "trullo",
+   "trulli",
+   "cone roof",
+   "stone hut",
+   "alberobello",
+   "cottage"
+  ]
+ },
+ {
   "name": "house-user",
   "category": "Home",
   "tags": [
@@ -26196,6 +30160,18 @@
   ]
  },
  {
+  "name": "ice-cube",
+  "category": "Food",
+  "tags": [
+   "ice",
+   "ice cube",
+   "cold",
+   "frozen",
+   "chill",
+   "drinks"
+  ]
+ },
+ {
   "name": "ice-skate",
   "category": "Sports",
   "tags": [
@@ -26270,6 +30246,18 @@
   ]
  },
  {
+  "name": "identification-card-check",
+  "category": "Security",
+  "tags": [
+   "id verified",
+   "identity verified",
+   "kyc",
+   "verified",
+   "approved",
+   "check"
+  ]
+ },
+ {
   "name": "identification-card-slash",
   "category": "Security",
   "tags": [
@@ -26288,6 +30276,18 @@
    "picture",
    "gallery",
    "landscape"
+  ]
+ },
+ {
+  "name": "image-actual-size",
+  "category": "Media",
+  "tags": [
+   "actual size",
+   "100%",
+   "1:1",
+   "original size",
+   "zoom",
+   "image"
   ]
  },
  {
@@ -26364,6 +30364,30 @@
   ]
  },
  {
+  "name": "image-composition",
+  "category": "Media",
+  "tags": [
+   "composition",
+   "rule of thirds",
+   "framing",
+   "photography",
+   "image",
+   "grid"
+  ]
+ },
+ {
+  "name": "image-composition-oval",
+  "category": "Media",
+  "tags": [
+   "oval composition",
+   "framing",
+   "portrait guide",
+   "photography",
+   "image",
+   "oval"
+  ]
+ },
+ {
   "name": "image-currency-dollar",
   "category": "Media",
   "tags": [
@@ -26371,6 +30395,18 @@
    "dollar",
    "price",
    "money"
+  ]
+ },
+ {
+  "name": "image-cutout",
+  "category": "Media",
+  "tags": [
+   "remove background",
+   "background eraser",
+   "cutout",
+   "portrait",
+   "photo editing",
+   "ai"
   ]
  },
  {
@@ -26565,6 +30601,18 @@
   ]
  },
  {
+  "name": "image-to-video",
+  "category": "Media",
+  "tags": [
+   "image to video",
+   "animate image",
+   "photo to video",
+   "convert",
+   "ai video",
+   "generate"
+  ]
+ },
+ {
   "name": "image-warning",
   "category": "Media",
   "tags": [
@@ -26613,6 +30661,19 @@
    "arrow in",
    "tray",
    "load"
+  ]
+ },
+ {
+  "name": "inclined-plane",
+  "category": "Science",
+  "tags": [
+   "acceleration",
+   "incline",
+   "ramp",
+   "slope",
+   "physics",
+   "motion",
+   "rolling ball"
   ]
  },
  {
@@ -26766,6 +30827,19 @@
   ]
  },
  {
+  "name": "instagram-logo",
+  "category": "Brands",
+  "tags": [
+   "instagram",
+   "meta",
+   "social media",
+   "photo",
+   "camera",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "instant-photo",
   "category": "Media",
   "tags": [
@@ -26833,6 +30907,19 @@
    "network address",
    "ip",
    "internet protocol"
+  ]
+ },
+ {
+  "name": "ipod",
+  "category": "Brands",
+  "tags": [
+   "ipod",
+   "apple",
+   "music player",
+   "mp3",
+   "device",
+   "click wheel",
+   "brand"
   ]
  },
  {
@@ -26969,6 +31056,19 @@
   ]
  },
  {
+  "name": "java-logo",
+  "category": "Brands",
+  "tags": [
+   "java",
+   "oracle",
+   "programming language",
+   "coffee",
+   "code",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "jellyfish",
   "category": "Animals",
   "tags": [
@@ -27050,6 +31150,18 @@
   ]
  },
  {
+  "name": "kaaba",
+  "category": "Maps",
+  "tags": [
+   "kaaba",
+   "mecca",
+   "hajj",
+   "landmark",
+   "islam",
+   "cube"
+  ]
+ },
+ {
   "name": "kanban",
   "category": "Editor",
   "tags": [
@@ -27072,6 +31184,18 @@
   ]
  },
  {
+  "name": "keffiyeh",
+  "category": "Objects",
+  "tags": [
+   "keffiyeh",
+   "headdress",
+   "shemagh",
+   "scarf",
+   "agal",
+   "clothing"
+  ]
+ },
+ {
   "name": "kettle",
   "category": "Home",
   "tags": [
@@ -27082,6 +31206,18 @@
   ]
  },
  {
+  "name": "ketupat",
+  "category": "Food",
+  "tags": [
+   "ketupat",
+   "rice cake",
+   "woven",
+   "eid",
+   "indonesia",
+   "malaysia"
+  ]
+ },
+ {
   "name": "key",
   "category": "Security",
   "tags": [
@@ -27089,6 +31225,18 @@
    "access",
    "unlock",
    "login"
+  ]
+ },
+ {
+  "name": "key-bitcoin",
+  "category": "Security",
+  "tags": [
+   "private key",
+   "crypto key",
+   "wallet key",
+   "btc",
+   "key",
+   "bitcoin"
   ]
  },
  {
@@ -27223,6 +31371,28 @@
   ]
  },
  {
+  "name": "keyframe-minus",
+  "category": "Design",
+  "tags": [
+   "remove keyframe",
+   "animation",
+   "timeline",
+   "keyframe",
+   "minus"
+  ]
+ },
+ {
+  "name": "keyframe-plus",
+  "category": "Design",
+  "tags": [
+   "add keyframe",
+   "animation",
+   "timeline",
+   "keyframe",
+   "plus"
+  ]
+ },
+ {
   "name": "keyframes",
   "category": "Design",
   "tags": [
@@ -27244,6 +31414,19 @@
   ]
  },
  {
+  "name": "kickstarter-logo",
+  "category": "Brands",
+  "tags": [
+   "kickstarter",
+   "crowdfunding",
+   "funding",
+   "campaign",
+   "k",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "kidneys",
   "category": "Health",
   "tags": [
@@ -27252,6 +31435,20 @@
    "organ",
    "urology",
    "renal"
+  ]
+ },
+ {
+  "name": "kimi-ai-logo",
+  "category": "Brands",
+  "tags": [
+   "kimi",
+   "kimi ai",
+   "moonshot",
+   "ai",
+   "assistant",
+   "k",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -27275,6 +31472,19 @@
   ]
  },
  {
+  "name": "kite",
+  "category": "Objects",
+  "tags": [
+   "kite",
+   "toy",
+   "flying",
+   "wind",
+   "play",
+   "diamond",
+   "string"
+  ]
+ },
+ {
   "name": "kitesurfing",
   "category": "Sports",
   "tags": [
@@ -27282,6 +31492,19 @@
    "kite",
    "surf",
    "water sports"
+  ]
+ },
+ {
+  "name": "klarna-logo",
+  "category": "Brands",
+  "tags": [
+   "klarna",
+   "payment",
+   "fintech",
+   "buy now pay later",
+   "k",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -27296,6 +31519,18 @@
   ]
  },
  {
+  "name": "knight-shield",
+  "category": "Sports",
+  "tags": [
+   "knight shield",
+   "heater shield",
+   "medieval",
+   "armor",
+   "heraldry",
+   "defense"
+  ]
+ },
+ {
   "name": "knob",
   "category": "Devices",
   "tags": [
@@ -27303,6 +31538,20 @@
    "dial",
    "potentiometer",
    "volume"
+  ]
+ },
+ {
+  "name": "ko-fi-logo",
+  "category": "Brands",
+  "tags": [
+   "ko-fi",
+   "coffee",
+   "cup",
+   "heart",
+   "donation",
+   "creator",
+   "support",
+   "logo"
   ]
  },
  {
@@ -27347,6 +31596,18 @@
   ]
  },
  {
+  "name": "lake",
+  "category": "Nature",
+  "tags": [
+   "lake",
+   "pond",
+   "water",
+   "nature",
+   "shore",
+   "reservoir"
+  ]
+ },
+ {
   "name": "lambda",
   "category": "Science",
   "tags": [
@@ -27386,6 +31647,18 @@
   ]
  },
  {
+  "name": "land-plot",
+  "category": "Maps",
+  "tags": [
+   "land plot",
+   "parcel",
+   "lot",
+   "real estate",
+   "property",
+   "survey"
+  ]
+ },
+ {
   "name": "landslide",
   "category": "Nature",
   "tags": [
@@ -27393,6 +31666,31 @@
    "rockfall",
    "hazard",
    "mudslide"
+  ]
+ },
+ {
+  "name": "lantern",
+  "category": "Objects",
+  "tags": [
+   "lantern",
+   "camping light",
+   "lamp",
+   "outdoor",
+   "glow",
+   "portable light"
+  ]
+ },
+ {
+  "name": "lantern-crescent",
+  "category": "Symbols",
+  "tags": [
+   "eid mubarak",
+   "eid",
+   "ramadan",
+   "lantern",
+   "crescent",
+   "celebration",
+   "islam"
   ]
  },
  {
@@ -27441,6 +31739,18 @@
    "disabled",
    "off",
    "devices"
+  ]
+ },
+ {
+  "name": "laptop-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai laptop",
+   "ai pc",
+   "smart laptop",
+   "computer",
+   "laptop",
+   "sparkle"
   ]
  },
  {
@@ -27734,6 +32044,30 @@
   ]
  },
  {
+  "name": "layout-image-bottom",
+  "category": "Editor",
+  "tags": [
+   "image below text",
+   "insert image",
+   "layout",
+   "content block",
+   "image",
+   "bottom"
+  ]
+ },
+ {
+  "name": "layout-image-top",
+  "category": "Editor",
+  "tags": [
+   "image above text",
+   "insert image",
+   "layout",
+   "content block",
+   "image",
+   "top"
+  ]
+ },
+ {
   "name": "layout-list",
   "category": "Interface",
   "tags": [
@@ -27761,6 +32095,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "layout-sparkle",
+  "category": "Editor",
+  "tags": [
+   "ai template",
+   "generated layout",
+   "smart template",
+   "wireframe",
+   "layout",
+   "sparkle"
   ]
  },
  {
@@ -27852,6 +32198,31 @@
    "led",
    "smart light",
    "decoration"
+  ]
+ },
+ {
+  "name": "leetcode-logo",
+  "category": "Brands",
+  "tags": [
+   "leetcode",
+   "coding",
+   "algorithm",
+   "programming",
+   "interview",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "leg",
+  "category": "Health",
+  "tags": [
+   "leg",
+   "anatomy",
+   "limb",
+   "knee",
+   "body part",
+   "thigh"
   ]
  },
  {
@@ -28797,6 +33168,18 @@
   ]
  },
  {
+  "name": "lifting-belt",
+  "category": "Sports",
+  "tags": [
+   "lifting belt",
+   "harness",
+   "weightlifting",
+   "strength",
+   "gym",
+   "support"
+  ]
+ },
+ {
   "name": "lightbulb",
   "category": "Devices",
   "tags": [
@@ -28815,6 +33198,18 @@
    "disabled",
    "idea",
    "lights off"
+  ]
+ },
+ {
+  "name": "lightbulb-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai idea",
+   "smart idea",
+   "inspiration",
+   "brainstorm",
+   "innovation",
+   "sparkle"
   ]
  },
  {
@@ -28905,6 +33300,18 @@
    "stroke",
    "dots",
    "style"
+  ]
+ },
+ {
+  "name": "line-elbow",
+  "category": "Design",
+  "tags": [
+   "elbow connector",
+   "orthogonal",
+   "connector",
+   "diagram",
+   "flowchart",
+   "edge"
   ]
  },
  {
@@ -29058,6 +33465,30 @@
   ]
  },
  {
+  "name": "link-arrow-left",
+  "category": "Interface",
+  "tags": [
+   "link",
+   "back",
+   "previous",
+   "backlink",
+   "return",
+   "navigate"
+  ]
+ },
+ {
+  "name": "link-arrow-right",
+  "category": "Interface",
+  "tags": [
+   "link",
+   "forward",
+   "next",
+   "outgoing link",
+   "continue",
+   "navigate"
+  ]
+ },
+ {
   "name": "link-break",
   "category": "Interface",
   "tags": [
@@ -29096,6 +33527,20 @@
    "hyperlink",
    "url",
    "insert link"
+  ]
+ },
+ {
+  "name": "linkedin-logo",
+  "category": "Brands",
+  "tags": [
+   "linkedin",
+   "social",
+   "professional",
+   "network",
+   "career",
+   "job",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -29150,6 +33595,18 @@
   ]
  },
  {
+  "name": "list-bullets-rtl",
+  "category": "Editor",
+  "tags": [
+   "rtl",
+   "right to left",
+   "bullet list",
+   "list",
+   "arabic",
+   "hebrew"
+  ]
+ },
+ {
   "name": "list-checks",
   "category": "Editor",
   "tags": [
@@ -29179,6 +33636,18 @@
    "unordered",
    "items",
    "dashes"
+  ]
+ },
+ {
+  "name": "list-dashes-rtl",
+  "category": "Editor",
+  "tags": [
+   "rtl",
+   "right to left",
+   "dash list",
+   "list",
+   "arabic",
+   "hebrew"
   ]
  },
  {
@@ -29254,6 +33723,18 @@
   ]
  },
  {
+  "name": "list-minus",
+  "category": "Editor",
+  "tags": [
+   "remove from list",
+   "list",
+   "minus",
+   "remove item",
+   "bullet list",
+   "subtract"
+  ]
+ },
+ {
   "name": "list-nested",
   "category": "Editor",
   "tags": [
@@ -29272,6 +33753,18 @@
    "list",
    "steps",
    "ol"
+  ]
+ },
+ {
+  "name": "list-numbers-rtl",
+  "category": "Editor",
+  "tags": [
+   "rtl",
+   "right to left",
+   "numbered list",
+   "list",
+   "arabic",
+   "hebrew"
   ]
  },
  {
@@ -29297,6 +33790,18 @@
   ]
  },
  {
+  "name": "list-triangles-rtl",
+  "category": "Editor",
+  "tags": [
+   "rtl",
+   "right to left",
+   "toggle list",
+   "collapsible list",
+   "list",
+   "triangle"
+  ]
+ },
+ {
   "name": "list-x",
   "category": "Editor",
   "tags": [
@@ -29304,6 +33809,19 @@
    "remove item",
    "list",
    "delete"
+  ]
+ },
+ {
+  "name": "litecoin-logo",
+  "category": "Brands",
+  "tags": [
+   "litecoin",
+   "ltc",
+   "crypto",
+   "cryptocurrency",
+   "coin",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -29335,6 +33853,18 @@
    "preview",
    "camera",
    "broadcast"
+  ]
+ },
+ {
+  "name": "liver",
+  "category": "Health",
+  "tags": [
+   "liver",
+   "organ",
+   "hepatology",
+   "anatomy",
+   "digestion",
+   "health"
   ]
  },
  {
@@ -29623,6 +34153,18 @@
   ]
  },
  {
+  "name": "lock-sync",
+  "category": "Security",
+  "tags": [
+   "lock sync",
+   "secure sync",
+   "encrypted sync",
+   "refresh",
+   "lock",
+   "synchronize"
+  ]
+ },
+ {
   "name": "lock-user",
   "category": "Security",
   "tags": [
@@ -29773,6 +34315,32 @@
   ]
  },
  {
+  "name": "loom-logo",
+  "category": "Brands",
+  "tags": [
+   "loom",
+   "video",
+   "screen recording",
+   "async video",
+   "starburst",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "lottiefiles-logo",
+  "category": "Brands",
+  "tags": [
+   "lottiefiles",
+   "lottie",
+   "animation",
+   "motion",
+   "vector animation",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "luggage-clock",
   "category": "Transport",
   "tags": [
@@ -29907,6 +34475,30 @@
   ]
  },
  {
+  "name": "magnifying-glass-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "search crypto",
+   "bitcoin lookup",
+   "btc",
+   "find",
+   "magnifying glass",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "magnifying-glass-chart",
+  "category": "Interface",
+  "tags": [
+   "seo",
+   "search analytics",
+   "search engine",
+   "optimization",
+   "marketing",
+   "insights"
+  ]
+ },
+ {
   "name": "magnifying-glass-check",
   "category": "Interface",
   "tags": [
@@ -29918,6 +34510,18 @@
   ]
  },
  {
+  "name": "magnifying-glass-circle",
+  "category": "Interface",
+  "tags": [
+   "search button",
+   "search",
+   "circle",
+   "find",
+   "magnifying glass",
+   "lookup"
+  ]
+ },
+ {
   "name": "magnifying-glass-code",
   "category": "Interface",
   "tags": [
@@ -29926,6 +34530,18 @@
    "developer",
    "embed",
    "magnifying"
+  ]
+ },
+ {
+  "name": "magnifying-glass-currency-dollar",
+  "category": "Interface",
+  "tags": [
+   "price lookup",
+   "find deals",
+   "search",
+   "money",
+   "cost",
+   "dollar"
   ]
  },
  {
@@ -30123,6 +34739,30 @@
    "up",
    "increase",
    "map"
+  ]
+ },
+ {
+  "name": "map-pin-arrows-clockwise",
+  "category": "Maps",
+  "tags": [
+   "update location",
+   "refresh location",
+   "relocate",
+   "gps",
+   "map pin",
+   "sync"
+  ]
+ },
+ {
+  "name": "map-pin-bitcoin",
+  "category": "Maps",
+  "tags": [
+   "bitcoin atm",
+   "crypto location",
+   "accepts bitcoin",
+   "btc",
+   "map pin",
+   "bitcoin"
   ]
  },
  {
@@ -30452,6 +35092,18 @@
    "up",
    "increase",
    "map"
+  ]
+ },
+ {
+  "name": "map-trifold-arrows-clockwise",
+  "category": "Maps",
+  "tags": [
+   "refresh map",
+   "reload map",
+   "update map",
+   "sync",
+   "map",
+   "navigation"
   ]
  },
  {
@@ -30813,6 +35465,32 @@
   ]
  },
  {
+  "name": "mastercard-logo",
+  "category": "Brands",
+  "tags": [
+   "mastercard",
+   "credit card",
+   "payment",
+   "card",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "mastodon-logo",
+  "category": "Brands",
+  "tags": [
+   "mastodon",
+   "social media",
+   "fediverse",
+   "decentralized",
+   "social network",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "matchstick",
   "category": "Objects",
   "tags": [
@@ -30823,12 +35501,36 @@
   ]
  },
  {
+  "name": "math-absolute",
+  "category": "Letters & Numbers",
+  "tags": [
+   "absolute value",
+   "modulus",
+   "math",
+   "algebra",
+   "x",
+   "bars"
+  ]
+ },
+ {
   "name": "math-book",
   "category": "Education",
   "tags": [
    "algebra",
    "textbook",
    "mathematics"
+  ]
+ },
+ {
+  "name": "math-cos",
+  "category": "Letters & Numbers",
+  "tags": [
+   "cosine",
+   "cos",
+   "trigonometry",
+   "math",
+   "function",
+   "formula"
   ]
  },
  {
@@ -30861,6 +35563,30 @@
    "disabled",
    "hidden",
    "math"
+  ]
+ },
+ {
+  "name": "math-sin",
+  "category": "Letters & Numbers",
+  "tags": [
+   "sine",
+   "sin",
+   "trigonometry",
+   "math",
+   "function",
+   "formula"
+  ]
+ },
+ {
+  "name": "math-tan",
+  "category": "Letters & Numbers",
+  "tags": [
+   "tangent",
+   "tan",
+   "trigonometry",
+   "math",
+   "function",
+   "formula"
   ]
  },
  {
@@ -31005,6 +35731,19 @@
   ]
  },
  {
+  "name": "medium-logo",
+  "category": "Brands",
+  "tags": [
+   "medium",
+   "blogging",
+   "writing",
+   "publishing",
+   "articles",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "meeple",
   "category": "Sports",
   "tags": [
@@ -31012,6 +35751,30 @@
    "board game",
    "piece",
    "token"
+  ]
+ },
+ {
+  "name": "meeting-room",
+  "category": "Business",
+  "tags": [
+   "meeting room",
+   "conference room",
+   "boardroom",
+   "table",
+   "chairs",
+   "meeting"
+  ]
+ },
+ {
+  "name": "meeting-room-slash",
+  "category": "Business",
+  "tags": [
+   "no meeting room",
+   "room unavailable",
+   "booked",
+   "meeting",
+   "disabled",
+   "slash"
   ]
  },
  {
@@ -31023,6 +35786,18 @@
    "marketing",
    "promote",
    "bullhorn"
+  ]
+ },
+ {
+  "name": "megaphone-slash",
+  "category": "Communication",
+  "tags": [
+   "muted",
+   "no announcements",
+   "silent",
+   "disabled",
+   "megaphone",
+   "off"
   ]
  },
  {
@@ -31042,6 +35817,18 @@
    "element of",
    "set",
    "math"
+  ]
+ },
+ {
+  "name": "memorial-pillars",
+  "category": "Maps",
+  "tags": [
+   "shaheed minar",
+   "martyrs monument",
+   "dhaka",
+   "bangladesh",
+   "memorial",
+   "landmark"
   ]
  },
  {
@@ -31092,6 +35879,32 @@
    "wireframe",
    "3d",
    "grid"
+  ]
+ },
+ {
+  "name": "messenger-logo",
+  "category": "Brands",
+  "tags": [
+   "messenger",
+   "facebook",
+   "meta",
+   "chat",
+   "messaging",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "meta-logo",
+  "category": "Brands",
+  "tags": [
+   "meta",
+   "facebook",
+   "social media",
+   "company",
+   "infinity",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31189,6 +36002,18 @@
   ]
  },
  {
+  "name": "microphone-sparkle",
+  "category": "Media",
+  "tags": [
+   "ai microphone",
+   "voice assistant",
+   "voice input",
+   "speech recognition",
+   "dictation",
+   "sparkle"
+  ]
+ },
+ {
   "name": "microphone-stage",
   "category": "Media",
   "tags": [
@@ -31208,6 +36033,18 @@
    "mute",
    "karaoke",
    "microphone"
+  ]
+ },
+ {
+  "name": "microphone-stage-sparkle",
+  "category": "Media",
+  "tags": [
+   "ai concert",
+   "ai singer",
+   "ai music",
+   "performance",
+   "microphone",
+   "sparkle"
   ]
  },
  {
@@ -31240,6 +36077,19 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "microsoft-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft",
+   "windows",
+   "office",
+   "software",
+   "company",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31417,6 +36267,20 @@
   ]
  },
  {
+  "name": "mistral-logo",
+  "category": "Brands",
+  "tags": [
+   "mistral",
+   "mistral ai",
+   "ai",
+   "llm",
+   "language model",
+   "artificial intelligence",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "mitten",
   "category": "Objects",
   "tags": [
@@ -31447,6 +36311,18 @@
   ]
  },
  {
+  "name": "mochi",
+  "category": "Food",
+  "tags": [
+   "mochi",
+   "rice cake",
+   "japanese sweet",
+   "daifuku",
+   "dessert",
+   "snack"
+  ]
+ },
+ {
   "name": "modem",
   "category": "Devices",
   "tags": [
@@ -31454,6 +36330,43 @@
    "internet",
    "router",
    "network"
+  ]
+ },
+ {
+  "name": "molecule",
+  "category": "Science",
+  "tags": [
+   "molecule",
+   "atoms",
+   "chemistry",
+   "bond",
+   "structure",
+   "science"
+  ]
+ },
+ {
+  "name": "molecule-hexagon",
+  "category": "Science",
+  "tags": [
+   "nanotechnology",
+   "nano",
+   "molecular",
+   "hexagon",
+   "particle",
+   "lattice",
+   "technology"
+  ]
+ },
+ {
+  "name": "mollie-logo",
+  "category": "Brands",
+  "tags": [
+   "mollie",
+   "payment",
+   "fintech",
+   "m",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31476,6 +36389,18 @@
    "wealth",
    "cash",
    "sack"
+  ]
+ },
+ {
+  "name": "money-bag-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin savings",
+   "crypto wealth",
+   "money bag",
+   "btc",
+   "bitcoin",
+   "crypto"
   ]
  },
  {
@@ -31520,6 +36445,18 @@
    "new",
    "money bag",
    "savings"
+  ]
+ },
+ {
+  "name": "money-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin banknote",
+   "crypto cash",
+   "btc",
+   "paper money",
+   "cryptocurrency",
+   "payment"
   ]
  },
  {
@@ -31583,12 +36520,168 @@
   ]
  },
  {
+  "name": "money-receive-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "receive bitcoin",
+   "crypto payment",
+   "btc",
+   "income",
+   "money",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "money-receive-currency-euro",
+  "category": "Commerce",
+  "tags": [
+   "receive euro",
+   "income",
+   "get paid",
+   "euro",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "money-receive-currency-pound",
+  "category": "Commerce",
+  "tags": [
+   "receive pound",
+   "income",
+   "get paid",
+   "gbp",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "money-receive-currency-yen",
+  "category": "Commerce",
+  "tags": [
+   "receive yen",
+   "income",
+   "get paid",
+   "jpy",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "money-refund",
+  "category": "Commerce",
+  "tags": [
+   "cashback",
+   "refund",
+   "money back",
+   "rebate",
+   "return",
+   "reward"
+  ]
+ },
+ {
+  "name": "money-refund-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin cashback",
+   "crypto refund",
+   "btc",
+   "rebate",
+   "money",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "money-refund-currency-euro",
+  "category": "Commerce",
+  "tags": [
+   "euro cashback",
+   "refund",
+   "rebate",
+   "money back",
+   "euro",
+   "currency"
+  ]
+ },
+ {
+  "name": "money-refund-currency-pound",
+  "category": "Commerce",
+  "tags": [
+   "pound cashback",
+   "refund",
+   "rebate",
+   "money back",
+   "gbp",
+   "currency"
+  ]
+ },
+ {
+  "name": "money-refund-currency-yen",
+  "category": "Commerce",
+  "tags": [
+   "yen cashback",
+   "refund",
+   "rebate",
+   "money back",
+   "jpy",
+   "currency"
+  ]
+ },
+ {
   "name": "money-send",
   "category": "Commerce",
   "tags": [
    "send money",
    "pay",
    "transfer"
+  ]
+ },
+ {
+  "name": "money-send-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "send bitcoin",
+   "crypto transfer",
+   "btc",
+   "pay",
+   "money",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "money-send-currency-euro",
+  "category": "Commerce",
+  "tags": [
+   "send euro",
+   "pay",
+   "transfer",
+   "euro",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "money-send-currency-pound",
+  "category": "Commerce",
+  "tags": [
+   "send pound",
+   "pay",
+   "transfer",
+   "gbp",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "money-send-currency-yen",
+  "category": "Commerce",
+  "tags": [
+   "send yen",
+   "pay",
+   "transfer",
+   "jpy",
+   "money",
+   "currency"
   ]
  },
  {
@@ -31623,6 +36716,18 @@
   ]
  },
  {
+  "name": "money-transfer-user",
+  "category": "Commerce",
+  "tags": [
+   "self transfer",
+   "own accounts",
+   "move money",
+   "transfer",
+   "account",
+   "user"
+  ]
+ },
+ {
   "name": "money-wavy",
   "category": "Commerce",
   "tags": [
@@ -31639,6 +36744,30 @@
    "atm",
    "cash out",
    "money"
+  ]
+ },
+ {
+  "name": "money-withdraw-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "withdraw bitcoin",
+   "cash out crypto",
+   "btc",
+   "withdraw",
+   "money",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "money-x",
+  "category": "Commerce",
+  "tags": [
+   "payment failed",
+   "declined",
+   "cancel payment",
+   "money",
+   "banknote",
+   "x"
   ]
  },
  {
@@ -31726,6 +36855,19 @@
   ]
  },
  {
+  "name": "monitor-dot",
+  "category": "Devices",
+  "tags": [
+   "monitor",
+   "notification",
+   "status",
+   "online",
+   "indicator",
+   "display",
+   "desktop"
+  ]
+ },
+ {
   "name": "monitor-gear",
   "category": "Devices",
   "tags": [
@@ -31767,6 +36909,18 @@
    "power",
    "desktop",
    "computer"
+  ]
+ },
+ {
+  "name": "monitor-lock",
+  "category": "Security",
+  "tags": [
+   "lock screen",
+   "lock computer",
+   "screen lock",
+   "secure desktop",
+   "monitor",
+   "lock"
   ]
  },
  {
@@ -31880,6 +37034,31 @@
   ]
  },
  {
+  "name": "monitor-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai computer",
+   "ai pc",
+   "smart display",
+   "desktop",
+   "monitor",
+   "sparkle"
+  ]
+ },
+ {
+  "name": "monitor-speaker",
+  "category": "Devices",
+  "tags": [
+   "desktop",
+   "speaker",
+   "audio",
+   "computer",
+   "workstation",
+   "sound",
+   "setup"
+  ]
+ },
+ {
   "name": "monitor-star",
   "category": "Devices",
   "tags": [
@@ -31888,6 +37067,18 @@
    "starred",
    "desktop",
    "computer"
+  ]
+ },
+ {
+  "name": "monitor-stop",
+  "category": "Devices",
+  "tags": [
+   "stop sharing",
+   "stop recording",
+   "monitor",
+   "screen",
+   "stop",
+   "display"
   ]
  },
  {
@@ -31933,6 +37124,18 @@
   ]
  },
  {
+  "name": "monocle",
+  "category": "Objects",
+  "tags": [
+   "monocle",
+   "eyeglass",
+   "lens",
+   "vintage",
+   "gentleman",
+   "optics"
+  ]
+ },
+ {
   "name": "monorail",
   "category": "Transport",
   "tags": [
@@ -31940,6 +37143,18 @@
    "train",
    "elevated rail",
    "transit"
+  ]
+ },
+ {
+  "name": "monster-truck",
+  "category": "Transport",
+  "tags": [
+   "monster truck",
+   "off road",
+   "truck",
+   "big wheels",
+   "stunt",
+   "4x4"
   ]
  },
  {
@@ -31953,6 +37168,18 @@
   ]
  },
  {
+  "name": "monument-flame",
+  "category": "Maps",
+  "tags": [
+   "monas",
+   "national monument",
+   "jakarta",
+   "obelisk",
+   "landmark",
+   "flame"
+  ]
+ },
+ {
   "name": "moon",
   "category": "Weather",
   "tags": [
@@ -31960,6 +37187,18 @@
    "dark mode",
    "sleep",
    "crescent"
+  ]
+ },
+ {
+  "name": "moon-flag",
+  "category": "Science",
+  "tags": [
+   "moon landing",
+   "lunar",
+   "flag",
+   "space",
+   "exploration",
+   "astronaut"
   ]
  },
  {
@@ -32062,6 +37301,18 @@
    "islam",
    "religion",
    "worship"
+  ]
+ },
+ {
+  "name": "mosque-clock",
+  "category": "Time",
+  "tags": [
+   "prayer time",
+   "salah",
+   "mosque",
+   "clock",
+   "schedule",
+   "islam"
   ]
  },
  {
@@ -32193,6 +37444,20 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "muhammad-calligraphy",
+  "category": "Symbols",
+  "tags": [
+   "muhammad",
+   "name",
+   "calligraphy",
+   "arabic",
+   "islam",
+   "prophet",
+   "religion",
+   "muslim"
   ]
  },
  {
@@ -32853,6 +38118,18 @@
   ]
  },
  {
+  "name": "neural-network",
+  "category": "Science",
+  "tags": [
+   "neural network",
+   "ai",
+   "machine learning",
+   "deep learning",
+   "nodes",
+   "layers"
+  ]
+ },
+ {
   "name": "newspaper",
   "category": "Files",
   "tags": [
@@ -32909,6 +38186,46 @@
    "nightstand",
    "furniture",
    "bedroom"
+  ]
+ },
+ {
+  "name": "nike-logo",
+  "category": "Brands",
+  "tags": [
+   "nike",
+   "swoosh",
+   "sports",
+   "apparel",
+   "footwear",
+   "athletic",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "nintendo-logo",
+  "category": "Brands",
+  "tags": [
+   "nintendo",
+   "gaming",
+   "video games",
+   "console",
+   "n",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "nintendo-switch",
+  "category": "Brands",
+  "tags": [
+   "nintendo switch",
+   "nintendo",
+   "console",
+   "gaming",
+   "joy-con",
+   "handheld",
+   "brand"
   ]
  },
  {
@@ -33007,6 +38324,19 @@
   ]
  },
  {
+  "name": "note-check",
+  "category": "Editor",
+  "tags": [
+   "note done",
+   "note",
+   "check",
+   "complete",
+   "done",
+   "task",
+   "finished"
+  ]
+ },
+ {
   "name": "note-pencil",
   "category": "Editor",
   "tags": [
@@ -33036,6 +38366,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "note-x",
+  "category": "Files",
+  "tags": [
+   "delete note",
+   "remove note",
+   "note",
+   "sticky",
+   "memo",
+   "x"
   ]
  },
  {
@@ -33208,6 +38550,44 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "notion-logo",
+  "category": "Brands",
+  "tags": [
+   "notion",
+   "notes",
+   "workspace",
+   "database",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "npm-logo",
+  "category": "Brands",
+  "tags": [
+   "npm",
+   "package manager",
+   "javascript",
+   "node",
+   "js",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "nth-root-circle",
+  "category": "Symbols",
+  "tags": [
+   "nth root",
+   "root",
+   "radical",
+   "math",
+   "algebra",
+   "circle"
   ]
  },
  {
@@ -33604,6 +38984,18 @@
   ]
  },
  {
+  "name": "nut-slash",
+  "category": "Food",
+  "tags": [
+   "nut free",
+   "no nuts",
+   "allergen",
+   "allergy",
+   "dietary",
+   "nut"
+  ]
+ },
+ {
   "name": "object-group",
   "category": "Design",
   "tags": [
@@ -33694,6 +39086,18 @@
   ]
  },
  {
+  "name": "octopus",
+  "category": "Animals",
+  "tags": [
+   "octopus",
+   "sea creature",
+   "ocean",
+   "tentacles",
+   "marine",
+   "squid"
+  ]
+ },
+ {
   "name": "office-chair",
   "category": "Home",
   "tags": [
@@ -33762,6 +39166,18 @@
   ]
  },
  {
+  "name": "options-call",
+  "category": "Business",
+  "tags": [
+   "call option",
+   "options trading",
+   "derivative",
+   "stocks",
+   "bullish",
+   "finance"
+  ]
+ },
+ {
   "name": "orange",
   "category": "Food",
   "tags": [
@@ -33798,6 +39214,42 @@
    "atom",
    "solar system",
    "rings"
+  ]
+ },
+ {
+  "name": "order-limit",
+  "category": "Business",
+  "tags": [
+   "limit order",
+   "trading",
+   "target price",
+   "stocks",
+   "order",
+   "chart"
+  ]
+ },
+ {
+  "name": "order-market",
+  "category": "Business",
+  "tags": [
+   "market order",
+   "trading",
+   "instant buy",
+   "stocks",
+   "order",
+   "chart"
+  ]
+ },
+ {
+  "name": "order-stop-loss",
+  "category": "Business",
+  "tags": [
+   "stop loss",
+   "trading",
+   "risk limit",
+   "stocks",
+   "order",
+   "chart"
   ]
  },
  {
@@ -33854,6 +39306,30 @@
   ]
  },
  {
+  "name": "package-check",
+  "category": "Commerce",
+  "tags": [
+   "delivered",
+   "package received",
+   "order complete",
+   "box",
+   "parcel",
+   "check"
+  ]
+ },
+ {
+  "name": "package-dimensions",
+  "category": "Commerce",
+  "tags": [
+   "package size",
+   "dimensions",
+   "parcel",
+   "measure",
+   "shipping",
+   "box"
+  ]
+ },
+ {
   "name": "package-export",
   "category": "Commerce",
   "tags": [
@@ -33861,6 +39337,18 @@
    "export",
    "outgoing",
    "box"
+  ]
+ },
+ {
+  "name": "package-eye",
+  "category": "Commerce",
+  "tags": [
+   "view delivery",
+   "track package",
+   "delivery details",
+   "shipment",
+   "package",
+   "eye"
   ]
  },
  {
@@ -33893,6 +39381,52 @@
   ]
  },
  {
+  "name": "package-magnifying-glass",
+  "category": "Commerce",
+  "tags": [
+   "track package",
+   "find order",
+   "search",
+   "box",
+   "parcel"
+  ]
+ },
+ {
+  "name": "package-minus",
+  "category": "Commerce",
+  "tags": [
+   "remove package",
+   "box",
+   "parcel",
+   "minus",
+   "reduce"
+  ]
+ },
+ {
+  "name": "package-open",
+  "category": "Commerce",
+  "tags": [
+   "open box",
+   "unbox",
+   "unpack",
+   "parcel",
+   "package",
+   "return"
+  ]
+ },
+ {
+  "name": "package-plus",
+  "category": "Commerce",
+  "tags": [
+   "add package",
+   "new order",
+   "box",
+   "parcel",
+   "add",
+   "plus"
+  ]
+ },
+ {
   "name": "package-slash",
   "category": "Commerce",
   "tags": [
@@ -33900,6 +39434,31 @@
    "disabled",
    "off",
    "commerce"
+  ]
+ },
+ {
+  "name": "package-x",
+  "category": "Commerce",
+  "tags": [
+   "cancel order",
+   "remove package",
+   "box",
+   "parcel",
+   "delete",
+   "x"
+  ]
+ },
+ {
+  "name": "pacman",
+  "category": "Brands",
+  "tags": [
+   "pac-man",
+   "pacman",
+   "arcade",
+   "game",
+   "retro",
+   "bandai namco",
+   "brand"
   ]
  },
  {
@@ -33981,6 +39540,18 @@
    "disabled",
    "off",
    "design"
+  ]
+ },
+ {
+  "name": "paint-brush-sparkle",
+  "category": "Design",
+  "tags": [
+   "ai art",
+   "generative art",
+   "ai drawing",
+   "image generation",
+   "paint",
+   "sparkle"
   ]
  },
  {
@@ -34077,12 +39648,60 @@
   ]
  },
  {
+  "name": "panel-bottom-close",
+  "category": "Interface",
+  "tags": [
+   "collapse panel",
+   "hide panel",
+   "bottom panel",
+   "terminal panel",
+   "dock",
+   "toggle"
+  ]
+ },
+ {
+  "name": "panel-bottom-dashed",
+  "category": "Interface",
+  "tags": [
+   "panel",
+   "bottom",
+   "dashed",
+   "placeholder",
+   "layout",
+   "drawer"
+  ]
+ },
+ {
+  "name": "panel-bottom-open",
+  "category": "Interface",
+  "tags": [
+   "open bottom panel",
+   "expand panel",
+   "show panel",
+   "bottom panel",
+   "terminal panel",
+   "layout"
+  ]
+ },
+ {
   "name": "panel-left-close",
   "category": "Interface",
   "tags": [
    "collapse sidebar",
    "hide panel",
    "left panel"
+  ]
+ },
+ {
+  "name": "panel-left-dashed",
+  "category": "Interface",
+  "tags": [
+   "panel",
+   "left",
+   "sidebar",
+   "dashed",
+   "placeholder",
+   "layout"
   ]
  },
  {
@@ -34095,6 +39714,18 @@
   ]
  },
  {
+  "name": "panel-left-right-dashed",
+  "category": "Interface",
+  "tags": [
+   "panels",
+   "left",
+   "right",
+   "dashed",
+   "placeholder",
+   "layout"
+  ]
+ },
+ {
   "name": "panel-right-close",
   "category": "Interface",
   "tags": [
@@ -34104,12 +39735,72 @@
   ]
  },
  {
+  "name": "panel-right-dashed",
+  "category": "Interface",
+  "tags": [
+   "panel",
+   "right",
+   "sidebar",
+   "dashed",
+   "placeholder",
+   "layout"
+  ]
+ },
+ {
   "name": "panel-right-open",
   "category": "Interface",
   "tags": [
    "expand panel",
    "show panel",
    "right panel"
+  ]
+ },
+ {
+  "name": "panel-top-close",
+  "category": "Interface",
+  "tags": [
+   "panel",
+   "top",
+   "close",
+   "collapse",
+   "hide",
+   "layout"
+  ]
+ },
+ {
+  "name": "panel-top-dashed",
+  "category": "Interface",
+  "tags": [
+   "panel",
+   "top",
+   "dashed",
+   "placeholder",
+   "layout",
+   "header"
+  ]
+ },
+ {
+  "name": "panel-top-open",
+  "category": "Interface",
+  "tags": [
+   "panel",
+   "top",
+   "open",
+   "expand",
+   "show",
+   "layout"
+  ]
+ },
+ {
+  "name": "panels-top-left",
+  "category": "Interface",
+  "tags": [
+   "panels",
+   "split",
+   "top",
+   "left",
+   "layout",
+   "arrangement"
   ]
  },
  {
@@ -34392,6 +40083,30 @@
   ]
  },
  {
+  "name": "passport-check",
+  "category": "Transport",
+  "tags": [
+   "valid passport",
+   "verified",
+   "approved",
+   "travel document",
+   "id",
+   "check"
+  ]
+ },
+ {
+  "name": "passport-x",
+  "category": "Transport",
+  "tags": [
+   "expired passport",
+   "invalid",
+   "void",
+   "revoked",
+   "travel document",
+   "x"
+  ]
+ },
+ {
   "name": "password",
   "category": "Security",
   "tags": [
@@ -34444,6 +40159,19 @@
   ]
  },
  {
+  "name": "patient",
+  "category": "Health",
+  "tags": [
+   "patient",
+   "person",
+   "medical",
+   "healthcare",
+   "clinic",
+   "hospital",
+   "care"
+  ]
+ },
+ {
   "name": "pause",
   "category": "Media",
   "tags": [
@@ -34493,6 +40221,19 @@
    "disabled",
    "hidden",
    "paw"
+  ]
+ },
+ {
+  "name": "paypal-logo",
+  "category": "Brands",
+  "tags": [
+   "paypal",
+   "payment",
+   "online payment",
+   "money transfer",
+   "p",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -34565,6 +40306,30 @@
    "bezier",
    "write",
    "design"
+  ]
+ },
+ {
+  "name": "pen-nib-minus",
+  "category": "Design",
+  "tags": [
+   "delete anchor point",
+   "pen tool",
+   "vector",
+   "bezier",
+   "node",
+   "minus"
+  ]
+ },
+ {
+  "name": "pen-nib-plus",
+  "category": "Design",
+  "tags": [
+   "add anchor point",
+   "pen tool",
+   "vector",
+   "bezier",
+   "node",
+   "plus"
   ]
  },
  {
@@ -34973,6 +40738,32 @@
   ]
  },
  {
+  "name": "periscope-logo",
+  "category": "Brands",
+  "tags": [
+   "periscope",
+   "live streaming",
+   "video",
+   "broadcast",
+   "twitter",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "perplexity-ai-logo",
+  "category": "Brands",
+  "tags": [
+   "perplexity",
+   "perplexity ai",
+   "ai",
+   "search",
+   "answer engine",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "person",
   "category": "People",
   "tags": [
@@ -35015,6 +40806,18 @@
   ]
  },
  {
+  "name": "person-bowing",
+  "category": "People",
+  "tags": [
+   "ruku",
+   "bowing",
+   "prayer",
+   "posture",
+   "salah",
+   "bow"
+  ]
+ },
+ {
   "name": "person-boy",
   "category": "People",
   "tags": [
@@ -35033,6 +40836,18 @@
    "senior",
    "cane",
    "old"
+  ]
+ },
+ {
+  "name": "person-cloche",
+  "category": "People",
+  "tags": [
+   "waiter",
+   "server",
+   "hospitality",
+   "restaurant",
+   "staff",
+   "serving"
   ]
  },
  {
@@ -35074,6 +40889,18 @@
    "accident",
    "safety",
    "slip"
+  ]
+ },
+ {
+  "name": "person-flying",
+  "category": "People",
+  "tags": [
+   "flying",
+   "superhero",
+   "person",
+   "flight",
+   "motion",
+   "action"
   ]
  },
  {
@@ -35119,6 +40946,18 @@
   ]
  },
  {
+  "name": "person-pilgrim",
+  "category": "People",
+  "tags": [
+   "hajj",
+   "haji",
+   "pilgrim",
+   "ihram",
+   "pilgrimage",
+   "islam"
+  ]
+ },
+ {
   "name": "person-pregnant",
   "category": "People",
   "tags": [
@@ -35127,6 +40966,18 @@
    "maternity",
    "mother",
    "pregnant"
+  ]
+ },
+ {
+  "name": "person-prostrating",
+  "category": "People",
+  "tags": [
+   "sujood",
+   "prostration",
+   "prayer",
+   "salah",
+   "kneeling",
+   "worship"
   ]
  },
  {
@@ -35191,6 +41042,18 @@
    "speaker",
    "talk",
    "narrator"
+  ]
+ },
+ {
+  "name": "person-squatting",
+  "category": "People",
+  "tags": [
+   "squat",
+   "workout",
+   "exercise",
+   "legs",
+   "fitness",
+   "training"
   ]
  },
  {
@@ -35272,6 +41135,19 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "pexels-logo",
+  "category": "Brands",
+  "tags": [
+   "pexels",
+   "stock photos",
+   "photography",
+   "image",
+   "free stock",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -35384,6 +41260,18 @@
    "secure call",
    "private",
    "phone"
+  ]
+ },
+ {
+  "name": "phone-lock-open",
+  "category": "Communication",
+  "tags": [
+   "unlocked call",
+   "phone",
+   "unlock",
+   "unsecured",
+   "call",
+   "open lock"
   ]
  },
  {
@@ -35522,6 +41410,30 @@
   ]
  },
  {
+  "name": "pi-minus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "pi",
+   "remove",
+   "delete",
+   "math",
+   "constant",
+   "minus"
+  ]
+ },
+ {
+  "name": "pi-plus",
+  "category": "Letters & Numbers",
+  "tags": [
+   "pi",
+   "insert",
+   "add",
+   "math",
+   "constant",
+   "plus"
+  ]
+ },
+ {
   "name": "piano",
   "category": "Media",
   "tags": [
@@ -35544,6 +41456,19 @@
   ]
  },
  {
+  "name": "picasa-logo",
+  "category": "Brands",
+  "tags": [
+   "picasa",
+   "google",
+   "photo gallery",
+   "photos",
+   "pictures",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "pickaxe",
   "category": "Objects",
   "tags": [
@@ -35561,6 +41486,18 @@
    "paddle",
    "ball",
    "racket"
+  ]
+ },
+ {
+  "name": "pickup-truck",
+  "category": "Transport",
+  "tags": [
+   "pickup truck",
+   "pickup",
+   "truck",
+   "cargo",
+   "utility",
+   "vehicle"
   ]
  },
  {
@@ -35606,6 +41543,18 @@
   ]
  },
  {
+  "name": "pie",
+  "category": "Food",
+  "tags": [
+   "pie",
+   "dessert",
+   "baking",
+   "pastry",
+   "thanksgiving",
+   "bakery"
+  ]
+ },
+ {
   "name": "pig",
   "category": "Animals",
   "tags": [
@@ -35635,6 +41584,54 @@
    "piggy",
    "deposit",
    "budget"
+  ]
+ },
+ {
+  "name": "piggy-bank-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin savings",
+   "crypto savings",
+   "btc",
+   "piggy bank",
+   "save",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "piggy-bank-currency-euro",
+  "category": "Commerce",
+  "tags": [
+   "save euro",
+   "savings",
+   "piggy bank",
+   "deposit",
+   "euro",
+   "currency"
+  ]
+ },
+ {
+  "name": "piggy-bank-currency-pound",
+  "category": "Commerce",
+  "tags": [
+   "save pound",
+   "savings",
+   "piggy bank",
+   "deposit",
+   "gbp",
+   "currency"
+  ]
+ },
+ {
+  "name": "piggy-bank-currency-yen",
+  "category": "Commerce",
+  "tags": [
+   "save yen",
+   "savings",
+   "piggy bank",
+   "deposit",
+   "jpy",
+   "currency"
   ]
  },
  {
@@ -35720,6 +41717,19 @@
   ]
  },
  {
+  "name": "pinterest-logo",
+  "category": "Brands",
+  "tags": [
+   "pinterest",
+   "pin",
+   "social media",
+   "inspiration",
+   "p",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "pinwheel",
   "category": "Objects",
   "tags": [
@@ -35760,6 +41770,18 @@
   ]
  },
  {
+  "name": "pistol",
+  "category": "Objects",
+  "tags": [
+   "pistol",
+   "gun",
+   "handgun",
+   "firearm",
+   "weapon",
+   "shoot"
+  ]
+ },
+ {
   "name": "pizza",
   "category": "Food",
   "tags": [
@@ -35767,6 +41789,18 @@
    "slice",
    "fast food",
    "italian"
+  ]
+ },
+ {
+  "name": "pizza-cutter",
+  "category": "Food",
+  "tags": [
+   "pizza cutter",
+   "wheel cutter",
+   "kitchen",
+   "slicer",
+   "pizza",
+   "tool"
   ]
  },
  {
@@ -36084,6 +42118,18 @@
   ]
  },
  {
+  "name": "plug-wrench",
+  "category": "Devices",
+  "tags": [
+   "power service",
+   "electrical service",
+   "electrician",
+   "maintenance",
+   "plug",
+   "wrench"
+  ]
+ },
+ {
   "name": "plug-x",
   "category": "Devices",
   "tags": [
@@ -36203,6 +42249,19 @@
   ]
  },
  {
+  "name": "pocket-logo",
+  "category": "Brands",
+  "tags": [
+   "pocket",
+   "mozilla",
+   "read later",
+   "bookmark",
+   "save",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "podcast",
   "category": "Communication",
   "tags": [
@@ -36222,6 +42281,19 @@
    "winners",
    "podium",
    "top"
+  ]
+ },
+ {
+  "name": "pokeball",
+  "category": "Brands",
+  "tags": [
+   "pokeball",
+   "poke ball",
+   "pokemon",
+   "game",
+   "catch",
+   "ball",
+   "brand"
   ]
  },
  {
@@ -36247,6 +42319,18 @@
   ]
  },
  {
+  "name": "police-cap",
+  "category": "Security",
+  "tags": [
+   "police cap",
+   "officer",
+   "peaked cap",
+   "uniform",
+   "law enforcement",
+   "hat"
+  ]
+ },
+ {
   "name": "police-car",
   "category": "Transport",
   "tags": [
@@ -36254,6 +42338,18 @@
    "cop",
    "emergency",
    "patrol"
+  ]
+ },
+ {
+  "name": "police-station",
+  "category": "Maps",
+  "tags": [
+   "police station",
+   "precinct",
+   "law enforcement",
+   "building",
+   "headquarters",
+   "security"
   ]
  },
  {
@@ -36439,6 +42535,30 @@
   ]
  },
  {
+  "name": "power-circle",
+  "category": "Interface",
+  "tags": [
+   "power button",
+   "power",
+   "on off",
+   "switch",
+   "start",
+   "circle"
+  ]
+ },
+ {
+  "name": "power-leaf",
+  "category": "Nature",
+  "tags": [
+   "eco power",
+   "green energy",
+   "renewable",
+   "sustainable",
+   "power",
+   "leaf"
+  ]
+ },
+ {
   "name": "power-supply",
   "category": "Devices",
   "tags": [
@@ -36446,6 +42566,30 @@
    "psu",
    "adapter",
    "charger"
+  ]
+ },
+ {
+  "name": "prayer-beads",
+  "category": "Objects",
+  "tags": [
+   "tasbih",
+   "prayer beads",
+   "misbaha",
+   "rosary",
+   "beads",
+   "counting"
+  ]
+ },
+ {
+  "name": "prayer-rug",
+  "category": "Home",
+  "tags": [
+   "prayer rug",
+   "prayer mat",
+   "sajadah",
+   "rug",
+   "islam",
+   "prayer"
   ]
  },
  {
@@ -36466,6 +42610,18 @@
    "board",
    "easel",
    "slides"
+  ]
+ },
+ {
+  "name": "presentation-bitcoin",
+  "category": "Business",
+  "tags": [
+   "crypto presentation",
+   "bitcoin pitch",
+   "btc",
+   "board",
+   "presentation",
+   "bitcoin"
   ]
  },
  {
@@ -36579,6 +42735,30 @@
   ]
  },
  {
+  "name": "printer-3d",
+  "category": "Devices",
+  "tags": [
+   "3d printer",
+   "additive manufacturing",
+   "fabrication",
+   "prototype",
+   "printing",
+   "maker"
+  ]
+ },
+ {
+  "name": "printer-check",
+  "category": "Devices",
+  "tags": [
+   "print complete",
+   "printed",
+   "printer",
+   "success",
+   "done",
+   "check"
+  ]
+ },
+ {
   "name": "printer-plus",
   "category": "Devices",
   "tags": [
@@ -36597,6 +42777,18 @@
    "no print",
    "printer",
    "no printing"
+  ]
+ },
+ {
+  "name": "printer-x",
+  "category": "Devices",
+  "tags": [
+   "cancel print",
+   "print error",
+   "printer",
+   "remove",
+   "cancel",
+   "x"
   ]
  },
  {
@@ -36663,6 +42855,18 @@
    "jail",
    "bars",
    "police"
+  ]
+ },
+ {
+  "name": "prison-guard",
+  "category": "People",
+  "tags": [
+   "prison guard",
+   "guard",
+   "warden",
+   "officer",
+   "jail",
+   "security"
   ]
  },
  {
@@ -36757,6 +42961,19 @@
   ]
  },
  {
+  "name": "pulley",
+  "category": "Science",
+  "tags": [
+   "pulley",
+   "mechanics",
+   "lift",
+   "rope",
+   "wheel",
+   "physics",
+   "hoist"
+  ]
+ },
+ {
   "name": "pulse",
   "category": "Charts",
   "tags": [
@@ -36808,6 +43025,18 @@
   ]
  },
  {
+  "name": "punching-bag",
+  "category": "Sports",
+  "tags": [
+   "punching bag",
+   "boxing",
+   "heavy bag",
+   "gym",
+   "training",
+   "martial arts"
+  ]
+ },
+ {
   "name": "push-pin",
   "category": "Interface",
   "tags": [
@@ -36827,6 +43056,18 @@
    "remove pin",
    "detach",
    "push pin"
+  ]
+ },
+ {
+  "name": "push-up-bars",
+  "category": "Sports",
+  "tags": [
+   "push up bars",
+   "push up",
+   "handles",
+   "gym",
+   "fitness",
+   "strength"
   ]
  },
  {
@@ -36889,6 +43130,18 @@
    "disabled",
    "hidden",
    "pyramid"
+  ]
+ },
+ {
+  "name": "pyramid-stepped",
+  "category": "Maps",
+  "tags": [
+   "mayan pyramid",
+   "step pyramid",
+   "ziggurat",
+   "ancient",
+   "landmark",
+   "temple"
   ]
  },
  {
@@ -36994,6 +43247,20 @@
   ]
  },
  {
+  "name": "quora-logo",
+  "category": "Brands",
+  "tags": [
+   "quora",
+   "q&a",
+   "questions",
+   "answers",
+   "community",
+   "forum",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "quotes",
   "category": "Editor",
   "tags": [
@@ -37022,6 +43289,43 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "quotes-square",
+  "category": "Editor",
+  "tags": [
+   "quote",
+   "quotes",
+   "quotation",
+   "citation",
+   "square",
+   "blockquote"
+  ]
+ },
+ {
+  "name": "quran",
+  "category": "Education",
+  "tags": [
+   "quran",
+   "holy book",
+   "islam",
+   "scripture",
+   "reading",
+   "religion"
+  ]
+ },
+ {
+  "name": "qwen-logo",
+  "category": "Brands",
+  "tags": [
+   "qwen",
+   "ai",
+   "artificial intelligence",
+   "model",
+   "alibaba",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37063,6 +43367,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "radiator",
+  "category": "Home",
+  "tags": [
+   "radiator",
+   "heater",
+   "space heater",
+   "heating",
+   "warmth",
+   "appliance"
   ]
  },
  {
@@ -37187,6 +43503,18 @@
   ]
  },
  {
+  "name": "ratio",
+  "category": "Symbols",
+  "tags": [
+   "ratio",
+   "proportion",
+   "colon",
+   "math",
+   "compare",
+   "a to b"
+  ]
+ },
+ {
   "name": "rattle",
   "category": "People",
   "tags": [
@@ -37208,6 +43536,19 @@
   ]
  },
  {
+  "name": "react-logo",
+  "category": "Brands",
+  "tags": [
+   "react",
+   "reactjs",
+   "javascript",
+   "framework",
+   "web development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "receipt",
   "category": "Commerce",
   "tags": [
@@ -37224,6 +43565,18 @@
    "receipt",
    "bitcoin",
    "crypto"
+  ]
+ },
+ {
+  "name": "receipt-currency-cent",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "cent",
+   "price",
+   "bill",
+   "money",
+   "currency"
   ]
  },
  {
@@ -37247,6 +43600,90 @@
   ]
  },
  {
+  "name": "receipt-currency-franc",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "franc",
+   "chf",
+   "bill",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "receipt-currency-lira",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "lira",
+   "try",
+   "bill",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "receipt-currency-pound",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "pound",
+   "gbp",
+   "bill",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "receipt-currency-ruble",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "ruble",
+   "rub",
+   "bill",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "receipt-currency-rupee",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "rupee",
+   "inr",
+   "bill",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "receipt-currency-yen",
+  "category": "Commerce",
+  "tags": [
+   "receipt",
+   "yen",
+   "jpy",
+   "bill",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "receipt-plus",
+  "category": "Commerce",
+  "tags": [
+   "new invoice",
+   "add bill",
+   "create receipt",
+   "billing",
+   "receipt",
+   "add"
+  ]
+ },
+ {
   "name": "receipt-refund",
   "category": "Commerce",
   "tags": [
@@ -37254,6 +43691,18 @@
    "return",
    "receipt",
    "money back"
+  ]
+ },
+ {
+  "name": "receipt-send",
+  "category": "Commerce",
+  "tags": [
+   "send order",
+   "order",
+   "kitchen ticket",
+   "dispatch",
+   "receipt",
+   "outgoing"
   ]
  },
  {
@@ -37368,6 +43817,18 @@
   ]
  },
  {
+  "name": "recycle-lightning",
+  "category": "Nature",
+  "tags": [
+   "sustainable energy",
+   "renewable",
+   "clean energy",
+   "recycling",
+   "circular",
+   "power"
+  ]
+ },
+ {
   "name": "recycle-slash",
   "category": "Nature",
   "tags": [
@@ -37385,6 +43846,20 @@
    "red packet",
    "gift money",
    "lucky money"
+  ]
+ },
+ {
+  "name": "reddit-logo",
+  "category": "Brands",
+  "tags": [
+   "reddit",
+   "snoo",
+   "social media",
+   "forum",
+   "community",
+   "mascot",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37521,6 +43996,18 @@
   ]
  },
  {
+  "name": "replay",
+  "category": "Media",
+  "tags": [
+   "replay",
+   "restart",
+   "play again",
+   "video",
+   "rewind",
+   "loop"
+  ]
+ },
+ {
   "name": "replay-10",
   "category": "Media",
   "tags": [
@@ -37550,6 +44037,19 @@
    "replay",
    "skip back",
    "replay 5 seconds"
+  ]
+ },
+ {
+  "name": "replit-logo",
+  "category": "Brands",
+  "tags": [
+   "replit",
+   "ide",
+   "code editor",
+   "coding",
+   "development",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37665,6 +44165,18 @@
   ]
  },
  {
+  "name": "right-angle",
+  "category": "Education",
+  "tags": [
+   "right angle",
+   "90 degrees",
+   "perpendicular",
+   "geometry",
+   "angle",
+   "math"
+  ]
+ },
+ {
   "name": "ring",
   "category": "Objects",
   "tags": [
@@ -37673,6 +44185,19 @@
    "engagement",
    "jewelry",
    "diamond ring"
+  ]
+ },
+ {
+  "name": "ripple-logo",
+  "category": "Brands",
+  "tags": [
+   "ripple",
+   "xrp",
+   "cryptocurrency",
+   "crypto",
+   "coin",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37706,6 +44231,18 @@
   ]
  },
  {
+  "name": "road-pencil",
+  "category": "Maps",
+  "tags": [
+   "edit road",
+   "map editing",
+   "road",
+   "route edit",
+   "pencil",
+   "street"
+  ]
+ },
+ {
   "name": "road-slash",
   "category": "Maps",
   "tags": [
@@ -37713,6 +44250,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "roblox-logo",
+  "category": "Brands",
+  "tags": [
+   "roblox",
+   "game",
+   "gaming",
+   "platform",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37851,6 +44400,18 @@
   ]
  },
  {
+  "name": "rolling-pin",
+  "category": "Food",
+  "tags": [
+   "rolling pin",
+   "baking",
+   "dough",
+   "pastry",
+   "kitchen",
+   "cooking"
+  ]
+ },
+ {
   "name": "rotate-360",
   "category": "Arrows",
   "tags": [
@@ -37871,6 +44432,30 @@
   ]
  },
  {
+  "name": "rotate-bottom-left",
+  "category": "Design",
+  "tags": [
+   "rotate corner",
+   "rotate cursor",
+   "bottom left",
+   "transform",
+   "rotate",
+   "handle"
+  ]
+ },
+ {
+  "name": "rotate-bottom-right",
+  "category": "Design",
+  "tags": [
+   "rotate corner",
+   "rotate cursor",
+   "bottom right",
+   "transform",
+   "rotate",
+   "handle"
+  ]
+ },
+ {
   "name": "rotate-dot",
   "category": "Design",
   "tags": [
@@ -37878,6 +44463,18 @@
    "pivot",
    "transform",
    "center"
+  ]
+ },
+ {
+  "name": "rotate-key",
+  "category": "Security",
+  "tags": [
+   "key rotation",
+   "rotate credentials",
+   "renew key",
+   "api key",
+   "security",
+   "rotate"
   ]
  },
  {
@@ -37918,6 +44515,30 @@
    "clockwise",
    "turn",
    "transform"
+  ]
+ },
+ {
+  "name": "rotate-top-left",
+  "category": "Design",
+  "tags": [
+   "rotate corner",
+   "rotate cursor",
+   "top left",
+   "transform",
+   "rotate",
+   "handle"
+  ]
+ },
+ {
+  "name": "rotate-top-right",
+  "category": "Design",
+  "tags": [
+   "rotate corner",
+   "rotate cursor",
+   "top right",
+   "transform",
+   "rotate",
+   "handle"
   ]
  },
  {
@@ -38044,6 +44665,19 @@
   ]
  },
  {
+  "name": "rows-three",
+  "category": "Editor",
+  "tags": [
+   "three rows",
+   "rows",
+   "layout",
+   "horizontal",
+   "stack",
+   "sections",
+   "split"
+  ]
+ },
+ {
   "name": "rss",
   "category": "Communication",
   "tags": [
@@ -38052,6 +44686,66 @@
    "news",
    "blog",
    "podcast"
+  ]
+ },
+ {
+  "name": "rss-check",
+  "category": "Communication",
+  "tags": [
+   "rss",
+   "connected",
+   "subscribed",
+   "feed",
+   "check",
+   "news"
+  ]
+ },
+ {
+  "name": "rss-lock",
+  "category": "Communication",
+  "tags": [
+   "rss",
+   "private feed",
+   "lock",
+   "secure",
+   "feed",
+   "news"
+  ]
+ },
+ {
+  "name": "rss-lock-open",
+  "category": "Communication",
+  "tags": [
+   "rss",
+   "public feed",
+   "unlock",
+   "open lock",
+   "feed",
+   "news"
+  ]
+ },
+ {
+  "name": "rss-warning",
+  "category": "Communication",
+  "tags": [
+   "rss",
+   "error",
+   "feed error",
+   "warning",
+   "feed",
+   "news"
+  ]
+ },
+ {
+  "name": "rub-el-hizb",
+  "category": "Symbols",
+  "tags": [
+   "rub el hizb",
+   "islamic star",
+   "octagram",
+   "symbol",
+   "islam",
+   "quran"
   ]
  },
  {
@@ -38101,6 +44795,43 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "saddle",
+  "category": "Sports",
+  "tags": [
+   "saddle",
+   "horse riding",
+   "equestrian",
+   "stirrup",
+   "horse",
+   "riding"
+  ]
+ },
+ {
+  "name": "safari-logo",
+  "category": "Brands",
+  "tags": [
+   "safari",
+   "apple",
+   "browser",
+   "web",
+   "compass",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "safety-pin",
+  "category": "Objects",
+  "tags": [
+   "safety pin",
+   "pin",
+   "fasten",
+   "sewing",
+   "diaper",
+   "clasp"
   ]
  },
  {
@@ -38193,6 +44924,18 @@
    "space",
    "signal",
    "communication"
+  ]
+ },
+ {
+  "name": "satellite-dish",
+  "category": "Devices",
+  "tags": [
+   "satellite dish",
+   "dish antenna",
+   "receiver",
+   "signal",
+   "broadcast",
+   "tv"
   ]
  },
  {
@@ -38329,6 +45072,18 @@
   ]
  },
  {
+  "name": "scan-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai scan",
+   "smart scan",
+   "ai detection",
+   "recognition",
+   "scan",
+   "sparkle"
+  ]
+ },
+ {
   "name": "scanner",
   "category": "Devices",
   "tags": [
@@ -38391,6 +45146,18 @@
   ]
  },
  {
+  "name": "scissors-line-dashed",
+  "category": "Design",
+  "tags": [
+   "cut here",
+   "dashed line",
+   "coupon",
+   "cut line",
+   "scissors",
+   "trim"
+  ]
+ },
+ {
   "name": "scissors-slash",
   "category": "Objects",
   "tags": [
@@ -38419,6 +45186,18 @@
    "score",
    "match",
    "game"
+  ]
+ },
+ {
+  "name": "scratch-card",
+  "category": "Commerce",
+  "tags": [
+   "scratch card",
+   "lottery",
+   "instant win",
+   "scratch off",
+   "prize",
+   "ticket"
   ]
  },
  {
@@ -38599,6 +45378,131 @@
   ]
  },
  {
+  "name": "seal-currency-cent",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "cent",
+   "money",
+   "coupon",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-currency-dollar",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "dollar",
+   "money",
+   "payment",
+   "reward",
+   "seal"
+  ]
+ },
+ {
+  "name": "seal-currency-euro",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "euro",
+   "money",
+   "coupon",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-currency-franc",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "franc",
+   "chf",
+   "swiss",
+   "money",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-currency-lira",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "lira",
+   "try",
+   "turkey",
+   "money",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-currency-pound",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "pound",
+   "gbp",
+   "sterling",
+   "money",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-currency-ruble",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "ruble",
+   "rub",
+   "money",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-currency-rupee",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "rupee",
+   "inr",
+   "india",
+   "money",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-currency-yen",
+  "category": "Commerce",
+  "tags": [
+   "price badge",
+   "yen",
+   "jpy",
+   "japan",
+   "money",
+   "seal",
+   "currency"
+  ]
+ },
+ {
+  "name": "seal-halal",
+  "category": "Food",
+  "tags": [
+   "halal",
+   "certified",
+   "food label",
+   "islam",
+   "seal",
+   "dietary"
+  ]
+ },
+ {
   "name": "seal-minus",
   "category": "Interface",
   "tags": [
@@ -38669,6 +45573,32 @@
    "alert",
    "unverified",
    "warning"
+  ]
+ },
+ {
+  "name": "seal-x",
+  "category": "Interface",
+  "tags": [
+   "rejected",
+   "denied",
+   "not verified",
+   "invalid",
+   "seal",
+   "x",
+   "badge"
+  ]
+ },
+ {
+  "name": "seashell",
+  "category": "Nature",
+  "tags": [
+   "seashell",
+   "scallop",
+   "shell",
+   "beach",
+   "ocean",
+   "shellfish",
+   "clam"
   ]
  },
  {
@@ -38815,6 +45745,30 @@
   ]
  },
  {
+  "name": "selection-circle",
+  "category": "Editor",
+  "tags": [
+   "circle selection",
+   "ellipse select",
+   "marquee",
+   "selection",
+   "region",
+   "round"
+  ]
+ },
+ {
+  "name": "selection-crop",
+  "category": "Design",
+  "tags": [
+   "pathfinder crop",
+   "boolean",
+   "crop shapes",
+   "mask",
+   "shapes",
+   "pathfinder"
+  ]
+ },
+ {
   "name": "selection-exclude",
   "category": "Design",
   "tags": [
@@ -38862,6 +45816,18 @@
   ]
  },
  {
+  "name": "selection-outline",
+  "category": "Design",
+  "tags": [
+   "pathfinder outline",
+   "outline shapes",
+   "boolean",
+   "strokes",
+   "shapes",
+   "pathfinder"
+  ]
+ },
+ {
   "name": "selection-plus",
   "category": "Design",
   "tags": [
@@ -38889,6 +45855,30 @@
    "boolean",
    "minus front",
    "shapes"
+  ]
+ },
+ {
+  "name": "selection-subtract-back",
+  "category": "Design",
+  "tags": [
+   "minus back",
+   "pathfinder",
+   "boolean",
+   "subtract",
+   "shapes",
+   "difference"
+  ]
+ },
+ {
+  "name": "selection-trim",
+  "category": "Design",
+  "tags": [
+   "pathfinder trim",
+   "trim",
+   "boolean",
+   "hidden parts",
+   "shapes",
+   "pathfinder"
   ]
  },
  {
@@ -38996,6 +45986,19 @@
   ]
  },
  {
+  "name": "shadcn-logo",
+  "category": "Brands",
+  "tags": [
+   "shadcn",
+   "ui components",
+   "design system",
+   "react",
+   "developer",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "shadow",
   "category": "Design",
   "tags": [
@@ -39044,6 +46047,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "shapes-sparkle",
+  "category": "Design",
+  "tags": [
+   "ai elements",
+   "generated shapes",
+   "design elements",
+   "ai design",
+   "shapes",
+   "sparkle"
   ]
  },
  {
@@ -39138,6 +46153,30 @@
   ]
  },
  {
+  "name": "shield-bitcoin",
+  "category": "Security",
+  "tags": [
+   "crypto security",
+   "secure bitcoin",
+   "btc",
+   "protection",
+   "shield",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "shield-blockchain",
+  "category": "Security",
+  "tags": [
+   "blockchain security",
+   "secure ledger",
+   "crypto",
+   "chain",
+   "shield",
+   "protection"
+  ]
+ },
+ {
   "name": "shield-broken",
   "category": "Security",
   "tags": [
@@ -39189,6 +46228,30 @@
   ]
  },
  {
+  "name": "shield-currency-rupee",
+  "category": "Security",
+  "tags": [
+   "shield",
+   "rupee",
+   "inr",
+   "secure payment",
+   "money",
+   "currency"
+  ]
+ },
+ {
+  "name": "shield-dots",
+  "category": "Security",
+  "tags": [
+   "shield",
+   "more",
+   "options",
+   "menu",
+   "security settings",
+   "dots"
+  ]
+ },
+ {
   "name": "shield-eye",
   "category": "Security",
   "tags": [
@@ -39197,6 +46260,18 @@
    "surveillance protection",
    "shield",
    "eye"
+  ]
+ },
+ {
+  "name": "shield-fire",
+  "category": "Security",
+  "tags": [
+   "fire safety",
+   "fire protection",
+   "shield",
+   "fire",
+   "safety",
+   "prevention"
   ]
  },
  {
@@ -39302,6 +46377,18 @@
   ]
  },
  {
+  "name": "shield-prohibit",
+  "category": "Security",
+  "tags": [
+   "blocked",
+   "access denied",
+   "banned",
+   "restricted",
+   "shield",
+   "prohibit"
+  ]
+ },
+ {
   "name": "shield-push-pin",
   "category": "Security",
   "tags": [
@@ -39342,6 +46429,18 @@
   ]
  },
  {
+  "name": "shield-sparkle",
+  "category": "Security",
+  "tags": [
+   "ai security",
+   "ai privacy",
+   "protection",
+   "cybersecurity",
+   "safety",
+   "sparkle"
+  ]
+ },
+ {
   "name": "shield-star",
   "category": "Security",
   "tags": [
@@ -39349,6 +46448,20 @@
    "shield",
    "star",
    "rank"
+  ]
+ },
+ {
+  "name": "shield-sword",
+  "category": "Objects",
+  "tags": [
+   "adventure",
+   "rpg",
+   "quest",
+   "sword",
+   "shield",
+   "fantasy",
+   "battle",
+   "game"
   ]
  },
  {
@@ -39406,6 +46519,19 @@
   ]
  },
  {
+  "name": "ship-wheel",
+  "category": "Transport",
+  "tags": [
+   "ship wheel",
+   "helm",
+   "steering",
+   "nautical",
+   "captain",
+   "marine",
+   "boat"
+  ]
+ },
+ {
   "name": "shipping-container",
   "category": "Transport",
   "tags": [
@@ -39460,6 +46586,19 @@
    "wish",
    "meteor",
    "falling star"
+  ]
+ },
+ {
+  "name": "shopify-logo",
+  "category": "Brands",
+  "tags": [
+   "shopify",
+   "ecommerce",
+   "shop",
+   "store",
+   "shopping bag",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -39637,6 +46776,18 @@
    "up",
    "increase",
    "shopping"
+  ]
+ },
+ {
+  "name": "shopping-cart-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "pay with bitcoin",
+   "crypto shopping",
+   "btc",
+   "cart",
+   "checkout",
+   "bitcoin"
   ]
  },
  {
@@ -39848,6 +46999,18 @@
   ]
  },
  {
+  "name": "shoulder",
+  "category": "Health",
+  "tags": [
+   "shoulder",
+   "joint",
+   "anatomy",
+   "deltoid",
+   "body part",
+   "pain"
+  ]
+ },
+ {
   "name": "shovel",
   "category": "Objects",
   "tags": [
@@ -39963,6 +47126,30 @@
   ]
  },
  {
+  "name": "sigma-square",
+  "category": "Education",
+  "tags": [
+   "sum",
+   "summation",
+   "sigma",
+   "math",
+   "total",
+   "square"
+  ]
+ },
+ {
+  "name": "sign-a-frame",
+  "category": "Commerce",
+  "tags": [
+   "a-frame sign",
+   "sandwich board",
+   "shop sign",
+   "open sign",
+   "storefront",
+   "menu board"
+  ]
+ },
+ {
   "name": "sign-dead-end",
   "category": "Maps",
   "tags": [
@@ -40041,6 +47228,18 @@
    "gesture",
    "hands",
    "communication"
+  ]
+ },
+ {
+  "name": "sign-language-c",
+  "category": "People",
+  "tags": [
+   "sign language",
+   "asl",
+   "letter c",
+   "deaf",
+   "gesture",
+   "accessibility"
   ]
  },
  {
@@ -40311,6 +47510,18 @@
   ]
  },
  {
+  "name": "sim-card-dual",
+  "category": "Devices",
+  "tags": [
+   "dual sim",
+   "sim card",
+   "two sims",
+   "mobile",
+   "carrier",
+   "cellular"
+  ]
+ },
+ {
   "name": "sim-card-slash",
   "category": "Devices",
   "tags": [
@@ -40319,6 +47530,18 @@
    "disabled",
    "slash",
    "sim missing"
+  ]
+ },
+ {
+  "name": "sink",
+  "category": "Home",
+  "tags": [
+   "sink",
+   "basin",
+   "washbasin",
+   "bathroom",
+   "kitchen sink",
+   "plumbing"
   ]
  },
  {
@@ -40370,6 +47593,19 @@
    "bones",
    "anatomy",
    "halloween"
+  ]
+ },
+ {
+  "name": "sketch-logo",
+  "category": "Brands",
+  "tags": [
+   "sketch",
+   "design tool",
+   "gem",
+   "diamond",
+   "ui design",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -40493,12 +47729,64 @@
   ]
  },
  {
+  "name": "skype-logo",
+  "category": "Brands",
+  "tags": [
+   "skype",
+   "microsoft",
+   "video call",
+   "calling",
+   "chat",
+   "s",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "skyscraper",
   "category": "Maps",
   "tags": [
    "tower",
    "city",
    "high-rise"
+  ]
+ },
+ {
+  "name": "skyscraper-spire",
+  "category": "Maps",
+  "tags": [
+   "chrysler building",
+   "art deco",
+   "new york",
+   "skyscraper",
+   "landmark",
+   "spire"
+  ]
+ },
+ {
+  "name": "skyscraper-twisted",
+  "category": "Maps",
+  "tags": [
+   "twisted tower",
+   "cayan tower",
+   "dubai",
+   "skyscraper",
+   "landmark",
+   "modern"
+  ]
+ },
+ {
+  "name": "slack-logo",
+  "category": "Brands",
+  "tags": [
+   "slack",
+   "messaging",
+   "chat",
+   "team",
+   "workspace",
+   "collaboration",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -40509,6 +47797,18 @@
    "command",
    "shortcut",
    "prompt"
+  ]
+ },
+ {
+  "name": "slash-forward",
+  "category": "Letters & Numbers",
+  "tags": [
+   "forward slash",
+   "slash",
+   "solidus",
+   "character",
+   "punctuation",
+   "separator"
   ]
  },
  {
@@ -40823,6 +48123,19 @@
   ]
  },
  {
+  "name": "slideshare-logo",
+  "category": "Brands",
+  "tags": [
+   "slideshare",
+   "presentation",
+   "slides",
+   "deck",
+   "sharing",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "slideshow",
   "category": "Interface",
   "tags": [
@@ -40993,6 +48306,18 @@
    "dollar",
    "price",
    "money"
+  ]
+ },
+ {
+  "name": "smiley-devil",
+  "category": "Emoji",
+  "tags": [
+   "devil",
+   "evil",
+   "mischief",
+   "naughty",
+   "emoji",
+   "face"
   ]
  },
  {
@@ -41288,6 +48613,18 @@
   ]
  },
  {
+  "name": "smiley-sleepy",
+  "category": "Emoji",
+  "tags": [
+   "sleepy",
+   "sleeping",
+   "tired",
+   "exhausted",
+   "emoji",
+   "face"
+  ]
+ },
+ {
   "name": "smiley-smirk",
   "category": "Emoji",
   "tags": [
@@ -41316,6 +48653,18 @@
    "face",
    "laugh",
    "sad"
+  ]
+ },
+ {
+  "name": "smiley-star-eyes",
+  "category": "Emoji",
+  "tags": [
+   "star struck",
+   "star eyes",
+   "amazed",
+   "excited",
+   "emoji",
+   "face"
   ]
  },
  {
@@ -41494,6 +48843,20 @@
   ]
  },
  {
+  "name": "snapchat-logo",
+  "category": "Brands",
+  "tags": [
+   "snapchat",
+   "ghost",
+   "snap",
+   "social media",
+   "messaging",
+   "story",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "sneaker",
   "category": "Objects",
   "tags": [
@@ -41658,6 +49021,54 @@
   ]
  },
  {
+  "name": "soil-drop",
+  "category": "Nature",
+  "tags": [
+   "soil moisture",
+   "irrigation",
+   "agriculture",
+   "field sensor",
+   "soil",
+   "water"
+  ]
+ },
+ {
+  "name": "soil-drop-globe",
+  "category": "Nature",
+  "tags": [
+   "global soil moisture",
+   "satellite",
+   "agriculture",
+   "regional",
+   "soil",
+   "water"
+  ]
+ },
+ {
+  "name": "soil-thermometer",
+  "category": "Nature",
+  "tags": [
+   "soil temperature",
+   "agriculture",
+   "field sensor",
+   "ground heat",
+   "soil",
+   "thermometer"
+  ]
+ },
+ {
+  "name": "soil-thermometer-globe",
+  "category": "Nature",
+  "tags": [
+   "global soil temperature",
+   "satellite",
+   "agriculture",
+   "regional",
+   "soil",
+   "thermometer"
+  ]
+ },
+ {
   "name": "solar-panel",
   "category": "Science",
   "tags": [
@@ -41675,6 +49086,18 @@
    "solar panels",
    "renewable",
    "roof"
+  ]
+ },
+ {
+  "name": "solar-system",
+  "category": "Science",
+  "tags": [
+   "solar system",
+   "planets",
+   "orbit",
+   "sun",
+   "astronomy",
+   "space"
   ]
  },
  {
@@ -41781,6 +49204,19 @@
    "speaker bar",
    "tv audio",
    "home theater"
+  ]
+ },
+ {
+  "name": "soundcloud-logo",
+  "category": "Brands",
+  "tags": [
+   "soundcloud",
+   "music",
+   "audio",
+   "streaming",
+   "podcast",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42019,6 +49455,18 @@
   ]
  },
  {
+  "name": "sperm",
+  "category": "Health",
+  "tags": [
+   "sperm",
+   "fertility",
+   "reproduction",
+   "ivf",
+   "biology",
+   "cell"
+  ]
+ },
+ {
   "name": "sphere",
   "category": "Design",
   "tags": [
@@ -42138,6 +49586,31 @@
   ]
  },
  {
+  "name": "spotify-logo",
+  "category": "Brands",
+  "tags": [
+   "spotify",
+   "music",
+   "streaming",
+   "audio",
+   "playlist",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "spotlight",
+  "category": "Media",
+  "tags": [
+   "spotlight",
+   "stage light",
+   "featured",
+   "highlight",
+   "theater",
+   "focus"
+  ]
+ },
+ {
   "name": "spray-bottle",
   "category": "Home",
   "tags": [
@@ -42146,6 +49619,18 @@
    "chores",
    "cleaning",
    "household"
+  ]
+ },
+ {
+  "name": "spray-can",
+  "category": "Design",
+  "tags": [
+   "spray paint",
+   "aerosol",
+   "graffiti",
+   "airbrush",
+   "paint",
+   "spray"
   ]
  },
  {
@@ -42166,6 +49651,54 @@
    "box",
    "checkbox",
    "stop"
+  ]
+ },
+ {
+  "name": "square-centerline-horizontal",
+  "category": "Design",
+  "tags": [
+   "centerline",
+   "horizontal guide",
+   "center",
+   "midline",
+   "square",
+   "dashed"
+  ]
+ },
+ {
+  "name": "square-centerline-vertical",
+  "category": "Design",
+  "tags": [
+   "centerline",
+   "vertical guide",
+   "center",
+   "midline",
+   "square",
+   "dashed"
+  ]
+ },
+ {
+  "name": "square-dashed-bottom",
+  "category": "Design",
+  "tags": [
+   "dashed bottom",
+   "border bottom",
+   "partial border",
+   "square",
+   "dashed",
+   "edge"
+  ]
+ },
+ {
+  "name": "square-dashed-top-solid",
+  "category": "Design",
+  "tags": [
+   "solid top",
+   "border top",
+   "partial border",
+   "square",
+   "dashed",
+   "edge"
   ]
  },
  {
@@ -42198,6 +49731,18 @@
   ]
  },
  {
+  "name": "square-nested",
+  "category": "Interface",
+  "tags": [
+   "nested square",
+   "square in square",
+   "frame",
+   "container",
+   "box",
+   "inset"
+  ]
+ },
+ {
   "name": "square-root",
   "category": "Symbols",
   "tags": [
@@ -42205,6 +49750,54 @@
    "radical",
    "math",
    "sqrt"
+  ]
+ },
+ {
+  "name": "square-root-brackets-curly",
+  "category": "Letters & Numbers",
+  "tags": [
+   "square root",
+   "curly braces",
+   "math",
+   "radical",
+   "formula",
+   "braces"
+  ]
+ },
+ {
+  "name": "square-root-brackets-round",
+  "category": "Letters & Numbers",
+  "tags": [
+   "square root",
+   "parentheses",
+   "math",
+   "radical",
+   "formula",
+   "round brackets"
+  ]
+ },
+ {
+  "name": "square-root-brackets-square",
+  "category": "Letters & Numbers",
+  "tags": [
+   "square root",
+   "square brackets",
+   "math",
+   "radical",
+   "formula",
+   "brackets"
+  ]
+ },
+ {
+  "name": "square-root-square",
+  "category": "Symbols",
+  "tags": [
+   "square root",
+   "radical",
+   "math",
+   "sqrt",
+   "square",
+   "formula"
   ]
  },
  {
@@ -42250,12 +49843,49 @@
   ]
  },
  {
+  "name": "squares-four-check",
+  "category": "Interface",
+  "tags": [
+   "grid check",
+   "squares",
+   "select all",
+   "apps",
+   "approved",
+   "check",
+   "dashboard"
+  ]
+ },
+ {
+  "name": "squares-four-gear",
+  "category": "Interface",
+  "tags": [
+   "dashboard settings",
+   "widgets",
+   "configure",
+   "layout",
+   "apps",
+   "gear"
+  ]
+ },
+ {
   "name": "squares-four-minus",
   "category": "Interface",
   "tags": [
    "remove grid",
    "delete cell",
    "grid"
+  ]
+ },
+ {
+  "name": "squares-four-pencil",
+  "category": "Interface",
+  "tags": [
+   "dashboard",
+   "edit",
+   "widgets",
+   "layout",
+   "customize",
+   "pencil"
   ]
  },
  {
@@ -42299,6 +49929,43 @@
   ]
  },
  {
+  "name": "squircle",
+  "category": "Design",
+  "tags": [
+   "squircle",
+   "superellipse",
+   "rounded square",
+   "shape",
+   "app icon",
+   "geometric"
+  ]
+ },
+ {
+  "name": "squircle-dashed",
+  "category": "Design",
+  "tags": [
+   "squircle",
+   "dashed",
+   "shape",
+   "placeholder",
+   "rounded square",
+   "frame"
+  ]
+ },
+ {
+  "name": "squirrel",
+  "category": "Animals",
+  "tags": [
+   "squirrel",
+   "rodent",
+   "wildlife",
+   "forest",
+   "nuts",
+   "woodland",
+   "autumn"
+  ]
+ },
+ {
   "name": "ssd",
   "category": "Devices",
   "tags": [
@@ -42317,6 +49984,18 @@
    "stacked",
    "levels",
    "depth"
+  ]
+ },
+ {
+  "name": "stack-lightning",
+  "category": "Science",
+  "tags": [
+   "energy storage",
+   "power stack",
+   "electricity",
+   "battery storage",
+   "stack",
+   "lightning"
   ]
  },
  {
@@ -42454,6 +50133,18 @@
   ]
  },
  {
+  "name": "stamp-sparkle",
+  "category": "Business",
+  "tags": [
+   "ai watermark",
+   "ai generated",
+   "content label",
+   "provenance",
+   "stamp",
+   "sparkle"
+  ]
+ },
+ {
   "name": "stapler",
   "category": "Objects",
   "tags": [
@@ -42479,6 +50170,18 @@
   "tags": [
    "crescent",
    "islam",
+   "star"
+  ]
+ },
+ {
+  "name": "star-circle",
+  "category": "Symbols",
+  "tags": [
+   "star circle",
+   "rating",
+   "favorite",
+   "emblem",
+   "badge",
    "star"
   ]
  },
@@ -42563,6 +50266,19 @@
   ]
  },
  {
+  "name": "steak",
+  "category": "Food",
+  "tags": [
+   "steak",
+   "meat",
+   "beef",
+   "grill",
+   "protein",
+   "butcher",
+   "bbq"
+  ]
+ },
+ {
   "name": "steering-wheel",
   "category": "Transport",
   "tags": [
@@ -42602,6 +50318,18 @@
    "debugger",
    "debug",
    "arrow"
+  ]
+ },
+ {
+  "name": "step-over",
+  "category": "Development",
+  "tags": [
+   "step over",
+   "debugger",
+   "debug",
+   "skip line",
+   "arrow",
+   "breakpoint"
   ]
  },
  {
@@ -42709,6 +50437,30 @@
   ]
  },
  {
+  "name": "storefront-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "accepts bitcoin",
+   "crypto store",
+   "btc",
+   "shop",
+   "storefront",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "storefront-gear",
+  "category": "Commerce",
+  "tags": [
+   "store settings",
+   "manage shop",
+   "store management",
+   "configure",
+   "storefront",
+   "gear"
+  ]
+ },
+ {
   "name": "storefront-plus",
   "category": "Commerce",
   "tags": [
@@ -42760,6 +50512,32 @@
   ]
  },
  {
+  "name": "stripe-logo",
+  "category": "Brands",
+  "tags": [
+   "stripe",
+   "payments",
+   "payment",
+   "fintech",
+   "checkout",
+   "s",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "stroke-center",
+  "category": "Design",
+  "tags": [
+   "stroke position",
+   "center stroke",
+   "stroke alignment",
+   "border",
+   "outline",
+   "vector"
+  ]
+ },
+ {
   "name": "stroke-curved",
   "category": "Design",
   "tags": [
@@ -42777,6 +50555,30 @@
    "pressure",
    "brush",
    "line"
+  ]
+ },
+ {
+  "name": "stroke-inside",
+  "category": "Design",
+  "tags": [
+   "stroke position",
+   "inner stroke",
+   "inside border",
+   "stroke alignment",
+   "inset",
+   "vector"
+  ]
+ },
+ {
+  "name": "stroke-outside",
+  "category": "Design",
+  "tags": [
+   "stroke position",
+   "outer stroke",
+   "outside border",
+   "stroke alignment",
+   "outset",
+   "vector"
   ]
  },
  {
@@ -42799,6 +50601,31 @@
   ]
  },
  {
+  "name": "stumbleupon-logo",
+  "category": "Brands",
+  "tags": [
+   "stumbleupon",
+   "discovery",
+   "social",
+   "recommend",
+   "share",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "stupa",
+  "category": "Maps",
+  "tags": [
+   "stupa",
+   "borobudur",
+   "buddhist",
+   "temple",
+   "landmark",
+   "indonesia"
+  ]
+ },
+ {
   "name": "stylus",
   "category": "Devices",
   "tags": [
@@ -42807,6 +50634,42 @@
    "digital pen",
    "pencil",
    "pen"
+  ]
+ },
+ {
+  "name": "stylus-bluetooth",
+  "category": "Devices",
+  "tags": [
+   "stylus",
+   "bluetooth",
+   "pen",
+   "pairing",
+   "wireless",
+   "tablet pen"
+  ]
+ },
+ {
+  "name": "stylus-usb",
+  "category": "Devices",
+  "tags": [
+   "stylus",
+   "usb",
+   "pen",
+   "charging",
+   "wired",
+   "cable"
+  ]
+ },
+ {
+  "name": "stylus-wifi",
+  "category": "Devices",
+  "tags": [
+   "stylus",
+   "wifi",
+   "pen",
+   "wireless",
+   "connected",
+   "smart pen"
   ]
  },
  {
@@ -42953,6 +50816,18 @@
   ]
  },
  {
+  "name": "suitcase-conveyor-belt",
+  "category": "Transport",
+  "tags": [
+   "baggage claim",
+   "luggage",
+   "airport",
+   "conveyor",
+   "arrivals",
+   "travel"
+  ]
+ },
+ {
   "name": "suitcase-rolling",
   "category": "Transport",
   "tags": [
@@ -43085,6 +50960,31 @@
   ]
  },
  {
+  "name": "super-mario",
+  "category": "Brands",
+  "tags": [
+   "super mario",
+   "mario",
+   "nintendo",
+   "game",
+   "cap",
+   "brand"
+  ]
+ },
+ {
+  "name": "super-mario-toad",
+  "category": "Brands",
+  "tags": [
+   "toad",
+   "super mario",
+   "nintendo",
+   "mushroom",
+   "character",
+   "game",
+   "brand"
+  ]
+ },
+ {
   "name": "superset-of",
   "category": "Symbols",
   "tags": [
@@ -43133,6 +51033,18 @@
   ]
  },
  {
+  "name": "sushi",
+  "category": "Food",
+  "tags": [
+   "sushi",
+   "nigiri",
+   "japanese",
+   "rice",
+   "fish",
+   "seafood"
+  ]
+ },
+ {
   "name": "suv",
   "category": "Transport",
   "tags": [
@@ -43150,6 +51062,18 @@
    "exchange",
    "switch",
    "flip"
+  ]
+ },
+ {
+  "name": "swap-sparkle",
+  "category": "Interface",
+  "tags": [
+   "ai swap",
+   "ai replace",
+   "smart replace",
+   "generative replace",
+   "swap",
+   "sparkle"
   ]
  },
  {
@@ -43181,6 +51105,30 @@
    "jumper",
    "knit",
    "clothing"
+  ]
+ },
+ {
+  "name": "swim-cap",
+  "category": "Sports",
+  "tags": [
+   "swim cap",
+   "swimming",
+   "pool",
+   "swimmer",
+   "cap",
+   "head"
+  ]
+ },
+ {
+  "name": "swim-fins",
+  "category": "Sports",
+  "tags": [
+   "swim fins",
+   "flippers",
+   "diving",
+   "snorkeling",
+   "swimming",
+   "scuba"
   ]
  },
  {
@@ -43305,6 +51253,20 @@
   ]
  },
  {
+  "name": "swords",
+  "category": "Sports",
+  "tags": [
+   "crossed swords",
+   "battle",
+   "combat",
+   "duel",
+   "fight",
+   "pvp",
+   "versus",
+   "fencing"
+  ]
+ },
+ {
   "name": "symmetry-horizontal",
   "category": "Design",
   "tags": [
@@ -43375,6 +51337,18 @@
    "disabled",
    "hidden",
    "shirt"
+  ]
+ },
+ {
+  "name": "t-shirt-sparkle",
+  "category": "Objects",
+  "tags": [
+   "ai fashion",
+   "virtual try-on",
+   "ai clothes",
+   "outfit",
+   "t-shirt",
+   "sparkle"
   ]
  },
  {
@@ -43459,6 +51433,18 @@
   ]
  },
  {
+  "name": "table-gear",
+  "category": "Editor",
+  "tags": [
+   "table settings",
+   "table properties",
+   "columns settings",
+   "configure",
+   "spreadsheet",
+   "data grid"
+  ]
+ },
+ {
   "name": "table-heart",
   "category": "Interface",
   "tags": [
@@ -43477,6 +51463,18 @@
    "subtract",
    "table",
    "grid"
+  ]
+ },
+ {
+  "name": "table-pencil",
+  "category": "Editor",
+  "tags": [
+   "edit table",
+   "table",
+   "spreadsheet",
+   "edit",
+   "data",
+   "pencil"
   ]
  },
  {
@@ -43571,6 +51569,18 @@
   ]
  },
  {
+  "name": "taco",
+  "category": "Food",
+  "tags": [
+   "taco",
+   "mexican",
+   "tortilla",
+   "fast food",
+   "street food",
+   "wrap"
+  ]
+ },
+ {
   "name": "tag",
   "category": "Commerce",
   "tags": [
@@ -43578,6 +51588,30 @@
    "price",
    "sale",
    "discount"
+  ]
+ },
+ {
+  "name": "tag-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "bitcoin price",
+   "crypto price",
+   "btc",
+   "label",
+   "tag",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "tag-fire",
+  "category": "Commerce",
+  "tags": [
+   "hot price",
+   "hot deal",
+   "trending deal",
+   "sale",
+   "tag",
+   "fire"
   ]
  },
  {
@@ -43643,6 +51677,19 @@
   ]
  },
  {
+  "name": "tailwind-css-logo",
+  "category": "Brands",
+  "tags": [
+   "tailwind",
+   "tailwind css",
+   "css",
+   "framework",
+   "web development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "taj-mahal",
   "category": "Maps",
   "tags": [
@@ -43663,6 +51710,18 @@
   ]
  },
  {
+  "name": "tally-mark",
+  "category": "Symbols",
+  "tags": [
+   "tally mark",
+   "one",
+   "single stroke",
+   "count",
+   "tally",
+   "score"
+  ]
+ },
+ {
   "name": "tally-marks",
   "category": "Symbols",
   "tags": [
@@ -43671,6 +51730,54 @@
    "five",
    "score",
    "tally"
+  ]
+ },
+ {
+  "name": "tally-marks-2",
+  "category": "Symbols",
+  "tags": [
+   "tally 2",
+   "two",
+   "count",
+   "score",
+   "tally marks",
+   "2"
+  ]
+ },
+ {
+  "name": "tally-marks-3",
+  "category": "Symbols",
+  "tags": [
+   "tally three",
+   "three",
+   "count",
+   "score",
+   "tally",
+   "marks"
+  ]
+ },
+ {
+  "name": "tally-marks-4",
+  "category": "Symbols",
+  "tags": [
+   "tally 4",
+   "four",
+   "count",
+   "score",
+   "tally marks",
+   "4"
+  ]
+ },
+ {
+  "name": "tangent",
+  "category": "Science",
+  "tags": [
+   "tangent",
+   "geometry",
+   "circle",
+   "line",
+   "math",
+   "touch point"
   ]
  },
  {
@@ -43690,6 +51797,18 @@
    "sleeveless",
    "singlet",
    "clothing"
+  ]
+ },
+ {
+  "name": "tanker-truck",
+  "category": "Transport",
+  "tags": [
+   "tanker truck",
+   "fuel",
+   "tanker",
+   "oil",
+   "transport",
+   "liquid"
   ]
  },
  {
@@ -43721,6 +51840,30 @@
    "bullseye",
    "arrow",
    "aim"
+  ]
+ },
+ {
+  "name": "target-bitcoin",
+  "category": "Business",
+  "tags": [
+   "crypto goal",
+   "bitcoin target",
+   "btc",
+   "price target",
+   "target",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "target-currency-dollar",
+  "category": "Business",
+  "tags": [
+   "revenue goal",
+   "financial target",
+   "profit",
+   "goal",
+   "money",
+   "dollar"
   ]
  },
  {
@@ -43763,6 +51906,19 @@
   ]
  },
  {
+  "name": "teamviewer-logo",
+  "category": "Brands",
+  "tags": [
+   "teamviewer",
+   "remote access",
+   "remote desktop",
+   "collaboration",
+   "support",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "teapot",
   "category": "Food",
   "tags": [
@@ -43771,6 +51927,19 @@
    "brew",
    "kettle",
    "pot"
+  ]
+ },
+ {
+  "name": "telegram-logo",
+  "category": "Brands",
+  "tags": [
+   "telegram",
+   "messaging",
+   "chat",
+   "paper plane",
+   "send",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -43804,6 +51973,18 @@
   ]
  },
  {
+  "name": "television-4k",
+  "category": "Media",
+  "tags": [
+   "4k tv",
+   "ultra hd",
+   "television",
+   "uhd",
+   "screen",
+   "4k"
+  ]
+ },
+ {
   "name": "television-retro",
   "category": "Devices",
   "tags": [
@@ -43823,6 +52004,18 @@
    "television",
    "slash",
    "disabled"
+  ]
+ },
+ {
+  "name": "television-wrench",
+  "category": "Devices",
+  "tags": [
+   "tv repair",
+   "television",
+   "fix",
+   "service",
+   "maintenance",
+   "wrench"
   ]
  },
  {
@@ -43925,6 +52118,32 @@
    "disabled",
    "hidden",
    "test"
+  ]
+ },
+ {
+  "name": "tether-logo",
+  "category": "Brands",
+  "tags": [
+   "tether",
+   "usdt",
+   "stablecoin",
+   "crypto",
+   "cryptocurrency",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "tetris",
+  "category": "Brands",
+  "tags": [
+   "tetris",
+   "game",
+   "tetromino",
+   "blocks",
+   "puzzle",
+   "arcade",
+   "brand"
   ]
  },
  {
@@ -44062,6 +52281,18 @@
   ]
  },
  {
+  "name": "text-c",
+  "category": "Letters & Numbers",
+  "tags": [
+   "c language",
+   "c programming",
+   "code",
+   "developer",
+   "programming language",
+   "c"
+  ]
+ },
+ {
   "name": "text-caption",
   "category": "Editor",
   "tags": [
@@ -44079,6 +52310,54 @@
    "change case",
    "text",
    "typography"
+  ]
+ },
+ {
+  "name": "text-centerline-left",
+  "category": "Editor",
+  "tags": [
+   "centerline",
+   "text guide",
+   "left",
+   "alignment",
+   "typography",
+   "text"
+  ]
+ },
+ {
+  "name": "text-centerline-middle",
+  "category": "Editor",
+  "tags": [
+   "centerline",
+   "text guide",
+   "middle",
+   "alignment",
+   "typography",
+   "text"
+  ]
+ },
+ {
+  "name": "text-centerline-right",
+  "category": "Editor",
+  "tags": [
+   "centerline",
+   "text guide",
+   "right",
+   "alignment",
+   "typography",
+   "text"
+  ]
+ },
+ {
+  "name": "text-centerline-top",
+  "category": "Editor",
+  "tags": [
+   "centerline",
+   "text guide",
+   "top",
+   "alignment",
+   "typography",
+   "text"
   ]
  },
  {
@@ -44104,6 +52383,18 @@
   ]
  },
  {
+  "name": "text-cpp",
+  "category": "Letters & Numbers",
+  "tags": [
+   "c++",
+   "cpp",
+   "programming language",
+   "code",
+   "developer",
+   "c plus plus"
+  ]
+ },
+ {
   "name": "text-direction-ltr",
   "category": "Editor",
   "tags": [
@@ -44123,6 +52414,18 @@
    "rtl",
    "paragraph",
    "writing"
+  ]
+ },
+ {
+  "name": "text-drop-cap",
+  "category": "Editor",
+  "tags": [
+   "drop cap",
+   "initial",
+   "first letter",
+   "typography",
+   "paragraph",
+   "text"
   ]
  },
  {
@@ -44245,6 +52548,30 @@
   ]
  },
  {
+  "name": "text-indent-first-line",
+  "category": "Editor",
+  "tags": [
+   "first line indent",
+   "indent",
+   "paragraph",
+   "format",
+   "text",
+   "tab"
+  ]
+ },
+ {
+  "name": "text-indent-hanging",
+  "category": "Editor",
+  "tags": [
+   "hanging indent",
+   "first line left",
+   "outdent",
+   "paragraph",
+   "format",
+   "text"
+  ]
+ },
+ {
   "name": "text-italic",
   "category": "Editor",
   "tags": [
@@ -44267,6 +52594,18 @@
   ]
  },
  {
+  "name": "text-js",
+  "category": "Letters & Numbers",
+  "tags": [
+   "javascript",
+   "js",
+   "programming language",
+   "code",
+   "developer",
+   "script"
+  ]
+ },
+ {
   "name": "text-kerning",
   "category": "Editor",
   "tags": [
@@ -44274,6 +52613,18 @@
    "letter spacing",
    "typography",
    "text"
+  ]
+ },
+ {
+  "name": "text-ligature",
+  "category": "Editor",
+  "tags": [
+   "ligature",
+   "typography",
+   "joined letters",
+   "font",
+   "text",
+   "glyph"
   ]
  },
  {
@@ -44298,6 +52649,18 @@
   ]
  },
  {
+  "name": "text-numero",
+  "category": "Editor",
+  "tags": [
+   "numero",
+   "number sign",
+   "no",
+   "ordinal",
+   "typography",
+   "text"
+  ]
+ },
+ {
   "name": "text-outdent",
   "category": "Editor",
   "tags": [
@@ -44319,6 +52682,18 @@
   ]
  },
  {
+  "name": "text-phonetic",
+  "category": "Editor",
+  "tags": [
+   "phonetic",
+   "pronunciation",
+   "ipa",
+   "phonetics",
+   "text",
+   "language"
+  ]
+ },
+ {
   "name": "text-plus",
   "category": "Editor",
   "tags": [
@@ -44327,6 +52702,18 @@
    "text box",
    "plus",
    "new text"
+  ]
+ },
+ {
+  "name": "text-re",
+  "category": "Letters & Numbers",
+  "tags": [
+   "re",
+   "reply",
+   "email reply",
+   "response",
+   "subject",
+   "mail"
   ]
  },
  {
@@ -44512,6 +52899,42 @@
   ]
  },
  {
+  "name": "text-variable",
+  "category": "Editor",
+  "tags": [
+   "variable font",
+   "font axis",
+   "weight",
+   "typography",
+   "font",
+   "text"
+  ]
+ },
+ {
+  "name": "text-vs",
+  "category": "Letters & Numbers",
+  "tags": [
+   "versus",
+   "vs",
+   "compare",
+   "battle",
+   "match",
+   "against"
+  ]
+ },
+ {
+  "name": "text-whole-word",
+  "category": "Editor",
+  "tags": [
+   "whole word",
+   "match word",
+   "find",
+   "search",
+   "text",
+   "word"
+  ]
+ },
+ {
   "name": "text-width",
   "category": "Editor",
   "tags": [
@@ -44592,6 +53015,18 @@
    "search bar",
    "input",
    "find"
+  ]
+ },
+ {
+  "name": "textbox-multiline",
+  "category": "Interface",
+  "tags": [
+   "textarea",
+   "long text",
+   "multiline",
+   "input",
+   "form field",
+   "paragraph"
   ]
  },
  {
@@ -44740,6 +53175,19 @@
   ]
  },
  {
+  "name": "threads-logo",
+  "category": "Brands",
+  "tags": [
+   "threads",
+   "meta",
+   "social media",
+   "social network",
+   "community",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "thumbs-down",
   "category": "Interface",
   "tags": [
@@ -44769,6 +53217,18 @@
    "agree",
    "good",
    "upvote"
+  ]
+ },
+ {
+  "name": "thumbs-up-down",
+  "category": "Interface",
+  "tags": [
+   "rate",
+   "feedback",
+   "like",
+   "dislike",
+   "vote",
+   "review"
   ]
  },
  {
@@ -44814,6 +53274,40 @@
   ]
  },
  {
+  "name": "ticket-check",
+  "category": "Commerce",
+  "tags": [
+   "valid ticket",
+   "confirmed booking",
+   "checked in",
+   "admission",
+   "check"
+  ]
+ },
+ {
+  "name": "ticket-minus",
+  "category": "Commerce",
+  "tags": [
+   "remove ticket",
+   "cancel ticket",
+   "ticket",
+   "event",
+   "minus",
+   "booking"
+  ]
+ },
+ {
+  "name": "ticket-plus",
+  "category": "Commerce",
+  "tags": [
+   "add ticket",
+   "buy ticket",
+   "booking",
+   "admission",
+   "plus"
+  ]
+ },
+ {
   "name": "ticket-slash",
   "category": "Commerce",
   "tags": [
@@ -44824,6 +53318,30 @@
   ]
  },
  {
+  "name": "ticket-star",
+  "category": "Commerce",
+  "tags": [
+   "favorite ticket",
+   "vip ticket",
+   "featured event",
+   "ticket",
+   "star",
+   "event"
+  ]
+ },
+ {
+  "name": "ticket-x",
+  "category": "Commerce",
+  "tags": [
+   "cancelled ticket",
+   "void",
+   "invalid",
+   "refund",
+   "admission",
+   "x"
+  ]
+ },
+ {
   "name": "tiger",
   "category": "Animals",
   "tags": [
@@ -44831,6 +53349,19 @@
    "big cat",
    "wild",
    "zodiac"
+  ]
+ },
+ {
+  "name": "tiktok-logo",
+  "category": "Brands",
+  "tags": [
+   "tiktok",
+   "bytedance",
+   "short video",
+   "music",
+   "social media",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -45071,6 +53602,18 @@
   ]
  },
  {
+  "name": "tongue",
+  "category": "People",
+  "tags": [
+   "tongue",
+   "mouth",
+   "taste",
+   "lick",
+   "body part",
+   "lips"
+  ]
+ },
+ {
   "name": "toolbox",
   "category": "Objects",
   "tags": [
@@ -45121,6 +53664,18 @@
    "teeth",
    "health",
    "mouth"
+  ]
+ },
+ {
+  "name": "tooth-braces",
+  "category": "Health",
+  "tags": [
+   "braces",
+   "orthodontics",
+   "teeth",
+   "dental",
+   "dentist",
+   "tooth"
   ]
  },
  {
@@ -45248,6 +53803,18 @@
   ]
  },
  {
+  "name": "torus",
+  "category": "Design",
+  "tags": [
+   "torus",
+   "donut",
+   "ring",
+   "3d",
+   "geometry",
+   "shape"
+  ]
+ },
+ {
   "name": "tote",
   "category": "Objects",
   "tags": [
@@ -45265,6 +53832,17 @@
    "laptop",
    "input",
    "laptop mouse"
+  ]
+ },
+ {
+  "name": "touchpad-slash",
+  "category": "Devices",
+  "tags": [
+   "touchpad off",
+   "trackpad disabled",
+   "touchpad",
+   "disabled",
+   "slash"
   ]
  },
  {
@@ -45295,6 +53873,18 @@
    "bathroom",
    "hanging",
    "dry"
+  ]
+ },
+ {
+  "name": "towers-twin",
+  "category": "Maps",
+  "tags": [
+   "twin towers",
+   "petronas",
+   "kuala lumpur",
+   "skyscraper",
+   "landmark",
+   "malaysia"
   ]
  },
  {
@@ -45347,6 +53937,18 @@
    "disabled",
    "hidden",
    "traffic"
+  ]
+ },
+ {
+  "name": "traffic-jam",
+  "category": "Transport",
+  "tags": [
+   "traffic jam",
+   "congestion",
+   "gridlock",
+   "cars",
+   "delay",
+   "queue"
   ]
  },
  {
@@ -45411,6 +54013,18 @@
   ]
  },
  {
+  "name": "train-track",
+  "category": "Transport",
+  "tags": [
+   "train track",
+   "railway",
+   "rails",
+   "sleepers",
+   "railroad",
+   "line"
+  ]
+ },
+ {
   "name": "tram",
   "category": "Transport",
   "tags": [
@@ -45419,6 +54033,18 @@
    "streetcar",
    "rail",
    "trolley"
+  ]
+ },
+ {
+  "name": "trampoline",
+  "category": "Sports",
+  "tags": [
+   "trampoline",
+   "bounce",
+   "jump",
+   "play",
+   "backyard",
+   "gym"
   ]
  },
  {
@@ -45482,6 +54108,26 @@
   ]
  },
  {
+  "name": "transition-left",
+  "category": "Design",
+  "tags": [
+   "transition",
+   "slide",
+   "animation",
+   "left"
+  ]
+ },
+ {
+  "name": "transition-right",
+  "category": "Design",
+  "tags": [
+   "transition",
+   "slide",
+   "animation",
+   "right"
+  ]
+ },
+ {
   "name": "transition-top",
   "category": "Design",
   "tags": [
@@ -45510,6 +54156,19 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "transmission-tower",
+  "category": "Science",
+  "tags": [
+   "power line",
+   "pylon",
+   "electricity",
+   "grid",
+   "transmission tower",
+   "utility pole",
+   "energy"
   ]
  },
  {
@@ -45738,6 +54397,43 @@
   ]
  },
  {
+  "name": "tree-structure-check",
+  "category": "Development",
+  "tags": [
+   "structure valid",
+   "hierarchy check",
+   "approved",
+   "org chart",
+   "tree",
+   "check"
+  ]
+ },
+ {
+  "name": "tree-structure-clock",
+  "category": "Business",
+  "tags": [
+   "time management",
+   "planning",
+   "organization",
+   "workflow",
+   "hierarchy",
+   "schedule",
+   "team"
+  ]
+ },
+ {
+  "name": "tree-structure-plus",
+  "category": "Development",
+  "tags": [
+   "add structure",
+   "add branch",
+   "hierarchy",
+   "org chart",
+   "tree",
+   "plus"
+  ]
+ },
+ {
   "name": "tree-structure-slash",
   "category": "Development",
   "tags": [
@@ -45745,6 +54441,18 @@
    "off",
    "disabled",
    "hidden",
+   "tree"
+  ]
+ },
+ {
+  "name": "tree-structure-x",
+  "category": "Development",
+  "tags": [
+   "subnode",
+   "delete node",
+   "hierarchy",
+   "structure",
+   "remove",
    "tree"
   ]
  },
@@ -45765,6 +54473,19 @@
    "forest",
    "woods",
    "nature"
+  ]
+ },
+ {
+  "name": "trello-logo",
+  "category": "Brands",
+  "tags": [
+   "trello",
+   "kanban",
+   "board",
+   "project management",
+   "atlassian",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -45856,6 +54577,18 @@
   ]
  },
  {
+  "name": "triangle-right-angle",
+  "category": "Design",
+  "tags": [
+   "right triangle",
+   "triangle",
+   "right angle",
+   "geometry",
+   "math",
+   "shape"
+  ]
+ },
+ {
   "name": "triangle-slash",
   "category": "Design",
   "tags": [
@@ -45883,6 +54616,18 @@
    "poseidon",
    "spear",
    "fork"
+  ]
+ },
+ {
+  "name": "tripod",
+  "category": "Media",
+  "tags": [
+   "tripod",
+   "camera stand",
+   "photography",
+   "stand",
+   "video",
+   "filming"
   ]
  },
  {
@@ -45948,6 +54693,30 @@
   ]
  },
  {
+  "name": "truck-dump",
+  "category": "Transport",
+  "tags": [
+   "dump truck",
+   "tipper",
+   "construction",
+   "truck",
+   "dirt",
+   "haul"
+  ]
+ },
+ {
+  "name": "truck-electric",
+  "category": "Transport",
+  "tags": [
+   "electric truck",
+   "ev",
+   "truck",
+   "lightning",
+   "delivery",
+   "green"
+  ]
+ },
+ {
   "name": "truck-flatbed",
   "category": "Transport",
   "tags": [
@@ -46004,6 +54773,19 @@
    "wave",
    "disaster",
    "flood"
+  ]
+ },
+ {
+  "name": "tumblr-logo",
+  "category": "Brands",
+  "tags": [
+   "tumblr",
+   "blogging",
+   "social media",
+   "reblog",
+   "t",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -46078,6 +54860,19 @@
   ]
  },
  {
+  "name": "turtle",
+  "category": "Animals",
+  "tags": [
+   "turtle",
+   "tortoise",
+   "reptile",
+   "slow",
+   "shell",
+   "wildlife",
+   "pet"
+  ]
+ },
+ {
   "name": "tv-tower",
   "category": "Maps",
   "tags": [
@@ -46095,6 +54890,32 @@
    "branch",
    "stick",
    "wood"
+  ]
+ },
+ {
+  "name": "twitch-logo",
+  "category": "Brands",
+  "tags": [
+   "twitch",
+   "streaming",
+   "live stream",
+   "gaming",
+   "broadcast",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "twitter-logo",
+  "category": "Brands",
+  "tags": [
+   "twitter",
+   "bird",
+   "tweet",
+   "social media",
+   "social network",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -46136,6 +54957,19 @@
    "turn around",
    "reverse",
    "direction"
+  ]
+ },
+ {
+  "name": "uber-logo",
+  "category": "Brands",
+  "tags": [
+   "uber",
+   "ride share",
+   "taxi",
+   "transportation",
+   "delivery",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -46253,6 +55087,19 @@
   ]
  },
  {
+  "name": "unsplash-logo",
+  "category": "Brands",
+  "tags": [
+   "unsplash",
+   "photo",
+   "image",
+   "stock photo",
+   "photography",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "upload",
   "category": "Files",
   "tags": [
@@ -46273,6 +55120,19 @@
   ]
  },
  {
+  "name": "upwork-logo",
+  "category": "Brands",
+  "tags": [
+   "upwork",
+   "freelance",
+   "marketplace",
+   "gig work",
+   "jobs",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "usb",
   "category": "Devices",
   "tags": [
@@ -46280,6 +55140,18 @@
    "cable",
    "connector",
    "flash drive"
+  ]
+ },
+ {
+  "name": "usb-bug",
+  "category": "Security",
+  "tags": [
+   "usb malware",
+   "infected usb",
+   "bug",
+   "virus",
+   "usb",
+   "threat"
   ]
  },
  {
@@ -46291,6 +55163,30 @@
    "usb stick",
    "storage",
    "usb drive"
+  ]
+ },
+ {
+  "name": "usb-drive-bitcoin",
+  "category": "Devices",
+  "tags": [
+   "hardware wallet",
+   "cold storage",
+   "crypto usb",
+   "btc",
+   "usb drive",
+   "bitcoin"
+  ]
+ },
+ {
+  "name": "usb-key",
+  "category": "Security",
+  "tags": [
+   "security key",
+   "hardware key",
+   "usb key",
+   "passkey",
+   "2fa",
+   "authentication"
   ]
  },
  {
@@ -46314,6 +55210,29 @@
   ]
  },
  {
+  "name": "usb-slash",
+  "category": "Devices",
+  "tags": [
+   "usb disconnected",
+   "not connected",
+   "usb off",
+   "offline",
+   "slash"
+  ]
+ },
+ {
+  "name": "usb-warning",
+  "category": "Devices",
+  "tags": [
+   "usb error",
+   "usb warning",
+   "device error",
+   "connection problem",
+   "usb",
+   "warning"
+  ]
+ },
+ {
   "name": "user",
   "category": "People",
   "tags": [
@@ -46321,6 +55240,18 @@
    "account",
    "profile",
    "avatar"
+  ]
+ },
+ {
+  "name": "user-arrow-clockwise",
+  "category": "People",
+  "tags": [
+   "account recovery",
+   "restore account",
+   "reset user",
+   "refresh",
+   "user",
+   "recover"
   ]
  },
  {
@@ -46363,6 +55294,18 @@
    "friend",
    "confirmed",
    "member"
+  ]
+ },
+ {
+  "name": "user-chef",
+  "category": "People",
+  "tags": [
+   "chef",
+   "cook",
+   "culinary",
+   "kitchen staff",
+   "restaurant",
+   "person"
   ]
  },
  {
@@ -46523,6 +55466,30 @@
   ]
  },
  {
+  "name": "user-hijab",
+  "category": "People",
+  "tags": [
+   "hijab",
+   "headscarf",
+   "woman",
+   "avatar",
+   "muslim",
+   "profile"
+  ]
+ },
+ {
+  "name": "user-kufi",
+  "category": "People",
+  "tags": [
+   "muslim",
+   "man",
+   "kufi",
+   "cap",
+   "avatar",
+   "profile"
+  ]
+ },
+ {
   "name": "user-lightning",
   "category": "People",
   "tags": [
@@ -46602,6 +55569,18 @@
    "musician",
    "singer",
    "user"
+  ]
+ },
+ {
+  "name": "user-niqab",
+  "category": "People",
+  "tags": [
+   "niqab",
+   "veil",
+   "woman",
+   "avatar",
+   "muslim",
+   "profile"
   ]
  },
  {
@@ -46717,6 +55696,18 @@
   ]
  },
  {
+  "name": "user-sparkle",
+  "category": "People",
+  "tags": [
+   "ai user",
+   "ai avatar",
+   "ai profile",
+   "ai assistant",
+   "generated profile",
+   "sparkle"
+  ]
+ },
+ {
   "name": "user-square",
   "category": "People",
   "tags": [
@@ -46801,6 +55792,30 @@
   ]
  },
  {
+  "name": "users-cloche",
+  "category": "People",
+  "tags": [
+   "waiters",
+   "serving staff",
+   "catering team",
+   "restaurant",
+   "service",
+   "users"
+  ]
+ },
+ {
+  "name": "users-currency-dollar",
+  "category": "People",
+  "tags": [
+   "crowdfunding",
+   "fundraise",
+   "community",
+   "investment",
+   "group",
+   "funding"
+  ]
+ },
+ {
   "name": "users-four",
   "category": "People",
   "tags": [
@@ -46839,6 +55854,19 @@
    "no users",
    "disabled",
    "group"
+  ]
+ },
+ {
+  "name": "users-sparkle",
+  "category": "People",
+  "tags": [
+   "ai co-editing",
+   "collaboration",
+   "human and ai",
+   "co-pilot",
+   "team",
+   "users",
+   "sparkle"
   ]
  },
  {
@@ -46965,6 +55993,19 @@
   ]
  },
  {
+  "name": "vase",
+  "category": "Home",
+  "tags": [
+   "vase",
+   "flower vase",
+   "pottery",
+   "decor",
+   "jar",
+   "ceramic",
+   "urn"
+  ]
+ },
+ {
   "name": "vault",
   "category": "Commerce",
   "tags": [
@@ -46973,6 +56014,18 @@
    "bank",
    "storage",
    "lock"
+  ]
+ },
+ {
+  "name": "vault-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "crypto vault",
+   "cold storage",
+   "secure bitcoin",
+   "btc",
+   "safe",
+   "bitcoin"
   ]
  },
  {
@@ -47085,6 +56138,20 @@
   ]
  },
  {
+  "name": "viber-logo",
+  "category": "Brands",
+  "tags": [
+   "viber",
+   "messaging",
+   "chat",
+   "calls",
+   "messenger",
+   "phone",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "vibrate",
   "category": "Devices",
   "tags": [
@@ -47093,6 +56160,18 @@
    "phone",
    "shake",
    "vibration"
+  ]
+ },
+ {
+  "name": "vibrate-slash",
+  "category": "Devices",
+  "tags": [
+   "vibration off",
+   "silent",
+   "no vibrate",
+   "mute",
+   "phone",
+   "notification"
   ]
  },
  {
@@ -47149,12 +56228,37 @@
   ]
  },
  {
+  "name": "video-camera-sparkle",
+  "category": "Media",
+  "tags": [
+   "ai video",
+   "video generation",
+   "smart video",
+   "camera",
+   "recording",
+   "sparkle"
+  ]
+ },
+ {
   "name": "video-camera-x",
   "category": "Media",
   "tags": [
    "delete video",
    "recording error",
    "camera error"
+  ]
+ },
+ {
+  "name": "video-cassette",
+  "category": "Media",
+  "tags": [
+   "videotape",
+   "video cassette",
+   "vhs",
+   "retro",
+   "tape",
+   "recording",
+   "movie"
   ]
  },
  {
@@ -47288,6 +56392,32 @@
   ]
  },
  {
+  "name": "vimeo-logo",
+  "category": "Brands",
+  "tags": [
+   "vimeo",
+   "video",
+   "video hosting",
+   "streaming",
+   "v",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "vine-logo",
+  "category": "Brands",
+  "tags": [
+   "vine",
+   "video app",
+   "short videos",
+   "social media",
+   "v",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "vinyl-record",
   "category": "Media",
   "tags": [
@@ -47336,6 +56466,31 @@
    "ar visor",
    "headset",
    "smart glasses"
+  ]
+ },
+ {
+  "name": "visual-studio-code-logo",
+  "category": "Brands",
+  "tags": [
+   "vscode",
+   "visual studio code",
+   "code editor",
+   "ide",
+   "microsoft",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "vk-logo",
+  "category": "Brands",
+  "tags": [
+   "vk",
+   "vkontakte",
+   "social network",
+   "social media",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -47453,6 +56608,20 @@
   ]
  },
  {
+  "name": "w3schools-logo",
+  "category": "Brands",
+  "tags": [
+   "w3schools",
+   "web tutorials",
+   "learning",
+   "html",
+   "coding",
+   "education",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "walker",
   "category": "Health",
   "tags": [
@@ -47505,6 +56674,54 @@
   ]
  },
  {
+  "name": "wallet-bitcoin",
+  "category": "Commerce",
+  "tags": [
+   "crypto wallet",
+   "bitcoin",
+   "btc",
+   "cryptocurrency",
+   "wallet",
+   "payment"
+  ]
+ },
+ {
+  "name": "wallet-check",
+  "category": "Commerce",
+  "tags": [
+   "payment complete",
+   "verified",
+   "approved",
+   "success",
+   "wallet",
+   "check"
+  ]
+ },
+ {
+  "name": "wallet-minus",
+  "category": "Commerce",
+  "tags": [
+   "remove wallet",
+   "withdraw",
+   "delete",
+   "subtract",
+   "wallet",
+   "minus"
+  ]
+ },
+ {
+  "name": "wallet-plus",
+  "category": "Commerce",
+  "tags": [
+   "add wallet",
+   "add funds",
+   "top up",
+   "deposit",
+   "wallet",
+   "plus"
+  ]
+ },
+ {
   "name": "wallet-slash",
   "category": "Commerce",
   "tags": [
@@ -47532,6 +56749,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "wanted-poster",
+  "category": "Security",
+  "tags": [
+   "wanted",
+   "fugitive",
+   "poster",
+   "criminal",
+   "law enforcement",
+   "bounty"
   ]
  },
  {
@@ -47868,6 +57097,18 @@
   ]
  },
  {
+  "name": "watch-sparkle",
+  "category": "Devices",
+  "tags": [
+   "ai smartwatch",
+   "smart watch",
+   "wearable ai",
+   "watch",
+   "wearable",
+   "sparkle"
+  ]
+ },
+ {
   "name": "watch-star",
   "category": "Devices",
   "tags": [
@@ -47964,6 +57205,30 @@
   ]
  },
  {
+  "name": "water-pump",
+  "category": "Home",
+  "tags": [
+   "water pump",
+   "hand pump",
+   "well",
+   "village pump",
+   "water",
+   "farm"
+  ]
+ },
+ {
+  "name": "water-tank",
+  "category": "Home",
+  "tags": [
+   "water tank",
+   "storage tank",
+   "poly tank",
+   "cistern",
+   "reservoir",
+   "water"
+  ]
+ },
+ {
   "name": "watering-can",
   "category": "Nature",
   "tags": [
@@ -47980,6 +57245,20 @@
    "fruit",
    "summer",
    "slice"
+  ]
+ },
+ {
+  "name": "wattpad-logo",
+  "category": "Brands",
+  "tags": [
+   "wattpad",
+   "reading",
+   "writing",
+   "stories",
+   "books",
+   "community",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -48045,6 +57324,18 @@
   ]
  },
  {
+  "name": "waveform-sparkle",
+  "category": "Media",
+  "tags": [
+   "ai audio",
+   "audio generation",
+   "voice ai",
+   "sound",
+   "waveform",
+   "sparkle"
+  ]
+ },
+ {
   "name": "waves",
   "category": "Weather",
   "tags": [
@@ -48056,6 +57347,30 @@
   ]
  },
  {
+  "name": "waves-arrow-down",
+  "category": "Weather",
+  "tags": [
+   "low tide",
+   "tide falling",
+   "water level",
+   "sea",
+   "waves",
+   "drop"
+  ]
+ },
+ {
+  "name": "waves-arrow-up",
+  "category": "Weather",
+  "tags": [
+   "high tide",
+   "tide rising",
+   "water level",
+   "sea",
+   "waves",
+   "rise"
+  ]
+ },
+ {
   "name": "waves-slash",
   "category": "Nature",
   "tags": [
@@ -48063,6 +57378,20 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "waze-logo",
+  "category": "Brands",
+  "tags": [
+   "waze",
+   "navigation",
+   "gps",
+   "map",
+   "directions",
+   "traffic",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -48087,6 +57416,19 @@
   ]
  },
  {
+  "name": "webflow-logo",
+  "category": "Brands",
+  "tags": [
+   "webflow",
+   "website builder",
+   "web design",
+   "cms",
+   "no code",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "webhook",
   "category": "Development",
   "tags": [
@@ -48107,6 +57449,20 @@
   ]
  },
  {
+  "name": "wechat-logo",
+  "category": "Brands",
+  "tags": [
+   "wechat",
+   "messaging",
+   "chat",
+   "messenger",
+   "social",
+   "tencent",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "weight",
   "category": "Sports",
   "tags": [
@@ -48117,6 +57473,18 @@
   ]
  },
  {
+  "name": "weight-tilde",
+  "category": "Health",
+  "tags": [
+   "weight change",
+   "fluctuation",
+   "approximate",
+   "variation",
+   "weight",
+   "measurement"
+  ]
+ },
+ {
   "name": "whale",
   "category": "Animals",
   "tags": [
@@ -48124,6 +57492,33 @@
    "ocean",
    "sea",
    "mammal"
+  ]
+ },
+ {
+  "name": "whatsapp-business-logo",
+  "category": "Brands",
+  "tags": [
+   "whatsapp",
+   "whatsapp business",
+   "business",
+   "messaging",
+   "chat",
+   "b",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "whatsapp-logo",
+  "category": "Brands",
+  "tags": [
+   "whatsapp",
+   "messaging",
+   "chat",
+   "phone",
+   "call",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -48251,6 +57646,30 @@
   ]
  },
  {
+  "name": "wifi-check",
+  "category": "Devices",
+  "tags": [
+   "wifi connected",
+   "connected",
+   "online",
+   "network",
+   "wifi",
+   "check"
+  ]
+ },
+ {
+  "name": "wifi-gear",
+  "category": "Devices",
+  "tags": [
+   "network settings",
+   "wifi settings",
+   "wireless",
+   "configure",
+   "gear",
+   "wifi"
+  ]
+ },
+ {
   "name": "wifi-high",
   "category": "Devices",
   "tags": [
@@ -48273,6 +57692,18 @@
   ]
  },
  {
+  "name": "wifi-lock-open",
+  "category": "Security",
+  "tags": [
+   "open wifi",
+   "public network",
+   "unlocked",
+   "wifi",
+   "no password",
+   "open lock"
+  ]
+ },
+ {
   "name": "wifi-low",
   "category": "Devices",
   "tags": [
@@ -48281,6 +57712,18 @@
    "wireless",
    "weak signal",
    "wifi 1 bar"
+  ]
+ },
+ {
+  "name": "wifi-map-pin",
+  "category": "Maps",
+  "tags": [
+   "wifi location",
+   "hotspot",
+   "wifi",
+   "location",
+   "map pin",
+   "nearby"
   ]
  },
  {
@@ -48326,6 +57769,18 @@
   ]
  },
  {
+  "name": "wifi-sync",
+  "category": "Devices",
+  "tags": [
+   "wifi",
+   "sync",
+   "reconnect",
+   "refresh",
+   "wireless",
+   "network"
+  ]
+ },
+ {
   "name": "wifi-warning",
   "category": "Devices",
   "tags": [
@@ -48348,6 +57803,20 @@
   ]
  },
  {
+  "name": "wikipedia-logo",
+  "category": "Brands",
+  "tags": [
+   "wikipedia",
+   "wiki",
+   "encyclopedia",
+   "knowledge",
+   "reference",
+   "w",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "wind",
   "category": "Weather",
   "tags": [
@@ -48356,6 +57825,18 @@
    "weather",
    "blow",
    "windy"
+  ]
+ },
+ {
+  "name": "wind-arrow-down",
+  "category": "Weather",
+  "tags": [
+   "wind direction",
+   "downdraft",
+   "wind down",
+   "weather",
+   "wind",
+   "arrow"
   ]
  },
  {
@@ -48430,6 +57911,33 @@
   ]
  },
  {
+  "name": "windows-classic-logo",
+  "category": "Brands",
+  "tags": [
+   "windows",
+   "microsoft",
+   "operating system",
+   "classic",
+   "retro",
+   "flag",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "windows-logo",
+  "category": "Brands",
+  "tags": [
+   "windows",
+   "microsoft",
+   "operating system",
+   "os",
+   "start menu",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "windshield-washer",
   "category": "Transport",
   "tags": [
@@ -48481,6 +57989,19 @@
   ]
  },
  {
+  "name": "wise-logo",
+  "category": "Brands",
+  "tags": [
+   "wise",
+   "money transfer",
+   "payment",
+   "currency exchange",
+   "fintech",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "wizard-hat",
   "category": "Objects",
   "tags": [
@@ -48521,6 +58042,20 @@
   ]
  },
  {
+  "name": "wordpress-logo",
+  "category": "Brands",
+  "tags": [
+   "wordpress",
+   "cms",
+   "blog",
+   "website",
+   "publishing",
+   "w",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "workbench",
   "category": "Objects",
   "tags": [
@@ -48537,6 +58072,32 @@
    "workstation",
    "pc",
    "desktop tower"
+  ]
+ },
+ {
+  "name": "worm",
+  "category": "Animals",
+  "tags": [
+   "worm",
+   "earthworm",
+   "caterpillar",
+   "bait",
+   "garden",
+   "larva"
+  ]
+ },
+ {
+  "name": "wps-office-logo",
+  "category": "Brands",
+  "tags": [
+   "wps office",
+   "wps",
+   "office",
+   "productivity",
+   "word processor",
+   "suite",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -48631,6 +58192,18 @@
   ]
  },
  {
+  "name": "x-logo",
+  "category": "Brands",
+  "tags": [
+   "x",
+   "twitter",
+   "social media",
+   "social network",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "x-octagon",
   "category": "Interface",
   "tags": [
@@ -48661,6 +58234,19 @@
   ]
  },
  {
+  "name": "xing-logo",
+  "category": "Brands",
+  "tags": [
+   "xing",
+   "professional network",
+   "career",
+   "job",
+   "business",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "yarn",
   "category": "Objects",
   "tags": [
@@ -48668,6 +58254,19 @@
    "knitting",
    "wool",
    "craft"
+  ]
+ },
+ {
+  "name": "yelp-logo",
+  "category": "Brands",
+  "tags": [
+   "yelp",
+   "reviews",
+   "rating",
+   "restaurant",
+   "local business",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -48688,6 +58287,31 @@
    "meditation",
    "pose",
    "wellness"
+  ]
+ },
+ {
+  "name": "yogurt",
+  "category": "Food",
+  "tags": [
+   "yogurt",
+   "dairy",
+   "cup",
+   "dessert",
+   "breakfast",
+   "spoon"
+  ]
+ },
+ {
+  "name": "youtube-logo",
+  "category": "Brands",
+  "tags": [
+   "youtube",
+   "video",
+   "streaming",
+   "play",
+   "media",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -48791,6 +58415,18 @@
   ]
  },
  {
+  "name": "zodiac-ophiuchus",
+  "category": "Symbols",
+  "tags": [
+   "ophiuchus",
+   "zodiac",
+   "astrology",
+   "serpent bearer",
+   "horoscope",
+   "sign"
+  ]
+ },
+ {
   "name": "zodiac-pisces",
   "category": "Symbols",
   "tags": [
@@ -48858,6 +58494,19 @@
    "zoom out",
    "selection",
    "magnify"
+  ]
+ },
+ {
+  "name": "zoom-logo",
+  "category": "Brands",
+  "tags": [
+   "zoom",
+   "video call",
+   "video meeting",
+   "conference",
+   "camera",
+   "logo",
+   "brand"
   ]
  },
  {

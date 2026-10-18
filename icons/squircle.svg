@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="squircle,superellipse,rounded square,shape,app icon,geometric">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 40 C200 40 216 56 216 128 C216 200 200 216 128 216 C56 216 40 200 40 128 C40 56 56 40 128 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 C200 40 216 56 216 128 C216 200 200 216 128 216 C56 216 40 200 40 128 C40 56 56 40 128 40 Z"/>
+  </g>
+</svg>

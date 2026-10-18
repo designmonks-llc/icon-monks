@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="fingerprint scan,touch id,biometric scan,authentication,scanning,security">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V48 A16 16 0 0 1 48 32 H88"/>
+    <path d="M224 88 V48 A16 16 0 0 0 208 32 H168"/>
+    <path d="M224 168 V208 A16 16 0 0 1 208 224 H168"/>
+    <path d="M32 168 V208 A16 16 0 0 0 48 224 H88"/>
+    <path d="M72 184 V140 A56 56 0 0 1 184 140 V164"/>
+    <path d="M100 172 V140 A28 28 0 0 1 156 140 V192"/>
+    <path d="M128 140 V200"/>
+  </g>
+</svg>

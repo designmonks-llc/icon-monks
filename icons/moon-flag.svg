@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="moon landing,lunar,flag,space,exploration,astronaut">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 A100 100 0 0 1 224 216 Z"/>
+    <path d="M128 48 H192 V96 H128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 A100 100 0 0 1 224 216 Z"/>
+    <path d="M128 144 L128 40"/>
+    <path d="M128 48 H192 V96 H128"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="84" cy="188" r="14"/>
+    <circle cx="164" cy="184" r="14"/>
+  </g>
+</svg>

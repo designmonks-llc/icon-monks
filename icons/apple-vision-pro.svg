@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="apple vision pro,apple,vr headset,spatial computing,mixed reality,headset,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 80 H184 A40 40 0 0 1 224 120 V136 A40 40 0 0 1 184 176 H164 C150 176 146 148 128 148 C110 148 106 176 92 176 H72 A40 40 0 0 1 32 136 V120 A40 40 0 0 1 72 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 80 H184 A40 40 0 0 1 224 120 V136 A40 40 0 0 1 184 176 H164 C150 176 146 148 128 148 C110 148 106 176 92 176 H72 A40 40 0 0 1 32 136 V120 A40 40 0 0 1 72 80 Z"/>
+  </g>
+</svg>

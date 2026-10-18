@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="sine,sin,trigonometry,math,function,formula">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 123 A29.7 22 0 1 0 62 156 A29.7 22 0 1 1 36 189"/>
+    <path d="M128 112 V200"/>
+    <path d="M164 112 V200 M164 140 A28 28 0 0 1 220 140 V200"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="72" r="16"/>
+  </g>
+</svg>

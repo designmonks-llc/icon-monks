@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="bow tie,bowtie,formal,tuxedo,suit,party">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 112 L68 87 A16 16 0 0 0 44 101 L44 155 A16 16 0 0 0 68 169 L108 144 Z"/>
+    <path d="M148 112 L188 87 A16 16 0 0 1 212 101 L212 155 A16 16 0 0 1 188 169 L148 144 Z"/>
+    <rect x="108" y="100" width="40" height="56" rx="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 112 L68 87 A16 16 0 0 0 44 101 L44 155 A16 16 0 0 0 68 169 L108 144"/>
+    <path d="M148 112 L188 87 A16 16 0 0 1 212 101 L212 155 A16 16 0 0 1 188 169 L148 144"/>
+    <rect x="108" y="100" width="40" height="56" rx="12"/>
+  </g>
+</svg>

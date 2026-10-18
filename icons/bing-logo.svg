@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="bing,microsoft,search engine,web search,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 32 L104 44 V172 L160 140 L128 124 L112 88 L200 120 V160 L104 216 L64 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 32 L104 44 V172 L160 140 L128 124 L112 88 L200 120 V160 L104 216 L64 192 Z"/>
+  </g>
+</svg>

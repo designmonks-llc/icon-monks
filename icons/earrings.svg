@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="earrings,jewelry,accessory,fashion,drop earrings,pair">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 128 C68 140 44 160 44 184 A32 32 0 0 0 76 216 A32 32 0 0 0 108 184 C108 160 84 140 76 128 Z"/>
+    <path d="M172 128 C164 140 140 160 140 184 A32 32 0 0 0 172 216 A32 32 0 0 0 204 184 C204 160 180 140 172 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 128 C68 140 44 160 44 184 A32 32 0 0 0 76 216 A32 32 0 0 0 108 184 C108 160 84 140 76 128 Z"/>
+    <path d="M76 128 V64 A16 16 0 0 1 92 48 A16 16 0 0 1 108 64 V76"/>
+    <path d="M172 128 C164 140 140 160 140 184 A32 32 0 0 0 172 216 A32 32 0 0 0 204 184 C204 160 180 140 172 128 Z"/>
+    <path d="M172 128 V64 A16 16 0 0 1 188 48 A16 16 0 0 1 204 64 V76"/>
+  </g>
+</svg>

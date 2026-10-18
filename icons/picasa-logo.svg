@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="picasa,google,photo gallery,photos,pictures,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="32"/>
+    <path d="M128 96 L221 103"/>
+    <path d="M156 112 L196 196"/>
+    <path d="M156 144 L103 221"/>
+    <path d="M128 160 L35 153"/>
+    <path d="M100 144 L60 60"/>
+    <path d="M100 112 L153 35"/>
+  </g>
+</svg>

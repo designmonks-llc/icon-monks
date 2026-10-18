@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="burj al arab,dubai,hotel,landmark,sail,tower">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 40 C152 72 192 144 192 224 H80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 32 V224"/>
+    <path d="M80 40 C152 72 192 144 192 224"/>
+    <path d="M48 224 H208"/>
+    <circle cx="52" cy="80" r="20"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 104 C116 128 136 168 136 224"/>
+  </g>
+</svg>

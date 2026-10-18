@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="patient,person,medical,healthcare,clinic,hospital,care">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="88" r="44"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="88" r="44"/>
+    <path d="M48 216 C48 168 84 148 128 148 C172 148 208 168 208 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 168 V204"/>
+    <path d="M110 186 H146"/>
+  </g>
+</svg>

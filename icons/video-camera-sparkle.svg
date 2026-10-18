@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="ai video,video generation,smart video,camera,recording,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M126 168 L46 168 A14 14 0 0 1 32 154 L32 70 A14 14 0 0 1 46 56 L154 56 A14 14 0 0 1 168 70 L168 126 A60 60 0 0 0 126 168 Z"/>
+    <path d="M168 126 L168 96 L224 68 L224 139 A60 60 0 0 0 168 126 Z"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 168 L46 168 A14 14 0 0 1 32 154 L32 70 A14 14 0 0 1 46 56 L154 56 A14 14 0 0 1 168 70 L168 126"/>
+    <path d="M168 126 L168 96 L224 68 L224 139"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+</svg>

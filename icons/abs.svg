@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="abs,six pack,core,anatomy,stomach,fitness">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 32 C60 72 84 100 84 144 C84 176 76 200 68 224 H188 C180 200 172 176 172 144 C172 100 196 72 208 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 32 C60 72 84 100 84 144 C84 176 76 200 68 224"/>
+    <path d="M208 32 C196 72 172 100 172 144 C172 176 180 200 188 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 64 C92 76 104 84 118 84"/>
+    <path d="M172 64 C164 76 152 84 138 84"/>
+    <path d="M128 104 L128 200"/>
+    <path d="M104 120 L152 120"/>
+    <path d="M108 156 L148 156"/>
+    <path d="M108 192 L148 192"/>
+  </g>
+</svg>

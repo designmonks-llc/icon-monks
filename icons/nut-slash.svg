@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="nut free,no nuts,allergen,allergy,dietary,nut">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C184 32 208 80 208 132 C208 188 172 224 128 224 C84 224 48 188 48 132 C48 80 72 32 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C184 32 208 80 208 132 C208 188 172 224 128 224 C84 224 48 188 48 132 C48 80 72 32 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L128 224"/>
+    <path d="M92 76 C88.18 81.73 87 86.96 87 92 C87 103.01 93 112.99 93 124 C93 129.04 91.82 134.27 88 140 C85.51 144.14 85 148.4 85 152 C85 163.19 94 172.42 94 184 C94 186.67 93.19 189.03 92 192"/>
+    <path d="M164 76 C167.82 81.73 169 86.96 169 92 C169 103.01 163 112.99 163 124 C163 129.04 164.18 134.27 168 140 C170.49 144.14 171 148.4 171 152 C171 163.19 162 172.42 162 184 C162 186.67 162.81 189.03 164 192"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

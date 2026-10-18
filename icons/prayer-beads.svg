@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tasbih,prayer beads,misbaha,rosary,beads,counting">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="188" r="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="188" r="16"/>
+    <path d="M112 224 L128 204 L144 224"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="48" r="16"/>
+    <circle cx="166" cy="60" r="16"/>
+    <circle cx="189" cy="92" r="16"/>
+    <circle cx="189" cy="132" r="16"/>
+    <circle cx="166" cy="164" r="16"/>
+    <circle cx="90" cy="164" r="16"/>
+    <circle cx="67" cy="132" r="16"/>
+    <circle cx="67" cy="92" r="16"/>
+    <circle cx="90" cy="60" r="16"/>
+  </g>
+</svg>

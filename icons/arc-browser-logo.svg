@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="arc browser,arc,browser,web browser,internet,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 200 V120 A64 64 0 0 1 192 120 V152 A40 40 0 0 1 112 152 A40 40 0 0 1 152 112 H224"/>
+  </g>
+</svg>

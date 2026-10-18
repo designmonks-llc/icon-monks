@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="rolling pin,baking,dough,pastry,kitchen,cooking">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 156 L156 60 A28.28 28.28 0 0 1 176 51.72 A28.28 28.28 0 0 1 204.28 80 A28.28 28.28 0 0 1 196 100 L100 196 A28.28 28.28 0 0 1 80 204.28 A28.28 28.28 0 0 1 51.72 176 A28.28 28.28 0 0 1 60 156 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 156 L156 60 A28.28 28.28 0 0 1 176 51.72 A28.28 28.28 0 0 1 204.28 80 A28.28 28.28 0 0 1 196 100 L100 196 A28.28 28.28 0 0 1 80 204.28 A28.28 28.28 0 0 1 51.72 176 A28.28 28.28 0 0 1 60 156 Z"/>
+    <path d="M196 60 L212 44"/>
+    <path d="M60 196 L44 212"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="212" cy="44" r="16"/>
+    <circle cx="44" cy="212" r="16"/>
+  </g>
+</svg>

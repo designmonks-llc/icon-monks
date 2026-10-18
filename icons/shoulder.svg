@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="shoulder,joint,anatomy,deltoid,body part,pain">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="112" cy="88" r="44"/>
+    <path d="M32 216 C32 168 68 148 112 148 C156 148 192 168 192 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="88" r="44"/>
+    <path d="M32 216 C32 168 68 148 112 148 C156 148 192 168 192 216"/>
+    <path d="M188 132 A48 48 0 0 1 224 168"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="168" cy="168" r="14"/>
+  </g>
+</svg>

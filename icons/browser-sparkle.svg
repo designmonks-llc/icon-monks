@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="ai browser,smart browser,web,internet,website,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M216 133 V60 A13 13 0 0 0 203 47 H53 A13 13 0 0 0 40 60 V196 A13 13 0 0 0 53 209 H129 A60 60 0 0 1 216 133 Z"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 133 V60 A13 13 0 0 0 203 47 H53 A13 13 0 0 0 40 60 V196 A13 13 0 0 0 53 209 H129"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 106 L216 106"/>
+    <path d="M106 77 L187 77"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="77" r="10"/>
+  </g>
+</svg>

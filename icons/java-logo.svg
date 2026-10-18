@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="java,oracle,programming language,coffee,code,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 112 H172 V132 A56 56 0 0 1 60 132 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 112 H172 V132 A56 56 0 0 1 60 132 Z"/>
+    <path d="M172 124 H180 A24 24 0 0 1 180 172 H164"/>
+    <path d="M48 220 H184"/>
+    <path d="M92 32 C88.62 35.38 87 38.14 87 41 C87 48.8 97 55.87 97 65 C97 68.34 95.38 71.77 92 76"/>
+    <path d="M140 32 C136.62 35.38 135 38.14 135 41 C135 48.8 145 55.87 145 65 C145 68.34 143.38 71.77 140 76"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="al aqsa,mosque,jerusalem,landmark,islam,dome">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 216 V136 H84 C84 112 104 100 124 100 C144 100 164 112 164 136 H216 V216 Z"/>
+    <path d="M192 80 L200 52 L208 80 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M68 216 V196 A8 8 0 0 1 84 196 V216 Z"/>
+    <path d="M116 216 V196 A8 8 0 0 1 132 196 V216 Z"/>
+    <path d="M164 216 V196 A8 8 0 0 1 180 196 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 216 V136 H216 V216 Z"/>
+    <path d="M84 136 C84 112 104 100 124 100 C144 100 164 112 164 136"/>
+    <path d="M200 80 L200 136"/>
+    <path d="M192 80 L200 52 L208 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 216 V192 A12 12 0 0 1 88 192 V216"/>
+    <path d="M112 216 V192 A12 12 0 0 1 136 192 V216"/>
+    <path d="M160 216 V192 A12 12 0 0 1 184 192 V216"/>
+  </g>
+</svg>

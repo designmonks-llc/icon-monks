@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="loom,video,screen recording,async video,starburst,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 128 L224 128"/>
+    <path d="M156 156 L196 196"/>
+    <path d="M128 168 L128 224"/>
+    <path d="M100 156 L60 196"/>
+    <path d="M88 128 L32 128"/>
+    <path d="M100 100 L60 60"/>
+    <path d="M128 88 L128 32"/>
+    <path d="M156 100 L196 60"/>
+  </g>
+</svg>

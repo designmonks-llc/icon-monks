@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Emoji" data-tags="devil,evil,mischief,naughty,emoji,face">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="140" r="84"/>
+    <path d="M72 80 C58 74 48 62 48 48 C48 42 50 37 52 32 C64 48 84 54 102 62 Z"/>
+    <path d="M184 80 C198 74 208 62 208 48 C208 42 206 37 204 32 C192 48 172 54 154 62 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="140" r="84"/>
+    <path d="M72 80 C58 74 48 62 48 48 C48 42 50 37 52 32 C64 48 84 54 102 62"/>
+    <path d="M184 80 C198 74 208 62 208 48 C208 42 206 37 204 32 C192 48 172 54 154 62"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 100 L112 114"/>
+    <path d="M172 100 L144 114"/>
+    <path d="M96 172 A40 40 0 0 0 160 172"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="144" r="14"/>
+    <circle cx="156" cy="144" r="14"/>
+  </g>
+</svg>

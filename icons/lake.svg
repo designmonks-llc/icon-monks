@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="lake,pond,water,nature,shore,reservoir">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="176" rx="96" ry="44"/>
+    <path d="M176 36 L206 76 L192 76 L216 108 L136 108 L160 76 L146 76 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="176" rx="96" ry="44"/>
+    <path d="M176 36 L206 76 L192 76 L216 108 L136 108 L160 76 L146 76 Z"/>
+    <path d="M176 108 L176 124"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 168 Q88 158 104 168 T136 168"/>
+    <path d="M120 196 Q136 186 152 196 T184 196"/>
+  </g>
+</svg>

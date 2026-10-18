@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="dump truck,tipper,construction,truck,dirt,haul">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 159 L136 120 L113 69 L40 101 Z"/>
+    <path d="M155 97 H189 L224 136 V159 H155 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 159 L136 120 L113 69 L40 101 Z"/>
+    <path d="M155 97 H189 L224 136 V159 H155 Z"/>
+    <path d="M48 159 L155 159"/>
+    <circle cx="78" cy="186" r="19"/>
+    <circle cx="186" cy="186" r="19"/>
+  </g>
+</svg>

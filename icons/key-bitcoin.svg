@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="private key,crypto key,wallet key,btc,key,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="96" cy="160" r="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="160" r="64"/>
+    <path d="M141 115 L208 48"/>
+    <path d="M192 64 L216 88"/>
+    <path d="M164 92 L184 112"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 132 H100 A14 14 0 0 1 100 160 H78 M100 160 H104 A14 14 0 0 1 104 188 H78 V132"/>
+    <path d="M90 120 V132"/>
+    <path d="M90 188 V200"/>
+  </g>
+</svg>

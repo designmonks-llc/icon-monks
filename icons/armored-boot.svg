@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="armored boot,greave,armor,knight,medieval,gear">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 36 H144 V132 C176 140 208 168 224 216 H76 A12 12 0 0 1 64 204 V52 Q64 36 80 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 36 H144 V132 C176 140 208 168 224 216 H76 A12 12 0 0 1 64 204 V52 Q64 36 80 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 72 H144"/>
+    <path d="M64 104 H144"/>
+    <path d="M176 150 L164 216"/>
+  </g>
+</svg>

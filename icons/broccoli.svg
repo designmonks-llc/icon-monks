@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="broccoli,vegetable,greens,healthy,veggie,produce">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M117 131 A40 40 0 1 1 81 76 A48 48 0 0 1 175 76 A40 40 0 1 1 139 131 A48 48 0 0 1 117 131 Z"/>
+    <path d="M100 151 L112 176 V204 A16 16 0 0 0 144 204 V176 L156 151 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M117 131 A40 40 0 1 1 81 76 A48 48 0 0 1 175 76 A40 40 0 1 1 139 131 A48 48 0 0 1 117 131 Z"/>
+    <path d="M100 151 L112 176 V204 A16 16 0 0 0 144 204 V176 L156 151"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 132 V160"/>
+  </g>
+</svg>

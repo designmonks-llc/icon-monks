@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="unfreeze card,defrost card,reactivate card,unblock,credit card,payment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 136 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H120 A63 63 0 0 1 224 136 Z"/>
+    <path d="M184 144 C176 156 156 176 156 194 A28 28 0 0 0 212 194 C212 176 192 156 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 136 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H120"/>
+    <path d="M184 144 C176 156 156 176 156 194 A28 28 0 0 0 212 194 C212 176 192 156 184 144 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 107 L224 107"/>
+    <path d="M62 158 L98 158"/>
+  </g>
+</svg>

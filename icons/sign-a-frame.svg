@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="a-frame sign,sandwich board,shop sign,open sign,storefront,menu board">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 48 H160 L184 192 H72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 48 H160 L184 192 H72 Z"/>
+    <path d="M72 192 L68 216 M184 192 L188 216"/>
+    <path d="M160 48 L216 216"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 104 H144"/>
+    <path d="M108 144 H148"/>
+  </g>
+</svg>

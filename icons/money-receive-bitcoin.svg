@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="receive bitcoin,crypto payment,btc,income,money,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143 A59 59 0 0 0 132 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143"/>
+    <path d="M213 170 L169 214"/>
+    <path d="M169 186 L169 214 L196 214"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 102 H128 A13 13 0 0 1 128 128 H110 M128 128 H131 A14 14 0 0 1 131 156 H110 V102"/>
+    <path d="M122 90 L122 102"/>
+    <path d="M122 156 L122 168"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="129" r="16"/>
+  </g>
+</svg>

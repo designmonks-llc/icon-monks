@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="tiktok,bytedance,short video,music,social media,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M124 36 H164 C164 68 188 88 212 88 V128 C192 128 176 122 164 112 V156 A64 64 0 1 1 100 92 V132 A24 24 0 1 0 124 156 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 36 H164 C164 68 188 88 212 88 V128 C192 128 176 122 164 112 V156 A64 64 0 1 1 100 92 V132 A24 24 0 1 0 124 156 Z"/>
+  </g>
+</svg>

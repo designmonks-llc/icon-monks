@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="land plot,parcel,lot,real estate,property,survey">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 168 C128 168 96 140 96 112 A32 32 0 0 1 160 112 C160 140 128 168 128 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 48 H152"/>
+    <path d="M104 208 H152"/>
+    <path d="M48 104 V152"/>
+    <path d="M208 104 V152"/>
+    <path d="M128 168 C128 168 96 140 96 112 A32 32 0 0 1 160 112 C160 140 128 168 128 168 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="48" r="16"/>
+    <circle cx="208" cy="48" r="16"/>
+    <circle cx="48" cy="208" r="16"/>
+    <circle cx="208" cy="208" r="16"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="112" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="chest press,gym machine,strength,exercise machine,workout,weights">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 48 A8 8 0 0 1 48 40 H64 A8 8 0 0 1 72 48 V144 H152 A16 16 0 0 1 152 176 H48 A8 8 0 0 1 40 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 48 A8 8 0 0 1 48 40 H64 A8 8 0 0 1 72 48 V144 H152 A16 16 0 0 1 152 176 H48 A8 8 0 0 1 40 168 Z"/>
+    <path d="M100 176 L100 216"/>
+    <path d="M60 216 L140 216"/>
+    <path d="M72 96 L160 96"/>
+    <path d="M160 76 L160 116"/>
+    <path d="M184 96 L216 96"/>
+    <path d="M200 80 L216 96 L200 112"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="kite,toy,flying,wind,play,diamond,string">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 32 L144 80 L96 152 L48 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 32 L144 80 L96 152 L48 80 Z"/>
+    <path d="M96 152 C96 184 160 160 160 192 C160 208 184 216 208 216"/>
+    <path d="M112 156 L144 180 L144 156 L112 180 Z"/>
+    <path d="M164 196 L196 220 L196 196 L164 220 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 40 L96 144"/>
+    <path d="M56 80 L136 80"/>
+  </g>
+</svg>

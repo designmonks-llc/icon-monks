@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="dam,hydroelectric,hydro power,reservoir,water,barrier">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 216 V48 H120 C124 120 148 184 184 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 216 V48 H120 C124 120 148 184 184 216"/>
+    <path d="M32 216 H224"/>
+    <path d="M32 100 C37.33 94.67 42.67 92 48 92 C53.33 92 58.67 94.67 64 100 C69.33 105.33 74.67 108 80 108 C85.33 108 90.67 105.33 96 100"/>
+    <path d="M192 168 H216"/>
+    <path d="M196 192 H220"/>
+  </g>
+</svg>

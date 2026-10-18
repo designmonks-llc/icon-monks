@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="deepseek,ai,chatbot,whale,llm,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 136 C224 176 188 204 140 204 C88 204 52 180 44 136 C42.93 130.64 42 125.21 42 120 C42 105.78 46.14 92.78 52 84 L36 60 L60 68 L80 52 L72 84 C80 108 96 120 112 120 C136 120 148 104 164 100 C168.8 98.8 173.33 98 178 98 C196.69 98 213.6 107.2 220 120 C223 126 224 131 224 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 136 C224 176 188 204 140 204 C88 204 52 180 44 136 C42.93 130.64 42 125.21 42 120 C42 105.78 46.14 92.78 52 84 L36 60 L60 68 L80 52 L72 84 C80 108 96 120 112 120 C136 120 148 104 164 100 C168.8 98.8 173.33 98 178 98 C196.69 98 213.6 107.2 220 120 C223 126 224 131 224 136 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="192" cy="132" r="14"/>
+  </g>
+</svg>

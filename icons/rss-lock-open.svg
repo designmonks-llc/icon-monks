@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="rss,public feed,unlock,open lock,feed,news">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="156" y="182" width="56" height="40" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 120 A88 88 0 0 1 128 171"/>
+    <path d="M48 48 A160 160 0 0 1 179 116"/>
+    <rect x="156" y="182" width="56" height="40" rx="10"/>
+    <path d="M168 182 V166 A16 16 0 0 1 199 160"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="66" cy="190" r="22"/>
+  </g>
+</svg>

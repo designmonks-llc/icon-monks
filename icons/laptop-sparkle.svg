@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ai laptop,ai pc,smart laptop,computer,laptop,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 130 A58 58 0 0 0 132 168 Z"/>
+    <path d="M188 152 C191.03 176.26 199.74 184.97 224 188 C199.74 191.03 191.03 199.74 188 224 C184.97 199.74 176.26 191.03 152 188 C176.26 184.97 184.97 176.26 188 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 130"/>
+    <path d="M32 196 L124 196"/>
+    <path d="M188 152 C191.03 176.26 199.74 184.97 224 188 C199.74 191.03 191.03 199.74 188 224 C184.97 199.74 176.26 191.03 152 188 C176.26 184.97 184.97 176.26 188 152 Z"/>
+  </g>
+</svg>

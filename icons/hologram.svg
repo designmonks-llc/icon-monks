@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="hologram,projection,3d display,holographic,ar,virtual">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L184 64 L184 120 L128 152 L72 120 L72 64 Z"/>
+    <ellipse cx="128" cy="208" rx="32" ry="12"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L184 64 L184 120 L128 152 L72 120 L72 64 Z"/>
+    <ellipse cx="128" cy="208" rx="32" ry="12"/>
+    <path d="M96 184 L52 140"/>
+    <path d="M160 184 L204 140"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 64 L128 96 L184 64"/>
+    <path d="M128 96 L128 152"/>
+  </g>
+</svg>

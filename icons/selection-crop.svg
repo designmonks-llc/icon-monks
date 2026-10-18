@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="pathfinder crop,boolean,crop shapes,mask,shapes,pathfinder">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M110 96 H160 V160 H96 V110 A14 14 0 0 1 110 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="96" width="128" height="128" rx="14"/>
+    <path d="M32 64 V46 A14 14 0 0 1 46 32 H64"/>
+    <path d="M128 32 H146 A14 14 0 0 1 160 46 V64"/>
+    <path d="M32 128 V146 A14 14 0 0 0 46 160 H64"/>
+    <path d="M88 32 L104 32"/>
+    <path d="M32 88 L32 104"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="taco,mexican,tortilla,fast food,street food,wrap">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 192 A96 96 0 0 1 224 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 192 A96 96 0 0 1 224 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 167 A30 30 0 0 1 92 130 A30 30 0 0 1 164 130 A30 30 0 0 1 196 167"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="update available,upgrade,progress,upload,arrow up,circle">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 A96 96 0 0 1 128 224"/>
+    <path d="M105 221 A96 96 0 0 1 61 197"/>
+    <path d="M47 179 A96 96 0 0 1 34 148"/>
+    <path d="M32 121 A96 96 0 0 1 37 98"/>
+    <path d="M48 74 A96 96 0 0 1 57 64"/>
+    <path d="M80 45 A96 96 0 0 1 86 42"/>
+    <path d="M128 176 L128 84"/>
+    <path d="M88 124 L128 84 L168 124"/>
+  </g>
+</svg>

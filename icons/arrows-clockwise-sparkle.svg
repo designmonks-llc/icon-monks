@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="ai auto rotate,smart rotate,auto rotate,rotate,arrows,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 92 C131.03 116.25 139.75 124.97 164 128 C139.75 131.03 131.03 139.75 128 164 C124.97 139.75 116.25 131.03 92 128 C116.25 124.97 124.97 116.25 128 92 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M51 107 A80 80 0 0 1 185 71"/>
+    <path d="M185 32 L185 71 L145 71"/>
+    <path d="M205 149 A80 80 0 0 1 71 185"/>
+    <path d="M71 224 L71 185 L111 185"/>
+    <path d="M128 92 C131.03 116.25 139.75 124.97 164 128 C139.75 131.03 131.03 139.75 128 164 C124.97 139.75 116.25 131.03 92 128 C116.25 124.97 124.97 116.25 128 92 Z"/>
+  </g>
+</svg>

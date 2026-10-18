@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="crypto goal,bitcoin target,btc,price target,target,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="64"/>
+    <path d="M108 100 H128 A14 14 0 0 1 128 128 H108 M128 128 H132 A14 14 0 0 1 132 156 H108 V100"/>
+    <path d="M120 92 V100"/>
+    <path d="M120 156 V164"/>
+  </g>
+</svg>

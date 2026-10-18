@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="versus,vs,compare,battle,match,against">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 60 L74 196 L112 60"/>
+    <path d="M216 78 C210.09 65.91 198.26 60 183 60 C162.78 60 150.96 71.83 151 90 C150.96 130.96 221.91 113.22 222 161 C221.91 181.22 207.13 196 183 196 C165.74 196 153.91 187.13 148 175"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="ai cloud,cloud ai,cloud computing,machine learning,online,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M223 138 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 L125 192 A60 60 0 0 1 223 138 Z"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M223 138 A44 44 0 0 0 189 105 A60 60 0 0 0 70 114 A40 40 0 0 0 82 192 L125 192"/>
+    <path d="M184 144 C187.36 170.88 197.12 180.64 224 184 C197.12 187.36 187.36 197.12 184 224 C180.64 197.12 170.88 187.36 144 184 C170.88 180.64 180.64 170.88 184 144 Z"/>
+  </g>
+</svg>

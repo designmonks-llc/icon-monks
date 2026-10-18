@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="patio table,outdoor dining,restaurant,cafe,terrace,umbrella">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 96 A97 97 0 0 1 128 40 A97 97 0 0 1 216 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 96 A97 97 0 0 1 128 40 A97 97 0 0 1 216 96 Z"/>
+    <path d="M128 96 L128 208"/>
+    <path d="M80 120 L176 120"/>
+    <path d="M100 208 L156 208"/>
+    <path d="M32 120 L32 208"/>
+    <path d="M32 160 L64 160 L64 208"/>
+    <path d="M224 120 L224 208"/>
+    <path d="M224 160 L192 160 L192 208"/>
+  </g>
+</svg>

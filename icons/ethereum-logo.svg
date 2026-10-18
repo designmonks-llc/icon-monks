@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ethereum,eth,crypto,cryptocurrency,blockchain,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L192 132 L128 164 L64 132 Z"/>
+    <path d="M64 160 L128 192 L192 160 L128 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L192 132 L128 164 L64 132 Z"/>
+    <path d="M64 160 L128 192 L192 160 L128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 V164"/>
+  </g>
+</svg>

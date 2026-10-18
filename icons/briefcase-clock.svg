@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="work history,job history,time tracking,work log,briefcase,clock">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M118 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L208 72 A16 16 0 0 1 224 88 L224 127 A70 70 0 0 0 118 208 Z"/>
+    <circle cx="184" cy="184" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 208 L48 208 A16 16 0 0 1 32 192 L32 88 A16 16 0 0 1 48 72 L208 72 A16 16 0 0 1 224 88 L224 127"/>
+    <path d="M88 72 V56 A16 16 0 0 1 104 40 H152 A16 16 0 0 1 168 56 V72"/>
+    <circle cx="184" cy="184" r="40"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 124 L148 124"/>
+    <path d="M220 124 L224 124"/>
+    <path d="M184 160 L184 184 L200 194"/>
+  </g>
+</svg>

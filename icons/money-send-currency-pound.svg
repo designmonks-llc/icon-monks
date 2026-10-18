@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="send pound,pay,transfer,gbp,money,currency">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143 A59 59 0 0 0 132 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143"/>
+    <path d="M169 214 L213 170"/>
+    <path d="M185 170 L213 170 L213 197"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 104 A20 20 0 0 0 136 96 A20 20 0 0 0 116 116 V148 C116 158 110 164 100 164 H156"/>
+    <path d="M100 136 L140 136"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="69" cy="129" r="16"/>
+  </g>
+</svg>

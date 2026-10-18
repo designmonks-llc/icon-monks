@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="lock screen,lock computer,screen lock,secure desktop,monitor,lock">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M126 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V140 A60 60 0 0 0 126 176 Z"/>
+    <rect x="158" y="182" width="56" height="42" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 176 H46 A14 14 0 0 1 32 162 V62 A14 14 0 0 1 46 48 H210 A14 14 0 0 1 224 62 V140"/>
+    <path d="M96 176 V208"/>
+    <path d="M64 208 H128"/>
+    <rect x="158" y="182" width="56" height="42" rx="8"/>
+    <path d="M170 182 V170 A16 16 0 0 1 202 170 V182"/>
+  </g>
+</svg>

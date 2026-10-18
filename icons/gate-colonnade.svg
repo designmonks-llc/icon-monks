@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="brandenburg gate,berlin,colonnade gate,landmark,germany,monument">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="72" width="176" height="40" rx="4"/>
+    <path d="M108 72 V32 H148 V72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="72" width="176" height="40" rx="4"/>
+    <path d="M108 72 V32 H148 V72"/>
+    <path d="M48 112 L48 216"/>
+    <path d="M88 112 L88 216"/>
+    <path d="M128 112 L128 216"/>
+    <path d="M168 112 L168 216"/>
+    <path d="M208 112 L208 216"/>
+  </g>
+</svg>

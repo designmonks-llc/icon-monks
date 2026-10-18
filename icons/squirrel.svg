@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="squirrel,rodent,wildlife,forest,nuts,woodland,autumn">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 100 C48 80 62 64 80 64 L88 44 L100 68 C110 74 114 88 112 104 C132 116 144 140 144 168 C144 196 128 216 104 216 C84 216 72 202 72 184 C72 160 84 140 88 124 C68 124 48 118 48 100 Z"/>
+    <path d="M132 214 C180 212 216 180 216 132 C216 84 192 48 160 40 C140 36 124 48 124 64 C124 76 136 84 148 88 C168 96 176 116 176 140 C176 164 164 180 144 186 L136 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 100 C48 80 62 64 80 64 L88 44 L100 68 C110 74 114 88 112 104 C132 116 144 140 144 168 C144 196 128 216 104 216 C84 216 72 202 72 184 C72 160 84 140 88 124 C68 124 48 118 48 100 Z"/>
+    <path d="M132 214 C180 212 216 180 216 132 C216 84 192 48 160 40 C140 36 124 48 124 64 C124 76 136 84 148 88 C168 96 176 116 176 140 C176 164 164 180 144 186"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="92" r="12"/>
+  </g>
+</svg>

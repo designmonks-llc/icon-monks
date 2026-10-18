@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="prayer rug,prayer mat,sajadah,rug,islam,prayer">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="64" y="56" width="128" height="144" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="56" width="128" height="144" rx="10"/>
+    <path d="M96 32 L96 56"/>
+    <path d="M128 32 L128 56"/>
+    <path d="M160 32 L160 56"/>
+    <path d="M96 200 L96 224"/>
+    <path d="M128 200 L128 224"/>
+    <path d="M160 200 L160 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 176 V128 A56 56 0 0 1 128 80 A56 56 0 0 1 156 128 V176 Z"/>
+  </g>
+</svg>

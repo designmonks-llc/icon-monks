@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="update location,refresh location,relocate,gps,map pin,sync">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 209 C122.95 218.55 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 111.25 187.1 118.64 185 126 A58 58 0 0 0 132 209 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 209 C122.95 218.55 116 224 116 224 C116 224 44 160 44 104 C44 64.24 76.24 32 116 32 C155.76 32 188 64.24 188 104 C188 111.25 187.1 118.64 185 126"/>
+    <path d="M150 172 A36 36 0 0 1 212 161"/>
+    <path d="M218 196 A36 36 0 0 1 156 207"/>
+    <path d="M212 145 L212 161 L196 161"/>
+    <path d="M156 223 L156 207 L172 207"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="116" cy="104" r="24"/>
+  </g>
+</svg>

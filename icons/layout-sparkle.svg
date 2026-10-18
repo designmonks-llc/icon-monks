@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="ai template,generated layout,smart template,wireframe,layout,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="56" rx="12"/>
+    <rect x="40" y="128" width="64" height="88" rx="12"/>
+    <path d="M176 132 C179.36 158.96 189.04 168.64 216 172 C189.04 175.36 179.36 185.04 176 212 C172.64 185.04 162.96 175.36 136 172 C162.96 168.64 172.64 158.96 176 132 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="56" rx="12"/>
+    <rect x="40" y="128" width="64" height="88" rx="12"/>
+    <path d="M176 132 C179.36 158.96 189.04 168.64 216 172 C189.04 175.36 179.36 185.04 176 212 C172.64 185.04 162.96 175.36 136 172 C162.96 168.64 172.64 158.96 176 132 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="merge conflict,git,conflict,version control,merge,warning">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="80" cy="56" r="24"/>
+    <circle cx="80" cy="200" r="24"/>
+    <circle cx="176" cy="104" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="56" r="24"/>
+    <circle cx="80" cy="200" r="24"/>
+    <circle cx="176" cy="104" r="24"/>
+    <path d="M80 80 L80 176"/>
+    <path d="M80 80 C80 96 112 104 152 104"/>
+    <path d="M188 160 V186"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="188" cy="212" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="right angle,90 degrees,perpendicular,geometry,angle,math">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 L40 216 L216 216"/>
+    <path d="M40 160 H96 V216"/>
+  </g>
+</svg>

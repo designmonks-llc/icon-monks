@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mistral,mistral ai,ai,llm,language model,artificial intelligence,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M38 38 L74 38 L74 74 L110 74 L110 110 L146 110 L146 74 L182 74 L182 38 L218 38 L218 218 L182 218 L182 146 L146 146 L146 182 L110 182 L110 146 L74 146 L74 218 L38 218 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 38 L74 38 L74 74 L110 74 L110 110 L146 110 L146 74 L182 74 L182 38 L218 38 L218 218 L182 218 L182 146 L146 146 L146 182 L110 182 L110 146 L74 146 L74 218 L38 218 Z"/>
+  </g>
+</svg>

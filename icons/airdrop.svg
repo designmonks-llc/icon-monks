@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="airdrop,apple,share,wireless,file sharing,nearby,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M87 214 A88 88 0 1 1 169 214"/>
+    <path d="M104 178 A48 48 0 1 1 152 178"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="136" r="16"/>
+  </g>
+</svg>

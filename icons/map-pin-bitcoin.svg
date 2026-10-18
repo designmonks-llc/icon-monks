@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="bitcoin atm,crypto location,accepts bitcoin,btc,map pin,bitcoin">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 224 C128 224 56 160 56 104 A72 72 0 0 1 200 104 C200 160 128 224 128 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 C128 224 56 160 56 104 A72 72 0 0 1 200 104 C200 160 128 224 128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 76 H130 A14 14 0 0 1 130 104 H108 M130 104 H134 A14 14 0 0 1 134 132 H108 V76"/>
+    <path d="M122 68 L122 76"/>
+    <path d="M122 132 L122 140"/>
+  </g>
+</svg>

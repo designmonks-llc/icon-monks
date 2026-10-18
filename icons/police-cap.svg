@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="police cap,officer,peaked cap,uniform,law enforcement,hat">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 140 L40 92 C40 72 80 60 128 60 C176 60 216 72 216 92 L192 140 V168 H64 Z"/>
+    <path d="M48 168 H208 C192 188 160 200 128 200 C96 200 64 188 48 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 140 L40 92 C40 72 80 60 128 60 C176 60 216 72 216 92 L192 140 V168 M64 140 V168"/>
+    <path d="M48 168 H208 C192 188 160 200 128 200 C96 200 64 188 48 168 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 140 H192"/>
+    <path d="M128 84 L144 92 V100 C144 110 136 116 128 120 C120 116 112 110 112 100 V92 Z"/>
+  </g>
+</svg>

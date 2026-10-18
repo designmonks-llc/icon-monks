@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="mochi,rice cake,japanese sweet,daifuku,dessert,snack">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 168 C40 120 80 96 128 96 C176 96 216 120 216 168 C216 188 200 200 176 200 H80 C56 200 40 188 40 168 Z"/>
+    <path d="M128 96 C128 64 152 48 184 48 C184 80 160 96 128 96 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 168 C40 120 80 96 128 96 C176 96 216 120 216 168 C216 188 200 200 176 200 H80 C56 200 40 188 40 168 Z"/>
+    <path d="M128 96 C128 64 152 48 184 48 C184 80 160 96 128 96 Z"/>
+  </g>
+</svg>

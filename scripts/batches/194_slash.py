@@ -37,6 +37,8 @@ def rebuild(name):
 
 if __name__ == '__main__':
     icons = os.path.join(ROOT, 'icons')
+    import lint
     names = sorted(f[:-4] for f in os.listdir(icons)
-                   if f.endswith('-slash.svg') and os.path.exists(os.path.join(icons, f[:-10] + '.svg')))
+                   if f.endswith('-slash.svg') and os.path.exists(os.path.join(icons, f[:-10] + '.svg'))
+                   and f[:-4] not in lint.NO_BASE_SLASH)  # those draw their own partial slash
     print(sum(rebuild(n) for n in names), 'of', len(names), 'slash icons rebuilt from their base')

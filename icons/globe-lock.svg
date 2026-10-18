@@ -1,0 +1,15 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="secure web,vpn,private network,globe,lock,https,privacy">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 223 A96 96 0 1 1 220 157 A50 50 0 0 0 144 223 Z"/>
+    <rect x="156" y="182" width="56" height="40" rx="10"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 223 A96 96 0 1 1 220 157"/>
+    <rect x="156" y="182" width="56" height="40" rx="10"/>
+    <path d="M168 182 V170 A16 16 0 0 1 200 170 V182"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M167 145 A40 96 0 1 0 128 224"/>
+    <path d="M32 128 L224 128"/>
+  </g>
+</svg>

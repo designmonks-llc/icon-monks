@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="vibration off,silent,no vibrate,mute,phone,notification">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="48" width="80" height="160" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="48" width="80" height="160" rx="16"/>
+    <path d="M56 88 L40 104 L56 120 L40 136 L56 152 L40 168"/>
+    <path d="M200 88 L216 104 L200 120 L216 136 L200 152 L216 168"/>
+  </g>
+  <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 208"/>
+  </g>
+</svg>

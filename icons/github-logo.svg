@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="github,octocat,git,code,repository,developer,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 216 V184 C72 180 56 160 56 128 C56 112 60 100 68 92 L72 52 L108 72 H148 L184 52 L188 92 C196 100 200 112 200 128 C200 160 184 180 152 184 V216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 216 V184 C72 180 56 160 56 128 C56 112 60 100 68 92 L72 52 L108 72 H148 L184 52 L188 92 C196 100 200 112 200 128 C200 160 184 180 152 184 V216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 200 C80 204 72 176 52 176"/>
+  </g>
+</svg>

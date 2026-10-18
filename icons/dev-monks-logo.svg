@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="dev monks,logo,brand,agency,development,bubble,steps">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 V128 A88 88 0 0 1 128 40 A88 88 0 0 1 216 128 A88 88 0 0 1 128 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 V128 A88 88 0 0 1 128 40 A88 88 0 0 1 216 128 A88 88 0 0 1 128 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="90" y="148" width="16" height="16"/>
+    <rect x="116" y="122" width="16" height="16"/>
+    <rect x="142" y="96" width="16" height="16"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="ai idea,smart idea,inspiration,brainstorm,innovation,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 176 C96 152 64 136 64 96 A64 64 0 0 1 192 96 C192 136 160 152 160 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 176 C96 152 64 136 64 96 A64 64 0 0 1 192 96 C192 136 160 152 160 176 Z"/>
+    <path d="M104 208 L152 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 64 C131 88 140 97 164 100 C140 103 131 112 128 136 C125 112 116 103 92 100 C116 97 125 88 128 64 Z"/>
+  </g>
+</svg>

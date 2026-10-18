@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="ai concert,ai singer,ai music,performance,microphone,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="164" cy="92" r="52"/>
+    <path d="M146 141 L61 215 A14 14 0 0 1 41 195 L115 110 Z"/>
+    <path d="M192 160 C194.69 181.5 202.5 189.31 224 192 C202.5 194.69 194.69 202.5 192 224 C189.31 202.5 181.5 194.69 160 192 C181.5 189.31 189.31 181.5 192 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="164" cy="92" r="52"/>
+    <path d="M146 141 L61 215 A14 14 0 0 1 41 195 L115 110"/>
+    <path d="M192 160 C194.69 181.5 202.5 189.31 224 192 C202.5 194.69 194.69 202.5 192 224 C189.31 202.5 181.5 194.69 160 192 C181.5 189.31 189.31 181.5 192 160 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M143 71 L185 113"/>
+    <path d="M94 135 L121 162"/>
+  </g>
+</svg>

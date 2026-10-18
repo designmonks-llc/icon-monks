@@ -1,0 +1,21 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="cpu power,processor,charging,performance,boost,chip,lightning">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M192 136 V78 A14 14 0 0 0 178 64 H78 A14 14 0 0 0 64 78 V178 A14 14 0 0 0 78 192 H136 A58 58 0 0 1 192 136 Z"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 136 V78 A14 14 0 0 0 178 64 H78 A14 14 0 0 0 64 78 V178 A14 14 0 0 0 78 192 H136"/>
+    <path d="M92 32 L92 64"/>
+    <path d="M128 32 L128 64"/>
+    <path d="M164 32 L164 64"/>
+    <path d="M32 92 L64 92"/>
+    <path d="M32 128 L64 128"/>
+    <path d="M32 164 L64 164"/>
+    <path d="M92 192 L92 224"/>
+    <path d="M192 92 L224 92"/>
+    <path d="M190 150 L162 190 L184 190 L178 218 L206 178 L184 178 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="100" y="100" width="56" height="56" rx="6"/>
+  </g>
+</svg>

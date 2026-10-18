@@ -1,0 +1,14 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="job link,job posting,career link,job url,briefcase,link">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M224 137 V88 A16 16 0 0 0 208 72 H48 A16 16 0 0 0 32 88 V192 A16 16 0 0 0 48 208 H127 A62 62 0 0 1 224 137 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 137 V88 A16 16 0 0 0 208 72 H48 A16 16 0 0 0 32 88 V192 A16 16 0 0 0 48 208 H127"/>
+    <path d="M88 72 V56 A16 16 0 0 1 104 40 H152 A16 16 0 0 1 168 56 V72"/>
+    <path d="M175 214 L192 197 A15 15 0 0 0 171 176 L154 193 A15 15 0 0 0 175 214 Z"/>
+    <path d="M197 192 L214 175 A15 15 0 0 0 193 154 L176 171 A15 15 0 0 0 197 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 124 L224 124"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="ai fashion,virtual try-on,ai clothes,outfit,t-shirt,sparkle">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M133 216 H72 V116 L32 104 L52 56 L96 40 A32 32 0 0 0 160 40 L204 56 L224 104 L184 116 V124 A60 60 0 0 0 133 216 Z"/>
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 216 H72 V116 L32 104 L52 56 L96 40 A32 32 0 0 0 160 40 L204 56 L224 104 L184 116"/>
+    <path d="M184 146 C187.2 171.6 196.4 180.8 222 184 C196.4 187.2 187.2 196.4 184 222 C180.8 196.4 171.6 187.2 146 184 C171.6 180.8 180.8 171.6 184 146 Z"/>
+  </g>
+</svg>

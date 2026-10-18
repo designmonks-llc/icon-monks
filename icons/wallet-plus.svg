@@ -1,0 +1,15 @@
+<svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="add wallet,add funds,top up,deposit,wallet,plus">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 208 H48 A16 16 0 0 1 32 192 V88 A16 16 0 0 1 48 72 H208 A16 16 0 0 1 224 88 V156 A54 54 0 0 0 136 208 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M216 108 H184 A12 12 0 0 0 184 132 H216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 208 H48 A16 16 0 0 1 32 192 V88 A16 16 0 0 1 48 72 H208 A16 16 0 0 1 224 88 V156"/>
+    <path d="M56 72 V56 A16 16 0 0 1 72 40 H168 A16 16 0 0 1 184 56 V72"/>
+    <path d="M224 100 H184 A20 20 0 0 0 184 140 H224"/>
+    <path d="M188 168 V224"/>
+    <path d="M160 196 H216"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="design monks,logo,brand,agency,smile,bubble">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 V128 A88 88 0 0 1 128 40 A88 88 0 0 1 216 128 A88 88 0 0 1 128 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 V128 A88 88 0 0 1 128 40 A88 88 0 0 1 216 128 A88 88 0 0 1 128 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 136 A64 64 0 0 0 168 136"/>
+  </g>
+</svg>
