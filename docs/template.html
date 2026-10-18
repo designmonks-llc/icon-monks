@@ -2,6 +2,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<script>try { const t = localStorage.getItem('im-theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}</script>
 <style>
 /* Layout: specimen sheet. Sticky tool rail over a dense icon grid; a detail drawer shows the 256-unit keyline grid. */
 :root {
@@ -150,19 +151,38 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
 @media (max-width: 720px) { .foot { grid-template-columns: repeat(2, minmax(0, 1fr)); } .foot > div:first-child { grid-column: 1 / -1; } }
 @media (max-width: 900px) {
   main.wrap { grid-template-columns: minmax(0, 1fr); }
-  aside.detail { position: static; order: -1; }
   header.top { grid-template-columns: minmax(0, 1fr); }
 }
 @media (max-width: 480px) { .grid { grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); } .knob input[type=range] { width: 72px; } }
+.theme { display: inline-flex; align-items: center; gap: 6px; font: 500 12px var(--mono); color: var(--muted); }
+.theme select { font: 500 13px var(--body); color: var(--ink); background: var(--sheet); border: 1px solid var(--rule); border-radius: 8px; padding: 4px 8px; }
+.tile span { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.4em; }
+.sheet-close { display: none; }
+@media (max-width: 720px) {
+  .rail .wrap { gap: 8px; padding-block: 8px; }
+  .search { flex-basis: 100%; }
+  .weights { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
+  .weights button { flex: none; }
+  .knob.size { display: none; }
+}
+@media (max-width: 900px) {
+  aside.detail { position: fixed; left: 0; right: 0; bottom: 0; top: auto; z-index: 20; max-height: 82vh; overflow-y: auto;
+    border-radius: 18px 18px 0 0; box-shadow: 0 -12px 32px rgba(0, 0, 0, .18); transform: translateY(105%); visibility: hidden;
+    padding-bottom: max(18px, env(safe-area-inset-bottom, 0px)); order: 0; }
+  aside.detail.open { transform: none; visibility: visible; }
+  .sheet-close { display: inline-flex; position: absolute; top: 12px; right: 12px; font: 500 20px/1 var(--body); width: 36px; height: 36px;
+    align-items: center; justify-content: center; border: 1px solid var(--rule); border-radius: 50%; background: var(--sheet); color: var(--ink); cursor: pointer; }
+}
+@media (prefers-reduced-motion: no-preference) { aside.detail { transition: transform .22s ease, visibility .22s; } }
 @media (prefers-reduced-motion: no-preference) { .tile { transition: border-color .12s, transform .12s; } .tile:active { transform: scale(.97); } }
 </style>
 
 <header class="wrap top">
   <div>
-    <div class="eyebrow">Open source · MIT · by Design Monks · <a href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">GitHub</a></div>
+    <div class="eyebrow">Open source · MIT · by Design Monks · <a href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">GitHub</a> · <label class="theme" for="theme">Theme <select id="theme"><option value="">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label></div>
     <h1>Icon Monks <span class="h1-sub">Free open source icons for web and native apps</span></h1>
-    <p class="lede">__COUNT__ original SVG icons in six weights, drawn on one 256-unit grid and shipped as packages for React, Vue, Web Components, icon fonts, Flutter, Android and Apple platforms. MIT licensed, free for commercial use.</p>
-    <div class="cta"><a class="btn primary" href="#icons">Browse icons</a><a class="btn" href="#get-started">Get started</a><a class="btn" href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">Star on GitHub</a></div>
+    <p class="lede">__COUNT__ SVG icons in six weights, drawn on one 256-unit grid and shipped as packages for React, Vue, Web Components, icon fonts, Flutter, Android and Apple platforms. MIT licensed, free for commercial use.</p>
+    <div class="cta"><a class="btn primary" href="#icons">Browse icons</a><a class="btn" href="#get-started">Get started</a><a class="btn" href="showcase/">See it in use</a><a class="btn" href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener">Star on GitHub</a></div>
     <div class="visits" id="visits" hidden><span class="vdot"></span><b id="visitCount"></b> people have visited</div>
   </div>
   <div class="specs">
@@ -181,7 +201,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
       <input id="q" type="search" placeholder="Search icons, e.g. home, mail, settings" autocomplete="off" aria-label="Search icons"></label>
     <div class="weights" role="group" aria-label="Weight" id="weights"></div>
     <label class="knob" for="cat"><span class="sr">Category</span><select id="cat" aria-label="Category"><option value="">All categories</option></select></label>
-    <label class="knob" for="size">Size <input id="size" type="range" min="16" max="64" step="4" value="32"><span id="size-out">32px</span></label>
+    <label class="knob size" for="size">Size <input id="size" type="range" min="16" max="64" step="4" value="32"><span id="size-out">32px</span></label>
     <label class="knob" for="color">Color <input id="color" type="color" value="#1b1e3a"></label>
   </div>
 </div>
@@ -195,6 +215,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
     <div class="empty" id="empty" hidden>No icons match that search. Try a broader word like “arrow” or “file”.</div>
   </div>
   <aside class="detail" id="detail" aria-live="polite">
+    <button class="sheet-close" id="sheet-close" type="button" aria-label="Close preview">&times;</button>
     <div>
       <h2 id="d-name"></h2>
       <div class="meta" id="d-meta"></div>
@@ -350,7 +371,18 @@ function loadWeight(w) {
     .then((a) => { PATHS[w] = a; return a; }).catch((e) => { delete pending[w]; throw e; });
   return pending[w];
 }
-const pathOf = (icon, w) => (PATHS[w] ? PATHS[w][icon.i] : null);
+// Single icons (for the preview strip and downloads) come from svg/<weight>/ so a visit doesn't fetch every weight.
+const ONE = {};
+const ONE_PENDING = {};
+const fileOf = (n, w) => `svg/${w}/${n}${w === 'regular' ? '' : '-' + w}.svg`;
+function loadOne(icon, w) {
+  const k = w + '/' + icon.name;
+  if (!ONE_PENDING[k]) ONE_PENDING[k] = fetch(fileOf(icon.name, w)).then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then((t) => { const ds = [...t.matchAll(/ d="([^"]*)"/g)].map((m) => m[1]);
+      ONE[k] = w === 'duotone' ? (ds.length > 1 ? [ds[0], ds[1]] : ['', ds[0]]) : ds[0]; return ONE[k]; });
+  return ONE_PENDING[k];
+}
+const pathOf = (icon, w) => (PATHS[w] ? PATHS[w][icon.i] : ONE[w + '/' + icon.name] || null);
 function body(icon, weight) {
   const d = pathOf(icon, weight);
   if (!d) return '';
@@ -417,6 +449,8 @@ function renderDetail() {
   $('d-weights').innerHTML = WEIGHTS.map((x) => `<button type="button" data-w="${x}" aria-pressed="${x === w}">${svg(icon, x, 26)}${x}</button>`).join('');
   $('tabs').innerHTML = Object.keys(SNIPPETS).map((t) => `<button type="button" role="tab" data-tab="${t}" aria-selected="${t === state.tab}">${t}</button>`).join('');
   $('snippet').textContent = SNIPPETS[state.tab](icon.name, w);
+  const missing = WEIGHTS.filter((x) => !pathOf(icon, x) && !ONE_PENDING[x + '/' + icon.name]);
+  if (missing.length) Promise.all(missing.map((x) => loadOne(icon, x).catch(() => null))).then(() => { if (state.selected === icon.name) renderDetail(); });
 }
 
 // Downloads: in the claude.ai viewer use the downloads capability, elsewhere a plain link.
@@ -447,9 +481,34 @@ function rasterize(icon, w, px, type) {
     img.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg(icon, w, px, exportColor()));
   });
 }
-// Path data uses absolute M L H V Q C Z only; quadratics become cubics for PDF.
+// SVG arc (endpoint form) as cubic Beziers of at most 90 degrees each, for PDF, which has no arcs.
+function arcToCubics(x1, y1, rx, ry, rot, fa, fs, x2, y2) {
+  if (!rx || !ry) return [[x1, y1, x2, y2, x2, y2]];
+  const phi = rot * Math.PI / 180, cos = Math.cos(phi), sin = Math.sin(phi);
+  const dx = (x1 - x2) / 2, dy = (y1 - y2) / 2, x1p = cos * dx + sin * dy, y1p = -sin * dx + cos * dy;
+  rx = Math.abs(rx); ry = Math.abs(ry);
+  const lam = (x1p * x1p) / (rx * rx) + (y1p * y1p) / (ry * ry);
+  if (lam > 1) { rx *= Math.sqrt(lam); ry *= Math.sqrt(lam); }
+  const num = rx * rx * ry * ry - rx * rx * y1p * y1p - ry * ry * x1p * x1p, den = rx * rx * y1p * y1p + ry * ry * x1p * x1p;
+  const co = (fa === fs ? -1 : 1) * Math.sqrt(Math.max(0, num / den));
+  const cxp = co * rx * y1p / ry, cyp = -co * ry * x1p / rx;
+  const cx = cos * cxp - sin * cyp + (x1 + x2) / 2, cy = sin * cxp + cos * cyp + (y1 + y2) / 2;
+  const ang = (ux, uy, vx, vy) => { const a = Math.atan2(ux * vy - uy * vx, ux * vx + uy * vy); return a; };
+  let t1 = ang(1, 0, (x1p - cxp) / rx, (y1p - cyp) / ry);
+  let dt = ang((x1p - cxp) / rx, (y1p - cyp) / ry, (-x1p - cxp) / rx, (-y1p - cyp) / ry);
+  if (!fs && dt > 0) dt -= 2 * Math.PI; else if (fs && dt < 0) dt += 2 * Math.PI;
+  const segs = Math.max(1, Math.ceil(Math.abs(dt) / (Math.PI / 2))), step = dt / segs, k = 4 / 3 * Math.tan(step / 4), out = [];
+  const pt = (a) => [cx + rx * Math.cos(a) * cos - ry * Math.sin(a) * sin, cy + rx * Math.cos(a) * sin + ry * Math.sin(a) * cos];
+  const dpt = (a) => [-rx * Math.sin(a) * cos - ry * Math.cos(a) * sin, -rx * Math.sin(a) * sin + ry * Math.cos(a) * cos];
+  for (let i = 0; i < segs; i++) {
+    const a = t1 + i * step, b = a + step, p0 = pt(a), p3 = pt(b), d0 = dpt(a), d3 = dpt(b);
+    out.push([p0[0] + k * d0[0], p0[1] + k * d0[1], p3[0] - k * d3[0], p3[1] - k * d3[1], p3[0], p3[1]]);
+  }
+  return out;
+}
+// Path data uses absolute M L H V Q C A Z; quadratics and arcs become cubics for PDF.
 function pdfPath(d, k, size) {
-  const out = []; const t = d.match(/[MLHVQCZ]|-?\d*\.?\d+(?:e-?\d+)?/gi); let i = 0, x = 0, y = 0, sx = 0, sy = 0, cmd = '';
+  const out = []; const t = d.match(/[MLHVQCAZ]|-?\d*\.?\d+(?:e-?\d+)?/gi); let i = 0, x = 0, y = 0, sx = 0, sy = 0, cmd = '';
   const n = () => parseFloat(t[i++]); const P = (a, b) => `${(a * k).toFixed(3)} ${(size - b * k).toFixed(3)}`;
   while (i < t.length) {
     if (/[A-Z]/i.test(t[i])) cmd = t[i++];
@@ -460,6 +519,8 @@ function pdfPath(d, k, size) {
     else if (cmd === 'C') { const a = n(), b = n(), c = n(), e = n(); x = n(); y = n(); out.push(`${P(a, b)} ${P(c, e)} ${P(x, y)} c`); }
     else if (cmd === 'Q') { const qx = n(), qy = n(), ex = n(), ey = n();
       out.push(`${P(x + 2 / 3 * (qx - x), y + 2 / 3 * (qy - y))} ${P(ex + 2 / 3 * (qx - ex), ey + 2 / 3 * (qy - ey))} ${P(ex, ey)} c`); x = ex; y = ey; }
+    else if (cmd === 'A') { const rx = n(), ry = n(), rot = n(), fa = n(), fs = n(), ex = n(), ey = n();
+      for (const c of arcToCubics(x, y, rx, ry, rot, fa, fs, ex, ey)) out.push(`${P(c[0], c[1])} ${P(c[2], c[3])} ${P(c[4], c[5])} c`); x = ex; y = ey; }
     else if (cmd === 'Z') { out.push('h'); x = sx; y = sy; if (i < t.length && !/[A-Z]/i.test(t[i])) i++; }
     else i++;
   }
@@ -496,7 +557,7 @@ document.querySelector('.dl').addEventListener('click', async (e) => {
   const name = `${icon.name}${w === 'regular' ? '' : '-' + w}${fmt === 'svg' ? '' : '-' + px}.${fmt}`;
   $('dl-note').textContent = 'Preparing…';
   try {
-    await loadWeight(w);
+    if (!pathOf(icon, w)) await loadOne(icon, w);
     let blob;
     if (fmt === 'svg') blob = new Blob([svg(icon, w, px, state.color || 'currentColor')], { type: MIME.svg });
     else if (fmt === 'pdf') blob = makePdf(icon, w, px);
@@ -520,7 +581,16 @@ $('grid').addEventListener('click', (e) => {
   document.querySelectorAll('.tile[aria-selected="true"]').forEach((t) => t.setAttribute('aria-selected', 'false'));
   b.setAttribute('aria-selected', 'true');
   renderDetail();
-  if (window.matchMedia('(max-width: 900px)').matches) $('detail').scrollIntoView({ block: 'start' });
+  if (window.matchMedia('(max-width: 900px)').matches) $('detail').classList.add('open');
+});
+$('sheet-close').addEventListener('click', () => $('detail').classList.remove('open'));
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') $('detail').classList.remove('open'); });
+// Theme: System follows the OS; Light and Dark override it and are remembered.
+$('theme').value = document.documentElement.dataset.theme || '';
+$('theme').addEventListener('change', (e) => {
+  const t = e.target.value;
+  if (t) document.documentElement.dataset.theme = t; else delete document.documentElement.dataset.theme;
+  store.set('im-theme', t);
 });
 $('d-weights').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.previewWeight = b.dataset.w; renderDetail(); });
 $('tabs').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.tab = b.dataset.tab; store.set('im-tab', state.tab); renderDetail(); });
@@ -574,8 +644,6 @@ renderWeights(); renderGrid();
 loadWeight(state.weight).then(() => {
   renderDetail();
   if (params.get('icon')) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrollIntoView({ block: 'center' });
-  // The weight strip and downloads need every weight; fetch the rest in the background.
-  Promise.all(WEIGHTS.map((w) => loadWeight(w).catch(() => null))).then(renderDetail);
 }, () => {});
 if (false) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrollIntoView({ block: 'center' });
 

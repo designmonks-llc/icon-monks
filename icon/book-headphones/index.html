@@ -19,6 +19,7 @@
 <meta name="twitter:image" content="https://designmonks.github.io/icon-monks/og-image.png">
 <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+<script>try{const t=localStorage.getItem('im-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -28,7 +29,7 @@
 <body>
 <header class="nav"><div class="wrap">
   <a class="brand" href="../../"><img src="../../favicon.svg" alt="" width="24" height="24">Icon Monks</a>
-  <nav aria-label="Main"><a href="../../">Icons</a><a href="../../categories/">Categories</a><a href="../../getting-started/">Get started</a><a href="../../license/">License</a><a href="https://github.com/designmonks/icon-monks">GitHub</a></nav>
+  <nav aria-label="Main"><a href="../../">Icons</a><a href="../../categories/">Categories</a><a href="../../getting-started/">Get started</a><a href="../../showcase/">Showcase</a><a href="../../license/">License</a><a href="https://github.com/designmonks/icon-monks">GitHub</a><label class="theme"><span class="sr">Theme</span><select id="theme" aria-label="Theme"><option value="">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label></nav>
 </div></header>
 <main class="wrap">
   <ol class="crumbs"><li><a href="../../">Icon Monks</a></li><li><a href="../../categories/education/">Education icons</a></li><li aria-current="page">Book Headphones</li></ol>
@@ -64,5 +65,6 @@ import { BookHeadphones } from '@icon-monks/vue';
   <nav aria-label="Platforms"><h2>Platforms</h2><ul><li><a href="../../react-icons/">React icons</a></li><li><a href="../../vue-icons/">Vue icons</a></li><li><a href="../../web-components/">Web components</a></li><li><a href="../../icon-font/">Icon font</a></li><li><a href="../../svg-icons/">SVG icons</a></li><li><a href="../../flutter-icons/">Flutter icons</a></li><li><a href="../../swiftui-icons/">SwiftUI icons</a></li><li><a href="../../jetpack-compose-icons/">Android icons</a></li></ul></nav>
   <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="../../getting-started/">Get started</a></li><li><a href="../../license/">License</a></li><li><a href="https://github.com/designmonks/icon-monks/releases">Releases</a></li><li><a href="https://github.com/designmonks/icon-monks/issues">Request an icon</a></li><li><a href="https://github.com/designmonks/icon-monks">GitHub</a></li></ul></nav>
 </div></footer>
+<script>(()=>{const s=document.getElementById('theme');if(!s)return;s.value=document.documentElement.dataset.theme||'';s.addEventListener('change',()=>{const t=s.value;if(t)document.documentElement.dataset.theme=t;else delete document.documentElement.dataset.theme;try{localStorage.setItem('im-theme',t)}catch(e){}})})()</script>
 </body>
 </html>

@@ -141,6 +141,7 @@ writeFileSync(new URL('sitemap.xml', root), `<?xml version="1.0" encoding="UTF-8
     <loc>${SITE}</loc>
     <lastmod>${today}</lastmod>
   </url>
+  <url><loc>${SITE}showcase/</loc></url>
 ${pages.urls.map((u) => `  <url><loc>${u}</loc></url>`).join('\n')}
 </urlset>
 `);
@@ -151,5 +152,17 @@ writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
   icons: [{ src: 'icon-192.png', sizes: '192x192', type: 'image/png' }, { src: 'icon-512.png', sizes: '512x512', type: 'image/png' }, { src: 'favicon.svg', sizes: 'any', type: 'image/svg+xml' }],
 }, null, 2) + '\n');
 writeFileSync(new URL('index.html', root), full);
+
+// Showcase: docs/showcase.html with the path data for just the icons it uses inlined, so the page works on its own.
+const showcase = readFileSync(new URL('docs/showcase.html', root), 'utf8');
+const used = new Set(['plus', ...[...showcase.matchAll(/data-(?:i|tab)="([a-z0-9-]+)"/g)].map((m) => m[1])]);
+const pathsByName = Object.fromEntries(data.icons.map((i) => [i.name, i.paths]));
+const missingIcons = [...used].filter((n) => !pathsByName[n]);
+if (missingIcons.length) throw new Error(`docs/showcase.html uses unknown icons: ${missingIcons.join(', ')}`);
+const showcaseIcons = Object.fromEntries([...used].sort().map((n) => [n, pathsByName[n]]));
+mkdirSync(new URL('showcase/', root), { recursive: true });
+writeFileSync(new URL('showcase/index.html', root), showcase
+  .replace('/*ICONS*/', `const ICONS = ${JSON.stringify(showcaseIcons).replace(/</g, '\\u003c')};`)
+  .replace('__COUNT__', data.icons.length.toLocaleString('en-US')));
 writeFileSync(new URL('build/artifact.html', root), page);
 console.log(`index.html + build/artifact.html: ${data.icons.length} icons; ${pages.urls.length} static pages`);

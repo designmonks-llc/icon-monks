@@ -55,6 +55,7 @@ export function buildPages({ root, data, SITE, REPO, count, version }) {
 <meta name="twitter:image" content="${og}">
 <link rel="icon" href="${up}favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="${up}apple-touch-icon.png">
+<script>try{const t=localStorage.getItem('im-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -64,7 +65,7 @@ ${ld({ '@graph': [breadcrumb, ...jsonld] })}
 <body>
 <header class="nav"><div class="wrap">
   <a class="brand" href="${up}"><img src="${up}favicon.svg" alt="" width="24" height="24">Icon Monks</a>
-  <nav aria-label="Main"><a href="${up}">Icons</a><a href="${up}categories/">Categories</a><a href="${up}getting-started/">Get started</a><a href="${up}license/">License</a><a href="${REPO}">GitHub</a></nav>
+  <nav aria-label="Main"><a href="${up}">Icons</a><a href="${up}categories/">Categories</a><a href="${up}getting-started/">Get started</a><a href="${up}showcase/">Showcase</a><a href="${up}license/">License</a><a href="${REPO}">GitHub</a><label class="theme"><span class="sr">Theme</span><select id="theme" aria-label="Theme"><option value="">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label></nav>
 </div></header>
 <main class="wrap">
   <ol class="crumbs">${trail.map(([name, p], k) => k === trail.length - 1 ? `<li aria-current="page">${esc(name)}</li>` : `<li><a href="${up}${p}">${esc(name)}</a></li>`).join('')}</ol>
@@ -78,6 +79,7 @@ ${ld({ '@graph': [breadcrumb, ...jsonld] })}
   <nav aria-label="Platforms"><h2>Platforms</h2><ul>${PLATFORMS.map((p) => `<li><a href="${up}${p.path}">${p.short}</a></li>`).join('')}</ul></nav>
   <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="${up}getting-started/">Get started</a></li><li><a href="${up}license/">License</a></li><li><a href="${REPO}/releases">Releases</a></li><li><a href="${REPO}/issues">Request an icon</a></li><li><a href="${REPO}">GitHub</a></li></ul></nav>
 </div></footer>
+<script>(()=>{const s=document.getElementById('theme');if(!s)return;s.value=document.documentElement.dataset.theme||'';s.addEventListener('change',()=>{const t=s.value;if(t)document.documentElement.dataset.theme=t;else delete document.documentElement.dataset.theme;try{localStorage.setItem('im-theme',t)}catch(e){}})})()</script>
 </body>
 </html>
 `;
@@ -142,8 +144,8 @@ ${ld({ '@graph': [breadcrumb, ...jsonld] })}
       path, depth: 2,
       title: `${list.length} Free ${c} Icons: SVG, React, Flutter & More | Icon Monks`,
       description: `Browse ${list.length} free ${c.toLowerCase()} icons in six weights. Download SVG or install for React, Vue, Flutter, SwiftUI and Jetpack Compose. MIT licensed.`,
-      h1: `${esc(c)} icons`,
-      lede: `${list.length} free ${esc(c.toLowerCase())} icons for ${esc(blurb)}. Every icon comes in thin, light, regular, bold, fill and duotone, drawn on the same 256-unit grid as the rest of Icon Monks.`,
+      h1: c === 'Brands' ? 'Brand logos' : `${esc(c)} icons`,
+      lede: `${list.length} free ${c === 'Brands' ? 'brand logos and products' : esc(c.toLowerCase()) + ' icons'} for ${esc(blurb)}. Every icon comes in thin, light, regular, bold, fill and duotone, drawn on the same 256-unit grid as the rest of Icon Monks.`,
       crumbs: [['Categories', 'categories/'], [`${c} icons`, path]],
       jsonld: [{ '@type': 'CollectionPage', name: `${c} icons`, url: SITE + path, isPartOf: { '@id': `${SITE}#website` },
         mainEntity: { '@type': 'ItemList', numberOfItems: list.length, itemListElement: list.slice(0, 100).map((i, k) => ({ '@type': 'ListItem', position: k + 1, url: `${SITE}icon/${i.name}/`, name: `${title(i.name)} icon` })) } }],
@@ -259,6 +261,7 @@ const faq = (items) => ({ '@type': 'FAQPage', mainEntity: items.map(([q, a]) => 
 const POPULAR = ['house', 'magnifying-glass', 'gear', 'user', 'bell', 'heart', 'star', 'envelope', 'shopping-cart', 'calendar', 'trash', 'plus', 'x', 'check', 'arrow-right', 'download', 'lock', 'camera'];
 
 const CATEGORY_BLURBS = {
+  Brands: 'sign-in buttons, footers, share menus and integrations',
   Interface: 'buttons, menus, toolbars and app navigation', Design: 'design tools, editors and creative apps', Devices: 'hardware, gadgets and connected devices',
   Arrows: 'navigation, direction, sorting and movement', Media: 'audio, video, playback and streaming controls', Editor: 'text editing, formatting and writing tools',
   Files: 'documents, folders, file types and storage', Commerce: 'shops, carts, payments and checkout flows', Maps: 'locations, navigation and travel apps',
@@ -392,7 +395,10 @@ const LICENSE_FAQ = [
 ];
 
 const CSS = `:root{--paper:#f4f5f8;--sheet:#fff;--ink:#1b1e3a;--muted:#5d6280;--rule:#dfe2ec;--saffron:#c96a00;--display:'Funnel Display','Space Grotesk','Helvetica Neue',Arial,sans-serif;--body:'DM Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,monospace}
-@media (prefers-color-scheme:dark){:root{--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;color-scheme:dark}img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;color-scheme:dark}:root:not([data-theme="light"]) img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}}
+:root[data-theme="dark"]{--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;color-scheme:dark}:root[data-theme="dark"] img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}.theme select{font:500 13px var(--body);color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:8px;padding:3px 6px}
+.tiles span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 var(--body)}a{color:inherit}
 .wrap{max-width:1120px;margin:0 auto;padding:0 16px}
 .nav{border-bottom:1px solid var(--rule);background:var(--paper)}.nav .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;align-items:center;justify-content:space-between;padding-block:14px}

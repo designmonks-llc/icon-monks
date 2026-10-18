@@ -1,0 +1,523 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Icon Monks in Use: Dashboard, Mobile App and UI Examples</title>
+<meta name="description" content="See Icon Monks in real interfaces: a dashboard, a wallet app, a chat app, navbars, bottom navs, menus, toolbars and cards, in six weights. Free, MIT licensed.">
+<link rel="canonical" href="https://designmonks.github.io/icon-monks/showcase/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Icon Monks in Use">
+<meta property="og:description" content="Icon Monks in a dashboard, two mobile apps and the UI parts every product needs.">
+<meta property="og:url" content="https://designmonks.github.io/icon-monks/showcase/">
+<meta property="og:image" content="https://designmonks.github.io/icon-monks/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one light showcase sheet. A stage of overlapping device frames (browser + two phones) on a dotted canvas,
+   then a bento wall of framed UI pieces, every glyph an Icon Monks icon. Deliberately single-theme: light. */
+:root {
+  color-scheme: light;
+  --canvas: #eef0f6; --dot: #d9dde9; --surface: #ffffff; --raised: #f5f6fa; --ink: #15182e; --muted: #626885; --line: #e3e6ef;
+  --accent: #c96a00; --accent-2: #f08c1a; --accent-soft: #fff1e0; --good: #138a4f; --good-soft: #e2f6ea; --bad: #c63b22; --bad-soft: #fde8e3;
+  --info: #3159d6; --info-soft: #e7edfd; --violet: #6b4fd8; --violet-soft: #efeafd;
+  --display: 'Funnel Display', 'Helvetica Neue', Arial, sans-serif; --body: 'DM Sans', system-ui, sans-serif; --mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
+  --shadow: 0 1px 2px rgba(21,24,46,.05), 0 18px 50px rgba(21,24,46,.10);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--canvas); color: var(--ink); font: 14px/1.5 var(--body); }
+svg.i { display: block; flex: none; }
+button { font: inherit; }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.page { max-width: 1280px; margin: 0 auto; padding-block: 28px 72px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* Header */
+.mast { display: flex; flex-wrap: wrap; gap: 16px 24px; align-items: center; justify-content: space-between; padding-bottom: 8px; }
+.brand { display: flex; align-items: center; gap: 10px; font: 600 17px var(--display); }
+.brand .mk { width: 32px; height: 32px; border-radius: 10px; background: var(--ink); color: #fff; display: grid; place-items: center; }
+.weights { display: inline-flex; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 4px; gap: 2px; box-shadow: 0 1px 2px rgba(21,24,46,.04); flex-wrap: wrap; }
+.weights button { border: 0; background: none; color: var(--muted); font: 500 13px var(--body); padding: 6px 11px; border-radius: 8px; cursor: pointer; }
+.weights button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+.hero { padding-block: 44px 34px; display: grid; gap: 14px; max-width: 760px; }
+.eyebrow { font: 500 12px var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
+h1 { font: 500 clamp(36px, 6vw, 68px)/1.02 var(--display); letter-spacing: -.02em; margin: 0; text-wrap: balance; }
+h1 em { font-style: normal; color: var(--accent); }
+.hero p { margin: 0; color: var(--muted); font-size: 17px; max-width: 58ch; }
+.facts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+.fact { display: inline-flex; gap: 6px; align-items: center; padding: 6px 12px; border-radius: 99px; background: var(--surface); border: 1px solid var(--line); font-weight: 500; }
+.fact b { font-variant-numeric: tabular-nums; }
+
+/* Stage */
+.stage { position: relative; height: 760px; border-radius: 28px; background-color: #e7eaf3; background-image: radial-gradient(var(--dot) 1.2px, transparent 1.2px); background-size: 22px 22px; overflow: hidden; border: 1px solid var(--line); }
+.stage::after { content: ""; position: absolute; inset: auto -10% -40% 30%; height: 70%; background: radial-gradient(closest-side, rgba(240,140,26,.22), transparent); pointer-events: none; }
+.browser { position: absolute; left: 48px; top: 56px; width: 820px; background: var(--surface); border-radius: 16px; box-shadow: var(--shadow); overflow: hidden; border: 1px solid var(--line); z-index: 1; }
+.chrome { display: flex; align-items: center; gap: 12px; padding: 10px 14px; background: #f7f8fb; border-bottom: 1px solid var(--line); }
+.lights { display: flex; gap: 6px; } .lights i { width: 11px; height: 11px; border-radius: 50%; display: block; }
+.url { flex: 1; display: flex; align-items: center; gap: 6px; justify-content: center; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 5px 10px; color: var(--muted); font: 12px var(--mono); max-width: 380px; margin: 0 auto; }
+.dash { display: grid; grid-template-columns: 60px minmax(0, 1fr); height: 600px; overflow: hidden; }
+.rail { background: var(--ink); display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 14px 0; color: #9da3c6; }
+.rail .r { width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; }
+.rail .r.on { background: rgba(255,255,255,.1); color: #fff; }
+.rail .logo { width: 36px; height: 36px; border-radius: 11px; background: var(--accent); color: #fff; display: grid; place-items: center; margin-bottom: 10px; }
+.rail .bottom { margin-top: auto; }
+.main { padding: 18px 20px; display: grid; gap: 14px; align-content: start; background: var(--raised); min-width: 0; }
+.mhead { display: flex; align-items: center; gap: 10px; }
+.mhead h3 { margin: 0; font: 500 20px var(--display); flex: 1; }
+.searchpill { display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 7px 10px; color: var(--muted); width: 220px; font-size: 13px; }
+.ib { width: 34px; height: 34px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); display: grid; place-items: center; position: relative; color: var(--ink); }
+.ib .dot { position: absolute; top: 6px; right: 7px; width: 7px; height: 7px; border-radius: 50%; background: var(--bad); box-shadow: 0 0 0 2px var(--surface); }
+.av { width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(135deg, #ffd29a, #f08c1a); color: #5a2c00; display: grid; place-items: center; font: 700 12px var(--body); flex: none; }
+.kpis { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.kpi { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px; display: grid; gap: 6px; }
+.kpi .t { display: flex; justify-content: space-between; align-items: center; color: var(--muted); font-weight: 500; font-size: 13px; }
+.kpi .ico { width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center; }
+.kpi b { font: 500 22px/1 var(--display); font-variant-numeric: tabular-nums; }
+.delta { display: inline-flex; align-items: center; gap: 3px; font: 500 11.5px var(--mono); padding: 2px 6px; border-radius: 99px; width: fit-content; }
+.up { background: var(--good-soft); color: var(--good); } .down { background: var(--bad-soft); color: var(--bad); }
+.two { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 10px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.panel h4 { margin: 0; font: 600 13.5px var(--body); display: flex; gap: 7px; align-items: center; }
+.panel h4 span { margin-left: auto; color: var(--muted); font-weight: 500; font-size: 12px; display: inline-flex; gap: 4px; align-items: center; }
+.bars { display: grid; grid-template-columns: repeat(12, 1fr); gap: 6px; align-items: end; height: 150px; }
+.bars i { display: block; border-radius: 5px 5px 2px 2px; background: var(--accent-soft); }
+.bars i.hi { background: linear-gradient(var(--accent-2), var(--accent)); }
+.row { display: flex; align-items: center; gap: 10px; padding: 6px 4px; }
+.row .ic { width: 32px; height: 32px; border-radius: 10px; display: grid; place-items: center; flex: none; }
+.row .tx { flex: 1; min-width: 0; } .row .tx b { display: block; font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } .row .tx span { font-size: 12px; color: var(--muted); }
+.row .amt { font: 600 13px var(--body); font-variant-numeric: tabular-nums; }
+
+/* Phones */
+.phone { position: absolute; width: 292px; height: 600px; border-radius: 46px; background: #0d0f1f; padding: 11px; box-shadow: 0 30px 70px rgba(21,24,46,.28), inset 0 0 0 2px #2a2e4a; }
+.phone .scr { height: 100%; border-radius: 36px; background: var(--raised); overflow: hidden; display: flex; flex-direction: column; position: relative; }
+.phone .notch { position: absolute; top: 9px; left: 50%; transform: translateX(-50%); width: 92px; height: 26px; border-radius: 99px; background: #0d0f1f; z-index: 3; }
+.p1 { right: 70px; top: 120px; transform: rotate(4deg); z-index: 3; }
+.p2 { right: 300px; top: 170px; transform: rotate(-5deg); z-index: 2; width: 270px; height: 540px; }
+.sbar { display: flex; justify-content: space-between; align-items: center; padding: 14px 22px 0; font: 600 12.5px var(--body); height: 40px; }
+.sbar .r { display: flex; gap: 5px; }
+.ahead { display: flex; align-items: center; justify-content: space-between; padding: 8px 16px; }
+.ahead small { color: var(--muted); } .ahead h5 { margin: 0; font: 600 20px var(--display); }
+.pbody { flex: 1; overflow: hidden; padding: 4px 14px 12px; display: flex; flex-direction: column; gap: 10px; }
+.pbody > * { flex: none; }
+.balance { border-radius: 20px; padding: 14px; background: linear-gradient(135deg, #1b1f3d, #2b2f5a); color: #fff; display: grid; gap: 6px; position: relative; overflow: hidden; }
+.balance::after { content: ""; position: absolute; right: -30px; top: -30px; width: 120px; height: 120px; border-radius: 50%; background: radial-gradient(closest-side, rgba(240,140,26,.55), transparent); }
+.balance small { font: 500 11.5px var(--mono); color: #b9bee0; } .balance b { font: 600 26px var(--display); }
+.balance .acts { display: flex; gap: 6px; position: relative; z-index: 1; }
+.balance .acts span { display: inline-flex; gap: 5px; align-items: center; padding: 6px 9px; border-radius: 10px; background: rgba(255,255,255,.12); font-weight: 600; font-size: 12px; }
+.quick { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+.quick div { display: grid; justify-items: center; gap: 5px; font-size: 11px; color: var(--muted); }
+.quick span { width: 48px; height: 48px; border-radius: 15px; background: var(--surface); border: 1px solid var(--line); display: grid; place-items: center; color: var(--ink); }
+.plist { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 4px 8px; }
+.tabbar { display: grid; grid-template-columns: repeat(5, 1fr); background: var(--surface); border-top: 1px solid var(--line); padding: 8px 6px 20px; align-items: center; }
+.tab { display: grid; justify-items: center; gap: 2px; font: 500 10px var(--body); color: var(--muted); border: 0; background: none; cursor: pointer; padding: 2px 0; }
+.tab.on { color: var(--accent); }
+.tab .fab { width: 46px; height: 46px; border-radius: 15px; background: var(--ink); color: #fff; display: grid; place-items: center; margin-top: -24px; box-shadow: 0 8px 18px rgba(21,24,46,.3); }
+/* chat phone */
+.chathead { display: flex; align-items: center; gap: 10px; padding: 6px 14px 10px; border-bottom: 1px solid var(--line); background: var(--surface); }
+.chathead .tx b { display: block; font-size: 14px; } .chathead .tx span { font-size: 11.5px; color: var(--good); }
+.chathead .end { margin-left: auto; display: flex; gap: 10px; color: var(--ink); }
+.msgs { flex: 1; padding: 12px; display: flex; flex-direction: column; gap: 8px; overflow: hidden; }
+.msg { max-width: 78%; padding: 8px 11px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); font-size: 12.5px; }
+.msg.me { align-self: flex-end; background: var(--accent); color: #2a1500; border-color: transparent; border-bottom-right-radius: 5px; }
+.msg.them { border-bottom-left-radius: 5px; }
+.att { display: flex; gap: 8px; align-items: center; }
+.att .fi { width: 30px; height: 30px; border-radius: 8px; background: var(--bad-soft); color: var(--bad); display: grid; place-items: center; }
+.react { display: inline-flex; gap: 4px; align-items: center; font-size: 11px; color: var(--muted); align-self: flex-end; background: var(--surface); border: 1px solid var(--line); border-radius: 99px; padding: 2px 7px; margin-top: -4px; }
+.composer { display: flex; align-items: center; gap: 8px; padding: 8px 10px 18px; background: var(--surface); border-top: 1px solid var(--line); color: var(--muted); }
+.composer .field { flex: 1; background: var(--raised); border-radius: 99px; padding: 8px 12px; font-size: 12px; }
+.composer .send { width: 34px; height: 34px; border-radius: 50%; background: var(--accent); color: #2a1500; display: grid; place-items: center; }
+
+/* Bento */
+.section-title { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 8px 24px; margin: 56px 0 18px; }
+.section-title h2 { font: 500 clamp(26px, 3.4vw, 38px)/1.1 var(--display); margin: 0; letter-spacing: -.01em; }
+.section-title p { margin: 0; color: var(--muted); max-width: 52ch; }
+.bento { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 14px; }
+.tilecard { background: var(--surface); border: 1px solid var(--line); border-radius: 22px; padding: 18px; display: grid; gap: 14px; align-content: start; min-width: 0; box-shadow: 0 1px 2px rgba(21,24,46,.04); }
+.tag { font: 500 11px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: flex; justify-content: space-between; }
+.tag em { font-style: normal; color: var(--accent); }
+.s2 { grid-column: span 2; } .s6 { grid-column: 1 / -1; } .s3 { grid-column: span 3; } .s4 { grid-column: span 4; } .r2 { grid-row: span 2; }
+.well { background: var(--raised); border-radius: 16px; padding: 14px; display: grid; gap: 12px; }
+/* navbars */
+.nav1 { display: flex; align-items: center; gap: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 9px 12px; }
+.nav1 .lg { display: flex; align-items: center; gap: 7px; font: 600 14px var(--display); }
+.nav1 .lg i { width: 26px; height: 26px; border-radius: 8px; background: var(--accent); color: #fff; display: grid; place-items: center; }
+.nav1 a { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); text-decoration: none; font-weight: 500; font-size: 13px; padding: 5px 8px; border-radius: 8px; }
+.nav1 a.on { color: var(--ink); background: var(--raised); }
+.nav1 .sp { flex: 1; }
+.cta { display: inline-flex; gap: 6px; align-items: center; background: var(--ink); color: #fff; border-radius: 10px; padding: 7px 11px; font-weight: 600; font-size: 13px; }
+.nav2 { display: flex; align-items: center; gap: 4px; background: var(--ink); color: #c8cce6; border-radius: 99px; padding: 6px; width: fit-content; max-width: 100%; }
+.nav2 span { display: inline-flex; gap: 6px; align-items: center; padding: 7px 12px; border-radius: 99px; font-weight: 500; font-size: 13px; white-space: nowrap; }
+.nav2 span.on { background: #fff; color: var(--ink); }
+/* bottom navs */
+.bn { display: grid; grid-template-columns: repeat(4, 1fr); background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 8px 4px; }
+.bn div { display: grid; justify-items: center; gap: 2px; font: 500 10.5px var(--body); color: var(--muted); }
+.bn div.on { color: var(--accent); }
+.bn.pill div.on { flex-direction: row; }
+.bnp { display: flex; justify-content: space-between; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 7px; }
+.bnp span { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); padding: 8px 10px; border-radius: 12px; font-weight: 600; font-size: 12.5px; }
+.bnp span.on { background: var(--accent-soft); color: var(--accent); }
+.dock { display: flex; justify-content: center; gap: 10px; background: rgba(21,24,46,.92); border-radius: 22px; padding: 9px; width: fit-content; margin: 0 auto; color: #c8cce6; }
+.dock span { width: 42px; height: 42px; border-radius: 14px; display: grid; place-items: center; }
+.dock span.on { background: var(--accent); color: #2a1500; }
+/* menu */
+.menu { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 6px; box-shadow: 0 12px 30px rgba(21,24,46,.10); }
+.mi { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 9px; color: var(--ink); font-weight: 500; font-size: 13px; }
+.mi.on { background: var(--raised); }
+.mi kbd { margin-left: auto; font: 11px var(--mono); color: var(--muted); }
+.mi.danger { color: var(--bad); }
+.sep { height: 1px; background: var(--line); margin: 4px 6px; }
+.trigger { display: inline-flex; gap: 8px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 7px 10px; font-weight: 600; font-size: 13px; width: fit-content; }
+/* command palette */
+.palette { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; box-shadow: 0 18px 40px rgba(21,24,46,.12); }
+.palette .q { display: flex; align-items: center; gap: 10px; padding: 12px 14px; border-bottom: 1px solid var(--line); color: var(--muted); }
+.palette .q b { color: var(--ink); font-weight: 500; flex: 1; }
+.palette .grp { font: 500 10.5px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); padding: 10px 14px 4px; }
+.palette .mi { margin: 0 6px; }
+.palette .foot { display: flex; gap: 14px; padding: 9px 14px; border-top: 1px solid var(--line); color: var(--muted); font-size: 11.5px; }
+.palette .foot span { display: inline-flex; gap: 5px; align-items: center; }
+/* toolbar */
+.toolbar { display: flex; flex-wrap: wrap; gap: 2px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 5px; width: fit-content; max-width: 100%; }
+.toolbar span { width: 32px; height: 32px; border-radius: 8px; display: grid; place-items: center; color: var(--ink); }
+.toolbar span.on { background: var(--ink); color: #fff; }
+.toolbar .bar { width: 1px; height: 20px; align-self: center; background: var(--line); margin: 0 3px; }
+.doc { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; font-size: 13px; color: var(--muted); }
+.doc b { color: var(--ink); }
+/* player */
+.player { display: grid; gap: 12px; }
+.art { height: 120px; border-radius: 16px; background: linear-gradient(135deg, #2b2f5a, #6b4fd8 60%, #f08c1a); position: relative; display: grid; place-items: center; color: rgba(255,255,255,.85); }
+.prog { height: 4px; background: var(--line); border-radius: 99px; } .prog i { display: block; width: 42%; height: 100%; border-radius: inherit; background: var(--accent); }
+.ctrls { display: flex; justify-content: space-between; align-items: center; color: var(--ink); }
+.ctrls .big { width: 46px; height: 46px; border-radius: 50%; background: var(--ink); color: #fff; display: grid; place-items: center; }
+.times { display: flex; justify-content: space-between; font: 11px var(--mono); color: var(--muted); }
+/* weather */
+.weather { display: grid; gap: 10px; }
+.wtop { display: flex; align-items: center; gap: 14px; }
+.wtop .deg { font: 500 46px/1 var(--display); }
+.wtop .big { color: var(--accent); }
+.wrow { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.wrow div { background: var(--raised); border-radius: 12px; padding: 8px; display: grid; gap: 2px; justify-items: start; font-size: 12px; color: var(--muted); }
+.wrow b { color: var(--ink); font-size: 14px; }
+.hours { display: flex; justify-content: space-between; font-size: 11.5px; color: var(--muted); }
+.hours div { display: grid; justify-items: center; gap: 4px; }
+/* pricing */
+.plan { display: grid; gap: 10px; }
+.plan .name { display: flex; align-items: center; gap: 8px; font: 600 15px var(--body); }
+.plan .price { font: 500 34px/1 var(--display); } .plan .price small { font: 400 14px var(--body); color: var(--muted); }
+.feat { display: flex; gap: 8px; align-items: center; font-size: 13px; }
+.feat .ck { color: var(--good); } .feat.off { color: var(--muted); } .feat.off .ck { color: var(--muted); }
+.wide { display: inline-flex; justify-content: center; gap: 7px; align-items: center; background: var(--accent); color: #2a1500; border-radius: 12px; padding: 10px; font-weight: 700; }
+/* files */
+.frow { display: flex; align-items: center; gap: 10px; padding: 8px; border-radius: 12px; }
+.frow + .frow { border-top: 1px solid var(--line); border-radius: 0; }
+.frow .fi { width: 36px; height: 36px; border-radius: 10px; display: grid; place-items: center; flex: none; }
+.frow .tx { flex: 1; min-width: 0; } .frow .tx b { display: block; font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } .frow .tx span { font-size: 11.5px; color: var(--muted); }
+/* calendar */
+.cal { display: grid; gap: 10px; }
+.cal .h { display: flex; align-items: center; gap: 8px; font: 600 14px var(--body); }
+.cal .h .nav { margin-left: auto; display: flex; gap: 4px; }
+.cal .h .nav span { width: 28px; height: 28px; border-radius: 8px; border: 1px solid var(--line); display: grid; place-items: center; }
+.days { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; text-align: center; font: 12px var(--mono); color: var(--muted); }
+.days b { font-weight: 500; color: var(--ink); padding: 5px 0; border-radius: 8px; }
+.days b.on { background: var(--accent); color: #2a1500; } .days b.has { position: relative; } .days b.has::after { content: ""; position: absolute; left: 50%; bottom: 1px; width: 4px; height: 4px; margin-left: -2px; border-radius: 50%; background: var(--accent); }
+.ev { display: flex; gap: 10px; align-items: center; padding: 8px; border-radius: 12px; background: var(--raised); font-size: 12.5px; }
+.ev .ic { width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center; flex: none; }
+.ev b { display: block; font-size: 13px; } .ev span { color: var(--muted); }
+/* buttons & notifications */
+.btns { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.b { display: inline-flex; gap: 7px; align-items: center; border-radius: 11px; padding: 8px 12px; font-weight: 600; font-size: 13px; border: 1px solid var(--line); background: var(--surface); }
+.b.pri { background: var(--ink); color: #fff; border-color: var(--ink); }
+.b.acc { background: var(--accent); color: #2a1500; border-color: var(--accent); }
+.b.ghost { border-color: transparent; background: var(--raised); }
+.b.icon { padding: 8px; }
+.b.liked { color: var(--bad); border-color: #f6c9bf; background: var(--bad-soft); }
+.chiprow { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; gap: 5px; align-items: center; padding: 5px 10px; border-radius: 99px; background: var(--raised); font-size: 12.5px; font-weight: 500; }
+.chip.on { background: var(--ink); color: #fff; }
+.note { display: flex; gap: 10px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 10px 12px; box-shadow: 0 6px 18px rgba(21,24,46,.06); }
+.note .ic { width: 32px; height: 32px; border-radius: 10px; display: grid; place-items: center; flex: none; }
+.note .tx { flex: 1; min-width: 0; font-size: 12.5px; color: var(--muted); } .note .tx b { display: block; color: var(--ink); font-size: 13px; }
+.note .x { color: var(--muted); }
+.pagefoot { margin-top: 40px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; color: var(--muted); font-size: 12.5px; }
+
+@media (max-width: 1180px) {
+  .stage { height: auto; padding: 28px; display: grid; gap: 28px; justify-items: center; }
+  .browser, .phone { position: relative; left: auto; right: auto; top: auto; transform: none; }
+  .browser { width: 100%; }
+  .phones { display: flex; flex-wrap: wrap; gap: 28px; justify-content: center; }
+}
+@media (min-width: 1181px) { .phones { display: contents; } }
+@media (max-width: 1000px) { .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); } .s3, .s4 { grid-column: span 2; } .r2 { grid-row: auto; } }
+@media (max-width: 720px) {
+  .dash { grid-template-columns: 52px minmax(0, 1fr); height: auto; overflow: visible; }
+  .kpis { grid-template-columns: minmax(0, 1fr); } .two { grid-template-columns: minmax(0, 1fr); }
+  .searchpill { display: none; }
+  .bento { grid-template-columns: minmax(0, 1fr); } .s2, .s3, .s4 { grid-column: auto; }
+  .stage { padding: 14px; border-radius: 20px; }
+  .nav1 a:not(.on) { display: none; }
+  .nav1 { flex-wrap: wrap; }
+  .nav2 { overflow-x: auto; scrollbar-width: none; }
+  .nav2 span { flex: none; }
+  .well, .tilecard { min-width: 0; overflow: hidden; }
+}
+@media (max-width: 380px) { .phone { width: 100%; } }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="mast">
+    <a class="brand" href="../" style="text-decoration:none;color:inherit"><span class="mk" data-i="sparkle" data-w="fill" data-s="16"></span>Icon Monks</a>
+    <div class="weights" id="weights" role="group" aria-label="Icon weight"></div>
+  </div>
+
+  <section class="hero">
+    <div class="eyebrow">Showcase · light</div>
+    <h1>One icon set, <em>every screen</em>.</h1>
+    <p>A dashboard, a wallet app and a chat app, plus the small parts every product needs: navbars, bottom navs, menus, toolbars and cards. Every glyph here is an Icon Monks icon. Switch the weight above to change them all at once.</p>
+    <div class="facts">
+      <span class="fact" data-i="squares-four" data-s="16"><b>__COUNT__</b> icons</span>
+      <span class="fact" data-i="sliders-horizontal" data-s="16"><b>6</b> weights</span>
+      <span class="fact" data-i="code" data-s="16">React · Vue · Flutter · Swift · Compose</span>
+    </div>
+  </section>
+
+  <section class="stage" aria-label="Device mockups">
+    <div class="browser">
+      <div class="chrome"><div class="lights"><i style="background:#ff6058"></i><i style="background:#ffbd2e"></i><i style="background:#28c840"></i></div><div class="url"><i data-i="lock-key" data-s="12" data-w="fill"></i>orbit.app/dashboard</div><span data-i="arrow-clockwise" data-s="14" style="color:var(--muted)"></span></div>
+      <div class="dash">
+        <nav class="rail" aria-label="App">
+          <span class="logo" data-i="sparkle" data-s="18" data-w="fill"></span>
+          <span class="r on" data-i="squares-four" data-s="20" data-active></span>
+          <span class="r" data-i="chart-bar" data-s="20"></span>
+          <span class="r" data-i="package" data-s="20"></span>
+          <span class="r" data-i="users" data-s="20"></span>
+          <span class="r" data-i="chat-dots" data-s="20"></span>
+          <span class="r bottom" data-i="gear" data-s="20"></span>
+        </nav>
+        <div class="main">
+          <div class="mhead"><h3>Overview</h3><span class="searchpill"><i data-i="magnifying-glass" data-s="15"></i>Search…</span><span class="ib" data-i="bell" data-s="16"><span class="dot"></span></span><span class="av">SA</span></div>
+          <div class="kpis">
+            <div class="kpi"><div class="t">Revenue<span class="ico" style="background:var(--accent-soft);color:var(--accent)" data-i="wallet" data-s="16" data-w="duotone"></span></div><b>$48,290</b><span class="delta up" data-i="arrow-up-right" data-s="11" data-w="bold">12.4%</span></div>
+            <div class="kpi"><div class="t">Orders<span class="ico" style="background:var(--info-soft);color:var(--info)" data-i="shopping-cart" data-s="16" data-w="duotone"></span></div><b>1,204</b><span class="delta up" data-i="arrow-up-right" data-s="11" data-w="bold">8.1%</span></div>
+            <div class="kpi"><div class="t">Refunds<span class="ico" style="background:var(--bad-soft);color:var(--bad)" data-i="receipt-plus" data-s="16" data-w="duotone"></span></div><b>1.8%</b><span class="delta down" data-i="arrow-down-right" data-s="11" data-w="bold">0.4%</span></div>
+          </div>
+          <div class="two">
+            <div class="panel"><h4><i data-i="chart-bar" data-s="16"></i>Revenue<span><i data-i="calendar" data-s="13"></i>12 months</span></h4><div class="bars" id="bars"></div></div>
+            <div class="panel"><h4><i data-i="lightning" data-s="16"></i>Activity</h4>
+              <div class="row"><span class="ic" style="background:var(--good-soft);color:var(--good)" data-i="check-circle" data-s="16"></span><div class="tx"><b>Order delivered</b><span>2 min ago</span></div></div>
+              <div class="row"><span class="ic" style="background:var(--info-soft);color:var(--info)" data-i="chat-dots" data-s="16"></span><div class="tx"><b>New message</b><span>14 min ago</span></div></div>
+              <div class="row"><span class="ic" style="background:var(--bad-soft);color:var(--bad)" data-i="warning" data-s="16"></span><div class="tx"><b>Payment failed</b><span>1 h ago</span></div></div>
+              <div class="row"><span class="ic" style="background:var(--accent-soft);color:var(--accent)" data-i="star" data-s="16"></span><div class="tx"><b>5-star review</b><span>3 h ago</span></div></div>
+            </div>
+          </div>
+          <div class="panel"><h4><i data-i="truck" data-s="16"></i>Shipments<span>View all<i data-i="caret-right" data-s="12"></i></span></h4>
+            <div class="row"><span class="ic" style="background:var(--raised)" data-i="package" data-s="16"></span><div class="tx"><b>Desk lamp · Mia Khan</b><span>Lisbon · arriving Friday</span></div><span class="amt">$84.00</span></div>
+            <div class="row"><span class="ic" style="background:var(--raised)" data-i="airplane" data-s="16"></span><div class="tx"><b>Mug set · Jon Rivera</b><span>In transit · Madrid</span></div><span class="amt">$36.50</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="phones">
+      <div class="phone p2" aria-label="Chat app">
+        <div class="scr"><span class="notch"></span>
+          <div class="sbar"><span>9:41</span><span class="r"><i data-i="lightning" data-s="13" data-w="fill"></i></span></div>
+          <div class="chathead"><i data-i="caret-left" data-s="18"></i><span class="av" style="width:32px;height:32px">MK</span><div class="tx"><b>Mia Khan</b><span>Online</span></div><div class="end"><i data-i="phone" data-s="18"></i><i data-i="video-camera" data-s="18"></i></div></div>
+          <div class="msgs">
+            <div class="msg them">Did the lamp arrive okay?</div>
+            <div class="msg me">Yes! Looks great on the desk.</div>
+            <div class="react" data-i="heart" data-s="11" data-w="fill" style="color:var(--bad)">1</div>
+            <div class="msg them att"><span class="fi" data-i="file-pdf" data-s="16" data-w="duotone"></span><div><b style="display:block;font-size:12px">Invoice-4821.pdf</b><span style="font-size:11px;color:var(--muted)">124 KB</span></div></div>
+            <div class="msg me">Thanks, paid just now.</div>
+          </div>
+          <div class="composer"><i data-i="plus" data-s="18"></i><span class="field">Message</span><i data-i="smiley" data-s="18"></i><span class="send" data-i="paper-plane" data-s="16" data-w="fill"></span></div>
+        </div>
+      </div>
+      <div class="phone p1" aria-label="Wallet app">
+        <div class="scr"><span class="notch"></span>
+          <div class="sbar"><span>9:41</span><span class="r"><i data-i="globe" data-s="13"></i><i data-i="lightning" data-s="13" data-w="fill"></i></span></div>
+          <div class="ahead"><div><small>Good morning</small><h5>Saiful</h5></div><span class="ib" data-i="bell" data-s="16"><span class="dot"></span></span></div>
+          <div class="pbody">
+            <div class="balance"><small>Total balance</small><b>$12,480.20</b><div class="acts"><span data-i="plus" data-s="13" data-w="bold">Add</span><span data-i="arrow-up-right" data-s="13" data-w="bold">Send</span><span data-i="receipt-plus" data-s="13" data-w="bold">Bills</span></div></div>
+            <div class="quick"><div><span data-i="credit-card" data-s="20"></span>Cards</div><div><span data-i="ticket" data-s="20"></span>Tickets</div><div><span data-i="trophy" data-s="20"></span>Rewards</div><div><span data-i="map-pin" data-s="20"></span>Nearby</div></div>
+            <div class="plist">
+              <div class="row"><span class="ic" style="background:var(--accent-soft);color:var(--accent)" data-i="coffee" data-s="16"></span><div class="tx"><b>Blue Bottle</b><span>Today · Food</span></div><span class="amt">−$6.40</span></div>
+              <div class="row"><span class="ic" style="background:var(--info-soft);color:var(--info)" data-i="airplane" data-s="16"></span><div class="tx"><b>Lisbon flight</b><span>Yesterday</span></div><span class="amt">−$212</span></div>
+              <div class="row"><span class="ic" style="background:var(--good-soft);color:var(--good)" data-i="briefcase" data-s="16"></span><div class="tx"><b>Salary</b><span>Oct 15</span></div><span class="amt" style="color:var(--good)">+$4,200</span></div>
+            </div>
+          </div>
+          <nav class="tabbar" id="tabbar" aria-label="Wallet tabs">
+            <button class="tab on" type="button" data-tab="house">Home</button>
+            <button class="tab" type="button" data-tab="chart-pie-slice">Stats</button>
+            <button class="tab" type="button" data-tab="plus">Pay</button>
+            <button class="tab" type="button" data-tab="wallet">Cards</button>
+            <button class="tab" type="button" data-tab="user">Me</button>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-title"><h2>The parts every product needs</h2><p>Navigation, menus, editors and cards, framed the way they appear in real apps. Active states use the fill weight.</p></div>
+
+  <div class="bento">
+    <div class="tilecard s4"><div class="tag">Top navigation <em>web</em></div>
+      <div class="well">
+        <div class="nav1"><span class="lg"><i data-i="sparkle" data-s="14" data-w="fill"></i>Orbit</span><a class="on" href="#" data-i="house" data-s="15" data-active>Home</a><a href="#" data-i="compass" data-s="15">Explore</a><a href="#" data-i="chart-line-up" data-s="15">Insights</a><span class="sp"></span><span class="ib" data-i="magnifying-glass" data-s="15"></span><span class="ib" data-i="bell" data-s="15"><span class="dot"></span></span><span class="cta" data-i="plus" data-s="14" data-w="bold">New</span></div>
+        <div class="nav2"><span class="on" data-i="squares-four" data-s="15" data-active>Overview</span><span data-i="folder" data-s="15">Projects</span><span data-i="users" data-s="15">Team</span><span data-i="gear" data-s="15">Settings</span></div>
+      </div>
+    </div>
+
+    <div class="tilecard s2 r2"><div class="tag">Command palette <em>⌘K</em></div>
+      <div class="palette">
+        <div class="q"><i data-i="magnifying-glass" data-s="16"></i><b>inv</b><span class="kbd" style="font:11px var(--mono)">esc</span></div>
+        <div class="grp">Actions</div>
+        <div class="mi on" data-i="receipt-plus" data-s="16">Create invoice<kbd>⌘I</kbd></div>
+        <div class="mi" data-i="paper-plane" data-s="16">Send invoice<kbd>⌘⇧S</kbd></div>
+        <div class="mi" data-i="download" data-s="16">Export invoices<kbd>⌘E</kbd></div>
+        <div class="grp">Go to</div>
+        <div class="mi" data-i="file-text" data-s="16">Invoices</div>
+        <div class="mi" data-i="users" data-s="16">Customers</div>
+        <div class="mi" data-i="gear" data-s="16">Settings</div>
+        <div class="foot"><span data-i="arrow-right" data-s="12">open</span><span data-i="command" data-s="12">K toggle</span><span data-i="keyboard" data-s="12">shortcuts</span></div>
+      </div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Bottom navigation <em>three styles</em></div>
+      <div class="bn" data-bn><div class="on" data-i="house" data-s="20" data-active>Home</div><div data-i="magnifying-glass" data-s="20">Search</div><div data-i="heart" data-s="20">Saved</div><div data-i="user" data-s="20">Profile</div></div>
+      <div class="bnp"><span class="on" data-i="house" data-s="18" data-active>Home</span><span data-i="compass" data-s="18"></span><span data-i="chat-dots" data-s="18"></span><span data-i="user" data-s="18"></span></div>
+      <div class="dock"><span class="on" data-i="house" data-s="20" data-w="fill"></span><span data-i="compass" data-s="20"></span><span data-i="plus" data-s="20" data-w="bold"></span><span data-i="bell" data-s="20"></span><span data-i="user" data-s="20"></span></div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Dropdown menu</div>
+      <span class="trigger" data-i="dots-three" data-s="16">Actions<i data-i="caret-down" data-s="14"></i></span>
+      <div class="menu">
+        <div class="mi on" data-i="pencil" data-s="16">Edit<kbd>E</kbd></div>
+        <div class="mi" data-i="copy" data-s="16">Duplicate<kbd>⌘D</kbd></div>
+        <div class="mi" data-i="share-network" data-s="16">Share<kbd>S</kbd></div>
+        <div class="mi" data-i="eye" data-s="16">Preview</div>
+        <div class="sep"></div>
+        <div class="mi danger" data-i="trash" data-s="16">Delete<kbd>⌫</kbd></div>
+      </div>
+    </div>
+
+    <div class="tilecard s3"><div class="tag">Editor toolbar</div>
+      <div class="toolbar"><span class="on" data-i="text-b" data-s="16" data-w="bold"></span><span data-i="text-italic" data-s="16"></span><span data-i="text-underline" data-s="16"></span><span data-i="text-strikethrough" data-s="16"></span><i class="bar"></i><span data-i="list-bullets" data-s="16"></span><span data-i="list-numbers" data-s="16"></span><span data-i="quotes" data-s="16"></span><i class="bar"></i><span data-i="link" data-s="16"></span><span data-i="image" data-s="16"></span><span data-i="code" data-s="16"></span><span data-i="magic-wand" data-s="16"></span></div>
+      <div class="doc"><b>Q4 launch notes.</b> Ship the new icon set with six weights, brand logos and a lighter web component. Draft by Saiful, edited 2 min ago.</div>
+    </div>
+
+    <div class="tilecard s3"><div class="tag">Notifications</div>
+      <div class="note"><span class="ic" style="background:var(--good-soft);color:var(--good)" data-i="check-circle" data-s="16" data-w="fill"></span><div class="tx"><b>Payment received</b>$84.00 from Mia Khan</div><i class="x" data-i="x" data-s="14"></i></div>
+      <div class="note"><span class="ic" style="background:var(--info-soft);color:var(--info)" data-i="cloud-arrow-up" data-s="16" data-w="duotone"></span><div class="tx"><b>Backup complete</b>2,418 files synced</div><i class="x" data-i="x" data-s="14"></i></div>
+      <div class="note"><span class="ic" style="background:var(--bad-soft);color:var(--bad)" data-i="warning" data-s="16" data-w="fill"></span><div class="tx"><b>Card expiring</b>Update your Visa ending 4242</div><i class="x" data-i="x" data-s="14"></i></div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Music player</div>
+      <div class="player"><div class="art" data-i="headphones" data-s="40" data-w="duotone"></div>
+        <div><b>Night Drive</b><div style="color:var(--muted);font-size:12.5px">Lo-fi mix · 24 tracks</div></div>
+        <div class="prog"><i></i></div><div class="times"><span>1:24</span><span>3:18</span></div>
+        <div class="ctrls"><i data-i="shuffle" data-s="18"></i><i data-i="skip-back" data-s="22" data-w="fill"></i><span class="big" data-i="pause" data-s="20" data-w="fill"></span><i data-i="skip-forward" data-s="22" data-w="fill"></i><i data-i="repeat" data-s="18"></i></div>
+      </div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Weather</div>
+      <div class="weather">
+        <div class="wtop"><span class="big" data-i="cloud-sun" data-s="56" data-w="duotone"></span><div><div class="deg">24°</div><span style="color:var(--muted)">Lisbon · Partly cloudy</span></div></div>
+        <div class="wrow"><div data-i="wind" data-s="16"><b>12 km/h</b>Wind</div><div data-i="drop" data-s="16"><b>48%</b>Humidity</div><div data-i="thermometer" data-s="16"><b>27°</b>High</div></div>
+        <div class="hours"><div>9am<i data-i="sun" data-s="18"></i>21°</div><div>12pm<i data-i="cloud-sun" data-s="18"></i>24°</div><div>3pm<i data-i="cloud-sun" data-s="18"></i>26°</div><div>6pm<i data-i="cloud-rain" data-s="18"></i>22°</div><div>9pm<i data-i="moon" data-s="18"></i>19°</div></div>
+      </div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Pricing</div>
+      <div class="plan">
+        <div class="name"><span data-i="crown" data-s="18" data-w="duotone" style="color:var(--accent)"></span>Pro</div>
+        <div class="price">$12<small> / month</small></div>
+        <div class="feat" data-i="check-circle" data-s="16" data-w="fill" data-ck>Unlimited projects</div>
+        <div class="feat" data-i="check-circle" data-s="16" data-w="fill" data-ck>Team seats and roles</div>
+        <div class="feat" data-i="check-circle" data-s="16" data-w="fill" data-ck>Priority support</div>
+        <div class="feat off" data-i="x" data-s="16" data-ck>Custom domains</div>
+        <span class="wide" data-i="rocket" data-s="16" data-w="fill">Upgrade to Pro</span>
+      </div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Files</div>
+      <div>
+        <div class="frow"><span class="fi" style="background:var(--bad-soft);color:var(--bad)" data-i="file-pdf" data-s="18" data-w="duotone"></span><div class="tx"><b>Q4-report.pdf</b><span>2.4 MB · Today</span></div><i data-i="dots-three-vertical" data-s="16"></i></div>
+        <div class="frow"><span class="fi" style="background:var(--violet-soft);color:var(--violet)" data-i="file-image" data-s="18" data-w="duotone"></span><div class="tx"><b>hero-shot.png</b><span>1.1 MB · Yesterday</span></div><i data-i="dots-three-vertical" data-s="16"></i></div>
+        <div class="frow"><span class="fi" style="background:var(--accent-soft);color:var(--accent)" data-i="file-zip" data-s="18" data-w="duotone"></span><div class="tx"><b>brand-assets.zip</b><span>48 MB · Oct 12</span></div><i data-i="dots-three-vertical" data-s="16"></i></div>
+        <div class="frow"><span class="fi" style="background:var(--info-soft);color:var(--info)" data-i="folder" data-s="18" data-w="duotone"></span><div class="tx"><b>Contracts</b><span>14 files</span></div><i data-i="caret-right" data-s="16"></i></div>
+      </div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Calendar</div>
+      <div class="cal">
+        <div class="h"><i data-i="calendar" data-s="16"></i>October<span class="nav"><span data-i="caret-left" data-s="14"></span><span data-i="caret-right" data-s="14"></span></span></div>
+        <div class="days"><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span><span>S</span><b>13</b><b>14</b><b class="has">15</b><b>16</b><b class="on">17</b><b>18</b><b class="has">19</b></div>
+        <div class="ev"><span class="ic" style="background:var(--info-soft);color:var(--info)" data-i="video-camera" data-s="15"></span><div><b>Design review</b><span>10:00 · 30 min</span></div></div>
+        <div class="ev"><span class="ic" style="background:var(--accent-soft);color:var(--accent)" data-i="coffee" data-s="15"></span><div><b>Coffee with Mia</b><span>13:30 · Café Lisboa</span></div></div>
+      </div>
+    </div>
+
+    <div class="tilecard s2"><div class="tag">Buttons &amp; chips</div>
+      <div class="btns"><span class="b pri" data-i="plus" data-s="15" data-w="bold">Create</span><span class="b" data-i="download" data-s="15">Export</span><span class="b acc" data-i="sparkle" data-s="15" data-w="fill">Generate</span></div>
+      <div class="btns"><span class="b icon liked" data-i="heart" data-s="16" data-w="fill"></span><span class="b icon" data-i="bookmark" data-s="16"></span><span class="b icon" data-i="share-network" data-s="16"></span><span class="b ghost" data-i="funnel" data-s="15">Filter</span><span class="b ghost" data-i="sliders-horizontal" data-s="15">Sort</span></div>
+      <div class="chiprow"><span class="chip on" data-i="fire" data-s="13" data-w="fill">Trending</span><span class="chip" data-i="hash" data-s="13">design</span><span class="chip" data-i="palette" data-s="13">brand</span><span class="chip" data-i="tag" data-s="13">sale</span><span class="chip" data-i="at" data-s="13">mentions</span></div>
+    </div>
+
+    <div class="tilecard s6"><div class="tag">Integrations <em>brand logos</em></div>
+      <div class="btns">
+        <span class="b" data-i="github-logo" data-s="16">GitHub</span><span class="b" data-i="figma-logo" data-s="16">Figma</span><span class="b" data-i="slack-logo" data-s="16">Slack</span>
+        <span class="b" data-i="notion-logo" data-s="16">Notion</span><span class="b" data-i="stripe-logo" data-s="16">Stripe</span><span class="b" data-i="spotify-logo" data-s="16">Spotify</span>
+        <span class="b pri" data-i="google-logo" data-s="16">Continue with Google</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pagefoot"><span>Mock data and names. Brand marks are trademarks of their owners.</span><span><a href="../" style="color:inherit">Browse all icons</a> · MIT · Design Monks</span></div>
+</div>
+
+<script>/*ICONS*/</script>
+<script>
+const WEIGHTS = ['thin', 'light', 'regular', 'bold', 'fill', 'duotone'];
+let weight = 'regular';
+try { weight = localStorage.getItem('ims-weight') || 'regular'; } catch (e) {}
+function svg(name, w, size) {
+  const p = ICONS[name]; if (!p) return '';
+  const d = p[w] || p.regular;
+  const b = Array.isArray(d) ? (d[0] ? `<path d="${d[0]}" opacity=".2"/>` : '') + `<path d="${d[1]}"/>` : `<path d="${d}"/>`;
+  return `<svg class="i" viewBox="0 0 256 256" width="${size}" height="${size}" fill="currentColor" aria-hidden="true">${b}</svg>`;
+}
+function paint() {
+  document.querySelectorAll('[data-i]').forEach((el) => {
+    const active = el.hasAttribute('data-active') || el.classList.contains('on') && el.closest('.bn, .bnp, .rail, .nav1, .nav2');
+    const w = el.dataset.w || (active ? 'fill' : weight), s = +el.dataset.s || 18;
+    el.querySelector(':scope > svg.i')?.remove();
+    el.insertAdjacentHTML('afterbegin', svg(el.dataset.i, w, s));
+  });
+  document.querySelectorAll('#tabbar .tab').forEach((b) => {
+    b.querySelector(':scope > svg, :scope > .fab')?.remove();
+    const n = b.dataset.tab, on = b.classList.contains('on');
+    b.insertAdjacentHTML('afterbegin', n === 'plus' ? `<span class="fab">${svg('plus', 'bold', 22)}</span>` : svg(n, on ? 'fill' : weight, 22));
+  });
+}
+function renderWeights() {
+  const el = document.getElementById('weights');
+  el.innerHTML = WEIGHTS.map((w) => `<button type="button" data-w="${w}" aria-pressed="${w === weight}">${w[0].toUpperCase() + w.slice(1)}</button>`).join('');
+}
+document.getElementById('weights').addEventListener('click', (e) => {
+  const b = e.target.closest('button'); if (!b) return;
+  weight = b.dataset.w; try { localStorage.setItem('ims-weight', weight); } catch (er) {}
+  renderWeights(); paint();
+});
+document.getElementById('tabbar').addEventListener('click', (e) => {
+  const b = e.target.closest('.tab'); if (!b || b.dataset.tab === 'plus') return;
+  document.querySelectorAll('#tabbar .tab').forEach((t) => t.classList.toggle('on', t === b)); paint();
+});
+document.querySelectorAll('a[href="#"]').forEach((a) => a.addEventListener('click', (e) => e.preventDefault()));
+document.getElementById('bars').innerHTML = [38, 52, 44, 61, 58, 70, 66, 74, 69, 82, 88, 96].map((v, i) => `<i class="${i === 11 ? 'hi' : ''}" style="height:${v}%"></i>`).join('');
+if (!WEIGHTS.includes(weight)) weight = 'regular';
+renderWeights(); paint();
+</script>
+</body>
+</html>
