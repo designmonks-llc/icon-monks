@@ -35,9 +35,6 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .page { max-width: 1280px; margin: 0 auto; padding-block: 28px 72px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 
 /* Header */
-.mast { display: flex; flex-wrap: wrap; gap: 16px 24px; align-items: center; justify-content: space-between; padding-bottom: 8px; }
-.brand { display: flex; align-items: center; gap: 10px; font: 600 17px var(--display); }
-.brand .mk { width: 32px; height: 32px; border-radius: 10px; background: var(--ink); color: #fff; display: grid; place-items: center; }
 .weights { display: inline-flex; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 4px; gap: 2px; box-shadow: 0 1px 2px rgba(21,24,46,.04); flex-wrap: wrap; }
 .weights button { border: 0; background: none; color: var(--muted); font: 500 13px var(--body); padding: 6px 11px; border-radius: 8px; cursor: pointer; }
 .weights button[aria-pressed="true"] { background: var(--ink); color: #fff; }
@@ -262,24 +259,56 @@ h1 em { font-style: normal; color: var(--accent); }
   .well, .tilecard { min-width: 0; overflow: hidden; }
 }
 @media (max-width: 380px) { .phone { width: 100%; } }
+
+.site-head { --h-bg: var(--paper, var(--canvas)); --h-ink: var(--ink); --h-muted: var(--muted); --h-rule: var(--rule, var(--line)); --h-sheet: var(--sheet, var(--surface));
+  background: var(--h-bg); border-bottom: 1px solid var(--h-rule); }
+.site-head-in { max-width: var(--head-max, 1240px); margin: 0 auto; display: flex; align-items: center; gap: 28px; padding-block: 12px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.site-brand { display: flex; align-items: center; gap: 10px; font: 500 18px var(--display); color: var(--h-ink); text-decoration: none; white-space: nowrap; }
+.site-brand img { display: block; border-radius: 7px; }
+.site-links { display: flex; gap: 22px; font-size: 14px; }
+.site-links a { color: var(--h-muted); text-decoration: none; white-space: nowrap; }
+.site-links a:hover, .site-links a[aria-current="page"] { color: var(--h-ink); }
+.site-acts { margin-left: auto; display: flex; align-items: center; gap: 8px; }
+.site-gh, .site-theme { display: inline-flex; align-items: center; gap: 7px; height: 36px; border: 1px solid var(--h-rule); background: var(--h-sheet);
+  color: var(--h-ink); border-radius: 10px; font: 500 13.5px var(--body); text-decoration: none; cursor: pointer; }
+.site-gh { padding: 0 12px; }
+.site-theme { width: 36px; justify-content: center; padding: 0; color: var(--h-muted); }
+.site-theme:hover, .site-gh:hover { border-color: var(--h-muted); }
+.site-theme .ui-i { display: none; }
+.site-theme[data-mode="system"] .ui-i:nth-child(1), .site-theme[data-mode="light"] .ui-i:nth-child(2), .site-theme[data-mode="dark"] .ui-i:nth-child(3) { display: block; }
+.site-head a:focus-visible, .site-head button:focus-visible { outline: 2px solid var(--saffron, var(--accent)); outline-offset: 2px; }
+.ui-i { display: block; flex: none; }
+@media (max-width: 720px) {
+  .site-head-in { flex-wrap: wrap; gap: 10px 16px; }
+  .site-links { order: 3; width: 100%; gap: 18px; overflow-x: auto; scrollbar-width: none; }
+  .site-gh span { display: none; }
+  .site-gh { width: 36px; justify-content: center; padding: 0; }
+}
+:root { --head-max: 1280px; }
+.weights { width: fit-content; margin-top: 6px; }
 </style>
 </head>
 <body>
-<div class="page">
-  <div class="mast">
-    <a class="brand" href="../" style="text-decoration:none;color:inherit"><img src="../favicon.svg" alt="" width="32" height="32" style="border-radius:9px">Icon Monks</a>
-    <div class="weights" id="weights" role="group" aria-label="Icon weight"></div>
+<header class="site-head"><div class="site-head-in">
+  <a class="site-brand" href="../"><img src="../favicon.svg" alt="" width="28" height="28">Icon Monks</a>
+  <nav class="site-links" aria-label="Main"><a href="../">Icons</a><a href="../categories/">Categories</a><a href="../getting-started/">Get started</a><a href="../showcase/" aria-current="page">Showcase</a></nav>
+  <div class="site-acts">
+    <a class="site-gh" href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener"><svg class="ui-i" viewBox="0 0 256 256" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M100.94 223.39A8 8 0 0 0 104 224H152A8 8 0 0 0 160 216V190.79Q181.78 186.3 194.12 171.65Q208 155.17 208 128Q208 102.7 195.69 88.53L191.96 51.2A8 8 0 0 0 180.11 45.01L145.93 64H110.07L75.89 45.01A8 8 0 0 0 64.04 51.2L60.31 88.53Q48 102.7 48 128Q48 153.11 59.86 169.1A34.38 34.38 0 0 1 68.26 172.8Q72.51 175.36 79.79 181.75Q85.37 186.65 88.93 188.99A77.09 77.09 0 0 0 96 190.79V192.02A18.39 18.39 0 0 0 102.68 192.11A8 8 0 0 1 108.23 206.79A8 8 0 0 1 105.32 207.89A34.78 34.78 0 0 1 96 208.21V216A8 8 0 0 0 100.94 223.39Z"/></svg><span>GitHub</span></a>
+    
   </div>
+</div></header>
+<div class="page">
 
   <section class="hero">
-    <div class="eyebrow">Showcase · light</div>
     <h1>One icon set, <em>every screen</em>.</h1>
-    <p>A dashboard, a wallet app and a chat app, plus the small parts every product needs: navbars, bottom navs, menus, toolbars and cards. Every glyph here is an Icon Monks icon. Switch the weight above to change them all at once.</p>
+    <p>A dashboard, a wallet app and a chat app, plus the small parts every product needs: navbars, bottom navs, menus, toolbars and cards. Every glyph here is an Icon Monks icon. Switch the weight to change them all at once.</p>
     <div class="facts">
       <span class="fact" data-i="squares-four" data-s="16"><b>5,518</b> icons</span>
       <span class="fact" data-i="sliders-horizontal" data-s="16"><b>6</b> weights</span>
       <span class="fact" data-i="code" data-s="16">React · Vue · Flutter · Swift · Compose</span>
     </div>
+    <div class="weights" id="weights" role="group" aria-label="Icon weight"></div>
   </section>
 
   <section class="stage" aria-label="Device mockups">

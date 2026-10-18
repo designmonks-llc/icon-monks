@@ -35,9 +35,6 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .page { max-width: 1280px; margin: 0 auto; padding-block: 28px 72px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 
 /* Header */
-.mast { display: flex; flex-wrap: wrap; gap: 16px 24px; align-items: center; justify-content: space-between; padding-bottom: 8px; }
-.brand { display: flex; align-items: center; gap: 10px; font: 600 17px var(--display); }
-.brand .mk { width: 32px; height: 32px; border-radius: 10px; background: var(--ink); color: #fff; display: grid; place-items: center; }
 .weights { display: inline-flex; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 4px; gap: 2px; box-shadow: 0 1px 2px rgba(21,24,46,.04); flex-wrap: wrap; }
 .weights button { border: 0; background: none; color: var(--muted); font: 500 13px var(--body); padding: 6px 11px; border-radius: 8px; cursor: pointer; }
 .weights button[aria-pressed="true"] { background: var(--ink); color: #fff; }
@@ -262,24 +259,24 @@ h1 em { font-style: normal; color: var(--accent); }
   .well, .tilecard { min-width: 0; overflow: hidden; }
 }
 @media (max-width: 380px) { .phone { width: 100%; } }
+/*__HEADER_CSS__*/
+:root { --head-max: 1280px; }
+.weights { width: fit-content; margin-top: 6px; }
 </style>
 </head>
 <body>
+__HEADER__
 <div class="page">
-  <div class="mast">
-    <a class="brand" href="../" style="text-decoration:none;color:inherit"><img src="../favicon.svg" alt="" width="32" height="32" style="border-radius:9px">Icon Monks</a>
-    <div class="weights" id="weights" role="group" aria-label="Icon weight"></div>
-  </div>
 
   <section class="hero">
-    <div class="eyebrow">Showcase · light</div>
     <h1>One icon set, <em>every screen</em>.</h1>
-    <p>A dashboard, a wallet app and a chat app, plus the small parts every product needs: navbars, bottom navs, menus, toolbars and cards. Every glyph here is an Icon Monks icon. Switch the weight above to change them all at once.</p>
+    <p>A dashboard, a wallet app and a chat app, plus the small parts every product needs: navbars, bottom navs, menus, toolbars and cards. Every glyph here is an Icon Monks icon. Switch the weight to change them all at once.</p>
     <div class="facts">
       <span class="fact" data-i="squares-four" data-s="16"><b>__COUNT__</b> icons</span>
       <span class="fact" data-i="sliders-horizontal" data-s="16"><b>6</b> weights</span>
       <span class="fact" data-i="code" data-s="16">React · Vue · Flutter · Swift · Compose</span>
     </div>
+    <div class="weights" id="weights" role="group" aria-label="Icon weight"></div>
   </section>
 
   <section class="stage" aria-label="Device mockups">

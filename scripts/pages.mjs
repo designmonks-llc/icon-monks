@@ -5,6 +5,7 @@
 //   getting-started/, license/
 // Pages share site.css and link to the SVG files GitHub Pages serves from svg/.
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
+import { header, HEADER_CSS, HEADER_JS } from './chrome.mjs';
 
 const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const pascal = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join('');
@@ -63,10 +64,7 @@ export function buildPages({ root, data, SITE, REPO, count, version }) {
 ${ld({ '@graph': [breadcrumb, ...jsonld] })}
 </head>
 <body>
-<header class="nav"><div class="wrap">
-  <a class="brand" href="${up}"><img src="${up}favicon.svg" alt="" width="24" height="24">Icon Monks</a>
-  <nav aria-label="Main"><a href="${up}">Icons</a><a href="${up}categories/">Categories</a><a href="${up}getting-started/">Get started</a><a href="${up}showcase/">Showcase</a><a href="${up}license/">License</a><a href="${REPO}">GitHub</a><label class="theme"><span class="sr">Theme</span><select id="theme" aria-label="Theme"><option value="">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label></nav>
-</div></header>
+${header({ byName, up, REPO, current: path.startsWith('categories') ? 'categories' : path.startsWith('getting-started') ? 'start' : '' })}
 <main class="wrap">
   <ol class="crumbs">${trail.map(([name, p], k) => k === trail.length - 1 ? `<li aria-current="page">${esc(name)}</li>` : `<li><a href="${up}${p}">${esc(name)}</a></li>`).join('')}</ol>
   <h1>${h1}</h1>
@@ -79,7 +77,7 @@ ${ld({ '@graph': [breadcrumb, ...jsonld] })}
   <nav aria-label="Platforms"><h2>Platforms</h2><ul>${PLATFORMS.map((p) => `<li><a href="${up}${p.path}">${p.short}</a></li>`).join('')}</ul></nav>
   <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="${up}getting-started/">Get started</a></li><li><a href="${up}license/">License</a></li><li><a href="${REPO}/releases">Releases</a></li><li><a href="${REPO}/issues">Request an icon</a></li><li><a href="${REPO}">GitHub</a></li></ul></nav>
 </div></footer>
-<script>(()=>{const s=document.getElementById('theme');if(!s)return;s.value=document.documentElement.dataset.theme||'';s.addEventListener('change',()=>{const t=s.value;if(t)document.documentElement.dataset.theme=t;else delete document.documentElement.dataset.theme;try{localStorage.setItem('im-theme',t)}catch(e){}})})()</script>
+${HEADER_JS}
 </body>
 </html>
 `;
@@ -252,7 +250,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</code></pre>`,
   }));
 
-  writeFileSync(new URL('site.css', root), CSS);
+  writeFileSync(new URL('site.css', root), CSS + HEADER_CSS + ':root{--head-max:1120px}');
   return { urls, slug, PLATFORMS };
 }
 
@@ -397,12 +395,10 @@ const LICENSE_FAQ = [
 const CSS = `:root{--paper:#f4f5f8;--sheet:#fff;--ink:#1b1e3a;--muted:#5d6280;--rule:#dfe2ec;--saffron:#c96a00;--fill:#a85600;--on-fill:#fff;--display:'Funnel Display','Space Grotesk','Helvetica Neue',Arial,sans-serif;--body:'DM Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,monospace}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;--fill:#f5a53a;--on-fill:#1b1e3a;color-scheme:dark}:root:not([data-theme="light"]) img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}}
 :root[data-theme="dark"]{--paper:#11132a;--sheet:#191c38;--ink:#e8e9f4;--muted:#a0a4c4;--rule:#2c3058;--saffron:#f5a53a;--fill:#f5a53a;--on-fill:#1b1e3a;color-scheme:dark}:root[data-theme="dark"] img[src*="/svg/"]{filter:invert(1) hue-rotate(180deg)}
-.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}.theme select{font:500 13px var(--body);color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:8px;padding:3px 6px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .tiles span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 var(--body)}a{color:inherit}
 .wrap{max-width:1120px;margin:0 auto;padding:0 16px}
-.nav{border-bottom:1px solid var(--rule);background:var(--paper)}.nav .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;align-items:center;justify-content:space-between;padding-block:14px}
-.brand{display:flex;gap:8px;align-items:center;font:500 18px var(--display);text-decoration:none}.nav nav{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:14px}.nav nav a{text-decoration:none;color:var(--muted)}.nav nav a:hover{color:var(--ink)}
 main{padding-block:24px 64px}.crumbs{list-style:none;display:flex;flex-wrap:wrap;gap:6px;padding:0;margin:0 0 20px;font-size:13px;color:var(--muted)}.crumbs li+li::before{content:"/";margin-right:6px}.crumbs a{text-decoration:none}.crumbs a:hover{text-decoration:underline}
 h1{font:400 clamp(34px,5vw,56px)/1.05 var(--display);margin:0 0 12px;letter-spacing:-.01em}h2{font:400 28px/1.2 var(--display);margin:48px 0 14px}h3{font:600 16px var(--body);margin:0 0 6px}
 .lede{font-size:18px;color:var(--muted);max-width:68ch;margin:0 0 24px}p{max-width:72ch}p a,.faq a{color:var(--saffron)}

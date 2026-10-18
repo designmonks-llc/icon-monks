@@ -1,20 +1,33 @@
 // Builds the icon browser from docs/template.html and build/icons.json:
 //   index.html           full page served by GitHub Pages (repo root)
 //   build/artifact.html  page fragment for the claude.ai preview artifact
-//   data/<weight>.json   path data per weight, fetched by the page (publish next to the artifact)
+//   data/<weight>/<n>.json  path data per weight in shards, fetched by the page (publish next to the artifact)
 //   sitemap.xml, robots.txt, site.webmanifest for search engines (brand images come from scripts/brand.cjs)
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { buildPages } from './pages.mjs';
+import { header, icon, HEADER_CSS, HEADER_JS } from './chrome.mjs';
 
 const root = new URL('..', import.meta.url);
 const data = JSON.parse(readFileSync(new URL('build/icons.json', root)));
-// The page inlines only names, categories and tags; path data goes to data/<weight>.json, fetched on demand.
-mkdirSync(new URL('data/', root), { recursive: true });
-for (const w of data.weights) writeFileSync(new URL(`data/${w}.json`, root), JSON.stringify(data.icons.map((i) => i.paths[w])));
+// The browser groups icons under category headings, largest category first, so data is stored in that order.
+const catSize = {};
+for (const i of data.icons) catSize[i.category] = (catSize[i.category] || 0) + 1;
+const ordered = [...data.icons].sort((a, b) => catSize[b.category] - catSize[a.category] || a.category.localeCompare(b.category) || a.name.localeCompare(b.name));
+// The page inlines only names, categories and tags; path data goes to data/<weight>/<n>.json in shards, so the
+// first screen of icons arrives in one small file and the rest follow in parallel.
+const SHARDS = [0, 240];
+while (SHARDS[SHARDS.length - 1] < ordered.length) SHARDS.push(Math.min(ordered.length, SHARDS[SHARDS.length - 1] + 1000));
+rmSync(new URL('data/', root), { recursive: true, force: true });
+for (const w of data.weights) {
+  mkdirSync(new URL(`data/${w}/`, root), { recursive: true });
+  for (let k = 0; k < SHARDS.length - 1; k++) writeFileSync(new URL(`data/${w}/${k}.json`, root), JSON.stringify(ordered.slice(SHARDS[k], SHARDS[k + 1]).map((i) => i.paths[w])));
+}
 const meta = {
   weights: data.weights,
-  searchPath: data.icons.find((i) => i.name === 'magnifying-glass').paths.bold,
-  icons: data.icons.map((i, n) => ({ i: n, name: i.name, category: i.category, tags: i.tags })),
+  // The homepage specimen steps these icons through all six weights, so their paths ship with the page.
+  specimen: { names: ['bell', 'heart', 'rocket', 'cloud-sun'], paths: Object.fromEntries(['bell', 'heart', 'rocket', 'cloud-sun'].map((n) => [n, data.icons.find((i) => i.name === n).paths])) },
+  shards: SHARDS,
+  icons: ordered.map((i, n) => ({ i: n, name: i.name, category: i.category, tags: i.tags })),
 };
 const SITE = 'https://designmonks.github.io/icon-monks/';
 const REPO = 'https://github.com/designmonks/icon-monks';
@@ -63,7 +76,16 @@ const FAQ = [
 ];
 const faqHtml = FAQ.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${a}</p></details>`).join('\n    ');
 
-const page = readFileSync(new URL('docs/template.html', root), 'utf8').replace('/*__ICONS__*/null', JSON.stringify(meta))
+// Shared chrome and inline UI icons: __HEADER__, /*__HEADER_CSS__*/, <!--__HEADER_JS__--> and __ICON:name:size[:weight]__.
+const chrome = (html, opts = {}) => html
+  .replace('__HEADER__', header({ byName, REPO, ...opts }))
+  .replace('/*__HEADER_CSS__*/', HEADER_CSS)
+  .replace('<!--__HEADER_JS__-->', HEADER_JS)
+  .replace(/__ICON:([a-z0-9-]+):(\d+)(?::([a-z]+))?__/g, (_, n, size, w) => {
+    if (!byName[n]) throw new Error(`unknown UI icon: ${n}`);
+    return icon(byName, n, +size, w || 'regular');
+  });
+const page = chrome(readFileSync(new URL('docs/template.html', root), 'utf8'), { current: 'icons' }).replace('/*__ICONS__*/null', JSON.stringify(meta))
   .replace('<b id="stat-icons">0</b>', `<b id="stat-icons">${count}</b>`)
   .replace('<b id="stat-cats">0</b>', `<b id="stat-cats">${cats.length}</b>`)
   .replaceAll('__COUNT__', count)
@@ -154,7 +176,7 @@ writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
 writeFileSync(new URL('index.html', root), full);
 
 // Showcase: docs/showcase.html with the path data for just the icons it uses inlined, so the page works on its own.
-const showcase = readFileSync(new URL('docs/showcase.html', root), 'utf8');
+const showcase = chrome(readFileSync(new URL('docs/showcase.html', root), 'utf8'), { up: '../', theme: false, current: 'showcase' });
 const used = new Set(['plus', ...[...showcase.matchAll(/data-(?:i|tab)="([a-z0-9-]+)"/g)].map((m) => m[1])]);
 const pathsByName = Object.fromEntries(data.icons.map((i) => [i.name, i.paths]));
 const missingIcons = [...used].filter((n) => !pathsByName[n]);
