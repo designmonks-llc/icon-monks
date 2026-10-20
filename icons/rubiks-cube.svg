@@ -1,0 +1,17 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="rubiks cube,puzzle,cube,toy,game">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+    <path d="M44 80 L128 128 L212 80 M128 128 L128 224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 56 L86 104"/>
+    <path d="M86 56 L170 104"/>
+    <path d="M86 104 L86 200"/>
+    <path d="M44 128 L128 176"/>
+    <path d="M170 104 L170 200"/>
+    <path d="M212 128 L128 176"/>
+  </g>
+</svg>

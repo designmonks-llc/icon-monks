@@ -8,6 +8,8 @@ const { chromium } = require('playwright');
 const root = path.join(__dirname, '..');
 const data = JSON.parse(fs.readFileSync(path.join(root, 'build/icons.json'), 'utf8'));
 const by = Object.fromEntries(data.icons.map((i) => [i.name, i]));
+// Headline number on the social card, set by the owner (2026-10-20) rather than the live icon count.
+const OG_COUNT = '70,000+';
 const p = (n, w) => { const d = by[n].paths[w]; return Array.isArray(d) ? (d[0] ? `<path d="${d[0]}" opacity=".2"/>` : '') + `<path d="${d[1]}"/>` : `<path d="${d}"/>`; };
 const ico = (n, w, s, c) => `<svg viewBox="0 0 256 256" width="${s}" height="${s}" fill="${c}">${p(n, w)}</svg>`;
 
@@ -38,7 +40,7 @@ p{font-size:30px;line-height:1.35;color:#5d6280;margin:18px 0 0}.n{margin-top:40
 .t{width:128px;height:128px;background:#fff;border:2px solid #dfe2ec;border-radius:24px;display:grid;place-items:center}
 </style></head><body><div class="l"><div class="w">${wordmark}</div><div class="e">Open source · by Design Monks</div>
 <p>Free icons in six weights for React, Vue, Flutter, iOS, Android and the web.</p>
-<div class="n"><span>${data.icons.length}</span> icons · 6 weights</div></div><div class="g">${tiles}</div></body></html>`;
+<div class="n"><span>${OG_COUNT}</span> icons · 6 weights</div></div><div class="g">${tiles}</div></body></html>`;
 
 (async () => {
   const b = await chromium.launch();

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="alto clef,c clef,clef,music,notation">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 40 L56 216"/>
+    <path d="M96 40 L96 216"/>
+    <path d="M96 128 C128 96 136 48 168 48 C188.68 48 201 61.1 201 76 C201 81.27 199.14 86.77 196 92"/>
+    <path d="M96 128 C128 160 136 208 168 208 C188.68 208 201 194.9 201 180 C201 174.73 199.14 169.23 196 164"/>
+  </g>
+</svg>

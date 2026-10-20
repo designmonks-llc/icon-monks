@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mcafee,antivirus,security,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 48 H208 V128 C208 176 172 208 128 224 C84 208 48 176 48 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 H208 V128 C208 176 172 208 128 224 C84 208 48 176 48 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 168 L88 88 L128 128 L168 88 L168 168"/>
+  </g>
+</svg>

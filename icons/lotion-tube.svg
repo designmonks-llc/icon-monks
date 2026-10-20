@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="lotion,cream,tube,skincare,cosmetics,toothpaste">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 40 H192 C192 112 152 136 152 176 H104 C104 136 64 112 64 40 Z"/>
+    <rect x="96" y="176" width="64" height="48" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 40 H192 C192 112 152 136 152 176 H104 C104 136 64 112 64 40 Z"/>
+    <rect x="96" y="176" width="64" height="48" rx="8"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 72 L176 72"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="adguard,ad blocker,privacy,security,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C96 48 64 52 40 52 C40 140 72 196 128 224 C184 196 216 140 216 52 C192 52 160 48 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C96 48 64 52 40 52 C40 140 72 196 128 224 C184 196 216 140 216 52 C192 52 160 48 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 128 L120 160 L176 100"/>
+  </g>
+</svg>

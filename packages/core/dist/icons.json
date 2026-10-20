@@ -197,6 +197,18 @@
   ]
  },
  {
+  "name": "adguard-logo",
+  "category": "Brands",
+  "tags": [
+   "adguard",
+   "ad blocker",
+   "privacy",
+   "security",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "adidas-logo",
   "category": "Brands",
   "tags": [
@@ -232,6 +244,18 @@
    "ae",
    "motion graphics",
    "video",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-creative-cloud-logo",
+  "category": "Brands",
+  "tags": [
+   "adobe creative cloud",
+   "creative cloud",
+   "adobe",
+   "cloud",
    "logo",
    "brand"
   ]
@@ -441,6 +465,17 @@
    "pollution",
    "smog",
    "air"
+  ]
+ },
+ {
+  "name": "air-vent",
+  "category": "Home",
+  "tags": [
+   "air vent",
+   "air conditioner",
+   "ac",
+   "ventilation",
+   "cooling"
   ]
  },
  {
@@ -1105,6 +1140,18 @@
   ]
  },
  {
+  "name": "alipay-logo",
+  "category": "Brands",
+  "tags": [
+   "alipay",
+   "payment",
+   "ant group",
+   "wallet",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "allah-calligraphy",
   "category": "Symbols",
   "tags": [
@@ -1326,6 +1373,17 @@
   ]
  },
  {
+  "name": "alto-clef",
+  "category": "Media",
+  "tags": [
+   "alto clef",
+   "c clef",
+   "clef",
+   "music",
+   "notation"
+  ]
+ },
+ {
   "name": "amazon-logo",
   "category": "Brands",
   "tags": [
@@ -1420,6 +1478,18 @@
    "arena",
    "landmark",
    "italy"
+  ]
+ },
+ {
+  "name": "amphora",
+  "category": "Objects",
+  "tags": [
+   "amphora",
+   "vase",
+   "jar",
+   "ancient",
+   "pottery",
+   "greek"
   ]
  },
  {
@@ -1599,6 +1669,17 @@
    "configuration",
    "logo",
    "brand"
+  ]
+ },
+ {
+  "name": "ant",
+  "category": "Animals",
+  "tags": [
+   "ant",
+   "insect",
+   "bug",
+   "colony",
+   "pest"
   ]
  },
  {
@@ -2835,6 +2916,30 @@
   ]
  },
  {
+  "name": "arrow-elbow-left-down",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "left",
+   "down",
+   "corner arrow",
+   "90 degrees"
+  ]
+ },
+ {
+  "name": "arrow-elbow-left-up",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "left",
+   "up",
+   "corner arrow",
+   "90 degrees"
+  ]
+ },
+ {
   "name": "arrow-elbow-right",
   "category": "Arrows",
   "tags": [
@@ -2852,6 +2957,30 @@
    "elbow",
    "turn",
    "up",
+   "90 degrees"
+  ]
+ },
+ {
+  "name": "arrow-elbow-up-left",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "up",
+   "left",
+   "corner arrow",
+   "90 degrees"
+  ]
+ },
+ {
+  "name": "arrow-elbow-up-right",
+  "category": "Arrows",
+  "tags": [
+   "elbow",
+   "turn",
+   "up",
+   "right",
+   "corner arrow",
    "90 degrees"
   ]
  },
@@ -5087,6 +5216,17 @@
   ]
  },
  {
+  "name": "bacon",
+  "category": "Food",
+  "tags": [
+   "bacon",
+   "breakfast",
+   "meat",
+   "pork",
+   "strip"
+  ]
+ },
+ {
   "name": "bacteria",
   "category": "Science",
   "tags": [
@@ -6138,6 +6278,17 @@
   ]
  },
  {
+  "name": "bass-clef",
+  "category": "Media",
+  "tags": [
+   "bass clef",
+   "f clef",
+   "clef",
+   "music",
+   "notation"
+  ]
+ },
+ {
   "name": "bat",
   "category": "Animals",
   "tags": [
@@ -7090,6 +7241,17 @@
    "event horizon",
    "astronomy",
    "vortex"
+  ]
+ },
+ {
+  "name": "blackberry-logo",
+  "category": "Brands",
+  "tags": [
+   "blackberry",
+   "phone",
+   "smartphone",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -9641,6 +9803,18 @@
    "kids room",
    "hostel",
    "sleep"
+  ]
+ },
+ {
+  "name": "bunting",
+  "category": "Objects",
+  "tags": [
+   "bunting",
+   "garland",
+   "party",
+   "flags",
+   "celebration",
+   "decoration"
   ]
  },
  {
@@ -13905,6 +14079,17 @@
   ]
  },
  {
+  "name": "circuit-fuse",
+  "category": "Science",
+  "tags": [
+   "circuit fuse",
+   "fuse",
+   "circuit",
+   "electronics",
+   "schematic"
+  ]
+ },
+ {
   "name": "circuit-ground",
   "category": "Science",
   "tags": [
@@ -14555,6 +14740,43 @@
    "hour",
    "time",
    "schedule"
+  ]
+ },
+ {
+  "name": "clock-hour-10",
+  "category": "Time",
+  "tags": [
+   "10 oclock",
+   "ten",
+   "clock",
+   "time",
+   "hour",
+   "clock face"
+  ]
+ },
+ {
+  "name": "clock-hour-11",
+  "category": "Time",
+  "tags": [
+   "11 oclock",
+   "eleven",
+   "clock",
+   "time",
+   "hour",
+   "clock face"
+  ]
+ },
+ {
+  "name": "clock-hour-12",
+  "category": "Time",
+  "tags": [
+   "12 oclock",
+   "twelve",
+   "noon",
+   "midnight",
+   "clock",
+   "time",
+   "hour"
   ]
  },
  {
@@ -20728,6 +20950,17 @@
   ]
  },
  {
+  "name": "diploma",
+  "category": "Education",
+  "tags": [
+   "diploma",
+   "degree",
+   "graduation",
+   "scroll",
+   "certificate"
+  ]
+ },
+ {
   "name": "direction-arrows",
   "category": "Arrows",
   "tags": [
@@ -24160,6 +24393,17 @@
   ]
  },
  {
+  "name": "file-avi",
+  "category": "Files",
+  "tags": [
+   "avi",
+   "video",
+   "movie",
+   "file type",
+   "video file"
+  ]
+ },
+ {
   "name": "file-barcode",
   "category": "Files",
   "tags": [
@@ -26516,6 +26760,17 @@
    "water",
    "disaster",
    "house"
+  ]
+ },
+ {
+  "name": "floor-lamp",
+  "category": "Home",
+  "tags": [
+   "floor lamp",
+   "lamp",
+   "light",
+   "furniture",
+   "standing lamp"
   ]
  },
  {
@@ -29503,7 +29758,8 @@
    "web browser",
    "internet",
    "logo",
-   "brand"
+   "brand",
+   "chromium"
   ]
  },
  {
@@ -29972,6 +30228,18 @@
    "gluten free",
    "no wheat",
    "allergy"
+  ]
+ },
+ {
+  "name": "grammarly-logo",
+  "category": "Brands",
+  "tags": [
+   "grammarly",
+   "writing",
+   "grammar",
+   "spelling",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37498,6 +37766,18 @@
   ]
  },
  {
+  "name": "lotion-tube",
+  "category": "Health",
+  "tags": [
+   "lotion",
+   "cream",
+   "tube",
+   "skincare",
+   "cosmetics",
+   "toothpaste"
+  ]
+ },
+ {
   "name": "lottiefiles-logo",
   "category": "Brands",
   "tags": [
@@ -38893,6 +39173,17 @@
    "labyrinth",
    "puzzle",
    "path"
+  ]
+ },
+ {
+  "name": "mcafee-logo",
+  "category": "Brands",
+  "tags": [
+   "mcafee",
+   "antivirus",
+   "security",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -40485,6 +40776,17 @@
    "price",
    "desktop",
    "computer"
+  ]
+ },
+ {
+  "name": "monitor-curved",
+  "category": "Devices",
+  "tags": [
+   "curved monitor",
+   "monitor",
+   "display",
+   "ultrawide",
+   "screen"
   ]
  },
  {
@@ -43208,6 +43510,17 @@
   ]
  },
  {
+  "name": "onion",
+  "category": "Food",
+  "tags": [
+   "onion",
+   "vegetable",
+   "cooking",
+   "garlic",
+   "bulb"
+  ]
+ },
+ {
   "name": "opel-logo",
   "category": "Brands",
   "tags": [
@@ -43256,6 +43569,18 @@
    "kubernetes",
    "containers",
    "cloud",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "openvpn-logo",
+  "category": "Brands",
+  "tags": [
+   "openvpn",
+   "vpn",
+   "tunnel",
+   "privacy",
    "logo",
    "brand"
   ]
@@ -43821,6 +44146,17 @@
    "warehouse",
    "logistics",
    "shipping"
+  ]
+ },
+ {
+  "name": "pan-flute",
+  "category": "Media",
+  "tags": [
+   "pan flute",
+   "pan pipes",
+   "flute",
+   "instrument",
+   "music"
   ]
  },
  {
@@ -45388,6 +45724,18 @@
   ]
  },
  {
+  "name": "petri-dish",
+  "category": "Science",
+  "tags": [
+   "petri dish",
+   "lab",
+   "culture",
+   "bacteria",
+   "biology",
+   "experiment"
+  ]
+ },
+ {
   "name": "pexels-logo",
   "category": "Brands",
   "tags": [
@@ -46713,6 +47061,18 @@
   ]
  },
  {
+  "name": "polar-logo",
+  "category": "Brands",
+  "tags": [
+   "polar",
+   "polar.sh",
+   "open source",
+   "funding",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "polestar-logo",
   "category": "Brands",
   "tags": [
@@ -47522,6 +47882,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "protein-shaker",
+  "category": "Sports",
+  "tags": [
+   "protein shaker",
+   "shaker",
+   "bottle",
+   "gym",
+   "fitness",
+   "drink"
   ]
  },
  {
@@ -49199,6 +49571,17 @@
   ]
  },
  {
+  "name": "robot-vacuum",
+  "category": "Home",
+  "tags": [
+   "robot vacuum",
+   "roomba",
+   "cleaning",
+   "vacuum",
+   "smart home"
+  ]
+ },
+ {
   "name": "rock",
   "category": "Nature",
   "tags": [
@@ -49685,6 +50068,17 @@
   ]
  },
  {
+  "name": "rubiks-cube",
+  "category": "Objects",
+  "tags": [
+   "rubiks cube",
+   "puzzle",
+   "cube",
+   "toy",
+   "game"
+  ]
+ },
+ {
   "name": "ruby-logo",
   "category": "Brands",
   "tags": [
@@ -50049,6 +50443,18 @@
    "green onion",
    "leek",
    "vegetable"
+  ]
+ },
+ {
+  "name": "scalpel",
+  "category": "Health",
+  "tags": [
+   "scalpel",
+   "surgery",
+   "knife",
+   "medical",
+   "blade",
+   "cut"
   ]
  },
  {
@@ -52786,12 +53192,30 @@
   ]
  },
  {
+  "name": "skip-back-10",
+  "category": "Media",
+  "tags": [
+   "rewind 10",
+   "replay",
+   "back 10 seconds"
+  ]
+ },
+ {
   "name": "skip-back-15",
   "category": "Media",
   "tags": [
    "rewind 15",
    "replay",
    "back 15 seconds"
+  ]
+ },
+ {
+  "name": "skip-back-5",
+  "category": "Media",
+  "tags": [
+   "rewind 5",
+   "replay",
+   "back 5 seconds"
   ]
  },
  {
@@ -52816,12 +53240,30 @@
   ]
  },
  {
+  "name": "skip-forward-10",
+  "category": "Media",
+  "tags": [
+   "forward 10",
+   "jump ahead",
+   "skip 10 seconds"
+  ]
+ },
+ {
   "name": "skip-forward-15",
   "category": "Media",
   "tags": [
    "forward 15",
    "jump ahead",
    "skip 15 seconds"
+  ]
+ },
+ {
+  "name": "skip-forward-5",
+  "category": "Media",
+  "tags": [
+   "forward 5",
+   "jump ahead",
+   "skip 5 seconds"
   ]
  },
  {
@@ -53303,6 +53745,17 @@
    "incline",
    "gradient",
    "angle"
+  ]
+ },
+ {
+  "name": "slot-machine",
+  "category": "Objects",
+  "tags": [
+   "slot machine",
+   "casino",
+   "gambling",
+   "jackpot",
+   "fruit machine"
   ]
  },
  {
@@ -55132,6 +55585,17 @@
    "list",
    "grid",
    "menu"
+  ]
+ },
+ {
+  "name": "squid",
+  "category": "Animals",
+  "tags": [
+   "squid",
+   "calamari",
+   "sea",
+   "seafood",
+   "ocean"
   ]
  },
  {
@@ -57269,6 +57733,17 @@
   ]
  },
  {
+  "name": "tambourine",
+  "category": "Media",
+  "tags": [
+   "tambourine",
+   "percussion",
+   "instrument",
+   "music",
+   "jingle"
+  ]
+ },
+ {
   "name": "tangent",
   "category": "Science",
   "tags": [
@@ -58753,6 +59228,17 @@
   ]
  },
  {
+  "name": "thread-spool",
+  "category": "Objects",
+  "tags": [
+   "thread",
+   "spool",
+   "sewing",
+   "bobbin",
+   "yarn"
+  ]
+ },
+ {
   "name": "threads-logo",
   "category": "Brands",
   "tags": [
@@ -59354,6 +59840,17 @@
    "off",
    "dental",
    "teeth"
+  ]
+ },
+ {
+  "name": "toothbrush",
+  "category": "Health",
+  "tags": [
+   "toothbrush",
+   "teeth",
+   "dental",
+   "hygiene",
+   "brush"
   ]
  },
  {
@@ -60732,6 +61229,17 @@
    "code",
    "logo",
    "brand"
+  ]
+ },
+ {
+  "name": "typewriter",
+  "category": "Objects",
+  "tags": [
+   "typewriter",
+   "typing",
+   "writer",
+   "vintage",
+   "keyboard"
   ]
  },
  {
@@ -62679,6 +63187,17 @@
    "construction",
    "firewall",
    "masonry"
+  ]
+ },
+ {
+  "name": "wall-lamp",
+  "category": "Home",
+  "tags": [
+   "wall lamp",
+   "sconce",
+   "lamp",
+   "light",
+   "fixture"
   ]
  },
  {

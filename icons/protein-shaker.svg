@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="protein shaker,shaker,bottle,gym,fitness,drink">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 96 L192 96 L176 224 L80 224 Z"/>
+    <rect x="64" y="64" width="128" height="32" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 96 L192 96 L176 224 L80 224 Z"/>
+    <rect x="64" y="64" width="128" height="32" rx="8"/>
+    <path d="M104 64 V40 H136 V64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 136 L120 136"/>
+    <path d="M96 176 L120 176"/>
+  </g>
+</svg>

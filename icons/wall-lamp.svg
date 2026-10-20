@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="wall lamp,sconce,lamp,light,fixture">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 56 L200 56 L224 136 L112 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 56 L200 56 L224 136 L112 136 Z"/>
+    <path d="M48 120 L48 208"/>
+    <path d="M48 164 H120 C152 164 168 156 168 136"/>
+  </g>
+</svg>

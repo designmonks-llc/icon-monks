@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="slot machine,casino,gambling,jackpot,fruit machine">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="48" width="160" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="48" width="160" height="176" rx="16"/>
+    <path d="M192 160 H216 V88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="88" width="112" height="64" rx="8"/>
+    <path d="M93 88 L93 152"/>
+    <path d="M131 88 L131 152"/>
+    <path d="M72 192 L152 192"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="216" cy="72" r="16"/>
+  </g>
+</svg>

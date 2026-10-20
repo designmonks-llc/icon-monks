@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="bunting,garland,party,flags,celebration,decoration">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 72 L92 72 L68 176 Z"/>
+    <path d="M104 72 L152 72 L128 176 Z"/>
+    <path d="M164 72 L212 72 L188 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 72 L224 72"/>
+    <path d="M44 72 L92 72 L68 176 Z"/>
+    <path d="M104 72 L152 72 L128 176 Z"/>
+    <path d="M164 72 L212 72 L188 176 Z"/>
+  </g>
+</svg>

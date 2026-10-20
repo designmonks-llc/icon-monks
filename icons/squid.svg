@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="squid,calamari,sea,seafood,ocean">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C160 56 176 88 176 128 H80 C80 88 96 56 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C160 56 176 88 176 128 H80 C80 88 96 56 128 32 Z"/>
+    <path d="M88 128 C88 176 64 184 64 216"/>
+    <path d="M128 128 L128 224"/>
+    <path d="M168 128 C168 176 192 184 192 216"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="104" r="14"/>
+    <circle cx="148" cy="104" r="14"/>
+  </g>
+</svg>

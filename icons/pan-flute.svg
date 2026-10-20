@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="pan flute,pan pipes,flute,instrument,music">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 48 L216 48 L216 112 L184 112 L184 136 L148 136 L148 160 L112 160 L112 184 L76 184 L76 208 L40 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 48 L216 48 L216 112 L184 112 L184 136 L148 136 L148 160 L112 160 L112 184 L76 184 L76 208 L40 208 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 48 L76 184"/>
+    <path d="M112 48 L112 160"/>
+    <path d="M148 48 L148 136"/>
+    <path d="M184 48 L184 112"/>
+    <path d="M40 80 L216 80"/>
+  </g>
+</svg>

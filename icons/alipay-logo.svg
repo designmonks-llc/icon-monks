@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="alipay,payment,ant group,wallet,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 88 L180 88"/>
+    <path d="M128 64 L128 116"/>
+    <path d="M84 128 L168 128"/>
+    <path d="M168 128 C152 168 116 188 76 196"/>
+    <path d="M108 152 C132 176 160 188 188 192"/>
+  </g>
+</svg>

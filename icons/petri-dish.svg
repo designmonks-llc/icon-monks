@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="petri dish,lab,culture,bacteria,biology,experiment">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 104 A96 40 0 0 1 224 104 V152 A96 40 0 0 1 32 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="104" rx="96" ry="40"/>
+    <path d="M32 104 V152 A96 40 0 0 0 224 152 V104"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="100" cy="100" r="16"/>
+    <circle cx="156" cy="108" r="16"/>
+  </g>
+</svg>

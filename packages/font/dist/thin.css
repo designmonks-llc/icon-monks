@@ -36,9 +36,11 @@
 .im-thin.im-ad-circle-slash::before { content: "\e1f4"; }
 .im-thin.im-address-book::before { content: "\e061"; }
 .im-thin.im-address-book-slash::before { content: "\e1f5"; }
+.im-thin.im-adguard-logo::before { content: "\f77b"; }
 .im-thin.im-adidas-logo::before { content: "\f5fc"; }
 .im-thin.im-adobe-acrobat-logo::before { content: "\f5fd"; }
 .im-thin.im-adobe-after-effects-logo::before { content: "\f4f2"; }
+.im-thin.im-adobe-creative-cloud-logo::before { content: "\f77c"; }
 .im-thin.im-adobe-illustrator-logo::before { content: "\f4f3"; }
 .im-thin.im-adobe-indesign-logo::before { content: "\f4f4"; }
 .im-thin.im-adobe-lightroom-logo::before { content: "\f5fe"; }
@@ -57,6 +59,7 @@
 .im-thin.im-air-freshener::before { content: "\e929"; }
 .im-thin.im-air-purifier::before { content: "\e92a"; }
 .im-thin.im-air-quality::before { content: "\edea"; }
+.im-thin.im-air-vent::before { content: "\f77d"; }
 .im-thin.im-airbnb-logo::before { content: "\f4f8"; }
 .im-thin.im-airdrop::before { content: "\f4f9"; }
 .im-thin.im-airflow-logo::before { content: "\f76d"; }
@@ -119,6 +122,7 @@
 .im-thin.im-align-top::before { content: "\e41e"; }
 .im-thin.im-align-top-simple::before { content: "\e41f"; }
 .im-thin.im-align-vertical-spacing::before { content: "\e420"; }
+.im-thin.im-alipay-logo::before { content: "\f77e"; }
 .im-thin.im-allah-calligraphy::before { content: "\f4fa"; }
 .im-thin.im-allergy::before { content: "\e92b"; }
 .im-thin.im-alpha::before { content: "\e92c"; }
@@ -139,6 +143,7 @@
 .im-thin.im-alphabet-thai::before { content: "\e93b"; }
 .im-thin.im-alpinejs-logo::before { content: "\f601"; }
 .im-thin.im-altitude::before { content: "\e93c"; }
+.im-thin.im-alto-clef::before { content: "\f77f"; }
 .im-thin.im-amazon-logo::before { content: "\f4fb"; }
 .im-thin.im-ambulance::before { content: "\e93d"; }
 .im-thin.im-amd-logo::before { content: "\f602"; }
@@ -147,6 +152,7 @@
 .im-thin.im-among-us-logo::before { content: "\f6c4"; }
 .im-thin.im-ampersand::before { content: "\e93e"; }
 .im-thin.im-amphitheater::before { content: "\f318"; }
+.im-thin.im-amphora::before { content: "\f780"; }
 .im-thin.im-amplitude-logo::before { content: "\f603"; }
 .im-thin.im-analyze::before { content: "\e1f8"; }
 .im-thin.im-analyze-slash::before { content: "\e1f9"; }
@@ -163,6 +169,7 @@
 .im-thin.im-ankh::before { content: "\edfd"; }
 .im-thin.im-anki-logo::before { content: "\f6c5"; }
 .im-thin.im-ansible-logo::before { content: "\f605"; }
+.im-thin.im-ant::before { content: "\f781"; }
 .im-thin.im-antenna::before { content: "\e5e8"; }
 .im-thin.im-antenna-signal::before { content: "\e5e9"; }
 .im-thin.im-antenna-slash::before { content: "\e5ea"; }
@@ -275,8 +282,12 @@
 .im-thin.im-arrow-down-to-dot::before { content: "\f31d"; }
 .im-thin.im-arrow-elbow-down::before { content: "\e220"; }
 .im-thin.im-arrow-elbow-left::before { content: "\e221"; }
+.im-thin.im-arrow-elbow-left-down::before { content: "\f782"; }
+.im-thin.im-arrow-elbow-left-up::before { content: "\f783"; }
 .im-thin.im-arrow-elbow-right::before { content: "\e222"; }
 .im-thin.im-arrow-elbow-up::before { content: "\e223"; }
+.im-thin.im-arrow-elbow-up-left::before { content: "\f784"; }
+.im-thin.im-arrow-elbow-up-right::before { content: "\f785"; }
 .im-thin.im-arrow-fat-down::before { content: "\e224"; }
 .im-thin.im-arrow-fat-left::before { content: "\e225"; }
 .im-thin.im-arrow-fat-line-down::before { content: "\e226"; }
@@ -488,6 +499,7 @@
 .im-thin.im-backslash::before { content: "\e958"; }
 .im-thin.im-backspace::before { content: "\e959"; }
 .im-thin.im-backspace-reverse::before { content: "\e95a"; }
+.im-thin.im-bacon::before { content: "\f786"; }
 .im-thin.im-bacteria::before { content: "\ee10"; }
 .im-thin.im-badge::before { content: "\e2a9"; }
 .im-thin.im-badge-0-plus::before { content: "\e2aa"; }
@@ -587,6 +599,7 @@
 .im-thin.im-basket-x::before { content: "\e2e2"; }
 .im-thin.im-basketball::before { content: "\e08e"; }
 .im-thin.im-basketball-hoop::before { content: "\ee1d"; }
+.im-thin.im-bass-clef::before { content: "\f787"; }
 .im-thin.im-bat::before { content: "\e2e3"; }
 .im-thin.im-bathtub::before { content: "\e965"; }
 .im-thin.im-bathtub-slash::before { content: "\e966"; }
@@ -675,6 +688,7 @@
 .im-thin.im-bitbucket-logo::before { content: "\f596"; }
 .im-thin.im-bitwarden-logo::before { content: "\f614"; }
 .im-thin.im-black-hole::before { content: "\f32c"; }
+.im-thin.im-blackberry-logo::before { content: "\f788"; }
 .im-thin.im-blanket::before { content: "\e971"; }
 .im-thin.im-blazer::before { content: "\ee2a"; }
 .im-thin.im-bleach::before { content: "\e972"; }
@@ -912,6 +926,7 @@
 .im-thin.im-bumble-logo::before { content: "\f616"; }
 .im-thin.im-bun-logo::before { content: "\f617"; }
 .im-thin.im-bunk-bed::before { content: "\f346"; }
+.im-thin.im-bunting::before { content: "\f789"; }
 .im-thin.im-burj-al-arab::before { content: "\f347"; }
 .im-thin.im-burj-khalifa::before { content: "\e9a6"; }
 .im-thin.im-bus::before { content: "\e0a7"; }
@@ -1306,6 +1321,7 @@
 .im-thin.im-circuit-changeover::before { content: "\eeaa"; }
 .im-thin.im-circuit-diode::before { content: "\eeab"; }
 .im-thin.im-circuit-diode-zener::before { content: "\eeac"; }
+.im-thin.im-circuit-fuse::before { content: "\f78a"; }
 .im-thin.im-circuit-ground::before { content: "\eead"; }
 .im-thin.im-circuit-ground-digital::before { content: "\eeae"; }
 .im-thin.im-circuit-inductor::before { content: "\eeaf"; }
@@ -1367,6 +1383,9 @@
 .im-thin.im-clock-globe::before { content: "\eec8"; }
 .im-thin.im-clock-heart::before { content: "\eec9"; }
 .im-thin.im-clock-hour-1::before { content: "\f365"; }
+.im-thin.im-clock-hour-10::before { content: "\f78b"; }
+.im-thin.im-clock-hour-11::before { content: "\f78c"; }
+.im-thin.im-clock-hour-12::before { content: "\f78d"; }
 .im-thin.im-clock-hour-2::before { content: "\f366"; }
 .im-thin.im-clock-hour-3::before { content: "\f367"; }
 .im-thin.im-clock-hour-4::before { content: "\f368"; }
@@ -1938,6 +1957,7 @@
 .im-thin.im-diners-club-logo::before { content: "\f59d"; }
 .im-thin.im-dining-table::before { content: "\ea0d"; }
 .im-thin.im-dining-table-umbrella::before { content: "\f397"; }
+.im-thin.im-diploma::before { content: "\f78e"; }
 .im-thin.im-direction-arrows::before { content: "\e3b4"; }
 .im-thin.im-direction-horizontal::before { content: "\e3b5"; }
 .im-thin.im-direction-sign::before { content: "\ea0e"; }
@@ -2259,6 +2279,7 @@
 .im-thin.im-file-arrow-up::before { content: "\e70f"; }
 .im-thin.im-file-arrows::before { content: "\e710"; }
 .im-thin.im-file-audio::before { content: "\e0f9"; }
+.im-thin.im-file-avi::before { content: "\f78f"; }
 .im-thin.im-file-barcode::before { content: "\e711"; }
 .im-thin.im-file-binary::before { content: "\e712"; }
 .im-thin.im-file-bitcoin::before { content: "\e713"; }
@@ -2481,6 +2502,7 @@
 .im-thin.im-flip-vertical::before { content: "\e4dc"; }
 .im-thin.im-flipkart-logo::before { content: "\f639"; }
 .im-thin.im-flood::before { content: "\ef90"; }
+.im-thin.im-floor-lamp::before { content: "\f790"; }
 .im-thin.im-floor-plan::before { content: "\ea9f"; }
 .im-thin.im-floppy-disk::before { content: "\e10c"; }
 .im-thin.im-floppy-disk-arrow-down::before { content: "\eaa0"; }
@@ -2800,6 +2822,7 @@
 .im-thin.im-grafana-logo::before { content: "\f5da"; }
 .im-thin.im-grains::before { content: "\eb2c"; }
 .im-thin.im-grains-slash::before { content: "\eb2d"; }
+.im-thin.im-grammarly-logo::before { content: "\f791"; }
 .im-thin.im-grapes::before { content: "\eb2e"; }
 .im-thin.im-graph::before { content: "\e123"; }
 .im-thin.im-graph-arrow-down::before { content: "\f3c7"; }
@@ -3507,6 +3530,7 @@
 .im-thin.im-lollipop-slash::before { content: "\ec22"; }
 .im-thin.im-looker-logo::before { content: "\f773"; }
 .im-thin.im-loom-logo::before { content: "\f53c"; }
+.im-thin.im-lotion-tube::before { content: "\f792"; }
 .im-thin.im-lottiefiles-logo::before { content: "\f53d"; }
 .im-thin.im-lua-logo::before { content: "\f662"; }
 .im-thin.im-lufthansa-logo::before { content: "\f715"; }
@@ -3636,6 +3660,7 @@
 .im-thin.im-maya-logo::before { content: "\f663"; }
 .im-thin.im-mazda-logo::before { content: "\f71a"; }
 .im-thin.im-maze::before { content: "\f059"; }
+.im-thin.im-mcafee-logo::before { content: "\f793"; }
 .im-thin.im-mcdonalds-logo::before { content: "\f664"; }
 .im-thin.im-mclaren-logo::before { content: "\f71b"; }
 .im-thin.im-mcp-logo::before { content: "\f71c"; }
@@ -3777,6 +3802,7 @@
 .im-thin.im-monitor-cloud::before { content: "\e7a9"; }
 .im-thin.im-monitor-code::before { content: "\e7aa"; }
 .im-thin.im-monitor-currency-dollar::before { content: "\e7ab"; }
+.im-thin.im-monitor-curved::before { content: "\f794"; }
 .im-thin.im-monitor-dot::before { content: "\f417"; }
 .im-thin.im-monitor-gear::before { content: "\e7ac"; }
 .im-thin.im-monitor-heart::before { content: "\e7ad"; }
@@ -4024,10 +4050,12 @@
 .im-thin.im-oneplus-logo::before { content: "\f675"; }
 .im-thin.im-onesie::before { content: "\f0a5"; }
 .im-thin.im-onigiri::before { content: "\eccb"; }
+.im-thin.im-onion::before { content: "\f795"; }
 .im-thin.im-opel-logo::before { content: "\f72d"; }
 .im-thin.im-opencv-logo::before { content: "\f72e"; }
 .im-thin.im-opensea-logo::before { content: "\f676"; }
 .im-thin.im-openshift-logo::before { content: "\f677"; }
+.im-thin.im-openvpn-logo::before { content: "\f796"; }
 .im-thin.im-opera-gx-logo::before { content: "\f678"; }
 .im-thin.im-opera-logo::before { content: "\f5b2"; }
 .im-thin.im-options-call::before { content: "\f424"; }
@@ -4079,6 +4107,7 @@
 .im-thin.im-palette::before { content: "\e15e"; }
 .im-thin.im-palette-slash::before { content: "\e55b"; }
 .im-thin.im-pallet::before { content: "\e55c"; }
+.im-thin.im-pan-flute::before { content: "\f797"; }
 .im-thin.im-panda::before { content: "\e3cc"; }
 .im-thin.im-pandas-logo::before { content: "\f733"; }
 .im-thin.im-panel-bottom-close::before { content: "\f2d0"; }
@@ -4226,6 +4255,7 @@
 .im-thin.im-personal-transporter::before { content: "\f0dc"; }
 .im-thin.im-perspective::before { content: "\e7eb"; }
 .im-thin.im-perspective-slash::before { content: "\e7ec"; }
+.im-thin.im-petri-dish::before { content: "\f798"; }
 .im-thin.im-pexels-logo::before { content: "\f550"; }
 .im-thin.im-phantom-logo::before { content: "\f735"; }
 .im-thin.im-pharmacy::before { content: "\ecdf"; }
@@ -4349,6 +4379,7 @@
 .im-thin.im-poe-logo::before { content: "\f738"; }
 .im-thin.im-pokeball::before { content: "\f554"; }
 .im-thin.im-poker-chip::before { content: "\f0fc"; }
+.im-thin.im-polar-logo::before { content: "\f799"; }
 .im-thin.im-polestar-logo::before { content: "\f739"; }
 .im-thin.im-police-badge::before { content: "\f0fd"; }
 .im-thin.im-police-cap::before { content: "\f443"; }
@@ -4424,6 +4455,7 @@
 .im-thin.im-prometheus-logo::before { content: "\f73b"; }
 .im-thin.im-propeller::before { content: "\f103"; }
 .im-thin.im-propeller-slash::before { content: "\f104"; }
+.im-thin.im-protein-shaker::before { content: "\f79a"; }
 .im-thin.im-psg-logo::before { content: "\f73c"; }
 .im-thin.im-pulley::before { content: "\f44b"; }
 .im-thin.im-pulse::before { content: "\e178"; }
@@ -4575,6 +4607,7 @@
 .im-thin.im-robot-arm::before { content: "\f11f"; }
 .im-thin.im-robot-face::before { content: "\e81c"; }
 .im-thin.im-robot-slash::before { content: "\e81d"; }
+.im-thin.im-robot-vacuum::before { content: "\f79b"; }
 .im-thin.im-rock::before { content: "\f120"; }
 .im-thin.im-rocket::before { content: "\e186"; }
 .im-thin.im-rocket-launch::before { content: "\f121"; }
@@ -4619,6 +4652,7 @@
 .im-thin.im-rss-lock-open::before { content: "\f466"; }
 .im-thin.im-rss-warning::before { content: "\f467"; }
 .im-thin.im-rub-el-hizb::before { content: "\f468"; }
+.im-thin.im-rubiks-cube::before { content: "\f79c"; }
 .im-thin.im-ruby-logo::before { content: "\f691"; }
 .im-thin.im-rug::before { content: "\ed14"; }
 .im-thin.im-rugby::before { content: "\f129"; }
@@ -4653,6 +4687,7 @@
 .im-thin.im-scales::before { content: "\e18b"; }
 .im-thin.im-scales-slash::before { content: "\f132"; }
 .im-thin.im-scallion::before { content: "\ed1c"; }
+.im-thin.im-scalpel::before { content: "\f79d"; }
 .im-thin.im-scan::before { content: "\e18c"; }
 .im-thin.im-scan-position::before { content: "\ed1d"; }
 .im-thin.im-scan-smiley::before { content: "\f133"; }
@@ -4908,10 +4943,14 @@
 .im-thin.im-skewer::before { content: "\ed3f"; }
 .im-thin.im-ski-jump::before { content: "\f17a"; }
 .im-thin.im-skip-back::before { content: "\e19a"; }
+.im-thin.im-skip-back-10::before { content: "\f79e"; }
 .im-thin.im-skip-back-15::before { content: "\f17b"; }
+.im-thin.im-skip-back-5::before { content: "\f79f"; }
 .im-thin.im-skip-back-circle::before { content: "\f17c"; }
 .im-thin.im-skip-forward::before { content: "\e19b"; }
+.im-thin.im-skip-forward-10::before { content: "\f7a0"; }
 .im-thin.im-skip-forward-15::before { content: "\f17d"; }
+.im-thin.im-skip-forward-5::before { content: "\f7a1"; }
 .im-thin.im-skip-forward-circle::before { content: "\f17e"; }
 .im-thin.im-skirt::before { content: "\f17f"; }
 .im-thin.im-skull::before { content: "\e19c"; }
@@ -4956,6 +4995,7 @@
 .im-thin.im-slideshow::before { content: "\ed59"; }
 .im-thin.im-slippers::before { content: "\f184"; }
 .im-thin.im-slope::before { content: "\f185"; }
+.im-thin.im-slot-machine::before { content: "\f7a2"; }
 .im-thin.im-smart-lock::before { content: "\ed5a"; }
 .im-thin.im-smart-speaker::before { content: "\e858"; }
 .im-thin.im-smiley::before { content: "\e04f"; }
@@ -5129,6 +5169,7 @@
 .im-thin.im-squares-four-slash::before { content: "\ed73"; }
 .im-thin.im-squares-four-x::before { content: "\ed74"; }
 .im-thin.im-squares-list::before { content: "\ed75"; }
+.im-thin.im-squid::before { content: "\f7a3"; }
 .im-thin.im-squircle::before { content: "\f4a0"; }
 .im-thin.im-squircle-dashed::before { content: "\f4a1"; }
 .im-thin.im-squirrel::before { content: "\f2ea"; }
@@ -5325,6 +5366,7 @@
 .im-thin.im-tally-marks-2::before { content: "\f4b2"; }
 .im-thin.im-tally-marks-3::before { content: "\f4b3"; }
 .im-thin.im-tally-marks-4::before { content: "\f4b4"; }
+.im-thin.im-tambourine::before { content: "\f7a4"; }
 .im-thin.im-tangent::before { content: "\f4b5"; }
 .im-thin.im-tank::before { content: "\f1c2"; }
 .im-thin.im-tank-top::before { content: "\f1c3"; }
@@ -5461,6 +5503,7 @@
 .im-thin.im-thermos::before { content: "\f1d3"; }
 .im-thin.im-thermostat::before { content: "\ed9e"; }
 .im-thin.im-thief::before { content: "\f1d4"; }
+.im-thin.im-thread-spool::before { content: "\f7a5"; }
 .im-thin.im-threads-logo::before { content: "\f56f"; }
 .im-thin.im-three-js-logo::before { content: "\f756"; }
 .im-thin.im-thumbs-down::before { content: "\e1c7"; }
@@ -5516,6 +5559,7 @@
 .im-thin.im-tooth-braces::before { content: "\f4d0"; }
 .im-thin.im-tooth-broken::before { content: "\eda8"; }
 .im-thin.im-tooth-slash::before { content: "\eda9"; }
+.im-thin.im-toothbrush::before { content: "\f7a6"; }
 .im-thin.im-topology-bus::before { content: "\e8e5"; }
 .im-thin.im-topology-full-mesh::before { content: "\e8e6"; }
 .im-thin.im-topology-mesh::before { content: "\e8e7"; }
@@ -5645,6 +5689,7 @@
 .im-thin.im-typeface-slash::before { content: "\e5ba"; }
 .im-thin.im-typeform-logo::before { content: "\f75b"; }
 .im-thin.im-typescript-logo::before { content: "\f5fa"; }
+.im-thin.im-typewriter::before { content: "\f7a7"; }
 .im-thin.im-u-turn::before { content: "\edbc"; }
 .im-thin.im-uber-logo::before { content: "\f575"; }
 .im-thin.im-ubisoft-logo::before { content: "\f75c"; }
@@ -5825,6 +5870,7 @@
 .im-thin.im-walker::before { content: "\edca"; }
 .im-thin.im-walking-cane::before { content: "\edcb"; }
 .im-thin.im-wall::before { content: "\edcc"; }
+.im-thin.im-wall-lamp::before { content: "\f7a8"; }
 .im-thin.im-wall-slash::before { content: "\edcd"; }
 .im-thin.im-wallet::before { content: "\e1e5"; }
 .im-thin.im-wallet-bitcoin::before { content: "\f30b"; }

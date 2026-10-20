@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="onion,vegetable,cooking,garlic,bulb">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 40 C152 80 208 104 208 152 C208 196 172 216 128 216 C84 216 48 196 48 152 C48 104 104 80 128 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 C152 80 208 104 208 152 C208 196 172 216 128 216 C84 216 48 196 48 152 C48 104 104 80 128 40 Z"/>
+    <path d="M128 40 L128 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 96 C96.46 109.46 90 128.89 90 149 C90 170.72 97.46 193.31 112 212"/>
+    <path d="M148 96 C159.54 109.46 166 128.89 166 149 C166 170.72 158.54 193.31 144 212"/>
+  </g>
+</svg>

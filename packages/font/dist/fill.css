@@ -36,9 +36,11 @@
 .im-fill.im-ad-circle-slash::before { content: "\e1f4"; }
 .im-fill.im-address-book::before { content: "\e061"; }
 .im-fill.im-address-book-slash::before { content: "\e1f5"; }
+.im-fill.im-adguard-logo::before { content: "\f77b"; }
 .im-fill.im-adidas-logo::before { content: "\f5fc"; }
 .im-fill.im-adobe-acrobat-logo::before { content: "\f5fd"; }
 .im-fill.im-adobe-after-effects-logo::before { content: "\f4f2"; }
+.im-fill.im-adobe-creative-cloud-logo::before { content: "\f77c"; }
 .im-fill.im-adobe-illustrator-logo::before { content: "\f4f3"; }
 .im-fill.im-adobe-indesign-logo::before { content: "\f4f4"; }
 .im-fill.im-adobe-lightroom-logo::before { content: "\f5fe"; }
@@ -57,6 +59,7 @@
 .im-fill.im-air-freshener::before { content: "\e929"; }
 .im-fill.im-air-purifier::before { content: "\e92a"; }
 .im-fill.im-air-quality::before { content: "\edea"; }
+.im-fill.im-air-vent::before { content: "\f77d"; }
 .im-fill.im-airbnb-logo::before { content: "\f4f8"; }
 .im-fill.im-airdrop::before { content: "\f4f9"; }
 .im-fill.im-airflow-logo::before { content: "\f76d"; }
@@ -119,6 +122,7 @@
 .im-fill.im-align-top::before { content: "\e41e"; }
 .im-fill.im-align-top-simple::before { content: "\e41f"; }
 .im-fill.im-align-vertical-spacing::before { content: "\e420"; }
+.im-fill.im-alipay-logo::before { content: "\f77e"; }
 .im-fill.im-allah-calligraphy::before { content: "\f4fa"; }
 .im-fill.im-allergy::before { content: "\e92b"; }
 .im-fill.im-alpha::before { content: "\e92c"; }
@@ -139,6 +143,7 @@
 .im-fill.im-alphabet-thai::before { content: "\e93b"; }
 .im-fill.im-alpinejs-logo::before { content: "\f601"; }
 .im-fill.im-altitude::before { content: "\e93c"; }
+.im-fill.im-alto-clef::before { content: "\f77f"; }
 .im-fill.im-amazon-logo::before { content: "\f4fb"; }
 .im-fill.im-ambulance::before { content: "\e93d"; }
 .im-fill.im-amd-logo::before { content: "\f602"; }
@@ -147,6 +152,7 @@
 .im-fill.im-among-us-logo::before { content: "\f6c4"; }
 .im-fill.im-ampersand::before { content: "\e93e"; }
 .im-fill.im-amphitheater::before { content: "\f318"; }
+.im-fill.im-amphora::before { content: "\f780"; }
 .im-fill.im-amplitude-logo::before { content: "\f603"; }
 .im-fill.im-analyze::before { content: "\e1f8"; }
 .im-fill.im-analyze-slash::before { content: "\e1f9"; }
@@ -163,6 +169,7 @@
 .im-fill.im-ankh::before { content: "\edfd"; }
 .im-fill.im-anki-logo::before { content: "\f6c5"; }
 .im-fill.im-ansible-logo::before { content: "\f605"; }
+.im-fill.im-ant::before { content: "\f781"; }
 .im-fill.im-antenna::before { content: "\e5e8"; }
 .im-fill.im-antenna-signal::before { content: "\e5e9"; }
 .im-fill.im-antenna-slash::before { content: "\e5ea"; }
@@ -275,8 +282,12 @@
 .im-fill.im-arrow-down-to-dot::before { content: "\f31d"; }
 .im-fill.im-arrow-elbow-down::before { content: "\e220"; }
 .im-fill.im-arrow-elbow-left::before { content: "\e221"; }
+.im-fill.im-arrow-elbow-left-down::before { content: "\f782"; }
+.im-fill.im-arrow-elbow-left-up::before { content: "\f783"; }
 .im-fill.im-arrow-elbow-right::before { content: "\e222"; }
 .im-fill.im-arrow-elbow-up::before { content: "\e223"; }
+.im-fill.im-arrow-elbow-up-left::before { content: "\f784"; }
+.im-fill.im-arrow-elbow-up-right::before { content: "\f785"; }
 .im-fill.im-arrow-fat-down::before { content: "\e224"; }
 .im-fill.im-arrow-fat-left::before { content: "\e225"; }
 .im-fill.im-arrow-fat-line-down::before { content: "\e226"; }
@@ -488,6 +499,7 @@
 .im-fill.im-backslash::before { content: "\e958"; }
 .im-fill.im-backspace::before { content: "\e959"; }
 .im-fill.im-backspace-reverse::before { content: "\e95a"; }
+.im-fill.im-bacon::before { content: "\f786"; }
 .im-fill.im-bacteria::before { content: "\ee10"; }
 .im-fill.im-badge::before { content: "\e2a9"; }
 .im-fill.im-badge-0-plus::before { content: "\e2aa"; }
@@ -587,6 +599,7 @@
 .im-fill.im-basket-x::before { content: "\e2e2"; }
 .im-fill.im-basketball::before { content: "\e08e"; }
 .im-fill.im-basketball-hoop::before { content: "\ee1d"; }
+.im-fill.im-bass-clef::before { content: "\f787"; }
 .im-fill.im-bat::before { content: "\e2e3"; }
 .im-fill.im-bathtub::before { content: "\e965"; }
 .im-fill.im-bathtub-slash::before { content: "\e966"; }
@@ -675,6 +688,7 @@
 .im-fill.im-bitbucket-logo::before { content: "\f596"; }
 .im-fill.im-bitwarden-logo::before { content: "\f614"; }
 .im-fill.im-black-hole::before { content: "\f32c"; }
+.im-fill.im-blackberry-logo::before { content: "\f788"; }
 .im-fill.im-blanket::before { content: "\e971"; }
 .im-fill.im-blazer::before { content: "\ee2a"; }
 .im-fill.im-bleach::before { content: "\e972"; }
@@ -912,6 +926,7 @@
 .im-fill.im-bumble-logo::before { content: "\f616"; }
 .im-fill.im-bun-logo::before { content: "\f617"; }
 .im-fill.im-bunk-bed::before { content: "\f346"; }
+.im-fill.im-bunting::before { content: "\f789"; }
 .im-fill.im-burj-al-arab::before { content: "\f347"; }
 .im-fill.im-burj-khalifa::before { content: "\e9a6"; }
 .im-fill.im-bus::before { content: "\e0a7"; }
@@ -1306,6 +1321,7 @@
 .im-fill.im-circuit-changeover::before { content: "\eeaa"; }
 .im-fill.im-circuit-diode::before { content: "\eeab"; }
 .im-fill.im-circuit-diode-zener::before { content: "\eeac"; }
+.im-fill.im-circuit-fuse::before { content: "\f78a"; }
 .im-fill.im-circuit-ground::before { content: "\eead"; }
 .im-fill.im-circuit-ground-digital::before { content: "\eeae"; }
 .im-fill.im-circuit-inductor::before { content: "\eeaf"; }
@@ -1367,6 +1383,9 @@
 .im-fill.im-clock-globe::before { content: "\eec8"; }
 .im-fill.im-clock-heart::before { content: "\eec9"; }
 .im-fill.im-clock-hour-1::before { content: "\f365"; }
+.im-fill.im-clock-hour-10::before { content: "\f78b"; }
+.im-fill.im-clock-hour-11::before { content: "\f78c"; }
+.im-fill.im-clock-hour-12::before { content: "\f78d"; }
 .im-fill.im-clock-hour-2::before { content: "\f366"; }
 .im-fill.im-clock-hour-3::before { content: "\f367"; }
 .im-fill.im-clock-hour-4::before { content: "\f368"; }
@@ -1938,6 +1957,7 @@
 .im-fill.im-diners-club-logo::before { content: "\f59d"; }
 .im-fill.im-dining-table::before { content: "\ea0d"; }
 .im-fill.im-dining-table-umbrella::before { content: "\f397"; }
+.im-fill.im-diploma::before { content: "\f78e"; }
 .im-fill.im-direction-arrows::before { content: "\e3b4"; }
 .im-fill.im-direction-horizontal::before { content: "\e3b5"; }
 .im-fill.im-direction-sign::before { content: "\ea0e"; }
@@ -2259,6 +2279,7 @@
 .im-fill.im-file-arrow-up::before { content: "\e70f"; }
 .im-fill.im-file-arrows::before { content: "\e710"; }
 .im-fill.im-file-audio::before { content: "\e0f9"; }
+.im-fill.im-file-avi::before { content: "\f78f"; }
 .im-fill.im-file-barcode::before { content: "\e711"; }
 .im-fill.im-file-binary::before { content: "\e712"; }
 .im-fill.im-file-bitcoin::before { content: "\e713"; }
@@ -2481,6 +2502,7 @@
 .im-fill.im-flip-vertical::before { content: "\e4dc"; }
 .im-fill.im-flipkart-logo::before { content: "\f639"; }
 .im-fill.im-flood::before { content: "\ef90"; }
+.im-fill.im-floor-lamp::before { content: "\f790"; }
 .im-fill.im-floor-plan::before { content: "\ea9f"; }
 .im-fill.im-floppy-disk::before { content: "\e10c"; }
 .im-fill.im-floppy-disk-arrow-down::before { content: "\eaa0"; }
@@ -2800,6 +2822,7 @@
 .im-fill.im-grafana-logo::before { content: "\f5da"; }
 .im-fill.im-grains::before { content: "\eb2c"; }
 .im-fill.im-grains-slash::before { content: "\eb2d"; }
+.im-fill.im-grammarly-logo::before { content: "\f791"; }
 .im-fill.im-grapes::before { content: "\eb2e"; }
 .im-fill.im-graph::before { content: "\e123"; }
 .im-fill.im-graph-arrow-down::before { content: "\f3c7"; }
@@ -3507,6 +3530,7 @@
 .im-fill.im-lollipop-slash::before { content: "\ec22"; }
 .im-fill.im-looker-logo::before { content: "\f773"; }
 .im-fill.im-loom-logo::before { content: "\f53c"; }
+.im-fill.im-lotion-tube::before { content: "\f792"; }
 .im-fill.im-lottiefiles-logo::before { content: "\f53d"; }
 .im-fill.im-lua-logo::before { content: "\f662"; }
 .im-fill.im-lufthansa-logo::before { content: "\f715"; }
@@ -3636,6 +3660,7 @@
 .im-fill.im-maya-logo::before { content: "\f663"; }
 .im-fill.im-mazda-logo::before { content: "\f71a"; }
 .im-fill.im-maze::before { content: "\f059"; }
+.im-fill.im-mcafee-logo::before { content: "\f793"; }
 .im-fill.im-mcdonalds-logo::before { content: "\f664"; }
 .im-fill.im-mclaren-logo::before { content: "\f71b"; }
 .im-fill.im-mcp-logo::before { content: "\f71c"; }
@@ -3777,6 +3802,7 @@
 .im-fill.im-monitor-cloud::before { content: "\e7a9"; }
 .im-fill.im-monitor-code::before { content: "\e7aa"; }
 .im-fill.im-monitor-currency-dollar::before { content: "\e7ab"; }
+.im-fill.im-monitor-curved::before { content: "\f794"; }
 .im-fill.im-monitor-dot::before { content: "\f417"; }
 .im-fill.im-monitor-gear::before { content: "\e7ac"; }
 .im-fill.im-monitor-heart::before { content: "\e7ad"; }
@@ -4024,10 +4050,12 @@
 .im-fill.im-oneplus-logo::before { content: "\f675"; }
 .im-fill.im-onesie::before { content: "\f0a5"; }
 .im-fill.im-onigiri::before { content: "\eccb"; }
+.im-fill.im-onion::before { content: "\f795"; }
 .im-fill.im-opel-logo::before { content: "\f72d"; }
 .im-fill.im-opencv-logo::before { content: "\f72e"; }
 .im-fill.im-opensea-logo::before { content: "\f676"; }
 .im-fill.im-openshift-logo::before { content: "\f677"; }
+.im-fill.im-openvpn-logo::before { content: "\f796"; }
 .im-fill.im-opera-gx-logo::before { content: "\f678"; }
 .im-fill.im-opera-logo::before { content: "\f5b2"; }
 .im-fill.im-options-call::before { content: "\f424"; }
@@ -4079,6 +4107,7 @@
 .im-fill.im-palette::before { content: "\e15e"; }
 .im-fill.im-palette-slash::before { content: "\e55b"; }
 .im-fill.im-pallet::before { content: "\e55c"; }
+.im-fill.im-pan-flute::before { content: "\f797"; }
 .im-fill.im-panda::before { content: "\e3cc"; }
 .im-fill.im-pandas-logo::before { content: "\f733"; }
 .im-fill.im-panel-bottom-close::before { content: "\f2d0"; }
@@ -4226,6 +4255,7 @@
 .im-fill.im-personal-transporter::before { content: "\f0dc"; }
 .im-fill.im-perspective::before { content: "\e7eb"; }
 .im-fill.im-perspective-slash::before { content: "\e7ec"; }
+.im-fill.im-petri-dish::before { content: "\f798"; }
 .im-fill.im-pexels-logo::before { content: "\f550"; }
 .im-fill.im-phantom-logo::before { content: "\f735"; }
 .im-fill.im-pharmacy::before { content: "\ecdf"; }
@@ -4349,6 +4379,7 @@
 .im-fill.im-poe-logo::before { content: "\f738"; }
 .im-fill.im-pokeball::before { content: "\f554"; }
 .im-fill.im-poker-chip::before { content: "\f0fc"; }
+.im-fill.im-polar-logo::before { content: "\f799"; }
 .im-fill.im-polestar-logo::before { content: "\f739"; }
 .im-fill.im-police-badge::before { content: "\f0fd"; }
 .im-fill.im-police-cap::before { content: "\f443"; }
@@ -4424,6 +4455,7 @@
 .im-fill.im-prometheus-logo::before { content: "\f73b"; }
 .im-fill.im-propeller::before { content: "\f103"; }
 .im-fill.im-propeller-slash::before { content: "\f104"; }
+.im-fill.im-protein-shaker::before { content: "\f79a"; }
 .im-fill.im-psg-logo::before { content: "\f73c"; }
 .im-fill.im-pulley::before { content: "\f44b"; }
 .im-fill.im-pulse::before { content: "\e178"; }
@@ -4575,6 +4607,7 @@
 .im-fill.im-robot-arm::before { content: "\f11f"; }
 .im-fill.im-robot-face::before { content: "\e81c"; }
 .im-fill.im-robot-slash::before { content: "\e81d"; }
+.im-fill.im-robot-vacuum::before { content: "\f79b"; }
 .im-fill.im-rock::before { content: "\f120"; }
 .im-fill.im-rocket::before { content: "\e186"; }
 .im-fill.im-rocket-launch::before { content: "\f121"; }
@@ -4619,6 +4652,7 @@
 .im-fill.im-rss-lock-open::before { content: "\f466"; }
 .im-fill.im-rss-warning::before { content: "\f467"; }
 .im-fill.im-rub-el-hizb::before { content: "\f468"; }
+.im-fill.im-rubiks-cube::before { content: "\f79c"; }
 .im-fill.im-ruby-logo::before { content: "\f691"; }
 .im-fill.im-rug::before { content: "\ed14"; }
 .im-fill.im-rugby::before { content: "\f129"; }
@@ -4653,6 +4687,7 @@
 .im-fill.im-scales::before { content: "\e18b"; }
 .im-fill.im-scales-slash::before { content: "\f132"; }
 .im-fill.im-scallion::before { content: "\ed1c"; }
+.im-fill.im-scalpel::before { content: "\f79d"; }
 .im-fill.im-scan::before { content: "\e18c"; }
 .im-fill.im-scan-position::before { content: "\ed1d"; }
 .im-fill.im-scan-smiley::before { content: "\f133"; }
@@ -4908,10 +4943,14 @@
 .im-fill.im-skewer::before { content: "\ed3f"; }
 .im-fill.im-ski-jump::before { content: "\f17a"; }
 .im-fill.im-skip-back::before { content: "\e19a"; }
+.im-fill.im-skip-back-10::before { content: "\f79e"; }
 .im-fill.im-skip-back-15::before { content: "\f17b"; }
+.im-fill.im-skip-back-5::before { content: "\f79f"; }
 .im-fill.im-skip-back-circle::before { content: "\f17c"; }
 .im-fill.im-skip-forward::before { content: "\e19b"; }
+.im-fill.im-skip-forward-10::before { content: "\f7a0"; }
 .im-fill.im-skip-forward-15::before { content: "\f17d"; }
+.im-fill.im-skip-forward-5::before { content: "\f7a1"; }
 .im-fill.im-skip-forward-circle::before { content: "\f17e"; }
 .im-fill.im-skirt::before { content: "\f17f"; }
 .im-fill.im-skull::before { content: "\e19c"; }
@@ -4956,6 +4995,7 @@
 .im-fill.im-slideshow::before { content: "\ed59"; }
 .im-fill.im-slippers::before { content: "\f184"; }
 .im-fill.im-slope::before { content: "\f185"; }
+.im-fill.im-slot-machine::before { content: "\f7a2"; }
 .im-fill.im-smart-lock::before { content: "\ed5a"; }
 .im-fill.im-smart-speaker::before { content: "\e858"; }
 .im-fill.im-smiley::before { content: "\e04f"; }
@@ -5129,6 +5169,7 @@
 .im-fill.im-squares-four-slash::before { content: "\ed73"; }
 .im-fill.im-squares-four-x::before { content: "\ed74"; }
 .im-fill.im-squares-list::before { content: "\ed75"; }
+.im-fill.im-squid::before { content: "\f7a3"; }
 .im-fill.im-squircle::before { content: "\f4a0"; }
 .im-fill.im-squircle-dashed::before { content: "\f4a1"; }
 .im-fill.im-squirrel::before { content: "\f2ea"; }
@@ -5325,6 +5366,7 @@
 .im-fill.im-tally-marks-2::before { content: "\f4b2"; }
 .im-fill.im-tally-marks-3::before { content: "\f4b3"; }
 .im-fill.im-tally-marks-4::before { content: "\f4b4"; }
+.im-fill.im-tambourine::before { content: "\f7a4"; }
 .im-fill.im-tangent::before { content: "\f4b5"; }
 .im-fill.im-tank::before { content: "\f1c2"; }
 .im-fill.im-tank-top::before { content: "\f1c3"; }
@@ -5461,6 +5503,7 @@
 .im-fill.im-thermos::before { content: "\f1d3"; }
 .im-fill.im-thermostat::before { content: "\ed9e"; }
 .im-fill.im-thief::before { content: "\f1d4"; }
+.im-fill.im-thread-spool::before { content: "\f7a5"; }
 .im-fill.im-threads-logo::before { content: "\f56f"; }
 .im-fill.im-three-js-logo::before { content: "\f756"; }
 .im-fill.im-thumbs-down::before { content: "\e1c7"; }
@@ -5516,6 +5559,7 @@
 .im-fill.im-tooth-braces::before { content: "\f4d0"; }
 .im-fill.im-tooth-broken::before { content: "\eda8"; }
 .im-fill.im-tooth-slash::before { content: "\eda9"; }
+.im-fill.im-toothbrush::before { content: "\f7a6"; }
 .im-fill.im-topology-bus::before { content: "\e8e5"; }
 .im-fill.im-topology-full-mesh::before { content: "\e8e6"; }
 .im-fill.im-topology-mesh::before { content: "\e8e7"; }
@@ -5645,6 +5689,7 @@
 .im-fill.im-typeface-slash::before { content: "\e5ba"; }
 .im-fill.im-typeform-logo::before { content: "\f75b"; }
 .im-fill.im-typescript-logo::before { content: "\f5fa"; }
+.im-fill.im-typewriter::before { content: "\f7a7"; }
 .im-fill.im-u-turn::before { content: "\edbc"; }
 .im-fill.im-uber-logo::before { content: "\f575"; }
 .im-fill.im-ubisoft-logo::before { content: "\f75c"; }
@@ -5825,6 +5870,7 @@
 .im-fill.im-walker::before { content: "\edca"; }
 .im-fill.im-walking-cane::before { content: "\edcb"; }
 .im-fill.im-wall::before { content: "\edcc"; }
+.im-fill.im-wall-lamp::before { content: "\f7a8"; }
 .im-fill.im-wall-slash::before { content: "\edcd"; }
 .im-fill.im-wallet::before { content: "\e1e5"; }
 .im-fill.im-wallet-bitcoin::before { content: "\f30b"; }

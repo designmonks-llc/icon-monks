@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="elbow,turn,up,right,corner arrow,90 degrees">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 216 L60 88 L216 88"/>
+    <path d="M168 136 L216 88 L168 40"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="scalpel,surgery,knife,medical,blade,cut">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M35 204 L134 105 L151 122 L52 221 Z"/>
+    <path d="M134 105 L204 35 C204.7 38.28 205 41.64 205 45 C205 70.27 185.43 97.28 151 122 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 204 L134 105 L151 122 L52 221 Z"/>
+    <path d="M134 105 L204 35 C204.7 38.28 205 41.64 205 45 C205 70.27 185.43 97.28 151 122 Z"/>
+  </g>
+</svg>

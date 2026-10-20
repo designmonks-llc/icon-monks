@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="thread,spool,sewing,bobbin,yarn">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="48" width="96" height="160"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 48 L200 48"/>
+    <path d="M56 208 L200 208"/>
+    <path d="M80 48 L80 208"/>
+    <path d="M176 48 L176 208"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 116 L176 92"/>
+    <path d="M80 164 L176 140"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Animals" data-tags="ant,insect,bug,colony,pest">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="60" r="20"/>
+    <ellipse cx="128" cy="114" rx="16" ry="22"/>
+    <ellipse cx="128" cy="180" rx="30" ry="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="60" r="20"/>
+    <ellipse cx="128" cy="114" rx="16" ry="22"/>
+    <ellipse cx="128" cy="180" rx="30" ry="40"/>
+    <path d="M76 76 L120 104"/>
+    <path d="M180 76 L136 104"/>
+    <path d="M64 120 L192 120"/>
+    <path d="M76 168 L104 140 M180 168 L152 140"/>
+    <path d="M104 32 L118 44 M152 32 L138 44"/>
+  </g>
+</svg>

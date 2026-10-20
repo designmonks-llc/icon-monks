@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="curved monitor,monitor,display,ultrawide,screen">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 48 C64 60 96 66 128 66 C160 66 192 60 224 48 V168 C192 180 160 186 128 186 C96 186 64 180 32 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 C64 60 96 66 128 66 C160 66 192 60 224 48 V168 C192 180 160 186 128 186 C96 186 64 180 32 168 Z"/>
+    <path d="M128 186 L128 216"/>
+    <path d="M88 216 L168 216"/>
+  </g>
+</svg>

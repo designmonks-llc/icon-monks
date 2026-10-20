@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="blackberry,phone,smartphone,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="56" width="44" height="32" rx="16"/>
+    <rect x="32" y="112" width="44" height="32" rx="16"/>
+    <rect x="106" y="56" width="44" height="32" rx="16"/>
+    <rect x="106" y="112" width="44" height="32" rx="16"/>
+    <rect x="106" y="168" width="44" height="32" rx="16"/>
+    <rect x="180" y="112" width="44" height="32" rx="16"/>
+    <rect x="180" y="168" width="44" height="32" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="56" width="44" height="32" rx="16"/>
+    <rect x="32" y="112" width="44" height="32" rx="16"/>
+    <rect x="106" y="56" width="44" height="32" rx="16"/>
+    <rect x="106" y="112" width="44" height="32" rx="16"/>
+    <rect x="106" y="168" width="44" height="32" rx="16"/>
+    <rect x="180" y="112" width="44" height="32" rx="16"/>
+    <rect x="180" y="168" width="44" height="32" rx="16"/>
+  </g>
+</svg>

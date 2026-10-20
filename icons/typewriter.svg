@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="typewriter,typing,writer,vintage,keyboard">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="104" width="192" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="104" width="192" height="112" rx="16"/>
+    <path d="M80 104 V40 H176 V104"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 184 L184 184"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="80" cy="144" r="14"/>
+    <circle cx="128" cy="144" r="14"/>
+    <circle cx="176" cy="144" r="14"/>
+  </g>
+</svg>

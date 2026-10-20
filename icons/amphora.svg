@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="amphora,vase,jar,ancient,pottery,greek">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 40 V72 C72 88 64 112 64 136 C64 168 96 192 112 208 H144 C160 192 192 168 192 136 C192 112 184 88 148 72 V40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 40 V72 C72 88 64 112 64 136 C64 168 96 192 112 208 H144 C160 192 192 168 192 136 C192 112 184 88 148 72 V40 Z"/>
+    <path d="M108 52 C82.4 52 70 64.59 70 82 C70 86.35 70.4 91.2 72 96"/>
+    <path d="M148 52 C173.6 52 186 64.59 186 82 C186 86.35 185.6 91.2 184 96"/>
+    <path d="M112 208 L104 224 L152 224 L144 208"/>
+  </g>
+</svg>
