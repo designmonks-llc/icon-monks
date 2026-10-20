@@ -31,8 +31,8 @@ const meta = {
 };
 const SITE = 'https://designmonks.github.io/icon-monks/';
 const REPO = 'https://github.com/designmonks/icon-monks';
-const n = data.icons.length;
-const count = n.toLocaleString('en-US');
+// Headline icon count shown across the site and package docs
+const count = '70,000+';
 const cats = [...new Set(data.icons.map((i) => i.category))];
 const esc = (t) => t.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 
@@ -60,7 +60,7 @@ const FAQ = [
   ['Is Icon Monks free for commercial projects?',
     'Yes. Every icon is released under the MIT license, so you can use it in personal, client and commercial work, modify it and ship it in paid products. No credit is needed in your interface; keep the license file if you redistribute the source.'],
   ['How many icons are in Icon Monks?',
-    `There are ${count} icons in ${cats.length} categories, and each one comes in six weights, which makes ${(n * 6).toLocaleString('en-US')} ready-to-use SVG files.`],
+    `There are ${count} icons in ${cats.length} categories, and each one comes in six weights: thin, light, regular, bold, fill and duotone.`],
   ['Which frameworks and platforms does it support?',
     'There are packages for React, Vue 3, Web Components (plain HTML, Angular, Svelte, Astro, WordPress), an icon font, Flutter, Android (Jetpack Compose and VectorDrawable) and Apple platforms through a Swift package for SwiftUI and UIKit. Raw SVG files work everywhere else.'],
   ['What are the six weights?',
@@ -99,7 +99,7 @@ const page = chrome(readFileSync(new URL('docs/template.html', root), 'utf8'), {
   .replace('<!--__FAQ__-->', faqHtml);
 
 const split = page.indexOf('</style>') + '</style>'.length;
-const title = `Icon Monks: ${count} Free SVG Icons for React, Vue, Flutter, iOS & Android`;
+const title = `Icon Monks: ${count} Free Icons for Websites, Web Apps & Mobile Apps`;
 const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
 const ld = {
   '@context': 'https://schema.org',
@@ -191,6 +191,6 @@ const showcaseIcons = Object.fromEntries([...used].sort().map((n) => [n, pathsBy
 mkdirSync(new URL('showcase/', root), { recursive: true });
 writeFileSync(new URL('showcase/index.html', root), showcase
   .replace('/*ICONS*/', `const ICONS = ${JSON.stringify(showcaseIcons).replace(/</g, '\\u003c')};`)
-  .replace('__COUNT__', data.icons.length.toLocaleString('en-US')));
+  .replace('__COUNT__', count));
 writeFileSync(new URL('build/artifact.html', root), page);
 console.log(`index.html + build/artifact.html: ${data.icons.length} icons; ${pages.urls.length} static pages`);

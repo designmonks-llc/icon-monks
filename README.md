@@ -7,7 +7,7 @@
 
 # Icon Monks
 
-An open source icon family, a product of [Design Monks](https://monks.company/): **6,008 icons × 6 weights** (thin, light, regular, bold, fill,
+An open source icon family, a product of [Design Monks](https://monks.company/): **70,000+ icons in 6 weights** (thin, light, regular, bold, fill,
 duotone), drawn on a 256-unit grid and generated into native packages for every major platform.
 Icons are grouped into 31 categories: animals, arrows, brands, business, charts, commerce, communication, design, development, devices, editor, education, emoji, files, food, health, home, interface, letters & numbers, maps, media, nature, objects, people, science, security, sports, symbols, time, transport, weather.
 

@@ -41,6 +41,15 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .hero { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 40px; align-items: center; padding-block: 52px 44px; }
 h1 { font: 500 clamp(36px, 5.4vw, 62px)/1.02 var(--display); letter-spacing: -.015em; margin: 0 0 16px; text-wrap: balance; }
 h1 .h1-brand { display: block; font: 500 17px/1.2 var(--body); letter-spacing: 0; color: var(--saffron); margin-bottom: 14px; }
+/* Rotating hero word: the full phrase stays in the markup for crawlers and screen readers */
+h1 .rot { display: none; }
+@media (prefers-reduced-motion: no-preference) {
+  h1.rotating .rot-full { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  h1.rotating .rot { display: inline-grid; vertical-align: bottom; overflow: hidden; padding-bottom: .08em; color: var(--saffron); white-space: nowrap; }
+  h1 .rot > span { grid-area: 1 / 1; opacity: 0; transform: translateY(70%); transition: transform .5s cubic-bezier(.2, .8, .2, 1), opacity .4s; }
+  h1 .rot > .on { opacity: 1; transform: none; }
+  h1 .rot > .off { transform: translateY(-70%); }
+}
 .lede { max-width: 54ch; color: var(--muted); margin: 0; font-size: 17px; }
 .facts { margin: 22px 0 0; font-size: 13.5px; color: var(--muted); }
 .facts b { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
@@ -223,7 +232,7 @@ __HEADER__
 
 <section class="hero wrap">
   <div>
-    <h1><span class="h1-brand">Icon Monks</span>Free icons in six weights, from hairline to filled.</h1>
+    <h1><span class="h1-brand">Icon Monks</span>70,000+ Free icons for your next <span class="rot-full">website, web apps or mobile apps</span><span class="rot" aria-hidden="true"><span class="on">website</span><span>web apps</span><span>mobile apps</span></span></h1>
     <p class="lede">__COUNT__ SVG icons on one 256-unit grid, with packages for React, Vue, Web Components, icon fonts, Flutter, SwiftUI and Jetpack Compose. MIT licensed and free for commercial use.</p>
     <div class="cta"><a class="btn primary" href="#icons">Browse icons __ICON:arrow-down:16:bold__</a><a class="btn" href="#get-started">__ICON:code:16__ Install</a></div>
     <p class="facts"><b id="stat-cats">0</b> categories · <b>8</b> platforms · <b>MIT</b> license<span id="visits" hidden> · <b id="visitCount"></b> visitors</span></p>
@@ -743,6 +752,18 @@ function drawSpecimen() {
   $('spec-note').textContent = STROKE[w] ? `${w} · stroke ${STROKE[w]}/256` : (w === 'fill' ? 'fill · solid shapes' : 'duotone · 20% tint layer');
 }
 const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+{ // Hero headline: show website / web apps / mobile apps one after another
+  const words = [...document.querySelectorAll('h1 .rot > span')];
+  let i = 0;
+  if (!reduced && words.length) {
+    document.querySelector('h1').classList.add('rotating');
+    setInterval(() => {
+    const prev = words[i]; i = (i + 1) % words.length;
+    prev.classList.replace('on', 'off'); words[i].classList.remove('off'); words[i].classList.add('on');
+    setTimeout(() => prev.classList.remove('off'), 500);
+    }, 2400);
+  }
+}
 function runSpecimen() {
   clearInterval(specTimer); if (reduced) return;
   specTimer = setInterval(() => { specW = (specW + 1) % 6; if (specW === 2 && !state.selected) specName = SPEC.names[(SPEC.names.indexOf(specName) + 1) % SPEC.names.length] || SPEC.names[0]; drawSpecimen(); }, 1200);

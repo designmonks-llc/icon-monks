@@ -1,6 +1,6 @@
 # @icon-monks/core
 
-Framework-free Icon Monks: 6008 icons in 6 weights as SVG files, SVG sprites and path data.
+Framework-free Icon Monks: 70,000+ icons in 6 weights as SVG files, SVG sprites and path data.
 
 ```sh
 npm install @icon-monks/core

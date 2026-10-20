@@ -135,7 +135,7 @@ export declare function toSvg(name: IconName, options?: ToSvgOptions): string;
     })
     write(os.path.join(path, 'README.md'), f"""# @icon-monks/core
 
-Framework-free Icon Monks: {len(ICONS)} icons in {len(WEIGHTS)} weights as SVG files, SVG sprites and path data.
+Framework-free Icon Monks: 70,000+ icons in {len(WEIGHTS)} weights as SVG files, SVG sprites and path data.
 
 ```sh
 npm install @icon-monks/core
@@ -576,7 +576,7 @@ def flutter(cps):
     font_yaml = '\n'.join(f"    - family: IconMonks{FAMILY[w]}\n      fonts:\n        - asset: fonts/IconMonks-{FAMILY[w]}.otf"
                           for w in SOLID_WEIGHTS)
     write(os.path.join(path, 'pubspec.yaml'), f"""name: icon_monks
-description: Icon Monks for Flutter. {len(ICONS)} open source icons in thin, light, regular, bold and fill weights.
+description: Icon Monks for Flutter. 70,000+ open source icons in thin, light, regular, bold and fill weights.
 version: {VERSION}
 homepage: https://designmonks.github.io/icon-monks/
 repository: https://github.com/designmonks/icon-monks
