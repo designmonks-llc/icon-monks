@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="cash app,payment,money transfer,dollar,fintech,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 96 C152 88 142 84 128 84 C108 84 96 94 96 108 C96 138 160 120 160 150 C160 164 148 172 128 172 C114 172 102 168 96 162"/>
+    <path d="M132 60 L132 84"/>
+    <path d="M124 172 L124 196"/>
+  </g>
+</svg>

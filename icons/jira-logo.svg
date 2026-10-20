@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="jira,atlassian,project management,issue tracker,agile,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 48 H192 A16 16 0 0 1 208 64 V120"/>
+    <path d="M88 92 H148 A16 16 0 0 1 164 108 V164"/>
+    <path d="M44 136 H104 A16 16 0 0 1 120 152 V208"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="deezer,music,streaming,audio,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 84 L48 140"/>
+    <path d="M88 48 L88 176"/>
+    <path d="M128 96 L128 212"/>
+    <path d="M168 48 L168 176"/>
+    <path d="M208 84 L208 140"/>
+  </g>
+</svg>

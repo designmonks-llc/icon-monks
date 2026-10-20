@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="rivian,electric,ev,compass,usa,car,automotive,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 116 L128 32 L220 116"/>
+    <path d="M36 140 L128 224 L220 140"/>
+    <path d="M116 76 L116 96 L84 128 L116 160 L116 180"/>
+    <path d="M140 76 L140 96 L172 128 L140 160 L140 180"/>
+  </g>
+</svg>

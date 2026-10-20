@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="southwest,southwest airlines,airline,heart,travel,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 216 C96 192 40 160 40 104 C40 76 60 56 88 56 C104 56 120 64 128 80 C136 64 152 56 168 56 C196 56 216 76 216 104 C216 160 160 192 128 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 216 C96 192 40 160 40 104 C40 76 60 56 88 56 C104 56 120 64 128 80 C136 64 152 56 168 56 C196 56 216 76 216 104 C216 160 160 192 128 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 120 L148 196"/>
+    <path d="M108 80 L200 152"/>
+  </g>
+</svg>

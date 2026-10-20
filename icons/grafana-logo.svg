@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="grafana,monitoring,dashboards,observability,metrics,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M99 58 A30.3 30.3 0 0 1 157 58 A30.3 30.3 0 0 1 198 99 A30.3 30.3 0 0 1 198 157 A30.3 30.3 0 0 1 157 198 A30.3 30.3 0 0 1 99 198 A30.3 30.3 0 0 1 58 157 A30.3 30.3 0 0 1 58 99 A30.3 30.3 0 0 1 99 58 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M99 58 A30.3 30.3 0 0 1 157 58 A30.3 30.3 0 0 1 198 99 A30.3 30.3 0 0 1 198 157 A30.3 30.3 0 0 1 157 198 A30.3 30.3 0 0 1 99 198 A30.3 30.3 0 0 1 58 157 A30.3 30.3 0 0 1 58 99 A30.3 30.3 0 0 1 99 58 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M142 128 A14 14 0 0 0 114 128 A28 28 0 0 0 170 128 A42 42 0 0 0 86 128 A56 56 0 0 0 198 128"/>
+  </g>
+</svg>

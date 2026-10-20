@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="apple tv,apple,tv,streaming,video,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M 72 116 C 66 113 60 111 53 111 C 40 111 32 124 32 140 C 32 158 42 184 53 184 C 60 184 65 180 72 180 C 79 180 84 184 91 184 C 99 184 108 170 112 158 C 102 153 97 148 97 140 C 97 132 102 125 109 121 C 103 114 96 111 89 111 C 83 111 78 113 72 116 Z"/>
+    <path d="M 70 104 C 70 95 79 88 90 88 C 90 97 81 104 70 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 72 116 C 66 113 60 111 53 111 C 40 111 32 124 32 140 C 32 158 42 184 53 184 C 60 184 65 180 72 180 C 79 180 84 184 91 184 C 99 184 108 170 112 158 C 102 153 97 148 97 140 C 97 132 102 125 109 121 C 103 114 96 111 89 111 C 83 111 78 113 72 116 Z"/>
+    <path d="M 70 104 C 70 95 79 88 90 88 C 90 97 81 104 70 104 Z"/>
+    <path d="M140 80 V164 C140 173.87 145.17 181 156 181 C158.33 181 161.17 180.71 164 180"/>
+    <path d="M124 108 L160 108"/>
+    <path d="M172 108 L196 180 L220 108"/>
+  </g>
+</svg>

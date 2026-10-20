@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="svelte,sveltejs,framework,javascript,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 52 C159.23 44.98 149.16 42 139 42 C125.99 42 112.98 47.02 104 56 L68 92 C60 100 56 110 56 120 C56 130 60 140 68 148 C76 156 88 160 100 160"/>
+    <path d="M88 204 C96.77 211.02 106.84 214 117 214 C130.01 214 143.02 208.98 152 200 L188 164 C196 156 200 146 200 136 C200 126 196 116 188 108 C180 100 168 96 156 96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 76 C144 72 139 70 134 70 C129 70 124 72 120 76 L96 100 C93.17 102.83 92 105.7 92 109 C92 115.02 96.25 121.42 104 124 L152 132 C159.75 134.58 164 140.98 164 147 C164 150.3 162.83 153.17 160 156 L136 180 C132 184 127 186 122 186 C117 186 112 184 108 180"/>
+  </g>
+</svg>

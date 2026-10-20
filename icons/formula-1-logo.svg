@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="formula 1,f1,motorsport,racing,sports,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 160 L80 112 C88 104 96 96 112 96 H168"/>
+    <path d="M88 160 L100 148 C108 140 112 136 124 136 H128"/>
+    <path d="M160 160 L224 96"/>
+  </g>
+</svg>

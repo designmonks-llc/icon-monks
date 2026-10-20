@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="deepmind,google deepmind,google,ai,research,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="28"/>
+    <path d="M72 50 C56 65 48 88 48 109 C48 124 52 138 60 148 C67 158 76 162 85 162 C91 162 98 160 104 156"/>
+    <path d="M184 206 C200 191 208 168 208 147 C208 132 204 118 196 108 C189 98 180 94 171 94 C165 94 158 96 152 100"/>
+  </g>
+</svg>

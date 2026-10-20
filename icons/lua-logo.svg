@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="lua,programming language,scripting,moon,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="120" cy="136" r="80"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="136" r="80"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="144" cy="112" r="20"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="200" cy="56" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="istio,service mesh,kubernetes,sail,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M144 32 L200 176 L144 176 Z"/>
+    <path d="M104 88 L104 176 L64 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 32 L200 176 L144 176 Z"/>
+    <path d="M104 88 L104 176 L64 176 Z"/>
+    <path d="M56 216 L208 216"/>
+  </g>
+</svg>

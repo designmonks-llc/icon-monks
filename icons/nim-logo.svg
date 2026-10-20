@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="nim,nimlang,programming language,crown,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 100 L60 92 L72 68 L100 84 L128 56 L156 84 L184 68 L196 92 L220 100 L204 124 C180 110 156 104 128 104 C100 104 76 110 52 124 Z"/>
+    <path d="M40 144 L92 168 L128 148 L164 168 L216 144 C204 188 172 212 128 212 C84 212 52 188 40 144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 100 L60 92 L72 68 L100 84 L128 56 L156 84 L184 68 L196 92 L220 100 L204 124 C180 110 156 104 128 104 C100 104 76 110 52 124 Z"/>
+    <path d="M40 144 L92 168 L128 148 L164 168 L216 144 C204 188 172 212 128 212 C84 212 52 188 40 144 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="apple pay,apple,payment,wallet,contactless,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 68 C122 64 114 62 108 62 C96 62 88 74 88 90 C88 106 98 120 108 120 C116 120 120 116 128 116 C136 116 140 120 148 120 C156 120 162 112 166 104 A16 16 0 0 1 162 74 C156 66 150 62 146 62 C140 62 134 64 128 68 Z"/>
+    <path d="M132 44 C132 36 140 32 148 32 C148 40 140 44 132 44 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 68 C122 64 114 62 108 62 C96 62 88 74 88 90 C88 106 98 120 108 120 C116 120 120 116 128 116 C136 116 140 120 148 120 C156 120 162 112 166 104 A16 16 0 0 1 162 74 C156 66 150 62 146 62 C140 62 134 64 128 68 Z"/>
+    <path d="M132 44 C132 36 140 32 148 32 C148 40 140 44 132 44 Z"/>
+    <path d="M44 208 V148 H64 A20 20 0 0 1 64 188 H44"/>
+    <circle cx="128" cy="188" r="20"/>
+    <path d="M148 168 L148 208"/>
+    <path d="M172 168 L192 208"/>
+    <path d="M212 168 L184 224"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="target,target corporation,bullseye,retail,store,shopping,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 A96 96 0 1 1 224 128 A96 96 0 1 1 32 128 Z M56 128 A72 72 0 1 0 200 128 A72 72 0 1 0 56 128 Z"/>
+    <circle cx="128" cy="128" r="36"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+    <circle cx="128" cy="128" r="72"/>
+    <circle cx="128" cy="128" r="36"/>
+  </g>
+</svg>

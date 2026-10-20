@@ -1,0 +1,18 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="kubernetes,k8s,containers,orchestration,cloud,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 34 L203 70 L222 151 L170 216 L86 216 L34 151 L53 70 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 34 L203 70 L222 151 L170 216 L86 216 L34 151 L53 70 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="130" r="44"/>
+    <path d="M128 106 L128 62"/>
+    <path d="M147 115 L181 88"/>
+    <path d="M151 135 L194 145"/>
+    <path d="M138 152 L158 191"/>
+    <path d="M118 152 L98 191"/>
+    <path d="M105 135 L62 145"/>
+    <path d="M109 115 L75 88"/>
+  </g>
+</svg>

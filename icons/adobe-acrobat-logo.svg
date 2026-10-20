@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="adobe acrobat,acrobat,adobe,pdf,documents,reader,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 166 C122.4 156.2 144.66 151 165 151 C173.72 151 182.2 152.2 190 154 C198.71 156.61 202 162.85 202 168 C202 172.67 199.36 176 194 176 C191.71 176 189.04 175.69 186 174 C160 160 140 130 126 96 C122.49 87.23 121 80.36 121 75 C121 68.14 123.51 64 128 64 C132.94 64 136 68.78 136 77 C136 82.08 135.06 88.36 132 96 C120 126 100 162 80 182 C75.04 186.96 70.16 189 67 189 C64.04 189 63 187.55 63 185 C63 182.61 64.25 179.13 68 176 C76 170 88 168 100 166 Z"/>
+  </g>
+</svg>

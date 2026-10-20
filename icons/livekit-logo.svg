@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="livekit,webrtc,realtime,video,audio,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M38 38 L74 38 L74 182 L136 182 L136 218 L38 218 Z"/>
+    <rect x="192" y="48" width="16" height="16" rx="4"/>
+    <rect x="156" y="84" width="16" height="16" rx="4"/>
+    <rect x="120" y="120" width="16" height="16" rx="4"/>
+    <rect x="156" y="156" width="16" height="16" rx="4"/>
+    <rect x="192" y="192" width="16" height="16" rx="4"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 38 L74 38 L74 182 L136 182 L136 218 L38 218 Z"/>
+    <rect x="192" y="48" width="16" height="16" rx="4"/>
+    <rect x="156" y="84" width="16" height="16" rx="4"/>
+    <rect x="120" y="120" width="16" height="16" rx="4"/>
+    <rect x="156" y="156" width="16" height="16" rx="4"/>
+    <rect x="192" y="192" width="16" height="16" rx="4"/>
+  </g>
+</svg>

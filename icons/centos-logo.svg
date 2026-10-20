@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="centos,linux,operating system,red hat,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 56 H104 L128 32 L152 56 H200 V104 L224 128 L200 152 V200 H152 L128 224 L104 200 H56 V152 L32 128 L56 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 56 H104 L128 32 L152 56 H200 V104 L224 128 L200 152 V200 H152 L128 224 L104 200 H56 V152 L32 128 L56 104 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 56 L128 200"/>
+    <path d="M56 128 L200 128"/>
+    <path d="M56 56 L200 200"/>
+    <path d="M200 56 L56 200"/>
+  </g>
+</svg>

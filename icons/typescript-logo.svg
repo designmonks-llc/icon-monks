@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="typescript,ts,programming language,javascript,code,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 112 L128 112"/>
+    <path d="M100 112 L100 188"/>
+    <path d="M194 120 C188 112 182 108 174 108 C162 108 154 114 154 126 C154 148 196 140 196 166 C196 180 186 188 174 188 C164 188 156 184 150 176"/>
+  </g>
+</svg>

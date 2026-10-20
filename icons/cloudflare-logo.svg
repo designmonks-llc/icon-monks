@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="cloudflare,cdn,cloud,network,security,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 184 H208 A16 16 0 0 0 208 152 H196 C196 108 166 76 128 76 C98 76 78 96 72 120 C50 120 32 138 32 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 184 H208 A16 16 0 0 0 208 152 H196 C196 108 166 76 128 76 C98 76 78 96 72 120 C50 120 32 138 32 160 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 184 C164 160 176 152 196 152"/>
+  </g>
+</svg>

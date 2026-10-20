@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="alpine.js,alpinejs,alpine,javascript,web framework,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 L72 88 L160 176 L80 176 Z"/>
+    <path d="M162 128 L192 98 L222 128 L192 158 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L72 88 L160 176 L80 176 Z"/>
+    <path d="M162 128 L192 98 L222 128 L192 158 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="aws,amazon web services,cloud,amazon,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 66 C42 60 50 56 58 56 C70 56 76 64 76 74 V116"/>
+    <path d="M76 90 H56 C44 90 36 96 36 104 C36 112 44 116 52 116 C66 116 76 108 76 96"/>
+    <path d="M96 56 L110 116 L128 76 L146 116 L160 56"/>
+    <path d="M218 64 C212 58 206 56 200 56 C190 56 182 62 182 70 C182 88 220 82 220 102 C220 112 212 116 200 116 C190 116 184 114 178 108"/>
+    <path d="M36 148 C60 166 92 176 124 176 C152 176 180 168 204 152"/>
+    <path d="M188 140 L216 140 L208 168"/>
+  </g>
+</svg>

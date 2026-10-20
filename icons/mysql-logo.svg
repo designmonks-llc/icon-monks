@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mysql,database,sql,dolphin,oracle,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 48 C52 48 64 56 72 60 C104 64 136 88 156 128 C164 148 168 164 180 172 L216 196 L188 188"/>
+    <path d="M40 48 C38.14 49.86 37 52.43 37 55 C37 63.5 45.86 74.79 52 84 C58 96 60 108 68 120 C64.4 128.99 62 139.96 62 150 C62 162.3 65.39 173.39 72 180 C73.8 181.8 75.6 183 77 183 C81.8 183 84 173.3 84 164 L88 152 C96 168 108 188 120 200"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="gojek,ride hailing,delivery,super app,indonesia,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="32"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 184 C108 198 100 204 92 208 A88 88 0 1 1 164 208 C156 204 148 198 148 184"/>
+    <circle cx="128" cy="128" r="32"/>
+  </g>
+</svg>

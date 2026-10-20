@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="argo,argo cd,gitops,kubernetes,octopus,devops,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 144 V112 C76 80 100 64 128 64 C156 64 180 80 180 112 V144 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 144 V112 C76 80 100 64 128 64 C156 64 180 80 180 112 V144 Z"/>
+    <path d="M52 168 A88 88 0 1 1 204 168"/>
+    <path d="M96 144 L72 208"/>
+    <path d="M128 144 L128 216"/>
+    <path d="M160 144 L184 208"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="108" r="14"/>
+    <circle cx="148" cy="108" r="14"/>
+  </g>
+</svg>

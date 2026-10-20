@@ -1,0 +1,14 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="graphql,api,query language,schema,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 44 L200 86 L200 170 L128 212 L56 170 L56 86 Z"/>
+    <path d="M128 44 L200 170 L56 170 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="44" r="16"/>
+    <circle cx="200" cy="86" r="16"/>
+    <circle cx="200" cy="170" r="16"/>
+    <circle cx="128" cy="212" r="16"/>
+    <circle cx="56" cy="170" r="16"/>
+    <circle cx="56" cy="86" r="16"/>
+  </g>
+</svg>

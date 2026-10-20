@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="neovim,vim,text editor,editor,terminal,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 72 L92 32 L164 176 L164 32 L212 32 L212 184 L164 224 L92 80 L92 224 L44 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 72 L92 32 L164 176 L164 32 L212 32 L212 184 L164 224 L92 80 L92 224 L44 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 32 L92 80"/>
+    <path d="M164 176 L164 224"/>
+  </g>
+</svg>

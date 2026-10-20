@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="american airlines,airline,flight symbol,eagle,travel,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 36 H88 L144 104 H100 Z"/>
+    <path d="M116 156 C113.77 151.53 113 147.22 113 144 C113 135.69 119.35 132 128 132 H172 C181.87 132 189 137.62 189 144 C189 145.37 188.71 146.58 188 148 L224 212 H172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 36 H88 L144 104 H100 Z"/>
+    <path d="M116 156 C113.77 151.53 113 147.22 113 144 C113 135.69 119.35 132 128 132 H172 C181.87 132 189 137.62 189 144 C189 145.37 188.71 146.58 188 148 L224 212 H172 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 164 C144 152 164 148 188 148"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="luma,luma ai,dream machine,video generation,ai,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 62 L130 32 V129 L211 177 L130 224 L44 177 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 62 L130 32 V129 L211 177 L130 224 L44 177 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 177 L130 129"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="django,python,web framework,dj,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="136" r="28"/>
+    <path d="M128 68 L128 164"/>
+    <path d="M164 112 V168 A24 24 0 0 1 140 192"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="164" cy="80" r="16"/>
+  </g>
+</svg>

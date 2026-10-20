@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="subaru,pleiades,stars,japan,car,automotive,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="128" rx="96" ry="72"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="128" rx="96" ry="72"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 108 L80 100 L88 72 L96 100 L124 108 L96 116 L88 144 L80 116 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="176" cy="92" r="14"/>
+    <circle cx="140" cy="128" r="14"/>
+    <circle cx="188" cy="132" r="14"/>
+    <circle cx="104" cy="168" r="14"/>
+    <circle cx="152" cy="164" r="14"/>
+  </g>
+</svg>

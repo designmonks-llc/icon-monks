@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="midjourney,ai,image generation,art,sailboat,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M120 32 C176 64 196 112 196 160 C172 152 144 152 120 152 Z"/>
+    <path d="M96 80 L96 152 L52 152 Z"/>
+    <path d="M40 176 H216 C204 204 176 216 128 216 C80 216 52 204 40 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 32 C176 64 196 112 196 160 C172 152 144 152 120 152 Z"/>
+    <path d="M96 80 L96 152 L52 152 Z"/>
+    <path d="M40 176 H216 C204 204 176 216 128 216 C80 216 52 204 40 176 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="posthog,product analytics,analytics,hedgehog,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 184 V72 L72 112 V72 L112 112 V72 L156 116 C184 124 204 148 216 168 L224 176 V184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 184 V72 L72 112 V72 L112 112 V72 L156 116 C184 124 204 148 216 168 L224 176 V184 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 116 L156 184"/>
+    <path d="M72 112 L144 184"/>
+    <path d="M112 112 L156 156"/>
+    <path d="M32 112 L104 184"/>
+    <path d="M32 152 L64 184"/>
+  </g>
+</svg>

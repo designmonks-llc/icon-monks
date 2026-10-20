@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="lincoln,ford,star,luxury,usa,car,automotive,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="88" y="48" width="80" height="160" rx="8"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="88" y="48" width="80" height="160" rx="8"/>
+    <path d="M128 32 L128 48"/>
+    <path d="M128 208 L128 224"/>
+    <path d="M56 120 L88 120"/>
+    <path d="M168 120 L200 120"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 48 L128 208"/>
+    <path d="M88 120 L168 120"/>
+  </g>
+</svg>

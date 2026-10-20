@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ruby,programming language,gem,rails,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M152 36 H208 A16 16 0 0 1 224 52 L216 204 L72 220 A32 32 0 0 1 36 196 V148 C52 100 96 56 152 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 36 H208 A16 16 0 0 1 224 52 L216 204 L72 220 A32 32 0 0 1 36 196 V148 C52 100 96 56 152 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 40 C140 92 92 136 40 152"/>
+    <path d="M40 152 L216 204"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="phantom,crypto wallet,wallet,solana,ghost,cryptocurrency,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 200 C40 116 92 52 152 52 C192 52 216 84 216 124 C216 172 192 200 172 200 C156 200 152 180 140 180 C128 180 124 200 104 200 C92 200 88 184 76 184 C64 184 60 200 40 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 200 C40 116 92 52 152 52 C192 52 216 84 216 124 C216 172 192 200 172 200 C156 200 152 180 140 180 C128 180 124 200 104 200 C92 200 88 184 76 184 C64 184 60 200 40 200 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="144" cy="112" r="14"/>
+    <circle cx="188" cy="112" r="14"/>
+  </g>
+</svg>

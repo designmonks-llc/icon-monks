@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="kucoin,crypto,exchange,trading,cryptocurrency,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 56 L60 200"/>
+    <path d="M60 118 L159 36 L196 66 L196 104"/>
+    <path d="M60 138 L159 220 L196 190 L196 152"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M159 73 L104 128 L159 183"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="159" cy="128" r="16"/>
+  </g>
+</svg>

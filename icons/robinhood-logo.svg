@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="robinhood,investing,stocks,trading,feather,finance,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 184 C76 136 104 84 160 56 L212 40 C208 76 196 108 176 136 C152 168 116 184 76 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 184 C76 136 104 84 160 56 L212 40 C208 76 196 108 176 136 C152 168 116 184 76 184 Z"/>
+    <path d="M48 216 L76 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 184 L176 84"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="sharepoint,microsoft sharepoint,microsoft,intranet,collaboration,office,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="148" cy="188" r="36"/>
+    <circle cx="188" cy="140" r="36"/>
+    <circle cx="140" cy="92" r="60"/>
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+    <path d="M144 152 A36 36 0 1 1 112 184"/>
+    <path d="M154 152 A36 36 0 1 1 182 175"/>
+    <path d="M153 150 A60 60 0 0 1 144 152"/>
+    <path d="M83 72 A60 60 0 0 1 198 105"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 104 C104 98 96 96 88 96 C76 96 68 102 68 112 C68 122 76 126 88 128 C100 130 108 134 108 144 C108 154 100 160 88 160 C78 160 70 156 66 150"/>
+  </g>
+</svg>

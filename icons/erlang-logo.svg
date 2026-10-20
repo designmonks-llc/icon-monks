@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="erlang,programming language,otp,functional,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 56 C48 76 42 100 42 128 C42 156 48 180 60 200"/>
+    <path d="M196 56 C208 76 214 100 214 128 C214 156 208 180 196 200"/>
+    <path d="M92 128 H188 A48 48 0 1 0 174 162"/>
+  </g>
+</svg>

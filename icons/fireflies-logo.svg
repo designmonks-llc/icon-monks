@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="fireflies,fireflies.ai,meeting notes,transcription,ai,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="64" height="64"/>
+    <path d="M144 40 H184 A32 32 0 0 1 216 72 V104 H144 Z"/>
+    <path d="M40 144 H104 V216 H72 A32 32 0 0 1 40 184 Z"/>
+    <rect x="144" y="144" width="48" height="48"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="64" height="64"/>
+    <path d="M144 40 H184 A32 32 0 0 1 216 72 V104 H144 Z"/>
+    <path d="M40 144 H104 V216 H72 A32 32 0 0 1 40 184 Z"/>
+    <rect x="144" y="144" width="48" height="48"/>
+  </g>
+</svg>

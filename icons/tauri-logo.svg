@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="tauri,desktop app,rust,framework,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 78 A64 64 0 1 1 201 141"/>
+    <path d="M164 178 A64 64 0 1 1 55 115"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="152" cy="100" r="16"/>
+    <circle cx="104" cy="156" r="16"/>
+  </g>
+</svg>

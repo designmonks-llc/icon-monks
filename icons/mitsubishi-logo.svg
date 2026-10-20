@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mitsubishi,diamonds,japan,car,automotive,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 142 L97 88 L128 34 L159 88 Z"/>
+    <path d="M128 142 L190 142 L222 196 L159 196 Z"/>
+    <path d="M128 142 L97 196 L34 196 L66 142 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 142 L97 88 L128 34 L159 88 Z"/>
+    <path d="M128 142 L190 142 L222 196 L159 196 Z"/>
+    <path d="M128 142 L97 196 L34 196 L66 142 Z"/>
+  </g>
+</svg>

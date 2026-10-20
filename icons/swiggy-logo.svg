@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="swiggy,food delivery,delivery,restaurants,india,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 224 C112 200 56 152 56 104 A72 72 0 0 1 200 104 C200 152 144 200 128 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 224 C112 200 56 152 56 104 A72 72 0 0 1 200 104 C200 152 144 200 128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 60 L128 100 L172 100"/>
+    <path d="M84 128 L124 128 L124 168"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="nodejs,node.js,node,javascript,runtime,server,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 96 V148 A20 20 0 0 1 72 160"/>
+    <path d="M180 104 C172 96 164 96 156 96 C144 96 136 104 136 114 C136 134 180 126 180 148 C180 160 172 168 158 168 C148 168 140 164 134 158"/>
+  </g>
+</svg>

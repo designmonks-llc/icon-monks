@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="elasticsearch,elastic,search,database,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 92 C64 56 92 36 128 36 C164 36 192 56 204 92 Z"/>
+    <rect x="36" y="116" width="184" height="24" rx="12"/>
+    <path d="M52 164 C64 200 92 220 128 220 C164 220 192 200 204 164 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 92 C64 56 92 36 128 36 C164 36 192 56 204 92 Z"/>
+    <rect x="36" y="116" width="184" height="24" rx="12"/>
+    <path d="M52 164 C64 200 92 220 128 220 C164 220 192 200 204 164 Z"/>
+  </g>
+</svg>

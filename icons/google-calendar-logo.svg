@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google calendar,google,calendar,schedule,events,31,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 40 H200 A16 16 0 0 1 216 56 V176 L176 216 H56 A16 16 0 0 1 40 200 V56 A16 16 0 0 1 56 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 40 H200 A16 16 0 0 1 216 56 V176 L176 216 H56 A16 16 0 0 1 40 200 V56 A16 16 0 0 1 56 40 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 92 C82 84 90 80 100 80 C114 80 124 88 124 102 C124 116 114 124 100 124 C116 124 128 132 128 148 C128 162 116 172 100 172 C90 172 80 168 72 160"/>
+    <path d="M148 96 L164 80 L164 168"/>
+  </g>
+</svg>

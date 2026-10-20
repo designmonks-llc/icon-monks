@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="party horn,party blower,noisemaker,party,celebrate,birthday,new year">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 196 C92 148 108 112 112 72 A72 72 0 0 1 184 144 C144 148 108 164 60 212 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 196 C92 148 108 112 112 72 A72 72 0 0 1 184 144 C144 148 108 164 60 212 Z"/>
+    <path d="M52 204 L36 220"/>
+    <path d="M184 72 L208 48"/>
+    <path d="M200 128 L224 124"/>
+    <path d="M128 56 L132 32"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 152 L104 172"/>
+  </g>
+</svg>

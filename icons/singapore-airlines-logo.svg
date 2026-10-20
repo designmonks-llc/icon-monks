@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="singapore airlines,airline,bird,singapore,travel,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 36 L164 128 L128 192"/>
+    <path d="M72 68 L132 152 L104 196"/>
+    <path d="M44 100 L100 176 L80 216"/>
+    <path d="M80 216 H148 C168 216 180 172 204 168 H224"/>
+  </g>
+</svg>

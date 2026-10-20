@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="under armour,sportswear,fashion,sport,athletic,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 91 C48 81 68 75 84 72 V87 C84 94 92 97 104 97 C112 97 120 94 128 94 C136 94 144 97 152 97 C164 97 172 94 172 87 V72 C188 75 208 81 224 91 C224 106 204 122 188 128 C204 134 224 150 224 165 C208 175 188 181 172 184 V169 C172 162 164 159 152 159 C144 159 136 162 128 162 C120 162 112 159 104 159 C92 159 84 162 84 169 V184 C68 181 48 175 32 165 C32 150 52 134 68 128 C52 122 32 106 32 91 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 91 C48 81 68 75 84 72 V87 C84 94 92 97 104 97 C112 97 120 94 128 94 C136 94 144 97 152 97 C164 97 172 94 172 87 V72 C188 75 208 81 224 91 C224 106 204 122 188 128 C204 134 224 150 224 165 C208 175 188 181 172 184 V169 C172 162 164 159 152 159 C144 159 136 162 128 162 C120 162 112 159 104 159 C92 159 84 162 84 169 V184 C68 181 48 175 32 165 C32 150 52 134 68 128 C52 122 32 106 32 91 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="128" rx="36" ry="10"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google podcasts,google,podcast,audio,listening,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 120 L40 136"/>
+    <path d="M216 120 L216 136"/>
+    <path d="M84 80 L84 124"/>
+    <path d="M84 164 L84 176"/>
+    <path d="M172 132 L172 176"/>
+    <path d="M172 80 L172 92"/>
+    <path d="M128 92 L128 164"/>
+    <path d="M128 40 L128 52"/>
+    <path d="M128 204 L128 216"/>
+  </g>
+</svg>

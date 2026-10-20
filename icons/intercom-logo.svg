@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="intercom,customer support,chat,messaging,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 76 L80 136"/>
+    <path d="M112 68 L112 148"/>
+    <path d="M144 68 L144 148"/>
+    <path d="M176 76 L176 136"/>
+    <path d="M76 168 C92 180 110 186 128 186 C146 186 164 180 180 168"/>
+  </g>
+</svg>

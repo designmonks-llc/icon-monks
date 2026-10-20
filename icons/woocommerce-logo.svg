@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="woocommerce,woo,wordpress,e-commerce,shop,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 56 H192 A32 32 0 0 1 224 88 V144 A32 32 0 0 1 192 176 H144 L156 208 L112 176 H64 A32 32 0 0 1 32 144 V88 A32 32 0 0 1 64 56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 56 H192 A32 32 0 0 1 224 88 V144 A32 32 0 0 1 192 176 H144 L156 208 L112 176 H64 A32 32 0 0 1 32 144 V88 A32 32 0 0 1 64 56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 92 L88 148 L128 108 L168 148 L192 92"/>
+  </g>
+</svg>

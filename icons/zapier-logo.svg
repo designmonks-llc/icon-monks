@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="zapier,automation,workflow,integrations,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 128 L220 128"/>
+    <path d="M145 145 L193 192"/>
+    <path d="M128 152 L128 220"/>
+    <path d="M111 145 L63 192"/>
+    <path d="M104 128 L36 128"/>
+    <path d="M111 111 L63 64"/>
+    <path d="M128 104 L128 36"/>
+    <path d="M145 111 L193 64"/>
+  </g>
+</svg>

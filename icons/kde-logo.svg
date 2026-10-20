@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="kde,plasma,desktop,linux,gear,open source,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M155 192 A68 68 0 0 1 144 195 L148 217 A90 90 0 0 1 110 215 L116 194 A68 68 0 0 1 94 184 L82 203 A90 90 0 0 1 56 176 L74 164 A68 68 0 0 1 65 142 L44 147 A90 90 0 0 1 44 109 L65 114 A68 68 0 0 1 74 92 L56 80 A90 90 0 0 1 82 53 L94 72 A68 68 0 0 1 116 62 L110 41 A90 90 0 0 1 148 39 L144 61 A68 68 0 0 1 155 64"/>
+    <path d="M112 88 L112 168"/>
+    <path d="M196 72 L112 128 L196 184"/>
+  </g>
+</svg>

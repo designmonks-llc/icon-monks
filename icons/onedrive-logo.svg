@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="onedrive,microsoft,cloud storage,files,sync,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 188 A48 48 0 0 1 32 140 A48 48 0 0 1 76 92 A64 64 0 0 1 188 108 A40 40 0 0 1 224 148 A40 40 0 0 1 184 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 188 A48 48 0 0 1 32 140 A48 48 0 0 1 76 92 A64 64 0 0 1 188 108 A40 40 0 0 1 224 148 A40 40 0 0 1 184 188 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 98 L216 168"/>
+    <path d="M188 108 L40 166"/>
+  </g>
+</svg>

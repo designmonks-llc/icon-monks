@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="chevrolet,chevy,bowtie,gm,usa,car,automotive,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 104 L92 104 L92 76 L164 76 L164 104 L224 104 L208 152 L164 152 L164 180 L92 180 L92 152 L48 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 104 L92 104 L92 76 L164 76 L164 104 L224 104 L208 152 L164 152 L164 180 L92 180 L92 152 L48 152 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="confluence,atlassian,wiki,documentation,collaboration,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 184 C57.27 150.58 80.87 136 105 136 C112.64 136 120.31 137.12 128 140 L204 160 L186 202 L136 182 C129.11 179.13 122.66 178 117 178 C102.92 178 92.56 186.31 84 202 Z"/>
+    <path d="M220 72 C198.73 105.42 175.13 120 151 120 C143.36 120 135.69 118.88 128 116 L52 96 L70 54 L120 74 C126.89 76.87 133.34 78 139 78 C153.08 78 163.44 69.69 172 54 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 184 C57.27 150.58 80.87 136 105 136 C112.64 136 120.31 137.12 128 140 L204 160 L186 202 L136 182 C129.11 179.13 122.66 178 117 178 C102.92 178 92.56 186.31 84 202 Z"/>
+    <path d="M220 72 C198.73 105.42 175.13 120 151 120 C143.36 120 135.69 118.88 128 116 L52 96 L70 54 L120 74 C126.89 76.87 133.34 78 139 78 C153.08 78 163.44 69.69 172 54 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="santander,banco santander,bank,banking,flame,finance,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 132 C68 136 40 152 40 176 C40 200 80 216 128 216 C176 216 216 200 216 176 C216 152 188 136 152 132 C144 140 136 144 128 144 C120 144 112 140 104 132 Z"/>
+    <path d="M128 120 C104 108 92 96 92 80 C92 64 104 52 112 32 C140 48 164 68 164 92 C164 108 148 118 128 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 132 C68 136 40 152 40 176 C40 200 80 216 128 216 C176 216 216 200 216 176 C216 152 188 136 152 132 C144 140 136 144 128 144 C120 144 112 140 104 132 Z"/>
+    <path d="M128 120 C104 108 92 96 92 80 C92 64 104 52 112 32 C140 48 164 68 164 92 C164 108 148 118 128 120 Z"/>
+  </g>
+</svg>

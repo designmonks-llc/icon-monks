@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="swift,apple,programming language,ios,bird,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M152 40 C168 60 176 80 176 100 C176 112 174 124 172 132 C136 112 100 84 76 56 L128 124 L48 72 C80 116 112 148 144 166 C128 172 112 176 96 176 C72 176 48 168 32 156 C52 188 88 212 128 212 C160 212 176 196 196 196 C208 196 220 204 224 212 C224 196 216 176 208 164 C212 152 216 140 216 124 C216 88 192 60 152 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 40 C168 60 176 80 176 100 C176 112 174 124 172 132 C136 112 100 84 76 56 L128 124 L48 72 C80 116 112 148 144 166 C128 172 112 176 96 176 C72 176 48 168 32 156 C52 188 88 212 128 212 C160 212 176 196 196 196 C208 196 220 204 224 212 C224 196 216 176 208 164 C212 152 216 140 216 124 C216 88 192 60 152 40 Z"/>
+  </g>
+</svg>

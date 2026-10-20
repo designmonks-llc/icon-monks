@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="audacity,audio editing,recording,sound,waveform,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="36" y="136" width="36" height="72" rx="16"/>
+    <rect x="184" y="136" width="36" height="72" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54 136 V128 A74 74 0 0 1 202 128 V136"/>
+    <rect x="36" y="136" width="36" height="72" rx="16"/>
+    <rect x="184" y="136" width="36" height="72" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 172 L102 148 L114 196 L128 120 L142 196 L154 148 L164 172"/>
+  </g>
+</svg>

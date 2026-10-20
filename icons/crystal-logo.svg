@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="crystal,programming language,ruby,compiled,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 100 L100 32 L200 56 L224 152 L156 224 L56 196 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M32 100 L132 76 L108 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 100 L100 32 L200 56 L224 152 L156 224 L56 196 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 100 L132 76 L108 168 Z"/>
+  </g>
+</svg>

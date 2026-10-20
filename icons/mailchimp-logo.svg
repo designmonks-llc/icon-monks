@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mailchimp,email marketing,newsletter,freddie,chimp,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 124 C56 72 92 34 128 34 C160 34 188 40 200 56 C204 64 196 70 172 80 C184 92 188 104 188 108 C204 116 212 128 212 140 V168 C212 200 184 220 148 220 C112 220 88 204 76 180 C60 168 52 148 52 124 Z"/>
+    <circle cx="64" cy="152" r="24"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 124 C56 72 92 34 128 34 C160 34 188 40 200 56 C204 64 196 70 172 80 C184 92 188 104 188 108 C204 116 212 128 212 140 V168 C212 200 184 220 148 220 C112 220 88 204 76 180 C60 168 52 148 52 124 Z"/>
+    <circle cx="64" cy="152" r="24"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 80 C136 76 100 88 80 124"/>
+    <path d="M136 156 L212 148 C208 172 188 188 164 188 C148 188 138 176 136 156 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="148" cy="124" r="14"/>
+  </g>
+</svg>

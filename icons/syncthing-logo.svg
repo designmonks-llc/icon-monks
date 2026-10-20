@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="syncthing,file sync,peer to peer,sync,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="88"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 149 L144 136"/>
+    <path d="M144 136 L202 87"/>
+    <path d="M144 136 L184 196"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="43" cy="149" r="14"/>
+    <circle cx="144" cy="136" r="14"/>
+    <circle cx="202" cy="87" r="14"/>
+    <circle cx="184" cy="196" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="bumble,dating,bee,hive,social,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 128 L80 44 L176 44 L224 128 L176 212 L80 212 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 128 L80 44 L176 44 L224 128 L176 212 L80 212 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 92 L140 92"/>
+    <path d="M84 128 L172 128"/>
+    <path d="M116 164 L148 164"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="microsoft to do,to do,microsoft,tasks,checklist,check,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M114 194 L218 90 A20 20 0 0 0 190 62 L86 166 A20 20 0 0 0 114 194 Z"/>
+    <path d="M100 152 L66 118 A20 20 0 0 0 38 146 L84 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M114 194 L218 90 A20 20 0 0 0 190 62 L86 166 A20 20 0 0 0 114 194 Z"/>
+    <path d="M100 152 L66 118 A20 20 0 0 0 38 146 L84 192"/>
+  </g>
+</svg>

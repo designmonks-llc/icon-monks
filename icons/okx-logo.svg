@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="okx,crypto,exchange,trading,cryptocurrency,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="44" height="44" rx="4"/>
+    <rect x="172" y="40" width="44" height="44" rx="4"/>
+    <rect x="106" y="106" width="44" height="44" rx="4"/>
+    <rect x="40" y="172" width="44" height="44" rx="4"/>
+    <rect x="172" y="172" width="44" height="44" rx="4"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="44" height="44" rx="4"/>
+    <rect x="172" y="40" width="44" height="44" rx="4"/>
+    <rect x="106" y="106" width="44" height="44" rx="4"/>
+    <rect x="40" y="172" width="44" height="44" rx="4"/>
+    <rect x="172" y="172" width="44" height="44" rx="4"/>
+  </g>
+</svg>

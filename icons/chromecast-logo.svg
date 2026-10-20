@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="chromecast,google,cast,streaming,tv,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 120 A88 88 0 0 1 120 208 H208 A16 16 0 0 0 224 192 V64 A16 16 0 0 0 208 48 H48 A16 16 0 0 0 32 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 V64 A16 16 0 0 1 48 48 H208 A16 16 0 0 1 224 64 V192 A16 16 0 0 1 208 208 H152"/>
+    <path d="M40 160 A40 40 0 0 1 80 200"/>
+    <path d="M40 112 A88 88 0 0 1 128 200"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="40" cy="200" r="16"/>
+  </g>
+</svg>

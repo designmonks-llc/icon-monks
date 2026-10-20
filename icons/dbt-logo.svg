@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="dbt,data build tool,analytics engineering,sql,data,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 36 C84 36 104 80 128 80 C152 80 172 36 196 36 A24 24 0 0 1 220 60 C220 84 176 104 176 128 C176 152 220 172 220 196 A24 24 0 0 1 196 220 C172 220 152 176 128 176 C104 176 84 220 60 220 A24 24 0 0 1 36 196 C36 172 80 152 80 128 C80 104 36 84 36 60 A24 24 0 0 1 60 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 36 C84 36 104 80 128 80 C152 80 172 36 196 36 A24 24 0 0 1 220 60 C220 84 176 104 176 128 C176 152 220 172 220 196 A24 24 0 0 1 196 220 C172 220 152 176 128 176 C104 176 84 220 60 220 A24 24 0 0 1 36 196 C36 172 80 152 80 128 C80 104 36 84 36 60 A24 24 0 0 1 60 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 112 L144 128 L128 144 L112 128 Z"/>
+  </g>
+</svg>

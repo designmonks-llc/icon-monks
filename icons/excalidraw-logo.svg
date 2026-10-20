@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="excalidraw,whiteboard,sketch,drawing,diagrams,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M89 201 L201 89 A24 24 0 0 0 167 55 L55 167 A24 24 0 0 0 89 201 Z"/>
+    <path d="M40 40 L108 60 L60 108 Z"/>
+    <path d="M148 184 L184 148 L216 180 L180 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M89 201 L201 89 A24 24 0 0 0 167 55 L55 167 A24 24 0 0 0 89 201 Z"/>
+    <path d="M40 40 L108 60 L60 108 Z"/>
+    <path d="M148 184 L184 148 L216 180 L180 216 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="172" cy="84" r="14"/>
+  </g>
+</svg>

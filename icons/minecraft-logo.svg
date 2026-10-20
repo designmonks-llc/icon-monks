@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="minecraft,mojang,game,gaming,grass block,sandbox,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 80 L128 128 L212 80 M128 128 V224"/>
+    <path d="M44 112 L72 128 V148 L100 164 V144 L128 160 L156 144 V164 L184 148 V128 L212 112"/>
+  </g>
+</svg>

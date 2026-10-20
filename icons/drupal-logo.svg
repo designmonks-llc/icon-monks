@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="drupal,cms,content management,drop,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C152 68 200 100 200 152 A72 72 0 0 1 56 152 C56 100 104 68 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C152 68 200 100 200 152 A72 72 0 0 1 56 152 C56 100 104 68 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 160 C120 148 108 140 96 140 C84 140 76 148 76 160 C76 172 84 180 96 180 C108 180 120 172 128 160 C136 148 148 140 160 140 C172 140 180 148 180 160 C180 172 172 180 160 180 C148 180 136 172 128 160 Z"/>
+  </g>
+</svg>

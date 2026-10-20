@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="canva,design,graphic design,templates,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 112 C166 112 178 102 178 90 C178 76 166 66 148 66 C108 66 72 104 72 148 C72 174 88 190 110 190 C138 190 162 174 182 150"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="152" cy="112" r="16"/>
+  </g>
+</svg>

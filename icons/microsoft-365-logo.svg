@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="microsoft 365,office 365,microsoft,office,productivity,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M142 40 L197 72 A28 28 0 0 1 211 96 L211 160 A28 28 0 0 1 197 184 L142 216 A28 28 0 0 1 114 216 L59 184 A28 28 0 0 1 45 160 L45 96 A28 28 0 0 1 59 72 L114 40 A28 28 0 0 1 142 40 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M132 90 L159 106 A8 8 0 0 1 163 113 L163 143 A8 8 0 0 1 159 150 L132 166 A8 8 0 0 1 124 166 L97 150 A8 8 0 0 1 93 143 L93 113 A8 8 0 0 1 97 106 L124 90 A8 8 0 0 1 132 90 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M142 40 L197 72 A28 28 0 0 1 211 96 L211 160 A28 28 0 0 1 197 184 L142 216 A28 28 0 0 1 114 216 L59 184 A28 28 0 0 1 45 160 L45 96 A28 28 0 0 1 59 72 L114 40 A28 28 0 0 1 142 40 Z"/>
+    <path d="M132 90 L159 106 A8 8 0 0 1 163 113 L163 143 A8 8 0 0 1 159 150 L132 166 A8 8 0 0 1 124 166 L97 150 A8 8 0 0 1 93 143 L93 113 A8 8 0 0 1 97 106 L124 90 A8 8 0 0 1 132 90 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M93 108 L128 36"/>
+    <path d="M163 148 L128 220"/>
+  </g>
+</svg>

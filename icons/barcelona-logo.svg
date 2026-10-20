@@ -1,0 +1,18 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="fc barcelona,barcelona,barca,football,soccer,club,spain,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 36 C60 44 76 48 88 48 C100 48 116 44 128 36 C140 44 156 48 168 48 C180 48 196 44 208 36 C208 72 212 100 224 124 C200 160 160 196 128 224 C96 196 56 160 32 124 C44 100 48 72 48 36 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 36 C60 44 76 48 88 48 C100 48 116 44 128 36 C140 44 156 48 168 48 C180 48 196 44 208 36 C208 72 212 100 224 124 C200 160 160 196 128 224 C96 196 56 160 32 124 C44 100 48 72 48 36 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 44 L128 100"/>
+    <path d="M88 52 L88 100"/>
+    <path d="M48 76 L128 76"/>
+    <path d="M168 52 L168 100"/>
+    <path d="M36 120 L220 120"/>
+    <path d="M88 120 L88 180"/>
+    <path d="M128 120 L128 212"/>
+    <path d="M168 120 L168 180"/>
+  </g>
+</svg>

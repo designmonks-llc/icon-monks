@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="azure,microsoft,cloud,hosting,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 40 L148 40 L84 216 L32 216 Z"/>
+    <path d="M160 76 L224 216 L108 216 L176 180 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 40 L148 40 L84 216 L32 216 Z"/>
+    <path d="M160 76 L224 216 L108 216 L176 180 Z"/>
+  </g>
+</svg>

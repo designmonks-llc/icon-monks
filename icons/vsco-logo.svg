@@ -1,0 +1,19 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="vsco,photography,photo editing,camera,filters,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="56"/>
+    <path d="M184 128 L224 128"/>
+    <path d="M168 168 L196 196"/>
+    <path d="M128 184 L128 224"/>
+    <path d="M88 168 L60 196"/>
+    <path d="M72 128 L32 128"/>
+    <path d="M88 88 L60 60"/>
+    <path d="M128 72 L128 32"/>
+    <path d="M168 88 L196 60"/>
+  </g>
+</svg>

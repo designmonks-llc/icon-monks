@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="shopee,shopping,ecommerce,store,southeast asia,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 88 H212 L200 208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 88 H212 L200 208 A16 16 0 0 1 184 224 H72 A16 16 0 0 1 56 208 Z"/>
+    <path d="M92 88 C92 56 108 32 128 32 C148 32 164 56 164 88"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 124 C148 116 140 112 128 112 C114 112 104 120 104 132 C104 156 152 148 152 172 C152 186 140 192 128 192 C116 192 106 188 98 180"/>
+  </g>
+</svg>

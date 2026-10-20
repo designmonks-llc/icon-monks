@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="consul,hashicorp,service mesh,service discovery,devops,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M155 179 A72 72 0 1 1 155 77"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="104" cy="128" r="16"/>
+    <circle cx="172" cy="128" r="16"/>
+    <circle cx="208" cy="96" r="16"/>
+    <circle cx="208" cy="160" r="16"/>
+  </g>
+</svg>

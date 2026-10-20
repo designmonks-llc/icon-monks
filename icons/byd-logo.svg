@@ -1,0 +1,9 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="byd,build your dreams,electric,ev,china,car,automotive,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 H64 A16 16 0 0 1 80 104 V152 A16 16 0 0 1 64 168 H32"/>
+    <path d="M48 128 L80 128"/>
+    <path d="M104 88 V112 A16 16 0 0 0 120 128 H136 A16 16 0 0 0 152 112 V88"/>
+    <path d="M128 128 L128 168"/>
+    <path d="M176 88 H196 A28 28 0 0 1 224 116 V140 A28 28 0 0 1 196 168 H176"/>
+  </g>
+</svg>

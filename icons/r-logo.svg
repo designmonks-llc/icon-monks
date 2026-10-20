@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="r,rlang,programming language,statistics,data science,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 170 A96 64 0 1 1 220 94"/>
+    <path d="M112 200 V96 H168 A28 28 0 0 1 168 152 H112"/>
+    <path d="M160 152 L196 200"/>
+  </g>
+</svg>

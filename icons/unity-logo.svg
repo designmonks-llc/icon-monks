@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="unity,game engine,games,game development,3d,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 37 L45 80 L45 160"/>
+    <path d="M136 37 L211 80 L211 160"/>
+    <path d="M52 184 L128 224 L204 184"/>
+    <path d="M90 86 L128 108 L166 86"/>
+    <path d="M74 116 L112 138 L112 180"/>
+    <path d="M182 116 L144 138 L144 180"/>
+  </g>
+</svg>

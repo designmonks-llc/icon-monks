@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="rippling,hr,payroll,workforce,it management,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 C68 64 80 80 80 96 C80 112 68 124 56 128 C68 132 76 144 76 160 V192"/>
+    <path d="M112 64 C132 64 144 80 144 96 C144 112 132 124 120 128 C132 132 140 144 140 160 V192"/>
+    <path d="M176 64 C196 64 208 80 208 96 C208 112 196 124 184 128 C196 132 204 144 204 160 V192"/>
+  </g>
+</svg>

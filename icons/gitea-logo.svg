@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="gitea,git,code hosting,repository,teacup,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 56 H216 C216 140 196 208 152 208 H144 C108 208 92 168 88 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 56 H216 C216 140 196 208 152 208 H144 C108 208 92 168 88 136 Z"/>
+    <path d="M88 72 H64 A28 28 0 0 0 64 128 H90"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 104 L184 136 L152 168 L120 136 Z"/>
+  </g>
+</svg>

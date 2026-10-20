@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="powershell,microsoft,shell,terminal,scripting,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 56 L224 56 L192 200 L32 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 56 L224 56 L192 200 L32 200 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 88 L144 128 L88 168"/>
+    <path d="M128 168 L160 168"/>
+  </g>
+</svg>

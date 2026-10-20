@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="khan academy,learning,education,nonprofit,school,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L212 80 L212 176 L128 224 L44 176 L44 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="84" r="16"/>
+    <path d="M76 124 H104 C120 144 128 164 128 188 C96 188 76 160 76 124 Z"/>
+    <path d="M180 124 H152 C136 144 128 164 128 188 C160 188 180 160 180 124 Z"/>
+  </g>
+</svg>

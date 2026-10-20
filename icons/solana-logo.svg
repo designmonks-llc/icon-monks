@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="solana,sol,crypto,cryptocurrency,blockchain,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 56 L216 56 L188 84 L40 84 Z"/>
+    <path d="M40 114 L188 114 L216 142 L68 142 Z"/>
+    <path d="M68 172 L216 172 L188 200 L40 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 56 L216 56 L188 84 L40 84 Z"/>
+    <path d="M40 114 L188 114 L216 142 L68 142 Z"/>
+    <path d="M68 172 L216 172 L188 200 L40 200 Z"/>
+  </g>
+</svg>

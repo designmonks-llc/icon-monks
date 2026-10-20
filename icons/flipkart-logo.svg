@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="flipkart,shopping,ecommerce,store,india,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="80" width="176" height="144" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="80" width="176" height="144" rx="16"/>
+    <path d="M92 80 V68 A36 36 0 0 1 164 68 V80"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M164 120 C160 112 152 108 144 108 C132 108 124 116 122 128 L112 192"/>
+    <path d="M100 148 L148 148"/>
+  </g>
+</svg>

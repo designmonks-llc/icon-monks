@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="stackoverflow,stack overflow,questions,developer,community,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 140 L48 216 L184 216 L184 140"/>
+    <path d="M72 184 L152 184"/>
+    <path d="M79 164 L157 144"/>
+    <path d="M96 145 L164 103"/>
+    <path d="M125 130 L175 66"/>
+  </g>
+</svg>

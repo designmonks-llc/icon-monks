@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="miro,whiteboard,collaboration,brainstorming,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 72 L78 72 L100 100 L84 184 L72 184 L88 100 Z"/>
+    <path d="M110 72 L122 72 L144 100 L128 184 L116 184 L132 100 Z"/>
+    <path d="M154 72 L166 72 L188 100 L172 184 L160 184 L176 100 Z"/>
+  </g>
+</svg>

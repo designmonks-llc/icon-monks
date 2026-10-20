@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="php,programming language,web development,server,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="128" rx="96" ry="64"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="128" rx="96" ry="64"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 156 V108 H70 A20 20 0 0 1 70 148 H64"/>
+    <path d="M114 88 L114 148"/>
+    <path d="M114 124 A14 14 0 0 1 142 124 V148"/>
+    <path d="M166 156 V108 H172 A20 20 0 0 1 172 148 H166"/>
+  </g>
+</svg>

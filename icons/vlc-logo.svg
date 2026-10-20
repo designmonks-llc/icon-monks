@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="vlc,videolan,media player,video,cone,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M116 48 C118 44 123 42 128 42 C133 42 138 44 140 48 L176 176 H80 Z"/>
+    <path d="M80 176 H176 L208 196 C210.94 198.2 212 201.41 212 204 C212 208.46 208.33 212 202 212 H54 C47.67 212 44 208.46 44 204 C44 201.41 45.06 198.2 48 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 48 C118 44 123 42 128 42 C133 42 138 44 140 48 L176 176 H80 Z"/>
+    <path d="M80 176 H176 L208 196 C210.94 198.2 212 201.41 212 204 C212 208.46 208.33 212 202 212 H54 C47.67 212 44 208.46 44 204 C44 201.41 45.06 198.2 48 196 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M103 96 C111.5 100 119.75 102 128 102 C136.25 102 144.5 100 153 96"/>
+    <path d="M91 136 C102.5 141 115.25 144 128 144 C140.75 144 153.5 141 165 136"/>
+  </g>
+</svg>

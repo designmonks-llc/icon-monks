@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="cloudinary,media,images,video,cdn,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 178 A40 40 0 0 1 32 140 A40 40 0 0 1 72 100 A56 56 0 0 1 128 48 A56 56 0 0 1 184 100 A40 40 0 0 1 224 140 A40 40 0 0 1 198 178"/>
+    <path d="M84 100 L84 184"/>
+    <path d="M72 112 L84 100 L96 112"/>
+    <path d="M128 116 L128 184"/>
+    <path d="M116 128 L128 116 L140 128"/>
+    <path d="M172 132 L172 184"/>
+    <path d="M160 144 L172 132 L184 144"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="c++,cplusplus,cpp,programming language,iso,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M123 91 A48 48 0 1 0 123 165"/>
+    <path d="M138 128 L158 128"/>
+    <path d="M148 118 L148 138"/>
+    <path d="M182 128 L202 128"/>
+    <path d="M192 118 L192 138"/>
+  </g>
+</svg>

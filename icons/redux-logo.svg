@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="redux,state management,javascript,react,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97 167 C88 148 84 128 84 108 C84 70 104 42 128 42 C152 42 170 60 176 92"/>
+    <path d="M115 91 C135.88 92.36 155.2 98.89 173 109 C197.86 123.48 212 145.25 212 164 C212 169.7 210.72 175.15 208 180 C199.54 194.26 185.14 202 167 202 C158.7 202 149.75 200.25 140 197"/>
+    <path d="M172 144 C160.12 161.64 144.8 175.11 127 185 C112.47 193.56 97.13 198 84 198 C67.84 198 54.8 191.47 48 180 C44.28 173.37 42 166.18 42 159 C42 143.66 50.91 127.73 68 113"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="97" cy="167" r="16"/>
+    <circle cx="115" cy="91" r="16"/>
+    <circle cx="172" cy="144" r="16"/>
+  </g>
+</svg>

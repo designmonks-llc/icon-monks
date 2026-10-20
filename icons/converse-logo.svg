@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="converse,star chevron,sneakers,footwear,sportswear,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M84 80 L96 116 L133 116 L103 138 L115 174 L84 152 L53 174 L65 138 L35 116 L72 116 Z"/>
+    <path d="M104 40 L152 40 L224 128 L152 216 L104 216 L176 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 80 L96 116 L133 116 L103 138 L115 174 L84 152 L53 174 L65 138 L35 116 L72 116 Z"/>
+    <path d="M104 40 L152 40 L224 128 L152 216 L104 216 L176 128 Z"/>
+  </g>
+</svg>

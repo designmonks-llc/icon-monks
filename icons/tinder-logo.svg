@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="tinder,dating,match,flame,swipe,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 32 C156 60 200 100 200 152 C200 192 168 224 128 224 C88 224 56 192 56 152 C56 128 64 108 76 96 C80 108 88 116 96 116 C96 84 100 56 100 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 32 C156 60 200 100 200 152 C200 192 168 224 128 224 C88 224 56 192 56 152 C56 128 64 108 76 96 C80 108 88 116 96 116 C96 84 100 56 100 32 Z"/>
+  </g>
+</svg>

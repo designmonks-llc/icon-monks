@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="zendesk,customer support,help desk,tickets,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 48 H112 A40 40 0 0 1 72 88 A40 40 0 0 1 32 48 Z"/>
+    <path d="M144 48 H224 L144 156 Z"/>
+    <path d="M112 208 H32 L112 100 Z"/>
+    <path d="M224 208 H144 A40 40 0 0 1 184 168 A40 40 0 0 1 224 208 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 H112 A40 40 0 0 1 72 88 A40 40 0 0 1 32 48 Z"/>
+    <path d="M144 48 H224 L144 156 Z"/>
+    <path d="M112 208 H32 L112 100 Z"/>
+    <path d="M224 208 H144 A40 40 0 0 1 184 168 A40 40 0 0 1 224 208 Z"/>
+  </g>
+</svg>

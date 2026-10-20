@@ -1,0 +1,9 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="olympics,olympic rings,olympic games,sports,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="62" cy="112" r="30"/>
+    <circle cx="128" cy="112" r="30"/>
+    <circle cx="194" cy="112" r="30"/>
+    <circle cx="95" cy="144" r="30"/>
+    <circle cx="161" cy="144" r="30"/>
+  </g>
+</svg>

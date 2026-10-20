@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="tesla,electric,car,ev,automotive,t,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 100 C64 92 96 88 128 88 C160 88 192 92 216 100 C196 112 172 116 148 116 L128 224 L108 116 C84 116 60 112 40 100 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 100 C64 92 96 88 128 88 C160 88 192 92 216 100 C196 112 172 116 148 116 L128 224 L108 116 C84 116 60 112 40 100 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 56 C72 44 100 40 128 40 C156 40 184 44 216 56"/>
+  </g>
+</svg>

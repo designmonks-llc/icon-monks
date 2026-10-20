@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="puma,sportswear,fashion,cat,sport,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M33 91 C36 84 40 78 46 74 L50 62 L60 74 C72 76 96 84 112 98 C128 112 140 130 156 138 C162 140 170 140 174 140 C178 150 182 166 182 190 H152 C146 172 132 156 116 152 C100 148 88 140 80 128 C68 116 52 108 40 102 C34 100 32 96 33 91 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M33 91 C36 84 40 78 46 74 L50 62 L60 74 C72 76 96 84 112 98 C128 112 140 130 156 138 C162 140 170 140 174 140 C178 150 182 166 182 190 H152 C146 172 132 156 116 152 C100 148 88 140 80 128 C68 116 52 108 40 102 C34 100 32 96 33 91 Z"/>
+    <path d="M170 140 C196 132 192 96 220 72"/>
+    <path d="M84 128 C68 126 52 128 36 128"/>
+  </g>
+</svg>

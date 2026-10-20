@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="icloud,apple,cloud storage,backup,sync,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 188 A40 40 0 0 1 32 148 A40 40 0 0 1 65 109 A28 28 0 0 1 99 89 A52 52 0 0 1 194 113 A38 38 0 0 1 224 150 A38 38 0 0 1 186 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 188 A40 40 0 0 1 32 148 A40 40 0 0 1 65 109 A28 28 0 0 1 99 89 A52 52 0 0 1 194 113 A38 38 0 0 1 224 150 A38 38 0 0 1 186 188 Z"/>
+  </g>
+</svg>

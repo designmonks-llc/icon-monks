@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="llamaindex,llama,rag,ai,llm,framework,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 32 L88 56 C96 60 100 68 100 80 V116 H180 C200 116 212 128 212 148 C212 160 208 168 200 172 V216 H184 V176 H116 V216 H100 V176 C92 168 88 156 88 140 V100 H64 C54 100 47 95 47 86 C47 84 47 82 48 80 L64 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 32 L88 56 C96 60 100 68 100 80 V116 H180 C200 116 212 128 212 148 C212 160 208 168 200 172 V216 H184 V176 H116 V216 H100 V176 C92 168 88 156 88 140 V100 H64 C54 100 47 95 47 86 C47 84 47 82 48 80 L64 64 Z"/>
+  </g>
+</svg>

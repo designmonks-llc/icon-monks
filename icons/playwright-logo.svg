@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="playwright,testing,browser automation,masks,microsoft,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M100 64 C140 60 184 48 220 36 C224 100 216 176 172 212 C164 218.67 154.74 222 146 222 C128.52 222 112 209.33 104 188 C99.31 166.91 97 141.3 97 116 C97 98.11 98.34 80.57 100 64 Z"/>
+    <path d="M100 92 C80 88 56 80 32 72 C32 124 40 168 76 184 C80.69 186.34 85.31 187 90 187 C93.31 187 96.69 186.83 100 186 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 64 C140 60 184 48 220 36 C224 100 216 176 172 212 C164 218.67 154.74 222 146 222 C128.52 222 112 209.33 104 188 C99.31 166.91 97 141.3 97 116 C97 98.11 98.34 80.57 100 64 Z"/>
+    <path d="M100 92 C80 88 56 80 32 72 C32 124 40 168 76 184 C80.69 186.34 85.31 187 90 187 C93.31 187 96.69 186.83 100 186"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 156 C136 162.4 145.46 166 155 166 C169.3 166 184 158.4 196 144"/>
+    <path d="M52 152 C58 143 66.19 138 75 138 C77.94 138 81 139 84 140"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="136" cy="108" r="14"/>
+    <circle cx="188" cy="96" r="14"/>
+    <circle cx="64" cy="108" r="14"/>
+  </g>
+</svg>

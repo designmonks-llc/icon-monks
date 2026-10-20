@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="suzuki,motorcycle,japan,car,automotive,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 92 L130 32 L224 96 C208 104 184 108 160 108 L224 160 L126 224 L32 160 C48 152 72 148 96 148 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 92 L130 32 L224 96 C208 104 184 108 160 108 L224 160 L126 224 L32 160 C48 152 72 148 96 148 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 80 L152 172"/>
+  </g>
+</svg>

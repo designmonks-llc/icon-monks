@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="reebok,vector,sportswear,footwear,fitness,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 88 H102 L192 168 C140 136 88 108 32 88 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 H102 L192 168 C140 136 88 108 32 88 Z"/>
+    <path d="M224 88 C176 92 96 112 52 168"/>
+    <path d="M152 108 C128 124 112 144 104 168"/>
+  </g>
+</svg>

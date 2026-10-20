@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="atlassian,jira,confluence,software,teamwork,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M136 32 L222 224 H156 C136 192 112 152 112 112 C112 80 120 56 136 32 Z"/>
+    <path d="M72 124 L32 224 H96 C99 212 100 196 100 184 C100 156 90 138 72 124 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 32 L222 224 H156 C136 192 112 152 112 112 C112 80 120 56 136 32 Z"/>
+    <path d="M72 124 L32 224 H96 C99 212 100 196 100 184 C100 156 90 138 72 124 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="world of warcraft,warcraft,wow,blizzard,mmo,game,gaming,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M176 64 H192 V80 A80 80 0 0 1 192 176 V192 H176 A80 80 0 0 1 80 192 H64 V176 A80 80 0 0 1 64 80 V64 H80 A80 80 0 0 1 176 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M176 64 H192 V80 A80 80 0 0 1 192 176 V192 H176 A80 80 0 0 1 80 192 H64 V176 A80 80 0 0 1 64 80 V64 H80 A80 80 0 0 1 176 64 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 92 L106 168 L128 112 L150 168 L172 92"/>
+  </g>
+</svg>

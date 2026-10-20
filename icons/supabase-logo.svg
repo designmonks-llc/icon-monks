@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="supabase,database,postgres,backend,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M140 32 L44 148 L120 148 L120 224 L212 108 L140 108 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 32 L44 148 L120 148 L120 224 L212 108 L140 108 Z"/>
+  </g>
+</svg>

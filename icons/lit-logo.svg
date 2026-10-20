@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="lit,web components,javascript,google,flame,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 108 L90 146 L90 70 L128 32 L128 108 L166 70 L166 146 L204 108 L204 186 L166 224 L128 186 L90 224 L52 186 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 108 L90 146 L90 70 L128 32 L128 108 L166 70 L166 146 L204 108 L204 186 L166 224 L128 186 L90 224 L52 186 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 146 L90 224"/>
+    <path d="M128 108 L128 186"/>
+    <path d="M166 146 L166 224"/>
+  </g>
+</svg>

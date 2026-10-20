@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="salesforce,crm,cloud,sales,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M62 164 A25 25 0 1 1 59 114 A40 40 0 0 1 130 80 A33 33 0 0 1 188 103 A29 29 0 1 1 191 160 A38 38 0 0 1 122 179 A33 33 0 0 1 62 164 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62 164 A25 25 0 1 1 59 114 A40 40 0 0 1 130 80 A33 33 0 0 1 188 103 A29 29 0 1 1 191 160 A38 38 0 0 1 122 179 A33 33 0 0 1 62 164 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="evernote,notes,note-taking,elephant,productivity,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 36 H160 C192 36 212 60 212 96 V168 C212 200 196 220 168 220 H124 C96 220 72 204 60 180 L44 144 V72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 36 H160 C192 36 212 60 212 96 V168 C212 200 196 220 168 220 H124 C96 220 72 204 60 180 L44 144 V72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 36 V72 H44"/>
+    <path d="M212 148 H176 C162 148 152 158 152 172 C152 186 162 196 176 196"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="164" cy="100" r="14"/>
+  </g>
+</svg>

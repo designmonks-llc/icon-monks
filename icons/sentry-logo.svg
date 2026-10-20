@@ -1,0 +1,6 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="sentry,error tracking,monitoring,debugging,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M194 205 L209 205 C212.99 205 215 203.14 215 201 C215 199.38 213.72 197.43 212 197 L131 56 C130 54 128 53 126 53 C124 53 122 54 121 56 L97 96 C128 113 161 155 162 209"/>
+    <path d="M130 211 C130 167 107 133 80 118 L61 149 C86 163 98 186 98 205 L44 205 L52 171"/>
+  </g>
+</svg>

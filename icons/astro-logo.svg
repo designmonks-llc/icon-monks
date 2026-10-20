@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="astro,web framework,static site,rocket,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M92 32 H164 L208 148 C192 140 172 136 156 136 L132 76 C131 74 129.5 73 128 73 C126.5 73 125 74 124 76 L100 136 C84 136 64 140 48 148 Z"/>
+    <path d="M100 180 C108 183 118 184 128 184 C138 184 148 183 156 180 C160 200 148 212 128 224 C108 212 96 200 100 180 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 32 H164 L208 148 C192 140 172 136 156 136 L132 76 C131 74 129.5 73 128 73 C126.5 73 125 74 124 76 L100 136 C84 136 64 140 48 148 Z"/>
+    <path d="M100 180 C108 183 118 184 128 184 C138 184 148 183 156 180 C160 200 148 212 128 224 C108 212 96 200 100 180 Z"/>
+  </g>
+</svg>

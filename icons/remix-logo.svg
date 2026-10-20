@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="remix,react,framework,web development,r,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 64 H148 C180 64 200 84 200 108 C200 132 180 148 148 148 H48"/>
+    <path d="M148 148 C176 148 188 164 188 188 V200"/>
+    <path d="M48 200 L124 200"/>
+  </g>
+</svg>

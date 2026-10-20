@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="scala,programming language,jvm,functional,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 52 L192 36 L192 76 L64 92 Z"/>
+    <path d="M64 116 L192 100 L192 140 L64 156 Z"/>
+    <path d="M64 180 L192 164 L192 204 L64 220 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 52 L192 36 L192 76 L64 92 Z"/>
+    <path d="M64 116 L192 100 L192 140 L64 156 Z"/>
+    <path d="M64 180 L192 164 L192 204 L64 220 Z"/>
+  </g>
+</svg>

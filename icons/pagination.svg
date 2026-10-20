@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="pagination,pages,paging,previous,next,carousel,dots">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 104 L32 128 L56 152"/>
+    <path d="M200 104 L224 128 L200 152"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="88" cy="128" r="16"/>
+    <circle cx="128" cy="128" r="16"/>
+    <circle cx="168" cy="128" r="16"/>
+  </g>
+</svg>

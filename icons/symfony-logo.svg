@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="symfony,php,web framework,sf,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 120 C104 114 98 112 92 112 C84 112 78 118 78 126 C78 142 108 138 108 154 C108 164 100 170 90 170 C84 170 78 166 74 160"/>
+    <path d="M188 80 C184 72 178 68 170 68 C162 68 156 72 152 80 C144 96 140 124 136 148 C130 180 120 196 100 196"/>
+    <path d="M132 108 L172 108"/>
+  </g>
+</svg>

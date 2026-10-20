@@ -1,0 +1,8 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="audi,car,automotive,rings,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="62" cy="128" r="30"/>
+    <circle cx="106" cy="128" r="30"/>
+    <circle cx="150" cy="128" r="30"/>
+    <circle cx="194" cy="128" r="30"/>
+  </g>
+</svg>

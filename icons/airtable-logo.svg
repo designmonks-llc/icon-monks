@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="airtable,database,spreadsheet,no code,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 44 L216 80 L128 116 L40 80 Z"/>
+    <path d="M144 140 L216 108 L216 188 L144 220 Z"/>
+    <path d="M40 112 L112 144 L40 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 44 L216 80 L128 116 L40 80 Z"/>
+    <path d="M144 140 L216 108 L216 188 L144 220 Z"/>
+    <path d="M40 112 L112 144 L40 184 Z"/>
+  </g>
+</svg>

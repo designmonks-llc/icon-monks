@@ -1,0 +1,8 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="oneplus,1+,phone,smartphone,android,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 40 H40 V216 H216 V128"/>
+    <path d="M96 112 L120 96 L120 176"/>
+    <path d="M184 40 L184 104"/>
+    <path d="M152 72 L216 72"/>
+  </g>
+</svg>

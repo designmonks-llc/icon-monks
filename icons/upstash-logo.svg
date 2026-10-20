@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="upstash,redis,database,serverless,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M63 193 A72 72 0 0 0 114 214 A72 72 0 0 0 186 142 A72 72 0 0 0 165 91"/>
+    <path d="M92 164 A31 31 0 0 0 114 173 A31 31 0 0 0 145 142 A31 31 0 0 0 136 120"/>
+    <path d="M193 63 A72 72 0 0 0 142 42 A72 72 0 0 0 70 114 A72 72 0 0 0 91 165"/>
+    <path d="M164 92 A31 31 0 0 0 142 83 A31 31 0 0 0 111 114 A31 31 0 0 0 120 136"/>
+  </g>
+</svg>

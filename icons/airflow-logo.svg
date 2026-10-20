@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="airflow,apache airflow,apache,workflow,pipelines,pinwheel,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 128 L36 36 C68 36 104 40 132 52 C135 62 136 76 136 88 C136 104 133 118 128 128 Z"/>
+    <path d="M128 128 L220 36 C220 68 216 104 204 132 C194 135 180 136 168 136 C152 136 138 133 128 128 Z"/>
+    <path d="M128 128 L220 220 C188 220 152 216 124 204 C121 194 120 180 120 168 C120 152 123 138 128 128 Z"/>
+    <path d="M128 128 L36 220 C36 188 40 152 52 124 C62 121 76 120 88 120 C104 120 118 123 128 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 128 L36 36 C68 36 104 40 132 52 C135 62 136 76 136 88 C136 104 133 118 128 128 Z"/>
+    <path d="M128 128 L220 36 C220 68 216 104 204 132 C194 135 180 136 168 136 C152 136 138 133 128 128 Z"/>
+    <path d="M128 128 L220 220 C188 220 152 216 124 204 C121 194 120 180 120 168 C120 152 123 138 128 128 Z"/>
+    <path d="M128 128 L36 220 C36 188 40 152 52 124 C62 121 76 120 88 120 C104 120 118 123 128 128 Z"/>
+  </g>
+</svg>

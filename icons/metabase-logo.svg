@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="metabase,business intelligence,analytics,dashboards,logo,brand">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="68" r="16"/>
+    <circle cx="48" cy="108" r="16"/>
+    <circle cx="48" cy="148" r="16"/>
+    <circle cx="48" cy="188" r="16"/>
+    <circle cx="208" cy="68" r="16"/>
+    <circle cx="208" cy="108" r="16"/>
+    <circle cx="208" cy="148" r="16"/>
+    <circle cx="208" cy="188" r="16"/>
+    <circle cx="88" cy="108" r="16"/>
+    <circle cx="168" cy="108" r="16"/>
+    <circle cx="128" cy="148" r="16"/>
+  </g>
+</svg>

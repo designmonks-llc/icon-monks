@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="plaid,fintech,banking api,payments,finance,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 40 L184 40 L216 72 L216 184 L184 216 L72 216 L40 184 L40 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 40 L184 40 L216 72 L216 184 L184 216 L72 216 L40 184 L40 72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 40 L40 168"/>
+    <path d="M200 56 L56 200"/>
+    <path d="M216 88 L88 216"/>
+    <path d="M88 40 L216 168"/>
+    <path d="M56 56 L200 200"/>
+    <path d="M40 88 L168 216"/>
+  </g>
+</svg>

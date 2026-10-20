@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="cathay pacific,airline,brushwing,hong kong,travel,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M52 32 C60 100 100 144 212 156 L64 224 L128 184 C84 152 56 104 52 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 32 C60 100 100 144 212 156 L64 224 L128 184 C84 152 56 104 52 32 Z"/>
+  </g>
+</svg>

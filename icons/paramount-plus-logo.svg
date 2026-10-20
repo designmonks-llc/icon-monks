@@ -1,0 +1,17 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="paramount plus,paramount,streaming,movies,mountain,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 200 L104 128 L128 104 L156 132 L208 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 200 L104 128 L128 104 L156 132 L208 200 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="40" cy="152" r="16"/>
+    <circle cx="52" cy="108" r="16"/>
+    <circle cx="84" cy="76" r="16"/>
+    <circle cx="128" cy="64" r="16"/>
+    <circle cx="172" cy="76" r="16"/>
+    <circle cx="204" cy="108" r="16"/>
+    <circle cx="216" cy="152" r="16"/>
+  </g>
+</svg>

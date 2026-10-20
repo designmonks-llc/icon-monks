@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="pizza hut,pizza,fast food,restaurant,roof,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 168 L48 152 C76 144 92 120 100 88 H156 C164 120 180 144 208 152 L224 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 168 L48 152 C76 144 92 120 100 88 H156 C164 120 180 144 208 152 L224 168 Z"/>
+  </g>
+</svg>

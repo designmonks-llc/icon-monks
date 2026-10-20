@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="linear,issue tracker,project management,productivity,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 64 A96 96 0 0 1 128 32 A96 96 0 0 1 224 128 A96 96 0 0 1 192 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 64 A96 96 0 0 1 128 32 A96 96 0 0 1 224 128 A96 96 0 0 1 192 200 Z"/>
+    <path d="M39 91 L165 217"/>
+    <path d="M33 117 L139 223"/>
+    <path d="M35 151 L105 221"/>
+  </g>
+</svg>

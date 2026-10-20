@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="prometheus,monitoring,metrics,observability,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 136 C85.17 130.33 84 124.49 84 119 C84 108.99 88.25 99.75 96 92 C96 104 104 112 108 112 C107.31 109.25 107 106.53 107 104 C107 91.78 114.75 81.94 128 72 C141.25 81.94 149 91.78 149 104 C149 106.53 148.69 109.25 148 112 C152 112 160 104 160 92 C167.75 99.75 172 108.99 172 119 C172 124.49 170.83 130.33 168 136 Z"/>
+    <path d="M72 136 L184 136"/>
+    <path d="M96 176 L160 176"/>
+  </g>
+</svg>

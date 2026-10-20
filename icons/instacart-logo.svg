@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="instacart,grocery delivery,groceries,carrot,shopping,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 216 C48 172 84 148 128 148 C172 148 208 172 208 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 216 C48 172 84 148 128 148 C172 148 208 172 208 216 Z"/>
+    <path d="M128 40 L128 120"/>
+    <path d="M68 76 C84 100 104 116 128 120 C152 116 172 100 188 76"/>
+  </g>
+</svg>

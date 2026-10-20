@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="metamask,crypto,wallet,ethereum,fox,web3,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 36 L100 92 L156 92 L224 36 L212 120 L224 156 L172 196 L148 216 L108 216 L84 196 L32 156 L44 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 36 L100 92 L156 92 L224 36 L212 120 L224 156 L172 196 L148 216 L108 216 L84 196 L32 156 L44 120 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 184 L128 196 L148 184"/>
+    <path d="M44 120 L100 92"/>
+    <path d="M212 120 L156 92"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="144" r="14"/>
+    <circle cx="160" cy="144" r="14"/>
+  </g>
+</svg>

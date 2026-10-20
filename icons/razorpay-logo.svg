@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="razorpay,payments,payment gateway,india,finance,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 96 L216 36 L168 216 L124 216 L152 124 Z"/>
+    <path d="M40 216 L60 172 L112 152 L92 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 96 L216 36 L168 216 L124 216 L152 124 Z"/>
+    <path d="M40 216 L60 172 L112 152 L92 216 Z"/>
+  </g>
+</svg>

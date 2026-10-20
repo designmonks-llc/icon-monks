@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="microsoft edge,edge,microsoft,browser,web browser,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M208 182 A96 96 0 1 1 224 128 C224 144 210 156 192 156 H168 C160 156 152 146 152 134 A28 28 0 1 0 106 138 C116 168 148 182 176 182 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 182 A96 96 0 1 1 224 128 C224 144 210 156 192 156 H168 C160 156 152 146 152 134 A28 28 0 1 0 106 138 C116 168 148 182 176 182 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 104 C52 80 76 68 100 68 C120 68 134 80 142 96"/>
+  </g>
+</svg>

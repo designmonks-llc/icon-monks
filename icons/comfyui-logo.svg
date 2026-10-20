@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="comfyui,comfy,stable diffusion,node editor,ai,image generation,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M118 32 H207 A8 8 0 0 1 215 42 L203 86 L127 96 L106 163 H165 A8 8 0 0 1 173 173 L162 216 L80 224 L72 196 L41 172 L54 82 L100 76 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 32 H207 A8 8 0 0 1 215 42 L203 86 L127 96 L106 163 H165 A8 8 0 0 1 173 173 L162 216 L80 224 L72 196 L41 172 L54 82 L100 76 Z"/>
+  </g>
+</svg>

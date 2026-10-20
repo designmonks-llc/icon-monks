@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="redis,database,cache,key value,in memory,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 184 L124 100"/>
+    <path d="M84 108 C101.8 93.17 124.19 85 141 85 C146.86 85 151.87 85.93 156 88 C163.14 92.29 167 99.09 167 106 C167 118.44 155.14 132.29 132 140 C127.5 147.5 125 155.06 125 162 C125 173.56 131.5 182.5 144 180 C160 176 172 160 184 144"/>
+  </g>
+</svg>

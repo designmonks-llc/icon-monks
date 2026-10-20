@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="binance,crypto,exchange,bnb,trading,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 108 L148 128 L128 148 L108 128 Z"/>
+    <path d="M52 108 L72 128 L52 148 L32 128 Z"/>
+    <path d="M204 108 L224 128 L204 148 L184 128 Z"/>
+    <path d="M128 32 L180 84 L160 104 L128 72 L96 104 L76 84 Z"/>
+    <path d="M128 224 L180 172 L160 152 L128 184 L96 152 L76 172 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 108 L148 128 L128 148 L108 128 Z"/>
+    <path d="M52 108 L72 128 L52 148 L32 128 Z"/>
+    <path d="M204 108 L224 128 L204 148 L184 128 Z"/>
+    <path d="M128 32 L180 84 L160 104 L128 72 L96 104 L76 84 Z"/>
+    <path d="M128 224 L180 172 L160 152 L128 184 L96 152 L76 172 Z"/>
+  </g>
+</svg>

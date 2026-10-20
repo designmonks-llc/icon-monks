@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mongodb,mongo,database,nosql,leaf,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C160 60 180 100 180 136 C180 172 156 196 128 204 C100 196 76 172 76 136 C76 100 96 60 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C160 60 180 100 180 136 C180 172 156 196 128 204 C100 196 76 172 76 136 C76 100 96 60 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 80 V224"/>
+  </g>
+</svg>

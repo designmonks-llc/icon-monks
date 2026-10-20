@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="digitalocean,cloud,hosting,servers,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="108" y="172" width="24" height="24"/>
+    <rect x="80" y="204" width="16" height="16"/>
+    <rect x="64" y="164" width="16" height="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 112 A72 72 0 1 1 140 184"/>
+    <rect x="108" y="172" width="24" height="24"/>
+    <rect x="80" y="204" width="16" height="16"/>
+    <rect x="64" y="164" width="16" height="16"/>
+  </g>
+</svg>

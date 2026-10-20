@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="jupyter,notebook,python,data science,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 108 A76 76 0 0 1 200 108 A88 56 0 0 0 56 108 Z"/>
+    <path d="M56 148 A76 76 0 0 0 200 148 A88 56 0 0 1 56 148 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 108 A76 76 0 0 1 200 108 A88 56 0 0 0 56 108 Z"/>
+    <path d="M56 148 A76 76 0 0 0 200 148 A88 56 0 0 1 56 148 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="204" cy="48" r="16"/>
+    <circle cx="52" cy="56" r="16"/>
+    <circle cx="52" cy="204" r="16"/>
+  </g>
+</svg>

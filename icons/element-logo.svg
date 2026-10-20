@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="element,matrix,messenger,chat,encrypted,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 40 A64 64 0 0 1 172 104"/>
+    <path d="M216 108 A64 64 0 0 1 152 172"/>
+    <path d="M148 216 A64 64 0 0 1 84 152"/>
+    <path d="M40 148 A64 64 0 0 1 104 84"/>
+  </g>
+</svg>

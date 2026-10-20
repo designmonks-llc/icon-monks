@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="apple,mac,iphone,technology,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 88 C116 82 104 78 90 78 C64 78 48 104 48 136 C48 172 68 224 90 224 C104 224 114 216 128 216 C142 216 152 224 166 224 C182 224 200 196 208 172 C188 162 178 152 178 136 C178 120 188 106 202 98 C190 84 176 78 162 78 C150 78 140 82 128 88 Z"/>
+    <path d="M124 64 C124 46 142 32 164 32 C164 50 146 64 124 64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 88 C116 82 104 78 90 78 C64 78 48 104 48 136 C48 172 68 224 90 224 C104 224 114 216 128 216 C142 216 152 224 166 224 C182 224 200 196 208 172 C188 162 178 152 178 136 C178 120 188 106 202 98 C190 84 176 78 162 78 C150 78 140 82 128 88 Z"/>
+    <path d="M124 64 C124 46 142 32 164 32 C164 50 146 64 124 64 Z"/>
+  </g>
+</svg>

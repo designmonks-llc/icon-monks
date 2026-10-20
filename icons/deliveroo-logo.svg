@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="deliveroo,food delivery,delivery,kangaroo,restaurants,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M96 56 L144 44 L156 116 L168 32 L216 36 L204 164 L176 224 L52 196 L40 140 L108 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 56 L144 44 L156 116 L168 32 L216 36 L204 164 L176 224 L52 196 L40 140 L108 128 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="116" cy="156" r="14"/>
+    <circle cx="160" cy="160" r="14"/>
+  </g>
+</svg>

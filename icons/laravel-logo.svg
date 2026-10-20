@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="laravel,php,web framework,backend,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M39 55 L74 35 L110 55 L110 131 L147 111 L147 75 L183 54 L217 75 L217 116 L183 136 L183 177 L109 219 L39 177 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39 55 L74 35 L110 55 L110 131 L147 111 L147 75 L183 54 L217 75 L217 116 L183 136 L183 177 L109 219 L39 177 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39 55 L74 76 L110 55"/>
+    <path d="M74 76 L74 159 L109 179 L183 136"/>
+    <path d="M109 179 L109 219"/>
+    <path d="M147 75 L183 96 L217 75"/>
+    <path d="M183 96 L183 136"/>
+  </g>
+</svg>

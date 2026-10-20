@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="gmc,general motors,gm,trucks,usa,car,automotive,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 88 H48 A16 16 0 0 0 32 104 V152 A16 16 0 0 0 48 168 H80 V128 H60"/>
+    <path d="M104 168 L104 88 L128 124 L152 88 L152 168"/>
+    <path d="M224 88 H192 A16 16 0 0 0 176 104 V152 A16 16 0 0 0 192 168 H224"/>
+  </g>
+</svg>

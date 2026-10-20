@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="among us,crewmate,impostor,game,gaming,innersloth,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 216 V100 C80 60 104 36 136 36 C168 36 192 60 192 100 V216 H152 V188 H120 V216 Z"/>
+    <path d="M80 100 H60 Q44 100 44 116 V172 Q44 188 60 188 H80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 216 V100 C80 60 104 36 136 36 C168 36 192 60 192 100 V216 H152 V188 H120 V216 Z"/>
+    <path d="M80 100 H60 Q44 100 44 116 V172 Q44 188 60 188 H80"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 116 L192 116 A24 24 0 0 0 192 68 L136 68 A24 24 0 0 0 136 116 Z"/>
+  </g>
+</svg>

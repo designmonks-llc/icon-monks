@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="weibo,sina weibo,social media,microblog,china,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 156 C32 116 76 64 116 64 C128 64 130 78 128 92 C136 88 144 84 152 84 C166 84 178 92 178 104 C178 112 176 118 172 122 C196 128 208 142 208 160 C208 188 168 208 116 208 C64 208 32 188 32 156 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 156 C32 116 76 64 116 64 C128 64 130 78 128 92 C136 88 144 84 152 84 C166 84 178 92 178 104 C178 112 176 118 172 122 C196 128 208 142 208 160 C208 188 168 208 116 208 C64 208 32 188 32 156 Z"/>
+    <path d="M176 44 A48 48 0 0 1 224 92"/>
+    <path d="M176 68 A24 24 0 0 1 200 92"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="116" cy="156" rx="56" ry="28"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="160" r="14"/>
+  </g>
+</svg>

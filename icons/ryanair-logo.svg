@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ryanair,airline,harp,ireland,travel,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 72 C72.84 76.67 87.23 79 102 79 C137.84 79 176.84 65.5 208 40"/>
+    <path d="M68 84 C68 132 112 180 180 220"/>
+    <path d="M108 100 L108 136"/>
+    <path d="M140 96 L140 172"/>
+    <path d="M172 88 L172 196"/>
+  </g>
+</svg>

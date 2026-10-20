@@ -1,0 +1,19 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="docker,containers,devops,whale,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 136 H188 C188 112 190 92 200 80 C212 88 218 98 224 108 C216 110 212 120 208 136 C192 184 160 220 112 220 C64 220 32 184 32 136 Z"/>
+    <path d="M32 136 V106 H62 V76 H122 V46 H152 V106 H182 V136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 136 H188 C188 112 190 92 200 80 C212 88 218 98 224 108 C216 110 212 120 208 136 C192 184 160 220 112 220 C64 220 32 184 32 136 Z"/>
+    <path d="M32 136 V106 H62 V76 H122 V46 H152 V106 H182 V136"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 136 L182 136"/>
+    <path d="M62 106 L152 106"/>
+    <path d="M122 76 L152 76"/>
+    <path d="M62 106 L62 136"/>
+    <path d="M92 76 L92 136"/>
+    <path d="M122 76 L122 136"/>
+    <path d="M152 106 L152 136"/>
+  </g>
+</svg>

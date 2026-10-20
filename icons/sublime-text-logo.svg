@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="sublime text,sublime,text editor,editor,code,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 84 L196 40 L196 84 L130 104 L196 124 L196 172 L60 216 L60 168 L128 148 L60 124 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 84 L196 40 L196 84 L130 104 L196 124 L196 172 L60 216 L60 168 L128 148 L60 124 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 148 L196 172"/>
+  </g>
+</svg>

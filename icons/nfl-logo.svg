@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="nfl,national football league,american football,football,sports,league,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 56 C72 56 104 48 128 36 C152 48 184 56 216 56 V136 C216 180 176 204 128 224 C80 204 40 180 40 136 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 56 C72 56 104 48 128 36 C152 48 184 56 216 56 V136 C216 180 176 204 128 224 C80 204 40 180 40 136 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 168 A72 72 0 0 1 176 96 A72 72 0 0 1 80 168 Z"/>
+    <path d="M116 140 L140 124"/>
+  </g>
+</svg>

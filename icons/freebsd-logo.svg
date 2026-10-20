@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="freebsd,bsd,unix,operating system,daemon,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="140" r="80"/>
+    <path d="M62 94 C52 76 44 60 40 44 C56 52 76 60 94 67 Z"/>
+    <path d="M194 94 C204 76 212 60 216 44 C200 52 180 60 162 67 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="140" r="80"/>
+    <path d="M62 94 C52 76 44 60 40 44 C56 52 76 60 94 67"/>
+    <path d="M194 94 C204 76 212 60 216 44 C200 52 180 60 162 67"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="launchdarkly,feature flags,release,devops,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 40 L220 128 L132 216"/>
+    <path d="M36 128 L220 128"/>
+    <path d="M84 72 L180 112"/>
+    <path d="M84 184 L180 144"/>
+  </g>
+</svg>

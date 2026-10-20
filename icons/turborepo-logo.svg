@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="turborepo,turbo,monorepo,build system,vercel,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="44"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="44"/>
+    <path d="M128 36 A92 92 0 0 1 220 128 A92 92 0 0 1 128 220 A92 92 0 0 1 42 159"/>
+    <path d="M36 134 A92 92 0 0 1 36 128 A92 92 0 0 1 42 97"/>
+    <path d="M54 74 A92 92 0 0 1 77 52"/>
+    <path d="M100 41 A92 92 0 0 1 115 37"/>
+  </g>
+</svg>

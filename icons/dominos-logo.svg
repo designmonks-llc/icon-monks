@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="dominos,pizza,delivery,domino,restaurant,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M156 36 L220 100 L100 220 L36 156 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 36 L220 100 L100 220 L36 156 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 96 L160 160"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="158" cy="98" r="14"/>
+    <circle cx="80" cy="158" r="14"/>
+    <circle cx="116" cy="158" r="14"/>
+  </g>
+</svg>

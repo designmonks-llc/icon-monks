@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="linux mint,mint,linux,operating system,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 56 A16 16 0 0 1 56 40 H128 A88 88 0 1 1 40 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 56 A16 16 0 0 1 56 40 H128 A88 88 0 1 1 40 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 84 V152 A24 24 0 0 0 92 176 H160 A24 24 0 0 0 184 152 V128 A19 19 0 0 0 146 128 V176"/>
+    <path d="M146 128 A19 19 0 0 0 108 128 V176"/>
+  </g>
+</svg>

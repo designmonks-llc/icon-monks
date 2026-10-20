@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="wwe,wrestling,entertainment,sports,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 L100 212 L128 132 L156 212 L216 40"/>
+    <path d="M76 40 L100 96 L128 40 L156 96 L180 40"/>
+  </g>
+</svg>

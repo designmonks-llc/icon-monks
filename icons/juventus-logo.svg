@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="juventus,juve,football,soccer,club,italy,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 32 H112 V144 C112 172 92 188 48 196 C72 180 84 168 84 148 V56 H48 Z"/>
+    <path d="M168 32 H208 V156 C208 196 168 216 88 224 C136 212 168 192 168 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 32 H112 V144 C112 172 92 188 48 196 C72 180 84 168 84 148 V56 H48 Z"/>
+    <path d="M168 32 H208 V156 C208 196 168 216 88 224 C136 212 168 192 168 160 Z"/>
+  </g>
+</svg>

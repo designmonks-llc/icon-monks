@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="plotly,charts,data visualization,graphs,python,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 152 L56 200"/>
+    <path d="M104 104 L104 200"/>
+    <path d="M152 152 L152 200"/>
+    <path d="M200 104 L200 200"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="56" cy="56" r="16"/>
+    <circle cx="104" cy="56" r="16"/>
+    <circle cx="152" cy="56" r="16"/>
+    <circle cx="200" cy="56" r="16"/>
+    <circle cx="56" cy="104" r="16"/>
+    <circle cx="152" cy="104" r="16"/>
+  </g>
+</svg>

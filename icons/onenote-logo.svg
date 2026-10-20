@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="onenote,microsoft onenote,microsoft,notes,notebook,office,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="72" y="32" width="152" height="192" rx="16"/>
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+    <path d="M72 72 V48 A16 16 0 0 1 88 32 H208 A16 16 0 0 1 224 48 V208 A16 16 0 0 1 208 224 H88 A16 16 0 0 1 72 208 V184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 156 L64 100 L112 156 L112 100"/>
+    <path d="M184 32 L184 224"/>
+    <path d="M184 96 L224 96"/>
+    <path d="M184 160 L224 160"/>
+  </g>
+</svg>

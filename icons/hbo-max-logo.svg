@@ -1,0 +1,12 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="hbo max,hbo,max,streaming,tv,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 92 L32 164"/>
+    <path d="M64 92 L64 164"/>
+    <path d="M32 128 L64 128"/>
+    <path d="M88 128 H108 A18 18 0 0 1 108 164 H88 V92 H104 A18 18 0 0 1 104 128"/>
+    <circle cx="188" cy="128" r="36"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="188" cy="128" r="14"/>
+  </g>
+</svg>

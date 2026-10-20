@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="arduino,microcontroller,electronics,maker,hardware,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 128 C148 100 160 84 180 84 A44 44 0 0 1 180 172 C160 172 148 156 128 128 C108 100 96 84 76 84 A44 44 0 0 0 76 172 C96 172 108 156 128 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 128 C148 100 160 84 180 84 A44 44 0 0 1 180 172 C160 172 148 156 128 128 C108 100 96 84 76 84 A44 44 0 0 0 76 172 C96 172 108 156 128 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 128 L92 128"/>
+    <path d="M164 128 L196 128"/>
+    <path d="M180 112 L180 144"/>
+  </g>
+</svg>

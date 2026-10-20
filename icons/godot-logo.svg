@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="godot,game engine,games,game development,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M44 112 C44 96 48 84 56 76 L52 60 C57.86 54.14 65.99 50 73 50 C75.56 50 77.86 50.93 80 52 L88 64 C100 60 112 58 116 58 L120 44 C122 42 125 41 128 41 C131 41 134 42 136 44 L140 58 C144 58 156 60 168 64 L176 52 C178.14 50.93 180.44 50 183 50 C190.01 50 198.14 54.14 204 60 L200 76 C208 84 212 96 212 112 V180 C212 192 204 200 192 200 H64 C52 200 44 192 44 180 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 112 C44 96 48 84 56 76 L52 60 C57.86 54.14 65.99 50 73 50 C75.56 50 77.86 50.93 80 52 L88 64 C100 60 112 58 116 58 L120 44 C122 42 125 41 128 41 C131 41 134 42 136 44 L140 58 C144 58 156 60 168 64 L176 52 C178.14 50.93 180.44 50 183 50 C190.01 50 198.14 54.14 204 60 L200 76 C208 84 212 96 212 112 V180 C212 192 204 200 192 200 H64 C52 200 44 192 44 180 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="116" r="24"/>
+    <circle cx="168" cy="116" r="24"/>
+    <path d="M64 164 H88 V176 H116 V164 H140 V176 H168 V164 H192"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="92" cy="118" r="14"/>
+    <circle cx="164" cy="118" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="hubspot,crm,marketing,sprocket,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="168" cy="144" r="38"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="168" cy="144" r="22"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="168" cy="144" r="38"/>
+    <path d="M168 52 L168 106"/>
+    <path d="M56 48 L139 119"/>
+    <path d="M104 208 L141 171"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="168" cy="52" r="16"/>
+    <circle cx="56" cy="48" r="16"/>
+    <circle cx="104" cy="208" r="16"/>
+  </g>
+</svg>

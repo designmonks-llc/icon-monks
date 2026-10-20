@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ubisoft,game,gaming,publisher,swirl,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M66 54 A96 96 0 0 1 190 202 A80 80 0 0 1 87 79 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 54 A96 96 0 0 1 190 202 A80 80 0 0 1 87 79"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M87 79 A64 64 0 0 1 169 177 A48 48 0 0 1 107 103"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="128" cy="136" r="14"/>
+  </g>
+</svg>

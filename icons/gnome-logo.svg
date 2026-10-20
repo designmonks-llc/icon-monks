@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="gnome,desktop,linux,foot,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M120 120 C160 120 184 140 184 168 C184 184 176 192 164 192 H148 C143.06 192 140 194.83 140 200 C140 203.19 140.94 207.42 144 212 C144.82 213.63 145 214.7 145 216 C145 221.07 139.14 224 128 224 C88 224 64 200 64 172 C64 140 88 120 120 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 120 C160 120 184 140 184 168 C184 184 176 192 164 192 H148 C143.06 192 140 194.83 140 200 C140 203.19 140.94 207.42 144 212 C144.82 213.63 145 214.7 145 216 C145 221.07 139.14 224 128 224 C88 224 64 200 64 172 C64 140 88 120 120 120 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="124" r="16"/>
+    <circle cx="76" cy="80" r="16"/>
+    <circle cx="120" cy="56" r="16"/>
+    <circle cx="172" cy="60" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="c#,csharp,c sharp,programming language,microsoft,dotnet,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 97 A40 40 0 1 0 126 159"/>
+    <path d="M160 100 L160 156"/>
+    <path d="M184 100 L184 156"/>
+    <path d="M144 116 L196 116"/>
+    <path d="M144 140 L196 140"/>
+  </g>
+</svg>

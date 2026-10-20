@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="signal,messaging,private messenger,encrypted chat,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 187 A64 64 0 1 0 69 152 L68 188 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 187 A64 64 0 1 0 69 152 L68 188 Z"/>
+    <path d="M35 151 A96 96 0 0 1 35 105"/>
+    <path d="M46 79 A96 96 0 0 1 79 46"/>
+    <path d="M105 35 A96 96 0 0 1 151 35"/>
+    <path d="M177 46 A96 96 0 0 1 210 79"/>
+    <path d="M221 105 A96 96 0 0 1 221 151"/>
+    <path d="M210 177 A96 96 0 0 1 177 210"/>
+    <path d="M151 221 A96 96 0 0 1 105 221"/>
+  </g>
+</svg>

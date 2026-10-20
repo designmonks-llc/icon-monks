@@ -1,0 +1,7 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ola,ola cabs,ride hailing,taxi,india,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="128" r="28"/>
+    <path d="M116 100 L116 156 L152 156"/>
+    <path d="M168 156 L196 100 L224 156"/>
+  </g>
+</svg>

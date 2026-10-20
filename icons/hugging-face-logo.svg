@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="hugging face,huggingface,ai,machine learning,models,emoji,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="120" r="80"/>
+    <path d="M40 200 C36.81 194.9 35 189.02 35 183 C35 170.15 42.38 156.81 56 150 C60.93 147.53 65.94 146 71 146 C86.45 146 100.99 156.93 104 172 C108 196 84 212 64 210 C54 209 46 206 40 200 Z"/>
+    <path d="M216 200 C219.19 194.9 221 189.02 221 183 C221 170.15 213.62 156.81 200 150 C195.07 147.53 190.06 146 185 146 C169.55 146 155.01 156.93 152 172 C148 196 172 212 192 210 C202 209 210 206 216 200 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M59 160 A80 80 0 1 1 197 160"/>
+    <path d="M40 200 C36.81 194.9 35 189.02 35 183 C35 170.15 42.38 156.81 56 150 C60.93 147.53 65.94 146 71 146 C86.45 146 100.99 156.93 104 172 C108 196 84 212 64 210 C54 209 46 206 40 200 Z"/>
+    <path d="M216 200 C219.19 194.9 221 189.02 221 183 C221 170.15 213.62 156.81 200 150 C195.07 147.53 190.06 146 185 146 C169.55 146 155.01 156.93 152 172 C148 196 172 212 192 210 C202 209 210 206 216 200 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 132 H156 C156 152 144 164 128 164 C112 164 100 152 100 132 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="100" cy="100" r="14"/>
+    <circle cx="156" cy="100" r="14"/>
+  </g>
+</svg>

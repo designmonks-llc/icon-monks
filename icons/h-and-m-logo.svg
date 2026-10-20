@@ -1,0 +1,9 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="h&amp;m,h and m,hennes mauritz,fashion,clothing,retail,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 56 L48 192"/>
+    <path d="M100 56 L84 192"/>
+    <path d="M52 128 L96 124"/>
+    <path d="M136 192 L114 160 C110 154 108 150 108 146 C108 140 114 136 120 136 C126 136 130 140 130 146 C130 150 128 154 122 158 L110 168 C104 174 102 178 102 182 C102 188 108 192 116 192 C124 192 130 188 134 180"/>
+    <path d="M148 192 L176 56 L184 160 L224 56 L208 192"/>
+  </g>
+</svg>

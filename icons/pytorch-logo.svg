@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="pytorch,meta,machine learning,ai,deep learning,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 32 L70 91 A76 76 0 1 0 199 114"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="164" cy="76" r="16"/>
+  </g>
+</svg>

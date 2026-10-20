@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="pandas,python,data analysis,dataframe,data science,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 88 L68 216"/>
+    <path d="M108 48 L108 76"/>
+    <path d="M108 144 L108 176"/>
+    <path d="M148 88 L148 108"/>
+    <path d="M148 184 L148 208"/>
+    <path d="M188 40 L188 168"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="108" cy="110" r="16"/>
+    <circle cx="148" cy="146" r="16"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="honda,japan,car,automotive,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 64 H84 L90 112 C102 117 114 120 128 120 C142 120 154 117 166 112 L172 64 H216 L184 192 H156 L161 152 C149 157 138 160 128 160 C118 160 107 157 95 152 L100 192 H72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 H84 L90 112 C102 117 114 120 128 120 C142 120 154 117 166 112 L172 64 H216 L184 192 H156 L161 152 C149 157 138 160 128 160 C118 160 107 157 95 152 L100 192 H72 Z"/>
+  </g>
+</svg>

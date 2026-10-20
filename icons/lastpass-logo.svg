@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="lastpass,password manager,security,passwords,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 80 L200 176"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="52" cy="128" r="16"/>
+    <circle cx="100" cy="128" r="16"/>
+    <circle cx="148" cy="128" r="16"/>
+  </g>
+</svg>

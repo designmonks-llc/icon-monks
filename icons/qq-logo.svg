@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="qq,tencent,messaging,chat,penguin,china,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C164 32 188 60 188 96 V112 C204 136 216 160 216 180 C216 186 214 190 210 190 C204 190 200 186 196 170 C192 198 164 216 128 216 C92 216 64 198 60 170 C52 186 48 190 46 190 C42 190 40 186 40 180 C40 160 52 136 68 112 V96 C68 60 92 32 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C164 32 188 60 188 96 V112 C204 136 216 160 216 180 C216 186 214 190 210 190 C204 190 200 186 196 170 C192 198 164 216 128 216 C92 216 64 198 60 170 C52 186 48 190 46 190 C42 190 40 186 40 180 C40 160 52 136 68 112 V96 C68 60 92 32 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="100" rx="24" ry="8"/>
+    <path d="M66 128 C80 134 104 138 128 138 C152 138 176 134 190 128"/>
+    <path d="M108 140 L108 176"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="108" cy="66" r="14"/>
+    <circle cx="148" cy="66" r="14"/>
+  </g>
+</svg>

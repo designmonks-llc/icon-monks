@@ -39,6 +39,19 @@
   ]
  },
  {
+  "name": "ableton-logo",
+  "category": "Brands",
+  "tags": [
+   "ableton",
+   "ableton live",
+   "music production",
+   "daw",
+   "audio",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "abs",
   "category": "Health",
   "tags": [
@@ -131,6 +144,21 @@
   ]
  },
  {
+  "name": "acura-logo",
+  "category": "Brands",
+  "tags": [
+   "acura",
+   "honda",
+   "luxury",
+   "caliper",
+   "japan",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "ad-circle",
   "category": "Business",
   "tags": [
@@ -169,6 +197,33 @@
   ]
  },
  {
+  "name": "adidas-logo",
+  "category": "Brands",
+  "tags": [
+   "adidas",
+   "sportswear",
+   "fashion",
+   "three stripes",
+   "sport",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-acrobat-logo",
+  "category": "Brands",
+  "tags": [
+   "adobe acrobat",
+   "acrobat",
+   "adobe",
+   "pdf",
+   "documents",
+   "reader",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "adobe-after-effects-logo",
   "category": "Brands",
   "tags": [
@@ -204,6 +259,32 @@
    "layout",
    "publishing",
    "desktop publishing",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-lightroom-logo",
+  "category": "Brands",
+  "tags": [
+   "adobe lightroom",
+   "lightroom",
+   "adobe",
+   "lr",
+   "photo editing",
+   "photography",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "adobe-logo",
+  "category": "Brands",
+  "tags": [
+   "adobe",
+   "creative cloud",
+   "software",
+   "design",
    "logo",
    "brand"
   ]
@@ -299,6 +380,19 @@
   ]
  },
  {
+  "name": "air-canada-logo",
+  "category": "Brands",
+  "tags": [
+   "air canada",
+   "airline",
+   "maple leaf",
+   "canada",
+   "travel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "air-conditioner",
   "category": "Home",
   "tags": [
@@ -372,6 +466,20 @@
    "wireless",
    "file sharing",
    "nearby",
+   "brand"
+  ]
+ },
+ {
+  "name": "airflow-logo",
+  "category": "Brands",
+  "tags": [
+   "airflow",
+   "apache airflow",
+   "apache",
+   "workflow",
+   "pipelines",
+   "pinwheel",
+   "logo",
    "brand"
   ]
  },
@@ -474,6 +582,18 @@
    "airport",
    "terminal",
    "flight"
+  ]
+ },
+ {
+  "name": "airtable-logo",
+  "category": "Brands",
+  "tags": [
+   "airtable",
+   "database",
+   "spreadsheet",
+   "no code",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -589,6 +709,20 @@
    "disabled",
    "off",
    "media"
+  ]
+ },
+ {
+  "name": "alexa-logo",
+  "category": "Brands",
+  "tags": [
+   "alexa",
+   "amazon alexa",
+   "amazon",
+   "voice assistant",
+   "echo",
+   "smart speaker",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -1169,6 +1303,19 @@
   ]
  },
  {
+  "name": "alpinejs-logo",
+  "category": "Brands",
+  "tags": [
+   "alpine.js",
+   "alpinejs",
+   "alpine",
+   "javascript",
+   "web framework",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "altitude",
   "category": "Maps",
   "tags": [
@@ -1202,6 +1349,33 @@
   ]
  },
  {
+  "name": "amd-logo",
+  "category": "Brands",
+  "tags": [
+   "amd",
+   "chips",
+   "processor",
+   "cpu",
+   "gpu",
+   "semiconductor",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "american-airlines-logo",
+  "category": "Brands",
+  "tags": [
+   "american airlines",
+   "airline",
+   "flight symbol",
+   "eagle",
+   "travel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "ammo",
   "category": "Objects",
   "tags": [
@@ -1211,6 +1385,20 @@
    "cartridge",
    "rounds",
    "weapon"
+  ]
+ },
+ {
+  "name": "among-us-logo",
+  "category": "Brands",
+  "tags": [
+   "among us",
+   "crewmate",
+   "impostor",
+   "game",
+   "gaming",
+   "innersloth",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -1232,6 +1420,18 @@
    "arena",
    "landmark",
    "italy"
+  ]
+ },
+ {
+  "name": "amplitude-logo",
+  "category": "Brands",
+  "tags": [
+   "amplitude",
+   "analytics",
+   "product analytics",
+   "wave",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -1298,6 +1498,19 @@
   ]
  },
  {
+  "name": "android-studio-logo",
+  "category": "Brands",
+  "tags": [
+   "android studio",
+   "android",
+   "google",
+   "ide",
+   "mobile",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "angle",
   "category": "Design",
   "tags": [
@@ -1330,6 +1543,19 @@
   ]
  },
  {
+  "name": "angular-logo",
+  "category": "Brands",
+  "tags": [
+   "angular",
+   "framework",
+   "javascript",
+   "typescript",
+   "web development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "animation",
   "category": "Design",
   "tags": [
@@ -1347,6 +1573,32 @@
    "egypt",
    "life",
    "symbol"
+  ]
+ },
+ {
+  "name": "anki-logo",
+  "category": "Brands",
+  "tags": [
+   "anki",
+   "flashcards",
+   "spaced repetition",
+   "study",
+   "learning",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "ansible-logo",
+  "category": "Brands",
+  "tags": [
+   "ansible",
+   "red hat",
+   "automation",
+   "devops",
+   "configuration",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -1376,6 +1628,19 @@
    "antenna off",
    "disconnected",
    "radio"
+  ]
+ },
+ {
+  "name": "anthropic-logo",
+  "category": "Brands",
+  "tags": [
+   "anthropic",
+   "ai",
+   "ai company",
+   "claude",
+   "a",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -1593,6 +1858,33 @@
   ]
  },
  {
+  "name": "apple-books-logo",
+  "category": "Brands",
+  "tags": [
+   "apple books",
+   "ibooks",
+   "books",
+   "apple",
+   "reading",
+   "ebook",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-calendar-logo",
+  "category": "Brands",
+  "tags": [
+   "apple calendar",
+   "calendar",
+   "apple",
+   "date",
+   "ios",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "apple-finder-logo",
   "category": "Brands",
   "tags": [
@@ -1613,6 +1905,32 @@
    "apple slice",
    "fruit",
    "cut apple"
+  ]
+ },
+ {
+  "name": "apple-health-logo",
+  "category": "Brands",
+  "tags": [
+   "apple health",
+   "health",
+   "apple",
+   "fitness",
+   "heart",
+   "ios",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-logo",
+  "category": "Brands",
+  "tags": [
+   "apple",
+   "mac",
+   "iphone",
+   "technology",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -1638,6 +1956,45 @@
    "news",
    "newspaper",
    "headlines",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-notes-logo",
+  "category": "Brands",
+  "tags": [
+   "apple notes",
+   "notes",
+   "apple",
+   "notepad",
+   "ios",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-pay-logo",
+  "category": "Brands",
+  "tags": [
+   "apple pay",
+   "apple",
+   "payment",
+   "wallet",
+   "contactless",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-podcasts-logo",
+  "category": "Brands",
+  "tags": [
+   "apple podcasts",
+   "podcasts",
+   "apple",
+   "podcast",
+   "audio",
    "logo",
    "brand"
   ]
@@ -1671,6 +2028,19 @@
   ]
  },
  {
+  "name": "apple-tv-logo",
+  "category": "Brands",
+  "tags": [
+   "apple tv",
+   "apple",
+   "tv",
+   "streaming",
+   "video",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "apple-vision-pro",
   "category": "Brands",
   "tags": [
@@ -1680,6 +2050,20 @@
    "spatial computing",
    "mixed reality",
    "headset",
+   "brand"
+  ]
+ },
+ {
+  "name": "apple-wallet-logo",
+  "category": "Brands",
+  "tags": [
+   "apple wallet",
+   "wallet",
+   "apple",
+   "payments",
+   "cards",
+   "ios",
+   "logo",
    "brand"
   ]
  },
@@ -1749,6 +2133,19 @@
   ]
  },
  {
+  "name": "arch-linux-logo",
+  "category": "Brands",
+  "tags": [
+   "arch linux",
+   "arch",
+   "linux",
+   "operating system",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "archery",
   "category": "Sports",
   "tags": [
@@ -1799,6 +2196,33 @@
    "gate",
    "monument",
    "entrance"
+  ]
+ },
+ {
+  "name": "arduino-logo",
+  "category": "Brands",
+  "tags": [
+   "arduino",
+   "microcontroller",
+   "electronics",
+   "maker",
+   "hardware",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "argo-logo",
+  "category": "Brands",
+  "tags": [
+   "argo",
+   "argo cd",
+   "gitops",
+   "kubernetes",
+   "octopus",
+   "devops",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -4036,6 +4460,21 @@
   ]
  },
  {
+  "name": "arsenal-logo",
+  "category": "Brands",
+  "tags": [
+   "arsenal",
+   "gunners",
+   "football",
+   "soccer",
+   "club",
+   "england",
+   "cannon",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "artboard",
   "category": "Design",
   "tags": [
@@ -4074,6 +4513,18 @@
    "disabled",
    "off",
    "files"
+  ]
+ },
+ {
+  "name": "asana-logo",
+  "category": "Brands",
+  "tags": [
+   "asana",
+   "project management",
+   "tasks",
+   "work management",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -4167,6 +4618,18 @@
   ]
  },
  {
+  "name": "astro-logo",
+  "category": "Brands",
+  "tags": [
+   "astro",
+   "web framework",
+   "static site",
+   "rocket",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "astronaut",
   "category": "People",
   "tags": [
@@ -4208,6 +4671,19 @@
   ]
  },
  {
+  "name": "atlassian-logo",
+  "category": "Brands",
+  "tags": [
+   "atlassian",
+   "jira",
+   "confluence",
+   "software",
+   "teamwork",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "atm",
   "category": "Commerce",
   "tags": [
@@ -4236,6 +4712,31 @@
    "disabled",
    "off",
    "science"
+  ]
+ },
+ {
+  "name": "audacity-logo",
+  "category": "Brands",
+  "tags": [
+   "audacity",
+   "audio editing",
+   "recording",
+   "sound",
+   "waveform",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "audi-logo",
+  "category": "Brands",
+  "tags": [
+   "audi",
+   "car",
+   "automotive",
+   "rings",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -4280,6 +4781,19 @@
   ]
  },
  {
+  "name": "avalanche-logo",
+  "category": "Brands",
+  "tags": [
+   "avalanche",
+   "avax",
+   "crypto",
+   "blockchain",
+   "cryptocurrency",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "average",
   "category": "Science",
   "tags": [
@@ -4320,6 +4834,18 @@
    "lambda",
    "serverless",
    "cloud",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "aws-logo",
+  "category": "Brands",
+  "tags": [
+   "aws",
+   "amazon web services",
+   "cloud",
+   "amazon",
    "logo",
    "brand"
   ]
@@ -4377,6 +4903,32 @@
    "chart",
    "graph",
    "y"
+  ]
+ },
+ {
+  "name": "azure-devops-logo",
+  "category": "Brands",
+  "tags": [
+   "azure devops",
+   "azure",
+   "microsoft",
+   "devops",
+   "ci",
+   "development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "azure-logo",
+  "category": "Brands",
+  "tags": [
+   "azure",
+   "microsoft",
+   "cloud",
+   "hosting",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -5006,6 +5558,18 @@
   ]
  },
  {
+  "name": "balsamiq-logo",
+  "category": "Brands",
+  "tags": [
+   "balsamiq",
+   "wireframes",
+   "mockups",
+   "design",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "banana",
   "category": "Food",
   "tags": [
@@ -5037,6 +5601,19 @@
   ]
  },
  {
+  "name": "bandcamp-logo",
+  "category": "Brands",
+  "tags": [
+   "bandcamp",
+   "music",
+   "artists",
+   "store",
+   "streaming",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "bank",
   "category": "Commerce",
   "tags": [
@@ -5045,6 +5622,20 @@
    "building",
    "money",
    "savings"
+  ]
+ },
+ {
+  "name": "bank-of-america-logo",
+  "category": "Brands",
+  "tags": [
+   "bank of america",
+   "bofa",
+   "bank",
+   "banking",
+   "flag",
+   "finance",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -5078,6 +5669,21 @@
    "haircut",
    "chair",
    "stylist"
+  ]
+ },
+ {
+  "name": "barcelona-logo",
+  "category": "Brands",
+  "tags": [
+   "fc barcelona",
+   "barcelona",
+   "barca",
+   "football",
+   "soccer",
+   "club",
+   "spain",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -5815,6 +6421,20 @@
   ]
  },
  {
+  "name": "beats-logo",
+  "category": "Brands",
+  "tags": [
+   "beats",
+   "beats by dre",
+   "headphones",
+   "audio",
+   "apple",
+   "b",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "bebo-logo",
   "category": "Brands",
   "tags": [
@@ -6193,6 +6813,21 @@
   ]
  },
  {
+  "name": "bentley-logo",
+  "category": "Brands",
+  "tags": [
+   "bentley",
+   "winged b",
+   "wings",
+   "luxury",
+   "uk",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "bento-box",
   "category": "Food",
   "tags": [
@@ -6275,6 +6910,19 @@
   ]
  },
  {
+  "name": "bilibili-logo",
+  "category": "Brands",
+  "tags": [
+   "bilibili",
+   "video",
+   "anime",
+   "streaming",
+   "china",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "billiard-ball",
   "category": "Sports",
   "tags": [
@@ -6283,6 +6931,19 @@
    "eight ball",
    "snooker",
    "8 ball"
+  ]
+ },
+ {
+  "name": "binance-logo",
+  "category": "Brands",
+  "tags": [
+   "binance",
+   "crypto",
+   "exchange",
+   "bnb",
+   "trading",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -6391,6 +7052,32 @@
    "garden",
    "bird",
    "feeder"
+  ]
+ },
+ {
+  "name": "bitbucket-logo",
+  "category": "Brands",
+  "tags": [
+   "bitbucket",
+   "git",
+   "repository",
+   "code",
+   "atlassian",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "bitwarden-logo",
+  "category": "Brands",
+  "tags": [
+   "bitwarden",
+   "password manager",
+   "security",
+   "passwords",
+   "open source",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -6727,6 +7414,18 @@
    "photo effect",
    "disable",
    "no blur"
+  ]
+ },
+ {
+  "name": "bmw-logo",
+  "category": "Brands",
+  "tags": [
+   "bmw",
+   "car",
+   "automotive",
+   "roundel",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -7080,6 +7779,19 @@
    "x",
    "library",
    "cancel"
+  ]
+ },
+ {
+  "name": "booking-logo",
+  "category": "Brands",
+  "tags": [
+   "booking.com",
+   "booking",
+   "hotels",
+   "travel",
+   "reservations",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -8118,6 +8830,19 @@
   ]
  },
  {
+  "name": "brave-logo",
+  "category": "Brands",
+  "tags": [
+   "brave",
+   "browser",
+   "web browser",
+   "privacy",
+   "lion",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "bread",
   "category": "Food",
   "tags": [
@@ -8881,6 +9606,32 @@
   ]
  },
  {
+  "name": "bumble-logo",
+  "category": "Brands",
+  "tags": [
+   "bumble",
+   "dating",
+   "bee",
+   "hive",
+   "social",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "bun-logo",
+  "category": "Brands",
+  "tags": [
+   "bun",
+   "javascript",
+   "runtime",
+   "bundler",
+   "dumpling",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "bunk-bed",
   "category": "Home",
   "tags": [
@@ -8986,6 +9737,21 @@
    "spring",
    "garden",
    "wings"
+  ]
+ },
+ {
+  "name": "byd-logo",
+  "category": "Brands",
+  "tags": [
+   "byd",
+   "build your dreams",
+   "electric",
+   "ev",
+   "china",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -9519,6 +10285,19 @@
   ]
  },
  {
+  "name": "calendly-logo",
+  "category": "Brands",
+  "tags": [
+   "calendly",
+   "scheduling",
+   "calendar",
+   "meetings",
+   "booking",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "calipers",
   "category": "Science",
   "tags": [
@@ -9962,6 +10741,18 @@
   ]
  },
  {
+  "name": "canva-logo",
+  "category": "Brands",
+  "tags": [
+   "canva",
+   "design",
+   "graphic design",
+   "templates",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "caps-lock",
   "category": "Interface",
   "tags": [
@@ -10233,6 +11024,19 @@
    "content",
    "text",
    "panel"
+  ]
+ },
+ {
+  "name": "cardano-logo",
+  "category": "Brands",
+  "tags": [
+   "cardano",
+   "ada",
+   "crypto",
+   "cryptocurrency",
+   "blockchain",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -10698,6 +11502,19 @@
   ]
  },
  {
+  "name": "cash-app-logo",
+  "category": "Brands",
+  "tags": [
+   "cash app",
+   "payment",
+   "money transfer",
+   "dollar",
+   "fintech",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "cash-register",
   "category": "Commerce",
   "tags": [
@@ -10792,6 +11609,19 @@
    "new",
    "shapes",
    "group"
+  ]
+ },
+ {
+  "name": "cathay-pacific-logo",
+  "category": "Brands",
+  "tags": [
+   "cathay pacific",
+   "airline",
+   "brushwing",
+   "hong kong",
+   "travel",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -10953,6 +11783,19 @@
   ]
  },
  {
+  "name": "centos-logo",
+  "category": "Brands",
+  "tags": [
+   "centos",
+   "linux",
+   "operating system",
+   "red hat",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "certificate",
   "category": "Business",
   "tags": [
@@ -10971,6 +11814,20 @@
    "disabled",
    "off",
    "business"
+  ]
+ },
+ {
+  "name": "chainlink-logo",
+  "category": "Brands",
+  "tags": [
+   "chainlink",
+   "link",
+   "oracle",
+   "crypto",
+   "blockchain",
+   "cryptocurrency",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -11549,6 +12406,19 @@
    "breakdown",
    "analytics",
    "report"
+  ]
+ },
+ {
+  "name": "chase-logo",
+  "category": "Brands",
+  "tags": [
+   "chase",
+   "jpmorgan chase",
+   "bank",
+   "banking",
+   "finance",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -12601,6 +13471,21 @@
   ]
  },
  {
+  "name": "chevrolet-logo",
+  "category": "Brands",
+  "tags": [
+   "chevrolet",
+   "chevy",
+   "bowtie",
+   "gm",
+   "usa",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "chicken",
   "category": "Animals",
   "tags": [
@@ -12700,6 +13585,19 @@
   ]
  },
  {
+  "name": "chromecast-logo",
+  "category": "Brands",
+  "tags": [
+   "chromecast",
+   "google",
+   "cast",
+   "streaming",
+   "tv",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "church",
   "category": "Maps",
   "tags": [
@@ -12729,6 +13627,19 @@
    "prohibited",
    "non smoking",
    "tobacco"
+  ]
+ },
+ {
+  "name": "cinema-4d-logo",
+  "category": "Brands",
+  "tags": [
+   "cinema 4d",
+   "maxon",
+   "3d",
+   "modeling",
+   "motion graphics",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -12817,6 +13728,19 @@
    "progress",
    "spinner",
    "wait"
+  ]
+ },
+ {
+  "name": "circleci-logo",
+  "category": "Brands",
+  "tags": [
+   "circleci",
+   "ci",
+   "continuous integration",
+   "devops",
+   "pipeline",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -13099,6 +14023,19 @@
   ]
  },
  {
+  "name": "citroen-logo",
+  "category": "Brands",
+  "tags": [
+   "citroen",
+   "chevrons",
+   "france",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "city",
   "category": "Maps",
   "tags": [
@@ -13170,6 +14107,31 @@
    "soccer shoes",
    "cleats",
    "studs"
+  ]
+ },
+ {
+  "name": "clerk-logo",
+  "category": "Brands",
+  "tags": [
+   "clerk",
+   "authentication",
+   "auth",
+   "login",
+   "users",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "clickup-logo",
+  "category": "Brands",
+  "tags": [
+   "clickup",
+   "project management",
+   "productivity",
+   "tasks",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -13898,6 +14860,19 @@
   ]
  },
  {
+  "name": "clojure-logo",
+  "category": "Brands",
+  "tags": [
+   "clojure",
+   "lisp",
+   "programming language",
+   "jvm",
+   "lambda",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "closed-captioning",
   "category": "Media",
   "tags": [
@@ -14477,6 +15452,32 @@
   ]
  },
  {
+  "name": "cloudflare-logo",
+  "category": "Brands",
+  "tags": [
+   "cloudflare",
+   "cdn",
+   "cloud",
+   "network",
+   "security",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "cloudinary-logo",
+  "category": "Brands",
+  "tags": [
+   "cloudinary",
+   "media",
+   "images",
+   "video",
+   "cdn",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "clouds",
   "category": "Weather",
   "tags": [
@@ -14525,6 +15526,19 @@
    "jacket",
    "outerwear",
    "winter"
+  ]
+ },
+ {
+  "name": "coda-logo",
+  "category": "Brands",
+  "tags": [
+   "coda",
+   "documents",
+   "docs",
+   "collaboration",
+   "productivity",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -15093,6 +16107,20 @@
   ]
  },
  {
+  "name": "comfyui-logo",
+  "category": "Brands",
+  "tags": [
+   "comfyui",
+   "comfy",
+   "stable diffusion",
+   "node editor",
+   "ai",
+   "image generation",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "command",
   "category": "Interface",
   "tags": [
@@ -15237,6 +16265,19 @@
   ]
  },
  {
+  "name": "confluence-logo",
+  "category": "Brands",
+  "tags": [
+   "confluence",
+   "atlassian",
+   "wiki",
+   "documentation",
+   "collaboration",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "confucius",
   "category": "Symbols",
   "tags": [
@@ -15277,6 +16318,19 @@
    "hard hat",
    "worker",
    "construction worker"
+  ]
+ },
+ {
+  "name": "consul-logo",
+  "category": "Brands",
+  "tags": [
+   "consul",
+   "hashicorp",
+   "service mesh",
+   "service discovery",
+   "devops",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -15359,6 +16413,19 @@
    "airport",
    "air traffic",
    "aviation"
+  ]
+ },
+ {
+  "name": "converse-logo",
+  "category": "Brands",
+  "tags": [
+   "converse",
+   "star chevron",
+   "sneakers",
+   "footwear",
+   "sportswear",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -15756,6 +16823,18 @@
   ]
  },
  {
+  "name": "couchbase-logo",
+  "category": "Brands",
+  "tags": [
+   "couchbase",
+   "nosql",
+   "database",
+   "document database",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "couple",
   "category": "People",
   "tags": [
@@ -15814,6 +16893,19 @@
    "western",
    "cowboy",
    "hat"
+  ]
+ },
+ {
+  "name": "cplusplus-logo",
+  "category": "Brands",
+  "tags": [
+   "c++",
+   "cplusplus",
+   "cpp",
+   "programming language",
+   "iso",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -16432,6 +17524,18 @@
   ]
  },
  {
+  "name": "crunchyroll-logo",
+  "category": "Brands",
+  "tags": [
+   "crunchyroll",
+   "anime",
+   "streaming",
+   "video",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "crutches",
   "category": "Health",
   "tags": [
@@ -16451,6 +17555,19 @@
   ]
  },
  {
+  "name": "crypto-com-logo",
+  "category": "Brands",
+  "tags": [
+   "crypto.com",
+   "crypto",
+   "cryptocurrency",
+   "exchange",
+   "lion",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "crystal-ball",
   "category": "Objects",
   "tags": [
@@ -16458,6 +17575,32 @@
    "prediction",
    "magic",
    "future"
+  ]
+ },
+ {
+  "name": "crystal-logo",
+  "category": "Brands",
+  "tags": [
+   "crystal",
+   "programming language",
+   "ruby",
+   "compiled",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "csharp-logo",
+  "category": "Brands",
+  "tags": [
+   "c#",
+   "csharp",
+   "c sharp",
+   "programming language",
+   "microsoft",
+   "dotnet",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -17392,6 +18535,21 @@
   ]
  },
  {
+  "name": "cursor-logo",
+  "category": "Brands",
+  "tags": [
+   "cursor",
+   "cursor editor",
+   "code editor",
+   "ai",
+   "coding",
+   "ide",
+   "cube",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "cursor-magnifying-glass",
   "category": "Interface",
   "tags": [
@@ -17676,6 +18834,19 @@
   ]
  },
  {
+  "name": "d3-logo",
+  "category": "Brands",
+  "tags": [
+   "d3",
+   "d3.js",
+   "data visualization",
+   "javascript",
+   "charts",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "dam",
   "category": "Science",
   "tags": [
@@ -17695,6 +18866,18 @@
    "skewer",
    "japanese sweet",
    "mochi"
+  ]
+ },
+ {
+  "name": "dart-logo",
+  "category": "Brands",
+  "tags": [
+   "dart",
+   "google",
+   "flutter",
+   "programming language",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -18068,6 +19251,45 @@
   ]
  },
  {
+  "name": "davinci-resolve-logo",
+  "category": "Brands",
+  "tags": [
+   "davinci resolve",
+   "blackmagic",
+   "video editing",
+   "color grading",
+   "film",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "dbt-logo",
+  "category": "Brands",
+  "tags": [
+   "dbt",
+   "data build tool",
+   "analytics engineering",
+   "sql",
+   "data",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "debian-logo",
+  "category": "Brands",
+  "tags": [
+   "debian",
+   "linux",
+   "operating system",
+   "open source",
+   "swirl",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "decimal",
   "category": "Editor",
   "tags": [
@@ -18097,6 +19319,32 @@
   ]
  },
  {
+  "name": "deel-logo",
+  "category": "Brands",
+  "tags": [
+   "deel",
+   "payroll",
+   "hr",
+   "hiring",
+   "remote work",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "deepmind-logo",
+  "category": "Brands",
+  "tags": [
+   "deepmind",
+   "google deepmind",
+   "google",
+   "ai",
+   "research",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "deepseek-logo",
   "category": "Brands",
   "tags": [
@@ -18117,6 +19365,18 @@
    "antlers",
    "wildlife",
    "forest"
+  ]
+ },
+ {
+  "name": "deezer-logo",
+  "category": "Brands",
+  "tags": [
+   "deezer",
+   "music",
+   "streaming",
+   "audio",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -18150,6 +19410,19 @@
   ]
  },
  {
+  "name": "deliveroo-logo",
+  "category": "Brands",
+  "tags": [
+   "deliveroo",
+   "food delivery",
+   "delivery",
+   "kangaroo",
+   "restaurants",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "delta",
   "category": "Letters & Numbers",
   "tags": [
@@ -18157,6 +19430,33 @@
    "greek",
    "change",
    "difference"
+  ]
+ },
+ {
+  "name": "delta-logo",
+  "category": "Brands",
+  "tags": [
+   "delta",
+   "delta air lines",
+   "airline",
+   "widget",
+   "triangle",
+   "travel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "deno-logo",
+  "category": "Brands",
+  "tags": [
+   "deno",
+   "javascript",
+   "typescript",
+   "runtime",
+   "dinosaur",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -19363,6 +20663,18 @@
   ]
  },
  {
+  "name": "digitalocean-logo",
+  "category": "Brands",
+  "tags": [
+   "digitalocean",
+   "cloud",
+   "hosting",
+   "servers",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "dimensions",
   "category": "Design",
   "tags": [
@@ -19379,6 +20691,18 @@
    "light dimmer",
    "rotary switch",
    "brightness"
+  ]
+ },
+ {
+  "name": "diners-club-logo",
+  "category": "Brands",
+  "tags": [
+   "diners club",
+   "credit card",
+   "payment",
+   "card network",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -19508,6 +20832,19 @@
   ]
  },
  {
+  "name": "discourse-logo",
+  "category": "Brands",
+  "tags": [
+   "discourse",
+   "forum",
+   "discussion",
+   "community",
+   "chat",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "dishwasher",
   "category": "Home",
   "tags": [
@@ -19516,6 +20853,19 @@
    "kitchen",
    "dishes",
    "clean"
+  ]
+ },
+ {
+  "name": "disney-plus-logo",
+  "category": "Brands",
+  "tags": [
+   "disney plus",
+   "disney+",
+   "disney",
+   "streaming",
+   "movies",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -19662,6 +21012,18 @@
   ]
  },
  {
+  "name": "django-logo",
+  "category": "Brands",
+  "tags": [
+   "django",
+   "python",
+   "web framework",
+   "dj",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "dna",
   "category": "Health",
   "tags": [
@@ -19695,6 +21057,18 @@
   ]
  },
  {
+  "name": "docker-logo",
+  "category": "Brands",
+  "tags": [
+   "docker",
+   "containers",
+   "devops",
+   "whale",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "doctor",
   "category": "Health",
   "tags": [
@@ -19723,6 +21097,19 @@
    "dog",
    "bowl",
    "food"
+  ]
+ },
+ {
+  "name": "dogecoin-logo",
+  "category": "Brands",
+  "tags": [
+   "dogecoin",
+   "doge",
+   "crypto",
+   "cryptocurrency",
+   "coin",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -19766,6 +21153,19 @@
    "masquerade",
    "carnival",
    "disguise"
+  ]
+ },
+ {
+  "name": "dominos-logo",
+  "category": "Brands",
+  "tags": [
+   "dominos",
+   "pizza",
+   "delivery",
+   "domino",
+   "restaurant",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -19890,6 +21290,19 @@
   ]
  },
  {
+  "name": "doordash-logo",
+  "category": "Brands",
+  "tags": [
+   "doordash",
+   "food delivery",
+   "delivery",
+   "restaurants",
+   "dash",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "dot",
   "category": "Symbols",
   "tags": [
@@ -19907,6 +21320,20 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "dota-logo",
+  "category": "Brands",
+  "tags": [
+   "dota",
+   "dota 2",
+   "valve",
+   "moba",
+   "game",
+   "gaming",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -20042,6 +21469,18 @@
    "mythical",
    "fantasy",
    "zodiac"
+  ]
+ },
+ {
+  "name": "draw-io-logo",
+  "category": "Brands",
+  "tags": [
+   "draw.io",
+   "diagrams.net",
+   "diagrams",
+   "flowchart",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -20473,6 +21912,18 @@
   ]
  },
  {
+  "name": "drupal-logo",
+  "category": "Brands",
+  "tags": [
+   "drupal",
+   "cms",
+   "content management",
+   "drop",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "dual-screen",
   "category": "Devices",
   "tags": [
@@ -20529,6 +21980,19 @@
    "kindle",
    "ebook",
    "reader"
+  ]
+ },
+ {
+  "name": "ea-logo",
+  "category": "Brands",
+  "tags": [
+   "ea",
+   "electronic arts",
+   "game",
+   "gaming",
+   "publisher",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -20790,6 +22254,18 @@
   ]
  },
  {
+  "name": "elasticsearch-logo",
+  "category": "Brands",
+  "tags": [
+   "elasticsearch",
+   "elastic",
+   "search",
+   "database",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "electric-razor",
   "category": "Objects",
   "tags": [
@@ -20820,12 +22296,38 @@
   ]
  },
  {
+  "name": "electron-logo",
+  "category": "Brands",
+  "tags": [
+   "electron",
+   "desktop app",
+   "javascript",
+   "framework",
+   "atom",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "electronics-transistor",
   "category": "Science",
   "tags": [
    "transistor",
    "electronics",
    "circuit"
+  ]
+ },
+ {
+  "name": "element-logo",
+  "category": "Brands",
+  "tags": [
+   "element",
+   "matrix",
+   "messenger",
+   "chat",
+   "encrypted",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -20860,6 +22362,33 @@
   ]
  },
  {
+  "name": "elevenlabs-logo",
+  "category": "Brands",
+  "tags": [
+   "elevenlabs",
+   "eleven labs",
+   "ai",
+   "voice",
+   "text to speech",
+   "audio",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "elixir-logo",
+  "category": "Brands",
+  "tags": [
+   "elixir",
+   "erlang",
+   "programming language",
+   "phoenix",
+   "drop",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "ellipse",
   "category": "Design",
   "tags": [
@@ -20878,6 +22407,18 @@
    "oval",
    "shape",
    "egg"
+  ]
+ },
+ {
+  "name": "emacs-logo",
+  "category": "Brands",
+  "tags": [
+   "emacs",
+   "gnu",
+   "text editor",
+   "editor",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -21481,6 +23022,31 @@
   ]
  },
  {
+  "name": "erlang-logo",
+  "category": "Brands",
+  "tags": [
+   "erlang",
+   "programming language",
+   "otp",
+   "functional",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "esbuild-logo",
+  "category": "Brands",
+  "tags": [
+   "esbuild",
+   "bundler",
+   "build tool",
+   "fast",
+   "javascript",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "escalator",
   "category": "Maps",
   "tags": [
@@ -21518,6 +23084,18 @@
    "exit",
    "esc",
    "leave"
+  ]
+ },
+ {
+  "name": "eslint-logo",
+  "category": "Brands",
+  "tags": [
+   "eslint",
+   "linter",
+   "javascript",
+   "code quality",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -21563,6 +23141,19 @@
   ]
  },
  {
+  "name": "etsy-logo",
+  "category": "Brands",
+  "tags": [
+   "etsy",
+   "handmade",
+   "marketplace",
+   "shopping",
+   "e",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "ev-plug",
   "category": "Transport",
   "tags": [
@@ -21572,12 +23163,38 @@
   ]
  },
  {
+  "name": "evernote-logo",
+  "category": "Brands",
+  "tags": [
+   "evernote",
+   "notes",
+   "note-taking",
+   "elephant",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "exam",
   "category": "Education",
   "tags": [
    "test",
    "exam paper",
    "grade"
+  ]
+ },
+ {
+  "name": "excalidraw-logo",
+  "category": "Brands",
+  "tags": [
+   "excalidraw",
+   "whiteboard",
+   "sketch",
+   "drawing",
+   "diagrams",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -21681,6 +23298,18 @@
    "boom",
    "burst",
    "bang"
+  ]
+ },
+ {
+  "name": "expo-logo",
+  "category": "Brands",
+  "tags": [
+   "expo",
+   "react native",
+   "mobile",
+   "framework",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -22158,6 +23787,18 @@
   ]
  },
  {
+  "name": "facetime-logo",
+  "category": "Brands",
+  "tags": [
+   "facetime",
+   "apple",
+   "video call",
+   "ios",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "factory",
   "category": "Business",
   "tags": [
@@ -22248,6 +23889,19 @@
   ]
  },
  {
+  "name": "fastapi-logo",
+  "category": "Brands",
+  "tags": [
+   "fastapi",
+   "python",
+   "api",
+   "web framework",
+   "lightning",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "faucet",
   "category": "Home",
   "tags": [
@@ -22295,6 +23949,19 @@
    "disabled",
    "off",
    "nature"
+  ]
+ },
+ {
+  "name": "fedora-logo",
+  "category": "Brands",
+  "tags": [
+   "fedora",
+   "linux",
+   "operating system",
+   "red hat",
+   "open source",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -23238,6 +24905,19 @@
   ]
  },
  {
+  "name": "file-page-number",
+  "category": "Files",
+  "tags": [
+   "file page number",
+   "page number",
+   "footer",
+   "document",
+   "page",
+   "file",
+   "numbering"
+  ]
+ },
+ {
   "name": "file-pdf",
   "category": "Files",
   "tags": [
@@ -24007,6 +25687,19 @@
   ]
  },
  {
+  "name": "final-cut-logo",
+  "category": "Brands",
+  "tags": [
+   "final cut pro",
+   "final cut",
+   "apple",
+   "video editing",
+   "film",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "financial-report",
   "category": "Business",
   "tags": [
@@ -24178,6 +25871,45 @@
   ]
  },
  {
+  "name": "firebase-logo",
+  "category": "Brands",
+  "tags": [
+   "firebase",
+   "google",
+   "backend",
+   "database",
+   "flame",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "fireflies-logo",
+  "category": "Brands",
+  "tags": [
+   "fireflies",
+   "fireflies.ai",
+   "meeting notes",
+   "transcription",
+   "ai",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "firefox-logo",
+  "category": "Brands",
+  "tags": [
+   "firefox",
+   "mozilla",
+   "browser",
+   "web browser",
+   "fox",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "fireplace",
   "category": "Home",
   "tags": [
@@ -24321,6 +26053,19 @@
    "reel",
    "rod",
    "angling"
+  ]
+ },
+ {
+  "name": "fitbit-logo",
+  "category": "Brands",
+  "tags": [
+   "fitbit",
+   "fitness tracker",
+   "wearable",
+   "health",
+   "google",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -24751,6 +26496,19 @@
   ]
  },
  {
+  "name": "flipkart-logo",
+  "category": "Brands",
+  "tags": [
+   "flipkart",
+   "shopping",
+   "ecommerce",
+   "store",
+   "india",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "flood",
   "category": "Weather",
   "tags": [
@@ -24891,6 +26649,20 @@
    "tulip",
    "spring",
    "flower"
+  ]
+ },
+ {
+  "name": "flutter-logo",
+  "category": "Brands",
+  "tags": [
+   "flutter",
+   "dart",
+   "google",
+   "framework",
+   "mobile",
+   "cross platform",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -25615,6 +27387,19 @@
   ]
  },
  {
+  "name": "formula-1-logo",
+  "category": "Brands",
+  "tags": [
+   "formula 1",
+   "f1",
+   "motorsport",
+   "racing",
+   "sports",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "forrst-logo",
   "category": "Brands",
   "tags": [
@@ -25716,6 +27501,20 @@
    "design tool",
    "prototype",
    "website builder",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "freebsd-logo",
+  "category": "Brands",
+  "tags": [
+   "freebsd",
+   "bsd",
+   "unix",
+   "operating system",
+   "daemon",
+   "open source",
    "logo",
    "brand"
   ]
@@ -26284,6 +28083,19 @@
   ]
  },
  {
+  "name": "gatsby-logo",
+  "category": "Brands",
+  "tags": [
+   "gatsby",
+   "gatsbyjs",
+   "framework",
+   "react",
+   "static site",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "gauge",
   "category": "Charts",
   "tags": [
@@ -26736,6 +28548,19 @@
   ]
  },
  {
+  "name": "gimp-logo",
+  "category": "Brands",
+  "tags": [
+   "gimp",
+   "image editor",
+   "wilber",
+   "graphics",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "gin-glass",
   "category": "Food",
   "tags": [
@@ -26826,6 +28651,18 @@
   ]
  },
  {
+  "name": "git-logo",
+  "category": "Brands",
+  "tags": [
+   "git",
+   "version control",
+   "source control",
+   "branch",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "git-merge",
   "category": "Development",
   "tags": [
@@ -26911,6 +28748,33 @@
   ]
  },
  {
+  "name": "gitbook-logo",
+  "category": "Brands",
+  "tags": [
+   "gitbook",
+   "documentation",
+   "docs",
+   "knowledge base",
+   "book",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "gitea-logo",
+  "category": "Brands",
+  "tags": [
+   "gitea",
+   "git",
+   "code hosting",
+   "repository",
+   "teacup",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "github-copilot-logo",
   "category": "Brands",
   "tags": [
@@ -26933,6 +28797,19 @@
    "code",
    "repository",
    "developer",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "gitkraken-logo",
+  "category": "Brands",
+  "tags": [
+   "gitkraken",
+   "git",
+   "git client",
+   "kraken",
+   "octopus",
    "logo",
    "brand"
   ]
@@ -27361,6 +29238,47 @@
   ]
  },
  {
+  "name": "gmail-logo",
+  "category": "Brands",
+  "tags": [
+   "gmail",
+   "google",
+   "email",
+   "mail",
+   "inbox",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "gmc-logo",
+  "category": "Brands",
+  "tags": [
+   "gmc",
+   "general motors",
+   "gm",
+   "trucks",
+   "usa",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "gnome-logo",
+  "category": "Brands",
+  "tags": [
+   "gnome",
+   "desktop",
+   "linux",
+   "foot",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "go-game",
   "category": "Sports",
   "tags": [
@@ -27368,6 +29286,18 @@
    "board game",
    "stones",
    "weiqi"
+  ]
+ },
+ {
+  "name": "go-logo",
+  "category": "Brands",
+  "tags": [
+   "go",
+   "golang",
+   "programming language",
+   "google",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -27381,6 +29311,19 @@
   ]
  },
  {
+  "name": "godot-logo",
+  "category": "Brands",
+  "tags": [
+   "godot",
+   "game engine",
+   "games",
+   "game development",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "goggles",
   "category": "Sports",
   "tags": [
@@ -27388,6 +29331,19 @@
    "swimming",
    "ski",
    "eyewear"
+  ]
+ },
+ {
+  "name": "gojek-logo",
+  "category": "Brands",
+  "tags": [
+   "gojek",
+   "ride hailing",
+   "delivery",
+   "super app",
+   "indonesia",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -27458,6 +29414,86 @@
   ]
  },
  {
+  "name": "goodreads-logo",
+  "category": "Brands",
+  "tags": [
+   "goodreads",
+   "books",
+   "reading",
+   "reviews",
+   "g",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-ads-logo",
+  "category": "Brands",
+  "tags": [
+   "google ads",
+   "adwords",
+   "google",
+   "advertising",
+   "marketing",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-analytics-logo",
+  "category": "Brands",
+  "tags": [
+   "google analytics",
+   "google",
+   "analytics",
+   "statistics",
+   "web analytics",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-assistant-logo",
+  "category": "Brands",
+  "tags": [
+   "google assistant",
+   "google",
+   "voice assistant",
+   "ai",
+   "assistant",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-calendar-logo",
+  "category": "Brands",
+  "tags": [
+   "google calendar",
+   "google",
+   "calendar",
+   "schedule",
+   "events",
+   "31",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-chat-logo",
+  "category": "Brands",
+  "tags": [
+   "google chat",
+   "google",
+   "chat",
+   "messaging",
+   "hangouts",
+   "team chat",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "google-chrome-logo",
   "category": "Brands",
   "tags": [
@@ -27466,6 +29502,33 @@
    "browser",
    "web browser",
    "internet",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-cloud-logo",
+  "category": "Brands",
+  "tags": [
+   "google cloud",
+   "google",
+   "gcp",
+   "cloud",
+   "hosting",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-colab-logo",
+  "category": "Brands",
+  "tags": [
+   "google colab",
+   "colaboratory",
+   "google",
+   "notebook",
+   "jupyter",
+   "python",
    "logo",
    "brand"
   ]
@@ -27499,6 +29562,46 @@
   ]
  },
  {
+  "name": "google-earth-logo",
+  "category": "Brands",
+  "tags": [
+   "google earth",
+   "google",
+   "globe",
+   "maps",
+   "satellite",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-fit-logo",
+  "category": "Brands",
+  "tags": [
+   "google fit",
+   "google",
+   "fitness",
+   "health",
+   "heart",
+   "activity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-forms-logo",
+  "category": "Brands",
+  "tags": [
+   "google forms",
+   "google",
+   "forms",
+   "survey",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "google-gemini-logo",
   "category": "Brands",
   "tags": [
@@ -27521,6 +29624,33 @@
    "chat",
    "messaging",
    "conversation",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-home-logo",
+  "category": "Brands",
+  "tags": [
+   "google home",
+   "google",
+   "smart home",
+   "nest",
+   "home automation",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-keep-logo",
+  "category": "Brands",
+  "tags": [
+   "google keep",
+   "google",
+   "notes",
+   "note-taking",
+   "idea",
+   "productivity",
    "logo",
    "brand"
   ]
@@ -27565,6 +29695,57 @@
   ]
  },
  {
+  "name": "google-meet-logo",
+  "category": "Brands",
+  "tags": [
+   "google meet",
+   "google",
+   "video call",
+   "meeting",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-news-logo",
+  "category": "Brands",
+  "tags": [
+   "google news",
+   "google",
+   "news",
+   "headlines",
+   "newspaper",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-one-logo",
+  "category": "Brands",
+  "tags": [
+   "google one",
+   "google",
+   "cloud storage",
+   "subscription",
+   "backup",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-pay-logo",
+  "category": "Brands",
+  "tags": [
+   "google pay",
+   "gpay",
+   "google",
+   "payment",
+   "wallet",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "google-photos-logo",
   "category": "Brands",
   "tags": [
@@ -27586,6 +29767,111 @@
    "android",
    "app store",
    "apps",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-podcasts-logo",
+  "category": "Brands",
+  "tags": [
+   "google podcasts",
+   "google",
+   "podcast",
+   "audio",
+   "listening",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-sheets-logo",
+  "category": "Brands",
+  "tags": [
+   "google sheets",
+   "google",
+   "spreadsheet",
+   "table",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-sites-logo",
+  "category": "Brands",
+  "tags": [
+   "google sites",
+   "google",
+   "website builder",
+   "web page",
+   "sites",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-slides-logo",
+  "category": "Brands",
+  "tags": [
+   "google slides",
+   "google",
+   "presentation",
+   "slides",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-tasks-logo",
+  "category": "Brands",
+  "tags": [
+   "google tasks",
+   "google",
+   "tasks",
+   "to-do",
+   "checklist",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-translate-logo",
+  "category": "Brands",
+  "tags": [
+   "google translate",
+   "google",
+   "translation",
+   "language",
+   "dictionary",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-voice-logo",
+  "category": "Brands",
+  "tags": [
+   "google voice",
+   "google",
+   "phone",
+   "calls",
+   "voicemail",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "google-wallet-logo",
+  "category": "Brands",
+  "tags": [
+   "google wallet",
+   "google",
+   "wallet",
+   "payment",
+   "cards",
    "logo",
    "brand"
   ]
@@ -27655,6 +29941,19 @@
    "course",
    "learning",
    "swap"
+  ]
+ },
+ {
+  "name": "grafana-logo",
+  "category": "Brands",
+  "tags": [
+   "grafana",
+   "monitoring",
+   "dashboards",
+   "observability",
+   "metrics",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -27774,6 +30073,18 @@
    "pci",
    "hardware",
    "video card"
+  ]
+ },
+ {
+  "name": "graphql-logo",
+  "category": "Brands",
+  "tags": [
+   "graphql",
+   "api",
+   "query language",
+   "schema",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -28028,6 +30339,20 @@
    "flip",
    "athlete",
    "sport"
+  ]
+ },
+ {
+  "name": "h-and-m-logo",
+  "category": "Brands",
+  "tags": [
+   "h&m",
+   "h and m",
+   "hennes mauritz",
+   "fashion",
+   "clothing",
+   "retail",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -28822,6 +31147,44 @@
   ]
  },
  {
+  "name": "hashicorp-logo",
+  "category": "Brands",
+  "tags": [
+   "hashicorp",
+   "terraform",
+   "infrastructure",
+   "devops",
+   "cloud",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "hashnode-logo",
+  "category": "Brands",
+  "tags": [
+   "hashnode",
+   "blogging",
+   "developer",
+   "blog",
+   "community",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "haskell-logo",
+  "category": "Brands",
+  "tags": [
+   "haskell",
+   "programming language",
+   "functional",
+   "lambda",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "hat",
   "category": "Objects",
   "tags": [
@@ -28829,6 +31192,19 @@
    "fedora",
    "clothing",
    "fashion"
+  ]
+ },
+ {
+  "name": "hbo-max-logo",
+  "category": "Brands",
+  "tags": [
+   "hbo max",
+   "hbo",
+   "max",
+   "streaming",
+   "tv",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -29373,6 +31749,19 @@
   ]
  },
  {
+  "name": "heroku-logo",
+  "category": "Brands",
+  "tags": [
+   "heroku",
+   "hosting",
+   "cloud",
+   "platform",
+   "deploy",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "hex-nut",
   "category": "Objects",
   "tags": [
@@ -29487,6 +31876,19 @@
   ]
  },
  {
+  "name": "heygen-logo",
+  "category": "Brands",
+  "tags": [
+   "heygen",
+   "ai video",
+   "avatar",
+   "video generation",
+   "ai",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "high-chair",
   "category": "Home",
   "tags": [
@@ -29572,6 +31974,18 @@
   ]
  },
  {
+  "name": "honda-logo",
+  "category": "Brands",
+  "tags": [
+   "honda",
+   "japan",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "honey-jar",
   "category": "Food",
   "tags": [
@@ -29613,6 +32027,20 @@
    "gluten free",
    "brewing",
    "dietary"
+  ]
+ },
+ {
+  "name": "hopper-logo",
+  "category": "Brands",
+  "tags": [
+   "hopper",
+   "travel",
+   "flights",
+   "bunny",
+   "rabbit",
+   "booking",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -29728,6 +32156,18 @@
    "lodging",
    "stay",
    "bed"
+  ]
+ },
+ {
+  "name": "hotjar-logo",
+  "category": "Brands",
+  "tags": [
+   "hotjar",
+   "heatmaps",
+   "analytics",
+   "user behavior",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -30117,6 +32557,70 @@
   ]
  },
  {
+  "name": "hp-logo",
+  "category": "Brands",
+  "tags": [
+   "hp",
+   "hewlett packard",
+   "computers",
+   "printers",
+   "laptops",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "hsbc-logo",
+  "category": "Brands",
+  "tags": [
+   "hsbc",
+   "bank",
+   "banking",
+   "hexagon",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "html5-logo",
+  "category": "Brands",
+  "tags": [
+   "html5",
+   "html",
+   "markup",
+   "web development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "hubspot-logo",
+  "category": "Brands",
+  "tags": [
+   "hubspot",
+   "crm",
+   "marketing",
+   "sprocket",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "hugging-face-logo",
+  "category": "Brands",
+  "tags": [
+   "hugging face",
+   "huggingface",
+   "ai",
+   "machine learning",
+   "models",
+   "emoji",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "hula-hoop",
   "category": "Sports",
   "tags": [
@@ -30135,6 +32639,18 @@
    "percent",
    "drop",
    "water"
+  ]
+ },
+ {
+  "name": "hyundai-logo",
+  "category": "Brands",
+  "tags": [
+   "hyundai",
+   "korea",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -30200,6 +32716,19 @@
    "christian fish",
    "religion",
    "faith"
+  ]
+ },
+ {
+  "name": "icloud-logo",
+  "category": "Brands",
+  "tags": [
+   "icloud",
+   "apple",
+   "cloud storage",
+   "backup",
+   "sync",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -30654,6 +33183,19 @@
   ]
  },
  {
+  "name": "imessage-logo",
+  "category": "Brands",
+  "tags": [
+   "imessage",
+   "messages",
+   "apple",
+   "chat",
+   "ios",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "import",
   "category": "Interface",
   "tags": [
@@ -30694,6 +33236,20 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "infiniti-logo",
+  "category": "Brands",
+  "tags": [
+   "infiniti",
+   "nissan",
+   "luxury",
+   "japan",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -30753,6 +33309,19 @@
    "fountain pen",
    "write",
    "calligraphy"
+  ]
+ },
+ {
+  "name": "inkscape-logo",
+  "category": "Brands",
+  "tags": [
+   "inkscape",
+   "vector",
+   "graphics",
+   "illustration",
+   "open source",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -30827,6 +33396,32 @@
   ]
  },
  {
+  "name": "insomnia-logo",
+  "category": "Brands",
+  "tags": [
+   "insomnia",
+   "kong",
+   "api",
+   "rest client",
+   "http",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "instacart-logo",
+  "category": "Brands",
+  "tags": [
+   "instacart",
+   "grocery delivery",
+   "groceries",
+   "carrot",
+   "shopping",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "instagram-logo",
   "category": "Brands",
   "tags": [
@@ -30857,6 +33452,31 @@
    "calculus",
    "math",
    "symbol"
+  ]
+ },
+ {
+  "name": "intellij-logo",
+  "category": "Brands",
+  "tags": [
+   "intellij",
+   "intellij idea",
+   "jetbrains",
+   "ide",
+   "java",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "intercom-logo",
+  "category": "Brands",
+  "tags": [
+   "intercom",
+   "customer support",
+   "chat",
+   "messaging",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -30898,6 +33518,18 @@
    "gut",
    "digestive",
    "colon"
+  ]
+ },
+ {
+  "name": "ionic-logo",
+  "category": "Brands",
+  "tags": [
+   "ionic",
+   "mobile",
+   "hybrid app",
+   "framework",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -30996,6 +33628,33 @@
   ]
  },
  {
+  "name": "istio-logo",
+  "category": "Brands",
+  "tags": [
+   "istio",
+   "service mesh",
+   "kubernetes",
+   "sail",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "itch-io-logo",
+  "category": "Brands",
+  "tags": [
+   "itch.io",
+   "itch",
+   "indie games",
+   "game store",
+   "gaming",
+   "controller",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "item-tracker",
   "category": "Devices",
   "tags": [
@@ -31069,6 +33728,19 @@
   ]
  },
  {
+  "name": "javascript-logo",
+  "category": "Brands",
+  "tags": [
+   "javascript",
+   "js",
+   "programming language",
+   "web",
+   "code",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "jellyfish",
   "category": "Animals",
   "tags": [
@@ -31086,6 +33758,18 @@
    "uniform",
    "sports",
    "sports shirt"
+  ]
+ },
+ {
+  "name": "jest-logo",
+  "category": "Brands",
+  "tags": [
+   "jest",
+   "testing",
+   "test runner",
+   "javascript",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31109,6 +33793,32 @@
   ]
  },
  {
+  "name": "jio-logo",
+  "category": "Brands",
+  "tags": [
+   "jio",
+   "reliance jio",
+   "telecom",
+   "mobile network",
+   "india",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "jira-logo",
+  "category": "Brands",
+  "tags": [
+   "jira",
+   "atlassian",
+   "project management",
+   "issue tracker",
+   "agile",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "joker",
   "category": "Objects",
   "tags": [
@@ -31116,6 +33826,30 @@
    "jester",
    "playing card",
    "clown"
+  ]
+ },
+ {
+  "name": "joplin-logo",
+  "category": "Brands",
+  "tags": [
+   "joplin",
+   "notes",
+   "note-taking",
+   "markdown",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "jotform-logo",
+  "category": "Brands",
+  "tags": [
+   "jotform",
+   "forms",
+   "surveys",
+   "form builder",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31129,6 +33863,18 @@
   ]
  },
  {
+  "name": "json-logo",
+  "category": "Brands",
+  "tags": [
+   "json",
+   "data format",
+   "javascript",
+   "code",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "juice",
   "category": "Food",
   "tags": [
@@ -31136,6 +33882,18 @@
    "glass",
    "drink",
    "orange juice"
+  ]
+ },
+ {
+  "name": "julia-logo",
+  "category": "Brands",
+  "tags": [
+   "julia",
+   "programming language",
+   "scientific computing",
+   "dots",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31150,6 +33908,32 @@
   ]
  },
  {
+  "name": "jupyter-logo",
+  "category": "Brands",
+  "tags": [
+   "jupyter",
+   "notebook",
+   "python",
+   "data science",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "juventus-logo",
+  "category": "Brands",
+  "tags": [
+   "juventus",
+   "juve",
+   "football",
+   "soccer",
+   "club",
+   "italy",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "kaaba",
   "category": "Maps",
   "tags": [
@@ -31159,6 +33943,19 @@
    "landmark",
    "islam",
    "cube"
+  ]
+ },
+ {
+  "name": "kafka-logo",
+  "category": "Brands",
+  "tags": [
+   "kafka",
+   "apache kafka",
+   "streaming",
+   "message queue",
+   "events",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31181,6 +33978,20 @@
    "canoe",
    "water",
    "water sport"
+  ]
+ },
+ {
+  "name": "kde-logo",
+  "category": "Brands",
+  "tags": [
+   "kde",
+   "plasma",
+   "desktop",
+   "linux",
+   "gear",
+   "open source",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31414,6 +34225,44 @@
   ]
  },
  {
+  "name": "khan-academy-logo",
+  "category": "Brands",
+  "tags": [
+   "khan academy",
+   "learning",
+   "education",
+   "nonprofit",
+   "school",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "kia-logo",
+  "category": "Brands",
+  "tags": [
+   "kia",
+   "korea",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "kick-logo",
+  "category": "Brands",
+  "tags": [
+   "kick",
+   "streaming",
+   "live stream",
+   "gaming",
+   "k",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "kickstarter-logo",
   "category": "Brands",
   "tags": [
@@ -31435,6 +34284,18 @@
    "organ",
    "urology",
    "renal"
+  ]
+ },
+ {
+  "name": "kik-logo",
+  "category": "Brands",
+  "tags": [
+   "kik",
+   "messenger",
+   "messaging",
+   "chat",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31508,6 +34369,19 @@
   ]
  },
  {
+  "name": "klm-logo",
+  "category": "Brands",
+  "tags": [
+   "klm",
+   "royal dutch airlines",
+   "airline",
+   "crown",
+   "travel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "knife",
   "category": "Objects",
   "tags": [
@@ -31562,6 +34436,71 @@
    "australia",
    "animal",
    "marsupial"
+  ]
+ },
+ {
+  "name": "kotlin-logo",
+  "category": "Brands",
+  "tags": [
+   "kotlin",
+   "programming language",
+   "jetbrains",
+   "android",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "kraken-logo",
+  "category": "Brands",
+  "tags": [
+   "kraken",
+   "crypto",
+   "exchange",
+   "bitcoin",
+   "trading",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "kubernetes-logo",
+  "category": "Brands",
+  "tags": [
+   "kubernetes",
+   "k8s",
+   "containers",
+   "orchestration",
+   "cloud",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "kucoin-logo",
+  "category": "Brands",
+  "tags": [
+   "kucoin",
+   "crypto",
+   "exchange",
+   "trading",
+   "cryptocurrency",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "la-liga-logo",
+  "category": "Brands",
+  "tags": [
+   "laliga",
+   "la liga",
+   "football",
+   "soccer",
+   "spain",
+   "league",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -31772,6 +34711,18 @@
   ]
  },
  {
+  "name": "laravel-logo",
+  "category": "Brands",
+  "tags": [
+   "laravel",
+   "php",
+   "web framework",
+   "backend",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "laser-pointer",
   "category": "Devices",
   "tags": [
@@ -31810,6 +34761,30 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "lastpass-logo",
+  "category": "Brands",
+  "tags": [
+   "lastpass",
+   "password manager",
+   "security",
+   "passwords",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "launchdarkly-logo",
+  "category": "Brands",
+  "tags": [
+   "launchdarkly",
+   "feature flags",
+   "release",
+   "devops",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -32121,6 +35096,19 @@
   ]
  },
  {
+  "name": "lazada-logo",
+  "category": "Brands",
+  "tags": [
+   "lazada",
+   "shopping",
+   "ecommerce",
+   "alibaba",
+   "southeast asia",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "leaf",
   "category": "Nature",
   "tags": [
@@ -32223,6 +35211,19 @@
    "knee",
    "body part",
    "thigh"
+  ]
+ },
+ {
+  "name": "lemmy-logo",
+  "category": "Brands",
+  "tags": [
+   "lemmy",
+   "lemming",
+   "fediverse",
+   "forum",
+   "community",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -33095,6 +36096,46 @@
   ]
  },
  {
+  "name": "letterboxd-logo",
+  "category": "Brands",
+  "tags": [
+   "letterboxd",
+   "films",
+   "movies",
+   "reviews",
+   "social",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "lexus-logo",
+  "category": "Brands",
+  "tags": [
+   "lexus",
+   "toyota",
+   "luxury",
+   "japan",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "lg-logo",
+  "category": "Brands",
+  "tags": [
+   "lg",
+   "life is good",
+   "electronics",
+   "appliances",
+   "phone",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "library",
   "category": "Media",
   "tags": [
@@ -33252,6 +36293,21 @@
    "lightning",
    "disable",
    "power off"
+  ]
+ },
+ {
+  "name": "lincoln-logo",
+  "category": "Brands",
+  "tags": [
+   "lincoln",
+   "ford",
+   "star",
+   "luxury",
+   "usa",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -33455,6 +36511,18 @@
   ]
  },
  {
+  "name": "linear-logo",
+  "category": "Brands",
+  "tags": [
+   "linear",
+   "issue tracker",
+   "project management",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "link",
   "category": "Development",
   "tags": [
@@ -33539,6 +36607,32 @@
    "network",
    "career",
    "job",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "linux-logo",
+  "category": "Brands",
+  "tags": [
+   "linux",
+   "tux",
+   "penguin",
+   "operating system",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "linux-mint-logo",
+  "category": "Brands",
+  "tags": [
+   "linux mint",
+   "mint",
+   "linux",
+   "operating system",
+   "open source",
    "logo",
    "brand"
   ]
@@ -33812,6 +36906,19 @@
   ]
  },
  {
+  "name": "lit-logo",
+  "category": "Brands",
+  "tags": [
+   "lit",
+   "web components",
+   "javascript",
+   "google",
+   "flame",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "litecoin-logo",
   "category": "Brands",
   "tags": [
@@ -33856,6 +36963,19 @@
   ]
  },
  {
+  "name": "livekit-logo",
+  "category": "Brands",
+  "tags": [
+   "livekit",
+   "webrtc",
+   "realtime",
+   "video",
+   "audio",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "liver",
   "category": "Health",
   "tags": [
@@ -33865,6 +36985,20 @@
    "anatomy",
    "digestion",
    "health"
+  ]
+ },
+ {
+  "name": "llamaindex-logo",
+  "category": "Brands",
+  "tags": [
+   "llamaindex",
+   "llama",
+   "rag",
+   "ai",
+   "llm",
+   "framework",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -34285,6 +37419,18 @@
   ]
  },
  {
+  "name": "logrocket-logo",
+  "category": "Brands",
+  "tags": [
+   "logrocket",
+   "session replay",
+   "frontend monitoring",
+   "analytics",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "logs",
   "category": "Development",
   "tags": [
@@ -34292,6 +37438,18 @@
    "log file",
    "lines",
    "console"
+  ]
+ },
+ {
+  "name": "logseq-logo",
+  "category": "Brands",
+  "tags": [
+   "logseq",
+   "notes",
+   "knowledge base",
+   "outliner",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -34312,6 +37470,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "looker-logo",
+  "category": "Brands",
+  "tags": [
+   "looker",
+   "google",
+   "business intelligence",
+   "analytics",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -34341,6 +37511,31 @@
   ]
  },
  {
+  "name": "lua-logo",
+  "category": "Brands",
+  "tags": [
+   "lua",
+   "programming language",
+   "scripting",
+   "moon",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "lufthansa-logo",
+  "category": "Brands",
+  "tags": [
+   "lufthansa",
+   "airline",
+   "crane",
+   "bird",
+   "travel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "luggage-clock",
   "category": "Transport",
   "tags": [
@@ -34357,6 +37552,19 @@
    "sleep music",
    "baby",
    "bedtime"
+  ]
+ },
+ {
+  "name": "luma-logo",
+  "category": "Brands",
+  "tags": [
+   "luma",
+   "luma ai",
+   "dream machine",
+   "video generation",
+   "ai",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -34410,6 +37618,18 @@
    "disabled",
    "hidden",
    "close up"
+  ]
+ },
+ {
+  "name": "magento-logo",
+  "category": "Brands",
+  "tags": [
+   "magento",
+   "adobe commerce",
+   "e-commerce",
+   "shop",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -34659,6 +37879,19 @@
   ]
  },
  {
+  "name": "mailchimp-logo",
+  "category": "Brands",
+  "tags": [
+   "mailchimp",
+   "email marketing",
+   "newsletter",
+   "freddie",
+   "chimp",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "makeup-brush",
   "category": "Objects",
   "tags": [
@@ -34676,6 +37909,19 @@
    "restroom",
    "man",
    "person"
+  ]
+ },
+ {
+  "name": "manjaro-logo",
+  "category": "Brands",
+  "tags": [
+   "manjaro",
+   "linux",
+   "operating system",
+   "arch",
+   "open source",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -35365,6 +38611,20 @@
   ]
  },
  {
+  "name": "maserati-logo",
+  "category": "Brands",
+  "tags": [
+   "maserati",
+   "trident",
+   "luxury",
+   "italy",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "mask",
   "category": "Design",
   "tags": [
@@ -35600,6 +38860,32 @@
   ]
  },
  {
+  "name": "maya-logo",
+  "category": "Brands",
+  "tags": [
+   "autodesk maya",
+   "maya",
+   "autodesk",
+   "3d",
+   "animation",
+   "modeling",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "mazda-logo",
+  "category": "Brands",
+  "tags": [
+   "mazda",
+   "japan",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "maze",
   "category": "Objects",
   "tags": [
@@ -35607,6 +38893,47 @@
    "labyrinth",
    "puzzle",
    "path"
+  ]
+ },
+ {
+  "name": "mcdonalds-logo",
+  "category": "Brands",
+  "tags": [
+   "mcdonalds",
+   "fast food",
+   "golden arches",
+   "burgers",
+   "restaurant",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "mclaren-logo",
+  "category": "Brands",
+  "tags": [
+   "mclaren",
+   "speedmark",
+   "supercar",
+   "racing",
+   "uk",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "mcp-logo",
+  "category": "Brands",
+  "tags": [
+   "mcp",
+   "model context protocol",
+   "ai",
+   "agents",
+   "protocol",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -35863,6 +39190,20 @@
   ]
  },
  {
+  "name": "mercedes-logo",
+  "category": "Brands",
+  "tags": [
+   "mercedes",
+   "mercedes-benz",
+   "benz",
+   "car",
+   "automotive",
+   "star",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "merry-go-round",
   "category": "Maps",
   "tags": [
@@ -35903,6 +39244,32 @@
    "social media",
    "company",
    "infinity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "metabase-logo",
+  "category": "Brands",
+  "tags": [
+   "metabase",
+   "business intelligence",
+   "analytics",
+   "dashboards",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "metamask-logo",
+  "category": "Brands",
+  "tags": [
+   "metamask",
+   "crypto",
+   "wallet",
+   "ethereum",
+   "fox",
+   "web3",
    "logo",
    "brand"
   ]
@@ -36080,6 +39447,58 @@
   ]
  },
  {
+  "name": "microsoft-365-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft 365",
+   "office 365",
+   "microsoft",
+   "office",
+   "productivity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-access-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft access",
+   "access",
+   "microsoft",
+   "database",
+   "office",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-edge-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft edge",
+   "edge",
+   "microsoft",
+   "browser",
+   "web browser",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-excel-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft excel",
+   "excel",
+   "microsoft",
+   "spreadsheet",
+   "office",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "microsoft-logo",
   "category": "Brands",
   "tags": [
@@ -36088,6 +39507,128 @@
    "office",
    "software",
    "company",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-loop-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft loop",
+   "loop",
+   "microsoft",
+   "collaboration",
+   "workspace",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-outlook-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft outlook",
+   "outlook",
+   "microsoft",
+   "email",
+   "calendar",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-powerpoint-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft powerpoint",
+   "powerpoint",
+   "microsoft",
+   "presentation",
+   "slides",
+   "office",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-publisher-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft publisher",
+   "publisher",
+   "microsoft",
+   "desktop publishing",
+   "layout",
+   "office",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-store-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft store",
+   "microsoft",
+   "windows",
+   "app store",
+   "apps",
+   "shopping",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-teams-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft teams",
+   "microsoft",
+   "meetings",
+   "team chat",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-to-do-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft to do",
+   "to do",
+   "microsoft",
+   "tasks",
+   "checklist",
+   "check",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-visio-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft visio",
+   "visio",
+   "microsoft",
+   "diagram",
+   "flowchart",
+   "office",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "microsoft-word-logo",
+  "category": "Brands",
+  "tags": [
+   "microsoft word",
+   "word",
+   "microsoft",
+   "document",
+   "word processor",
+   "office",
    "logo",
    "brand"
   ]
@@ -36121,6 +39662,19 @@
    "layers",
    "pipeline",
    "server"
+  ]
+ },
+ {
+  "name": "midjourney-logo",
+  "category": "Brands",
+  "tags": [
+   "midjourney",
+   "ai",
+   "image generation",
+   "art",
+   "sailboat",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -36185,6 +39739,34 @@
   ]
  },
  {
+  "name": "minecraft-logo",
+  "category": "Brands",
+  "tags": [
+   "minecraft",
+   "mojang",
+   "game",
+   "gaming",
+   "grass block",
+   "sandbox",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "mini-logo",
+  "category": "Brands",
+  "tags": [
+   "mini",
+   "bmw",
+   "wings",
+   "uk",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "minus",
   "category": "Interface",
   "tags": [
@@ -36236,6 +39818,18 @@
   ]
  },
  {
+  "name": "miro-logo",
+  "category": "Brands",
+  "tags": [
+   "miro",
+   "whiteboard",
+   "collaboration",
+   "brainstorming",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "mirror",
   "category": "Home",
   "tags": [
@@ -36276,6 +39870,19 @@
    "llm",
    "language model",
    "artificial intelligence",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "mitsubishi-logo",
+  "category": "Brands",
+  "tags": [
+   "mitsubishi",
+   "diamonds",
+   "japan",
+   "car",
+   "automotive",
    "logo",
    "brand"
   ]
@@ -36365,6 +39972,19 @@
    "payment",
    "fintech",
    "m",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "monday-logo",
+  "category": "Brands",
+  "tags": [
+   "monday",
+   "monday.com",
+   "work management",
+   "project management",
+   "productivity",
    "logo",
    "brand"
   ]
@@ -36768,6 +40388,19 @@
    "money",
    "banknote",
    "x"
+  ]
+ },
+ {
+  "name": "mongodb-logo",
+  "category": "Brands",
+  "tags": [
+   "mongodb",
+   "mongo",
+   "database",
+   "nosql",
+   "leaf",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37180,6 +40813,19 @@
   ]
  },
  {
+  "name": "monzo-logo",
+  "category": "Brands",
+  "tags": [
+   "monzo",
+   "bank",
+   "banking",
+   "fintech",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "moon",
   "category": "Weather",
   "tags": [
@@ -37347,6 +40993,19 @@
   ]
  },
  {
+  "name": "motorola-logo",
+  "category": "Brands",
+  "tags": [
+   "motorola",
+   "moto",
+   "phone",
+   "smartphone",
+   "electronics",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "mountain-flag",
   "category": "Nature",
   "tags": [
@@ -37458,6 +41117,18 @@
    "prophet",
    "religion",
    "muslim"
+  ]
+ },
+ {
+  "name": "mural-logo",
+  "category": "Brands",
+  "tags": [
+   "mural",
+   "whiteboard",
+   "collaboration",
+   "workshops",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -37797,6 +41468,32 @@
   ]
  },
  {
+  "name": "mysql-logo",
+  "category": "Brands",
+  "tags": [
+   "mysql",
+   "database",
+   "sql",
+   "dolphin",
+   "oracle",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "n26-logo",
+  "category": "Brands",
+  "tags": [
+   "n26",
+   "bank",
+   "banking",
+   "fintech",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "nail-polish",
   "category": "Objects",
   "tags": [
@@ -38087,6 +41784,58 @@
   ]
  },
  {
+  "name": "neon-logo",
+  "category": "Brands",
+  "tags": [
+   "neon",
+   "postgres",
+   "database",
+   "serverless",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "neovim-logo",
+  "category": "Brands",
+  "tags": [
+   "neovim",
+   "vim",
+   "text editor",
+   "editor",
+   "terminal",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "netflix-logo",
+  "category": "Brands",
+  "tags": [
+   "netflix",
+   "streaming",
+   "video",
+   "movies",
+   "tv",
+   "n",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "netlify-logo",
+  "category": "Brands",
+  "tags": [
+   "netlify",
+   "hosting",
+   "deployment",
+   "jamstack",
+   "web",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "network",
   "category": "Development",
   "tags": [
@@ -38130,6 +41879,20 @@
   ]
  },
  {
+  "name": "new-york-yankees-logo",
+  "category": "Brands",
+  "tags": [
+   "new york yankees",
+   "yankees",
+   "ny",
+   "baseball",
+   "mlb",
+   "club",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "newspaper",
   "category": "Files",
   "tags": [
@@ -38159,6 +41922,34 @@
   ]
  },
  {
+  "name": "nextcloud-logo",
+  "category": "Brands",
+  "tags": [
+   "nextcloud",
+   "cloud storage",
+   "files",
+   "sync",
+   "self-hosted",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "nextjs-logo",
+  "category": "Brands",
+  "tags": [
+   "nextjs",
+   "next.js",
+   "next",
+   "react",
+   "framework",
+   "vercel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "nfc",
   "category": "Devices",
   "tags": [
@@ -38176,6 +41967,33 @@
    "contactless off",
    "tap",
    "disabled"
+  ]
+ },
+ {
+  "name": "nfl-logo",
+  "category": "Brands",
+  "tags": [
+   "nfl",
+   "national football league",
+   "american football",
+   "football",
+   "sports",
+   "league",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "nginx-logo",
+  "category": "Brands",
+  "tags": [
+   "nginx",
+   "web server",
+   "proxy",
+   "load balancer",
+   "server",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -38198,6 +42016,18 @@
    "apparel",
    "footwear",
    "athletic",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "nim-logo",
+  "category": "Brands",
+  "tags": [
+   "nim",
+   "nimlang",
+   "programming language",
+   "crown",
    "logo",
    "brand"
   ]
@@ -38229,6 +42059,20 @@
   ]
  },
  {
+  "name": "nodejs-logo",
+  "category": "Brands",
+  "tags": [
+   "nodejs",
+   "node.js",
+   "node",
+   "javascript",
+   "runtime",
+   "server",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "noodles",
   "category": "Food",
   "tags": [
@@ -38237,6 +42081,19 @@
    "soup",
    "chopsticks",
    "noodles"
+  ]
+ },
+ {
+  "name": "nordvpn-logo",
+  "category": "Brands",
+  "tags": [
+   "nordvpn",
+   "vpn",
+   "privacy",
+   "security",
+   "mountain",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -38511,6 +42368,20 @@
   ]
  },
  {
+  "name": "notebooklm-logo",
+  "category": "Brands",
+  "tags": [
+   "notebooklm",
+   "google",
+   "notebook",
+   "ai",
+   "research",
+   "notes",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "notebooks",
   "category": "Files",
   "tags": [
@@ -38588,6 +42459,20 @@
    "math",
    "algebra",
    "circle"
+  ]
+ },
+ {
+  "name": "nubank-logo",
+  "category": "Brands",
+  "tags": [
+   "nubank",
+   "nu",
+   "bank",
+   "fintech",
+   "brazil",
+   "finance",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -38996,6 +42881,33 @@
   ]
  },
  {
+  "name": "nuxt-logo",
+  "category": "Brands",
+  "tags": [
+   "nuxt",
+   "nuxtjs",
+   "vue",
+   "framework",
+   "web development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "nvidia-logo",
+  "category": "Brands",
+  "tags": [
+   "nvidia",
+   "gpu",
+   "graphics",
+   "chips",
+   "ai",
+   "gaming",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "object-group",
   "category": "Design",
   "tags": [
@@ -39024,6 +42936,32 @@
    "separate",
    "selection",
    "split"
+  ]
+ },
+ {
+  "name": "obs-logo",
+  "category": "Brands",
+  "tags": [
+   "obs",
+   "obs studio",
+   "streaming",
+   "recording",
+   "broadcast",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "obsidian-logo",
+  "category": "Brands",
+  "tags": [
+   "obsidian",
+   "notes",
+   "markdown",
+   "knowledge base",
+   "note-taking",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -39127,6 +43065,57 @@
   ]
  },
  {
+  "name": "okx-logo",
+  "category": "Brands",
+  "tags": [
+   "okx",
+   "crypto",
+   "exchange",
+   "trading",
+   "cryptocurrency",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "ola-logo",
+  "category": "Brands",
+  "tags": [
+   "ola",
+   "ola cabs",
+   "ride hailing",
+   "taxi",
+   "india",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "ollama-logo",
+  "category": "Brands",
+  "tags": [
+   "ollama",
+   "llama",
+   "ai",
+   "llm",
+   "local models",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "olympics-logo",
+  "category": "Brands",
+  "tags": [
+   "olympics",
+   "olympic rings",
+   "olympic games",
+   "sports",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "om",
   "category": "Symbols",
   "tags": [
@@ -39147,6 +43136,59 @@
   ]
  },
  {
+  "name": "one-password-logo",
+  "category": "Brands",
+  "tags": [
+   "1password",
+   "password manager",
+   "security",
+   "passwords",
+   "vault",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "onedrive-logo",
+  "category": "Brands",
+  "tags": [
+   "onedrive",
+   "microsoft",
+   "cloud storage",
+   "files",
+   "sync",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "onenote-logo",
+  "category": "Brands",
+  "tags": [
+   "onenote",
+   "microsoft onenote",
+   "microsoft",
+   "notes",
+   "notebook",
+   "office",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "oneplus-logo",
+  "category": "Brands",
+  "tags": [
+   "oneplus",
+   "1+",
+   "phone",
+   "smartphone",
+   "android",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "onesie",
   "category": "People",
   "tags": [
@@ -39163,6 +43205,84 @@
    "rice ball",
    "japanese food",
    "snack"
+  ]
+ },
+ {
+  "name": "opel-logo",
+  "category": "Brands",
+  "tags": [
+   "opel",
+   "vauxhall",
+   "blitz",
+   "lightning",
+   "germany",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "opencv-logo",
+  "category": "Brands",
+  "tags": [
+   "opencv",
+   "computer vision",
+   "image processing",
+   "library",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "opensea-logo",
+  "category": "Brands",
+  "tags": [
+   "opensea",
+   "nft",
+   "marketplace",
+   "crypto",
+   "web3",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "openshift-logo",
+  "category": "Brands",
+  "tags": [
+   "openshift",
+   "red hat",
+   "kubernetes",
+   "containers",
+   "cloud",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "opera-gx-logo",
+  "category": "Brands",
+  "tags": [
+   "opera gx",
+   "opera",
+   "gaming",
+   "browser",
+   "web browser",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "opera-logo",
+  "category": "Brands",
+  "tags": [
+   "opera",
+   "browser",
+   "web browser",
+   "o",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -39253,6 +43373,19 @@
   ]
  },
  {
+  "name": "otter-logo",
+  "category": "Brands",
+  "tags": [
+   "otter",
+   "otter.ai",
+   "transcription",
+   "meeting notes",
+   "ai",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "outlet",
   "category": "Home",
   "tags": [
@@ -39272,6 +43405,33 @@
    "baking",
    "kitchen",
    "bake"
+  ]
+ },
+ {
+  "name": "overleaf-logo",
+  "category": "Brands",
+  "tags": [
+   "overleaf",
+   "latex",
+   "writing",
+   "research",
+   "documents",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "overwatch-logo",
+  "category": "Brands",
+  "tags": [
+   "overwatch",
+   "blizzard",
+   "game",
+   "gaming",
+   "shooter",
+   "hero shooter",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -39494,6 +43654,32 @@
   ]
  },
  {
+  "name": "pagerduty-logo",
+  "category": "Brands",
+  "tags": [
+   "pagerduty",
+   "incident",
+   "on-call",
+   "alerts",
+   "monitoring",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "pagination",
+  "category": "Interface",
+  "tags": [
+   "pagination",
+   "pages",
+   "paging",
+   "previous",
+   "next",
+   "carousel",
+   "dots"
+  ]
+ },
+ {
   "name": "pagoda",
   "category": "Maps",
   "tags": [
@@ -39645,6 +43831,19 @@
    "bear",
    "china",
    "wildlife"
+  ]
+ },
+ {
+  "name": "pandas-logo",
+  "category": "Brands",
+  "tags": [
+   "pandas",
+   "python",
+   "data analysis",
+   "dataframe",
+   "data science",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -40041,6 +44240,19 @@
   ]
  },
  {
+  "name": "paramount-plus-logo",
+  "category": "Brands",
+  "tags": [
+   "paramount plus",
+   "paramount",
+   "streaming",
+   "movies",
+   "mountain",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "parent",
   "category": "People",
   "tags": [
@@ -40059,6 +44271,19 @@
    "meter",
    "street",
    "coin"
+  ]
+ },
+ {
+  "name": "party-horn",
+  "category": "Objects",
+  "tags": [
+   "party horn",
+   "party blower",
+   "noisemaker",
+   "party",
+   "celebrate",
+   "birthday",
+   "new year"
   ]
  },
  {
@@ -40169,6 +44394,18 @@
    "clinic",
    "hospital",
    "care"
+  ]
+ },
+ {
+  "name": "patreon-logo",
+  "category": "Brands",
+  "tags": [
+   "patreon",
+   "creators",
+   "membership",
+   "crowdfunding",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -40696,6 +44933,19 @@
   ]
  },
  {
+  "name": "pepsi-logo",
+  "category": "Brands",
+  "tags": [
+   "pepsi",
+   "pepsico",
+   "soda",
+   "cola",
+   "drinks",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "percent",
   "category": "Interface",
   "tags": [
@@ -41151,6 +45401,20 @@
   ]
  },
  {
+  "name": "phantom-logo",
+  "category": "Brands",
+  "tags": [
+   "phantom",
+   "crypto wallet",
+   "wallet",
+   "solana",
+   "ghost",
+   "cryptocurrency",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "pharmacy",
   "category": "Health",
   "tags": [
@@ -41379,6 +45643,19 @@
   ]
  },
  {
+  "name": "phonepe-logo",
+  "category": "Brands",
+  "tags": [
+   "phonepe",
+   "upi",
+   "payments",
+   "india",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "photo-album",
   "category": "Media",
   "tags": [
@@ -41387,6 +45664,18 @@
    "gallery",
    "memories",
    "photos"
+  ]
+ },
+ {
+  "name": "php-logo",
+  "category": "Brands",
+  "tags": [
+   "php",
+   "programming language",
+   "web development",
+   "server",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -41804,6 +46093,19 @@
   ]
  },
  {
+  "name": "pizza-hut-logo",
+  "category": "Brands",
+  "tags": [
+   "pizza hut",
+   "pizza",
+   "fast food",
+   "restaurant",
+   "roof",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "pizza-slash",
   "category": "Food",
   "tags": [
@@ -41811,6 +46113,19 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "plaid-logo",
+  "category": "Brands",
+  "tags": [
+   "plaid",
+   "fintech",
+   "banking api",
+   "payments",
+   "finance",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -41835,6 +46150,18 @@
   ]
  },
  {
+  "name": "planetscale-logo",
+  "category": "Brands",
+  "tags": [
+   "planetscale",
+   "mysql",
+   "database",
+   "serverless",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "plant",
   "category": "Nature",
   "tags": [
@@ -41853,6 +46180,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "plausible-logo",
+  "category": "Brands",
+  "tags": [
+   "plausible",
+   "analytics",
+   "web analytics",
+   "privacy",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42043,6 +46382,33 @@
   ]
  },
  {
+  "name": "playstation-logo",
+  "category": "Brands",
+  "tags": [
+   "playstation",
+   "sony",
+   "gaming",
+   "console",
+   "games",
+   "ps",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "playwright-logo",
+  "category": "Brands",
+  "tags": [
+   "playwright",
+   "testing",
+   "browser automation",
+   "masks",
+   "microsoft",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "pliers",
   "category": "Objects",
   "tags": [
@@ -42050,6 +46416,19 @@
    "wire stripper",
    "tool",
    "grip"
+  ]
+ },
+ {
+  "name": "plotly-logo",
+  "category": "Brands",
+  "tags": [
+   "plotly",
+   "charts",
+   "data visualization",
+   "graphs",
+   "python",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42239,6 +46618,18 @@
   ]
  },
  {
+  "name": "pnpm-logo",
+  "category": "Brands",
+  "tags": [
+   "pnpm",
+   "package manager",
+   "npm",
+   "javascript",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "pocket-knife",
   "category": "Objects",
   "tags": [
@@ -42284,6 +46675,20 @@
   ]
  },
  {
+  "name": "poe-logo",
+  "category": "Brands",
+  "tags": [
+   "poe",
+   "quora",
+   "chatbot",
+   "ai",
+   "chat",
+   "assistant",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "pokeball",
   "category": "Brands",
   "tags": [
@@ -42305,6 +46710,21 @@
    "gambling",
    "bet",
    "poker chip"
+  ]
+ },
+ {
+  "name": "polestar-logo",
+  "category": "Brands",
+  "tags": [
+   "polestar",
+   "volvo",
+   "electric",
+   "ev",
+   "sweden",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42360,6 +46780,20 @@
    "shape",
    "vertices",
    "irregular"
+  ]
+ },
+ {
+  "name": "polygon-logo",
+  "category": "Brands",
+  "tags": [
+   "polygon",
+   "matic",
+   "pol",
+   "crypto",
+   "blockchain",
+   "cryptocurrency",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42495,6 +46929,31 @@
   ]
  },
  {
+  "name": "postgresql-logo",
+  "category": "Brands",
+  "tags": [
+   "postgresql",
+   "postgres",
+   "database",
+   "sql",
+   "elephant",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "posthog-logo",
+  "category": "Brands",
+  "tags": [
+   "posthog",
+   "product analytics",
+   "analytics",
+   "hedgehog",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "potion",
   "category": "Science",
   "tags": [
@@ -42535,6 +46994,20 @@
   ]
  },
  {
+  "name": "power-bi-logo",
+  "category": "Brands",
+  "tags": [
+   "power bi",
+   "microsoft power bi",
+   "microsoft",
+   "analytics",
+   "business intelligence",
+   "dashboard",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "power-circle",
   "category": "Interface",
   "tags": [
@@ -42569,6 +47042,19 @@
   ]
  },
  {
+  "name": "powershell-logo",
+  "category": "Brands",
+  "tags": [
+   "powershell",
+   "microsoft",
+   "shell",
+   "terminal",
+   "scripting",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "prayer-beads",
   "category": "Objects",
   "tags": [
@@ -42590,6 +47076,19 @@
    "rug",
    "islam",
    "prayer"
+  ]
+ },
+ {
+  "name": "preact-logo",
+  "category": "Brands",
+  "tags": [
+   "preact",
+   "javascript",
+   "ui library",
+   "react",
+   "web framework",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42725,6 +47224,20 @@
   ]
  },
  {
+  "name": "prime-video-logo",
+  "category": "Brands",
+  "tags": [
+   "prime video",
+   "amazon",
+   "prime",
+   "streaming",
+   "video",
+   "movies",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "printer",
   "category": "Devices",
   "tags": [
@@ -42848,6 +47361,18 @@
   ]
  },
  {
+  "name": "prisma-logo",
+  "category": "Brands",
+  "tags": [
+   "prisma",
+   "orm",
+   "database",
+   "typescript",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "prison",
   "category": "Maps",
   "tags": [
@@ -42867,6 +47392,32 @@
    "officer",
    "jail",
    "security"
+  ]
+ },
+ {
+  "name": "procreate-logo",
+  "category": "Brands",
+  "tags": [
+   "procreate",
+   "drawing",
+   "painting",
+   "illustration",
+   "ipad",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "producthunt-logo",
+  "category": "Brands",
+  "tags": [
+   "product hunt",
+   "producthunt",
+   "launch",
+   "products",
+   "p",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42941,6 +47492,19 @@
   ]
  },
  {
+  "name": "prometheus-logo",
+  "category": "Brands",
+  "tags": [
+   "prometheus",
+   "monitoring",
+   "metrics",
+   "observability",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "propeller",
   "category": "Transport",
   "tags": [
@@ -42958,6 +47522,22 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "psg-logo",
+  "category": "Brands",
+  "tags": [
+   "psg",
+   "paris saint-germain",
+   "paris",
+   "football",
+   "soccer",
+   "club",
+   "france",
+   "eiffel tower",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -42991,6 +47571,19 @@
    "vital signs",
    "alert",
    "irregular"
+  ]
+ },
+ {
+  "name": "puma-logo",
+  "category": "Brands",
+  "tags": [
+   "puma",
+   "sportswear",
+   "fashion",
+   "cat",
+   "sport",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -43145,6 +47738,45 @@
   ]
  },
  {
+  "name": "python-logo",
+  "category": "Brands",
+  "tags": [
+   "python",
+   "programming language",
+   "code",
+   "snake",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "pytorch-logo",
+  "category": "Brands",
+  "tags": [
+   "pytorch",
+   "meta",
+   "machine learning",
+   "ai",
+   "deep learning",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "qq-logo",
+  "category": "Brands",
+  "tags": [
+   "qq",
+   "tencent",
+   "messaging",
+   "chat",
+   "penguin",
+   "china",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "qr-code",
   "category": "Devices",
   "tags": [
@@ -43247,6 +47879,20 @@
   ]
  },
  {
+  "name": "quickbooks-logo",
+  "category": "Brands",
+  "tags": [
+   "quickbooks",
+   "intuit",
+   "accounting",
+   "bookkeeping",
+   "qb",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "quora-logo",
   "category": "Brands",
   "tags": [
@@ -43329,6 +47975,31 @@
   ]
  },
  {
+  "name": "qwik-logo",
+  "category": "Brands",
+  "tags": [
+   "qwik",
+   "javascript",
+   "web framework",
+   "resumable",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "r-logo",
+  "category": "Brands",
+  "tags": [
+   "r",
+   "rlang",
+   "programming language",
+   "statistics",
+   "data science",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "rabbit",
   "category": "Animals",
   "tags": [
@@ -43337,6 +48008,18 @@
    "cruelty free",
    "hare",
    "easter"
+  ]
+ },
+ {
+  "name": "rabbitmq-logo",
+  "category": "Brands",
+  "tags": [
+   "rabbitmq",
+   "message broker",
+   "message queue",
+   "amqp",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -43452,6 +48135,19 @@
   ]
  },
  {
+  "name": "railway-logo",
+  "category": "Brands",
+  "tags": [
+   "railway",
+   "hosting",
+   "cloud",
+   "deploy",
+   "train",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "rainbow",
   "category": "Weather",
   "tags": [
@@ -43479,6 +48175,19 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "ramp-logo",
+  "category": "Brands",
+  "tags": [
+   "ramp",
+   "corporate card",
+   "expenses",
+   "fintech",
+   "finance",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -43536,6 +48245,19 @@
   ]
  },
  {
+  "name": "razorpay-logo",
+  "category": "Brands",
+  "tags": [
+   "razorpay",
+   "payments",
+   "payment gateway",
+   "india",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "react-logo",
   "category": "Brands",
   "tags": [
@@ -43544,6 +48266,20 @@
    "javascript",
    "framework",
    "web development",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "real-madrid-logo",
+  "category": "Brands",
+  "tags": [
+   "real madrid",
+   "football",
+   "soccer",
+   "club",
+   "spain",
+   "crown",
    "logo",
    "brand"
   ]
@@ -43849,6 +48585,19 @@
   ]
  },
  {
+  "name": "red-hat-logo",
+  "category": "Brands",
+  "tags": [
+   "red hat",
+   "linux",
+   "enterprise",
+   "open source",
+   "hat",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "reddit-logo",
   "category": "Brands",
   "tags": [
@@ -43863,6 +48612,19 @@
   ]
  },
  {
+  "name": "redis-logo",
+  "category": "Brands",
+  "tags": [
+   "redis",
+   "database",
+   "cache",
+   "key value",
+   "in memory",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "reduce-motion",
   "category": "Interface",
   "tags": [
@@ -43870,6 +48632,31 @@
    "accessibility",
    "animation",
    "settings"
+  ]
+ },
+ {
+  "name": "redux-logo",
+  "category": "Brands",
+  "tags": [
+   "redux",
+   "state management",
+   "javascript",
+   "react",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "reebok-logo",
+  "category": "Brands",
+  "tags": [
+   "reebok",
+   "vector",
+   "sportswear",
+   "footwear",
+   "fitness",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -43945,6 +48732,19 @@
   ]
  },
  {
+  "name": "remix-logo",
+  "category": "Brands",
+  "tags": [
+   "remix",
+   "react",
+   "framework",
+   "web development",
+   "r",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "remote-control",
   "category": "Devices",
   "tags": [
@@ -43963,6 +48763,32 @@
    "text field",
    "edit name",
    "input"
+  ]
+ },
+ {
+  "name": "renault-logo",
+  "category": "Brands",
+  "tags": [
+   "renault",
+   "diamond",
+   "lozenge",
+   "france",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "render-logo",
+  "category": "Brands",
+  "tags": [
+   "render",
+   "hosting",
+   "cloud",
+   "deploy",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -44037,6 +48863,19 @@
    "replay",
    "skip back",
    "replay 5 seconds"
+  ]
+ },
+ {
+  "name": "replicate-logo",
+  "category": "Brands",
+  "tags": [
+   "replicate",
+   "ai",
+   "machine learning",
+   "model hosting",
+   "api",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -44201,6 +49040,46 @@
   ]
  },
  {
+  "name": "rippling-logo",
+  "category": "Brands",
+  "tags": [
+   "rippling",
+   "hr",
+   "payroll",
+   "workforce",
+   "it management",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "rive-logo",
+  "category": "Brands",
+  "tags": [
+   "rive",
+   "animation",
+   "interactive",
+   "motion design",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "rivian-logo",
+  "category": "Brands",
+  "tags": [
+   "rivian",
+   "electric",
+   "ev",
+   "compass",
+   "usa",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "road",
   "category": "Maps",
   "tags": [
@@ -44250,6 +49129,20 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "robinhood-logo",
+  "category": "Brands",
+  "tags": [
+   "robinhood",
+   "investing",
+   "stocks",
+   "trading",
+   "feather",
+   "finance",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -44369,6 +49262,22 @@
   ]
  },
  {
+  "name": "rockstar-games-logo",
+  "category": "Brands",
+  "tags": [
+   "rockstar games",
+   "rockstar",
+   "gta",
+   "game",
+   "gaming",
+   "publisher",
+   "r",
+   "star",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "roller-skate",
   "category": "Sports",
   "tags": [
@@ -44409,6 +49318,33 @@
    "pastry",
    "kitchen",
    "cooking"
+  ]
+ },
+ {
+  "name": "rolls-royce-logo",
+  "category": "Brands",
+  "tags": [
+   "rolls-royce",
+   "rolls royce",
+   "rr",
+   "luxury",
+   "uk",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "rollup-logo",
+  "category": "Brands",
+  "tags": [
+   "rollup",
+   "bundler",
+   "build tool",
+   "javascript",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -44749,6 +49685,18 @@
   ]
  },
  {
+  "name": "ruby-logo",
+  "category": "Brands",
+  "tags": [
+   "ruby",
+   "programming language",
+   "gem",
+   "rails",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "rug",
   "category": "Home",
   "tags": [
@@ -44795,6 +49743,31 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "rust-logo",
+  "category": "Brands",
+  "tags": [
+   "rust",
+   "programming language",
+   "rustlang",
+   "gear",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "ryanair-logo",
+  "category": "Brands",
+  "tags": [
+   "ryanair",
+   "airline",
+   "harp",
+   "ireland",
+   "travel",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -44866,6 +49839,18 @@
   ]
  },
  {
+  "name": "salesforce-logo",
+  "category": "Brands",
+  "tags": [
+   "salesforce",
+   "crm",
+   "cloud",
+   "sales",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "salt",
   "category": "Food",
   "tags": [
@@ -44913,6 +49898,20 @@
    "lunch",
    "bread",
    "sub"
+  ]
+ },
+ {
+  "name": "santander-logo",
+  "category": "Brands",
+  "tags": [
+   "santander",
+   "banco santander",
+   "bank",
+   "banking",
+   "flame",
+   "finance",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -44976,6 +49975,18 @@
    "carpenter",
    "woodwork",
    "tool"
+  ]
+ },
+ {
+  "name": "scala-logo",
+  "category": "Brands",
+  "tags": [
+   "scala",
+   "programming language",
+   "jvm",
+   "functional",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -45622,6 +50633,19 @@
   ]
  },
  {
+  "name": "seat-logo",
+  "category": "Brands",
+  "tags": [
+   "seat",
+   "cupra",
+   "spain",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "seat-recline",
   "category": "Transport",
   "tags": [
@@ -45701,6 +50725,19 @@
    "skip ahead",
    "seek",
    "jump"
+  ]
+ },
+ {
+  "name": "segment-logo",
+  "category": "Brands",
+  "tags": [
+   "segment",
+   "twilio",
+   "customer data",
+   "analytics",
+   "data pipeline",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -45914,6 +50951,31 @@
   ]
  },
  {
+  "name": "sendgrid-logo",
+  "category": "Brands",
+  "tags": [
+   "sendgrid",
+   "twilio",
+   "email",
+   "email api",
+   "transactional email",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "sentry-logo",
+  "category": "Brands",
+  "tags": [
+   "sentry",
+   "error tracking",
+   "monitoring",
+   "debugging",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "separator",
   "category": "Editor",
   "tags": [
@@ -46093,6 +51155,20 @@
   ]
  },
  {
+  "name": "sharepoint-logo",
+  "category": "Brands",
+  "tags": [
+   "sharepoint",
+   "microsoft sharepoint",
+   "microsoft",
+   "intranet",
+   "collaboration",
+   "office",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "shaving-brush",
   "category": "Objects",
   "tags": [
@@ -46100,6 +51176,19 @@
    "shaving",
    "barber",
    "grooming"
+  ]
+ },
+ {
+  "name": "shazam-logo",
+  "category": "Brands",
+  "tags": [
+   "shazam",
+   "apple",
+   "music recognition",
+   "music",
+   "song",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -46586,6 +51675,19 @@
    "wish",
    "meteor",
    "falling star"
+  ]
+ },
+ {
+  "name": "shopee-logo",
+  "category": "Brands",
+  "tags": [
+   "shopee",
+   "shopping",
+   "ecommerce",
+   "store",
+   "southeast asia",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -47458,6 +52560,18 @@
   ]
  },
  {
+  "name": "signal-logo",
+  "category": "Brands",
+  "tags": [
+   "signal",
+   "messaging",
+   "private messenger",
+   "encrypted chat",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "signal-lte",
   "category": "Devices",
   "tags": [
@@ -47530,6 +52644,19 @@
    "disabled",
    "slash",
    "sim missing"
+  ]
+ },
+ {
+  "name": "singapore-airlines-logo",
+  "category": "Brands",
+  "tags": [
+   "singapore airlines",
+   "airline",
+   "bird",
+   "singapore",
+   "travel",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -47738,6 +52865,19 @@
    "calling",
    "chat",
    "s",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "skyscanner-logo",
+  "category": "Brands",
+  "tags": [
+   "skyscanner",
+   "flights",
+   "travel",
+   "sunrise",
+   "search",
    "logo",
    "brand"
   ]
@@ -49012,6 +54152,20 @@
   ]
  },
  {
+  "name": "sofi-logo",
+  "category": "Brands",
+  "tags": [
+   "sofi",
+   "social finance",
+   "fintech",
+   "banking",
+   "loans",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "soil",
   "category": "Nature",
   "tags": [
@@ -49069,6 +54223,19 @@
   ]
  },
  {
+  "name": "solana-logo",
+  "category": "Brands",
+  "tags": [
+   "solana",
+   "sol",
+   "crypto",
+   "cryptocurrency",
+   "blockchain",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "solar-panel",
   "category": "Science",
   "tags": [
@@ -49098,6 +54265,19 @@
    "sun",
    "astronomy",
    "space"
+  ]
+ },
+ {
+  "name": "solidjs-logo",
+  "category": "Brands",
+  "tags": [
+   "solidjs",
+   "solid",
+   "javascript",
+   "ui library",
+   "reactive",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -49237,6 +54417,19 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "southwest-logo",
+  "category": "Brands",
+  "tags": [
+   "southwest",
+   "southwest airlines",
+   "airline",
+   "heart",
+   "travel",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -49634,6 +54827,19 @@
   ]
  },
  {
+  "name": "spring-logo",
+  "category": "Brands",
+  "tags": [
+   "spring",
+   "spring boot",
+   "java",
+   "framework",
+   "leaf",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "sprinkler",
   "category": "Home",
   "tags": [
@@ -49987,6 +55193,19 @@
   ]
  },
  {
+  "name": "stack-exchange-logo",
+  "category": "Brands",
+  "tags": [
+   "stack exchange",
+   "questions",
+   "answers",
+   "q&a",
+   "community",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "stack-lightning",
   "category": "Science",
   "tags": [
@@ -50067,6 +55286,19 @@
    "rings",
    "baby toy",
    "pyramid"
+  ]
+ },
+ {
+  "name": "stackoverflow-logo",
+  "category": "Brands",
+  "tags": [
+   "stackoverflow",
+   "stack overflow",
+   "questions",
+   "developer",
+   "community",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -50279,6 +55511,19 @@
   ]
  },
  {
+  "name": "steam-logo",
+  "category": "Brands",
+  "tags": [
+   "steam",
+   "valve",
+   "gaming",
+   "games",
+   "store",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "steering-wheel",
   "category": "Transport",
   "tags": [
@@ -50481,6 +55726,18 @@
   ]
  },
  {
+  "name": "storybook-logo",
+  "category": "Brands",
+  "tags": [
+   "storybook",
+   "ui components",
+   "design system",
+   "frontend",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "stove",
   "category": "Home",
   "tags": [
@@ -50491,6 +55748,19 @@
   ]
  },
  {
+  "name": "strapi-logo",
+  "category": "Brands",
+  "tags": [
+   "strapi",
+   "cms",
+   "headless cms",
+   "content",
+   "api",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "strategy",
   "category": "Business",
   "tags": [
@@ -50498,6 +55768,31 @@
    "playbook",
    "tactics",
    "plan"
+  ]
+ },
+ {
+  "name": "strava-logo",
+  "category": "Brands",
+  "tags": [
+   "strava",
+   "running",
+   "cycling",
+   "fitness",
+   "workout tracker",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "streamlit-logo",
+  "category": "Brands",
+  "tags": [
+   "streamlit",
+   "python",
+   "data apps",
+   "dashboard",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -50673,6 +55968,33 @@
   ]
  },
  {
+  "name": "subaru-logo",
+  "category": "Brands",
+  "tags": [
+   "subaru",
+   "pleiades",
+   "stars",
+   "japan",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "sublime-text-logo",
+  "category": "Brands",
+  "tags": [
+   "sublime text",
+   "sublime",
+   "text editor",
+   "editor",
+   "code",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "submarine",
   "category": "Transport",
   "tags": [
@@ -50698,6 +56020,19 @@
    "proper subset",
    "set",
    "math"
+  ]
+ },
+ {
+  "name": "substack-logo",
+  "category": "Brands",
+  "tags": [
+   "substack",
+   "newsletter",
+   "publishing",
+   "writing",
+   "blog",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -50849,6 +56184,19 @@
   ]
  },
  {
+  "name": "sumup-logo",
+  "category": "Brands",
+  "tags": [
+   "sumup",
+   "payments",
+   "card reader",
+   "point of sale",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "sun",
   "category": "Weather",
   "tags": [
@@ -50960,6 +56308,31 @@
   ]
  },
  {
+  "name": "suno-logo",
+  "category": "Brands",
+  "tags": [
+   "suno",
+   "ai music",
+   "music",
+   "song generator",
+   "ai",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "supabase-logo",
+  "category": "Brands",
+  "tags": [
+   "supabase",
+   "database",
+   "postgres",
+   "backend",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "super-mario",
   "category": "Brands",
   "tags": [
@@ -51054,6 +56427,43 @@
   ]
  },
  {
+  "name": "suzuki-logo",
+  "category": "Brands",
+  "tags": [
+   "suzuki",
+   "motorcycle",
+   "japan",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "svelte-logo",
+  "category": "Brands",
+  "tags": [
+   "svelte",
+   "sveltejs",
+   "framework",
+   "javascript",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "swagger-logo",
+  "category": "Brands",
+  "tags": [
+   "swagger",
+   "openapi",
+   "api",
+   "documentation",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "swap",
   "category": "Interface",
   "tags": [
@@ -51105,6 +56515,32 @@
    "jumper",
    "knit",
    "clothing"
+  ]
+ },
+ {
+  "name": "swift-logo",
+  "category": "Brands",
+  "tags": [
+   "swift",
+   "apple",
+   "programming language",
+   "ios",
+   "bird",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "swiggy-logo",
+  "category": "Brands",
+  "tags": [
+   "swiggy",
+   "food delivery",
+   "delivery",
+   "restaurants",
+   "india",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -51267,6 +56703,18 @@
   ]
  },
  {
+  "name": "symfony-logo",
+  "category": "Brands",
+  "tags": [
+   "symfony",
+   "php",
+   "web framework",
+   "sf",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "symmetry-horizontal",
   "category": "Design",
   "tags": [
@@ -51294,6 +56742,32 @@
    "judaism",
    "religion",
    "worship"
+  ]
+ },
+ {
+  "name": "syncthing-logo",
+  "category": "Brands",
+  "tags": [
+   "syncthing",
+   "file sync",
+   "peer to peer",
+   "sync",
+   "open source",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "synthesia-logo",
+  "category": "Brands",
+  "tags": [
+   "synthesia",
+   "ai video",
+   "avatar",
+   "video generation",
+   "ai",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -51555,6 +57029,32 @@
    "table",
    "divide",
    "spreadsheet"
+  ]
+ },
+ {
+  "name": "tableau-logo",
+  "category": "Brands",
+  "tags": [
+   "tableau",
+   "analytics",
+   "business intelligence",
+   "visualization",
+   "salesforce",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "tabnine-logo",
+  "category": "Brands",
+  "tags": [
+   "tabnine",
+   "code completion",
+   "ai",
+   "coding",
+   "assistant",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -51867,6 +57367,20 @@
   ]
  },
  {
+  "name": "target-logo",
+  "category": "Brands",
+  "tags": [
+   "target",
+   "target corporation",
+   "bullseye",
+   "retail",
+   "store",
+   "shopping",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "target-slash",
   "category": "Sports",
   "tags": [
@@ -51874,6 +57388,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "tauri-logo",
+  "category": "Brands",
+  "tags": [
+   "tauri",
+   "desktop app",
+   "rust",
+   "framework",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -52029,6 +57555,18 @@
   ]
  },
  {
+  "name": "temporal-logo",
+  "category": "Brands",
+  "tags": [
+   "temporal",
+   "workflow",
+   "orchestration",
+   "durable execution",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "tennis-ball",
   "category": "Sports",
   "tags": [
@@ -52036,6 +57574,19 @@
    "sport",
    "tennis",
    "game"
+  ]
+ },
+ {
+  "name": "tensorflow-logo",
+  "category": "Brands",
+  "tags": [
+   "tensorflow",
+   "google",
+   "machine learning",
+   "ai",
+   "deep learning",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -52096,6 +57647,33 @@
    "console",
    "error",
    "x"
+  ]
+ },
+ {
+  "name": "terraform-logo",
+  "category": "Brands",
+  "tags": [
+   "terraform",
+   "hashicorp",
+   "infrastructure as code",
+   "devops",
+   "cloud",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "tesla-logo",
+  "category": "Brands",
+  "tags": [
+   "tesla",
+   "electric",
+   "car",
+   "ev",
+   "automotive",
+   "t",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -53188,6 +58766,19 @@
   ]
  },
  {
+  "name": "three-js-logo",
+  "category": "Brands",
+  "tags": [
+   "three.js",
+   "threejs",
+   "webgl",
+   "3d",
+   "javascript",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "thumbs-down",
   "category": "Interface",
   "tags": [
@@ -53339,6 +58930,19 @@
    "refund",
    "admission",
    "x"
+  ]
+ },
+ {
+  "name": "tidal-logo",
+  "category": "Brands",
+  "tags": [
+   "tidal",
+   "music",
+   "streaming",
+   "hifi",
+   "audio",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -53500,6 +59104,19 @@
   ]
  },
  {
+  "name": "tinder-logo",
+  "category": "Brands",
+  "tags": [
+   "tinder",
+   "dating",
+   "match",
+   "flame",
+   "swipe",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "tip-jar",
   "category": "Commerce",
   "tags": [
@@ -53531,6 +59148,18 @@
   ]
  },
  {
+  "name": "tldraw-logo",
+  "category": "Brands",
+  "tags": [
+   "tldraw",
+   "whiteboard",
+   "drawing",
+   "canvas",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "toast",
   "category": "Food",
   "tags": [
@@ -53538,6 +59167,19 @@
    "bread",
    "breakfast",
    "slice"
+  ]
+ },
+ {
+  "name": "todoist-logo",
+  "category": "Brands",
+  "tags": [
+   "todoist",
+   "to-do",
+   "tasks",
+   "checklist",
+   "productivity",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -53599,6 +59241,20 @@
    "vegetable",
    "red",
    "food"
+  ]
+ },
+ {
+  "name": "ton-logo",
+  "category": "Brands",
+  "tags": [
+   "ton",
+   "toncoin",
+   "the open network",
+   "telegram",
+   "crypto",
+   "blockchain",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -53771,6 +59427,20 @@
   ]
  },
  {
+  "name": "tor-logo",
+  "category": "Brands",
+  "tags": [
+   "tor",
+   "tor browser",
+   "onion",
+   "privacy",
+   "browser",
+   "anonymity",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "torch",
   "category": "Objects",
   "tags": [
@@ -53895,6 +59565,18 @@
    "building block",
    "toy",
    "construction"
+  ]
+ },
+ {
+  "name": "toyota-logo",
+  "category": "Brands",
+  "tags": [
+   "toyota",
+   "car",
+   "automotive",
+   "ellipses",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -54619,6 +60301,19 @@
   ]
  },
  {
+  "name": "tripadvisor-logo",
+  "category": "Brands",
+  "tags": [
+   "tripadvisor",
+   "travel",
+   "reviews",
+   "owl",
+   "hotels",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "tripod",
   "category": "Media",
   "tags": [
@@ -54638,6 +60333,19 @@
    "hand truck",
    "airport",
    "cart"
+  ]
+ },
+ {
+  "name": "tron-logo",
+  "category": "Brands",
+  "tags": [
+   "tron",
+   "trx",
+   "crypto",
+   "blockchain",
+   "cryptocurrency",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -54800,6 +60508,19 @@
   ]
  },
  {
+  "name": "turborepo-logo",
+  "category": "Brands",
+  "tags": [
+   "turborepo",
+   "turbo",
+   "monorepo",
+   "build system",
+   "vercel",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "turkey",
   "category": "Animals",
   "tags": [
@@ -54807,6 +60528,19 @@
    "thanksgiving",
    "bird",
    "farm"
+  ]
+ },
+ {
+  "name": "turkish-airlines-logo",
+  "category": "Brands",
+  "tags": [
+   "turkish airlines",
+   "airline",
+   "bird",
+   "turkey",
+   "travel",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -54860,6 +60594,19 @@
   ]
  },
  {
+  "name": "turso-logo",
+  "category": "Brands",
+  "tags": [
+   "turso",
+   "sqlite",
+   "libsql",
+   "database",
+   "edge",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "turtle",
   "category": "Animals",
   "tags": [
@@ -54890,6 +60637,19 @@
    "branch",
    "stick",
    "wood"
+  ]
+ },
+ {
+  "name": "twilio-logo",
+  "category": "Brands",
+  "tags": [
+   "twilio",
+   "sms",
+   "messaging",
+   "voice",
+   "api",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -54950,6 +60710,31 @@
   ]
  },
  {
+  "name": "typeform-logo",
+  "category": "Brands",
+  "tags": [
+   "typeform",
+   "forms",
+   "surveys",
+   "questionnaire",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "typescript-logo",
+  "category": "Brands",
+  "tags": [
+   "typescript",
+   "ts",
+   "programming language",
+   "javascript",
+   "code",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "u-turn",
   "category": "Maps",
   "tags": [
@@ -54968,6 +60753,44 @@
    "taxi",
    "transportation",
    "delivery",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "ubisoft-logo",
+  "category": "Brands",
+  "tags": [
+   "ubisoft",
+   "game",
+   "gaming",
+   "publisher",
+   "swirl",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "ubuntu-logo",
+  "category": "Brands",
+  "tags": [
+   "ubuntu",
+   "linux",
+   "operating system",
+   "canonical",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "udemy-logo",
+  "category": "Brands",
+  "tags": [
+   "udemy",
+   "online courses",
+   "learning",
+   "education",
+   "u",
    "logo",
    "brand"
   ]
@@ -55035,6 +60858,19 @@
   ]
  },
  {
+  "name": "under-armour-logo",
+  "category": "Brands",
+  "tags": [
+   "under armour",
+   "sportswear",
+   "fashion",
+   "sport",
+   "athletic",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "underwear",
   "category": "Objects",
   "tags": [
@@ -55077,6 +60913,19 @@
   ]
  },
  {
+  "name": "unity-logo",
+  "category": "Brands",
+  "tags": [
+   "unity",
+   "game engine",
+   "games",
+   "game development",
+   "3d",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "universe",
   "category": "Science",
   "tags": [
@@ -55084,6 +60933,19 @@
    "cosmos",
    "space",
    "orbits"
+  ]
+ },
+ {
+  "name": "unreal-engine-logo",
+  "category": "Brands",
+  "tags": [
+   "unreal engine",
+   "unreal",
+   "epic games",
+   "game engine",
+   "games",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -55117,6 +60979,18 @@
    "no upload",
    "blocked",
    "offline"
+  ]
+ },
+ {
+  "name": "upstash-logo",
+  "category": "Brands",
+  "tags": [
+   "upstash",
+   "redis",
+   "database",
+   "serverless",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -55911,6 +61785,19 @@
   ]
  },
  {
+  "name": "v0-logo",
+  "category": "Brands",
+  "tags": [
+   "v0",
+   "vercel",
+   "ai",
+   "app builder",
+   "ui generator",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "vaccine-vial",
   "category": "Health",
   "tags": [
@@ -55940,6 +61827,20 @@
    "cleaning",
    "hoover",
    "vacuum cleaner"
+  ]
+ },
+ {
+  "name": "valorant-logo",
+  "category": "Brands",
+  "tags": [
+   "valorant",
+   "riot games",
+   "game",
+   "gaming",
+   "shooter",
+   "v",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -56105,6 +62006,32 @@
    "plant-based",
    "vegan",
    "vegetarian"
+  ]
+ },
+ {
+  "name": "venmo-logo",
+  "category": "Brands",
+  "tags": [
+   "venmo",
+   "paypal",
+   "payments",
+   "money transfer",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "vercel-logo",
+  "category": "Brands",
+  "tags": [
+   "vercel",
+   "hosting",
+   "deployment",
+   "cloud",
+   "triangle",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -56392,6 +62319,18 @@
   ]
  },
  {
+  "name": "vim-logo",
+  "category": "Brands",
+  "tags": [
+   "vim",
+   "text editor",
+   "editor",
+   "terminal",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "vimeo-logo",
   "category": "Brands",
   "tags": [
@@ -56482,6 +62421,32 @@
   ]
  },
  {
+  "name": "visual-studio-logo",
+  "category": "Brands",
+  "tags": [
+   "visual studio",
+   "microsoft",
+   "ide",
+   "code",
+   "dotnet",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "vite-logo",
+  "category": "Brands",
+  "tags": [
+   "vite",
+   "vitejs",
+   "build tool",
+   "bundler",
+   "lightning",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "vk-logo",
   "category": "Brands",
   "tags": [
@@ -56489,6 +62454,19 @@
    "vkontakte",
    "social network",
    "social media",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "vlc-logo",
+  "category": "Brands",
+  "tags": [
+   "vlc",
+   "videolan",
+   "media player",
+   "video",
+   "cone",
    "logo",
    "brand"
   ]
@@ -56565,6 +62543,18 @@
   ]
  },
  {
+  "name": "volkswagen-logo",
+  "category": "Brands",
+  "tags": [
+   "volkswagen",
+   "vw",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "volleyball",
   "category": "Sports",
   "tags": [
@@ -56573,6 +62563,19 @@
    "beach",
    "net",
    "sport"
+  ]
+ },
+ {
+  "name": "volvo-logo",
+  "category": "Brands",
+  "tags": [
+   "volvo",
+   "iron mark",
+   "sweden",
+   "car",
+   "automotive",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -56605,6 +62608,32 @@
    "vr",
    "metaverse",
    "3d"
+  ]
+ },
+ {
+  "name": "vsco-logo",
+  "category": "Brands",
+  "tags": [
+   "vsco",
+   "photography",
+   "photo editing",
+   "camera",
+   "filters",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "vuejs-logo",
+  "category": "Brands",
+  "tags": [
+   "vuejs",
+   "vue.js",
+   "vue",
+   "javascript",
+   "framework",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -56749,6 +62778,20 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "walmart-logo",
+  "category": "Brands",
+  "tags": [
+   "walmart",
+   "spark",
+   "retail",
+   "supermarket",
+   "store",
+   "shopping",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -57395,6 +63438,32 @@
   ]
  },
  {
+  "name": "wear-os-logo",
+  "category": "Brands",
+  "tags": [
+   "wear os",
+   "google",
+   "smartwatch",
+   "wearable",
+   "android",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "webassembly-logo",
+  "category": "Brands",
+  "tags": [
+   "webassembly",
+   "wasm",
+   "web",
+   "bytecode",
+   "wa",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "webcam",
   "category": "Media",
   "tags": [
@@ -57413,6 +63482,19 @@
    "privacy",
    "webcam",
    "disabled"
+  ]
+ },
+ {
+  "name": "webex-logo",
+  "category": "Brands",
+  "tags": [
+   "webex",
+   "cisco",
+   "video call",
+   "meetings",
+   "conference",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -57449,6 +63531,19 @@
   ]
  },
  {
+  "name": "webpack-logo",
+  "category": "Brands",
+  "tags": [
+   "webpack",
+   "bundler",
+   "build tool",
+   "javascript",
+   "cube",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "wechat-logo",
   "category": "Brands",
   "tags": [
@@ -57458,6 +63553,19 @@
    "messenger",
    "social",
    "tencent",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "weibo-logo",
+  "category": "Brands",
+  "tags": [
+   "weibo",
+   "sina weibo",
+   "social media",
+   "microblog",
+   "china",
    "logo",
    "brand"
   ]
@@ -57603,6 +63711,18 @@
    "inaccessible",
    "accessibility",
    "wheelchair"
+  ]
+ },
+ {
+  "name": "whimsical-logo",
+  "category": "Brands",
+  "tags": [
+   "whimsical",
+   "whiteboard",
+   "flowcharts",
+   "diagrams",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -57968,6 +64088,20 @@
   ]
  },
  {
+  "name": "windsurf-logo",
+  "category": "Brands",
+  "tags": [
+   "windsurf",
+   "codeium",
+   "code editor",
+   "ai",
+   "coding",
+   "ide",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "wine",
   "category": "Food",
   "tags": [
@@ -58002,6 +64136,18 @@
   ]
  },
  {
+  "name": "wix-logo",
+  "category": "Brands",
+  "tags": [
+   "wix",
+   "website builder",
+   "websites",
+   "hosting",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "wizard-hat",
   "category": "Objects",
   "tags": [
@@ -58029,6 +64175,19 @@
    "person",
    "figure",
    "woman"
+  ]
+ },
+ {
+  "name": "woocommerce-logo",
+  "category": "Brands",
+  "tags": [
+   "woocommerce",
+   "woo",
+   "wordpress",
+   "e-commerce",
+   "shop",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -58072,6 +64231,21 @@
    "workstation",
    "pc",
    "desktop tower"
+  ]
+ },
+ {
+  "name": "world-of-warcraft-logo",
+  "category": "Brands",
+  "tags": [
+   "world of warcraft",
+   "warcraft",
+   "wow",
+   "blizzard",
+   "mmo",
+   "game",
+   "gaming",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -58149,6 +64323,18 @@
    "off",
    "disabled",
    "hidden"
+  ]
+ },
+ {
+  "name": "wwe-logo",
+  "category": "Brands",
+  "tags": [
+   "wwe",
+   "wrestling",
+   "entertainment",
+   "sports",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -58234,6 +64420,32 @@
   ]
  },
  {
+  "name": "xbox-logo",
+  "category": "Brands",
+  "tags": [
+   "xbox",
+   "gaming",
+   "console",
+   "games",
+   "microsoft",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "xiaomi-logo",
+  "category": "Brands",
+  "tags": [
+   "xiaomi",
+   "mi",
+   "phone",
+   "smartphone",
+   "electronics",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "xing-logo",
   "category": "Brands",
   "tags": [
@@ -58247,6 +64459,31 @@
   ]
  },
  {
+  "name": "yahoo-logo",
+  "category": "Brands",
+  "tags": [
+   "yahoo",
+   "search",
+   "mail",
+   "news",
+   "web",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "yandex-logo",
+  "category": "Brands",
+  "tags": [
+   "yandex",
+   "search engine",
+   "search",
+   "russia",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "yarn",
   "category": "Objects",
   "tags": [
@@ -58254,6 +64491,18 @@
    "knitting",
    "wool",
    "craft"
+  ]
+ },
+ {
+  "name": "ycombinator-logo",
+  "category": "Brands",
+  "tags": [
+   "y combinator",
+   "startup",
+   "accelerator",
+   "y",
+   "logo",
+   "brand"
   ]
  },
  {
@@ -58302,6 +64551,20 @@
   ]
  },
  {
+  "name": "youtube-kids-logo",
+  "category": "Brands",
+  "tags": [
+   "youtube kids",
+   "youtube",
+   "google",
+   "video",
+   "kids",
+   "children",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "youtube-logo",
   "category": "Brands",
   "tags": [
@@ -58310,6 +64573,94 @@
    "streaming",
    "play",
    "media",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "youtube-music-logo",
+  "category": "Brands",
+  "tags": [
+   "youtube music",
+   "youtube",
+   "music",
+   "streaming",
+   "audio",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "youtube-shorts-logo",
+  "category": "Brands",
+  "tags": [
+   "youtube shorts",
+   "shorts",
+   "youtube",
+   "short video",
+   "video",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "zapier-logo",
+  "category": "Brands",
+  "tags": [
+   "zapier",
+   "automation",
+   "workflow",
+   "integrations",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "zed-logo",
+  "category": "Brands",
+  "tags": [
+   "zed",
+   "code editor",
+   "editor",
+   "ide",
+   "coding",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "zelle-logo",
+  "category": "Brands",
+  "tags": [
+   "zelle",
+   "payments",
+   "money transfer",
+   "bank",
+   "finance",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "zendesk-logo",
+  "category": "Brands",
+  "tags": [
+   "zendesk",
+   "customer support",
+   "help desk",
+   "tickets",
+   "logo",
+   "brand"
+  ]
+ },
+ {
+  "name": "zeplin-logo",
+  "category": "Brands",
+  "tags": [
+   "zeplin",
+   "design handoff",
+   "design",
+   "developers",
    "logo",
    "brand"
   ]
@@ -58335,6 +64686,18 @@
   ]
  },
  {
+  "name": "zig-logo",
+  "category": "Brands",
+  "tags": [
+   "zig",
+   "programming language",
+   "systems",
+   "compiler",
+   "logo",
+   "brand"
+  ]
+ },
+ {
   "name": "zigzag",
   "category": "Design",
   "tags": [
@@ -58342,6 +64705,19 @@
    "wave",
    "line",
    "pattern"
+  ]
+ },
+ {
+  "name": "zillow-logo",
+  "category": "Brands",
+  "tags": [
+   "zillow",
+   "real estate",
+   "homes",
+   "house",
+   "property",
+   "logo",
+   "brand"
   ]
  },
  {

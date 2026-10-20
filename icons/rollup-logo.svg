@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="rollup,bundler,build tool,javascript,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 32 H144 C176 32 200 60 200 92 C200 116 188 136 168 148 L200 216 H56 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 32 H144 C176 32 200 60 200 92 C200 116 188 136 168 148 L200 216 H56 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 208 C88 160 116 96 148 72 C151.82 69.14 155.56 68 159 68 C166.45 68 172 73.4 172 82 C172 86.06 170.93 91.12 168 96 C165.53 100.94 159.75 104 154 104 C150.45 104 147.06 103.06 144 100"/>
+  </g>
+</svg>

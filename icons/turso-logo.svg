@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="turso,sqlite,libsql,database,edge,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 48 L64 76 L192 76 L196 48 L220 84 L220 96 L184 104 L180 160 L156 192 L128 208 L100 192 L76 160 L72 104 L36 96 L36 84 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 48 L64 76 L192 76 L196 48 L220 84 L220 96 L184 104 L180 160 L156 192 L128 208 L100 192 L76 160 L72 104 L36 96 L36 84 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 116 L112 128"/>
+    <path d="M164 116 L144 128"/>
+    <path d="M104 156 C110 164 118 168 128 168 C138 168 146 164 152 156"/>
+  </g>
+</svg>

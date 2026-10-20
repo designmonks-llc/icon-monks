@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="amd,chips,processor,cpu,gpu,semiconductor,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 40 L216 40 L216 216 L164 164 L164 92 L92 92 Z"/>
+    <path d="M76 116 L40 152 L40 216 L100 216 L140 176 L76 176 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 L216 40 L216 216 L164 164 L164 92 L92 92 Z"/>
+    <path d="M76 116 L40 152 L40 216 L100 216 L140 176 L76 176 Z"/>
+  </g>
+</svg>

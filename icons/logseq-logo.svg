@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="logseq,notes,knowledge base,outliner,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="60" cy="84" rx="26" ry="32"/>
+    <ellipse cx="148" cy="56" rx="32" ry="20"/>
+    <ellipse cx="148" cy="164" rx="68" ry="52"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="60" cy="84" rx="26" ry="32"/>
+    <ellipse cx="148" cy="56" rx="32" ry="20"/>
+    <ellipse cx="148" cy="164" rx="68" ry="52"/>
+  </g>
+</svg>

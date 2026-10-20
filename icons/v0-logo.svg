@@ -1,0 +1,8 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="v0,vercel,ai,app builder,ui generator,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 96 L96 168 V96"/>
+    <path d="M144 88 H190 A24 24 0 0 1 214 112 V160"/>
+    <path d="M136 96 V144 A24 24 0 0 0 160 168 H206"/>
+    <path d="M206 98 L146 158"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="firefox,mozilla,browser,web browser,fox,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M72 56 C52 76 40 104 40 136 A88 88 0 0 0 216 136 C216 96 196 56 152 32 C140 48 132 64 128 84 A44 44 0 0 0 100 94 L80 92 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 56 C52 76 40 104 40 136 A88 88 0 0 0 216 136 C216 96 196 56 152 32 C140 48 132 64 128 84"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 94 A44 44 0 1 1 86 144"/>
+    <path d="M72 56 L80 92 C100 92 120 100 136 116 C112 116 96 128 86 144"/>
+  </g>
+</svg>

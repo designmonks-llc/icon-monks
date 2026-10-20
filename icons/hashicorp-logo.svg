@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="hashicorp,terraform,infrastructure,devops,cloud,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 40 L48 76 L48 180"/>
+    <path d="M144 216 L208 180 L208 76"/>
+    <path d="M124 80 L88 100 L88 200"/>
+    <path d="M132 176 L168 156 L168 56"/>
+    <path d="M88 128 L168 128"/>
+  </g>
+</svg>

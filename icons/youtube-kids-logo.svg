@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="youtube kids,youtube,google,video,kids,children,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M172 65 A36 36 0 0 1 212 96 L218 136 A36 36 0 0 1 187 176 L84 191 A36 36 0 0 1 44 160 L38 120 A36 36 0 0 1 69 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 65 A36 36 0 0 1 212 96 L218 136 A36 36 0 0 1 187 176 L84 191 A36 36 0 0 1 44 160 L38 120 A36 36 0 0 1 69 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 103 L164 123 L112 159 Z"/>
+  </g>
+</svg>

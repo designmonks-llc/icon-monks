@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="wear os,google,smartwatch,wearable,android,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 72 L100 192"/>
+    <path d="M108 72 L160 192"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="184" cy="120" r="16"/>
+    <circle cx="208" cy="72" r="16"/>
+  </g>
+</svg>

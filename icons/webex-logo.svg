@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="webex,cisco,video call,meetings,conference,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 92 C44 156 64 200 92 200 C116 200 124 164 132 128 C140 92 148 56 176 56 C196 56 208 72 212 96"/>
+    <path d="M48 100 C52 72 64 56 84 56 C108 56 116 92 124 128 C132 164 140 200 168 200 C196 200 212 156 216 96"/>
+  </g>
+</svg>

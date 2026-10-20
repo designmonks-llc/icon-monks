@@ -1,0 +1,14 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="kik,messenger,messaging,chat,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 L40 216"/>
+    <path d="M92 112 L40 164"/>
+    <path d="M62 144 L96 216"/>
+    <path d="M128 120 L128 216"/>
+    <path d="M168 40 L168 216"/>
+    <path d="M220 112 L168 164"/>
+    <path d="M190 144 L224 216"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="128" cy="64" r="16"/>
+  </g>
+</svg>

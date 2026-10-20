@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="planetscale,mysql,database,serverless,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M213 63 A96 96 0 0 0 128 32 A96 96 0 0 0 32 128 A96 96 0 0 0 63 213 Z"/>
+    <path d="M224 128 A96 96 0 0 1 128 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M213 63 A96 96 0 0 0 128 32 A96 96 0 0 0 32 128 A96 96 0 0 0 63 213 Z"/>
+    <path d="M224 128 A96 96 0 0 1 128 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 104 L60 180"/>
+  </g>
+</svg>

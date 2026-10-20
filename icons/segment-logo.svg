@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="segment,twilio,customer data,analytics,data pipeline,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 103 A96 96 0 0 1 128 32 A96 96 0 0 1 183 49"/>
+    <path d="M221 153 A96 96 0 0 1 128 224 A96 96 0 0 1 73 207"/>
+    <path d="M112 116 L216 116"/>
+    <path d="M40 140 L144 140"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="172" cy="80" r="16"/>
+    <circle cx="84" cy="176" r="16"/>
+  </g>
+</svg>

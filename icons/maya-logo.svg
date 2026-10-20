@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="autodesk maya,maya,autodesk,3d,animation,modeling,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="80" y="40" width="144" height="152" rx="8"/>
+    <path d="M80 40 L40 64 L40 208 L80 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="40" width="144" height="152" rx="8"/>
+    <path d="M80 40 L40 64 L40 208 L80 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 152 L112 76 L152 132 L192 76 L192 152"/>
+  </g>
+</svg>

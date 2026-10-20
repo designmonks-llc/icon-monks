@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="whimsical,whiteboard,flowcharts,diagrams,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M150 64 L214 128 L150 192 L86 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 64 L214 128 L150 192 L86 128 Z"/>
+    <path d="M106 64 L42 128 L106 192"/>
+  </g>
+</svg>

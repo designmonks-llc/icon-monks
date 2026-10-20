@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="air canada,airline,maple leaf,canada,travel,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 60 L138 80 L150 74 L146 104 L168 84 L174 96 L192 92 L184 116 L192 122 L160 144 L162 156 L132 152 L124 152 L94 156 L96 144 L64 122 L72 116 L64 92 L82 96 L88 84 L110 104 L106 74 L118 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 60 L138 80 L150 74 L146 104 L168 84 L174 96 L192 92 L184 116 L192 122 L160 144 L162 156 L132 152 L124 152 L94 156 L96 144 L64 122 L72 116 L64 92 L82 96 L88 84 L110 104 L106 74 L118 80 Z"/>
+    <path d="M100 220 A96 96 0 1 1 156 220"/>
+    <path d="M128 152 L128 224"/>
+  </g>
+</svg>

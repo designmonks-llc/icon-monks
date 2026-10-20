@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="spring,spring boot,java,framework,leaf,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 176 C68 160 64 144 64 128 C64 108 80 96 108 92 C136 88 160 84 176 72 C186 92 190 112 190 132 C190 148 180 162 164 172 C152 180 136 184 120 184 C104 184 92 182 80 176 Z"/>
+    <path d="M164 104 C152 140 120 164 80 176"/>
+  </g>
+</svg>

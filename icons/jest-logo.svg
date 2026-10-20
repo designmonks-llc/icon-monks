@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="jest,testing,test runner,javascript,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 32 L192 32 L176 104 L152 66 L128 104 Z"/>
+    <path d="M68 172 H192 V184 C192 200 180 206 164 210 C140 216 128 224 104 224 C84 224 68 212 68 192 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 32 L192 32 L176 104 L152 66 L128 104 Z"/>
+    <path d="M68 172 H192 V184 C192 200 180 206 164 210 C140 216 128 224 104 224 C84 224 68 212 68 192 Z"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="80" cy="138" r="16"/>
+    <circle cx="128" cy="138" r="16"/>
+    <circle cx="176" cy="138" r="16"/>
+  </g>
+</svg>

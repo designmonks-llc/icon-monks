@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="inkscape,vector,graphics,illustration,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C134 32 138 36 142 40 L212 120 C215.85 124.49 218 129.41 218 134 C218 143.72 209.59 152 196 152 H164 C158 152 155 154.5 155 158 C155 161.5 158 166 164 168 C169.57 169.86 173 174.77 173 179 C173 183.88 168.57 188 160 188 H100 C92 188 88 184.5 88 180 C88 175.5 92 170 100 168 C105.03 166.32 107 163.01 107 160 C107 155.82 102.97 152 96 152 H60 C46.41 152 38 143.72 38 134 C38 129.41 40.15 124.49 44 120 L114 40 C118 36 122 32 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C134 32 138 36 142 40 L212 120 C215.85 124.49 218 129.41 218 134 C218 143.72 209.59 152 196 152 H164 C158 152 155 154.5 155 158 C155 161.5 158 166 164 168 C169.57 169.86 173 174.77 173 179 C173 183.88 168.57 188 160 188 H100 C92 188 88 184.5 88 180 C88 175.5 92 170 100 168 C105.03 166.32 107 163.01 107 160 C107 155.82 102.97 152 96 152 H60 C46.41 152 38 143.72 38 134 C38 129.41 40.15 124.49 44 120 L114 40 C118 36 122 32 128 32 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 84 L108 104 L128 88 L148 104 L168 84"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="204" cy="200" r="16"/>
+  </g>
+</svg>

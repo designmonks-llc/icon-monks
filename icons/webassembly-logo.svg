@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="webassembly,wasm,web,bytecode,wa,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 40 H100 A28 28 0 0 0 156 40 H216 V216 H40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 H100 A28 28 0 0 0 156 40 H216 V216 H40 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 128 L74 192 L96 144 L118 192 L136 128"/>
+    <path d="M148 192 L172 128 L196 192"/>
+    <path d="M158 172 L186 172"/>
+  </g>
+</svg>

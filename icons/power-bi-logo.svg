@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="power bi,microsoft power bi,microsoft,analytics,business intelligence,dashboard,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 216 V136 A8 8 0 0 1 64 128 H104 V88 A8 8 0 0 1 112 80 H152 V40 A8 8 0 0 1 160 32 H192 A8 8 0 0 1 200 40 V216 A8 8 0 0 1 192 224 H64 A8 8 0 0 1 56 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 216 V136 A8 8 0 0 1 64 128 H104 V88 A8 8 0 0 1 112 80 H152 V40 A8 8 0 0 1 160 32 H192 A8 8 0 0 1 200 40 V216 A8 8 0 0 1 192 224 H64 A8 8 0 0 1 56 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 128 L104 224"/>
+    <path d="M152 80 L152 224"/>
+  </g>
+</svg>

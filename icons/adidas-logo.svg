@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="adidas,sportswear,fashion,three stripes,sport,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 204 L92 204 L60 148 L33 164 Z"/>
+    <path d="M120 204 L156 204 L96 100 L69 116 Z"/>
+    <path d="M184 204 L220 204 L132 52 L105 68 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 204 L92 204 L60 148 L33 164 Z"/>
+    <path d="M120 204 L156 204 L96 100 L69 116 Z"/>
+    <path d="M184 204 L220 204 L132 52 L105 68 Z"/>
+  </g>
+</svg>

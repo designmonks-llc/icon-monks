@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="chase,jpmorgan chase,bank,banking,finance,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M88 32 L168 32 L224 88 L224 168 L168 224 L88 224 L32 168 L32 88 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <rect x="104" y="104" width="48" height="48"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 32 L168 32 L224 88 L224 168 L168 224 L88 224 L32 168 L32 88 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="104" y="104" width="48" height="48"/>
+    <path d="M152 104 L224 104"/>
+    <path d="M152 152 L152 224"/>
+    <path d="M104 152 L32 152"/>
+    <path d="M104 104 L104 32"/>
+  </g>
+</svg>

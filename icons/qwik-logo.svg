@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="qwik,javascript,web framework,resumable,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M76 44 L184 44 L224 120 L188 188 L204 224 L148 208 L80 208 L32 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 44 L184 44 L224 120 L188 188 L204 224 L148 208 L80 208 L32 120 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 52 L172 116 L156 128 L184 192 L80 120 L104 112 Z"/>
+  </g>
+</svg>

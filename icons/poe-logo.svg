@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="poe,quora,chatbot,ai,chat,assistant,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M56 40 H168 A24 24 0 0 1 192 64 V120 A24 24 0 0 1 168 144 H88 L56 176 V144 A24 24 0 0 1 32 120 V64 A24 24 0 0 1 56 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 40 H168 A24 24 0 0 1 192 64 V120 A24 24 0 0 1 168 144 H88 L56 176 V144 A24 24 0 0 1 32 120 V64 A24 24 0 0 1 56 40 Z"/>
+    <path d="M80 216 L104 192 H200 A24 24 0 0 0 224 168 V96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 84 L88 100"/>
+    <path d="M136 84 L136 100"/>
+  </g>
+</svg>

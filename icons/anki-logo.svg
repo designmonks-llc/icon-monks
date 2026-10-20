@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="anki,flashcards,spaced repetition,study,learning,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="48" y="32" width="160" height="192" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="32" width="160" height="192" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 104 L117 138 L153 140 L125 163 L135 198 L104 178 L73 198 L83 163 L55 140 L91 138 Z"/>
+    <path d="M166 52 L170 74 L192 80 L172 91 L174 113 L158 98 L137 106 L146 86 L132 69 L154 71 Z"/>
+  </g>
+</svg>

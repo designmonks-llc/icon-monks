@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="streamlit,python,data apps,dashboard,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 92 L96 124 L128 76 L160 124 L224 92 L192 176 H64 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 92 L96 124 L128 76 L160 124 L224 92 L192 176 H64 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 124 L192 176"/>
+    <path d="M160 124 L192 176"/>
+  </g>
+</svg>

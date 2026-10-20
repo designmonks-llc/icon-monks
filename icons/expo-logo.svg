@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="expo,react native,mobile,framework,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M112 44 H144 L220 196 C221 198 222 199.75 222 202 C222 208.75 217 216 208 216 C200 216 196 212 192 208 L128 104 L64 208 C60 212 56 216 48 216 C39 216 34 208.75 34 202 C34 199.75 35 198 36 196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 44 H144 L220 196 C221 198 222 199.75 222 202 C222 208.75 217 216 208 216 C200 216 196 212 192 208 L128 104 L64 208 C60 212 56 216 48 216 C39 216 34 208.75 34 202 C34 199.75 35 198 36 196 Z"/>
+  </g>
+</svg>

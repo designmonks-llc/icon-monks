@@ -1,0 +1,12 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="tripadvisor,travel,reviews,owl,hotels,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="136" r="36"/>
+    <circle cx="176" cy="136" r="36"/>
+    <path d="M36 100 C60 82 96 72 128 72 C160 72 196 82 220 100"/>
+    <path d="M112 172 L128 192 L144 172"/>
+  </g>
+  <g data-role="dot" fill="currentColor">
+    <circle cx="80" cy="136" r="16"/>
+    <circle cx="176" cy="136" r="16"/>
+  </g>
+</svg>

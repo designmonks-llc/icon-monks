@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="arch linux,arch,linux,operating system,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 C112 76 76 152 32 224 C60 206 80 192 96 184 C96 164 110 150 128 150 C146 150 160 164 160 184 C176 192 196 206 224 224 C180 152 144 76 128 32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 C112 76 76 152 32 224 C60 206 80 192 96 184 C96 164 110 150 128 150 C146 150 160 164 160 184 C176 192 196 206 224 224 C180 152 144 76 128 32 Z"/>
+  </g>
+</svg>

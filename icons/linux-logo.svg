@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="linux,tux,penguin,operating system,open source,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M68 196 C60 184 56 176 56 164 C56 144 62 126 70 110 C76 100 80 92 80 76 C80 48 100 32 128 32 C156 32 176 48 176 76 C176 92 180 100 186 110 C194 126 200 144 200 164 C200 176 196 184 188 196 Z"/>
+    <ellipse cx="92" cy="208" rx="36" ry="16"/>
+    <ellipse cx="164" cy="208" rx="36" ry="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 196 C60 184 56 176 56 164 C56 144 62 126 70 110 C76 100 80 92 80 76 C80 48 100 32 128 32 C156 32 176 48 176 76 C176 92 180 100 186 110 C194 126 200 144 200 164 C200 176 196 184 188 196"/>
+    <ellipse cx="92" cy="208" rx="36" ry="16"/>
+    <ellipse cx="164" cy="208" rx="36" ry="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 124 C150 124 164 144 164 164 C164 184 148 196 128 196 C108 196 92 184 92 164 C92 144 106 124 128 124 Z"/>
+    <path d="M114 92 L142 92 L128 106 Z"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="110" cy="62" r="14"/>
+    <circle cx="146" cy="62" r="14"/>
+  </g>
+</svg>

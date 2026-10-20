@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="render,hosting,cloud,deploy,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 112 C72 112 100 108 116 84 C128 60 148 36 184 36 A40 40 0 0 1 224 76 A40 40 0 0 1 184 116 H152 C138 116 128 126 128 140 V224 H32 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 112 C72 112 100 108 116 84 C128 60 148 36 184 36 A40 40 0 0 1 224 76 A40 40 0 0 1 184 116 H152 C138 116 128 126 128 140 V224 H32 Z"/>
+  </g>
+</svg>

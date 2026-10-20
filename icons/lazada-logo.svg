@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="lazada,shopping,ecommerce,alibaba,southeast asia,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M36 72 L80 44 L128 72 L176 44 L220 72 V140 C220 164 172 192 128 212 C84 192 36 164 36 140 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 72 L80 44 L128 72 L176 44 L220 72 V140 C220 164 172 192 128 212 C84 192 36 164 36 140 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 72 L128 120 L220 72"/>
+    <path d="M128 120 L128 212"/>
+  </g>
+</svg>

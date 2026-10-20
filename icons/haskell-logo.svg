@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="haskell,programming language,functional,lambda,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 L88 128 L40 192"/>
+    <path d="M88 64 L184 192"/>
+    <path d="M136 128 L88 192"/>
+    <path d="M160 104 L216 104"/>
+    <path d="M176 144 L216 144"/>
+  </g>
+</svg>

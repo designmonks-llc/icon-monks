@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="real madrid,football,soccer,club,spain,crown,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="152" r="68"/>
+    <path d="M84 76 L76 40 L104 56 L128 32 L152 56 L180 40 L172 76 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="152" r="68"/>
+    <path d="M84 76 L76 40 L104 56 L128 32 L152 56 L180 40 L172 76 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 120 L160 212"/>
+    <path d="M96 92 L188 184"/>
+  </g>
+</svg>

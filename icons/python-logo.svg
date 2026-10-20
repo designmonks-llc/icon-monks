@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="python,programming language,code,snake,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 40 H152 A20 20 0 0 1 172 60 V84 H196 A20 20 0 0 1 216 104 V152 A20 20 0 0 1 196 172 H172 V196 A20 20 0 0 1 152 216 H104 A20 20 0 0 1 84 196 V172 H60 A20 20 0 0 1 40 152 V104 A20 20 0 0 1 60 84 H84 V60 A20 20 0 0 1 104 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 40 H152 A20 20 0 0 1 172 60 V84 H196 A20 20 0 0 1 216 104 V152 A20 20 0 0 1 196 172 H172 V196 A20 20 0 0 1 152 216 H104 A20 20 0 0 1 84 196 V172 H60 A20 20 0 0 1 40 152 V104 A20 20 0 0 1 60 84 H84 V60 A20 20 0 0 1 104 40 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M172 84 V104 A24 24 0 0 1 148 128 H108 A24 24 0 0 0 84 152 V172"/>
+    <path d="M84 84 L128 84"/>
+    <path d="M128 172 L172 172"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="106" cy="62" r="14"/>
+    <circle cx="150" cy="194" r="14"/>
+  </g>
+</svg>

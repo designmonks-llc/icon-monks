@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="red hat,linux,enterprise,open source,hat,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 128 C68 92 84 56 116 56 C136 56 140 64 156 64 C176 64 184 96 192 128 C212 136 224 144 224 156 C224 176 196 184 160 184 C112 184 32 160 32 136 C32 128.25 38.96 124 48 124 C52.96 124 58.33 125.17 64 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 128 C68 92 84 56 116 56 C136 56 140 64 156 64 C176 64 184 96 192 128 C212 136 224 144 224 156 C224 176 196 184 160 184 C112 184 32 160 32 136 C32 128.25 38.96 124 48 124 C52.96 124 58.33 125.17 64 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 128 C88 140 108 144 128 144 C148 144 172 140 192 128"/>
+  </g>
+</svg>

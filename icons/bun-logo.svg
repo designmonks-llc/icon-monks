@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="bun,javascript,runtime,bundler,dumpling,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 152 C40 96 80 48 128 48 C176 48 216 96 216 152 C216 188 176 208 128 208 C80 208 40 188 40 152 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 152 C40 96 80 48 128 48 C176 48 216 96 216 152 C216 188 176 208 128 208 C80 208 40 188 40 152 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 164 C116 170 122 173 128 173 C134 173 140 170 144 164"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="96" cy="136" r="14"/>
+    <circle cx="160" cy="136" r="14"/>
+  </g>
+</svg>

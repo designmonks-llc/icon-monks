@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="mazda,japan,car,automotive,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <ellipse cx="128" cy="128" rx="96" ry="76"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="128" rx="96" ry="76"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 120 C56 100 72 88 88 84 C104 104 116 128 128 156 C140 128 152 104 168 84 C184 88 200 100 216 120"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="tidal,music,streaming,hifi,audio,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M64 64 L96 96 L64 128 L32 96 Z"/>
+    <path d="M128 64 L160 96 L128 128 L96 96 Z"/>
+    <path d="M192 64 L224 96 L192 128 L160 96 Z"/>
+    <path d="M128 128 L160 160 L128 192 L96 160 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 64 L96 96 L64 128 L32 96 Z"/>
+    <path d="M128 64 L160 96 L128 128 L96 96 Z"/>
+    <path d="M192 64 L224 96 L192 128 L160 96 Z"/>
+    <path d="M128 128 L160 160 L128 192 L96 160 Z"/>
+  </g>
+</svg>

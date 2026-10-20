@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="substack,newsletter,publishing,writing,blog,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 128 L208 128 L208 216 L128 176 L48 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 L208 48"/>
+    <path d="M48 88 L208 88"/>
+    <path d="M48 128 L208 128 L208 216 L128 176 L48 216 Z"/>
+  </g>
+</svg>

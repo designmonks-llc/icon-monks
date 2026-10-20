@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="javascript,js,programming language,web,code,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 108 V164 C120 180 110 188 98 188 C88 188 80 184 76 176"/>
+    <path d="M190 120 C184 112 178 108 170 108 C158 108 150 114 150 126 C150 148 192 140 192 166 C192 180 182 188 170 188 C160 188 152 184 146 176"/>
+  </g>
+</svg>

@@ -2,7 +2,7 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M88 72 C96 56 112 48 132 48 C160 48 172 64 172 92 V164"/>
     <path d="M172 108 H132 A28 28 0 0 0 132 164 C148 164 164 156 172 148"/>
-    <path d="M44 188 A170 170 0 0 0 208 192"/>
-    <path d="M184 184 L208 192 L208 168"/>
+    <path d="M44 180 C76 204 108 212 132 212 C160 212 184 204 204 188"/>
+    <path d="M188 176 L216 176 L208 204"/>
   </g>
 </svg>

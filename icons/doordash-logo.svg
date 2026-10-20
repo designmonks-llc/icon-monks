@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="doordash,food delivery,delivery,restaurants,dash,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 72 H164 A56 56 0 0 1 164 184 H140 L108 152 H164 A24 24 0 0 0 164 104 H72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 72 H164 A56 56 0 0 1 164 184 H140 L108 152 H164 A24 24 0 0 0 164 104 H72 Z"/>
+  </g>
+</svg>

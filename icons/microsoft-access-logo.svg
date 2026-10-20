@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="microsoft access,access,microsoft,database,office,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 56 A72 24 0 0 1 224 56 V200 A72 24 0 0 1 80 200 Z"/>
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+    <ellipse cx="152" cy="56" rx="72" ry="24"/>
+    <path d="M224 56 V200 A72 24 0 0 1 80 200 V184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 160 L88 96 L112 160"/>
+    <path d="M76 136 L100 136"/>
+    <path d="M224 104 A72 24 0 0 1 144 128"/>
+    <path d="M224 152 A72 24 0 0 1 144 176"/>
+  </g>
+</svg>

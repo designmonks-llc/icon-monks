@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google cloud,google,gcp,cloud,hosting,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M80 192 H176 A40 40 0 0 0 184 113 A60 60 0 0 0 72 113 A40 40 0 0 0 80 192 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <path d="M92 168 H164 A18 18 0 0 0 166 132 A40 40 0 0 0 90 132 A18 18 0 0 0 92 168 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 192 H176 A40 40 0 0 0 184 113 A60 60 0 0 0 72 113 A40 40 0 0 0 80 192 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 168 H164 A18 18 0 0 0 166 132 A40 40 0 0 0 90 132 A18 18 0 0 0 92 168 Z"/>
+  </g>
+</svg>

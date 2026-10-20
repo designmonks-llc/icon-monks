@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="obsidian,notes,markdown,knowledge base,note-taking,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 32 L180 80 C182 104 186 128 200 152 L176 216 L96 208 L56 164 L76 112 L84 72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 32 L180 80 C182 104 186 128 200 152 L176 216 L96 208 L56 164 L76 112 L84 72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 112 C96 124 108 144 108 168 C108 184 104 196 96 208"/>
+    <path d="M108 152 C132 148 168 156 186 184"/>
+    <path d="M144 44 C132 68 128 92 128 112 C130 128 134 140 136 148"/>
+  </g>
+</svg>

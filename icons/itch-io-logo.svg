@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="itch.io,itch,indie games,game store,gaming,controller,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 40 H196 L224 72 V88 C224 98 218 106 212 110 V216 Q212 224 204 224 H52 Q44 224 44 216 V110 C38 106 32 98 32 88 V72 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 40 H196 L224 72 V88 C224 98 218 106 212 110 V216 Q212 224 204 224 H52 Q44 224 44 216 V110 C38 106 32 98 32 88 V72 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 88 A24 24 0 0 0 80 88 A24 24 0 0 0 128 88 A24 24 0 0 0 176 88 A24 24 0 0 0 224 88"/>
+    <path d="M92 140 H164 C176 140 180 152 182 164 L186 184 C188 196 180 200 172 200 C162 200 156 194 156 186 H100 C100 194 94 200 84 200 C76 200 68 196 70 184 L74 164 C76 152 80 140 92 140 Z"/>
+  </g>
+</svg>

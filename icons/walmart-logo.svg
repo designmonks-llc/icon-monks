@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="walmart,spark,retail,supermarket,store,shopping,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M132 85 L141 52 A14 14 0 0 0 115 52 L124 85 A4 4 0 0 0 132 85 Z"/>
+    <path d="M167 110 L201 102 A14 14 0 0 0 187 78 L163 103 A4 4 0 0 0 167 110 Z"/>
+    <path d="M163 153 L187 178 A14 14 0 0 0 201 154 L167 146 A4 4 0 0 0 163 153 Z"/>
+    <path d="M124 171 L115 204 A14 14 0 0 0 141 204 L132 171 A4 4 0 0 0 124 171 Z"/>
+    <path d="M89 146 L55 154 A14 14 0 0 0 69 178 L93 153 A4 4 0 0 0 89 146 Z"/>
+    <path d="M93 103 L69 78 A14 14 0 0 0 55 102 L89 110 A4 4 0 0 0 93 103 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 85 L141 52 A14 14 0 0 0 115 52 L124 85 A4 4 0 0 0 132 85 Z"/>
+    <path d="M167 110 L201 102 A14 14 0 0 0 187 78 L163 103 A4 4 0 0 0 167 110 Z"/>
+    <path d="M163 153 L187 178 A14 14 0 0 0 201 154 L167 146 A4 4 0 0 0 163 153 Z"/>
+    <path d="M124 171 L115 204 A14 14 0 0 0 141 204 L132 171 A4 4 0 0 0 124 171 Z"/>
+    <path d="M89 146 L55 154 A14 14 0 0 0 69 178 L93 153 A4 4 0 0 0 89 146 Z"/>
+    <path d="M93 103 L69 78 A14 14 0 0 0 55 102 L89 110 A4 4 0 0 0 93 103 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google news,google,news,headlines,newspaper,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="96" width="176" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="96" width="176" height="112" rx="16"/>
+    <path d="M56 96 L68 56 L188 56 L200 96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 132 A24 24 0 1 0 108 152 H88"/>
+    <path d="M136 136 L184 136"/>
+    <path d="M136 168 L184 168"/>
+  </g>
+</svg>

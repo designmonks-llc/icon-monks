@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="crypto.com,crypto,cryptocurrency,exchange,lion,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 32 L211 80 L211 176 L128 224 L45 176 L45 80 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 84 L164 84 L156 104 L100 104 Z"/>
+    <path d="M116 128 L116 148 L128 156 L140 148 L140 128"/>
+    <path d="M84 128 L100 172 L128 192 L156 172 L172 128"/>
+  </g>
+</svg>

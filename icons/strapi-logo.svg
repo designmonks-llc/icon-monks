@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="strapi,cms,headless cms,content,api,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M104 32 L224 32 L224 152 L152 152 L104 224 L104 152 L80 152 L32 104 L104 104 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 32 L224 32 L224 152 L152 152 L104 224 L104 152 L80 152 L32 104 L104 104 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 104 L104 152 L152 152"/>
+  </g>
+</svg>

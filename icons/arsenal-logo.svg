@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="arsenal,gunners,football,soccer,club,england,cannon,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 40 H216 C216 128 184 192 128 224 C72 192 40 128 40 40 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 H216 C216 128 184 192 128 224 C72 192 40 128 40 40 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M76 124 L180 124 A12 12 0 0 0 180 100 L76 100 A12 12 0 0 0 76 124 Z"/>
+    <circle cx="124" cy="156" r="28"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="124" cy="156" r="14"/>
+  </g>
+</svg>

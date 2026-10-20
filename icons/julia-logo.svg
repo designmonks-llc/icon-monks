@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="julia,programming language,scientific computing,dots,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="82" r="40"/>
+    <circle cx="76" cy="174" r="40"/>
+    <circle cx="180" cy="174" r="40"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="82" r="40"/>
+    <circle cx="76" cy="174" r="40"/>
+    <circle cx="180" cy="174" r="40"/>
+  </g>
+</svg>

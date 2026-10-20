@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="microsoft powerpoint,powerpoint,microsoft,presentation,slides,office,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="144" cy="128" r="79.91"/>
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+    <path d="M87 72 A79.91 79.91 0 1 1 87 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 128 L224 128"/>
+    <path d="M68 160 V96 H92 A20 20 0 0 1 92 136 H68"/>
+  </g>
+</svg>

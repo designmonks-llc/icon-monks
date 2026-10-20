@@ -1,0 +1,13 @@
+<svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="tableau,analytics,business intelligence,visualization,salesforce,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 128 H156 M128 100 V156"/>
+    <path d="M56 76 H96 M76 56 V96"/>
+    <path d="M56 180 H96 M76 160 V200"/>
+    <path d="M160 76 H200 M180 56 V96"/>
+    <path d="M160 180 H200 M180 160 V200"/>
+    <path d="M114 46 H142 M128 32 V60"/>
+    <path d="M114 210 H142 M128 196 V224"/>
+    <path d="M32 128 H60 M46 114 V142"/>
+    <path d="M196 128 H224 M210 114 V142"/>
+  </g>
+</svg>

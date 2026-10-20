@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="zig,programming language,systems,compiler,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 64 L40 64 L40 176 L56 176"/>
+    <path d="M96 64 L200 64"/>
+    <path d="M224 40 L40 224"/>
+    <path d="M88 176 L168 176"/>
+    <path d="M216 96 L216 176 L192 176"/>
+  </g>
+</svg>

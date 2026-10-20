@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="kick,streaming,live stream,gaming,k,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M48 48 H80 V112 H112 V80 H144 V48 H208 V80 H176 V112 H144 V144 H176 V176 H208 V208 H144 V176 H112 V144 H80 V208 H48 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 48 H80 V112 H112 V80 H144 V48 H208 V80 H176 V112 H144 V144 H176 V176 H208 V208 H144 V176 H112 V144 H80 V208 H48 Z"/>
+  </g>
+</svg>

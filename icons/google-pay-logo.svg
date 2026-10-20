@@ -1,0 +1,10 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google pay,gpay,google,payment,wallet,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 44 A40 40 0 1 0 168 72 H128"/>
+    <path d="M44 208 V148 H64 A20 20 0 0 1 64 188 H44"/>
+    <circle cx="128" cy="188" r="20"/>
+    <path d="M148 168 L148 208"/>
+    <path d="M172 168 L192 208"/>
+    <path d="M212 168 L184 224"/>
+  </g>
+</svg>

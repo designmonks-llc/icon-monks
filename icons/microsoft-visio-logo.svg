@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="microsoft visio,visio,microsoft,diagram,flowchart,office,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M108 72 L148 32 L196 80 H208 A16 16 0 0 1 224 96 V160 A16 16 0 0 1 208 176 H196 A48 48 0 0 1 101 184 Z"/>
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="72" width="112" height="112" rx="16"/>
+    <path d="M108 72 L148 32 L196 80 H208 A16 16 0 0 1 224 96 V160 A16 16 0 0 1 208 176 H196 A48 48 0 0 1 101 184"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 104 L88 152 L112 104"/>
+    <path d="M196 80 L156 120"/>
+  </g>
+</svg>

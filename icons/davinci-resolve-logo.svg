@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="davinci resolve,blackmagic,video editing,color grading,film,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 110 L118 103 A18 18 0 1 1 138 103 Z"/>
+    <path d="M147 143 L158 138 A18 18 0 1 1 148 156 Z"/>
+    <path d="M109 143 L108 156 A18 18 0 1 1 98 138 Z"/>
+  </g>
+</svg>

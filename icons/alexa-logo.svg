@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="alexa,amazon alexa,amazon,voice assistant,echo,smart speaker,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 124 A92 92 0 1 1 79 199 L44 212 Z"/>
+  </g>
+  <g data-role="hole" fill="none">
+    <circle cx="132" cy="124" r="48"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 124 A92 92 0 1 1 79 199 L44 212 Z"/>
+    <circle cx="132" cy="124" r="48"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="skyscanner,flights,travel,sunrise,search,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 184 C64 172 92 164 108 164 C116 164 120 170 128 178 C136 170 140 164 148 164 C164 164 192 172 220 184"/>
+    <path d="M73 148 L34 126"/>
+    <path d="M96 125 L74 86"/>
+    <path d="M128 116 L128 72"/>
+    <path d="M160 125 L182 86"/>
+    <path d="M183 148 L222 126"/>
+  </g>
+</svg>

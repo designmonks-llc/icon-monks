@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="monzo,bank,banking,fintech,finance,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 196 V80 A16 16 0 0 1 68 70 L128 132 L188 70 A16 16 0 0 1 216 80 V196 H176 V140 L128 188 L80 140 V196 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 196 V80 A16 16 0 0 1 68 70 L128 132 L188 70 A16 16 0 0 1 216 80 V196 H176 V140 L128 188 L80 140 V196 Z"/>
+  </g>
+</svg>

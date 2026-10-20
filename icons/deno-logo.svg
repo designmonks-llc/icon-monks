@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="deno,javascript,typescript,runtime,dinosaur,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="96"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 196 C60 140 80 92 116 72 C123.02 68.49 129.85 67 137 67 C162.45 67 187.51 87.02 200 112 C201 114.5 202 116.66 202 119 C202 126.03 197 132 188 132 H140 C137.47 137.07 136 143.53 136 151 C136 167.13 142.33 188.66 156 216"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="124" cy="92" r="14"/>
+  </g>
+</svg>

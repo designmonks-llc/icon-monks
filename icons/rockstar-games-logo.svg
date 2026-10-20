@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="rockstar games,rockstar,gta,game,gaming,publisher,r,star,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 168 L80 64 H128 A26 26 0 0 1 128 116 H72"/>
+    <path d="M112 116 L116 168"/>
+    <path d="M168 132 L176 153 L198 154 L180 168 L187 190 L168 177 L149 190 L156 168 L138 154 L160 153 Z"/>
+  </g>
+</svg>

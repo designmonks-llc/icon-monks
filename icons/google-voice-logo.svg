@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google voice,google,phone,calls,voicemail,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M50 92 H74 L86 131 L68 146 C83 161 95 173 110 188 L125 170 L164 182 V206 A18 18 0 0 1 146 224 C80 224 32 176 32 110 A18 18 0 0 1 50 92 Z"/>
+    <path d="M136 120 V32 A88 88 0 0 1 224 120 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 92 H74 L86 131 L68 146 C83 161 95 173 110 188 L125 170 L164 182 V206 A18 18 0 0 1 146 224 C80 224 32 176 32 110 A18 18 0 0 1 50 92 Z"/>
+    <path d="M136 120 V32 A88 88 0 0 1 224 120 Z"/>
+  </g>
+</svg>

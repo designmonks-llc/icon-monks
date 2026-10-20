@@ -1,0 +1,6 @@
+<svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="d3,d3.js,data visualization,javascript,charts,logo,brand">
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 64 H68 A64 64 0 0 1 68 192 H40"/>
+    <path d="M156 64 H184 A32 32 0 0 1 184 128 H172 M184 128 A32 32 0 0 1 184 192 H156"/>
+  </g>
+</svg>

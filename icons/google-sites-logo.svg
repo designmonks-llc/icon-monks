@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google sites,google,website builder,web page,sites,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="32" y="52" width="192" height="152" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="52" width="192" height="152" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 100 L224 100"/>
+    <path d="M88 100 L88 204"/>
+    <path d="M168 164 L184 164"/>
+  </g>
+</svg>

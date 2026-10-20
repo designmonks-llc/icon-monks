@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="visual studio,microsoft,ide,code,dotnet,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="168" y="32" width="48" height="192" rx="16"/>
+    <path d="M40 92 L90 128 L40 164 Z"/>
+    <path d="M90 128 L168 72 L168 184 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="168" y="32" width="48" height="192" rx="16"/>
+    <path d="M40 92 L90 128 L40 164 Z"/>
+    <path d="M90 128 L168 72 L168 184 Z"/>
+  </g>
+</svg>

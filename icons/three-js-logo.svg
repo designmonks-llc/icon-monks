@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="three.js,threejs,webgl,3d,javascript,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M32 32 L224 86 L81 224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 32 L224 86 L81 224 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 50 L48 96"/>
+    <path d="M160 68 L176 132"/>
+    <path d="M65 160 L129 178"/>
+    <path d="M160 68 L65 160"/>
+    <path d="M96 50 L129 178"/>
+    <path d="M48 96 L176 132"/>
+  </g>
+</svg>

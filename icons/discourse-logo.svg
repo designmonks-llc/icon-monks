@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="discourse,forum,discussion,community,chat,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M40 216 V128 A88 88 0 1 1 128 216 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 216 V128 A88 88 0 1 1 128 216 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M85 139 A44 44 0 1 1 109 168 L84 180 Z"/>
+  </g>
+</svg>

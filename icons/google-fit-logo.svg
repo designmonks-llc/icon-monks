@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="google fit,google,fitness,health,heart,activity,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M128 212 L44 128 A39.6 39.6 0 0 1 100 72 L128 100 L156 72 A39.6 39.6 0 0 1 212 128 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 212 L44 128 A39.6 39.6 0 0 1 100 72 L128 100 L156 72 A39.6 39.6 0 0 1 212 128 Z"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 156 L128 100"/>
+  </g>
+</svg>

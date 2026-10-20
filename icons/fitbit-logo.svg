@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="fitbit,fitness tracker,wearable,health,google,logo,brand">
+  <g data-role="dot" fill="currentColor">
+    <circle cx="48" cy="128" r="16"/>
+    <circle cx="88" cy="88" r="16"/>
+    <circle cx="88" cy="128" r="16"/>
+    <circle cx="88" cy="168" r="16"/>
+    <circle cx="128" cy="48" r="16"/>
+    <circle cx="128" cy="88" r="16"/>
+    <circle cx="128" cy="128" r="16"/>
+    <circle cx="128" cy="168" r="16"/>
+    <circle cx="128" cy="208" r="16"/>
+    <circle cx="168" cy="88" r="16"/>
+    <circle cx="168" cy="128" r="16"/>
+    <circle cx="168" cy="168" r="16"/>
+    <circle cx="208" cy="128" r="16"/>
+  </g>
+</svg>

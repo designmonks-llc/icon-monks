@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="storybook,ui components,design system,frontend,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 40 L168 76 L180 66 L192 76 L192 40"/>
+    <path d="M152 96 C146 86 138 80 126 80 C108 80 96 88 96 102 C96 132 160 120 160 156 C160 172 146 184 126 184 C110 184 98 178 92 168"/>
+  </g>
+</svg>

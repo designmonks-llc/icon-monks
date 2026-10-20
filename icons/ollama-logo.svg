@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ollama,llama,ai,llm,local models,logo,brand">
+  <g data-role="area" fill="currentColor" opacity="0.2">
+    <path d="M60 224 V212 C54 204 50 196 50 186 C50 174 54 166 60 160 C50 150 46 134 46 118 C46 98 54 84 66 74 L76 46 A12 12 0 0 1 100 48 L102 68 C110 62 118 60 128 60 C138 60 146 62 154 68 L156 48 A12 12 0 0 1 180 46 L190 74 C202 84 210 98 210 118 C210 134 206 150 196 160 C202 166 206 174 206 186 C206 196 202 204 196 212 V224 Z"/>
+  </g>
+  <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 224 V212 C54 204 50 196 50 186 C50 174 54 166 60 160 C50 150 46 134 46 118 C46 98 54 84 66 74 L76 46 A12 12 0 0 1 100 48 L102 68 C110 62 118 60 128 60 C138 60 146 62 154 68 L156 48 A12 12 0 0 1 180 46 L190 74 C202 84 210 98 210 118 C210 134 206 150 196 160 C202 166 206 174 206 186 C206 196 202 204 196 212 V224"/>
+  </g>
+  <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="150" rx="36" ry="26"/>
+    <path d="M121 146 L128 151 L135 146"/>
+    <path d="M128 151 V158"/>
+  </g>
+  <g data-role="dotcut" fill="currentColor">
+    <circle cx="78" cy="118" r="14"/>
+    <circle cx="178" cy="118" r="14"/>
+  </g>
+</svg>
