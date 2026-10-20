@@ -10,6 +10,12 @@ const pick = (byName, name, weight) => {
 export const icon = (byName, name, size = 18, weight = 'regular') =>
   `<svg class="ui-i" viewBox="0 0 256 256" width="${size}" height="${size}" fill="currentColor" aria-hidden="true"><path d="${pick(byName, name, weight)}"/></svg>`;
 
+// Icon Monks is a product of Design Monks; every page credits the studio in its footer.
+export const STUDIO = { name: 'Design Monks', url: 'https://monks.company/' };
+export const STUDIO_LINK = `<a href="${STUDIO.url}" target="_blank" rel="noopener">${STUDIO.name}</a>`;
+// The bottom line of every footer.
+export const CREDIT = `<p class="foot-base">Icon Monks is a product of ${STUDIO_LINK}. Free and open source under the MIT license.</p>`;
+
 // `up` is the relative path to the site root ('' on the homepage); `theme` adds the light/dark button.
 export function header({ byName, up = '', REPO, current = '' }) {
   const link = (href, label, key) => `<a href="${up}${href}"${current === key ? ' aria-current="page"' : ''}>${label}</a>`;

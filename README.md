@@ -7,7 +7,7 @@
 
 # Icon Monks
 
-An open source icon family by Design Monks: **5,518 icons × 6 weights** (thin, light, regular, bold, fill,
+An open source icon family, a product of [Design Monks](https://monks.company/): **5,518 icons × 6 weights** (thin, light, regular, bold, fill,
 duotone), drawn on a 256-unit grid and generated into native packages for every major platform.
 Icons are grouped into 31 categories: animals, arrows, brands, business, charts, commerce, communication, design, development, devices, editor, education, emoji, files, food, health, home, interface, letters & numbers, maps, media, nature, objects, people, science, security, sports, symbols, time, transport, weather.
 
@@ -68,7 +68,7 @@ Font codepoints are append-only (`codepoints.json`), so existing glyphs never mo
 
 ## License
 
-MIT © Design Monks. The icon designs are original; the project is inspired by the approach of
+MIT © [Design Monks](https://monks.company/). Icon Monks is a product of Design Monks. The icon designs are original; the project is inspired by the approach of
 [Phosphor Icons](https://phosphoricons.com/), but shares no artwork with it.
 
 Icons in the Brands category show logos and products that are trademarks of their owners. The MIT license covers our

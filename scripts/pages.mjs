@@ -5,7 +5,7 @@
 //   getting-started/, license/
 // Pages share site.css and link to the SVG files GitHub Pages serves from svg/.
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
-import { header, HEADER_CSS, HEADER_JS, HEADER_THEME } from './chrome.mjs';
+import { header, HEADER_CSS, HEADER_JS, HEADER_THEME, STUDIO, STUDIO_LINK, CREDIT } from './chrome.mjs';
 
 const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const pascal = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join('');
@@ -16,6 +16,8 @@ const navKey = (path) => path.startsWith('icon/') ? 'icons' : path.startsWith('c
 const slug = (c) => c.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const title = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join(' ');
 const svgFile = (name, w) => `svg/${w}/${name}${w === 'regular' ? '' : '-' + w}.svg`;
+// The maker named in structured data on every page.
+const ORG = { '@type': 'Organization', name: STUDIO.name, url: STUDIO.url };
 const ld = (o) => `<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', ...o }).replace(/</g, '\\u003c')}</script>`;
 
 export function buildPages({ root, data, SITE, REPO, count, version }) {
@@ -47,6 +49,8 @@ export function buildPages({ root, data, SITE, REPO, count, version }) {
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${url}">
 <meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="Design Monks">
+<meta name="publisher" content="Design Monks">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Icon Monks">
 <meta property="og:title" content="${esc(t)}">
@@ -75,11 +79,12 @@ ${header({ byName, up, REPO, current: navKey(path) })}
   ${body(up)}
 </main>
 <footer><div class="wrap foot">
-  <div><h2>Icon Monks</h2><p>${count} free, open source icons in six weights by Design Monks, released under the MIT license.</p></div>
+  <div><h2>Icon Monks</h2><p>${count} free, open source icons in six weights by ${STUDIO_LINK}, released under the MIT license.</p></div>
   <nav aria-label="Popular categories"><h2>Categories</h2><ul>${['Interface', 'Arrows', 'Commerce', 'Media', 'Communication', 'Weather'].map((c) => `<li><a href="${up}categories/${slug(c)}/">${c} icons</a></li>`).join('')}<li><a href="${up}categories/">All categories</a></li></ul></nav>
   <nav aria-label="Platforms"><h2>Platforms</h2><ul>${PLATFORMS.map((p) => `<li><a href="${up}${p.path}">${p.short}</a></li>`).join('')}</ul></nav>
   <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="${up}getting-started/">Get started</a></li><li><a href="${up}license/">License</a></li><li><a href="${REPO}/releases">Releases</a></li><li><a href="${REPO}/issues">Request an icon</a></li><li><a href="${REPO}">GitHub</a></li></ul></nav>
-</div></footer>
+</div>
+<div class="wrap">${CREDIT}</div></footer>
 ${HEADER_JS}
 </body>
 </html>
@@ -120,7 +125,7 @@ ${HEADER_JS}
       lede: `A free ${esc(T.toLowerCase())} icon from the ${esc(i.category)} set${tags.length ? `, useful for ${esc(tags.slice(0, 4).join(', '))}` : ''}. It comes in six weights and is free for personal and commercial use under the MIT license.`,
       crumbs: [[`${i.category} icons`, `categories/${slug(i.category)}/`], [T, path]],
       jsonld: [{ '@type': 'ImageObject', name: `${T} icon`, contentUrl: SITE + svgFile(i.name, 'regular'), encodingFormat: 'image/svg+xml',
-        license: 'https://opensource.org/licenses/MIT', acquireLicensePage: `${SITE}license/`, creditText: 'Icon Monks', creator: { '@type': 'Organization', name: 'Design Monks' }, copyrightNotice: 'Design Monks' }],
+        license: 'https://opensource.org/licenses/MIT', acquireLicensePage: `${SITE}license/`, creditText: 'Icon Monks', creator: ORG, copyrightNotice: 'Design Monks' }],
       body: (up) => `
   <section class="weights" aria-label="Weights">
     ${data.weights.map((w) => `<figure><img src="${up}${svgFile(i.name, w)}" alt="${esc(T)} icon, ${w} weight" width="64" height="64"><figcaption>${w[0].toUpperCase() + w.slice(1)}</figcaption><a class="dl" href="${up}${svgFile(i.name, w)}" download>SVG</a></figure>`).join('\n    ')}
@@ -175,7 +180,7 @@ ${HEADER_JS}
       title: p.title(count), description: p.description(count),
       h1: p.h1, lede: p.lede(count),
       crumbs: [[p.short, p.path]],
-      jsonld: [{ '@type': 'TechArticle', headline: p.h1, description: p.description(count), url: SITE + p.path, author: { '@type': 'Organization', name: 'Design Monks' },
+      jsonld: [{ '@type': 'TechArticle', headline: p.h1, description: p.description(count), url: SITE + p.path, author: ORG,
         about: { '@type': 'SoftwareSourceCode', name: p.pkg, codeRepository: REPO, license: 'https://opensource.org/licenses/MIT', programmingLanguage: p.lang, version } },
       faq(p.faq)],
       body: (up) => `
@@ -421,5 +426,6 @@ table{border-collapse:collapse;width:100%;max-width:720px;background:var(--sheet
 .license{white-space:pre-wrap}
 a:focus-visible,summary:focus-visible{outline:2px solid var(--saffron);outline-offset:2px}
 footer{border-top:1px solid var(--rule);padding-block:32px 40px;color:var(--muted);font-size:13px}.foot{display:grid;grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr));gap:24px}.foot h2{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink);margin:0 0 12px}.foot ul{list-style:none;margin:0;padding:0;display:grid;gap:6px}.foot a{text-decoration:none}.foot a:hover{color:var(--ink);text-decoration:underline}.foot p{margin:0;max-width:46ch}
+.foot-base{margin:28px 0 0;padding-top:20px;border-top:1px solid var(--rule);max-width:none}.foot p a,.foot-base a{color:var(--ink)}.foot-base a{font-weight:500}
 @media (max-width:720px){.foot{grid-template-columns:repeat(2,minmax(0,1fr))}.foot>div:first-child{grid-column:1/-1}}
 `;

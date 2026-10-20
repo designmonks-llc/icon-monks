@@ -44,6 +44,9 @@ h1 .h1-brand { display: block; font: 500 17px/1.2 var(--body); letter-spacing: 0
 .lede { max-width: 54ch; color: var(--muted); margin: 0; font-size: 17px; }
 .facts { margin: 22px 0 0; font-size: 13.5px; color: var(--muted); }
 .facts b { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
+.maker { margin: 8px 0 0; font-size: 13.5px; color: var(--muted); }
+.maker a { color: var(--ink); font-weight: 600; text-decoration: none; }
+.maker a:hover { color: var(--saffron); text-decoration: underline; }
 .specimen { margin: 0; background: var(--sheet); border: 1px solid var(--rule); border-radius: 20px; padding: 18px; display: grid; gap: 14px; }
 .spec-stage { display: grid; place-items: center; aspect-ratio: 2 / 1; max-width: 100%; border-radius: 12px; color: var(--ink);
   background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 20px 20px; background-position: center; }
@@ -184,6 +187,10 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
 .foot a { text-decoration: none; }
 .foot a:hover { color: var(--ink); text-decoration: underline; }
 .foot p { margin: 0; max-width: 46ch; }
+.foot p a { color: var(--ink); }
+.foot-base { margin: 28px 0 0; padding-top: 20px; border-top: 1px solid var(--rule); }
+.foot-base a { color: var(--ink); text-decoration: none; font-weight: 500; }
+.foot-base a:hover { text-decoration: underline; }
 @media (max-width: 720px) { .foot { grid-template-columns: repeat(2, minmax(0, 1fr)); } .foot > div:first-child { grid-column: 1 / -1; } }
 @media (max-width: 900px) {
   main.wrap, main.wrap.has-sel { grid-template-columns: minmax(0, 1fr); }
@@ -220,6 +227,7 @@ __HEADER__
     <p class="lede">__COUNT__ SVG icons on one 256-unit grid, with packages for React, Vue, Web Components, icon fonts, Flutter, SwiftUI and Jetpack Compose. MIT licensed and free for commercial use.</p>
     <div class="cta"><a class="btn primary" href="#icons">Browse icons __ICON:arrow-down:16:bold__</a><a class="btn" href="#get-started">__ICON:code:16__ Install</a></div>
     <p class="facts"><b id="stat-cats">0</b> categories · <b>8</b> platforms · <b>MIT</b> license<span id="visits" hidden> · <b id="visitCount"></b> visitors</span></p>
+    <p class="maker">A product of __STUDIO__</p>
   </div>
   <figure class="specimen" aria-label="One icon in all six weights">
     <div class="spec-stage" id="spec-stage"></div>
@@ -318,7 +326,7 @@ __HEADER__
 
 <section class="wrap band" aria-labelledby="craft-title">
   <h2 id="craft-title">Drawn for real interfaces</h2>
-  <p>Icon Monks is built by Design Monks, a product design studio, for the screens we design every day.</p>
+  <p>Icon Monks is a product of __STUDIO__, a product design studio, drawn for the screens we design every day.</p>
   <div class="cards">
     <div class="card"><h3>A strict 256-unit grid</h3><p>Shapes sit inside a 192-unit live area with shared keylines, so circles, squares and tall shapes carry the same visual weight.</p></div>
     <div class="card"><h3>Built for small sizes</h3><p>Regular reads cleanly at 24 px, bold holds up in 16 px menus, and thin and light suit large display sizes.</p></div>
@@ -354,7 +362,7 @@ __HEADER__
 </section>
 
 <footer><div class="wrap foot">
-  <div><h2>Icon Monks</h2><p>Free, open source icons by Design Monks, released under the MIT license. Contributions welcome: draw a source SVG on the 256 grid and the build makes every weight and package.</p></div>
+  <div><h2>Icon Monks</h2><p>Free, open source icons by __STUDIO__, released under the MIT license. Contributions welcome: draw a source SVG on the 256 grid and the build makes every weight and package.</p></div>
   <nav aria-label="Icons"><h2>Icons</h2><ul>
     <li><a href="#icons">All icons</a></li>
     <li><a href="categories/">All categories</a></li>
@@ -382,7 +390,8 @@ __HEADER__
     <li><a href="license/">MIT license</a></li>
     <li><a href="https://github.com/designmonks/icon-monks/issues">Request an icon</a></li>
   </ul></nav>
-</div></footer>
+</div>
+<div class="wrap">__CREDIT__</div></footer>
 
 <script>
 const DATA = /*__ICONS__*/null;

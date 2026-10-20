@@ -5,7 +5,7 @@
 //   sitemap.xml, robots.txt, site.webmanifest for search engines (brand images come from scripts/brand.cjs)
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { buildPages } from './pages.mjs';
-import { header, icon, HEADER_CSS, HEADER_JS, HEADER_THEME } from './chrome.mjs';
+import { header, icon, HEADER_CSS, HEADER_JS, HEADER_THEME, STUDIO, STUDIO_LINK, CREDIT } from './chrome.mjs';
 
 const root = new URL('..', import.meta.url);
 const data = JSON.parse(readFileSync(new URL('build/icons.json', root)));
@@ -71,17 +71,21 @@ const FAQ = [
     'Yes. Pick an icon on this page and download it as SVG or PDF, or copy the SVG markup and paste it straight onto your canvas. PNG and WebP exports go up to 1024 px.'],
   ['Will the packages make my app bigger?',
     'Only by the icons you use. The React and Vue packages export each icon as its own module, so bundlers drop the rest, and the native packages ship vector assets rather than images.'],
+  ['Who makes Icon Monks?',
+    `Icon Monks is a product of <a href="${STUDIO.url}">Design Monks</a>, a product design studio. We draw the icons for the interfaces we design and release them free under the MIT license.`],
   ['How do I request or contribute an icon?',
     `Open an issue on <a href="${REPO}/issues">GitHub</a> to request one. To contribute, draw a source SVG on the 256 unit grid; the build generates every weight and package from it.`],
 ];
 const faqHtml = FAQ.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${a}</p></details>`).join('\n    ');
 
-// Shared chrome and inline UI icons: <!--__HEADER_THEME__-->, __HEADER__, /*__HEADER_CSS__*/, <!--__HEADER_JS__--> and __ICON:name:size[:weight]__.
+// Shared chrome and inline UI icons: <!--__HEADER_THEME__-->, __HEADER__, /*__HEADER_CSS__*/, <!--__HEADER_JS__-->, __STUDIO__, __CREDIT__ and __ICON:name:size[:weight]__.
 const chrome = (html, opts = {}) => html
   .replace('<!--__HEADER_THEME__-->', HEADER_THEME)
   .replace('__HEADER__', header({ byName, REPO, ...opts }))
   .replace('/*__HEADER_CSS__*/', HEADER_CSS)
   .replace('<!--__HEADER_JS__-->', HEADER_JS)
+  .replaceAll('__STUDIO__', STUDIO_LINK)
+  .replace('__CREDIT__', CREDIT)
   .replace(/__ICON:([a-z0-9-]+):(\d+)(?::([a-z]+))?__/g, (_, n, size, w) => {
     if (!byName[n]) throw new Error(`unknown UI icon: ${n}`);
     return icon(byName, n, +size, w || 'regular');
@@ -101,9 +105,9 @@ const ld = {
   '@context': 'https://schema.org',
   '@graph': [
     { '@type': 'WebSite', '@id': `${SITE}#website`, name: 'Icon Monks', url: SITE, description, inLanguage: 'en',
-      publisher: { '@id': `${SITE}#org` },
+      publisher: { '@id': `${SITE}#org` }, creator: { '@id': `${SITE}#org` },
       potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${SITE}?q={search_term_string}` }, 'query-input': 'required name=search_term_string' } },
-    { '@type': 'Organization', '@id': `${SITE}#org`, name: 'Design Monks', url: 'https://github.com/designmonks', logo: `${SITE}icon-512.png`, sameAs: [REPO] },
+    { '@type': 'Organization', '@id': `${SITE}#org`, name: STUDIO.name, url: STUDIO.url, logo: `${SITE}icon-512.png`, sameAs: ['https://github.com/designmonks', REPO] },
     { '@type': 'FAQPage', '@id': `${SITE}#faq`, mainEntity: FAQ.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } })) },
     { '@type': 'SoftwareSourceCode', '@id': `${SITE}#code`, name: 'Icon Monks', description, url: SITE,
       codeRepository: REPO, license: 'https://opensource.org/licenses/MIT',
@@ -117,6 +121,7 @@ const head = `<title>${esc(title)}</title>
 <link rel="canonical" href="${SITE}">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="author" content="Design Monks">
+<meta name="publisher" content="Design Monks">
 <meta name="keywords" content="free icons, open source icons, svg icons, icon library, react icons, vue icons, flutter icons, swiftui icons, jetpack compose icons, android icons, icon font, figma icons">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Icon Monks">
@@ -126,13 +131,13 @@ const head = `<title>${esc(title)}</title>
 <meta property="og:image" content="${SITE}og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Icon Monks: ${count} open source icons in six weights">
+<meta property="og:image:alt" content="Icon Monks: ${count} open source icons in six weights, a product of Design Monks">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${esc(title)}">
 <meta name="twitter:description" content="${esc(description)}">
 <meta name="twitter:image" content="${SITE}og-image.png">
-<meta name="twitter:image:alt" content="Icon Monks: ${count} open source icons in six weights">
+<meta name="twitter:image:alt" content="Icon Monks: ${count} open source icons in six weights, a product of Design Monks">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">

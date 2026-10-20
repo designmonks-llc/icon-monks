@@ -24,6 +24,7 @@ table{border-collapse:collapse;width:100%;max-width:720px;background:var(--sheet
 .license{white-space:pre-wrap}
 a:focus-visible,summary:focus-visible{outline:2px solid var(--saffron);outline-offset:2px}
 footer{border-top:1px solid var(--rule);padding-block:32px 40px;color:var(--muted);font-size:13px}.foot{display:grid;grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr));gap:24px}.foot h2{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink);margin:0 0 12px}.foot ul{list-style:none;margin:0;padding:0;display:grid;gap:6px}.foot a{text-decoration:none}.foot a:hover{color:var(--ink);text-decoration:underline}.foot p{margin:0;max-width:46ch}
+.foot-base{margin:28px 0 0;padding-top:20px;border-top:1px solid var(--rule);max-width:none}.foot p a,.foot-base a{color:var(--ink)}.foot-base a{font-weight:500}
 @media (max-width:720px){.foot{grid-template-columns:repeat(2,minmax(0,1fr))}.foot>div:first-child{grid-column:1/-1}}
 
 .site-head { --h-bg: #f4f5f8; --h-ink: #1b1e3a; --h-muted: #5d6280; --h-rule: #dfe2ec; --h-sheet: #ffffff; --h-focus: #c96a00;

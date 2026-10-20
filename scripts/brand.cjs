@@ -35,7 +35,7 @@ body{margin:0;width:1200px;height:630px;background:#f4f5f8;font-family:Figtree,s
 p{font-size:30px;line-height:1.35;color:#5d6280;margin:18px 0 0}.n{margin-top:40px;font:700 34px 'Bricolage Grotesque';}.n span{color:#c96a00}
 .g{display:grid;grid-template-columns:repeat(4,128px);gap:16px;padding:44px 0 0 24px;transform:rotate(-6deg);transform-origin:top left;margin-top:30px}
 .t{width:128px;height:128px;background:#fff;border:2px solid #dfe2ec;border-radius:24px;display:grid;place-items:center}
-</style></head><body><div class="l"><div class="w">${wordmark}</div><div class="e">Open source · MIT</div>
+</style></head><body><div class="l"><div class="w">${wordmark}</div><div class="e">Open source · by Design Monks</div>
 <p>Free icons in six weights for React, Vue, Flutter, iOS, Android and the web.</p>
 <div class="n"><span>${data.icons.length}</span> icons · 6 weights</div></div><div class="g">${tiles}</div></body></html>`;
 

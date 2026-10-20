@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "description": "Icon Monks as a <icon-monks> custom element. Works in any framework or plain HTML.",
   "license": "MIT",
-  "author": "Design Monks",
+  "author": "Design Monks (https://monks.company/)",
   "homepage": "https://designmonks.github.io/icon-monks/",
   "repository": {
     "type": "git",
