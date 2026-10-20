@@ -12,14 +12,15 @@ const p = (n, w) => { const d = by[n].paths[w]; return Array.isArray(d) ? (d[0] 
 const ico = (n, w, s, c) => `<svg viewBox="0 0 256 256" width="${s}" height="${s}" fill="${c}">${p(n, w)}</svg>`;
 
 // Logo: the Monks speech bubble (as on designmonks.co and devmonks.co) holding the four primitives icons are built from.
-const ACCENT = '#c96a00';
+const ACCENT = '#aeacff';
+const ACCENT_TEXT = '#5754d4'; // #aeacff is too light for text on the light og-image
 const BUBBLE = 'M64 192V128a64 64 0 0 1 128 0a64 64 0 0 1-64 64Z';
 const PRIMITIVES = `<circle cx="108" cy="108" r="14"/><rect x="134" y="94" width="28" height="28" rx="6"/>`
   + `<path d="M108 134L124 162H92Z" stroke="${ACCENT}" stroke-width="6" stroke-linejoin="round"/>`
   + `<path d="M148 134V162M134 148H162" fill="none" stroke="${ACCENT}" stroke-width="9" stroke-linecap="round"/>`;
 // rx 56 for a rounded tile; 0 for iOS, which rounds the corners itself.
 const mark = (rx = 56) => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect width="256" height="256" rx="${rx}" fill="${ACCENT}"/>`
-  + `<path d="${BUBBLE}" fill="#ffffff"/><g fill="${ACCENT}">${PRIMITIVES}</g></svg>`;
+  + `<path d="${BUBBLE}" fill="#1b1e3a"/><g fill="${ACCENT}">${PRIMITIVES}</g></svg>`;
 fs.writeFileSync(path.join(root, 'favicon.svg'), mark() + '\n');
 // The wordmark (logo.svg, with logo-light.svg for dark backgrounds) is drawn by hand; the social card uses it as is.
 const wordmark = fs.readFileSync(path.join(root, 'logo.svg'), 'utf8').replace(/<title>.*?<\/title>/, '');
@@ -31,8 +32,8 @@ const tiles = names.map((n, i) => `<div class="t">${ico(n, weights[i % 6], 56, '
 const og = `<!doctype html><html><head><style>
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Figtree:wght@500&display=swap');
 body{margin:0;width:1200px;height:630px;background:#f4f5f8;font-family:Figtree,sans-serif;color:#1b1e3a;display:grid;grid-template-columns:560px 1fr;overflow:hidden}
-.l{padding:120px 0 0 72px}.w svg{width:440px;height:auto;display:block;margin-bottom:40px}.e{font:500 20px/1 monospace;letter-spacing:.08em;text-transform:uppercase;color:#c96a00}
-p{font-size:30px;line-height:1.35;color:#5d6280;margin:18px 0 0}.n{margin-top:40px;font:700 34px 'Bricolage Grotesque';}.n span{color:#c96a00}
+.l{padding:120px 0 0 72px}.w svg{width:440px;height:auto;display:block;margin-bottom:40px}.e{font:500 20px/1 monospace;letter-spacing:.08em;text-transform:uppercase;color:${ACCENT_TEXT}}
+p{font-size:30px;line-height:1.35;color:#5d6280;margin:18px 0 0}.n{margin-top:40px;font:700 34px 'Bricolage Grotesque';}.n span{color:${ACCENT_TEXT}}
 .g{display:grid;grid-template-columns:repeat(4,128px);gap:16px;padding:44px 0 0 24px;transform:rotate(-6deg);transform-origin:top left;margin-top:30px}
 .t{width:128px;height:128px;background:#fff;border:2px solid #dfe2ec;border-radius:24px;display:grid;place-items:center}
 </style></head><body><div class="l"><div class="w">${wordmark}</div><div class="e">Open source · by Design Monks</div>

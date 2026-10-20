@@ -176,7 +176,7 @@ ${pages.urls.map((u) => `  <url><loc>${u}</loc></url>`).join('\n')}
 writeFileSync(new URL('robots.txt', root), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
 writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
   name: 'Icon Monks', short_name: 'Icon Monks', description, start_url: './', scope: './', display: 'standalone',
-  background_color: '#f4f5f8', theme_color: '#c96a00',
+  background_color: '#f4f5f8', theme_color: '#aeacff',
   icons: [{ src: 'icon-192.png', sizes: '192x192', type: 'image/png' }, { src: 'icon-512.png', sizes: '512x512', type: 'image/png' }, { src: 'favicon.svg', sizes: 'any', type: 'image/svg+xml' }],
 }, null, 2) + '\n');
 writeFileSync(new URL('index.html', root), full);

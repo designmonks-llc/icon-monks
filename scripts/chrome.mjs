@@ -33,12 +33,12 @@ export function header({ byName, up = '', REPO, current = '' }) {
 export const HEADER_THEME = `<script>try { const t = localStorage.getItem('im-theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}</script>`;
 
 export const HEADER_CSS = `
-.site-head { --h-bg: #f4f5f8; --h-ink: #1b1e3a; --h-muted: #5d6280; --h-rule: #dfe2ec; --h-sheet: #ffffff; --h-focus: #c96a00;
+.site-head { --h-bg: #f4f5f8; --h-ink: #1b1e3a; --h-muted: #5d6280; --h-rule: #dfe2ec; --h-sheet: #ffffff; --h-focus: #5754d4;
   background: var(--h-bg); border-bottom: 1px solid var(--h-rule); color: var(--h-ink); font: 400 14px/1.5 'DM Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .site-head { --h-bg: #11132a; --h-ink: #e8e9f4; --h-muted: #a0a4c4; --h-rule: #2c3058; --h-sheet: #191c38; --h-focus: #f5a53a; color-scheme: dark; }
+  :root:not([data-theme="light"]) .site-head { --h-bg: #11132a; --h-ink: #e8e9f4; --h-muted: #a0a4c4; --h-rule: #2c3058; --h-sheet: #191c38; --h-focus: #aeacff; color-scheme: dark; }
 }
-:root[data-theme="dark"] .site-head { --h-bg: #11132a; --h-ink: #e8e9f4; --h-muted: #a0a4c4; --h-rule: #2c3058; --h-sheet: #191c38; --h-focus: #f5a53a; color-scheme: dark; }
+:root[data-theme="dark"] .site-head { --h-bg: #11132a; --h-ink: #e8e9f4; --h-muted: #a0a4c4; --h-rule: #2c3058; --h-sheet: #191c38; --h-focus: #aeacff; color-scheme: dark; }
 .site-head-in { max-width: 1240px; margin: 0 auto; display: flex; align-items: center; gap: 28px; padding-block: 12px;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 .site-brand { display: flex; align-items: center; color: var(--h-ink); text-decoration: none; }
