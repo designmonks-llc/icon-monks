@@ -21,6 +21,8 @@ const PRIMITIVES = `<circle cx="108" cy="108" r="14"/><rect x="134" y="94" width
 const mark = (rx = 56) => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect width="256" height="256" rx="${rx}" fill="${ACCENT}"/>`
   + `<path d="${BUBBLE}" fill="#ffffff"/><g fill="${ACCENT}">${PRIMITIVES}</g></svg>`;
 fs.writeFileSync(path.join(root, 'favicon.svg'), mark() + '\n');
+// The wordmark (logo.svg, with logo-light.svg for dark backgrounds) is drawn by hand; the social card uses it as is.
+const wordmark = fs.readFileSync(path.join(root, 'logo.svg'), 'utf8').replace(/<title>.*?<\/title>/, '');
 
 const names = ['house', 'heart', 'camera', 'bell', 'gear', 'rocket', 'cloud-sun', 'music-note', 'chat-circle', 'shopping-cart', 'airplane', 'leaf',
   'lightning', 'globe', 'lock', 'star', 'calendar', 'folder', 'code', 'map-pin', 'coffee', 'trophy', 'palette', 'game-controller'].filter((n) => by[n]);
@@ -29,12 +31,11 @@ const tiles = names.map((n, i) => `<div class="t">${ico(n, weights[i % 6], 56, '
 const og = `<!doctype html><html><head><style>
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Figtree:wght@500&display=swap');
 body{margin:0;width:1200px;height:630px;background:#f4f5f8;font-family:Figtree,sans-serif;color:#1b1e3a;display:grid;grid-template-columns:560px 1fr;overflow:hidden}
-.l{padding:56px 0 0 72px}.m svg{width:72px;height:72px;display:block;margin-bottom:24px}.e{font:500 20px/1 monospace;letter-spacing:.08em;text-transform:uppercase;color:#c96a00}
-h1{font:700 96px/.95 'Bricolage Grotesque',sans-serif;letter-spacing:-.03em;margin:18px 0 18px}
-p{font-size:30px;line-height:1.35;color:#5d6280;margin:0}.n{margin-top:40px;font:700 34px 'Bricolage Grotesque';}.n span{color:#c96a00}
+.l{padding:120px 0 0 72px}.w svg{width:440px;height:auto;display:block;margin-bottom:40px}.e{font:500 20px/1 monospace;letter-spacing:.08em;text-transform:uppercase;color:#c96a00}
+p{font-size:30px;line-height:1.35;color:#5d6280;margin:18px 0 0}.n{margin-top:40px;font:700 34px 'Bricolage Grotesque';}.n span{color:#c96a00}
 .g{display:grid;grid-template-columns:repeat(4,128px);gap:16px;padding:44px 0 0 24px;transform:rotate(-6deg);transform-origin:top left;margin-top:30px}
 .t{width:128px;height:128px;background:#fff;border:2px solid #dfe2ec;border-radius:24px;display:grid;place-items:center}
-</style></head><body><div class="l"><div class="m">${mark()}</div><div class="e">Open source · MIT</div><h1>Icon<br>Monks</h1>
+</style></head><body><div class="l"><div class="w">${wordmark}</div><div class="e">Open source · MIT</div>
 <p>Free icons in six weights for React, Vue, Flutter, iOS, Android and the web.</p>
 <div class="n"><span>${data.icons.length}</span> icons · 6 weights</div></div><div class="g">${tiles}</div></body></html>`;
 

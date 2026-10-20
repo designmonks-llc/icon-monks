@@ -14,7 +14,7 @@ export const icon = (byName, name, size = 18, weight = 'regular') =>
 export function header({ byName, up = '', REPO, theme = true, current = '' }) {
   const link = (href, label, key) => `<a href="${up}${href}"${current === key ? ' aria-current="page"' : ''}>${label}</a>`;
   return `<header class="site-head"><div class="site-head-in">
-  <a class="site-brand" href="${up || './'}"><img src="${up}favicon.svg" alt="" width="28" height="28">Icon Monks</a>
+  <a class="site-brand" href="${up || './'}" aria-label="Icon Monks home"><span class="site-logo" style="-webkit-mask-image: url(${up}logo.svg); mask-image: url(${up}logo.svg)"></span></a>
   <nav class="site-links" aria-label="Main">${link('', 'Icons', 'icons')}${link('categories/', 'Categories', 'categories')}${link('getting-started/', 'Get started', 'start')}${link('showcase/', 'Showcase', 'showcase')}</nav>
   <div class="site-acts">
     <a class="site-gh" href="${REPO}" target="_blank" rel="noopener">${icon(byName, 'github-logo', 17, 'fill')}<span>GitHub</span></a>
@@ -28,8 +28,9 @@ export const HEADER_CSS = `
   background: var(--h-bg); border-bottom: 1px solid var(--h-rule); }
 .site-head-in { max-width: var(--head-max, 1240px); margin: 0 auto; display: flex; align-items: center; gap: 28px; padding-block: 12px;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
-.site-brand { display: flex; align-items: center; gap: 10px; font: 500 18px var(--display); color: var(--h-ink); text-decoration: none; white-space: nowrap; }
-.site-brand img { display: block; border-radius: 7px; }
+.site-brand { display: flex; align-items: center; color: var(--h-ink); text-decoration: none; }
+/* The wordmark is a mask filled with the header ink, so it follows light and dark themes without a second file. */
+.site-logo { display: block; width: 136px; height: 23px; background: currentColor; -webkit-mask: center / contain no-repeat; mask: center / contain no-repeat; }
 .site-links { display: flex; gap: 22px; font-size: 14px; }
 .site-links a { color: var(--h-muted); text-decoration: none; white-space: nowrap; }
 .site-links a:hover, .site-links a[aria-current="page"] { color: var(--h-ink); }

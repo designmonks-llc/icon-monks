@@ -76,8 +76,9 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   background: var(--h-bg); border-bottom: 1px solid var(--h-rule); }
 .site-head-in { max-width: var(--head-max, 1240px); margin: 0 auto; display: flex; align-items: center; gap: 28px; padding-block: 12px;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
-.site-brand { display: flex; align-items: center; gap: 10px; font: 500 18px var(--display); color: var(--h-ink); text-decoration: none; white-space: nowrap; }
-.site-brand img { display: block; border-radius: 7px; }
+.site-brand { display: flex; align-items: center; color: var(--h-ink); text-decoration: none; }
+/* The wordmark is a mask filled with the header ink, so it follows light and dark themes without a second file. */
+.site-logo { display: block; width: 136px; height: 23px; background: currentColor; -webkit-mask: center / contain no-repeat; mask: center / contain no-repeat; }
 .site-links { display: flex; gap: 22px; font-size: 14px; }
 .site-links a { color: var(--h-muted); text-decoration: none; white-space: nowrap; }
 .site-links a:hover, .site-links a[aria-current="page"] { color: var(--h-ink); }
@@ -276,7 +277,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
 
 
 <header class="site-head"><div class="site-head-in">
-  <a class="site-brand" href="./"><img src="favicon.svg" alt="" width="28" height="28">Icon Monks</a>
+  <a class="site-brand" href="./" aria-label="Icon Monks home"><span class="site-logo" style="-webkit-mask-image: url(logo.svg); mask-image: url(logo.svg)"></span></a>
   <nav class="site-links" aria-label="Main"><a href="" aria-current="page">Icons</a><a href="categories/">Categories</a><a href="getting-started/">Get started</a><a href="showcase/">Showcase</a></nav>
   <div class="site-acts">
     <a class="site-gh" href="https://github.com/designmonks/icon-monks" target="_blank" rel="noopener"><svg class="ui-i" viewBox="0 0 256 256" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M100.94 223.39A8 8 0 0 0 104 224H152A8 8 0 0 0 160 216V190.79Q181.78 186.3 194.12 171.65Q208 155.17 208 128Q208 102.7 195.69 88.53L191.96 51.2A8 8 0 0 0 180.11 45.01L145.93 64H110.07L75.89 45.01A8 8 0 0 0 64.04 51.2L60.31 88.53Q48 102.7 48 128Q48 153.11 59.86 169.1A34.38 34.38 0 0 1 68.26 172.8Q72.51 175.36 79.79 181.75Q85.37 186.65 88.93 188.99A77.09 77.09 0 0 0 96 190.79V192.02A18.39 18.39 0 0 0 102.68 192.11A8 8 0 0 1 108.23 206.79A8 8 0 0 1 105.32 207.89A34.78 34.78 0 0 1 96 208.21V216A8 8 0 0 0 100.94 223.39Z"/></svg><span>GitHub</span></a>

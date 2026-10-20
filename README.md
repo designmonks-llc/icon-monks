@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-light.svg">
+    <img src="logo.svg" alt="Icon Monks" width="360">
+  </picture>
+</p>
+
 # Icon Monks
 
 An open source icon family by Design Monks: **5,518 icons × 6 weights** (thin, light, regular, bold, fill,
