@@ -5,7 +5,7 @@
 //   sitemap.xml, robots.txt, site.webmanifest for search engines (brand images come from scripts/brand.cjs)
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { buildPages } from './pages.mjs';
-import { header, icon, HEADER_CSS, HEADER_JS } from './chrome.mjs';
+import { header, icon, HEADER_CSS, HEADER_JS, HEADER_THEME } from './chrome.mjs';
 
 const root = new URL('..', import.meta.url);
 const data = JSON.parse(readFileSync(new URL('build/icons.json', root)));
@@ -76,8 +76,9 @@ const FAQ = [
 ];
 const faqHtml = FAQ.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${a}</p></details>`).join('\n    ');
 
-// Shared chrome and inline UI icons: __HEADER__, /*__HEADER_CSS__*/, <!--__HEADER_JS__--> and __ICON:name:size[:weight]__.
+// Shared chrome and inline UI icons: <!--__HEADER_THEME__-->, __HEADER__, /*__HEADER_CSS__*/, <!--__HEADER_JS__--> and __ICON:name:size[:weight]__.
 const chrome = (html, opts = {}) => html
+  .replace('<!--__HEADER_THEME__-->', HEADER_THEME)
   .replace('__HEADER__', header({ byName, REPO, ...opts }))
   .replace('/*__HEADER_CSS__*/', HEADER_CSS)
   .replace('<!--__HEADER_JS__-->', HEADER_JS)
@@ -176,7 +177,7 @@ writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
 writeFileSync(new URL('index.html', root), full);
 
 // Showcase: docs/showcase.html with the path data for just the icons it uses inlined, so the page works on its own.
-const showcase = chrome(readFileSync(new URL('docs/showcase.html', root), 'utf8'), { up: '../', theme: false, current: 'showcase' });
+const showcase = chrome(readFileSync(new URL('docs/showcase.html', root), 'utf8'), { up: '../', current: 'showcase' });
 const used = new Set(['plus', ...[...showcase.matchAll(/data-(?:i|tab)="([a-z0-9-]+)"/g)].map((m) => m[1])]);
 const pathsByName = Object.fromEntries(data.icons.map((i) => [i.name, i.paths]));
 const missingIcons = [...used].filter((n) => !pathsByName[n]);

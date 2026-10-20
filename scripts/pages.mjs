@@ -5,11 +5,14 @@
 //   getting-started/, license/
 // Pages share site.css and link to the SVG files GitHub Pages serves from svg/.
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
-import { header, HEADER_CSS, HEADER_JS } from './chrome.mjs';
+import { header, HEADER_CSS, HEADER_JS, HEADER_THEME } from './chrome.mjs';
 
 const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const pascal = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join('');
 const camel = (n) => { const p = pascal(n); return p[0].toLowerCase() + p.slice(1); };
+// Which main-nav link a page sits under: icon pages under Icons, platform guides under Get started.
+const navKey = (path) => path.startsWith('icon/') ? 'icons' : path.startsWith('categories') ? 'categories'
+  : path.startsWith('getting-started') || PLATFORMS.some((p) => p.path === path) ? 'start' : '';
 const slug = (c) => c.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const title = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join(' ');
 const svgFile = (name, w) => `svg/${w}/${name}${w === 'regular' ? '' : '-' + w}.svg`;
@@ -56,7 +59,7 @@ export function buildPages({ root, data, SITE, REPO, count, version }) {
 <meta name="twitter:image" content="${og}">
 <link rel="icon" href="${up}favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="${up}apple-touch-icon.png">
-<script>try{const t=localStorage.getItem('im-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
+${HEADER_THEME}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -64,7 +67,7 @@ export function buildPages({ root, data, SITE, REPO, count, version }) {
 ${ld({ '@graph': [breadcrumb, ...jsonld] })}
 </head>
 <body>
-${header({ byName, up, REPO, current: path.startsWith('categories') ? 'categories' : path.startsWith('getting-started') ? 'start' : '' })}
+${header({ byName, up, REPO, current: navKey(path) })}
 <main class="wrap">
   <ol class="crumbs">${trail.map(([name, p], k) => k === trail.length - 1 ? `<li aria-current="page">${esc(name)}</li>` : `<li><a href="${up}${p}">${esc(name)}</a></li>`).join('')}</ol>
   <h1>${h1}</h1>
@@ -250,7 +253,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</code></pre>`,
   }));
 
-  writeFileSync(new URL('site.css', root), CSS + HEADER_CSS + ':root{--head-max:1120px}');
+  writeFileSync(new URL('site.css', root), CSS + HEADER_CSS);
   return { urls, slug, PLATFORMS };
 }
 

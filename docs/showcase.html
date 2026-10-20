@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<!--__HEADER_THEME__-->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Icon Monks in Use: Dashboard, Mobile App and UI Examples</title>
 <meta name="description" content="See Icon Monks in real interfaces: a dashboard, a wallet app, a chat app, navbars, bottom navs, menus, toolbars and cards, in six weights. Free, MIT licensed.">
@@ -18,7 +19,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
 /* Layout: one light showcase sheet. A stage of overlapping device frames (browser + two phones) on a dotted canvas,
-   then a bento wall of framed UI pieces, every glyph an Icon Monks icon. Deliberately single-theme: light. */
+   then a bento wall of framed UI pieces, every glyph an Icon Monks icon. Deliberately single-theme: light; only the shared site header follows the theme. */
 :root {
   color-scheme: light;
   --canvas: #eef0f6; --dot: #d9dde9; --surface: #ffffff; --raised: #f5f6fa; --ink: #15182e; --muted: #626885; --line: #e3e6ef;
@@ -260,7 +261,6 @@ h1 em { font-style: normal; color: var(--accent); }
 }
 @media (max-width: 380px) { .phone { width: 100%; } }
 /*__HEADER_CSS__*/
-:root { --head-max: 1280px; }
 .weights { width: fit-content; margin-top: 6px; }
 </style>
 </head>
@@ -516,5 +516,6 @@ document.getElementById('bars').innerHTML = [38, 52, 44, 61, 58, 70, 66, 74, 69,
 if (!WEIGHTS.includes(weight)) weight = 'regular';
 renderWeights(); paint();
 </script>
+<!--__HEADER_JS__-->
 </body>
 </html>

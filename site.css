@@ -26,9 +26,13 @@ a:focus-visible,summary:focus-visible{outline:2px solid var(--saffron);outline-o
 footer{border-top:1px solid var(--rule);padding-block:32px 40px;color:var(--muted);font-size:13px}.foot{display:grid;grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr));gap:24px}.foot h2{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink);margin:0 0 12px}.foot ul{list-style:none;margin:0;padding:0;display:grid;gap:6px}.foot a{text-decoration:none}.foot a:hover{color:var(--ink);text-decoration:underline}.foot p{margin:0;max-width:46ch}
 @media (max-width:720px){.foot{grid-template-columns:repeat(2,minmax(0,1fr))}.foot>div:first-child{grid-column:1/-1}}
 
-.site-head { --h-bg: var(--paper, var(--canvas)); --h-ink: var(--ink); --h-muted: var(--muted); --h-rule: var(--rule, var(--line)); --h-sheet: var(--sheet, var(--surface));
-  background: var(--h-bg); border-bottom: 1px solid var(--h-rule); }
-.site-head-in { max-width: var(--head-max, 1240px); margin: 0 auto; display: flex; align-items: center; gap: 28px; padding-block: 12px;
+.site-head { --h-bg: #f4f5f8; --h-ink: #1b1e3a; --h-muted: #5d6280; --h-rule: #dfe2ec; --h-sheet: #ffffff; --h-focus: #c96a00;
+  background: var(--h-bg); border-bottom: 1px solid var(--h-rule); color: var(--h-ink); font: 400 14px/1.5 'DM Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .site-head { --h-bg: #11132a; --h-ink: #e8e9f4; --h-muted: #a0a4c4; --h-rule: #2c3058; --h-sheet: #191c38; --h-focus: #f5a53a; color-scheme: dark; }
+}
+:root[data-theme="dark"] .site-head { --h-bg: #11132a; --h-ink: #e8e9f4; --h-muted: #a0a4c4; --h-rule: #2c3058; --h-sheet: #191c38; --h-focus: #f5a53a; color-scheme: dark; }
+.site-head-in { max-width: 1240px; margin: 0 auto; display: flex; align-items: center; gap: 28px; padding-block: 12px;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 .site-brand { display: flex; align-items: center; color: var(--h-ink); text-decoration: none; }
 /* The wordmark is a mask filled with the header ink, so it follows light and dark themes without a second file. */
@@ -38,17 +42,17 @@ footer{border-top:1px solid var(--rule);padding-block:32px 40px;color:var(--mute
 .site-links a:hover, .site-links a[aria-current="page"] { color: var(--h-ink); }
 .site-acts { margin-left: auto; display: flex; align-items: center; gap: 8px; }
 .site-gh, .site-theme { display: inline-flex; align-items: center; gap: 7px; height: 36px; border: 1px solid var(--h-rule); background: var(--h-sheet);
-  color: var(--h-ink); border-radius: 10px; font: 500 13.5px var(--body); text-decoration: none; cursor: pointer; }
+  color: var(--h-ink); border-radius: 10px; font: inherit; font-size: 13.5px; font-weight: 500; text-decoration: none; cursor: pointer; }
 .site-gh { padding: 0 12px; }
 .site-theme { width: 36px; justify-content: center; padding: 0; color: var(--h-muted); }
 .site-theme:hover, .site-gh:hover { border-color: var(--h-muted); }
 .site-theme .ui-i { display: none; }
 .site-theme[data-mode="system"] .ui-i:nth-child(1), .site-theme[data-mode="light"] .ui-i:nth-child(2), .site-theme[data-mode="dark"] .ui-i:nth-child(3) { display: block; }
-.site-head a:focus-visible, .site-head button:focus-visible { outline: 2px solid var(--saffron, var(--accent)); outline-offset: 2px; }
+.site-head a:focus-visible, .site-head button:focus-visible { outline: 2px solid var(--h-focus); outline-offset: 2px; }
 .ui-i { display: block; flex: none; }
 @media (max-width: 720px) {
   .site-head-in { flex-wrap: wrap; gap: 10px 16px; }
   .site-links { order: 3; width: 100%; gap: 18px; overflow-x: auto; scrollbar-width: none; }
   .site-gh span { display: none; }
   .site-gh { width: 36px; justify-content: center; padding: 0; }
-}:root{--head-max:1120px}
+}
