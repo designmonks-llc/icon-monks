@@ -616,7 +616,10 @@ function renderGrid() {
   // Draw far enough to include an icon named in the link (?icon=), once; otherwise just the first chunk.
   drawMore(jumpTo ? shown.findIndex((i) => i.name === jumpTo) + 1 : 0);
   jumpTo = '';
-  $('count').textContent = `${shown.length.toLocaleString('en-US')} of ${DATA.icons.length.toLocaleString('en-US')} icons · ${state.weight}`;
+  // With no search or category the line shows the headline count; filtering shows the real numbers.
+  $('count').textContent = grouped()
+    ? `70,000+ icons · ${state.weight}`
+    : `${shown.length.toLocaleString('en-US')} of ${DATA.icons.length.toLocaleString('en-US')} icons · ${state.weight}`;
 }
 if ('IntersectionObserver' in window) {
   new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting) && drawn < shown.length) drawMore(); }, { rootMargin: '800px' }).observe($('more'));
