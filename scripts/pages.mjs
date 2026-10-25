@@ -4,7 +4,7 @@
 //   <platform>-icons/     install and usage guides for each package
 //   getting-started/, license/
 // Pages share site.css and link to the SVG files GitHub Pages serves from svg/.
-import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { header, HEADER_CSS, HEADER_JS, HEADER_THEME, STUDIO, STUDIO_LINK, CREDIT } from './chrome.mjs';
 
 const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -281,7 +281,8 @@ const CATEGORY_BLURBS = {
 };
 
 const code = (t) => `<pre><code>${esc(t)}</code></pre>`;
-const SITE_URL = 'https://designmonks.github.io/icon-monks/';
+const SITE_URL = 'https://www.iconmonks.co/';
+const VERSION = JSON.parse(readFileSync(new URL('../package.json', import.meta.url))).version;
 
 const PLATFORMS = [
   { path: 'react-icons/', short: 'React icons', pkg: '@icon-monks/react', lang: 'TypeScript', install: 'npm i @icon-monks/react',
@@ -364,26 +365,26 @@ const PLATFORMS = [
     faq: [['Does it work on iOS, Android, web and desktop?', 'Yes. The icons are fonts bundled with the package, so they work on every platform Flutter supports.'],
       ['Is duotone available?', 'Not in Flutter, because icon fonts are single-color. Use the SVG files with flutter_svg if you need duotone.'],
       ['Does tree shaking remove unused icons?', 'Yes. Flutter\'s font tree shaking keeps only the glyphs your release build uses.']] },
-  { path: 'swiftui-icons/', short: 'SwiftUI icons', pkg: 'IconMonks', lang: 'Swift', install: '.package(url: "https://github.com/designmonks/icon-monks", from: "0.3.0")',
+  { path: 'swiftui-icons/', short: 'SwiftUI icons', pkg: 'IconMonks', lang: 'Swift', install: `.package(url: "https://github.com/designmonks-llc/icon-monks", from: "${VERSION}")`,
     blurb: 'A Swift package with vector assets for SwiftUI and UIKit.',
     title: (n) => `SwiftUI Icons: ${n} Free Icons for iOS and macOS | Icon Monks`,
     description: (n) => `${n} free icons for SwiftUI and UIKit as a Swift package. Vector assets in six weights with template rendering for iOS, macOS, tvOS and watchOS.`,
     h1: 'SwiftUI and iOS icons', lede: (n) => `${n} free vector icons for SwiftUI and UIKit on iOS, macOS, tvOS and watchOS, in all six weights including duotone.`,
     sections: [
-      ['Install', '<p>In Xcode choose File &gt; Add Package Dependencies and enter the repository URL, or add it to <code>Package.swift</code>:</p>' + code('.package(url: "https://github.com/designmonks/icon-monks", from: "0.3.0")')],
+      ['Install', '<p>In Xcode choose File &gt; Add Package Dependencies and enter the repository URL, or add it to <code>Package.swift</code>:</p>' + code(`.package(url: "https://github.com/designmonks-llc/icon-monks", from: "${VERSION}")`)],
       ['Use an icon', code(`import IconMonks\n\nImage(iconMonks: .house)\n    .resizable()\n    .frame(width: 24, height: 24)\n    .foregroundStyle(.purple)\n\nImage(iconMonks: .heart, weight: .fill)\nlet tabIcon = IconMonk.gear.uiImage(.bold)   // UIKit`)],
       ['How it works', '<p>Icons ship as vector assets with preserved vector data and template rendering, so they stay sharp at any size and take the tint color, just like SF Symbols.</p>'],
     ],
     faq: [['Which platforms are supported?', 'iOS, iPadOS, macOS, tvOS and watchOS through Swift Package Manager.'],
       ['Can I use them alongside SF Symbols?', 'Yes. They render as template images, so they follow foregroundStyle and tint the same way.'],
       ['Is duotone included?', 'Yes. All six weights, including duotone, are available.']] },
-  { path: 'jetpack-compose-icons/', short: 'Android icons', pkg: 'com.github.designmonks:icon-monks', lang: 'Kotlin', install: 'implementation("com.github.designmonks:icon-monks:v0.3.0")',
+  { path: 'jetpack-compose-icons/', short: 'Android icons', pkg: 'com.github.designmonks-llc:icon-monks', lang: 'Kotlin', install: `implementation("com.github.designmonks-llc:icon-monks:v${VERSION}")`,
     blurb: 'Jetpack Compose ImageVectors and XML VectorDrawables.',
     title: (n) => `Jetpack Compose & Android Icons: ${n} Free ImageVector Icons | Icon Monks`,
     description: (n) => `${n} free Android icons as Jetpack Compose ImageVectors and XML VectorDrawables in six weights. Only the icons you import are compiled into your app.`,
     h1: 'Jetpack Compose and Android icons', lede: (n) => `${n} free icons for Android, as Jetpack Compose <code>ImageVector</code>s and classic XML <code>VectorDrawable</code>s.`,
     sections: [
-      ['Install', code(`// settings.gradle.kts\ndependencyResolutionManagement { repositories { google(); mavenCentral(); maven("https://jitpack.io") } }\n\n// app/build.gradle.kts\nimplementation("com.github.designmonks:icon-monks:v0.3.0")`)],
+      ['Install', code(`// settings.gradle.kts\ndependencyResolutionManagement { repositories { google(); mavenCentral(); maven("https://jitpack.io") } }\n\n// app/build.gradle.kts\nimplementation("com.github.designmonks-llc:icon-monks:v${VERSION}")`)],
       ['Jetpack Compose', code(`import com.designmonks.icons.IconMonks\nimport com.designmonks.icons.regular.House\nimport com.designmonks.icons.bold.Heart\n\nIcon(IconMonks.Regular.House, contentDescription = "Home")\nIcon(IconMonks.Bold.Heart, contentDescription = null, tint = Color.Red)`)],
       ['Views and XML', code(`<ImageView android:src="@drawable/im_house" app:tint="@color/brand" />\n<ImageView android:src="@drawable/im_heart_fill" />`) + '<p>Drawables use <code>?android:attr/colorControlNormal</code> as their tint, matching Material icons.</p>'],
     ],

@@ -29,8 +29,8 @@ const meta = {
   shards: SHARDS,
   icons: ordered.map((i, n) => ({ i: n, name: i.name, category: i.category, tags: i.tags })),
 };
-const SITE = 'https://designmonks.github.io/icon-monks/';
-const REPO = 'https://github.com/designmonks/icon-monks';
+const SITE = 'https://www.iconmonks.co/';
+const REPO = 'https://github.com/designmonks-llc/icon-monks';
 // Headline icon count shown across the site and package docs
 const count = '70,000+';
 const cats = [...new Set(data.icons.map((i) => i.category))];
@@ -107,7 +107,7 @@ const ld = {
     { '@type': 'WebSite', '@id': `${SITE}#website`, name: 'Icon Monks', url: SITE, description, inLanguage: 'en',
       publisher: { '@id': `${SITE}#org` }, creator: { '@id': `${SITE}#org` },
       potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${SITE}?q={search_term_string}` }, 'query-input': 'required name=search_term_string' } },
-    { '@type': 'Organization', '@id': `${SITE}#org`, name: STUDIO.name, url: STUDIO.url, logo: `${SITE}icon-512.png`, sameAs: ['https://github.com/designmonks', REPO] },
+    { '@type': 'Organization', '@id': `${SITE}#org`, name: STUDIO.name, url: STUDIO.url, logo: `${SITE}icon-512.png`, sameAs: ['https://github.com/designmonks-llc', REPO] },
     { '@type': 'FAQPage', '@id': `${SITE}#faq`, mainEntity: FAQ.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } })) },
     { '@type': 'SoftwareSourceCode', '@id': `${SITE}#code`, name: 'Icon Monks', description, url: SITE,
       codeRepository: REPO, license: 'https://opensource.org/licenses/MIT',
@@ -147,7 +147,7 @@ const head = `<title>${esc(title)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`;
-const noscript = `<noscript><p class="wrap">Icon Monks has ${count} icons in ${cats.length} categories: ${cats.join(', ')}. The icon browser needs JavaScript; every icon is also on <a href="https://github.com/designmonks/icon-monks/tree/main/svg">GitHub as SVG</a>.</p></noscript>`;
+const noscript = `<noscript><p class="wrap">Icon Monks has ${count} icons in ${cats.length} categories: ${cats.join(', ')}. The icon browser needs JavaScript; every icon is also on <a href="https://github.com/designmonks-llc/icon-monks/tree/main/svg">GitHub as SVG</a>.</p></noscript>`;
 const full = `<!doctype html>
 <html lang="en">
 <head>

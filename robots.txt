@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://designmonks.github.io/icon-monks/sitemap.xml
+Sitemap: https://www.iconmonks.co/sitemap.xml

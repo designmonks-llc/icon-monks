@@ -1,6 +1,6 @@
-## Unreleased
+## 0.4.0
 
-- Adds 786 icons (5,518 total) across 31 categories, including a new Brands category. Variant icons share one badge pattern, every icon passes a strict lint, and the web component loads icons on demand.
+- Adds 1,322 icons (6,054 total) across 31 categories, including a new Brands category with 652 logos. Variant icons share one badge pattern, every icon passes a strict lint, and the web component loads icons on demand.
 
 ## 0.3.0
 

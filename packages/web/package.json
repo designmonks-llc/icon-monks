@@ -1,13 +1,13 @@
 {
   "name": "@icon-monks/web",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Icon Monks as a <icon-monks> custom element. Works in any framework or plain HTML.",
   "license": "MIT",
   "author": "Design Monks (https://monks.company/)",
-  "homepage": "https://designmonks.github.io/icon-monks/",
+  "homepage": "https://www.iconmonks.co/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/designmonks/icon-monks.git"
+    "url": "git+https://github.com/designmonks-llc/icon-monks.git"
   },
   "keywords": [
     "icons",

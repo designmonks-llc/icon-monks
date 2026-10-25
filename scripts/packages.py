@@ -27,7 +27,7 @@ ICONS = DATA['icons']
 WEIGHTS = DATA['weights']
 SOLID_WEIGHTS = [w for w in WEIGHTS if w != 'duotone']
 VERSION = json.load(open(os.path.join(ROOT, 'package.json')))['version']
-CHANGELOG = ('## Unreleased\n\n- Adds 786 icons (5,518 total) across 31 categories, including a new Brands category. '
+CHANGELOG = ('## 0.4.0\n\n- Adds 1,322 icons (6,054 total) across 31 categories, including a new Brands category with 652 logos. '
              'Variant icons share one badge pattern, every icon passes a strict lint, and the web component loads icons '
              'on demand.\n\n'
              '## 0.3.0\n\n- Adds 4,235 icons (4,732 total) across 30 categories, unifies icon families and fixes shapes '
@@ -76,8 +76,8 @@ def codepoints():
 def npm_package(path, name, description, extra):
     pkg = {
         'name': name, 'version': VERSION, 'description': description, 'license': 'MIT',
-        'author': 'Design Monks (https://monks.company/)', 'homepage': 'https://designmonks.github.io/icon-monks/',
-        'repository': {'type': 'git', 'url': 'git+https://github.com/designmonks/icon-monks.git'},
+        'author': 'Design Monks (https://monks.company/)', 'homepage': 'https://www.iconmonks.co/',
+        'repository': {'type': 'git', 'url': 'git+https://github.com/designmonks-llc/icon-monks.git'},
         'keywords': ['icons', 'icon', 'icon-library', 'svg', 'svg-icons', 'open-source-icons', 'icon-set', 'react-icons', 'vue-icons', 'web-components', 'icon-font', 'icon-monks'],
     }
     pkg.update(extra)
@@ -578,8 +578,8 @@ def flutter(cps):
     write(os.path.join(path, 'pubspec.yaml'), f"""name: icon_monks
 description: Icon Monks for Flutter. 70,000+ open source icons in thin, light, regular, bold and fill weights.
 version: {VERSION}
-homepage: https://designmonks.github.io/icon-monks/
-repository: https://github.com/designmonks/icon-monks
+homepage: https://www.iconmonks.co/
+repository: https://github.com/designmonks-llc/icon-monks
 topics:
   - icons
   - icon-font
@@ -761,7 +761,7 @@ afterEvaluate {{
         publications {{
             create<MavenPublication>("release") {{
                 from(components["release"])
-                groupId = "com.github.designmonks"
+                groupId = "com.github.designmonks-llc"
                 artifactId = "icon-monks"
                 version = System.getenv("VERSION") ?: "{VERSION}"
             }}
@@ -778,7 +778,7 @@ Published through JitPack. Add the repository and the dependency:
 dependencyResolutionManagement {{ repositories {{ google(); mavenCentral(); maven("https://jitpack.io") }} }}
 
 // app/build.gradle.kts
-implementation("com.github.designmonks:icon-monks:v{VERSION}")
+implementation("com.github.designmonks-llc:icon-monks:v{VERSION}")
 ```
 
 Two ways to use the icons, both in this library:
@@ -887,11 +887,11 @@ let package = Package(
 """)
     write(os.path.join(path, 'README.md'), """# Icon Monks for iOS, macOS, tvOS and watchOS
 
-In Xcode choose File > Add Package Dependencies and enter `https://github.com/designmonks/icon-monks`, or in
+In Xcode choose File > Add Package Dependencies and enter `https://github.com/designmonks-llc/icon-monks`, or in
 `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/designmonks/icon-monks", from: "%s")
+.package(url: "https://github.com/designmonks-llc/icon-monks", from: "%s")
 ```
 """ % VERSION + """
 ```swift

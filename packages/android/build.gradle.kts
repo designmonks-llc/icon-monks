@@ -28,9 +28,9 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.github.designmonks"
+                groupId = "com.github.designmonks-llc"
                 artifactId = "icon-monks"
-                version = System.getenv("VERSION") ?: "0.3.0"
+                version = System.getenv("VERSION") ?: "0.4.0"
             }
         }
     }

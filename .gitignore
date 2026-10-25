@@ -3,3 +3,4 @@ build/
 browser-test.png
 __pycache__/
 .protected-icons
+.dart_tool/
