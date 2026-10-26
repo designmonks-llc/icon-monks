@@ -5,22 +5,31 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/@icon-monks/react"><img src="https://img.shields.io/npm/v/@icon-monks/react?label=npm" alt="npm"></a>
+  <a href="https://pub.dev/packages/icon_monks"><img src="https://img.shields.io/pub/v/icon_monks?label=pub.dev" alt="pub.dev"></a>
+  <a href="https://jitpack.io/#designmonks-llc/icon-monks"><img src="https://jitpack.io/v/designmonks-llc/icon-monks.svg" alt="JitPack"></a>
+  <a href="packages/swift"><img src="https://img.shields.io/badge/Swift_Package_Manager-compatible-orange" alt="Swift Package Manager"></a>
+  <a href="https://github.com/designmonks-llc/icon-monks/actions/workflows/ci.yml"><img src="https://github.com/designmonks-llc/icon-monks/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license"></a>
+</p>
+
 # Icon Monks
 
 An open source icon family, a product of [Design Monks](https://monks.company/): **70,000+ icons in 6 weights** (thin, light, regular, bold, fill,
 duotone), drawn on a 256-unit grid and generated into native packages for every major platform.
 Icons are grouped into 31 categories: animals, arrows, brands, business, charts, commerce, communication, design, development, devices, editor, education, emoji, files, food, health, home, interface, letters & numbers, maps, media, nature, objects, people, science, security, sports, symbols, time, transport, weather.
 
-| Platform | Package | Folder |
-| --- | --- | --- |
-| SVG, sprites, metadata | `@icon-monks/core` | [packages/core](packages/core) |
-| React | `@icon-monks/react` | [packages/react](packages/react) |
-| Vue 3 | `@icon-monks/vue` | [packages/vue](packages/vue) |
-| Web Components / CDN | `@icon-monks/web` | [packages/web](packages/web) |
-| Icon font (OTF + WOFF2, CSS) | `@icon-monks/font` | [packages/font](packages/font) |
-| Flutter | `icon_monks` | [packages/flutter](packages/flutter) |
-| Android (Compose + VectorDrawable) | `com.github.designmonks-llc:icon-monks` (JitPack) | [packages/android](packages/android) |
-| iOS / macOS / tvOS / watchOS (SwiftUI + UIKit) | Swift Package `IconMonks` | [packages/swift](packages/swift) |
+| Platform | Package | Version | Folder |
+| --- | --- | --- | --- |
+| SVG, sprites, metadata | `@icon-monks/core` | [![npm](https://img.shields.io/npm/v/@icon-monks/core?label=)](https://www.npmjs.com/package/@icon-monks/core) | [packages/core](packages/core) |
+| React | `@icon-monks/react` | [![npm](https://img.shields.io/npm/v/@icon-monks/react?label=)](https://www.npmjs.com/package/@icon-monks/react) | [packages/react](packages/react) |
+| Vue 3 | `@icon-monks/vue` | [![npm](https://img.shields.io/npm/v/@icon-monks/vue?label=)](https://www.npmjs.com/package/@icon-monks/vue) | [packages/vue](packages/vue) |
+| Web Components / CDN | `@icon-monks/web` | [![npm](https://img.shields.io/npm/v/@icon-monks/web?label=)](https://www.npmjs.com/package/@icon-monks/web) | [packages/web](packages/web) |
+| Icon font (OTF + WOFF2, CSS) | `@icon-monks/font` | [![npm](https://img.shields.io/npm/v/@icon-monks/font?label=)](https://www.npmjs.com/package/@icon-monks/font) | [packages/font](packages/font) |
+| Flutter | `icon_monks` | [![pub.dev](https://img.shields.io/pub/v/icon_monks?label=)](https://pub.dev/packages/icon_monks) | [packages/flutter](packages/flutter) |
+| Android (Compose + VectorDrawable) | `com.github.designmonks-llc:icon-monks` (JitPack) | [![JitPack](https://jitpack.io/v/designmonks-llc/icon-monks.svg)](https://jitpack.io/#designmonks-llc/icon-monks) | [packages/android](packages/android) |
+| iOS / macOS / tvOS / watchOS (SwiftUI + UIKit) | Swift Package `IconMonks` | [![release](https://img.shields.io/github/v/release/designmonks-llc/icon-monks?label=)](https://github.com/designmonks-llc/icon-monks/releases) | [packages/swift](packages/swift) |
 
 Browse, search and copy icons at **https://www.iconmonks.co/** (built from `docs/template.html` into `index.html`).
 
@@ -65,6 +74,13 @@ Read [STYLE.md](STYLE.md) first. It has the drawing rules every new icon follows
 4. Run `npm run build` and check the result in `index.html`.
 
 Font codepoints are append-only (`codepoints.json`), so existing glyphs never move.
+
+## Releasing
+
+1. Bump `version` in `package.json`, add a changelog entry in `scripts/packages.py`, run `npm run build` and merge.
+2. Create the GitHub release: `gh release create vX.Y.Z --target main --title "Icon Monks vX.Y.Z"`. This tags `main`.
+3. The tag runs `.github/workflows/release.yml`, which publishes the npm packages (trusted publishing, no token)
+   and the Flutter package (pub.dev automated publishing). Swift Package Manager and JitPack build straight from the tag.
 
 ## License
 
