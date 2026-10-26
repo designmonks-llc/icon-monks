@@ -1,0 +1,13 @@
+name: icon_monks_example
+description: Shows Icon Monks icons in every weight.
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  icon_monks:
+    path: ../
