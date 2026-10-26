@@ -85,6 +85,7 @@ const chrome = (html, opts = {}) => html
   .replace('/*__HEADER_CSS__*/', HEADER_CSS)
   .replace('<!--__HEADER_JS__-->', HEADER_JS)
   .replaceAll('__STUDIO__', STUDIO_LINK)
+  .replaceAll('__VERSION__', version)
   .replace('__CREDIT__', CREDIT)
   .replace(/__ICON:([a-z0-9-]+):(\d+)(?::([a-z]+))?__/g, (_, n, size, w) => {
     if (!byName[n]) throw new Error(`unknown UI icon: ${n}`);
@@ -174,6 +175,32 @@ ${pages.urls.map((u) => `  <url><loc>${u}</loc></url>`).join('\n')}
 </urlset>
 `);
 writeFileSync(new URL('robots.txt', root), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
+// llms.txt: a plain summary for AI assistants and answer engines (https://llmstxt.org)
+writeFileSync(new URL('llms.txt', root), `# Icon Monks
+
+> ${count} free, open source icons in six weights (thin, light, regular, bold, fill, duotone), drawn on one 256-unit
+> grid, with packages for React, Vue, Web Components, an icon font, SVG, Flutter, SwiftUI and Jetpack Compose. MIT
+> licensed. A product of Design Monks.
+
+## Install
+
+- React: \`npm install @icon-monks/react\`
+- Vue 3: \`npm install @icon-monks/vue\`
+- Web Components: \`npm install @icon-monks/web\`
+- Icon font: \`npm install @icon-monks/font\`
+- SVG files and helpers: \`npm install @icon-monks/core\`
+- Flutter: \`flutter pub add icon_monks\`
+- SwiftUI: Swift Package Manager, ${REPO}
+- Android: \`implementation("com.github.designmonks-llc:icon-monks:v${version}")\` from JitPack
+
+## Docs
+
+${pages.PLATFORMS.map((p) => `- [${p.short}](${SITE}${p.path}): ${p.blurb.replace(/<([^>]+)>/g, '`<$1>`')}`).join('\n')}
+- [Get started](${SITE}getting-started/)
+- [Categories](${SITE}categories/)
+- [License](${SITE}license/)
+- [Source code](${REPO})
+`);
 writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
   name: 'Icon Monks', short_name: 'Icon Monks', description, start_url: './', scope: './', display: 'standalone',
   background_color: '#f4f5f8', theme_color: '#aeacff',
