@@ -13,7 +13,7 @@ Icon Monks as a web font: 6,054 icons in five weights (thin, light, regular, bol
 From a CDN:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@0.4.0/dist/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@0.4.1/dist/index.css">
 ```
 
 Or `npm install @icon-monks/font` and `import '@icon-monks/font';` in your app (or `'@icon-monks/font/bold.css'` for a

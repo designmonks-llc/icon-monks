@@ -13,7 +13,7 @@
 - SVG files and helpers: `npm install @icon-monks/core`
 - Flutter: `flutter pub add icon_monks`
 - SwiftUI: Swift Package Manager, https://github.com/designmonks-llc/icon-monks
-- Android: `implementation("com.github.designmonks-llc:icon-monks:v0.4.0")` from JitPack
+- Android: `implementation("com.github.designmonks-llc:icon-monks:v0.4.1")` from JitPack
 
 ## Docs
 

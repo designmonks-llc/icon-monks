@@ -1,6 +1,6 @@
 {
   "name": "@icon-monks/web",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Icon Monks as a <icon-monks> custom element. Works in any framework or plain HTML.",
   "license": "MIT",
   "author": "Design Monks (https://monks.company/)",

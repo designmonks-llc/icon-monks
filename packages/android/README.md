@@ -17,7 +17,7 @@ The library is published through JitPack. Add the repository and the dependency:
 dependencyResolutionManagement { repositories { google(); mavenCentral(); maven("https://jitpack.io") } }
 
 // app/build.gradle.kts
-implementation("com.github.designmonks-llc:icon-monks:v0.4.0")
+implementation("com.github.designmonks-llc:icon-monks:v0.4.1")
 ```
 
 ## Jetpack Compose
