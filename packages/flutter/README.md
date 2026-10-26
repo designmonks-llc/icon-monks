@@ -12,7 +12,8 @@ the same 256-unit grid, so they line up with each other and with your text. A pr
 
 - **One `IconData` per icon and weight**, ready for `Icon`, `IconButton`, `NavigationBar` and anything else that takes an icon.
 - **Works on every platform** Flutter supports: Android, iOS, web, macOS, Windows and Linux.
-- **Small release builds.** Flutter's icon tree shaking keeps only the glyphs your app uses.
+- **Small release builds.** With the `IconMonks.house` shorthands, Flutter's icon tree shaking keeps only the regular
+  glyphs your app uses. Using another weight (`IconMonks.bold.house`) bundles that weight's whole font, about 1 MB.
 - **No dependencies** beyond Flutter itself.
 
 Browse and search every icon at **[iconmonks.co](https://www.iconmonks.co/)**.
