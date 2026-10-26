@@ -208,7 +208,7 @@ ${HEADER_JS}
       { '@type': 'HowToStep', name: 'Use an icon', text: 'Import the icon by name and set its size, color and weight.' }] }],
     body: (up) => `
   <h2>1. Choose your platform</h2>
-  <div class="cards">${PLATFORMS.map((p) => `<a class="card" href="${up}${p.path}"><h3>${p.short}</h3><p>${p.blurb}</p><code>${esc(p.card || p.install)}</code></a>`).join('')}</div>
+  <div class="cards">${PLATFORMS.map((p) => `<a class="card" href="${up}${p.path}"><h3>${p.short}</h3><p>${esc(p.blurb)}</p><code>${esc(p.card || p.install)}</code></a>`).join('')}</div>
   <h2>2. No build step? Link a file</h2>
   <p>The web component and the icon font load from a CDN, and every icon is also a standalone SVG:</p>
   <pre><code>${esc(`<script src="https://cdn.jsdelivr.net/npm/@icon-monks/web@${VERSION}"></script>\n<icon-monks name="house"></icon-monks>\n\n<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@${VERSION}/dist/index.css">\n<i class="im im-house"></i>\n\n<img src="${SITE}svg/bold/heart-bold.svg" alt="" width="24" height="24">`)}</code></pre>
