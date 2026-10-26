@@ -23,7 +23,7 @@ export function header({ byName, up = '', REPO, current = '' }) {
   <a class="site-brand" href="${up || './'}" aria-label="Icon Monks home"><span class="site-logo" style="-webkit-mask-image: url(${up}logo.svg); mask-image: url(${up}logo.svg)"></span></a>
   <nav class="site-links" aria-label="Main">${link('', 'Icons', 'icons')}${link('categories/', 'Categories', 'categories')}${link('getting-started/', 'Get started', 'start')}${link('showcase/', 'Showcase', 'showcase')}</nav>
   <div class="site-acts">
-    <a class="site-gh" href="${REPO}" target="_blank" rel="noopener">${icon(byName, 'github-logo', 17, 'fill')}<span>GitHub</span></a>
+    <a class="site-gh" href="${REPO}" target="_blank" rel="noopener" aria-label="GitHub">${icon(byName, 'github-logo', 17, 'fill')}<span>GitHub</span></a>
     <button class="site-theme" id="site-theme" type="button" aria-label="Theme: system">${icon(byName, 'monitor', 17)}${icon(byName, 'sun', 17)}${icon(byName, 'moon', 17)}</button>
   </div>
 </div></header>`;

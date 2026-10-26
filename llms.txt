@@ -1,0 +1,31 @@
+# Icon Monks
+
+> 70,000+ free, open source icons in six weights (thin, light, regular, bold, fill, duotone), drawn on one 256-unit
+> grid, with packages for React, Vue, Web Components, an icon font, SVG, Flutter, SwiftUI and Jetpack Compose. MIT
+> licensed. A product of Design Monks.
+
+## Install
+
+- React: `npm install @icon-monks/react`
+- Vue 3: `npm install @icon-monks/vue`
+- Web Components: `npm install @icon-monks/web`
+- Icon font: `npm install @icon-monks/font`
+- SVG files and helpers: `npm install @icon-monks/core`
+- Flutter: `flutter pub add icon_monks`
+- SwiftUI: Swift Package Manager, https://github.com/designmonks-llc/icon-monks
+- Android: `implementation("com.github.designmonks-llc:icon-monks:v0.4.0")` from JitPack
+
+## Docs
+
+- [React icons](https://www.iconmonks.co/react-icons/): Typed, tree-shakeable components with an IconContext for defaults.
+- [Vue icons](https://www.iconmonks.co/vue-icons/): Vue 3 components with provide/inject defaults.
+- [Web components](https://www.iconmonks.co/web-components/): An `<icon-monks>` element for plain HTML, Angular, Svelte, Astro and WordPress.
+- [Icon font](https://www.iconmonks.co/icon-font/): OTF and WOFF2 fonts with CSS classes in five weights.
+- [SVG icons](https://www.iconmonks.co/svg-icons/): Raw SVG files, sprites, metadata and a toSvg() helper.
+- [Flutter icons](https://www.iconmonks.co/flutter-icons/): IconData constants backed by bundled fonts.
+- [SwiftUI icons](https://www.iconmonks.co/swiftui-icons/): A Swift package with vector assets for SwiftUI and UIKit.
+- [Android icons](https://www.iconmonks.co/jetpack-compose-icons/): Jetpack Compose ImageVectors and XML VectorDrawables.
+- [Get started](https://www.iconmonks.co/getting-started/)
+- [Categories](https://www.iconmonks.co/categories/)
+- [License](https://www.iconmonks.co/license/)
+- [Source code](https://github.com/designmonks-llc/icon-monks)

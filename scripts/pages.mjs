@@ -103,7 +103,7 @@ ${HEADER_JS}
     'Icon font': (n) => `<i class="im im-${n}"></i>`,
     Flutter: (n) => `Icon(IconMonks.${camel(n)})`,
     SwiftUI: (n) => `Image(iconMonks: .${camel(n)})`,
-    Compose: (n) => `Icon(IconMonks.Regular.${pascal(n)}, contentDescription = null)`,
+    Compose: (n) => `import com.designmonks.icons.IconMonks\nimport com.designmonks.icons.regular.${pascal(n)}\n\nIcon(IconMonks.Regular.${pascal(n)}, contentDescription = null)`,
   };
 
   // Icon pages. Clear the folder first so renamed or removed icons leave no stale pages behind.
@@ -197,7 +197,7 @@ ${HEADER_JS}
 
   write('getting-started/', page({
     path: 'getting-started/', depth: 1,
-    title: 'Getting Started with Icon Monks: Install Free Icons on Any Platform',
+    title: 'Get Started with Icon Monks: Install on Any Platform',
     description: 'Add Icon Monks to a website, React or Vue app, Flutter project, iOS app or Android app in a few steps. Free, open source and MIT licensed.',
     h1: 'Getting started with Icon Monks',
     lede: `Pick the setup that matches your project. Every option uses the same ${count} icons and six weights, so you can mix platforms freely.`,
@@ -208,10 +208,10 @@ ${HEADER_JS}
       { '@type': 'HowToStep', name: 'Use an icon', text: 'Import the icon by name and set its size, color and weight.' }] }],
     body: (up) => `
   <h2>1. Choose your platform</h2>
-  <div class="cards">${PLATFORMS.map((p) => `<a class="card" href="${up}${p.path}"><h3>${p.short}</h3><p>${p.blurb}</p><code>${esc(p.install)}</code></a>`).join('')}</div>
+  <div class="cards">${PLATFORMS.map((p) => `<a class="card" href="${up}${p.path}"><h3>${p.short}</h3><p>${esc(p.blurb)}</p><code>${esc(p.card || p.install)}</code></a>`).join('')}</div>
   <h2>2. No build step? Link a file</h2>
-  <p>Every icon is served as a standalone SVG, and the icon font ships with a ready-made stylesheet:</p>
-  <pre><code>${esc(`<link rel="stylesheet" href="${SITE}packages/font/dist/index.css">\n<i class="im im-house"></i>\n\n<img src="${SITE}svg/bold/heart-bold.svg" alt="" width="24" height="24">`)}</code></pre>
+  <p>The web component and the icon font load from a CDN, and every icon is also a standalone SVG:</p>
+  <pre><code>${esc(`<script src="https://cdn.jsdelivr.net/npm/@icon-monks/web@${VERSION}"></script>\n<icon-monks name="house"></icon-monks>\n\n<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@${VERSION}/dist/index.css">\n<i class="im im-house"></i>\n\n<img src="${SITE}svg/bold/heart-bold.svg" alt="" width="24" height="24">`)}</code></pre>
   <h2>3. Pick a weight</h2>
   <p>Thin, light, regular and bold are outlines with 8, 12, 16 and 24-unit strokes on a 256-unit grid. Fill is solid and duotone layers the outline over a 20% tint. Regular is the default; use bold for small sizes and fill for selected states.</p>
   <h2>4. Find icons</h2>
@@ -258,6 +258,25 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</code></pre>`,
   }));
 
+  const notFound = page({
+    path: '404.html', depth: 0,
+    title: 'Page not found | Icon Monks',
+    description: 'This page does not exist. Search the Icon Monks icon browser or pick a platform to get started.',
+    h1: 'Page not found',
+    lede: `That page doesn't exist, or it moved. All ${count} icons are still a search away.`,
+    crumbs: [['Page not found', '404.html']],
+    body: (up) => `
+  <div class="cards">
+    <a class="card" href="${up}"><h3>Search icons</h3><p>Find any icon by name or tag in the icon browser.</p></a>
+    <a class="card" href="${up}getting-started/"><h3>Get started</h3><p>Install Icon Monks for your platform.</p></a>
+    <a class="card" href="${up}categories/"><h3>Browse categories</h3><p>Explore ${cats.length} categories of icons.</p></a>
+  </div>`,
+  });
+  writeFileSync(new URL('404.html', root), notFound
+    .replace('<meta charset="utf-8">', `<meta charset="utf-8">\n<base href="${SITE}">`)
+    .replace(/<link rel="canonical"[^>]*>\n/, '')
+    .replace('content="index, follow, max-image-preview:large"', 'content="noindex, follow"'));
+
   writeFileSync(new URL('site.css', root), CSS + HEADER_CSS);
   return { urls, slug, PLATFORMS };
 }
@@ -287,7 +306,7 @@ const VERSION = JSON.parse(readFileSync(new URL('../package.json', import.meta.u
 const PLATFORMS = [
   { path: 'react-icons/', short: 'React icons', pkg: '@icon-monks/react', lang: 'TypeScript', install: 'npm i @icon-monks/react',
     blurb: 'Typed, tree-shakeable components with an IconContext for defaults.',
-    title: (n) => `React Icons: ${n} Free, Tree-Shakeable SVG Icon Components | Icon Monks`,
+    title: (n) => `React Icons: ${n} Free SVG Components | Icon Monks`,
     description: (n) => `Install ${n} free React icon components in six weights. Typed, tree-shakeable, with size, color and weight props and an IconContext for defaults. MIT licensed.`,
     h1: 'React icons', lede: (n) => `${n} free icon components for React, each in six weights. Typed for TypeScript, tree-shakeable, and styled with plain props.`,
     sections: [
@@ -315,24 +334,24 @@ const PLATFORMS = [
       ['Is it tree-shakeable?', 'Yes. Each icon is a separate module, so only the icons you import end up in your bundle.']] },
   { path: 'web-components/', short: 'Web components', pkg: '@icon-monks/web', lang: 'JavaScript', install: 'npm i @icon-monks/web',
     blurb: 'An <icon-monks> element for plain HTML, Angular, Svelte, Astro and WordPress.',
-    title: (n) => `Icon Web Component: ${n} Free Icons for HTML, Angular & Svelte | Icon Monks`,
+    title: (n) => `Web Component Icons: ${n} Free Icons for HTML | Icon Monks`,
     description: (n) => `Use ${n} free icons anywhere with one dependency-free <icon-monks> custom element. Works in plain HTML, Angular, Svelte, Astro and WordPress. MIT licensed.`,
     h1: 'Icons as a web component', lede: (n) => `One dependency-free <code>&lt;icon-monks&gt;</code> element gives any page access to all ${n} icons, with no framework required.`,
     sections: [
-      ['Install', code(`npm install @icon-monks/web\n\n// once, anywhere in your app\nimport '@icon-monks/web';`)],
+      ['Install', '<p>From a CDN, with no build step:</p>' + code(`<script src="https://cdn.jsdelivr.net/npm/@icon-monks/web@${VERSION}"></script>`) + '<p>Or from npm:</p>' + code(`npm install @icon-monks/web\n\n// once, anywhere in your app\nimport '@icon-monks/web';`)],
       ['Use an icon', code(`<icon-monks name="house"></icon-monks>\n<icon-monks name="heart" weight="fill" size="32" color="crimson" label="Favorite"></icon-monks>`)],
       ['Attributes', '<p><code>name</code>, <code>weight</code>, <code>size</code>, <code>color</code>, <code>mirrored</code> and <code>label</code>. Icons are hidden from screen readers unless you set <code>label</code>, which becomes the accessible name.</p>'],
     ],
     faq: [['Does it work in Angular?', 'Yes. Add CUSTOM_ELEMENTS_SCHEMA to the module or standalone component that uses it, then use the element in templates.'],
       ['Can I use it in WordPress?', 'Yes. Load the script once in your theme, then use the element in any block that accepts HTML.'],
-      ['How big is the script?', 'About 3 KB. Each icon is fetched the first time a page uses it, about 1 KB per icon and weight, and cached. For offline use, import <code>@icon-monks/web/all</code>, which holds every icon up front.']] },
+      ['How big is the script?', 'About 3 KB. Each icon is fetched the first time a page uses it, about 1 KB per icon and weight, and cached. For offline use, import <code>@icon-monks/web/all</code>, which holds every icon in every weight up front (about 23 MB).']] },
   { path: 'icon-font/', short: 'Icon font', pkg: '@icon-monks/font', lang: 'CSS', install: 'npm i @icon-monks/font',
     blurb: 'OTF and WOFF2 fonts with CSS classes in five weights.',
-    title: (n) => `Free Icon Font: ${n} Icons as WOFF2 with CSS Classes | Icon Monks`,
+    title: (n) => `Icon Font: ${n} Free Icons as WOFF2 and CSS | Icon Monks`,
     description: (n) => `Use ${n} free icons as a web font with simple CSS classes. WOFF2 and OTF in thin, light, regular, bold and fill, with stable codepoints. MIT licensed.`,
     h1: 'Icon font', lede: (n) => `All ${n} icons as a web font, in five weights, with one CSS class per icon.`,
     sections: [
-      ['Link the stylesheet', code(`<link rel="stylesheet" href="${SITE_URL}packages/font/dist/index.css">`) + '<p>Or install it with <code>npm install @icon-monks/font</code> and import <code>@icon-monks/font/dist/index.css</code>.</p>'],
+      ['Link the stylesheet', code(`<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@${VERSION}/dist/index.css">`) + '<p>Or install it with <code>npm install @icon-monks/font</code> and add <code>import \'@icon-monks/font\';</code> to your app.</p>'],
       ['Use an icon', code(`<i class="im im-house"></i>        <!-- regular -->\n<i class="im-bold im-house"></i>   <!-- also im-thin, im-light, im-fill -->`)],
       ['Load only what you use', '<p>Each weight has its own stylesheet (<code>regular.css</code>, <code>bold.css</code> and so on), so you can skip the weights you don\'t need. Glyphs live in the Private Use Area from U+E000, and codepoints never change between releases.</p>'],
     ],
@@ -341,7 +360,7 @@ const PLATFORMS = [
       ['Which formats are included?', 'WOFF2 for the web and OTF for desktop apps and design tools.']] },
   { path: 'svg-icons/', short: 'SVG icons', pkg: '@icon-monks/core', lang: 'JavaScript', install: 'npm i @icon-monks/core',
     blurb: 'Raw SVG files, sprites, metadata and a toSvg() helper.',
-    title: (n) => `Free SVG Icons: Download ${n} Open Source SVG Icons | Icon Monks`,
+    title: (n) => `Free SVG Icons: ${n} Open Source Icons | Icon Monks`,
     description: (n) => `Download ${n} free SVG icons in six weights, or use SVG sprites and a toSvg() helper. Single-path, currentColor, MIT licensed and free for commercial use.`,
     h1: 'SVG icons', lede: (n) => `${n} clean, single-path SVG icons in six weights that use currentColor, so they take your text color anywhere.`,
     sections: [
@@ -354,7 +373,7 @@ const PLATFORMS = [
       ['Can I use them in Figma?', 'Yes. Download the SVG or copy the markup from the icon browser and paste it onto your canvas.']] },
   { path: 'flutter-icons/', short: 'Flutter icons', pkg: 'icon_monks', lang: 'Dart', install: 'flutter pub add icon_monks',
     blurb: 'IconData constants backed by bundled fonts.',
-    title: (n) => `Flutter Icons: ${n} Free IconData Icons for Flutter Apps | Icon Monks`,
+    title: (n) => `Flutter Icons: ${n} Free IconData Icons | Icon Monks`,
     description: (n) => `Add ${n} free icons to Flutter with the icon_monks package. IconData constants in thin, light, regular, bold and fill that work with the standard Icon widget.`,
     h1: 'Flutter icons', lede: (n) => `${n} free icons for Flutter as <code>IconData</code> constants that work with the standard <code>Icon</code> widget on every platform.`,
     sections: [
@@ -364,23 +383,23 @@ const PLATFORMS = [
     ],
     faq: [['Does it work on iOS, Android, web and desktop?', 'Yes. The icons are fonts bundled with the package, so they work on every platform Flutter supports.'],
       ['Is duotone available?', 'Not in Flutter, because icon fonts are single-color. Use the SVG files with flutter_svg if you need duotone.'],
-      ['Does tree shaking remove unused icons?', 'Yes. Flutter\'s font tree shaking keeps only the glyphs your release build uses.']] },
-  { path: 'swiftui-icons/', short: 'SwiftUI icons', pkg: 'IconMonks', lang: 'Swift', install: `.package(url: "https://github.com/designmonks-llc/icon-monks", from: "${VERSION}")`,
+      ['Does tree shaking remove unused icons?', 'For the regular shorthands like <code>IconMonks.house</code>, yes: Flutter keeps only the glyphs your release build uses. Using another weight, like <code>IconMonks.bold.house</code>, bundles that weight\'s whole font (about 1 MB).']] },
+  { path: 'swiftui-icons/', short: 'SwiftUI icons', pkg: 'IconMonks', lang: 'Swift', install: `.package(url: "https://github.com/designmonks-llc/icon-monks", from: "${VERSION}")`, card: 'Swift Package Manager',
     blurb: 'A Swift package with vector assets for SwiftUI and UIKit.',
     title: (n) => `SwiftUI Icons: ${n} Free Icons for iOS and macOS | Icon Monks`,
     description: (n) => `${n} free icons for SwiftUI and UIKit as a Swift package. Vector assets in six weights with template rendering for iOS, macOS, tvOS and watchOS.`,
     h1: 'SwiftUI and iOS icons', lede: (n) => `${n} free vector icons for SwiftUI and UIKit on iOS, macOS, tvOS and watchOS, in all six weights including duotone.`,
     sections: [
       ['Install', '<p>In Xcode choose File &gt; Add Package Dependencies and enter the repository URL, or add it to <code>Package.swift</code>:</p>' + code(`.package(url: "https://github.com/designmonks-llc/icon-monks", from: "${VERSION}")`)],
-      ['Use an icon', code(`import IconMonks\n\nImage(iconMonks: .house)\n    .resizable()\n    .frame(width: 24, height: 24)\n    .foregroundStyle(.purple)\n\nImage(iconMonks: .heart, weight: .fill)\nlet tabIcon = IconMonk.gear.uiImage(.bold)   // UIKit`)],
+      ['Use an icon', code(`import IconMonks\n\nImage(iconMonks: .house)\n    .resizable()\n    .frame(width: 24, height: 24)\n    .foregroundStyle(.purple)   // iOS 15+; .foregroundColor on iOS 14\n\nImage(iconMonks: .heart, weight: .fill)\nlet tabIcon = IconMonk.gear.uiImage(.bold)   // UIKit`)],
       ['How it works', '<p>Icons ship as vector assets with preserved vector data and template rendering, so they stay sharp at any size and take the tint color, just like SF Symbols.</p>'],
     ],
     faq: [['Which platforms are supported?', 'iOS, iPadOS, macOS, tvOS and watchOS through Swift Package Manager.'],
       ['Can I use them alongside SF Symbols?', 'Yes. They render as template images, so they follow foregroundStyle and tint the same way.'],
       ['Is duotone included?', 'Yes. All six weights, including duotone, are available.']] },
-  { path: 'jetpack-compose-icons/', short: 'Android icons', pkg: 'com.github.designmonks-llc:icon-monks', lang: 'Kotlin', install: `implementation("com.github.designmonks-llc:icon-monks:v${VERSION}")`,
+  { path: 'jetpack-compose-icons/', short: 'Android icons', pkg: 'com.github.designmonks-llc:icon-monks', lang: 'Kotlin', install: `implementation("com.github.designmonks-llc:icon-monks:v${VERSION}")`, card: 'Gradle, via JitPack',
     blurb: 'Jetpack Compose ImageVectors and XML VectorDrawables.',
-    title: (n) => `Jetpack Compose & Android Icons: ${n} Free ImageVector Icons | Icon Monks`,
+    title: (n) => `Jetpack Compose Icons: ${n} Free Android Icons | Icon Monks`,
     description: (n) => `${n} free Android icons as Jetpack Compose ImageVectors and XML VectorDrawables in six weights. Only the icons you import are compiled into your app.`,
     h1: 'Jetpack Compose and Android icons', lede: (n) => `${n} free icons for Android, as Jetpack Compose <code>ImageVector</code>s and classic XML <code>VectorDrawable</code>s.`,
     sections: [
@@ -418,7 +437,7 @@ table{border-collapse:collapse;width:100%;max-width:720px;background:var(--sheet
 .weights{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:8px 0 20px}.weights figure{margin:0;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:20px 12px 12px;display:grid;justify-items:center;gap:8px}.weights figcaption{font-size:13px;color:var(--muted)}
 .dl{font:500 12px var(--mono);color:var(--saffron);text-decoration:none}.dl:hover{text-decoration:underline}
 .codes{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}.code{min-width:0}
-.tiles{list-style:none;padding:0;margin:0 0 16px;display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px}.tiles a{display:flex;flex-direction:column;align-items:center;gap:10px;padding:18px 6px 10px;background:var(--sheet);border:1px solid transparent;border-radius:12px;text-decoration:none}.tiles a:hover{border-color:var(--saffron)}.tiles span{font:11px/1.2 var(--mono);color:var(--muted);text-align:center;overflow-wrap:anywhere}
+.tiles{list-style:none;padding:0;margin:0 0 16px;display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:8px}.tiles a{display:flex;flex-direction:column;align-items:center;gap:10px;padding:18px 6px 10px;background:var(--sheet);border:1px solid transparent;border-radius:12px;text-decoration:none}.tiles a:hover{border-color:var(--saffron)}.tiles span{font:11px/1.2 var(--mono);color:var(--muted);text-align:center;overflow-wrap:anywhere}
 .tags{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:6px}.tags a{display:inline-block;font-size:13px;text-decoration:none;border:1px solid var(--rule);border-radius:99px;padding:4px 12px;background:var(--sheet)}
 .cats{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px}.cats a{display:flex;justify-content:space-between;gap:8px;text-decoration:none;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:10px 12px;font-weight:500}.cats a:hover{border-color:var(--saffron)}.cats span{font:12px var(--mono);color:var(--muted);align-self:center}
 .catcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}.catcard{display:grid;gap:6px;padding:18px;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;text-decoration:none}.catcard:hover{border-color:var(--saffron)}.catcard .row{display:flex;gap:10px;margin-bottom:8px;overflow:hidden}.catcard .n{font-size:13px;color:var(--muted)}
