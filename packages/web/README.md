@@ -13,7 +13,7 @@ A dependency-free `<icon-monks>` custom element with 6,054 icons in six weights.
 From a CDN, with no build step:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@icon-monks/web@0.4.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/@icon-monks/web@0.4.1"></script>
 ```
 
 Or from npm, then import it once in your app:
