@@ -1,4 +1,5 @@
-# Publishes a release when a version tag (v0.1.0) is pushed.
+# Publishes a release when a version tag (v0.1.0) is pushed. The tag must point at a commit on main and match the
+# version in package.json, or nothing is published.
 #   npm:      trusted publishing (OIDC), no token; each @icon-monks package trusts this repo's release.yml on npmjs.com
 #   pub.dev:  needs automated publishing enabled for icon_monks on pub.dev and the PUB_AUTOMATED variable set to true
 #   Swift:    nothing to do; SwiftPM resolves the tag directly
@@ -7,23 +8,30 @@ name: Release
 on:
   push:
     tags: ['v*']
-  workflow_dispatch:   # Actions tab > Release > Run workflow: tags main with the package.json version
 
 permissions:
   contents: write
   id-token: write
 
 jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: The tag points at a commit on main
+        run: git merge-base --is-ancestor "$GITHUB_SHA" origin/main || { echo "::error::$GITHUB_REF_NAME is not on main"; exit 1; }
+      - name: The tag matches the package version
+        run: test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME" || { echo "::error::$GITHUB_REF_NAME does not match package.json"; exit 1; }
+
   npm:
+    needs: verify
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: '22' }   # no registry-url: its placeholder token would be tried before OIDC
       - run: npm install -g npm@latest   # trusted publishing needs npm 11.5.1 or later; Node 22 ships npm 10
-      - name: Check the tag matches package versions
-        if: github.event_name == 'push'
-        run: test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME"
       - name: Publish @icon-monks packages
         run: |
           for p in core react vue web font; do
@@ -35,6 +43,7 @@ jobs:
           done
 
   pub:
+    needs: verify
     if: vars.PUB_AUTOMATED == 'true'
     runs-on: ubuntu-latest
     steps:
@@ -46,12 +55,11 @@ jobs:
         working-directory: packages/flutter
 
   github-release:
+    needs: verify
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Create the tag (if needed) and the GitHub release
-        run: |
-          TAG="v$(node -p "require('./package.json').version")"
-          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --target "$GITHUB_SHA" --generate-notes --title "Icon Monks $TAG"
+      - name: Create the GitHub release unless `gh release create` already made it
+        run: gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1 || gh release create "$GITHUB_REF_NAME" --verify-tag --generate-notes --title "Icon Monks $GITHUB_REF_NAME"
         env:
           GH_TOKEN: ${{ github.token }}

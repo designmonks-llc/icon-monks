@@ -77,10 +77,13 @@ Font codepoints are append-only (`codepoints.json`), so existing glyphs never mo
 
 ## Releasing
 
-1. Bump `version` in `package.json`, add a changelog entry in `scripts/packages.py`, run `npm run build` and merge.
-2. Create the GitHub release: `gh release create vX.Y.Z --target main --title "Icon Monks vX.Y.Z"`. This tags `main`.
-3. The tag runs `.github/workflows/release.yml`, which publishes the npm packages (trusted publishing, no token)
-   and the Flutter package (pub.dev automated publishing). Swift Package Manager and JitPack build straight from the tag.
+1. Bump `version` in `package.json`, add a changelog entry in `scripts/packages.py`, run `npm run build`, open a PR
+   and merge it. Merging to `main` also deploys the website.
+2. Tag that commit on `main`: `gh release create vX.Y.Z --target main --title "Icon Monks vX.Y.Z"` (creates the tag and
+   the release page), or `git tag vX.Y.Z && git push origin vX.Y.Z`.
+3. The tag runs `.github/workflows/release.yml`. It stops unless the tag is on `main` and matches `package.json`, then
+   publishes the npm packages (trusted publishing, no token) and the Flutter package (pub.dev automated publishing).
+   Swift Package Manager and JitPack build straight from the tag.
 
 ## License
 
