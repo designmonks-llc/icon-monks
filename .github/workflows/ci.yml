@@ -33,6 +33,9 @@ jobs:
         with: { channel: stable }
       - run: flutter pub get && flutter analyze && flutter pub publish --dry-run
         working-directory: packages/flutter
+      # pub.dev takes 10 points off unformatted code; scripts/packages.py emits formatted Dart, this catches formatter changes
+      - run: dart format --output=none --set-exit-if-changed .
+        working-directory: packages/flutter
 
   swift:
     runs-on: macos-latest
