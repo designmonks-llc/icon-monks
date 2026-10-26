@@ -1,5 +1,5 @@
 # Publishes a release when a version tag (v0.1.0) is pushed.
-#   npm:      needs the NPM_TOKEN secret (an npm automation token with access to the @icon-monks scope)
+#   npm:      trusted publishing (OIDC), no token; each @icon-monks package trusts this repo's release.yml on npmjs.com
 #   pub.dev:  needs automated publishing enabled for icon_monks on pub.dev and the PUB_AUTOMATED variable set to true
 #   Swift:    nothing to do; SwiftPM resolves the tag directly
 #   Android:  nothing to do; JitPack builds the tag on first request (see jitpack.yml)
@@ -16,23 +16,23 @@ permissions:
 jobs:
   npm:
     runs-on: ubuntu-latest
-    env:
-      HAS_NPM_TOKEN: ${{ secrets.NPM_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: '22', registry-url: 'https://registry.npmjs.org' }
+        with: { node-version: '22' }   # no registry-url: its placeholder token would be tried before OIDC
+      - run: npm install -g npm@latest   # trusted publishing needs npm 11.5.1 or later; Node 22 ships npm 10
       - name: Check the tag matches package versions
         if: github.event_name == 'push'
         run: test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME"
       - name: Publish @icon-monks packages
-        if: env.HAS_NPM_TOKEN == 'true'
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: for p in core react vue web font; do (cd packages/$p && npm publish --access public --provenance); done
-      - name: Skip npm (no NPM_TOKEN secret)
-        if: env.HAS_NPM_TOKEN != 'true'
-        run: echo "::warning::NPM_TOKEN is not set, npm packages were not published"
+        run: |
+          for p in core react vue web font; do
+            cd packages/$p
+            spec="$(node -p "require('./package.json').name")@$(node -p "require('./package.json').version")"
+            # skip versions already on npm so a re-run after a partial failure finishes the rest
+            if npm view "$spec" version >/dev/null 2>&1; then echo "$spec is already published"; else npm publish --access public; fi
+            cd ../..
+          done
 
   pub:
     if: vars.PUB_AUTOMATED == 'true'
