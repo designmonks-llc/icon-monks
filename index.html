@@ -781,6 +781,7 @@ document.querySelector('.dl').addEventListener('click', async (e) => {
     else if (fmt === 'pdf') blob = makePdf(icon, w, px);
     else blob = await rasterize(icon, w, px, MIME[fmt]);
     $('dl-note').textContent = await saveFile(name, blob);
+    track('download_icon', { icon: icon.name, weight: w, format: fmt, size: px });
   } catch { $('dl-note').textContent = 'Could not create that file in this browser'; }
 });
 
@@ -821,7 +822,15 @@ document.addEventListener('keydown', (e) => {
 $('d-weights').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.previewWeight = b.dataset.w; renderDetail(); });
 $('tabs').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.tab = b.dataset.tab; store.set('im-tab', state.tab); renderDetail(); });
 $('cat').addEventListener('change', (e) => { state.cat = e.target.value; renderGrid(); });
-$('q').addEventListener('input', (e) => { state.q = e.target.value; renderGrid(); });
+// Analytics events (no-ops until the shared chrome's analytics loader is configured). Searches log once typing pauses.
+const track = (name, params) => { try { if (window.imTrack) window.imTrack(name, params); } catch {} };
+let searchTimer;
+$('q').addEventListener('input', (e) => {
+  state.q = e.target.value; renderGrid();
+  clearTimeout(searchTimer);
+  const term = state.q.trim();
+  if (term) searchTimer = setTimeout(() => track('search', { search_term: term }), 1200);
+});
 $('size').addEventListener('input', (e) => { state.size = +e.target.value; $('size-out').textContent = state.size + 'px'; renderGrid(); });
 $('color').addEventListener('input', (e) => { state.color = e.target.value; renderGrid(); renderDetail(); });
 async function copyText(btn, text, label) {
@@ -830,10 +839,11 @@ async function copyText(btn, text, label) {
   catch { const r = document.createRange(); r.selectNodeContents($('snippet')); const g = getSelection(); g.removeAllRanges(); g.addRange(r); out.textContent = 'Selected'; }
   setTimeout(() => { out.textContent = label; }, 1400);
 }
-$('copy').addEventListener('click', () => copyText($('copy'), $('snippet').textContent, 'Copy code'));
+$('copy').addEventListener('click', () => { copyText($('copy'), $('snippet').textContent, 'Copy code'); track('copy_code', { icon: state.selected, platform: state.tab }); });
 $('copy-svg').addEventListener('click', () => {
   const icon = byName[state.selected]; if (!icon) return;
   copyText($('copy-svg'), svg(icon, state.previewWeight || state.weight, 32, state.color || 'currentColor'), 'Copy SVG');
+  track('copy_svg', { icon: icon.name, weight: state.previewWeight || state.weight });
 });
 
 let lines = '';
@@ -944,6 +954,19 @@ if (false) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrol
   });
   show();
 })();</script>
+<script>window.imTrack = (n, p) => { (window.imTrackQ = window.imTrackQ || []).push([n, p]); };</script>
+<script type="module">
+try {
+  const sdk = 'https://www.gstatic.com/firebasejs/11.0.2/';
+  const { initializeApp } = await import(sdk + 'firebase-app.js');
+  const { getAnalytics, logEvent, isSupported } = await import(sdk + 'firebase-analytics.js');
+  if (await isSupported()) {
+    const a = getAnalytics(initializeApp({"apiKey":"AIzaSyBAORnGxq82Ze07vWr5Ruyr_p2Evyc_Hrg","authDomain":"icon-monks.firebaseapp.com","projectId":"icon-monks","storageBucket":"icon-monks.firebasestorage.app","messagingSenderId":"659314514263","appId":"1:659314514263:web:86bc5574d67b1e1c08c612","measurementId":"G-7W7FBSFGMZ"}));
+    window.imTrack = (n, p) => { try { logEvent(a, n, p); } catch (e) {} };
+    (window.imTrackQ || []).forEach(([n, p]) => window.imTrack(n, p));
+  }
+} catch (e) {}
+</script>
 
 </body>
 </html>

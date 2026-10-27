@@ -87,5 +87,18 @@ Icon(IconMonks.Regular.NoteX, contentDescription = null)</code></pre></div></div
   });
   show();
 })();</script>
+<script>window.imTrack = (n, p) => { (window.imTrackQ = window.imTrackQ || []).push([n, p]); };</script>
+<script type="module">
+try {
+  const sdk = 'https://www.gstatic.com/firebasejs/11.0.2/';
+  const { initializeApp } = await import(sdk + 'firebase-app.js');
+  const { getAnalytics, logEvent, isSupported } = await import(sdk + 'firebase-analytics.js');
+  if (await isSupported()) {
+    const a = getAnalytics(initializeApp({"apiKey":"AIzaSyBAORnGxq82Ze07vWr5Ruyr_p2Evyc_Hrg","authDomain":"icon-monks.firebaseapp.com","projectId":"icon-monks","storageBucket":"icon-monks.firebasestorage.app","messagingSenderId":"659314514263","appId":"1:659314514263:web:86bc5574d67b1e1c08c612","measurementId":"G-7W7FBSFGMZ"}));
+    window.imTrack = (n, p) => { try { logEvent(a, n, p); } catch (e) {} };
+    (window.imTrackQ || []).forEach(([n, p]) => window.imTrack(n, p));
+  }
+} catch (e) {}
+</script>
 </body>
 </html>
