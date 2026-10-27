@@ -68,13 +68,13 @@ export const HEADER_CSS = `
 // Firebase web app config (Firebase console > Project settings > Your apps). These keys are public by design.
 // Analytics stays off while apiKey is empty.
 export const FIREBASE_CONFIG = {
-  apiKey: '',
-  authDomain: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: '',
-  measurementId: '',
+  apiKey: 'AIzaSyBAORnGxq82Ze07vWr5Ruyr_p2Evyc_Hrg',
+  authDomain: 'icon-monks.firebaseapp.com',
+  projectId: 'icon-monks',
+  storageBucket: 'icon-monks.firebasestorage.app',
+  messagingSenderId: '659314514263',
+  appId: '1:659314514263:web:86bc5574d67b1e1c08c612',
+  measurementId: 'G-7W7FBSFGMZ',
 };
 const FIREBASE_VERSION = '11.0.2';
 
