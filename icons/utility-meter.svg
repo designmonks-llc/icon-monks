@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="electric meter,gas meter,meter,usage">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="47" y="40" width="162" height="176" rx="15"/>
+    <rect x="47" y="40" width="162" height="176" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="47" y="40" width="162" height="176" rx="15"/>
+    <rect x="47" y="40" width="162" height="176" rx="16"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="77" y="69" width="102" height="37" rx="7"/>
+    <rect x="77" y="69" width="102" height="37" rx="8"/>
     <path d="M111 69 L111 106"/>
     <path d="M145 69 L145 106"/>
     <path d="M91 183 A36.67 36.67 0 0 1 165 183"/>

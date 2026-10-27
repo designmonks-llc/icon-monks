@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Duotone.RotateTopLeft: ImageVector
-    get() = cache ?: iconMonksVector("RotateTopLeftDuotone", "", "M132 28A8 8 0 0 0 126.34 41.66L134.19 49.5A104 104 0 0 0 48 152A8 8 0 0 0 63.39 155.06A8 8 0 0 0 64 152A88 88 0 0 1 129.9 66.78L126.34 70.34A8 8 0 0 0 135.06 83.39A8 8 0 0 0 137.66 81.66L157.66 61.66A8 8 0 0 0 157.66 50.34L137.66 30.34A8 8 0 0 0 132 28ZM221.66 157.66A8 8 0 0 0 216 144H152A8 8 0 0 0 144 152V216A8 8 0 0 0 159.39 219.06A8 8 0 0 0 160 216V160H216A8 8 0 0 0 221.66 157.66Z", duotone = true).also { cache = it }
+    get() = cache ?: iconMonksVector("RotateTopLeftDuotone", "", "M124 28A8 8 0 0 0 118.34 41.66L126.19 49.5A104 104 0 0 0 40 152A8 8 0 0 0 55.39 155.06A8 8 0 0 0 56 152A88 88 0 0 1 121.9 66.78L118.34 70.34A8 8 0 0 0 127.06 83.39A8 8 0 0 0 129.66 81.66L149.66 61.66A8 8 0 0 0 149.66 50.34L129.66 30.34A8 8 0 0 0 124 28ZM213.66 157.66A8 8 0 0 0 208 144H144A8 8 0 0 0 136 152V216A8 8 0 0 0 151.39 219.06A8 8 0 0 0 152 216V160H208A8 8 0 0 0 213.66 157.66Z", duotone = true).also { cache = it }

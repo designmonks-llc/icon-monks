@@ -7,6 +7,6 @@
     <path d="M104 64 V48 A16 16 0 0 1 120 32 H136 A16 16 0 0 1 152 48 V64"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="88" y="140" width="80" height="44" rx="12"/>
+    <rect x="88" y="140" width="80" height="44" rx="8"/>
   </g>
 </svg>

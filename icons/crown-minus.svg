@@ -1,10 +1,10 @@
 <svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="crown,remove,minus,premium,downgrade,king">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M52 156 L36 72 L76 104 L108 52 L140 104 L180 72 L164 156 Z"/>
+    <path d="M52 150 L36 66 L76 98 L108 46 L140 98 L180 66 L164 150 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M52 156 L36 72 L76 104 L108 52 L140 104 L180 72 L164 156 Z"/>
-    <path d="M52 184 L164 184"/>
-    <path d="M160 212 L216 212"/>
+    <path d="M52 150 L36 66 L76 98 L108 46 L140 98 L180 66 L164 150 Z"/>
+    <path d="M52 178 L164 178"/>
+    <path d="M160 206 L216 206"/>
   </g>
 </svg>

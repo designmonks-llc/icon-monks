@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="grammar,check,writing,proofread">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 64 L216 64"/>
-    <path d="M40 112 L216 112"/>
-    <path d="M40 160 L96 160"/>
-    <path d="M128 176 L160 208 L216 148"/>
+    <path d="M40 56 L216 56"/>
+    <path d="M40 104 L216 104"/>
+    <path d="M40 152 L96 152"/>
+    <path d="M128 168 L160 200 L216 140"/>
   </g>
 </svg>

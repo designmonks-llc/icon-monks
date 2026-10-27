@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Light.Funnel: ImageVector
-    get() = cache ?: iconMonksVector("FunnelLight", "M26.71 45.16A6 6 0 0 0 27.36 51.8L98 138.14V224A6 6 0 0 0 106.68 229.37L154.68 205.37A6 6 0 0 0 158 200V138.14L228.64 51.8A6 6 0 0 0 224 42H32A6 6 0 0 0 26.71 45.16ZM146 136V196.29L110 214.29V136A6 6 0 0 0 108.64 132.2L44.66 54H211.34L147.36 132.2A6 6 0 0 0 146 136Z").also { cache = it }
+    get() = cache ?: iconMonksVector("FunnelLight", "M26.71 37.16A6 6 0 0 0 27.36 43.8L98 130.14V216A6 6 0 0 0 106.68 221.37L154.68 197.37A6 6 0 0 0 158 192V130.14L228.64 43.8A6 6 0 0 0 224 34H32A6 6 0 0 0 26.71 37.16ZM146 128V188.29L110 206.29V128A6 6 0 0 0 108.64 124.2L44.66 46H211.34L147.36 124.2A6 6 0 0 0 146 128Z").also { cache = it }

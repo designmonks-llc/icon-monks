@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="eco wash,laundry,low energy,green">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 84 C40 76 48 72 56 72 C64 72 72 76 80 84 C88 92 96 96 104 96 C112 96 120 92 128 84 C136 76 144 72 152 72 C160 72 168 76 176 84 C184 92 192 96 200 96 C208 96 216 92 224 84 L200 196 H56 Z"/>
+    <path d="M32 78 C40 70 48 66 56 66 C64 66 72 70 80 78 C88 86 96 90 104 90 C112 90 120 86 128 78 C136 70 144 66 152 66 C160 66 168 70 176 78 C184 86 192 90 200 90 C208 90 216 86 224 78 L200 190 H56 Z"/>
   </g>
   <g data-role="hole" fill="none">
-    <path d="M100 176 C98 146 116 128 156 124 C158 160 136 178 100 176 Z"/>
+    <path d="M100 170 C98 140 116 122 156 118 C158 154 136 172 100 170 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 84 L56 196 H200 L224 84"/>
-    <path d="M32 84 C40 76 48 72 56 72 C64 72 72 76 80 84 C88 92 96 96 104 96 C112 96 120 92 128 84 C136 76 144 72 152 72 C160 72 168 76 176 84 C184 92 192 96 200 96 C208 96 216 92 224 84"/>
+    <path d="M32 78 L56 190 H200 L224 78"/>
+    <path d="M32 78 C40 70 48 66 56 66 C64 66 72 70 80 78 C88 86 96 90 104 90 C112 90 120 86 128 78 C136 70 144 66 152 66 C160 66 168 70 176 78 C184 86 192 90 200 90 C208 90 216 86 224 78"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100 176 C98 146 116 128 156 124 C158 160 136 178 100 176 Z"/>
+    <path d="M100 170 C98 140 116 122 156 118 C158 154 136 172 100 170 Z"/>
   </g>
 </svg>

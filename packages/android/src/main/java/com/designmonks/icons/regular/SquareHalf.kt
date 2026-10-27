@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Regular.SquareHalf: ImageVector
-    get() = cache ?: iconMonksVector("SquareHalfRegular", "M38.74 38.74A23 23 0 0 0 32 55V201A23 23 0 0 0 55 224H201A23 23 0 0 0 224 201V55A23 23 0 0 0 201 32H55A23 23 0 0 0 38.74 38.74ZM55 208A7 7 0 0 1 48 201V55A7 7 0 0 1 55 48H120V208H55ZM201 48A7 7 0 0 1 208 55V201A7 7 0 0 1 201 208H136V48H201Z").also { cache = it }
+    get() = cache ?: iconMonksVector("SquareHalfRegular", "M39.03 39.03A24 24 0 0 0 32 56V200A24 24 0 0 0 56 224H200A24 24 0 0 0 224 200V56A24 24 0 0 0 200 32H56A24 24 0 0 0 39.03 39.03ZM56 208A8 8 0 0 1 48 200V56A8 8 0 0 1 56 48H120V208H56ZM200 48A8 8 0 0 1 208 56V200A8 8 0 0 1 200 208H136V48H200Z").also { cache = it }

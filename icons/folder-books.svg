@@ -6,7 +6,7 @@
     <path d="M32 72 A16 16 0 0 1 48 56 H96 L120 80 H208 A16 16 0 0 1 224 96 V192 A16 16 0 0 1 208 208 H48 A16 16 0 0 1 32 192 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="92" y="112" width="36" height="72" rx="6"/>
-    <rect x="128" y="104" width="36" height="80" rx="6"/>
+    <rect x="92" y="112" width="36" height="72" rx="8"/>
+    <rect x="128" y="104" width="36" height="80" rx="8"/>
   </g>
 </svg>

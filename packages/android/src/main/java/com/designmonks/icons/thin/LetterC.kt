@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Thin.LetterC: ImageVector
-    get() = cache ?: iconMonksVector("LetterCThin", "M180.58 68.98A4 4 0 0 0 184.11 62.48A72.64 72.64 0 0 0 55 109.05V147A72.7 72.7 0 0 0 184.11 193.52A4 4 0 0 0 179.09 187.49A4 4 0 0 0 177.89 188.48A64.64 64.64 0 0 1 74.52 184.66A64.73 64.73 0 0 1 63 147V108.95A64.64 64.64 0 0 1 177.89 67.52A4 4 0 0 0 180.58 68.98Z").also { cache = it }
+    get() = cache ?: iconMonksVector("LetterCThin", "M188.58 68.98A4 4 0 0 0 192.11 62.48A72.64 72.64 0 0 0 63 109.05V147A72.7 72.7 0 0 0 192.11 193.52A4 4 0 0 0 187.09 187.49A4 4 0 0 0 185.89 188.48A64.64 64.64 0 0 1 82.52 184.66A64.73 64.73 0 0 1 71 147V108.95A64.64 64.64 0 0 1 185.89 67.52A4 4 0 0 0 188.58 68.98Z").also { cache = it }

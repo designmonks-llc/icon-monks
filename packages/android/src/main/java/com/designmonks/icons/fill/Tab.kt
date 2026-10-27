@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.Tab: ImageVector
-    get() = cache ?: iconMonksVector("TabFill", "M26.34 178.34A8 8 0 0 0 32 192H48A20.3 20.3 0 0 0 64.03 184H191.97A20.2 20.2 0 0 0 208 192H224A8 8 0 0 0 227.06 176.61A8 8 0 0 0 224 176H208Q204 176 204 172V80A24 24 0 0 0 180 56H76A24 24 0 0 0 52 80V172Q52 176 48 176H32A8 8 0 0 0 26.34 178.34Z").also { cache = it }
+    get() = cache ?: iconMonksVector("TabFill", "M26.34 178.34A8 8 0 0 0 32 192H44A24.22 24.22 0 0 0 61.9 184H194.1A24.15 24.15 0 0 0 212 192H224A8 8 0 0 0 227.06 176.61A8 8 0 0 0 224 176H212A8 8 0 0 1 204 168V80A24 24 0 0 0 180 56H76A24 24 0 0 0 52 80V168A8 8 0 0 1 44 176H32A8 8 0 0 0 26.34 178.34Z").also { cache = it }

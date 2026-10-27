@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.ArrowElbowUpLeft: ImageVector
-    get() = cache ?: iconMonksVector("ArrowElbowUpLeftFill", "M88 144A8 8 0 0 0 93.66 130.34L59.31 96H188V216A8 8 0 0 0 203.39 219.06A8 8 0 0 0 204 216V88A8 8 0 0 0 196 80H59.31L93.66 45.66A8 8 0 0 0 84.94 32.61A8 8 0 0 0 82.34 34.34L34.35 82.33L34.34 82.34A8 8 0 0 0 34.34 93.66L82.34 141.66A8 8 0 0 0 88 144Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ArrowElbowUpLeftFill", "M98 144A8 8 0 0 0 103.66 130.34L69.31 96H198V216A8 8 0 0 0 213.39 219.06A8 8 0 0 0 214 216V88A8 8 0 0 0 206 80H69.31L103.66 45.66A8 8 0 0 0 94.94 32.61A8 8 0 0 0 92.34 34.34L44.35 82.33L44.34 82.34A8 8 0 0 0 44.34 93.66L92.34 141.66A8 8 0 0 0 98 144Z").also { cache = it }

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="funnel,edit,write">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
-    <path d="M154 214 L160 192 L192 160 L206 174 L174 206 Z"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
+    <path d="M154 206 L160 184 L192 152 L206 166 L174 198 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
-    <path d="M154 214 L160 192 L192 160 L206 174 L174 206 Z"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
+    <path d="M154 206 L160 184 L192 152 L206 166 L174 198 Z"/>
   </g>
 </svg>

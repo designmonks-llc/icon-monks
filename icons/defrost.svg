@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="defrost,windshield,heater,car">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 64 C74.67 56 101.33 52 128 52 C154.67 52 181.33 56 208 64 L224 192 C192 184 160 180 128 180 C96 180 64 184 32 192 Z"/>
+    <path d="M48 70 C74.67 62 101.33 58 128 58 C154.67 58 181.33 62 208 70 L224 198 C192 190 160 186 128 186 C96 186 64 190 32 198 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 64 C74.67 56 101.33 52 128 52 C154.67 52 181.33 56 208 64 L224 192 C192 184 160 180 128 180 C96 180 64 184 32 192 Z"/>
+    <path d="M48 70 C74.67 62 101.33 58 128 58 C154.67 58 181.33 62 208 70 L224 198 C192 190 160 186 128 186 C96 186 64 190 32 198 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M80 156 C91 144 91 132 80 120 S69 96 80 84"/>
-    <path d="M68 96 L80 84 L92 96"/>
-    <path d="M128 156 C139 144 139 132 128 120 S117 96 128 84"/>
-    <path d="M116 96 L128 84 L140 96"/>
-    <path d="M176 156 C187 144 187 132 176 120 S165 96 176 84"/>
-    <path d="M164 96 L176 84 L188 96"/>
+    <path d="M80 162 C91 150 91 138 80 126 S69 102 80 90"/>
+    <path d="M68 102 L80 90 L92 102"/>
+    <path d="M128 162 C139 150 139 138 128 126 S117 102 128 90"/>
+    <path d="M116 102 L128 90 L140 102"/>
+    <path d="M176 162 C187 150 187 138 176 126 S165 102 176 90"/>
+    <path d="M164 102 L176 90 L188 102"/>
   </g>
 </svg>

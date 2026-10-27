@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="concierge,hotel bell,reception,service,service bell">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 176 A80 80 0 0 1 208 176 Z"/>
-    <rect x="32" y="176" width="192" height="32" rx="12"/>
+    <path d="M48 168 A80 80 0 0 1 208 168 Z"/>
+    <rect x="32" y="168" width="192" height="32" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 176 A80 80 0 0 1 208 176 Z"/>
-    <rect x="32" y="176" width="192" height="32" rx="12"/>
-    <path d="M128 96 L128 72"/>
-    <path d="M104 64 L152 64"/>
+    <path d="M48 168 A80 80 0 0 1 208 168 Z"/>
+    <rect x="32" y="168" width="192" height="32" rx="8"/>
+    <path d="M128 88 L128 64"/>
+    <path d="M104 56 L152 56"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 152 A48 48 0 0 1 104 120"/>
+    <path d="M84 144 A48 48 0 0 1 104 112"/>
   </g>
 </svg>

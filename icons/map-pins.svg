@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="multiple locations,pins,places,map">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M157 224 C157 224 98 171.92 98 126 C98 93.39 124.39 67 157 67 C189.61 67 216 93.39 216 126 C216 171.92 157 224 157 224 Z"/>
+    <path d="M157 216 C157 216 98 163.92 98 118 C98 85.39 124.39 59 157 59 C189.61 59 216 85.39 216 118 C216 163.92 157 216 157 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M157 224 C157 224 98 171.92 98 126 C98 93.39 124.39 67 157 67 C189.61 67 216 93.39 216 126 C216 171.92 157 224 157 224 Z"/>
-    <path d="M92 183 L90 184 C90 184 40 139.2 40 100 C40 72.16 62.16 50 90 50 C98.22 50 106.15 51.51 113 55"/>
+    <path d="M157 216 C157 216 98 163.92 98 118 C98 85.39 124.39 59 157 59 C189.61 59 216 85.39 216 118 C216 163.92 157 216 157 216 Z"/>
+    <path d="M92 175 L90 176 C90 176 40 131.2 40 92 C40 64.16 62.16 42 90 42 C98.22 42 106.15 43.51 113 47"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="157" cy="126" r="20"/>
+    <circle cx="157" cy="118" r="20"/>
   </g>
 </svg>

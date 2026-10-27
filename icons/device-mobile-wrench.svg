@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="phone repair,mobile service,fix,phone">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 120 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H132 A66 66 0 0 1 184 120 Z"/>
+    <path d="M184 120 V48 A16 16 0 0 0 168 32 H88 A16 16 0 0 0 72 48 V208 A16 16 0 0 0 88 224 H132 A66 66 0 0 1 184 120 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 120 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H132"/>
+    <path d="M184 120 V48 A16 16 0 0 0 168 32 H88 A16 16 0 0 0 72 48 V208 A16 16 0 0 0 88 224 H132"/>
     <path d="M218 175 A19 19 0 1 1 197 154"/>
     <path d="M186 186 L156 216"/>
   </g>

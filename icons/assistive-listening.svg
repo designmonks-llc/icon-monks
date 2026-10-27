@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="hearing,ear,accessibility,sound">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M67 107 A44.4 44.4 0 0 1 155 107 C155 136.6 134.92 143.24 129 161 C123.08 181.72 110.72 196 90 196 C78.16 196 69.92 189.88 64 181 C62.52 177.31 62 172.3 62 167 C62 151.04 67 129.22 67 107 Z"/>
+    <path d="M46 100 A50 50 0 0 1 145 100 C144.8 133.13 122.25 140.59 116 161 C108.96 183.79 95.08 199.83 72 200 C58.52 199.83 49.27 192.95 43 183 C40.96 178.84 40.38 173.22 40 167 C40.38 149.34 45.99 124.85 46 100 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M67 107 A44.4 44.4 0 0 1 155 107 C155 136.6 134.92 143.24 129 161 C123.08 181.72 110.72 196 90 196 C78.16 196 69.92 189.88 64 181"/>
-    <path d="M168 100 A40 40 0 0 1 168 156"/>
-    <path d="M192 72 A72 72 0 0 1 192 184"/>
+    <path d="M46 100 A50 50 0 0 1 145 100 C144.8 133.13 122.25 140.59 116 161 C108.96 183.79 95.08 199.83 72 200 C58.52 199.83 49.27 192.95 43 183"/>
+    <path d="M159 92 A45 45 0 0 1 159 155"/>
+    <path d="M186 61 A81 81 0 0 1 186 186"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M93 116 A17.76 17.76 0 0 1 129 110 C129 124.8 113.96 131.2 111 146"/>
+    <path d="M75 110 A20 20 0 0 1 116 103 C115.6 119.88 98.72 127.07 95 144"/>
   </g>
 </svg>

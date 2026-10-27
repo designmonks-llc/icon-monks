@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.InnerShadow: ImageVector
-    get() = cache ?: iconMonksVector("InnerShadowFill", "M32 55V201A23 23 0 0 0 55 224H201A23 23 0 0 0 224 201V55A23 23 0 0 0 201 32H55A23 23 0 0 0 32 55ZM86.94 86.94A6.64 6.64 0 0 1 91.21 85H208V201A7 7 0 0 1 201 208H85V91.21A6.65 6.65 0 0 1 86.94 86.94Z").also { cache = it }
+    get() = cache ?: iconMonksVector("InnerShadowFill", "M32 56V200A24 24 0 0 0 56 224H200A24 24 0 0 0 224 200V56A24 24 0 0 0 200 32H56A24 24 0 0 0 32 56ZM86.94 86.94A6.64 6.64 0 0 1 91.21 85H208V200A8 8 0 0 1 200 208H85V91.21A6.65 6.65 0 0 1 86.94 86.94Z").also { cache = it }

@@ -44,7 +44,8 @@ Icon Monks uses the same construction as Phosphor, so the two sets sit together 
    - Busts copy `user`: head r=44 and a shoulder curve.
    - Don't mix a filled head with stick limbs, and don't use a different head size in the same family.
 8. **Corners**: rect `rx` is 16 on large containers (cards, windows, devices) and 8 on small parts inside them.
-   *Proposal, not yet linted. The existing set uses 8–20 freely.*
+   This holds for rect `rx` and for quarter-arc corners drawn in paths; radii of 24 and up are drawn roundness and
+   stay. `python3 scripts/audit.py` reports corners off this rule and `scripts/batches/235_consistency.py` fixes them.
 9. **Draw curves as curves** **[lint `tessellated`]**. Use arcs and cubics with anchors on the curve's
    horizontal and vertical extremes and smooth joins. Don't save a sampled formula or a flattened boolean result as
    dozens of straight segments. `scripts/batches/193_refit.py` converts such paths back to curves.
@@ -67,7 +68,8 @@ Icon Monks uses the same construction as Phosphor, so the two sets sit together 
 
 1. Find the closest clean reference icon (`house`, `bell`, `gear`, `envelope`, `person`, `user`) and build from it
    with `load()` in `scripts/draw.py`.
-2. Run `python3 scripts/lint.py <names>` and fix everything it reports.
+2. Run `python3 scripts/lint.py <names>` and fix everything it reports. Then run `python3 scripts/audit.py`: it
+   measures size, centring and corner radii across the whole set and should list nothing new.
 3. Render a sheet: `python3 scripts/preview.py out.png <names>`. Check the 16 px column. If you can't tell what an
    icon is at 16 px, remove detail.
 4. Run `npm run build`.

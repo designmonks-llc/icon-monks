@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="boxes,inventory,stock,warehouse">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 139 A11 11 0 0 1 51 128 H84 V51 A11 11 0 0 1 95 40 H161 A11 11 0 0 1 172 51 V128 H205 A11 11 0 0 1 216 139 V205 A11 11 0 0 1 205 216 H51 A11 11 0 0 1 40 205 Z"/>
+    <path d="M40 144 A16 16 0 0 1 56 128 H84 V56 A16 16 0 0 1 100 40 H156 A16 16 0 0 1 172 56 V128 H200 A16 16 0 0 1 216 144 V200 A16 16 0 0 1 200 216 H56 A16 16 0 0 1 40 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 139 A11 11 0 0 1 51 128 H84 V51 A11 11 0 0 1 95 40 H161 A11 11 0 0 1 172 51 V128 H205 A11 11 0 0 1 216 139 V205 A11 11 0 0 1 205 216 H51 A11 11 0 0 1 40 205 Z"/>
+    <path d="M40 144 A16 16 0 0 1 56 128 H84 V56 A16 16 0 0 1 100 40 H156 A16 16 0 0 1 172 56 V128 H200 A16 16 0 0 1 216 144 V200 A16 16 0 0 1 200 216 H56 A16 16 0 0 1 40 200 Z"/>
     <path d="M84 128 L172 128"/>
     <path d="M128 128 L128 216"/>
   </g>

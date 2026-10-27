@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="drill,power tool,diy,construction,power drill">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="40" y="56" width="136" height="56" rx="16"/>
-    <path d="M72 112 L120 112 L112 180 L64 180 Z"/>
-    <path d="M176 68 L200 76 L200 92 L176 100 Z"/>
-    <rect x="40" y="180" width="104" height="44" rx="12"/>
+    <rect x="40" y="44" width="136" height="56" rx="8"/>
+    <path d="M72 100 L120 100 L112 168 L64 168 Z"/>
+    <path d="M176 56 L200 64 L200 80 L176 88 Z"/>
+    <rect x="40" y="168" width="104" height="44" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="56" width="136" height="56" rx="16"/>
-    <path d="M72 112 L64 180"/>
-    <path d="M120 112 L112 180"/>
-    <path d="M176 68 L200 76 L200 92 L176 100 Z"/>
-    <path d="M200 84 L224 84"/>
-    <rect x="40" y="180" width="104" height="44" rx="12"/>
+    <rect x="40" y="44" width="136" height="56" rx="8"/>
+    <path d="M72 100 L64 168"/>
+    <path d="M120 100 L112 168"/>
+    <path d="M176 56 L200 64 L200 80 L176 88 Z"/>
+    <path d="M200 72 L224 72"/>
+    <rect x="40" y="168" width="104" height="44" rx="8"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M68 84 L108 84"/>
+    <path d="M68 72 L108 72"/>
   </g>
 </svg>

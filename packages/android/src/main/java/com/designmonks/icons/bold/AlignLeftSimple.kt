@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Bold.AlignLeftSimple: ImageVector
-    get() = cache ?: iconMonksVector("AlignLeftSimpleBold", "M48.49 23.51A12 12 0 0 0 28 32V224A12 12 0 0 0 51.09 228.59A12 12 0 0 0 52 224V32A12 12 0 0 0 48.49 23.51ZM60 80V176A24 24 0 0 0 84 200H188A24 24 0 0 0 212 176V80A24 24 0 0 0 188 56H84A24 24 0 0 0 60 80ZM188 176H84V80H188V176Z").also { cache = it }
+    get() = cache ?: iconMonksVector("AlignLeftSimpleBold", "M56.49 23.51A12 12 0 0 0 36 32V224A12 12 0 0 0 59.09 228.59A12 12 0 0 0 60 224V32A12 12 0 0 0 56.49 23.51ZM68 84V172A28 28 0 0 0 96 200H192A28 28 0 0 0 220 172V84A28 28 0 0 0 192 56H96A28 28 0 0 0 68 84ZM196 84V172Q196 176 192 176H96Q92 176 92 172V84Q92 80 96 80H192Q196 80 196 84Z").also { cache = it }

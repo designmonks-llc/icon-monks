@@ -3,7 +3,7 @@
     <path d="M96 160 L108 120 L188 39 L217 68 L136 148 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M120 40 H54 A14 14 0 0 0 40 54 V202 A14 14 0 0 0 54 216 H202 A14 14 0 0 0 216 202 V136"/>
+    <path d="M120 40 H56 A16 16 0 0 0 40 56 V200 A16 16 0 0 0 56 216 H200 A16 16 0 0 0 216 200 V136"/>
     <path d="M96 160 L108 120 L188 39 L217 68 L136 148 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

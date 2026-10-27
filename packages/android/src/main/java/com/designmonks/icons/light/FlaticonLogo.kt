@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Light.FlaticonLogo: ImageVector
-    get() = cache ?: iconMonksVector("FlaticonLogoLight", "M82.46 218.3A6 6 0 0 0 94 216V142H160A6 6 0 0 0 162.3 130.46A6 6 0 0 0 160 130H94V96A42 42 0 0 1 136 54H184A6 6 0 0 0 186.3 42.46A6 6 0 0 0 184 42H136A54 54 0 0 0 82 96V216A6 6 0 0 0 82.46 218.3Z").also { cache = it }
+    get() = cache ?: iconMonksVector("FlaticonLogoLight", "M74.46 218.3A6 6 0 0 0 86 216V142H152A6 6 0 0 0 154.3 130.46A6 6 0 0 0 152 130H86V96A42 42 0 0 1 128 54H176A6 6 0 0 0 178.3 42.46A6 6 0 0 0 176 42H128A54 54 0 0 0 74 96V216A6 6 0 0 0 74.46 218.3Z").also { cache = it }

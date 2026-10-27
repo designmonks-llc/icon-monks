@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="color picker,pipette,sample,dropper">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M145 83 L173 111 L88 196 L49 207 L60 168 Z"/>
+    <path d="M144 81 L175 112 L82 204 L40 216 L52 174 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M145 83 L173 111 L88 196 L49 207 L60 168 Z"/>
-    <path d="M148 74 L170 52 A24 24 0 0 1 204 86 L182 108"/>
-    <path d="M131 63 L193 125"/>
+    <path d="M144 81 L175 112 L82 204 L40 216 L52 174 Z"/>
+    <path d="M148 72 L171 48 A26 26 0 0 1 208 85 L184 108"/>
+    <path d="M129 60 L196 127"/>
   </g>
 </svg>

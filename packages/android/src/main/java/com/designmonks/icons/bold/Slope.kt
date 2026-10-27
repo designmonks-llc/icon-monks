@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Bold.Slope: ImageVector
-    get() = cache ?: iconMonksVector("SlopeBold", "M220.59 211.09A12 12 0 0 0 228 200V72A12 12 0 0 0 208.94 62.3L32.94 190.3A12 12 0 0 0 40 212H216A12 12 0 0 0 220.59 211.09ZM204 95.57V188H131.31A89.13 89.13 0 0 0 121.01 155.92L204 95.57ZM76.9 188L101.36 170.21A65.36 65.36 0 0 1 107.05 188H76.9Z").also { cache = it }
+    get() = cache ?: iconMonksVector("SlopeBold", "M220.59 203.09A12 12 0 0 0 228 192V64A12 12 0 0 0 208.94 54.3L32.94 182.3A12 12 0 0 0 40 204H216A12 12 0 0 0 220.59 203.09ZM204 87.57V180H131.31A89.13 89.13 0 0 0 121.01 147.92L204 87.57ZM76.9 180L101.36 162.21A65.36 65.36 0 0 1 107.05 180H76.9Z").also { cache = it }

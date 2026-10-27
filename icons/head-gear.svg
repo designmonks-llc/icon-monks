@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="psychology,thinking,mind,mental">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 224 V173 A76 76 0 1 1 195 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224 Z"/>
+    <path d="M84 224 V173 A76 76 0 1 1 195 82 L218 136 L204 144 V172 A16 16 0 0 1 188 188 H160 V224 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 224 V173 A76 76 0 1 1 195 82 L218 136 L204 144 V170 A18 18 0 0 1 186 188 H160 V224"/>
+    <path d="M84 224 V173 A76 76 0 1 1 195 82 L218 136 L204 144 V172 A16 16 0 0 1 188 188 H160 V224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M114 80 L116 67 L132 67 L134 80 L140 82 L151 76 L161 89 L152 98 L154 104 L166 109 L162 125 L149 124 L145 129 L149 142 L135 149 L127 138 L121 138 L113 149 L99 142 L103 129 L99 124 L86 125 L82 109 L94 104 L96 98 L87 89 L97 76 L108 82 Z"/>

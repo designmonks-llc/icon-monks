@@ -3,5 +3,5 @@
   android:width="24dp" android:height="24dp"
   android:viewportWidth="256" android:viewportHeight="256"
   android:tint="?android:attr/colorControlNormal" android:autoMirrored="false">
-  <path android:fillColor="@android:color/white" android:pathData="M23.51 175.51A12 12 0 0 0 32 196H48A24 24 0 0 0 72 172V80Q72 76 76 76H180Q184 76 184 80V172A24 24 0 0 0 208 196H224A12 12 0 0 0 228.59 172.91A12 12 0 0 0 224 172H208V80A28 28 0 0 0 180 52H76A28 28 0 0 0 48 80V172H32A12 12 0 0 0 23.51 175.51Z"/>
+  <path android:fillColor="@android:color/white" android:pathData="M23.51 175.51A12 12 0 0 0 32 196H44A28 28 0 0 0 72 168V80Q72 76 76 76H180Q184 76 184 80V168A28 28 0 0 0 212 196H224A12 12 0 0 0 228.59 172.91A12 12 0 0 0 224 172H212Q208 172 208 168V80A28 28 0 0 0 180 52H76A28 28 0 0 0 48 80V168Q48 172 44 172H32A12 12 0 0 0 23.51 175.51Z"/>
 </vector>

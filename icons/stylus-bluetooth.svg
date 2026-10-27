@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="stylus,bluetooth,pen,pairing,wireless,tablet pen">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
+    <path d="M40 216 L59 170 L179 50 A19 19 0 0 1 206 77 L86 197 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
-    <path d="M166 166 L210 202 L188 220 L188 148 L210 166 L166 202"/>
+    <path d="M40 216 L59 170 L179 50 A19 19 0 0 1 206 77 L86 197 Z"/>
+    <path d="M172 163 L218 201 L195 220 L195 145 L218 163 L172 201"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133 97 L159 123"/>
+    <path d="M138 91 L165 118"/>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="hopper,travel,flights,bunny,rabbit,booking,logo,brand">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 192 C64 136 108 104 156 104 C188 104 208 124 220 152 C196 140 176 136 156 136 C112 136 72 160 40 192 Z"/>
+    <path d="M40 204 C64 148 108 116 156 116 C188 116 208 136 220 164 C196 152 176 148 156 148 C112 148 72 172 40 204 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 192 C64 136 108 104 156 104 C188 104 208 124 220 152 C196 140 176 136 156 136 C112 136 72 160 40 192 Z"/>
-    <path d="M184 108 C181.33 100 180 91.3 180 83 C180 66.41 185.33 50.67 196 40 C205.37 51.72 209 66.4 209 82 C209 93.03 207.31 104.4 204 116"/>
+    <path d="M40 204 C64 148 108 116 156 116 C188 116 208 136 220 164 C196 152 176 148 156 148 C112 148 72 172 40 204 Z"/>
+    <path d="M184 120 C181.33 112 180 103.3 180 95 C180 78.41 185.33 62.67 196 52 C205.37 63.72 209 78.4 209 94 C209 105.03 207.31 116.4 204 128"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="84" cy="116" r="16"/>
+    <circle cx="84" cy="128" r="16"/>
   </g>
 </svg>

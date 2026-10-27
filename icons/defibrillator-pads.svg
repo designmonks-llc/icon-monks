@@ -2,14 +2,14 @@
   <g data-role="area" fill="currentColor" opacity="0.2">
     <path d="M49 48 L93 41 A14 14 0 0 1 109 52 L114 80 A14 14 0 0 1 103 96 L59 103 A14 14 0 0 1 43 92 L38 64 A14 14 0 0 1 49 48 Z"/>
     <path d="M163 41 L207 48 A14 14 0 0 1 218 64 L213 92 A14 14 0 0 1 197 103 L153 96 A14 14 0 0 1 142 80 L147 52 A14 14 0 0 1 163 41 Z"/>
-    <rect x="108" y="184" width="40" height="40" rx="10"/>
+    <rect x="108" y="184" width="40" height="40" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M49 48 L93 41 A14 14 0 0 1 109 52 L114 80 A14 14 0 0 1 103 96 L59 103 A14 14 0 0 1 43 92 L38 64 A14 14 0 0 1 49 48 Z"/>
     <path d="M163 41 L207 48 A14 14 0 0 1 218 64 L213 92 A14 14 0 0 1 197 103 L153 96 A14 14 0 0 1 142 80 L147 52 A14 14 0 0 1 163 41 Z"/>
     <path d="M80 100 C80 152 112 148 116 184"/>
     <path d="M176 100 C176 152 144 148 140 184"/>
-    <rect x="108" y="184" width="40" height="40" rx="10"/>
+    <rect x="108" y="184" width="40" height="40" rx="8"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M64 74 L88 70"/>

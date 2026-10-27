@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music,song,audio,melody">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="72" cy="184" r="28"/>
-    <circle cx="176" cy="160" r="28"/>
+    <circle cx="71" cy="185" r="28.51"/>
+    <circle cx="177" cy="161" r="28.51"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="72" cy="184" r="28"/>
-    <circle cx="176" cy="160" r="28"/>
-    <path d="M100 184 L100 72"/>
-    <path d="M204 160 L204 48"/>
-    <path d="M100 72 L204 48"/>
+    <circle cx="71" cy="185" r="28.51"/>
+    <circle cx="177" cy="161" r="28.51"/>
+    <path d="M100 185 L100 71"/>
+    <path d="M205 161 L205 46"/>
+    <path d="M100 71 L205 46"/>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ubuntu,linux,operating system,canonical,logo,brand">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M74 102 A60 60 0 0 1 128 68 A60 60 0 0 1 132 68"/>
-    <path d="M178 94 A60 60 0 0 1 188 128 A60 60 0 0 1 178 162"/>
-    <path d="M132 188 A60 60 0 0 1 128 188 A60 60 0 0 1 74 154"/>
+    <path d="M77 97 A72.33 72.33 0 0 1 142 56 A72.33 72.33 0 0 1 147 56"/>
+    <path d="M203 87 A72.33 72.33 0 0 1 215 128 A72.33 72.33 0 0 1 203 169"/>
+    <path d="M147 200 A72.33 72.33 0 0 1 142 200 A72.33 72.33 0 0 1 77 159"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="48" cy="128" r="16"/>
-    <circle cx="168" cy="59" r="16"/>
-    <circle cx="168" cy="197" r="16"/>
+    <circle cx="46" cy="128" r="16"/>
+    <circle cx="191" cy="45" r="16"/>
+    <circle cx="191" cy="211" r="16"/>
   </g>
 </svg>

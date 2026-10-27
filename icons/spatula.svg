@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="spatula,turner,cooking,kitchen">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M175 39 L217 81 A14 14 45 0 1 217 101 L178 141 A14 14 45 0 1 158 141 L115 98 A14 14 45 0 1 115 78 L155 39 A14 14 45 0 1 175 39 Z"/>
-    <path d="M108 148 L108 148 A16 16 45 0 1 108 170 L83 196 A16 16 45 0 1 60 196 L60 196 A16 16 45 0 1 60 173 L86 148 A16 16 45 0 1 108 148 Z"/>
+    <path d="M167 44 L212 89 A15 15 45 0 1 212 110 L170 152 A15 15 45 0 1 149 152 L104 107 A15 15 45 0 1 104 86 L146 44 A15 15 45 0 1 167 44 Z"/>
+    <path d="M96 160 L96 160 A17 17 45 0 1 96 183 L70 211 A17 17 45 0 1 45 211 L45 211 A17 17 45 0 1 45 186 L73 160 A17 17 45 0 1 96 160 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M175 39 L217 81 A14 14 45 0 1 217 101 L178 141 A14 14 45 0 1 158 141 L115 98 A14 14 45 0 1 115 78 L155 39 A14 14 45 0 1 175 39 Z"/>
-    <path d="M108 148 L108 148 A16 16 45 0 1 108 170 L83 196 A16 16 45 0 1 60 196 L60 196 A16 16 45 0 1 60 173 L86 148 A16 16 45 0 1 108 148 Z"/>
-    <path d="M136 120 L108 148"/>
+    <path d="M167 44 L212 89 A15 15 45 0 1 212 110 L170 152 A15 15 45 0 1 149 152 L104 107 A15 15 45 0 1 104 86 L146 44 A15 15 45 0 1 167 44 Z"/>
+    <path d="M96 160 L96 160 A17 17 45 0 1 96 183 L70 211 A17 17 45 0 1 45 211 L45 211 A17 17 45 0 1 45 186 L73 160 A17 17 45 0 1 96 160 Z"/>
+    <path d="M126 130 L96 160"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M165 69 L142 91"/>
-    <path d="M187 91 L165 114"/>
+    <path d="M157 76 L132 99"/>
+    <path d="M180 99 L157 124"/>
   </g>
 </svg>

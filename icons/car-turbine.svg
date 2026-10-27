@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="turbine,turbo,car,engine">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M187 104 H204 A12 12 0 0 0 216 92 V76 A12 12 0 0 0 204 64 H120 A76 76 0 1 0 187 104 Z"/>
+    <path d="M187 92 H208 A8 8 0 0 0 216 84 V60 A8 8 0 0 0 208 52 H120 A76 76 0 1 0 187 92 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M187 104 H204 A12 12 0 0 0 216 92 V76 A12 12 0 0 0 204 64 H120 A76 76 0 1 0 187 104 Z"/>
+    <path d="M187 92 H208 A8 8 0 0 0 216 84 V60 A8 8 0 0 0 208 52 H120 A76 76 0 1 0 187 92 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133 127 C136.34 123.66 139.39 122 143 122 C150.58 122 159.2 129.33 168 144"/>
-    <path d="M133 153 C136.34 156.34 138 159.39 138 163 C138 170.58 130.67 179.2 116 188"/>
-    <path d="M107 153 C103.66 156.34 100.61 158 97 158 C89.42 158 80.8 150.67 72 136"/>
-    <path d="M107 127 C103.66 123.66 102 120.61 102 117 C102 109.42 109.33 100.8 124 92"/>
+    <path d="M133 115 C136.34 111.66 139.39 110 143 110 C150.58 110 159.2 117.33 168 132"/>
+    <path d="M133 141 C136.34 144.34 138 147.39 138 151 C138 158.58 130.67 167.2 116 176"/>
+    <path d="M107 141 C103.66 144.34 100.61 146 97 146 C89.42 146 80.8 138.67 72 124"/>
+    <path d="M107 115 C103.66 111.66 102 108.61 102 105 C102 97.42 109.33 88.8 124 80"/>
   </g>
 </svg>

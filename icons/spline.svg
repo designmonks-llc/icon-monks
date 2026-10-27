@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="spline,curve,path,smooth">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="40" y="176" width="32" height="32" rx="6"/>
-    <rect x="112" y="112" width="32" height="32" rx="6"/>
-    <rect x="184" y="48" width="32" height="32" rx="6"/>
+    <rect x="40" y="176" width="32" height="32" rx="8"/>
+    <rect x="112" y="112" width="32" height="32" rx="8"/>
+    <rect x="184" y="48" width="32" height="32" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="176" width="32" height="32" rx="6"/>
-    <rect x="112" y="112" width="32" height="32" rx="6"/>
-    <rect x="184" y="48" width="32" height="32" rx="6"/>
+    <rect x="40" y="176" width="32" height="32" rx="8"/>
+    <rect x="112" y="112" width="32" height="32" rx="8"/>
+    <rect x="184" y="48" width="32" height="32" rx="8"/>
     <path d="M57 176 C60.32 132.39 77.3 112 97 112 C101.92 112 106.89 113.55 112 116"/>
     <path d="M144 140 C149.11 142.45 154.08 144 159 144 C178.7 144 195.68 123.61 199 80"/>
   </g>

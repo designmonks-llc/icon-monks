@@ -2,13 +2,13 @@
   <g data-role="area" fill="currentColor" opacity="0.2">
     <rect x="72" y="32" width="112" height="32" rx="8"/>
     <rect x="72" y="192" width="112" height="32" rx="8"/>
-    <rect x="72" y="96" width="152" height="64" rx="12"/>
+    <rect x="72" y="96" width="152" height="64" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 32 L40 224"/>
     <rect x="72" y="32" width="112" height="32" rx="8"/>
     <rect x="72" y="192" width="112" height="32" rx="8"/>
-    <rect x="72" y="96" width="152" height="64" rx="12"/>
+    <rect x="72" y="96" width="152" height="64" rx="16"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M100 128 L196 128"/>

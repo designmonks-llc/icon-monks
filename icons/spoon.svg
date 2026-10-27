@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="spoon,utensil,soup,cutlery">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M134 70 A40 52 45 1 1 190 126 A40 52 45 1 1 134 70 Z"/>
+    <path d="M126 66 A46 59.62 45 1 1 190 130 A46 59.62 45 1 1 126 66 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M134 70 A40 52 45 1 1 190 126 A40 52 45 1 1 134 70 Z"/>
-    <path d="M125 135 L60 200"/>
+    <path d="M126 66 A46 59.62 45 1 1 190 130 A46 59.62 45 1 1 126 66 Z"/>
+    <path d="M115 141 L41 215"/>
   </g>
 </svg>

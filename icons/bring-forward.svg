@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="bring forward,layer,arrange,order,layers">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="88" y="88" width="128" height="128" rx="14"/>
+    <rect x="88" y="88" width="128" height="128" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 152 L52 152 A12 12 0 0 1 40 140 L40 52 A12 12 0 0 1 52 40 L140 40 A12 12 0 0 1 152 52 L152 64"/>
-    <rect x="88" y="88" width="128" height="128" rx="14"/>
+    <path d="M64 152 L56 152 A16 16 0 0 1 40 136 L40 56 A16 16 0 0 1 56 40 L136 40 A16 16 0 0 1 152 56 L152 64"/>
+    <rect x="88" y="88" width="128" height="128" rx="16"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 184 L152 120"/>

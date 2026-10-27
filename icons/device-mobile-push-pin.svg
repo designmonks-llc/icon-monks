@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="device mobile,pinned,pin,phone,smartphone">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M184 121 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H135 A64 64 0 0 1 184 121 Z"/>
+    <path d="M184 121 V48 A16 16 0 0 0 168 32 H88 A16 16 0 0 0 72 48 V208 A16 16 0 0 0 88 224 H135 A64 64 0 0 1 184 121 Z"/>
     <path d="M199 147 L219 164 L209 171 L197 185 L195 214 L154 180 L182 173 L194 158 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 121 V52 A20 20 0 0 0 164 32 H92 A20 20 0 0 0 72 52 V204 A20 20 0 0 0 92 224 H135"/>
+    <path d="M184 121 V48 A16 16 0 0 0 168 32 H88 A16 16 0 0 0 72 48 V208 A16 16 0 0 0 88 224 H135"/>
     <path d="M199 147 L219 164 L209 171 L197 185 L195 214 L154 180 L182 173 L194 158 Z"/>
     <path d="M174 197 L152 223"/>
   </g>

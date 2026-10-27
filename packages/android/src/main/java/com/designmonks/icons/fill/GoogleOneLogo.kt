@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.GoogleOneLogo: ImageVector
-    get() = cache ?: iconMonksVector("GoogleOneLogoFill", "M166.02 26.97A31.87 31.87 0 0 0 132.09 30.69L60.04 86.72A32.21 32.21 0 0 0 76.24 143.99A32.2 32.2 0 0 0 99.95 137.28L120 121.49V200A32 32 0 0 0 174.63 222.63A32 32 0 0 0 184 200V56.04A32 32 0 0 0 166.02 26.97Z").also { cache = it }
+    get() = cache ?: iconMonksVector("GoogleOneLogoFill", "M178.02 26.97A31.87 31.87 0 0 0 144.09 30.69L72.04 86.72A32.21 32.21 0 0 0 88.24 143.99A32.2 32.2 0 0 0 111.95 137.28L132 121.49V200A32 32 0 0 0 186.63 222.63A32 32 0 0 0 196 200V56.04A32 32 0 0 0 178.02 26.97Z").also { cache = it }

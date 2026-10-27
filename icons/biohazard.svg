@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="biohazard,danger,toxic,warning">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M110 42 A30 30 0 1 0 146 42 A20 20 0 1 1 110 42 Z"/>
-    <path d="M215 161 A30 30 0 1 0 196 193 A20 20 0 1 1 215 161 Z"/>
-    <path d="M41 161 A30 30 0 1 1 60 193 A20 20 0 1 0 41 161 Z"/>
+    <path d="M110 52 A30 30 0 1 0 146 52 A20 20 0 1 1 110 52 Z"/>
+    <path d="M215 171 A30 30 0 1 0 196 203 A20 20 0 1 1 215 171 Z"/>
+    <path d="M41 171 A30 30 0 1 1 60 203 A20 20 0 1 0 41 171 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M110 42 A30 30 0 1 0 146 42"/>
-    <path d="M215 161 A30 30 0 1 0 196 193"/>
-    <path d="M41 161 A30 30 0 1 1 60 193"/>
-    <path d="M165 98 A50 50 0 0 1 176 117"/>
-    <path d="M139 181 A50 50 0 0 1 117 181"/>
-    <path d="M80 117 A50 50 0 0 1 91 98"/>
+    <path d="M110 52 A30 30 0 1 0 146 52"/>
+    <path d="M215 171 A30 30 0 1 0 196 203"/>
+    <path d="M41 171 A30 30 0 1 1 60 203"/>
+    <path d="M165 108 A50 50 0 0 1 176 127"/>
+    <path d="M139 191 A50 50 0 0 1 117 191"/>
+    <path d="M80 127 A50 50 0 0 1 91 108"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="128" cy="132" r="16"/>
+    <circle cx="128" cy="142" r="16"/>
   </g>
 </svg>

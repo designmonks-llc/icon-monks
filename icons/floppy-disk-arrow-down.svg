@@ -7,7 +7,7 @@
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M80 32 V72 H152 V32"/>
-    <path d="M72 224 V152 A8 8 0 0 1 80 144 H176 A8 8 0 0 1 184 152 V224"/>
+    <path d="M72 224 V160 A16 16 0 0 1 88 144 H168 A16 16 0 0 1 184 160 V224"/>
   </g>
   <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M188 162 V214"/>

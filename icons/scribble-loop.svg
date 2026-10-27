@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="scribble,doodle,freehand">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 176 C80 176 112 160 136 128 C147.14 113.15 153 96.5 153 83 C153 67.41 145.15 56 128 56 C112.89 56 105 66.34 105 81 C105 97.39 114.89 119.11 136 136 C149.97 146.48 163.7 152 177 152 C194.17 152 210.48 142.54 224 120"/>
+    <path d="M32 188 C80 188 112 172 136 140 C147.14 125.15 153 108.5 153 95 C153 79.41 145.15 68 128 68 C112.89 68 105 78.34 105 93 C105 109.39 114.89 131.11 136 148 C149.97 158.48 163.7 164 177 164 C194.17 164 210.48 154.54 224 132"/>
   </g>
 </svg>

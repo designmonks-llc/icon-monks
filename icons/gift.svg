@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="present,reward,birthday,surprise">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="80" width="192" height="48" rx="10"/>
+    <rect x="32" y="80" width="192" height="48" rx="8"/>
     <path d="M48 128 V208 H208 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="80" width="192" height="48" rx="10"/>
-    <path d="M48 128 V208 A8 8 0 0 0 56 216 H200 A8 8 0 0 0 208 208 V128"/>
+    <rect x="32" y="80" width="192" height="48" rx="8"/>
+    <path d="M48 128 V200 A16 16 0 0 0 64 216 H192 A16 16 0 0 0 208 200 V128"/>
     <path d="M128 80 L128 216"/>
     <path d="M128 80 C118.31 60.62 100.08 50 87 50 C78.48 50 72 54.53 72 64 C72 80 104 80 128 80 C152 80 184 80 184 64 C184 54.53 177.52 50 169 50 C155.92 50 137.69 60.62 128 80"/>
   </g>

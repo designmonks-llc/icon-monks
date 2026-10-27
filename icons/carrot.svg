@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="vegetables,carrot,produce,healthy,vegetable">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M122 80 L49 202 A4 4 0 0 0 54 207 L176 134 A40 40 0 1 0 122 80 Z"/>
+    <path d="M114 88 L41 210 A4 4 0 0 0 46 215 L168 142 A40 40 0 1 0 114 88 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M122 80 L49 202 A4 4 0 0 0 54 207 L176 134 A40 40 0 1 0 122 80 Z"/>
-    <path d="M178 78 L224 76"/>
-    <path d="M178 78 L180 32"/>
-    <path d="M178 78 L216 40"/>
+    <path d="M114 88 L41 210 A4 4 0 0 0 46 215 L168 142 A40 40 0 1 0 114 88 Z"/>
+    <path d="M170 86 L216 84"/>
+    <path d="M170 86 L172 40"/>
+    <path d="M170 86 L208 48"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M146 152 L123 129"/>
-    <path d="M103 177 L89 163"/>
+    <path d="M138 160 L115 137"/>
+    <path d="M95 185 L81 171"/>
   </g>
 </svg>

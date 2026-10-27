@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="funnel,code,developer,embed">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
-    <path d="M172 162 L154 184 L172 206"/>
-    <path d="M196 162 L214 184 L196 206"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
+    <path d="M172 154 L154 176 L172 198"/>
+    <path d="M196 154 L214 176 L196 198"/>
   </g>
 </svg>

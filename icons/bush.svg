@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="bush,shrub,hedge,plant,garden,vegetation">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M80 208 A44 44 0 0 1 76.14 120.17 A52 52 0 0 1 179.86 120.17 A44 44 0 0 1 176 208 Z"/>
+    <path d="M80 196 A44 44 0 0 1 76 108 A52 52 0 0 1 180 108 A44 44 0 0 1 176 196 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M80 208 A44 44 0 0 1 76.14 120.17 A52 52 0 0 1 179.86 120.17 A44 44 0 0 1 176 208"/>
-    <path d="M32 208 H224"/>
+    <path d="M80 196 A44 44 0 0 1 76 108 A52 52 0 0 1 180 108 A44 44 0 0 1 176 196"/>
+    <path d="M32 196 H224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 208 V152"/>
-    <path d="M128 180 L104 156"/>
-    <path d="M128 172 L152 148"/>
+    <path d="M128 196 V140"/>
+    <path d="M128 168 L104 144"/>
+    <path d="M128 160 L152 136"/>
   </g>
 </svg>

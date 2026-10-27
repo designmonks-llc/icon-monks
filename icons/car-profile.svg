@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="car side view,vehicle,sedan">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 112 H176 C196 112 212 116 219 123 A12 12 0 0 1 224 132 V148 A12 12 0 0 1 212 160 H44 A12 12 0 0 1 32 148 V128 A16 16 0 0 1 48 112 Z"/>
+    <path d="M40 104 H176 C196 104 212 108 219 115 A12 12 0 0 1 224 124 V144 A8 8 0 0 1 216 152 H40 A8 8 0 0 1 32 144 V112 A8 8 0 0 1 40 104 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 112 H176 C196 112 212 116 219 123 A12 12 0 0 1 224 132 V148 A12 12 0 0 1 212 160 H44 A12 12 0 0 1 32 148 V128 A16 16 0 0 1 48 112 Z"/>
-    <path d="M60 112 L88 64 L156 64 L196 112"/>
-    <path d="M124 64 L124 112"/>
-    <circle cx="76" cy="188" r="20"/>
-    <circle cx="180" cy="188" r="20"/>
+    <path d="M40 104 H176 C196 104 212 108 219 115 A12 12 0 0 1 224 124 V144 A8 8 0 0 1 216 152 H40 A8 8 0 0 1 32 144 V112 A8 8 0 0 1 40 104 Z"/>
+    <path d="M60 104 L88 56 L156 56 L196 104"/>
+    <path d="M124 56 L124 104"/>
+    <circle cx="76" cy="180" r="20"/>
+    <circle cx="180" cy="180" r="20"/>
   </g>
 </svg>

@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.TextAlignBottom: ImageVector
-    get() = cache ?: iconMonksVector("TextAlignBottomFill", "M32 201A23 23 0 0 0 55 224H201A23 23 0 0 0 224 201V55A23 23 0 0 0 201 32H55A23 23 0 0 0 32 55V201ZM69.61 139.94A8 8 0 0 1 77 135H179A8 8 0 0 1 182.06 150.39A8 8 0 0 1 179 151H77A8 8 0 0 1 69.61 139.94ZM69.61 175.94A8 8 0 0 1 77 171H143A8 8 0 0 1 146.06 186.39A8 8 0 0 1 143 187H77A8 8 0 0 1 69.61 175.94Z").also { cache = it }
+    get() = cache ?: iconMonksVector("TextAlignBottomFill", "M32 200A24 24 0 0 0 56 224H200A24 24 0 0 0 224 200V56A24 24 0 0 0 200 32H56A24 24 0 0 0 32 56V200ZM69.61 139.94A8 8 0 0 1 77 135H179A8 8 0 0 1 182.06 150.39A8 8 0 0 1 179 151H77A8 8 0 0 1 69.61 139.94ZM69.61 175.94A8 8 0 0 1 77 171H143A8 8 0 0 1 146.06 186.39A8 8 0 0 1 143 187H77A8 8 0 0 1 69.61 175.94Z").also { cache = it }

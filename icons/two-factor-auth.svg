@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="2fa,verification,otp,security,code">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M139 224 L92 224 A20 20 0 0 1 72 204 L72 52 A20 20 0 0 1 92 32 L164 32 A20 20 0 0 1 184 52 L184 124 A60 60 0 0 0 139 224 Z"/>
-    <path d="M184 148 L216 160 L216 183 C215.85 205.04 199.88 217.81 184 224 C167.95 217.81 151.98 205.04 152 183 L152 160 L184 148 Z"/>
+    <path d="M123 224 L72 224 A16 16 0 0 1 56 208 L56 48 A16 16 0 0 1 72 32 L152 32 A16 16 0 0 1 168 48 L168 124 A60 60 0 0 0 123 224 Z"/>
+    <path d="M168 148 L200 160 L200 183 C199.85 205.04 183.88 217.81 168 224 C151.95 217.81 135.98 205.04 136 183 L136 160 L168 148 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M139 224 L92 224 A20 20 0 0 1 72 204 L72 52 A20 20 0 0 1 92 32 L164 32 A20 20 0 0 1 184 52 L184 124"/>
-    <path d="M184 148 L216 160 L216 183 C215.85 205.04 199.88 217.81 184 224 C167.95 217.81 151.98 205.04 152 183 L152 160 L184 148 Z"/>
+    <path d="M123 224 L72 224 A16 16 0 0 1 56 208 L56 48 A16 16 0 0 1 72 32 L152 32 A16 16 0 0 1 168 48 L168 124"/>
+    <path d="M168 148 L200 160 L200 183 C199.85 205.04 183.88 217.81 168 224 C151.95 217.81 135.98 205.04 136 183 L136 160 L168 148 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M112 64 L144 64"/>
+    <path d="M96 64 L128 64"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="100" cy="108" r="10"/>
-    <circle cx="128" cy="108" r="10"/>
-    <circle cx="156" cy="108" r="10"/>
+    <circle cx="84" cy="108" r="10"/>
+    <circle cx="112" cy="108" r="10"/>
+    <circle cx="140" cy="108" r="10"/>
   </g>
 </svg>

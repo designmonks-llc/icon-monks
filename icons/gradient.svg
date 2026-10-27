@@ -3,7 +3,7 @@
     <path d="M55 40 H99 V216 H55 A14.67 14.67 0 0 1 40 201 V55 A14.67 14.67 0 0 1 55 40 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="40" width="176" height="176" rx="15"/>
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
     <path d="M99 40 L99 216"/>
   </g>
   <g data-role="dot" fill="currentColor">

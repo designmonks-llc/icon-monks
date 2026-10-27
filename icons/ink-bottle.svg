@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="ink,fountain pen,write,calligraphy">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="88" y="32" width="80" height="40" rx="10"/>
+    <rect x="88" y="32" width="80" height="40" rx="8"/>
     <path d="M104 72 L152 72 L152 91 A8 8 0 0 0 156 98 L200 120 A14 14 0 0 1 208 133 L208 200 A16 16 0 0 1 192 216 L64 216 A16 16 0 0 1 48 200 L48 133 A14 14 0 0 1 56 120 L100 98 A8 8 0 0 0 104 91 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="88" y="32" width="80" height="40" rx="10"/>
+    <rect x="88" y="32" width="80" height="40" rx="8"/>
     <path d="M104 72 L152 72 L152 91 A8 8 0 0 0 156 98 L200 120 A14 14 0 0 1 208 133 L208 200 A16 16 0 0 1 192 216 L64 216 A16 16 0 0 1 48 200 L48 133 A14 14 0 0 1 56 120 L100 98 A8 8 0 0 0 104 91 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

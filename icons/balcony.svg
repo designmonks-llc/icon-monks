@@ -1,18 +1,18 @@
 <svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="balcony,terrace,building,apartment">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M88 144 V72 A40 40 0 0 1 168 72 V144 Z"/>
+    <path d="M88 156 V84 A40 40 0 0 1 168 84 V156 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88 144 V72 A40 40 0 0 1 168 72 V144"/>
-    <path d="M32 144 L224 144"/>
-    <path d="M32 200 L224 200"/>
-    <path d="M40 144 L40 200"/>
-    <path d="M84 144 L84 200"/>
-    <path d="M128 144 L128 200"/>
-    <path d="M172 144 L172 200"/>
-    <path d="M216 144 L216 200"/>
+    <path d="M88 156 V84 A40 40 0 0 1 168 84 V156"/>
+    <path d="M32 156 L224 156"/>
+    <path d="M32 212 L224 212"/>
+    <path d="M40 156 L40 212"/>
+    <path d="M84 156 L84 212"/>
+    <path d="M128 156 L128 212"/>
+    <path d="M172 156 L172 212"/>
+    <path d="M216 156 L216 212"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 76 L128 144"/>
+    <path d="M128 88 L128 156"/>
   </g>
 </svg>

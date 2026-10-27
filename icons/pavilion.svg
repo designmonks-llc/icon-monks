@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="pavilion,gazebo,landmark,temple">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 84 C39.06 87.92 45.63 90 52 90 C67.28 90 80.71 78.59 92 56 H164 C175.29 78.59 188.72 90 204 90 C210.37 90 216.94 87.92 224 84 L204 104 H52 Z"/>
+    <path d="M32 90 C39.06 93.92 45.63 96 52 96 C67.28 96 80.71 84.59 92 62 H164 C175.29 84.59 188.72 96 204 96 C210.37 96 216.94 93.92 224 90 L204 110 H52 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 84 C39.06 87.92 45.63 90 52 90 C67.28 90 80.71 78.59 92 56 H164 C175.29 78.59 188.72 90 204 90 C210.37 90 216.94 87.92 224 84 L204 104 H52 Z"/>
-    <path d="M128 56 L128 36"/>
-    <path d="M72 104 L72 208"/>
-    <path d="M184 104 L184 208"/>
-    <path d="M72 164 L184 164"/>
-    <path d="M40 208 L216 208"/>
+    <path d="M32 90 C39.06 93.92 45.63 96 52 96 C67.28 96 80.71 84.59 92 62 H164 C175.29 84.59 188.72 96 204 96 C210.37 96 216.94 93.92 224 90 L204 110 H52 Z"/>
+    <path d="M128 62 L128 42"/>
+    <path d="M72 110 L72 214"/>
+    <path d="M184 110 L184 214"/>
+    <path d="M72 170 L184 170"/>
+    <path d="M40 214 L216 214"/>
   </g>
 </svg>

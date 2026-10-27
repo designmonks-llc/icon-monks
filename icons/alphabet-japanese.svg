@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet japanese,alphabet,script,language,japanese">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M60 72 L180 64"/>
-    <path d="M112 36 C108 96 116 156 140 204"/>
-    <path d="M160 100 C138.42 157.53 107.44 189 81 189 C78.03 189 74.83 188.81 72 188 C60 184 54 173.5 54 162 C54 150.5 60 138 72 128 C87.43 115.46 110.76 109 133 109 C156.88 109 179.57 116.46 192 132 C197.74 140.03 201 149.03 201 158 C201 180.29 183.38 202.3 152 208"/>
+    <path d="M60 78 L180 70"/>
+    <path d="M112 42 C108 102 116 162 140 210"/>
+    <path d="M160 106 C138.42 163.53 107.44 195 81 195 C78.03 195 74.83 194.81 72 194 C60 190 54 179.5 54 168 C54 156.5 60 144 72 134 C87.43 121.46 110.76 115 133 115 C156.88 115 179.57 122.46 192 138 C197.74 146.03 201 155.03 201 164 C201 186.29 183.38 208.3 152 214"/>
   </g>
 </svg>

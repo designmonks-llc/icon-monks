@@ -8,7 +8,7 @@
     <path d="M32 176 L224 176"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="64" y="84" width="48" height="36" rx="14"/>
-    <rect x="144" y="84" width="48" height="36" rx="14"/>
+    <rect x="64" y="84" width="48" height="36" rx="8"/>
+    <rect x="144" y="84" width="48" height="36" rx="8"/>
   </g>
 </svg>

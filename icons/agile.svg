@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Business" data-tags="sprint,iteration,scrum">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M34 184 H146 A72 72 0 1 0 76 131"/>
-    <path d="M102 87 L76 131 L32 105"/>
+    <path d="M34 200 H146 A72 72 0 1 0 76 147"/>
+    <path d="M102 103 L76 147 L32 121"/>
   </g>
 </svg>

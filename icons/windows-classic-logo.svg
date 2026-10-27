@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="windows,microsoft,operating system,classic,retro,flag,logo,brand">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 64 C58.29 56.29 69.06 54 80 54 C107.35 54 136.27 71 166 71 C179.88 71 194 67 208 56 V184 C194 195 179.88 199 166 199 C136.27 199 107.35 182 80 182 C69.06 182 58.29 184.29 48 192 Z"/>
+    <path d="M40 58 C51.32 49.27 63.17 46.75 75 47 C105.28 46.75 137.1 65.45 170 65 C185.07 65.45 200.6 61.05 216 49 V190 C200.6 201.85 185.07 206.25 170 206 C137.1 206.25 105.28 187.55 75 188 C63.17 187.55 51.32 190.07 40 199 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 64 C58.29 56.29 69.06 54 80 54 C107.35 54 136.27 71 166 71 C179.88 71 194 67 208 56 V184 C194 195 179.88 199 166 199 C136.27 199 107.35 182 80 182 C69.06 182 58.29 184.29 48 192 Z"/>
+    <path d="M40 58 C51.32 49.27 63.17 46.75 75 47 C105.28 46.75 137.1 65.45 170 65 C185.07 65.45 200.6 61.05 216 49 V190 C200.6 201.85 185.07 206.25 170 206 C137.1 206.25 105.28 187.55 75 188 C63.17 187.55 51.32 190.07 40 199 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 128 C58.29 120.29 69.06 118 80 118 C107.35 118 136.27 135 166 135 C179.88 135 194 131 208 120"/>
-    <path d="M128 64 V192"/>
+    <path d="M40 128 C51.32 119.67 63.17 117.15 75 117 C105.28 117.15 137.1 135.85 170 136 C185.07 135.85 200.6 131.45 216 119"/>
+    <path d="M128 58 V199"/>
   </g>
 </svg>

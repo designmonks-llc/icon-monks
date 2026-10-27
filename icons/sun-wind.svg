@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="sunny windy,breeze,weather,sun">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="100" cy="100" r="28"/>
+    <circle cx="108" cy="110" r="28"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="100" cy="100" r="28"/>
-    <path d="M52 100 L32 100"/>
-    <path d="M66 66 L52 52"/>
-    <path d="M100 52 L100 32"/>
-    <path d="M134 66 L148 52"/>
-    <path d="M66 134 L52 148"/>
-    <path d="M120 164 H184 A24 24 0 1 0 160 140"/>
-    <path d="M72 204 L200 204"/>
+    <circle cx="108" cy="110" r="28"/>
+    <path d="M60 110 L40 110"/>
+    <path d="M74 76 L60 62"/>
+    <path d="M108 62 L108 42"/>
+    <path d="M142 76 L156 62"/>
+    <path d="M74 144 L60 158"/>
+    <path d="M128 174 H192 A24 24 0 1 0 168 150"/>
+    <path d="M80 214 L208 214"/>
   </g>
 </svg>

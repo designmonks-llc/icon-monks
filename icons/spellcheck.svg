@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="spell check,grammar,abc,check,spelling">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 120 L60 36 L88 120"/>
-    <path d="M39 98 L81 98"/>
-    <path d="M116 36 L116 120"/>
-    <path d="M116 36 H141 A19 19 0 0 1 141 74 H116"/>
-    <path d="M116 74 H137 A23 23 0 0 1 137 120 H116"/>
-    <path d="M217 44 A23 23 0 0 0 176 59 V97 A23 23 0 0 0 217 112"/>
-    <path d="M76 176 L108 208 L180 144"/>
+    <path d="M32 126 L60 42 L88 126"/>
+    <path d="M39 104 L81 104"/>
+    <path d="M116 42 L116 126"/>
+    <path d="M116 42 H141 A19 19 0 0 1 141 80 H116"/>
+    <path d="M116 80 H137 A23 23 0 0 1 137 126 H116"/>
+    <path d="M217 50 A23 23 0 0 0 176 65 V103 A23 23 0 0 0 217 118"/>
+    <path d="M76 182 L108 214 L180 150"/>
   </g>
 </svg>

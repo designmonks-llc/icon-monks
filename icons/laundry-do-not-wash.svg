@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="do not wash,laundry,care symbol,hand wash">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 84 L56 196 H200 L224 84"/>
-    <path d="M32 84 C40 76 48 72 56 72 C64 72 72 76 80 84 C88 92 96 96 104 96 C112 96 120 92 128 84 C136 76 144 72 152 72 C160 72 168 76 176 84 C184 92 192 96 200 96 C208 96 216 92 224 84"/>
-    <path d="M48 56 L208 216"/>
-    <path d="M208 56 L48 216"/>
+    <path d="M32 76 L56 188 H200 L224 76"/>
+    <path d="M32 76 C40 68 48 64 56 64 C64 64 72 68 80 76 C88 84 96 88 104 88 C112 88 120 84 128 76 C136 68 144 64 152 64 C160 64 168 68 176 76 C184 84 192 88 200 88 C208 88 216 84 224 76"/>
+    <path d="M48 48 L208 208"/>
+    <path d="M208 48 L48 208"/>
   </g>
 </svg>

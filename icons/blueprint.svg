@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="plan,blueprint,architecture">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M59 44 H204 A7.65 7.65 0 0 1 212 51 V205 A7.65 7.65 0 0 1 204 212 H59 A23 23 0 0 1 36 189 V67 A23 23 0 0 1 59 44 Z"/>
+    <path d="M52 44 H204 A7.65 7.65 0 0 1 212 51 V205 A7.65 7.65 0 0 1 204 212 H52 A16 16 0 0 1 36 196 V60 A16 16 0 0 1 52 44 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M59 44 H204 A7.65 7.65 0 0 1 212 51 V205 A7.65 7.65 0 0 1 204 212 H59 A23 23 0 0 1 36 189 V67 A23 23 0 0 1 59 44 Z"/>
+    <path d="M52 44 H204 A7.65 7.65 0 0 1 212 51 V205 A7.65 7.65 0 0 1 204 212 H52 A16 16 0 0 1 36 196 V60 A16 16 0 0 1 52 44 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M77 52 A23 23 0 0 1 82 67 V189 A23 23 0 0 1 77 204"/>

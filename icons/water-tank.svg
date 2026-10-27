@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="water tank,storage tank,poly tank,cistern,reservoir,water">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64 64 A56 14 0 0 1 176 64 V188 A56 14 0 0 1 64 188 Z"/>
+    <path d="M54 69 A59.37 15 0 0 1 173 69 V200 A59.37 15 0 0 1 54 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="120" cy="64" rx="56" ry="14"/>
-    <path d="M64 64 V188 A56 14 0 0 0 176 188 V64"/>
-    <path d="M104 50 V36 H136 V50"/>
-    <path d="M176 164 H204 V188"/>
+    <ellipse cx="113" cy="69" rx="59.37" ry="15"/>
+    <path d="M54 69 V200 A59.37 15 0 0 0 173 200 V69"/>
+    <path d="M96 54 V39 H130 V54"/>
+    <path d="M173 175 H202 V200"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 104 A56 14 0 0 0 176 104"/>
-    <path d="M64 144 A56 14 0 0 0 176 144"/>
+    <path d="M54 111 A59.37 15 0 0 0 173 111"/>
+    <path d="M54 154 A59.37 15 0 0 0 173 154"/>
   </g>
 </svg>

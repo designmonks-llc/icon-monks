@@ -4,7 +4,7 @@
     <path d="M69 216 C69.33 179.33 95 161 128 161 C161 161 186.67 179.33 187 216 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="40" width="176" height="176" rx="15"/>
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
     <circle cx="128" cy="102" r="29"/>
     <path d="M69 216 C69.33 179.33 95 161 128 161 C161 161 186.67 179.33 187 216"/>
   </g>

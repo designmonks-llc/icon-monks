@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="fountain,water,park,plaza">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 176 H216 V192 A24 24 0 0 1 192 216 H64 A24 24 0 0 1 40 192 Z"/>
-    <path d="M80 112 H176 C176 136 156 148 128 148 C100 148 80 136 80 112 Z"/>
+    <path d="M40 168 H216 V184 A24 24 0 0 1 192 208 H64 A24 24 0 0 1 40 184 Z"/>
+    <path d="M80 104 H176 C176 128 156 140 128 140 C100 140 80 128 80 104 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 176 H216 V192 A24 24 0 0 1 192 216 H64 A24 24 0 0 1 40 192 Z"/>
-    <path d="M80 112 H176 C176 136 156 148 128 148 C100 148 80 136 80 112 Z"/>
-    <path d="M128 148 L128 176"/>
-    <path d="M128 112 L128 56"/>
-    <path d="M128 56 C123.13 55.19 118.46 55 114 55 C74.56 55 51.59 86.09 48 140"/>
-    <path d="M128 56 C132.87 55.19 137.54 55 142 55 C181.44 55 204.41 86.09 208 140"/>
+    <path d="M40 168 H216 V184 A24 24 0 0 1 192 208 H64 A24 24 0 0 1 40 184 Z"/>
+    <path d="M80 104 H176 C176 128 156 140 128 140 C100 140 80 128 80 104 Z"/>
+    <path d="M128 140 L128 168"/>
+    <path d="M128 104 L128 48"/>
+    <path d="M128 48 C123.13 47.19 118.46 47 114 47 C74.56 47 51.59 78.09 48 132"/>
+    <path d="M128 48 C132.87 47.19 137.54 47 142 47 C181.44 47 204.41 78.09 208 132"/>
   </g>
 </svg>

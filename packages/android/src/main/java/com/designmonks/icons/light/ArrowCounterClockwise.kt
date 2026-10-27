@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Light.ArrowCounterClockwise: ImageVector
-    get() = cache ?: iconMonksVector("ArrowCounterClockwiseLight", "M122.24 82.24A6 6 0 0 0 118 72H90.9Q104.23 63.57 120.78 61.85A70 70 0 1 1 58 131.96A6 6 0 0 0 46.44 129.74A6 6 0 0 0 46 132.04A82 82 0 1 0 119.55 49.92Q97.29 52.22 80 64.9V34A6 6 0 0 0 68.46 31.7A6 6 0 0 0 68 34V78V78.02V78.03A5.99 5.99 0 0 0 68.46 80.31L68.47 80.32A6 6 0 0 0 71.7 83.54L71.71 83.55A6.01 6.01 0 0 0 74 84H118A6 6 0 0 0 122.24 82.24Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ArrowCounterClockwiseLight", "M122.24 90.24A6 6 0 0 0 118 80H90.9Q104.23 71.57 120.78 69.85A70 70 0 1 1 58 139.96A6 6 0 0 0 46.44 137.74A6 6 0 0 0 46 140.04A82 82 0 1 0 119.55 57.92Q97.29 60.22 80 72.9V42A6 6 0 0 0 68.46 39.7A6 6 0 0 0 68 42V86V86.02V86.03A5.99 5.99 0 0 0 68.46 88.31L68.47 88.32A6 6 0 0 0 71.7 91.54L71.71 91.55A6.01 6.01 0 0 0 74 92H118A6 6 0 0 0 122.24 90.24Z").also { cache = it }

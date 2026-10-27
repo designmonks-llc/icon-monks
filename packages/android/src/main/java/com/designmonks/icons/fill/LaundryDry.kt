@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.LaundryDry: ImageVector
-    get() = cache ?: iconMonksVector("LaundryDryFill", "M32 201A23 23 0 0 0 55 224H201A23 23 0 0 0 224 201V55A23 23 0 0 0 201 32H55A23 23 0 0 0 32 55V201ZM172.55 172.55A63 63 0 0 1 65 128A63 63 0 0 1 172.55 83.45A63 63 0 0 1 172.55 172.55ZM161.23 94.77A47 47 0 1 0 175 128A47 47 0 0 0 161.23 94.77Z").also { cache = it }
+    get() = cache ?: iconMonksVector("LaundryDryFill", "M32 200A24 24 0 0 0 56 224H200A24 24 0 0 0 224 200V56A24 24 0 0 0 200 32H56A24 24 0 0 0 32 56V200ZM172.55 172.55A63 63 0 0 1 65 128A63 63 0 0 1 172.55 83.45A63 63 0 0 1 172.55 172.55ZM161.23 94.77A47 47 0 1 0 175 128A47 47 0 0 0 161.23 94.77Z").also { cache = it }

@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Thin.Beaker: ImageVector
-    get() = cache ?: iconMonksVector("BeakerThin", "M41.17 37.17A4 4 0 0 0 44 44A16 16 0 0 1 60 60V200A20 20 0 0 0 80 220H176A20 20 0 0 0 196 200V40A4 4 0 0 0 188.3 38.47A4 4 0 0 0 188 40V128H68V60A24 24 0 0 0 44 36A4 4 0 0 0 41.17 37.17ZM188 200A12 12 0 0 1 176 212H80A12 12 0 0 1 68 200V136H188V200Z").also { cache = it }
+    get() = cache ?: iconMonksVector("BeakerThin", "M51.17 37.17A4 4 0 0 0 54 44A16 16 0 0 1 70 60V200A20 20 0 0 0 90 220H186A20 20 0 0 0 206 200V40A4 4 0 0 0 198.3 38.47A4 4 0 0 0 198 40V128H78V60A24 24 0 0 0 54 36A4 4 0 0 0 51.17 37.17ZM198 200A12 12 0 0 1 186 212H90A12 12 0 0 1 78 200V136H198V200Z").also { cache = it }

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="reset password,lock reset,recover,refresh">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="98" y="126" width="60" height="46" rx="10"/>
+    <rect x="98" y="126" width="60" height="46" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M44 132 A84 84 0 1 0 69 69"/>
     <path d="M103 69 L69 69 L69 35"/>
-    <rect x="98" y="126" width="60" height="46" rx="10"/>
+    <rect x="98" y="126" width="60" height="46" rx="8"/>
     <path d="M110 126 V116 A18 18 0 0 1 146 116 V126"/>
   </g>
 </svg>

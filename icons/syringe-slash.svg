@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="syringe,off,disabled,hidden">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M57 153 L134 77 L179 122 L103 199 Z"/>
+    <path d="M46 160 L130 77 L179 126 L96 210 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M57 153 L134 77 L179 122 L103 199 Z"/>
-    <path d="M80 176 L52 204"/>
-    <path d="M156 100 L190 66"/>
-    <path d="M168 43 L213 88"/>
+    <path d="M46 160 L130 77 L179 126 L96 210 Z"/>
+    <path d="M71 185 L40 216"/>
+    <path d="M154 102 L191 65"/>
+    <path d="M167 39 L217 89"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M83 128 L103 148"/>
-    <path d="M108 103 L128 122"/>
+    <path d="M74 132 L96 154"/>
+    <path d="M102 105 L124 126"/>
   </g>
   <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="nvidia,gpu,graphics,chips,ai,gaming,logo,brand">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="124" y="52" width="100" height="152" rx="8"/>
+    <rect x="124" y="52" width="100" height="152" rx="16"/>
     <path d="M124 72 C88 80 52 100 32 128 C52 156 88 176 124 184 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="124" y="52" width="100" height="152" rx="8"/>
+    <rect x="124" y="52" width="100" height="152" rx="16"/>
     <path d="M124 72 C88 80 52 100 32 128 C52 156 88 176 124 184"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

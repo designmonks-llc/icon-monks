@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="pickaxe,mining,dig,tool">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M70 58 A92.5 92.5 0 0 1 214 159 A137 137 0 0 0 70 58 Z"/>
+    <path d="M50 59 A97 97 0 0 1 202 165 A144 144 0 0 0 50 59 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M70 58 A92.5 92.5 0 0 1 214 159 A137 137 0 0 0 70 58 Z"/>
-    <path d="M158 85 L73 207"/>
+    <path d="M50 59 A97 97 0 0 1 202 165 A144 144 0 0 0 50 59 Z"/>
+    <path d="M143 87 L53 215"/>
   </g>
 </svg>

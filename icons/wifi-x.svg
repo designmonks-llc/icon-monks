@@ -1,12 +1,12 @@
 <svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="wifi error,no connection,wifi,x,wireless">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M97 169 A44 44 0 0 1 138 157"/>
-    <path d="M66 138 A88 88 0 0 1 188 136"/>
-    <path d="M35 107 A132 132 0 0 1 221 107"/>
-    <path d="M172 168 L212 208"/>
-    <path d="M212 168 L172 208"/>
+    <path d="M97 161 A44 44 0 0 1 138 149"/>
+    <path d="M66 130 A88 88 0 0 1 188 128"/>
+    <path d="M35 99 A132 132 0 0 1 221 99"/>
+    <path d="M172 160 L212 200"/>
+    <path d="M212 160 L172 200"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="128" cy="200" r="16"/>
+    <circle cx="128" cy="192" r="16"/>
   </g>
 </svg>

@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Regular.CaretUp: ImageVector
-    get() = cache ?: iconMonksVector("CaretUpRegular", "M40 160A8 8 0 0 0 53.66 165.66L128 91.31L202.34 165.66A8 8 0 0 0 215.39 156.94A8 8 0 0 0 213.66 154.34L133.66 74.34A8 8 0 0 0 122.34 74.34L42.34 154.34A8 8 0 0 0 40 160Z").also { cache = it }
+    get() = cache ?: iconMonksVector("CaretUpRegular", "M40 168A8 8 0 0 0 53.66 173.66L128 99.31L202.34 173.66A8 8 0 0 0 215.39 164.94A8 8 0 0 0 213.66 162.34L133.66 82.34A8 8 0 0 0 122.34 82.34L42.34 162.34A8 8 0 0 0 40 168Z").also { cache = it }

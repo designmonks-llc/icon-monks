@@ -3,6 +3,6 @@
   android:width="24dp" android:height="24dp"
   android:viewportWidth="256" android:viewportHeight="256"
   android:tint="?android:attr/colorControlNormal" android:autoMirrored="false">
-  <path android:fillColor="@android:color/white" android:fillAlpha="0.2" android:pathData="M156 128V216L220 172L156 128Z"/>
-  <path android:fillColor="@android:color/white" android:pathData="M34.34 58.34A8 8 0 0 0 40 72H216A8 8 0 0 0 219.06 56.61A8 8 0 0 0 216 56H40A8 8 0 0 0 34.34 58.34ZM34.34 106.34A8 8 0 0 0 40 120H128A8 8 0 0 0 131.06 104.61A8 8 0 0 0 128 104H40A8 8 0 0 0 34.34 106.34ZM152.94 120.61A8 8 0 0 0 148 128V216A8 8 0 0 0 160.53 222.59L224.53 178.59A8 8 0 0 0 224.53 165.41L160.53 121.41A8 8 0 0 0 152.94 120.61ZM205.88 172L164 200.79V143.21L205.88 172ZM34.34 154.34A8 8 0 0 0 40 168H112A8 8 0 0 0 115.06 152.61A8 8 0 0 0 112 152H40A8 8 0 0 0 34.34 154.34Z"/>
+  <path android:fillColor="@android:color/white" android:fillAlpha="0.2" android:pathData="M156 116V204L220 160L156 116Z"/>
+  <path android:fillColor="@android:color/white" android:pathData="M34.34 46.34A8 8 0 0 0 40 60H216A8 8 0 0 0 219.06 44.61A8 8 0 0 0 216 44H40A8 8 0 0 0 34.34 46.34ZM34.34 94.34A8 8 0 0 0 40 108H128A8 8 0 0 0 131.06 92.61A8 8 0 0 0 128 92H40A8 8 0 0 0 34.34 94.34ZM152.94 108.61A8 8 0 0 0 148 116V204A8 8 0 0 0 160.53 210.59L224.53 166.59A8 8 0 0 0 224.53 153.41L160.53 109.41A8 8 0 0 0 152.94 108.61ZM205.88 160L164 188.79V131.21L205.88 160ZM34.34 142.34A8 8 0 0 0 40 156H112A8 8 0 0 0 115.06 140.61A8 8 0 0 0 112 140H40A8 8 0 0 0 34.34 142.34Z"/>
 </vector>

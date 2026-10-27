@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="takeoff,departure,flight,plane,airplane">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M172 64 A16 16 0 0 1 188 92 L153 112 L154 176 L133 188 L119 132 L98 144 L96 177 L86 183 L71 141 L42 107 L52 101 L82 116 L103 104 L61 64 L82 52 L137 84 L172 64 Z"/>
+    <path d="M172 58 A16 16 0 0 1 188 86 L153 106 L154 170 L133 182 L119 126 L98 138 L96 171 L86 177 L71 135 L42 101 L52 95 L82 110 L103 98 L61 58 L82 46 L137 78 L172 58 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M172 64 A16 16 0 0 1 188 92 L153 112 L154 176 L133 188 L119 132 L98 144 L96 177 L86 183 L71 141 L42 107 L52 101 L82 116 L103 104 L61 64 L82 52 L137 84 L172 64 Z"/>
-    <path d="M32 216 L224 216"/>
+    <path d="M172 58 A16 16 0 0 1 188 86 L153 106 L154 170 L133 182 L119 126 L98 138 L96 171 L86 177 L71 135 L42 101 L52 95 L82 110 L103 98 L61 58 L82 46 L137 78 L172 58 Z"/>
+    <path d="M32 210 L224 210"/>
   </g>
 </svg>

@@ -1,23 +1,23 @@
 <svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="save yen,savings,piggy bank,deposit,jpy,currency">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M195 126 A80 56 0 1 0 137 170 A48 48 0 0 1 195 126 Z"/>
-    <rect x="184" y="96" width="28" height="40" rx="10"/>
-    <path d="M86 68 L94 36 L124 62 Z"/>
+    <path d="M195 122 A80 56 0 1 0 137 166 A48 48 0 0 1 195 122 Z"/>
+    <rect x="184" y="92" width="28" height="40" rx="8"/>
+    <path d="M86 64 L94 32 L124 58 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M195 126 A80 56 0 1 0 137 170"/>
-    <rect x="184" y="96" width="28" height="40" rx="10"/>
-    <path d="M86 68 L94 36 L124 62"/>
-    <path d="M76 166 L76 196"/>
-    <path d="M124 170 L124 196"/>
-    <path d="M164 152 L186 180 L208 152"/>
-    <path d="M186 180 L186 222"/>
-    <path d="M168 194 L204 194"/>
+    <path d="M195 122 A80 56 0 1 0 137 166"/>
+    <rect x="184" y="92" width="28" height="40" rx="8"/>
+    <path d="M86 64 L94 32 L124 58"/>
+    <path d="M76 162 L76 192"/>
+    <path d="M124 166 L124 192"/>
+    <path d="M164 148 L186 176 L208 148"/>
+    <path d="M186 176 L186 218"/>
+    <path d="M168 190 L204 190"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100 88 L140 88"/>
+    <path d="M100 84 L140 84"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="164" cy="100" r="12"/>
+    <circle cx="164" cy="96" r="12"/>
   </g>
 </svg>

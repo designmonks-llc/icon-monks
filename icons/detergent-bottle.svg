@@ -8,7 +8,7 @@
     <rect x="96" y="40" width="40" height="32" rx="8"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="144" y="96" width="32" height="40" rx="12"/>
+    <rect x="144" y="96" width="32" height="40" rx="8"/>
     <circle cx="108" cy="172" r="20"/>
     <circle cx="152" cy="192" r="12"/>
   </g>

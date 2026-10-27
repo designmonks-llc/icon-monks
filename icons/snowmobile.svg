@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="snowmobile,snow,winter,vehicle">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="152" width="120" height="56" rx="28"/>
-    <path d="M48 152 L57 127 Q59.91 119.75 68 120 L104 120 Q112.23 119.8 115 112 L125 81 C126.21 77.34 127.62 76 130 76 C131.6 76 133.86 76.34 136 78 L208 130 Q216.05 135.94 216 144 L216 152 L48 152 Z"/>
+    <rect x="32" y="138" width="120" height="56" rx="28"/>
+    <path d="M48 138 L57 113 Q59.91 105.75 68 106 L104 106 Q112.23 105.8 115 98 L125 67 C126.21 63.34 127.62 62 130 62 C131.6 62 133.86 62.34 136 64 L208 116 Q216.05 121.94 216 130 L216 138 L48 138 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="152" width="120" height="56" rx="28"/>
-    <path d="M48 152 L57 127 Q59.91 119.75 68 120 L104 120 Q112.23 119.8 115 112 L125 81 C126.21 77.34 127.62 76 130 76 C131.6 76 133.86 76.34 136 78 L208 130 Q216.05 135.94 216 144 L216 152 L48 152 Z"/>
-    <path d="M188 152 L188 208"/>
-    <path d="M168 208 H204 A16 16 0 0 0 220 192"/>
+    <rect x="32" y="138" width="120" height="56" rx="28"/>
+    <path d="M48 138 L57 113 Q59.91 105.75 68 106 L104 106 Q112.23 105.8 115 98 L125 67 C126.21 63.34 127.62 62 130 62 C131.6 62 133.86 62.34 136 64 L208 116 Q216.05 121.94 216 130 L216 138 L48 138 Z"/>
+    <path d="M188 138 L188 194"/>
+    <path d="M168 194 H204 A16 16 0 0 0 220 178"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="64" cy="180" r="16"/>
-    <circle cx="120" cy="180" r="16"/>
+    <circle cx="64" cy="166" r="16"/>
+    <circle cx="120" cy="166" r="16"/>
   </g>
 </svg>

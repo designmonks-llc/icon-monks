@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="team,group,four people">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="76" cy="52" r="20"/>
-    <path d="M40 116 C40 100 56 92 76 92 C96 92 112 100 112 116 Z"/>
-    <circle cx="76" cy="148" r="20"/>
-    <path d="M40 212 C40 196 56 188 76 188 C96 188 112 196 112 212 Z"/>
-    <circle cx="180" cy="52" r="20"/>
-    <path d="M144 116 C144 100 160 92 180 92 C200 92 216 100 216 116 Z"/>
-    <circle cx="180" cy="148" r="20"/>
-    <path d="M144 212 C144 196 160 188 180 188 C200 188 216 196 216 212 Z"/>
+    <circle cx="76" cy="58" r="20"/>
+    <path d="M40 122 C40 106 56 98 76 98 C96 98 112 106 112 122 Z"/>
+    <circle cx="76" cy="154" r="20"/>
+    <path d="M40 218 C40 202 56 194 76 194 C96 194 112 202 112 218 Z"/>
+    <circle cx="180" cy="58" r="20"/>
+    <path d="M144 122 C144 106 160 98 180 98 C200 98 216 106 216 122 Z"/>
+    <circle cx="180" cy="154" r="20"/>
+    <path d="M144 218 C144 202 160 194 180 194 C200 194 216 202 216 218 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="76" cy="52" r="20"/>
-    <path d="M40 116 C40 100 56 92 76 92 C96 92 112 100 112 116"/>
-    <circle cx="76" cy="148" r="20"/>
-    <path d="M40 212 C40 196 56 188 76 188 C96 188 112 196 112 212"/>
-    <circle cx="180" cy="52" r="20"/>
-    <path d="M144 116 C144 100 160 92 180 92 C200 92 216 100 216 116"/>
-    <circle cx="180" cy="148" r="20"/>
-    <path d="M144 212 C144 196 160 188 180 188 C200 188 216 196 216 212"/>
+    <circle cx="76" cy="58" r="20"/>
+    <path d="M40 122 C40 106 56 98 76 98 C96 98 112 106 112 122"/>
+    <circle cx="76" cy="154" r="20"/>
+    <path d="M40 218 C40 202 56 194 76 194 C96 194 112 202 112 218"/>
+    <circle cx="180" cy="58" r="20"/>
+    <path d="M144 122 C144 106 160 98 180 98 C200 98 216 106 216 122"/>
+    <circle cx="180" cy="154" r="20"/>
+    <path d="M144 218 C144 202 160 194 180 194 C200 194 216 202 216 218"/>
   </g>
 </svg>

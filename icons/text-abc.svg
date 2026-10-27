@@ -1,10 +1,10 @@
 <svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="abc,alphabet,spelling,text">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="54" cy="152" r="22"/>
-    <path d="M76 130 L76 174"/>
-    <path d="M108 72 L108 174"/>
-    <circle cx="130" cy="152" r="22"/>
-    <path d="M220 135 A22 22 0 1 0 220 169"/>
-    <path d="M32 208 L224 208"/>
+    <circle cx="54" cy="140" r="22"/>
+    <path d="M76 118 L76 162"/>
+    <path d="M108 60 L108 162"/>
+    <circle cx="130" cy="140" r="22"/>
+    <path d="M220 123 A22 22 0 1 0 220 157"/>
+    <path d="M32 196 L224 196"/>
   </g>
 </svg>

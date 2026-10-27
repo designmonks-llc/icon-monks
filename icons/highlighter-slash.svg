@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="highlighter,off,disabled,hidden">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M163 41 A12 12 0 0 1 180 41 L211 72 A12 12 0 0 1 211 89 L147 153 A4 4 0 0 1 146 154 L119 165 A4 4 0 0 0 118 166 L109 174 A4 4 0 0 1 104 175 L67 162 A4 4 0 0 1 66 155 L86 134 A4 4 0 0 0 87 133 L98 106 A4 4 0 0 1 99 105 Z"/>
+    <path d="M151 41 A12 12 0 0 1 168 41 L199 72 A12 12 0 0 1 199 89 L135 153 A4 4 0 0 1 134 154 L107 165 A4 4 0 0 0 106 166 L97 174 A4 4 0 0 1 92 175 L55 162 A4 4 0 0 1 54 155 L74 134 A4 4 0 0 0 75 133 L86 106 A4 4 0 0 1 87 105 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M163 41 A12 12 0 0 1 180 41 L211 72 A12 12 0 0 1 211 89 L147 153 A4 4 0 0 1 146 154 L119 165 A4 4 0 0 0 118 166 L109 174 A4 4 0 0 1 104 175 L67 162 A4 4 0 0 1 66 155 L86 134 A4 4 0 0 0 87 133 L98 106 A4 4 0 0 1 99 105 Z"/>
-    <path d="M128 216 L216 216"/>
+    <path d="M151 41 A12 12 0 0 1 168 41 L199 72 A12 12 0 0 1 199 89 L135 153 A4 4 0 0 1 134 154 L107 165 A4 4 0 0 0 106 166 L97 174 A4 4 0 0 1 92 175 L55 162 A4 4 0 0 1 54 155 L74 134 A4 4 0 0 0 75 133 L86 106 A4 4 0 0 1 87 105 Z"/>
+    <path d="M116 216 L204 216"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M129 74 L178 123"/>
+    <path d="M117 74 L166 123"/>
   </g>
   <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>

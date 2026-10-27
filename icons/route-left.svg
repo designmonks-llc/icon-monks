@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="turn left,route,fork,direction">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 224 L128 148"/>
-    <path d="M128 148 C128 100 64 100 64 40"/>
-    <path d="M40 64 L64 40 L88 64"/>
-    <path d="M128 148 C128 108 192 108 192 64"/>
+    <path d="M140 224 L140 148"/>
+    <path d="M140 148 C140 100 76 100 76 40"/>
+    <path d="M52 64 L76 40 L100 64"/>
+    <path d="M140 148 C140 108 204 108 204 64"/>
   </g>
 </svg>

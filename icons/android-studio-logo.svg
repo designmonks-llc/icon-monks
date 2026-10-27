@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="android studio,android,google,ide,mobile,logo,brand">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M164 192 A30 30 0 0 1 224 192 Z"/>
+    <path d="M156 192 A30 30 0 0 1 216 192 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="108" cy="64" r="20"/>
-    <path d="M108 32 L108 44"/>
-    <path d="M98 82 L48 216"/>
-    <path d="M118 82 L168 216"/>
-    <path d="M164 192 A30 30 0 0 1 224 192 Z"/>
-    <path d="M176 160 L168 144"/>
-    <path d="M212 160 L220 144"/>
+    <circle cx="100" cy="64" r="20"/>
+    <path d="M100 32 L100 44"/>
+    <path d="M90 82 L40 216"/>
+    <path d="M110 82 L160 216"/>
+    <path d="M156 192 A30 30 0 0 1 216 192 Z"/>
+    <path d="M168 160 L160 144"/>
+    <path d="M204 160 L212 144"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M76 152 L140 152"/>
+    <path d="M68 152 L132 152"/>
   </g>
 </svg>

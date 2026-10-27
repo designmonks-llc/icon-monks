@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="blocks,modules,components,build">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="40" y="56" width="68" height="68" rx="10"/>
-    <rect x="40" y="148" width="68" height="68" rx="10"/>
-    <rect x="132" y="148" width="68" height="68" rx="10"/>
+    <rect x="40" y="56" width="68" height="68" rx="16"/>
+    <rect x="40" y="148" width="68" height="68" rx="16"/>
+    <rect x="132" y="148" width="68" height="68" rx="16"/>
     <path d="M174 42 A8 8 0 0 1 186 42 L214 70 A8 8 0 0 1 214 82 L186 110 A8 8 0 0 1 174 110 L146 82 A8 8 0 0 1 146 70 L174 42 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="56" width="68" height="68" rx="10"/>
-    <rect x="40" y="148" width="68" height="68" rx="10"/>
-    <rect x="132" y="148" width="68" height="68" rx="10"/>
+    <rect x="40" y="56" width="68" height="68" rx="16"/>
+    <rect x="40" y="148" width="68" height="68" rx="16"/>
+    <rect x="132" y="148" width="68" height="68" rx="16"/>
     <path d="M174 42 A8 8 0 0 1 186 42 L214 70 A8 8 0 0 1 214 82 L186 110 A8 8 0 0 1 174 110 L146 82 A8 8 0 0 1 146 70 L174 42 Z"/>
   </g>
 </svg>

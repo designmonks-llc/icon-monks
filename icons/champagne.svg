@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="celebration,sparkling wine,party,champagne,toast">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M143 59 L170 75 L151 108 C148.87 111.67 148 115.12 148 119 C148 130.19 155 142.74 155 155 C155 159.71 153.69 164.25 151 169 L122 218 A16 16 0 0 1 103 223 L48 191 A16 16 0 0 1 43 172 L71 123 C83.47 101.78 113.47 111.35 124 93 Z"/>
+    <path d="M153 59 L180 75 L161 108 C158.87 111.67 158 115.12 158 119 C158 130.19 165 142.74 165 155 C165 159.71 163.69 164.25 161 169 L132 218 A16 16 0 0 1 113 223 L58 191 A16 16 0 0 1 53 172 L81 123 C93.47 101.78 123.47 111.35 134 93 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M143 59 L170 75 L151 108 C148.87 111.67 148 115.12 148 119 C148 130.19 155 142.74 155 155 C155 159.71 153.69 164.25 151 169 L122 218 A16 16 0 0 1 103 223 L48 191 A16 16 0 0 1 43 172 L71 123 C83.47 101.78 113.47 111.35 124 93 Z"/>
-    <path d="M168 47 L176 33"/>
-    <path d="M149 45 L144 32"/>
-    <path d="M179 63 L193 61"/>
+    <path d="M153 59 L180 75 L161 108 C158.87 111.67 158 115.12 158 119 C158 130.19 165 142.74 165 155 C165 159.71 163.69 164.25 161 169 L132 218 A16 16 0 0 1 113 223 L58 191 A16 16 0 0 1 53 172 L81 123 C93.47 101.78 123.47 111.35 134 93 Z"/>
+    <path d="M178 47 L186 33"/>
+    <path d="M159 45 L154 32"/>
+    <path d="M189 63 L203 61"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M127 86 L155 102"/>
-    <path d="M68 129 L147 175"/>
-    <path d="M50 160 L129 206"/>
+    <path d="M137 86 L165 102"/>
+    <path d="M78 129 L157 175"/>
+    <path d="M60 160 L139 206"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="funnel,pin,pinned">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
-    <path d="M200 146 L218 161 L209 166 L198 179 L197 203 L162 174 L186 168 L196 156 Z"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
+    <path d="M200 138 L218 153 L209 158 L198 171 L197 195 L162 166 L186 160 L196 148 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
-    <path d="M200 146 L218 161 L209 166 L198 179 L197 203 L162 174 L186 168 L196 156 Z"/>
-    <path d="M180 189 L161 211"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
+    <path d="M200 138 L218 153 L209 158 L198 171 L197 195 L162 166 L186 160 L196 148 Z"/>
+    <path d="M180 181 L161 203"/>
   </g>
 </svg>

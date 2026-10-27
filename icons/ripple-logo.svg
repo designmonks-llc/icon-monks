@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="ripple,xrp,cryptocurrency,crypto,coin,logo,brand">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 48 L92 88 A54 54 0 0 0 164 88 L208 48"/>
-    <path d="M48 208 L92 168 A54 54 0 0 1 164 168 L208 208"/>
+    <path d="M40 40 L88 84 A59.4 59.4 0 0 0 168 84 L216 40"/>
+    <path d="M40 216 L88 172 A59.4 59.4 0 0 1 168 172 L216 216"/>
   </g>
 </svg>

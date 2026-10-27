@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.InstantPhoto: ImageVector
-    get() = cache ?: iconMonksVector("InstantPhotoFill", "M40 208A24 24 0 0 0 64 232H192A24 24 0 0 0 216 208V48A24 24 0 0 0 192 24H64A24 24 0 0 0 40 48V208ZM72 154V70A14 14 0 0 1 86 56H170A14 14 0 0 1 184 70V154A14 14 0 0 1 170 168H86A14 14 0 0 1 72 154Z").also { cache = it }
+    get() = cache ?: iconMonksVector("InstantPhotoFill", "M40 208A24 24 0 0 0 64 232H192A24 24 0 0 0 216 208V48A24 24 0 0 0 192 24H64A24 24 0 0 0 40 48V208ZM72 144V80A24 24 0 0 1 96 56H160A24 24 0 0 1 184 80V144A24 24 0 0 1 160 168H96A24 24 0 0 1 72 144Z").also { cache = it }

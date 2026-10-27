@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="apartment,residential,block">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M54 209 V54 A15 15 0 0 1 69 39 H187 A15 15 0 0 1 202 54 V209 Z"/>
+    <path d="M54 209 V55 A16 16 0 0 1 70 39 H186 A16 16 0 0 1 202 55 V209 Z"/>
   </g>
   <g data-role="hole" fill="none">
     <path d="M117 209 V187 H139 V209 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M54 209 V54 A15 15 0 0 1 69 39 H187 A15 15 0 0 1 202 54 V209"/>
+    <path d="M54 209 V55 A16 16 0 0 1 70 39 H186 A16 16 0 0 1 202 55 V209"/>
     <path d="M32 209 L224 209"/>
     <path d="M110 209 V179 H146 V209"/>
   </g>

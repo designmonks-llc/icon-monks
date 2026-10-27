@@ -1,6 +1,6 @@
 <svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="select all,selection,marquee,everything,checkbox">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="80" y="80" width="96" height="96" rx="10"/>
+    <rect x="80" y="80" width="96" height="96" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M40 64 L40 40 L64 40"/>
@@ -11,6 +11,6 @@
     <path d="M104 216 L152 216"/>
     <path d="M40 104 L40 152"/>
     <path d="M216 104 L216 152"/>
-    <rect x="80" y="80" width="96" height="96" rx="10"/>
+    <rect x="80" y="80" width="96" height="96" rx="16"/>
   </g>
 </svg>

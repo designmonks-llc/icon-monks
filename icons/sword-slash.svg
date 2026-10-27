@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="sword,off,disabled,hidden">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M209 47 L207 80 L124 163 L93 132 L176 49 Z"/>
+    <path d="M215 41 L213 78 L119 172 L84 137 L178 43 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M209 47 L207 80 L124 163 L93 132 L176 49 Z"/>
-    <path d="M70 110 L146 186"/>
-    <path d="M108 148 L70 186"/>
+    <path d="M215 41 L213 78 L119 172 L84 137 L178 43 Z"/>
+    <path d="M58 112 L144 198"/>
+    <path d="M101 155 L58 198"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="57" cy="199" r="16"/>
+    <circle cx="44" cy="212" r="16"/>
   </g>
   <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>

@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="hairbrush,brush,grooming,hair">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M190 66 A56 56 0 0 1 190 145 L173 162 A56 56 0 0 1 94 83 L111 66 A56 56 0 0 1 190 66 Z"/>
-    <path d="M81 146 L50 180 A18 18 0 0 0 76 206 L110 175 Z"/>
+    <path d="M198 58 A61 61 0 0 1 198 144 L179 163 A61 61 0 0 1 93 77 L112 58 A61 61 0 0 1 198 58 Z"/>
+    <path d="M79 145 L45 182 A19.59 19.59 0 0 0 74 211 L111 177 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M190 66 A56 56 0 0 1 190 145 L173 162 A56 56 0 0 1 94 83 L111 66 A56 56 0 0 1 190 66 Z"/>
-    <path d="M81 146 L50 180 A18 18 0 0 0 76 206 L110 175"/>
+    <path d="M198 58 A61 61 0 0 1 198 144 L179 163 A61 61 0 0 1 93 77 L112 58 A61 61 0 0 1 198 58 Z"/>
+    <path d="M79 145 L45 182 A19.59 19.59 0 0 0 74 211 L111 177"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="145" cy="83" r="12"/>
-    <circle cx="173" cy="111" r="12"/>
-    <circle cx="117" cy="111" r="12"/>
-    <circle cx="145" cy="139" r="12"/>
+    <circle cx="149" cy="77" r="12"/>
+    <circle cx="179" cy="107" r="12"/>
+    <circle cx="118" cy="107" r="12"/>
+    <circle cx="149" cy="138" r="12"/>
   </g>
 </svg>

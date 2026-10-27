@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="table,ai,magic,smart">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M131 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 142 A58 58 0 0 0 131 208 Z"/>
+    <path d="M131 208 L48 208 A16 16 0 0 1 32 192 L32 64 A16 16 0 0 1 48 48 L208 48 A16 16 0 0 1 224 64 L224 142 A58 58 0 0 0 131 208 Z"/>
     <path d="M184 144 C187.26 170.5 197.32 180.57 224 184 C197.32 187.27 187.26 197.34 184 224 C180.55 197.34 170.49 187.27 144 184 C170.49 180.57 180.55 170.5 184 144 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M131 208 L46 208 A14 14 0 0 1 32 194 L32 62 A14 14 0 0 1 46 48 L210 48 A14 14 0 0 1 224 62 L224 142"/>
+    <path d="M131 208 L48 208 A16 16 0 0 1 32 192 L32 64 A16 16 0 0 1 48 48 L208 48 A16 16 0 0 1 224 64 L224 142"/>
     <path d="M184 144 C187.26 170.5 197.32 180.57 224 184 C197.32 187.27 187.26 197.34 184 224 C180.55 197.34 170.49 187.27 144 184 C170.49 180.57 180.55 170.5 184 144 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">

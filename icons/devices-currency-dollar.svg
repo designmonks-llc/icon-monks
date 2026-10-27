@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="devices,money,price,responsive,multi-device">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124 L144 110 A46 46 0 0 0 98 64 Z"/>
-    <rect x="32" y="96" width="80" height="128" rx="14"/>
+    <path d="M72 64 L72 48 A16 16 0 0 1 88 32 L208 32 A16 16 0 0 1 224 48 L224 108 A16 16 0 0 1 208 124 L144 124 L144 110 A46 46 0 0 0 98 64 Z"/>
+    <rect x="32" y="96" width="80" height="128" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M72 64 L72 46 A14 14 0 0 1 86 32 L210 32 A14 14 0 0 1 224 46 L224 110 A14 14 0 0 1 210 124 L144 124"/>
-    <rect x="32" y="96" width="80" height="128" rx="14"/>
+    <path d="M72 64 L72 48 A16 16 0 0 1 88 32 L208 32 A16 16 0 0 1 224 48 L224 108 A16 16 0 0 1 208 124 L144 124"/>
+    <rect x="32" y="96" width="80" height="128" rx="16"/>
     <path d="M200 160 H180 A12 12 0 0 0 180 184 H188 A12 12 0 0 1 188 208 H168"/>
     <path d="M184 146 L184 160"/>
     <path d="M184 208 L184 222"/>

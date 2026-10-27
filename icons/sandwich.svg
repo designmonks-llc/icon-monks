@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="sandwich,lunch,bread,sub">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M52 208 L146 208 A10 10 0 0 0 150 207 L205 183 A12 12 0 0 0 209 164 L118 59 A12 12 0 0 0 104 56 L46 81 A10 10 0 0 0 40 90 L40 196 A12 12 0 0 0 52 208 Z"/>
+    <path d="M56 208 L146 208 A10 10 0 0 0 150 207 L205 183 A12 12 0 0 0 209 164 L118 59 A12 12 0 0 0 104 56 L46 81 A10 10 0 0 0 40 90 L40 192 A16 16 0 0 0 56 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M52 208 L146 208 A10 10 0 0 0 150 207 L205 183 A12 12 0 0 0 209 164 L118 59 A12 12 0 0 0 104 56 L46 81 A10 10 0 0 0 40 90 L40 196 A12 12 0 0 0 52 208 Z"/>
+    <path d="M56 208 L146 208 A10 10 0 0 0 150 207 L205 183 A12 12 0 0 0 209 164 L118 59 A12 12 0 0 0 104 56 L46 81 A10 10 0 0 0 40 90 L40 192 A16 16 0 0 0 56 208 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M148 208 C148.41 193.25 140.67 184.62 126 183 C111.33 181.38 104.59 172.75 105 158 C105.41 143.25 97.67 135.62 83 134 C68.33 132.38 61.59 123.75 62 109 C62.41 94.25 54.67 85.62 40 84"/>

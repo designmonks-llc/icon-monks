@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Bold.CurrencyLeu: ImageVector
-    get() = cache ?: iconMonksVector("CurrencyLeuBold", "M144.59 139.09A12 12 0 0 0 140 116H108V40A12 12 0 0 0 84.91 35.41A12 12 0 0 0 84 40V116H52A12 12 0 0 0 47.41 139.09A12 12 0 0 0 52 140H84V216A12 12 0 0 0 96 228H192A12 12 0 0 0 196.59 204.91A12 12 0 0 0 192 204H108V140H140A12 12 0 0 0 144.59 139.09Z").also { cache = it }
+    get() = cache ?: iconMonksVector("CurrencyLeuBold", "M150.59 139.09A12 12 0 0 0 146 116H114V40A12 12 0 0 0 90.91 35.41A12 12 0 0 0 90 40V116H58A12 12 0 0 0 53.41 139.09A12 12 0 0 0 58 140H90V216A12 12 0 0 0 102 228H198A12 12 0 0 0 202.59 204.91A12 12 0 0 0 198 204H114V140H146A12 12 0 0 0 150.59 139.09Z").also { cache = it }

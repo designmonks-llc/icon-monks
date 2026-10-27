@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="text wrap,overflow,word wrap,lines,wrap text">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 56 L216 56"/>
-    <path d="M40 120 H172 A36 36 0 0 1 172 192 H128"/>
-    <path d="M152 168 L128 192 L152 216"/>
-    <path d="M40 192 L88 192"/>
+    <path d="M40 48 L216 48"/>
+    <path d="M40 112 H172 A36 36 0 0 1 172 184 H128"/>
+    <path d="M152 160 L128 184 L152 208"/>
+    <path d="M40 184 L88 184"/>
   </g>
 </svg>

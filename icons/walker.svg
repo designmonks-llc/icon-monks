@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="walker,mobility aid,elderly,assist">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="84" cy="56" r="24"/>
+    <circle cx="78" cy="56" r="24"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="84" cy="56" r="24"/>
-    <path d="M88 100 L84 152"/>
-    <path d="M90 112 L116 140 L148 124"/>
-    <path d="M84 152 L108 220"/>
-    <path d="M84 152 L56 220"/>
-    <path d="M140 220 L152 124 L196 124 L212 220"/>
-    <path d="M146 172 L204 172"/>
+    <circle cx="78" cy="56" r="24"/>
+    <path d="M82 100 L78 152"/>
+    <path d="M84 112 L110 140 L142 124"/>
+    <path d="M78 152 L102 220"/>
+    <path d="M78 152 L50 220"/>
+    <path d="M134 220 L146 124 L190 124 L206 220"/>
+    <path d="M140 172 L198 172"/>
   </g>
 </svg>

@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="tennis racket,badminton,squash">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M93 151 A72 56 135 1 1 195 49 A72 56 135 1 1 93 151 Z"/>
-    <path d="M68 157 L42 182 A14 14 0 0 0 62 202 L87 176 A14 14 0 0 0 68 157 Z"/>
+    <path d="M93 159 A72 56 135 1 1 195 57 A72 56 135 1 1 93 159 Z"/>
+    <path d="M68 165 L42 190 A14 14 0 0 0 62 210 L87 184 A14 14 0 0 0 68 165 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M93 151 A72 56 135 1 1 195 49 A72 56 135 1 1 93 151 Z"/>
-    <path d="M93 151 L79 165"/>
-    <path d="M68 157 L42 182 A14 14 0 0 0 62 202 L87 176 A14 14 0 0 0 68 157 Z"/>
+    <path d="M93 159 A72 56 135 1 1 195 57 A72 56 135 1 1 93 159 Z"/>
+    <path d="M93 159 L79 173"/>
+    <path d="M68 165 L42 190 A14 14 0 0 0 62 210 L87 184 A14 14 0 0 0 68 165 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M177 38 L82 133"/>
-    <path d="M206 67 L111 162"/>
-    <path d="M124 46 L198 120"/>
-    <path d="M94 73 L171 150"/>
+    <path d="M177 46 L82 141"/>
+    <path d="M206 75 L111 170"/>
+    <path d="M124 54 L198 128"/>
+    <path d="M94 81 L171 158"/>
   </g>
 </svg>
