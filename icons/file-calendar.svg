@@ -7,7 +7,7 @@
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M152 32 V80 H200"/>
-    <rect x="88" y="124" width="80" height="68" rx="10"/>
+    <rect x="88" y="124" width="80" height="68" rx="16"/>
     <path d="M88 152 L168 152"/>
     <path d="M108 112 L108 132"/>
     <path d="M148 112 L148 132"/>

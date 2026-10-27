@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.Columns: ImageVector
-    get() = cache ?: iconMonksVector("ColumnsFill", "M32 52V204A20 20 0 0 0 52 224H100A20 20 0 0 0 120 204V52A20 20 0 0 0 100 32H52A20 20 0 0 0 32 52ZM136 52V204A20 20 0 0 0 156 224H204A20 20 0 0 0 224 204V52A20 20 0 0 0 204 32H156A20 20 0 0 0 136 52Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ColumnsFill", "M32 56V200A24 24 0 0 0 56 224H96A24 24 0 0 0 120 200V56A24 24 0 0 0 96 32H56A24 24 0 0 0 32 56ZM136 56V200A24 24 0 0 0 160 224H200A24 24 0 0 0 224 200V56A24 24 0 0 0 200 32H160A24 24 0 0 0 136 56Z").also { cache = it }

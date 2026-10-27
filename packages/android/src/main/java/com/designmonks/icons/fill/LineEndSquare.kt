@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.LineEndSquare: ImageVector
-    get() = cache ?: iconMonksVector("LineEndSquareFill", "M128 96V120H32A8 8 0 0 0 28.94 135.39A8 8 0 0 0 32 136H128V160A20 20 0 0 0 148 180H212A20 20 0 0 0 232 160V96A20 20 0 0 0 212 76H148A20 20 0 0 0 128 96Z").also { cache = it }
+    get() = cache ?: iconMonksVector("LineEndSquareFill", "M128 100V120H32A8 8 0 0 0 28.94 135.39A8 8 0 0 0 32 136H128V156A24 24 0 0 0 152 180H208A24 24 0 0 0 232 156V100A24 24 0 0 0 208 76H152A24 24 0 0 0 128 100Z").also { cache = it }

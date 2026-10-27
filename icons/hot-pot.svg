@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="hot pot,fondue,soup,asian food">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M44 108 A84 28 0 0 1 212 108 V156 A44 44 0 0 1 168 200 H88 A44 44 0 0 1 44 156 Z"/>
+    <path d="M44 120 A84 28 0 0 1 212 120 V168 A44 44 0 0 1 168 212 H88 A44 44 0 0 1 44 168 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44 108 A84 28 0 0 1 212 108 V156 A44 44 0 0 1 168 200 H88 A44 44 0 0 1 44 156 Z"/>
-    <path d="M96 32 C93.89 33.69 93 35.75 93 38 C93 44.16 99 51.84 99 58 C99 60.25 98.11 62.31 96 64"/>
-    <path d="M128 32 C125.89 33.69 125 35.75 125 38 C125 44.16 131 51.84 131 58 C131 60.25 130.11 62.31 128 64"/>
-    <path d="M160 32 C157.89 33.69 157 35.75 157 38 C157 44.16 163 51.84 163 58 C163 60.25 162.11 62.31 160 64"/>
+    <path d="M44 120 A84 28 0 0 1 212 120 V168 A44 44 0 0 1 168 212 H88 A44 44 0 0 1 44 168 Z"/>
+    <path d="M96 44 C93.89 45.69 93 47.75 93 50 C93 56.16 99 63.84 99 70 C99 72.25 98.11 74.31 96 76"/>
+    <path d="M128 44 C125.89 45.69 125 47.75 125 50 C125 56.16 131 63.84 131 70 C131 72.25 130.11 74.31 128 76"/>
+    <path d="M160 44 C157.89 45.69 157 47.75 157 50 C157 56.16 163 63.84 163 70 C163 72.25 162.11 74.31 160 76"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44 108 A84 28 0 0 0 212 108"/>
-    <path d="M100 84 C128 92 128 124 156 132"/>
+    <path d="M44 120 A84 28 0 0 0 212 120"/>
+    <path d="M100 96 C128 104 128 136 156 144"/>
   </g>
 </svg>

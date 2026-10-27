@@ -1,10 +1,10 @@
 <svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="aws,amazon web services,cloud,amazon,logo,brand">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M36 66 C42 60 50 56 58 56 C70 56 76 64 76 74 V116"/>
-    <path d="M76 90 H56 C44 90 36 96 36 104 C36 112 44 116 52 116 C66 116 76 108 76 96"/>
-    <path d="M96 56 L110 116 L128 76 L146 116 L160 56"/>
-    <path d="M218 64 C212 58 206 56 200 56 C190 56 182 62 182 70 C182 88 220 82 220 102 C220 112 212 116 200 116 C190 116 184 114 178 108"/>
-    <path d="M36 148 C60 166 92 176 124 176 C152 176 180 168 204 152"/>
-    <path d="M188 140 L216 140 L208 168"/>
+    <path d="M36 78 C42 72 50 68 58 68 C70 68 76 76 76 86 V128"/>
+    <path d="M76 102 H56 C44 102 36 108 36 116 C36 124 44 128 52 128 C66 128 76 120 76 108"/>
+    <path d="M96 68 L110 128 L128 88 L146 128 L160 68"/>
+    <path d="M218 76 C212 70 206 68 200 68 C190 68 182 74 182 82 C182 100 220 94 220 114 C220 124 212 128 200 128 C190 128 184 126 178 120"/>
+    <path d="M36 160 C60 178 92 188 124 188 C152 188 180 180 204 164"/>
+    <path d="M188 152 L216 152 L208 180"/>
   </g>
 </svg>

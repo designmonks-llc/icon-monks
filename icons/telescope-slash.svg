@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="telescope,off,disabled,hidden">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M76 121 L179 52 A10 10 0 0 1 194 55 L213 89 A10 10 0 0 1 209 103 L97 157 A10 10 0 0 1 84 153 L73 135 A10 10 0 0 1 76 121 Z"/>
+    <path d="M71 116 L179 44 A10.51 10.51 0 0 1 195 47 L215 83 A10.51 10.51 0 0 1 211 97 L93 154 A10.51 10.51 0 0 1 80 150 L68 131 A10.51 10.51 0 0 1 71 116 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M76 121 L179 52 A10 10 0 0 1 194 55 L213 89 A10 10 0 0 1 209 103 L97 157 A10 10 0 0 1 84 153 L73 135 A10 10 0 0 1 76 121 Z"/>
-    <path d="M47 162 L68 150"/>
-    <path d="M136 140 L96 216"/>
-    <path d="M136 140 L176 216"/>
+    <path d="M71 116 L179 44 A10.51 10.51 0 0 1 195 47 L215 83 A10.51 10.51 0 0 1 211 97 L93 154 A10.51 10.51 0 0 1 80 150 L68 131 A10.51 10.51 0 0 1 71 116 Z"/>
+    <path d="M41 159 L63 147"/>
+    <path d="M134 136 L92 216"/>
+    <path d="M134 136 L176 216"/>
   </g>
   <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>

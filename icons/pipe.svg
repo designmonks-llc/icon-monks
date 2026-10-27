@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="plumbing,pipe,water line">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M48 88 H144 A64 64 0 0 1 208 152 V216 H152 V152 A8 8 0 0 0 144 144 H48 Z"/>
+    <path d="M40 72 H136 A64 64 0 0 1 200 136 V200 H144 V144 A16 16 0 0 0 128 128 H40 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 88 H144 A64 64 0 0 1 208 152 V216 H152 V152 A8 8 0 0 0 144 144 H48 Z"/>
-    <path d="M80 72 L80 160"/>
-    <path d="M136 184 L224 184"/>
+    <path d="M40 72 H136 A64 64 0 0 1 200 136 V200 H144 V144 A16 16 0 0 0 128 128 H40 Z"/>
+    <path d="M72 56 L72 144"/>
+    <path d="M128 168 L216 168"/>
   </g>
 </svg>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="klm,royal dutch airlines,airline,crown,travel,logo,brand">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 56 L128 104"/>
-    <path d="M108 76 L148 76"/>
-    <path d="M48 188 L208 188"/>
+    <path d="M128 55 L128 108"/>
+    <path d="M106 77 L150 77"/>
+    <path d="M40 201 L216 201"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="56" cy="140" r="16"/>
-    <circle cx="104" cy="140" r="16"/>
-    <circle cx="152" cy="140" r="16"/>
-    <circle cx="200" cy="140" r="16"/>
+    <circle cx="49" cy="148" r="16"/>
+    <circle cx="102" cy="148" r="16"/>
+    <circle cx="154" cy="148" r="16"/>
+    <circle cx="207" cy="148" r="16"/>
   </g>
 </svg>

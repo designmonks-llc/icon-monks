@@ -1,5 +1,5 @@
 <svg data-size="symbol" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Letters &amp; Numbers" data-tags="alphabet georgian,alphabet,script,language,georgian">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M200 104 V136 A64 64 0 0 1 72 136 V112 C72 90.66 87.74 79 102 79 C111.8 79 120.74 84.59 124 96 C124.8 98.66 125 101.52 125 104 C125 120.17 109.34 131.47 92 128"/>
+    <path d="M192 92 V124 A64 64 0 0 1 64 124 V100 C64 78.66 79.74 67 94 67 C103.8 67 112.74 72.59 116 84 C116.8 86.66 117 89.52 117 92 C117 108.17 101.34 119.47 84 116"/>
   </g>
 </svg>

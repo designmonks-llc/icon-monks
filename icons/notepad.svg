@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="notes,memo,notebook,jot,pad">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="48" y="48" width="160" height="176" rx="14"/>
+    <rect x="48" y="48" width="160" height="176" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="48" y="48" width="160" height="176" rx="14"/>
+    <rect x="48" y="48" width="160" height="176" rx="16"/>
     <path d="M88 32 L88 64"/>
     <path d="M128 32 L128 64"/>
     <path d="M168 32 L168 64"/>

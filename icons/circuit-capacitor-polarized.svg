@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="circuit capacitor polarized,circuit,electronics,schematic,capacitor">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 128 L104 128"/>
-    <path d="M104 72 L104 184"/>
-    <path d="M164 72 A80 80 0 0 0 164 184"/>
-    <path d="M141 128 L224 128"/>
-    <path d="M64 60 L64 92"/>
-    <path d="M48 76 L80 76"/>
+    <path d="M32 134 L104 134"/>
+    <path d="M104 78 L104 190"/>
+    <path d="M164 78 A80 80 0 0 0 164 190"/>
+    <path d="M141 134 L224 134"/>
+    <path d="M64 66 L64 98"/>
+    <path d="M48 82 L80 82"/>
   </g>
 </svg>

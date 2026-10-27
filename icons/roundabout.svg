@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Maps" data-tags="roundabout,traffic circle,rotary,direction">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="128" cy="104" r="40"/>
+    <circle cx="128" cy="92" r="40"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="104" r="40"/>
-    <path d="M128 144 L128 216"/>
-    <path d="M168 104 L216 104"/>
-    <path d="M196 84 L216 104 L196 124"/>
-    <path d="M40 104 L88 104"/>
+    <circle cx="128" cy="92" r="40"/>
+    <path d="M128 132 L128 204"/>
+    <path d="M168 92 L216 92"/>
+    <path d="M196 72 L216 92 L196 112"/>
+    <path d="M40 92 L88 92"/>
   </g>
 </svg>

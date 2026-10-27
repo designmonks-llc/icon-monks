@@ -3,12 +3,12 @@
     <rect x="48" y="32" width="160" height="192" rx="16"/>
   </g>
   <g data-role="hole" fill="none">
-    <rect x="80" y="64" width="96" height="96" rx="6"/>
+    <rect x="80" y="64" width="96" height="96" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <rect x="48" y="32" width="160" height="192" rx="16"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="80" y="64" width="96" height="96" rx="6"/>
+    <rect x="80" y="64" width="96" height="96" rx="16"/>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Weather" data-tags="rainbow,after rain,weather">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M143 216 L197 216 A24.37 24.37 0 0 0 203 167 A33 33 0 0 0 136 172 A22 22 0 0 0 143 216 Z"/>
+    <path d="M143 208 L197 208 A24.37 24.37 0 0 0 203 159 A33 33 0 0 0 136 164 A22 22 0 0 0 143 208 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 172 A95 95 0 0 1 224 172"/>
-    <path d="M64 172 A64 64 0 0 1 185 143"/>
-    <path d="M96 172 A32 32 0 0 1 148 147"/>
-    <path d="M143 216 L197 216 A24.37 24.37 0 0 0 203 167 A33 33 0 0 0 136 172 A22 22 0 0 0 143 216 Z"/>
+    <path d="M32 164 A95 95 0 0 1 224 164"/>
+    <path d="M64 164 A64 64 0 0 1 185 135"/>
+    <path d="M96 164 A32 32 0 0 1 148 139"/>
+    <path d="M143 208 L197 208 A24.37 24.37 0 0 0 203 159 A33 33 0 0 0 136 164 A22 22 0 0 0 143 208 Z"/>
   </g>
 </svg>

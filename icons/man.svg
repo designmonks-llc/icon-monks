@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="male,restroom,man,person">
   <g data-role="area" fill="currentColor" opacity="0.2">
     <circle cx="128" cy="52" r="20"/>
-    <rect x="72" y="92" width="112" height="72" rx="20"/>
+    <rect x="72" y="92" width="112" height="72" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="128" cy="52" r="20"/>
-    <rect x="72" y="92" width="112" height="72" rx="20"/>
+    <rect x="72" y="92" width="112" height="72" rx="16"/>
     <path d="M108 164 L108 216"/>
     <path d="M148 164 L148 216"/>
   </g>

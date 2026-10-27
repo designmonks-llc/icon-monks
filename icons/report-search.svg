@@ -4,12 +4,12 @@
     <circle cx="172" cy="172" r="32"/>
   </g>
   <g data-role="hole" fill="none">
-    <rect x="96" y="40" width="64" height="24" rx="4"/>
+    <rect x="96" y="40" width="64" height="24" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M88 48 H64 A16 16 0 0 0 48 64 V208 A16 16 0 0 0 64 224 H134"/>
     <path d="M168 48 H192 A16 16 0 0 1 208 64 V118"/>
-    <rect x="88" y="32" width="80" height="40" rx="10"/>
+    <rect x="88" y="32" width="80" height="40" rx="8"/>
     <circle cx="172" cy="172" r="32"/>
     <path d="M195 195 L214 214"/>
   </g>

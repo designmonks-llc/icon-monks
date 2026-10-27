@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="d-pad,directional pad,gaming,controller,gamepad">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M88 46 A14 14 0 0 1 102 32 L154 32 A14 14 0 0 1 168 46 L168 88 L210 88 A14 14 0 0 1 224 102 L224 154 A14 14 0 0 1 210 168 L168 168 L168 210 A14 14 0 0 1 154 224 L102 224 A14 14 0 0 1 88 210 L88 168 L46 168 A14 14 0 0 1 32 154 L32 102 A14 14 0 0 1 46 88 L88 88 Z"/>
+    <path d="M88 48 A16 16 0 0 1 104 32 L152 32 A16 16 0 0 1 168 48 L168 88 L208 88 A16 16 0 0 1 224 104 L224 152 A16 16 0 0 1 208 168 L168 168 L168 208 A16 16 0 0 1 152 224 L104 224 A16 16 0 0 1 88 208 L88 168 L48 168 A16 16 0 0 1 32 152 L32 104 A16 16 0 0 1 48 88 L88 88 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88 46 A14 14 0 0 1 102 32 L154 32 A14 14 0 0 1 168 46 L168 88 L210 88 A14 14 0 0 1 224 102 L224 154 A14 14 0 0 1 210 168 L168 168 L168 210 A14 14 0 0 1 154 224 L102 224 A14 14 0 0 1 88 210 L88 168 L46 168 A14 14 0 0 1 32 154 L32 102 A14 14 0 0 1 46 88 L88 88 Z"/>
+    <path d="M88 48 A16 16 0 0 1 104 32 L152 32 A16 16 0 0 1 168 48 L168 88 L208 88 A16 16 0 0 1 224 104 L224 152 A16 16 0 0 1 208 168 L168 168 L168 208 A16 16 0 0 1 152 224 L104 224 A16 16 0 0 1 88 208 L88 168 L48 168 A16 16 0 0 1 32 152 L32 104 A16 16 0 0 1 48 88 L88 88 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 55 L136 67 L120 67 Z"/>

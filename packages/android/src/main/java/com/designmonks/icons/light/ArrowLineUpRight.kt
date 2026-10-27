@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Light.ArrowLineUpRight: ImageVector
-    get() = cache ?: iconMonksVector("ArrowLineUpRightLight", "M123.76 35.76A6 6 0 0 0 128 46H210V128A6 6 0 0 0 221.54 130.3A6 6 0 0 0 222 128V40A6 6 0 0 0 216 34H128A6 6 0 0 0 123.76 35.76ZM120.7 82.46A6 6 0 0 0 123 94H153.51L47.76 199.76A6 6 0 0 0 54.3 209.54A6 6 0 0 0 56.24 208.24L162 102.49V133A6 6 0 0 0 173.54 135.3A6 6 0 0 0 174 133V88A6 6 0 0 0 168 82H123A6 6 0 0 0 120.7 82.46Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ArrowLineUpRightLight", "M117.76 41.76A6 6 0 0 0 122 52H204V134A6 6 0 0 0 215.54 136.3A6 6 0 0 0 216 134V46A6 6 0 0 0 210 40H122A6 6 0 0 0 117.76 41.76ZM114.7 88.46A6 6 0 0 0 117 100H147.51L41.76 205.76A6 6 0 0 0 48.3 215.54A6 6 0 0 0 50.24 214.24L156 108.49V139A6 6 0 0 0 167.54 141.3A6 6 0 0 0 168 139V94A6 6 0 0 0 162 88H117A6 6 0 0 0 114.7 88.46Z").also { cache = it }

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="tools,hammer and wrench,repair,settings">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M49 72 L100 40 L119 70 L58 108 L38 107 L32 97 Z"/>
-    <path d="M177 50 L162 75 L185 89 L201 65 A34 34 0 1 1 177 50 Z"/>
+    <path d="M57 72 L108 40 L127 70 L66 108 L46 107 L40 97 Z"/>
+    <path d="M185 50 L170 75 L193 89 L209 65 A34 34 0 1 1 185 50 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M49 72 L100 40 L119 70 L58 108 L38 107 L32 97 Z"/>
-    <path d="M92 87 L172 216"/>
-    <path d="M177 50 L162 75 L185 89 L201 65 A34 34 0 1 1 177 50 Z"/>
-    <path d="M154 113 L90 216"/>
+    <path d="M57 72 L108 40 L127 70 L66 108 L46 107 L40 97 Z"/>
+    <path d="M100 87 L180 216"/>
+    <path d="M185 50 L170 75 L193 89 L209 65 A34 34 0 1 1 185 50 Z"/>
+    <path d="M162 113 L98 216"/>
   </g>
 </svg>

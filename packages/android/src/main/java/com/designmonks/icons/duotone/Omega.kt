@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Duotone.Omega: ImageVector
-    get() = cache ?: iconMonksVector("OmegaDuotone", "", "M38.34 198.34A8 8 0 0 0 44 212H92A8 8 0 0 0 100 204V187A8 8 0 0 0 95.6 179.86A72 72 0 1 1 160.4 179.86A8 8 0 0 0 156 187V204A8 8 0 0 0 164 212H212A8 8 0 0 0 215.06 196.61A8 8 0 0 0 212 196H172V191.78A87.42 87.42 0 0 0 207.79 152.67A88 88 0 1 0 48.21 152.67A87.27 87.27 0 0 0 84 191.78V196H44A8 8 0 0 0 38.34 198.34Z", duotone = true).also { cache = it }
+    get() = cache ?: iconMonksVector("OmegaDuotone", "", "M38.34 206.34A8 8 0 0 0 44 220H92A8 8 0 0 0 100 212V195A8 8 0 0 0 95.6 187.86A72 72 0 1 1 160.4 187.86A8 8 0 0 0 156 195V212A8 8 0 0 0 164 220H212A8 8 0 0 0 215.06 204.61A8 8 0 0 0 212 204H172V199.78A87.42 87.42 0 0 0 207.79 160.67A88 88 0 1 0 48.21 160.67A87.27 87.27 0 0 0 84 199.78V204H44A8 8 0 0 0 38.34 206.34Z", duotone = true).also { cache = it }

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Time" data-tags="slow down,speed,decrease,meter">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M60 196 A96 96 0 1 1 196 196 Z"/>
+    <path d="M60 210 A96 96 0 1 1 196 210 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M60 196 A96 96 0 1 1 196 196 Z"/>
+    <path d="M60 210 A96 96 0 1 1 196 210 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 148 L76 134"/>
+    <path d="M128 162 L76 148"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="128" cy="148" r="16"/>
+    <circle cx="128" cy="162" r="16"/>
   </g>
 </svg>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Brands" data-tags="american airlines,airline,flight symbol,eagle,travel,logo,brand">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M44 36 H88 L144 104 H100 Z"/>
-    <path d="M116 156 C113.77 151.53 113 147.22 113 144 C113 135.69 119.35 132 128 132 H172 C181.87 132 189 137.62 189 144 C189 145.37 188.71 146.58 188 148 L224 212 H172 Z"/>
+    <path d="M38 36 H82 L138 104 H94 Z"/>
+    <path d="M110 156 C107.77 151.53 107 147.22 107 144 C107 135.69 113.35 132 122 132 H166 C175.87 132 183 137.62 183 144 C183 145.37 182.71 146.58 182 148 L218 212 H166 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M44 36 H88 L144 104 H100 Z"/>
-    <path d="M116 156 C113.77 151.53 113 147.22 113 144 C113 135.69 119.35 132 128 132 H172 C181.87 132 189 137.62 189 144 C189 145.37 188.71 146.58 188 148 L224 212 H172 Z"/>
+    <path d="M38 36 H82 L138 104 H94 Z"/>
+    <path d="M110 156 C107.77 151.53 107 147.22 107 144 C107 135.69 113.35 132 122 132 H166 C175.87 132 183 137.62 183 144 C183 145.37 182.71 146.58 182 148 L218 212 H166 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 164 C144 152 164 148 188 148"/>
+    <path d="M122 164 C138 152 158 148 182 148"/>
   </g>
 </svg>

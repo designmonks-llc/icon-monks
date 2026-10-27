@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="People" data-tags="fist,power,solidarity,punch">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M64 92 A18 18 0 0 1 100 92 A18 18 0 0 1 136 92 A18 18 0 0 1 172 92 A18 18 0 0 1 208 92 V160 C208 196 184 220 148 220 H116 C84 220 64 200 64 168 Z"/>
+    <path d="M41 61 A21.7 21.7 0 0 1 85 61 A21.7 21.7 0 0 1 128 61 A21.7 21.7 0 0 1 171 61 A21.7 21.7 0 0 1 215 61 V143 C214.8 186.07 185.86 215 142 215 H104 C65.31 215 41.2 190.89 41 152 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 92 A18 18 0 0 1 100 92 A18 18 0 0 1 136 92 A18 18 0 0 1 172 92 A18 18 0 0 1 208 92 V160 C208 196 184 220 148 220 H116 C84 220 64 200 64 168 Z"/>
+    <path d="M41 61 A21.7 21.7 0 0 1 85 61 A21.7 21.7 0 0 1 128 61 A21.7 21.7 0 0 1 171 61 A21.7 21.7 0 0 1 215 61 V143 C214.8 186.07 185.86 215 142 215 H104 C65.31 215 41.2 190.89 41 152 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100 92 L100 120"/>
-    <path d="M136 92 L136 120"/>
-    <path d="M172 92 L172 120"/>
-    <path d="M64 152 H128 A16 16 0 0 0 144 136"/>
+    <path d="M85 61 L85 94"/>
+    <path d="M128 61 L128 94"/>
+    <path d="M171 61 L171 94"/>
+    <path d="M41 133 H118 A19.29 19.29 0 0 0 138 114"/>
   </g>
 </svg>

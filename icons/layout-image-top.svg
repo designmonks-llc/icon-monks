@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Editor" data-tags="image above text,insert image,layout,content block,image,top">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="192" height="88" rx="14"/>
+    <rect x="32" y="32" width="192" height="88" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="192" height="88" rx="14"/>
+    <rect x="32" y="32" width="192" height="88" rx="16"/>
     <path d="M32 152 H224"/>
     <path d="M32 188 H224"/>
     <path d="M32 224 H160"/>

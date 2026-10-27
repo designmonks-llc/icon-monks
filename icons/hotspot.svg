@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="hotspot,tethering,wifi,share internet">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="96" y="128" width="64" height="96" rx="14"/>
+    <rect x="96" y="128" width="64" height="96" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="96" y="128" width="64" height="96" rx="14"/>
+    <rect x="96" y="128" width="64" height="96" rx="16"/>
     <path d="M94 94 A48 48 0 0 1 162 94"/>
     <path d="M66 66 A88 88 0 0 1 190 66"/>
   </g>

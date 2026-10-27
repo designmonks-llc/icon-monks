@@ -3,7 +3,7 @@
     <path d="M216 86 A91.67 91.67 0 1 0 86 216 H201 A14.67 14.67 0 0 0 216 201 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="40" width="176" height="176" rx="15"/>
+    <rect x="40" y="40" width="176" height="176" rx="16"/>
     <path d="M216 86 A91.67 91.67 0 1 0 86 216"/>
   </g>
 </svg>

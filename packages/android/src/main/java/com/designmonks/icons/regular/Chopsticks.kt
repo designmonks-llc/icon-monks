@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Regular.Chopsticks: ImageVector
-    get() = cache ?: iconMonksVector("ChopsticksRegular", "M183.92 30.9A8 8 0 0 0 169.62 27.18L45.62 191.18A8 8 0 0 0 56.05 202.9A8 8 0 0 0 58.38 200.82L182.38 36.82A8 8 0 0 0 183.92 30.9ZM227.99 67.56A8 8 0 0 0 214.04 62.67L78.04 214.67A8 8 0 0 0 87.47 227.21A8 8 0 0 0 89.96 225.33L225.96 73.33A8 8 0 0 0 227.99 67.56Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ChopsticksRegular", "M175.92 30.9A8 8 0 0 0 161.62 27.18L37.62 191.18A8 8 0 0 0 48.05 202.9A8 8 0 0 0 50.38 200.82L174.38 36.82A8 8 0 0 0 175.92 30.9ZM219.99 67.56A8 8 0 0 0 206.04 62.67L70.04 214.67A8 8 0 0 0 79.47 227.21A8 8 0 0 0 81.96 225.33L217.96 73.33A8 8 0 0 0 219.99 67.56Z").also { cache = it }

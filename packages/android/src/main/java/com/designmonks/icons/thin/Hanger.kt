@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Thin.Hanger: ImageVector
-    get() = cache ?: iconMonksVector("HangerThin", "M105.17 70.83A4 4 0 0 0 112 68A16 16 0 1 1 128 84A4 4 0 0 0 124 88V106L29.6 176.8A4 4 0 0 0 32 184H224A4 4 0 0 0 226.4 176.8L132 106V91.7A23.63 23.63 0 0 0 144.97 84.97A24 24 0 1 0 104 68A4 4 0 0 0 105.17 70.83ZM212 176H44L128 113L212 176Z").also { cache = it }
+    get() = cache ?: iconMonksVector("HangerThin", "M105.17 84.83A4 4 0 0 0 112 82A16 16 0 1 1 128 98A4 4 0 0 0 124 102V120L29.6 190.8A4 4 0 0 0 32 198H224A4 4 0 0 0 226.4 190.8L132 120V105.7A23.63 23.63 0 0 0 144.97 98.97A24 24 0 1 0 104 82A4 4 0 0 0 105.17 84.83ZM212 190H44L128 127L212 190Z").also { cache = it }

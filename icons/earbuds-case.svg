@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="earbuds,charging case,devices">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 112 H216 V160 A56 56 0 0 1 160 216 H96 A56 56 0 0 1 40 160 Z"/>
-    <path d="M55 66 C57.05 58.84 67.51 56 82 56 C129.74 56 222.77 88.4 216 112 Z"/>
+    <path d="M40 104 H216 V152 A56 56 0 0 1 160 208 H96 A56 56 0 0 1 40 152 Z"/>
+    <path d="M55 58 C57.05 50.84 67.51 48 82 48 C129.74 48 222.77 80.4 216 104 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 112 H216 V160 A56 56 0 0 1 160 216 H96 A56 56 0 0 1 40 160 Z"/>
-    <path d="M55 66 C57.05 58.84 67.51 56 82 56 C129.74 56 222.77 88.4 216 112 Z"/>
+    <path d="M40 104 H216 V152 A56 56 0 0 1 160 208 H96 A56 56 0 0 1 40 152 Z"/>
+    <path d="M55 58 C57.05 50.84 67.51 48 82 48 C129.74 48 222.77 80.4 216 104 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="96" cy="156" r="16"/>
-    <circle cx="160" cy="156" r="16"/>
+    <circle cx="96" cy="148" r="16"/>
+    <circle cx="160" cy="148" r="16"/>
   </g>
 </svg>

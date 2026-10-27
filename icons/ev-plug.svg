@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Transport" data-tags="ev connector,charging plug,electric car">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M86 56 H170 A64 64 0 1 1 86 56 Z"/>
-    <path d="M104 163 L112 200 L144 200 L152 163 Z"/>
+    <path d="M86 44 H170 A64 64 0 1 1 86 44 Z"/>
+    <path d="M104 151 L112 188 L144 188 L152 151 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M86 56 H170 A64 64 0 1 1 86 56 Z"/>
-    <path d="M104 163 L112 200 L144 200 L152 163"/>
-    <path d="M128 200 L128 224"/>
+    <path d="M86 44 H170 A64 64 0 1 1 86 44 Z"/>
+    <path d="M104 151 L112 188 L144 188 L152 151"/>
+    <path d="M128 188 L128 212"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="106" cy="88" r="15"/>
-    <circle cx="150" cy="88" r="15"/>
-    <circle cx="106" cy="128" r="15"/>
-    <circle cx="150" cy="128" r="15"/>
+    <circle cx="106" cy="76" r="15"/>
+    <circle cx="150" cy="76" r="15"/>
+    <circle cx="106" cy="116" r="15"/>
+    <circle cx="150" cy="116" r="15"/>
   </g>
 </svg>

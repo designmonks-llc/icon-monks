@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="quran,holy book,islam,scripture,reading,religion">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 84 C108 68 76 60 32 60 V136 C76 136 108 144 128 160 C148 144 180 136 224 136 V60 C180 60 148 68 128 84 Z"/>
+    <path d="M128 70 C108 54 76 46 32 46 V122 C76 122 108 130 128 146 C148 130 180 122 224 122 V46 C180 46 148 54 128 70 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 84 C108 68 76 60 32 60 V136 C76 136 108 144 128 160 C148 144 180 136 224 136 V60 C180 60 148 68 128 84 Z"/>
-    <path d="M76 172 L180 224"/>
-    <path d="M180 172 L76 224"/>
+    <path d="M128 70 C108 54 76 46 32 46 V122 C76 122 108 130 128 146 C148 130 180 122 224 122 V46 C180 46 148 54 128 70 Z"/>
+    <path d="M76 158 L180 210"/>
+    <path d="M180 158 L76 210"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 84 L128 160"/>
+    <path d="M128 70 L128 146"/>
   </g>
 </svg>

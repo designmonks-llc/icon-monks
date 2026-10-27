@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="bass clef,f clef,clef,music,notation">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 104 C48 72 76 56 104 56 C144 56 168 84 168 120 C168 168 120 200 48 216"/>
+    <path d="M42 93 C42.2 57.6 73 40 104 40 C147.8 40 174.2 70.8 174 110 C174.2 163.2 121.4 198.4 42 216"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="64" cy="104" r="16"/>
-    <circle cx="200" cy="96" r="16"/>
-    <circle cx="200" cy="144" r="16"/>
+    <circle cx="60" cy="93" r="16"/>
+    <circle cx="209" cy="84" r="16"/>
+    <circle cx="209" cy="137" r="16"/>
   </g>
 </svg>

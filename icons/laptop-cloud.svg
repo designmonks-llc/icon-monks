@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="laptop,cloud,sync,online">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M130 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 127 A60 60 0 0 0 130 168 Z"/>
+    <path d="M130 168 L72 168 A16 16 0 0 1 56 152 L56 72 A16 16 0 0 1 72 56 L192 56 A16 16 0 0 1 208 72 L208 127 A60 60 0 0 0 130 168 Z"/>
     <path d="M168 213 L206 213 A17.6 17.6 0 0 0 211 179 A24 24 0 0 0 163 182 A16 16 0 0 0 168 213 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M130 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 127"/>
+    <path d="M130 168 L72 168 A16 16 0 0 1 56 152 L56 72 A16 16 0 0 1 72 56 L192 56 A16 16 0 0 1 208 72 L208 127"/>
     <path d="M32 196 L129 196"/>
     <path d="M168 213 L206 213 A17.6 17.6 0 0 0 211 179 A24 24 0 0 0 163 182 A16 16 0 0 0 168 213 Z"/>
   </g>

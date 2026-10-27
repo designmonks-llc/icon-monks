@@ -1,10 +1,10 @@
 <svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="funnel,favorite,starred,featured">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
-    <path d="M184 151 L193 174 L218 176 L199 192 L205 216 L184 203 L163 216 L169 192 L150 176 L175 174 Z"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
+    <path d="M184 143 L193 166 L218 168 L199 184 L205 208 L184 195 L163 208 L169 184 L150 168 L175 166 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 45 L186 45 L128 115 L128 166 L90 185 L90 115 Z"/>
-    <path d="M184 151 L193 174 L218 176 L199 192 L205 216 L184 203 L163 216 L169 192 L150 176 L175 174 Z"/>
+    <path d="M32 37 L186 37 L128 107 L128 158 L90 177 L90 107 Z"/>
+    <path d="M184 143 L193 166 L218 168 L199 184 L205 208 L184 195 L163 208 L169 184 L150 168 L175 166 Z"/>
   </g>
 </svg>

@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="horseshoe,luck,horse,fortune">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M88 207 A92 92 0 1 1 168 207 L145 167 A46 46 0 1 0 111 167 Z"/>
+    <path d="M88 215 A92 92 0 1 1 168 215 L145 175 A46 46 0 1 0 111 175 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M88 207 A92 92 0 1 1 168 207 L145 167 A46 46 0 1 0 111 167 Z"/>
+    <path d="M88 215 A92 92 0 1 1 168 215 L145 175 A46 46 0 1 0 111 175 Z"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="68" cy="158" r="10"/>
-    <circle cx="61" cy="106" r="10"/>
-    <circle cx="94" cy="64" r="10"/>
-    <circle cx="162" cy="64" r="10"/>
-    <circle cx="195" cy="106" r="10"/>
-    <circle cx="188" cy="158" r="10"/>
+    <circle cx="68" cy="166" r="10"/>
+    <circle cx="61" cy="114" r="10"/>
+    <circle cx="94" cy="72" r="10"/>
+    <circle cx="162" cy="72" r="10"/>
+    <circle cx="195" cy="114" r="10"/>
+    <circle cx="188" cy="166" r="10"/>
   </g>
 </svg>

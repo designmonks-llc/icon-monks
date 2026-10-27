@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Symbols" data-tags="stars,off,disabled,hidden">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 32 L142 67 L179 69 L151 93 L160 130 L128 110 L96 130 L105 93 L77 69 L114 67 Z"/>
-    <path d="M68 144 L77 167 L102 169 L83 185 L89 209 L68 196 L47 209 L53 185 L34 169 L59 167 Z"/>
-    <path d="M188 144 L197 167 L222 169 L203 185 L209 209 L188 196 L167 209 L173 185 L154 169 L179 167 Z"/>
+    <path d="M128 40 L142 75 L179 77 L151 101 L160 138 L128 118 L96 138 L105 101 L77 77 L114 75 Z"/>
+    <path d="M68 152 L77 175 L102 177 L83 193 L89 217 L68 204 L47 217 L53 193 L34 177 L59 175 Z"/>
+    <path d="M188 152 L197 175 L222 177 L203 193 L209 217 L188 204 L167 217 L173 193 L154 177 L179 175 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 32 L142 67 L179 69 L151 93 L160 130 L128 110 L96 130 L105 93 L77 69 L114 67 Z"/>
-    <path d="M68 144 L77 167 L102 169 L83 185 L89 209 L68 196 L47 209 L53 185 L34 169 L59 167 Z"/>
-    <path d="M188 144 L197 167 L222 169 L203 185 L209 209 L188 196 L167 209 L173 185 L154 169 L179 167 Z"/>
+    <path d="M128 40 L142 75 L179 77 L151 101 L160 138 L128 118 L96 138 L105 101 L77 77 L114 75 Z"/>
+    <path d="M68 152 L77 175 L102 177 L83 193 L89 217 L68 204 L47 217 L53 193 L34 177 L59 175 Z"/>
+    <path d="M188 152 L197 175 L222 177 L203 193 L209 217 L188 204 L167 217 L173 193 L154 177 L179 175 Z"/>
   </g>
   <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>

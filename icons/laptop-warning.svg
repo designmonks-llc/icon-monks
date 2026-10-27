@@ -1,9 +1,9 @@
 <svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="laptop error,issue,alert">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M132 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 130 A58 58 0 0 0 132 168 Z"/>
+    <path d="M132 168 L72 168 A16 16 0 0 1 56 152 L56 72 A16 16 0 0 1 72 56 L192 56 A16 16 0 0 1 208 72 L208 130 A58 58 0 0 0 132 168 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M132 168 L68 168 A12 12 0 0 1 56 156 L56 68 A12 12 0 0 1 68 56 L196 56 A12 12 0 0 1 208 68 L208 130"/>
+    <path d="M132 168 L72 168 A16 16 0 0 1 56 152 L56 72 A16 16 0 0 1 72 56 L192 56 A16 16 0 0 1 208 72 L208 130"/>
     <path d="M32 196 L131 196"/>
     <path d="M188 152 L188 184"/>
   </g>

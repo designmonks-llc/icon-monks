@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="hammer,off,disabled,hidden">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 98 L121 33 L161 72 L96 138 L53 157 L36 140 Z"/>
-    <path d="M98 135 L127 106 L203 183 A20 20 0 0 1 175 211 Z"/>
+    <path d="M62 98 L127 33 L167 72 L102 138 L59 157 L42 140 Z"/>
+    <path d="M104 135 L133 106 L209 183 A20 20 0 0 1 181 211 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 98 L121 33 L161 72 L96 138 L53 157 L36 140 Z"/>
-    <path d="M98 135 L127 106 L203 183 A20 20 0 0 1 175 211 Z"/>
+    <path d="M62 98 L127 33 L167 72 L102 138 L59 157 L42 140 Z"/>
+    <path d="M104 135 L133 106 L209 183 A20 20 0 0 1 181 211 Z"/>
   </g>
   <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>

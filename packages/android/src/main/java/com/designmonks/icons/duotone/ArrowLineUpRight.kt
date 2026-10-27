@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Duotone.ArrowLineUpRight: ImageVector
-    get() = cache ?: iconMonksVector("ArrowLineUpRightDuotone", "", "M122.34 34.34A8 8 0 0 0 128 48H208V128A8 8 0 0 0 223.39 131.06A8 8 0 0 0 224 128V40A8 8 0 0 0 216 32H128A8 8 0 0 0 122.34 34.34ZM119.94 80.61A8 8 0 0 0 123 96H148.69L46.34 198.34A8 8 0 0 0 55.06 211.39A8 8 0 0 0 57.66 209.66L160 107.31V133A8 8 0 0 0 175.39 136.06A8 8 0 0 0 176 133V88A8 8 0 0 0 168 80H123A8 8 0 0 0 119.94 80.61Z", duotone = true).also { cache = it }
+    get() = cache ?: iconMonksVector("ArrowLineUpRightDuotone", "", "M116.34 40.34A8 8 0 0 0 122 54H202V134A8 8 0 0 0 217.39 137.06A8 8 0 0 0 218 134V46A8 8 0 0 0 210 38H122A8 8 0 0 0 116.34 40.34ZM113.94 86.61A8 8 0 0 0 117 102H142.69L40.34 204.34A8 8 0 0 0 49.06 217.39A8 8 0 0 0 51.66 215.66L154 113.31V139A8 8 0 0 0 169.39 142.06A8 8 0 0 0 170 139V94A8 8 0 0 0 162 86H117A8 8 0 0 0 113.94 86.61Z", duotone = true).also { cache = it }

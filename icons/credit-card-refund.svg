@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="credit card refund,payment,card,pay,credit">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M224 137 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H126 A59 59 0 0 1 224 137 Z"/>
+    <path d="M224 137 V78 A16 16 0 0 0 208 62 H48 A16 16 0 0 0 32 78 V179 A16 16 0 0 0 48 195 H126 A59 59 0 0 1 224 137 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M224 137 V75 A13 13 0 0 0 211 62 H45 A13 13 0 0 0 32 75 V182 A13 13 0 0 0 45 195 H126"/>
+    <path d="M224 137 V78 A16 16 0 0 0 208 62 H48 A16 16 0 0 0 32 78 V179 A16 16 0 0 0 48 195 H126"/>
     <path d="M158 165 L191 165 A18.46 18.46 0 0 1 191 202 L169 202"/>
     <path d="M176 147 L158 165 L176 184"/>
   </g>

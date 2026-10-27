@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Science" data-tags="microbe,germ,microbiology,cell">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M147 153 L199 110 A36 36 0 0 0 153 55 L101 98 A36 36 0 0 0 147 153 Z"/>
+    <path d="M153 153 L205 110 A36 36 0 0 0 159 55 L107 98 A36 36 0 0 0 153 153 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M147 153 L199 110 A36 36 0 0 0 153 55 L101 98 A36 36 0 0 0 147 153 Z"/>
-    <path d="M114 160 C107.19 189.22 65.81 177.79 59 207"/>
-    <path d="M88 130 C81.19 159.21 39.81 146.78 33 176"/>
+    <path d="M153 153 L205 110 A36 36 0 0 0 159 55 L107 98 A36 36 0 0 0 153 153 Z"/>
+    <path d="M120 160 C113.19 189.22 71.81 177.79 65 207"/>
+    <path d="M94 130 C87.19 159.21 45.81 146.78 39 176"/>
   </g>
   <g data-role="dotcut" fill="currentColor">
-    <circle cx="135" cy="117" r="14"/>
-    <circle cx="165" cy="91" r="14"/>
+    <circle cx="141" cy="117" r="14"/>
+    <circle cx="171" cy="91" r="14"/>
   </g>
 </svg>

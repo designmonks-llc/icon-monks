@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.CurrencyFranc: ImageVector
-    get() = cache ?: iconMonksVector("CurrencyFrancFill", "M189.66 53.66A8 8 0 0 0 184 40H88A8 8 0 0 0 80 48V164H48A8 8 0 0 0 44.94 179.39A8 8 0 0 0 48 180H80V216A8 8 0 0 0 95.39 219.06A8 8 0 0 0 96 216V180H136A8 8 0 0 0 139.06 164.61A8 8 0 0 0 136 164H96V128H168A8 8 0 0 0 171.06 112.61A8 8 0 0 0 168 112H96V56H184A8 8 0 0 0 189.66 53.66Z").also { cache = it }
+    get() = cache ?: iconMonksVector("CurrencyFrancFill", "M201.66 53.66A8 8 0 0 0 196 40H100A8 8 0 0 0 92 48V164H60A8 8 0 0 0 56.94 179.39A8 8 0 0 0 60 180H92V216A8 8 0 0 0 107.39 219.06A8 8 0 0 0 108 216V180H148A8 8 0 0 0 151.06 164.61A8 8 0 0 0 148 164H108V128H180A8 8 0 0 0 183.06 112.61A8 8 0 0 0 180 112H108V56H196A8 8 0 0 0 201.66 53.66Z").also { cache = it }

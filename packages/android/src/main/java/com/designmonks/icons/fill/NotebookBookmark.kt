@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.NotebookBookmark: ImageVector
-    get() = cache ?: iconMonksVector("NotebookBookmarkFill", "M48 46V210A22 22 0 0 0 70 232H96A8 8 0 0 1 88 224V32A8 8 0 0 1 96 24H70A22 22 0 0 0 48 46ZM96 232H202A22 22 0 0 0 224 210V46A22 22 0 0 0 202 24H96A8 8 0 0 1 104 32V224A8 8 0 0 1 96 232ZM180 95L164 82L148 95V48H180V95Z").also { cache = it }
+    get() = cache ?: iconMonksVector("NotebookBookmarkFill", "M40 48V208A24 24 0 0 0 64 232H88A8 8 0 0 1 80 224V32A8 8 0 0 1 88 24H64A24 24 0 0 0 40 48ZM88 232H192A24 24 0 0 0 216 208V48A24 24 0 0 0 192 24H88A8 8 0 0 1 96 32V224A8 8 0 0 1 88 232ZM172 95L156 82L140 95V48H172V95Z").also { cache = it }

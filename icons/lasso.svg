@@ -1,16 +1,16 @@
 <svg data-detail="reviewed" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Design" data-tags="lasso select,selection,freeform,select,lasso">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 128 L61 125 L59 122 L58 119 L56 116 L55 113 L54 110 L53 109"/>
-    <path d="M57 77 L58 76 L60 73 L62 71 L64 68 L66 65 L69 63 L71 60"/>
-    <path d="M99 44 L99 44 L103 43 L108 42 L112 41 L116 40 L121 39 L121 39"/>
-    <path d="M153 39 L156 39 L161 40 L165 41 L169 42 L174 43 L174 44"/>
-    <path d="M203 59 L205 61 L208 63 L211 66 L213 69 L215 71 L217 74 L218 75"/>
-    <path d="M223 106 L223 108 L222 111 L221 114 L219 117 L218 120 L216 123 L214 126 L214 126"/>
-    <path d="M189 146 L188 147 L184 149 L180 150 L176 152 L172 153 L168 154"/>
-    <path d="M136 158 L132 158 L128 158 L123 157 L119 156 L114 156"/>
-    <path d="M85 145 C81.43 177.13 55 180.2 55 206 C55 209.1 55.14 212.13 56 216"/>
+    <path d="M54 128 L51 125 L49 122 L48 119 L46 116 L45 113 L44 110 L43 109"/>
+    <path d="M47 77 L48 76 L50 73 L52 71 L54 68 L56 65 L59 63 L61 60"/>
+    <path d="M89 44 L89 44 L93 43 L98 42 L102 41 L106 40 L111 39 L111 39"/>
+    <path d="M143 39 L146 39 L151 40 L155 41 L159 42 L164 43 L164 44"/>
+    <path d="M193 59 L195 61 L198 63 L201 66 L203 69 L205 71 L207 74 L208 75"/>
+    <path d="M213 106 L213 108 L212 111 L211 114 L209 117 L208 120 L206 123 L204 126 L204 126"/>
+    <path d="M179 146 L178 147 L174 149 L170 150 L166 152 L162 153 L158 154"/>
+    <path d="M126 158 L122 158 L118 158 L113 157 L109 156 L104 156"/>
+    <path d="M75 145 C71.43 177.13 45 180.2 45 206 C45 209.1 45.14 212.13 46 216"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="85" cy="145" r="18"/>
+    <circle cx="75" cy="145" r="18"/>
   </g>
 </svg>

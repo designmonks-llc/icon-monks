@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrow,direction,rotary,first,right">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="100" cy="100" r="40"/>
+    <circle cx="90" cy="90" r="40"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="100" cy="100" r="40"/>
-    <path d="M100 140 L100 216"/>
-    <path d="M100 140 L216 140"/>
-    <path d="M186 110 L216 140 L186 170"/>
+    <circle cx="90" cy="90" r="40"/>
+    <path d="M90 130 L90 206"/>
+    <path d="M90 130 L206 130"/>
+    <path d="M176 100 L206 130 L176 160"/>
   </g>
 </svg>

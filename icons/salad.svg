@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Food" data-tags="salad,bowl,healthy,vegetables">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M32 120 H224 A96 96 0 0 1 32 120 Z"/>
-    <path d="M64 120 C62.83 115.33 62 110.44 62 106 C62 80.03 81.84 59.42 116 56 C117.17 61.25 118 66.28 118 71 C118 98.61 98.16 116.58 64 120 Z"/>
-    <path d="M148 120 A32 32 0 1 1 212 120 Z"/>
+    <path d="M32 112 H224 A96 96 0 0 1 32 112 Z"/>
+    <path d="M64 112 C62.83 107.33 62 102.44 62 98 C62 72.03 81.84 51.42 116 48 C117.17 53.25 118 58.28 118 63 C118 90.61 98.16 108.58 64 112 Z"/>
+    <path d="M148 112 A32 32 0 1 1 212 112 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 120 H224 A96 96 0 0 1 32 120 Z"/>
-    <path d="M64 120 C62.83 115.33 62 110.44 62 106 C62 80.03 81.84 59.42 116 56 C117.17 61.25 118 66.28 118 71 C118 98.61 98.16 116.58 64 120 Z"/>
-    <path d="M148 120 A32 32 0 1 1 212 120"/>
+    <path d="M32 112 H224 A96 96 0 0 1 32 112 Z"/>
+    <path d="M64 112 C62.83 107.33 62 102.44 62 98 C62 72.03 81.84 51.42 116 48 C117.17 53.25 118 58.28 118 63 C118 90.61 98.16 108.58 64 112 Z"/>
+    <path d="M148 112 A32 32 0 1 1 212 112"/>
   </g>
 </svg>

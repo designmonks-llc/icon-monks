@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="send pound,pay,transfer,gbp,money,currency">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143 A59 59 0 0 0 132 188 Z"/>
+    <path d="M132 188 L48 188 A16 16 0 0 1 32 172 L32 86 A16 16 0 0 1 48 70 L208 70 A16 16 0 0 1 224 86 L224 143 A59 59 0 0 0 132 188 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M132 188 L45 188 A13 13 0 0 1 32 175 L32 83 A13 13 0 0 1 45 70 L211 70 A13 13 0 0 1 224 83 L224 143"/>
+    <path d="M132 188 L48 188 A16 16 0 0 1 32 172 L32 86 A16 16 0 0 1 48 70 L208 70 A16 16 0 0 1 224 86 L224 143"/>
     <path d="M169 214 L213 170"/>
     <path d="M185 170 L213 170 L213 197"/>
   </g>

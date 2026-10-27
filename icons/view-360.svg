@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="360 view,panorama,rotate,vr,360">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="127" cy="111" r="19"/>
-    <rect x="164" y="70" width="40" height="60" rx="20"/>
+    <circle cx="127" cy="97" r="19"/>
+    <rect x="164" y="56" width="40" height="60" rx="20"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M55 70 H90 L60 93 A19.8 19.8 0 1 1 54 122"/>
-    <circle cx="127" cy="111" r="19"/>
-    <path d="M109 104 L135 70"/>
-    <rect x="164" y="70" width="40" height="60" rx="20"/>
-    <path d="M41 159 A96 92 0 0 0 213 163"/>
-    <path d="M181 171 L213 163 L220 195"/>
+    <path d="M55 56 H90 L60 79 A20 20 0 1 1 54 108"/>
+    <circle cx="127" cy="97" r="19"/>
+    <path d="M109 90 L135 56"/>
+    <rect x="164" y="56" width="40" height="60" rx="20"/>
+    <path d="M41 145 A96 92 0 0 0 213 149"/>
+    <path d="M181 157 L213 149 L220 181"/>
   </g>
 </svg>

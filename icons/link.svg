@@ -1,6 +1,6 @@
 <svg data-fill="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="chain,url,hyperlink,connect">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M99 199 L147 151 A30 30 0 0 0 105 109 L57 157 A30 30 0 0 0 99 199 Z"/>
-    <path d="M151 147 L199 99 A30 30 0 0 0 157 57 L109 105 A30 30 0 0 0 151 147 Z"/>
+    <path d="M95 209 L150 154 A34.3 34.3 0 0 0 102 106 L47 161 A34.3 34.3 0 0 0 95 209 Z"/>
+    <path d="M154 150 L209 95 A34.3 34.3 0 0 0 161 47 L106 102 A34.3 34.3 0 0 0 154 150 Z"/>
   </g>
 </svg>

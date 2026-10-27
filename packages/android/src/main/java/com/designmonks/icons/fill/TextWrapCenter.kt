@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.TextWrapCenter: ImageVector
-    get() = cache ?: iconMonksVector("TextWrapCenterFill", "M26.34 42.34A8 8 0 0 0 32 56H224A8 8 0 0 0 227.06 40.61A8 8 0 0 0 224 40H32A8 8 0 0 0 26.34 42.34ZM72 96V160A20 20 0 0 0 92 180H164A20 20 0 0 0 184 160V96A20 20 0 0 0 164 76H92A20 20 0 0 0 72 96ZM26.34 202.34A8 8 0 0 0 32 216H224A8 8 0 0 0 227.06 200.61A8 8 0 0 0 224 200H32A8 8 0 0 0 26.34 202.34Z").also { cache = it }
+    get() = cache ?: iconMonksVector("TextWrapCenterFill", "M26.34 42.34A8 8 0 0 0 32 56H224A8 8 0 0 0 227.06 40.61A8 8 0 0 0 224 40H32A8 8 0 0 0 26.34 42.34ZM72 100V156A24 24 0 0 0 96 180H160A24 24 0 0 0 184 156V100A24 24 0 0 0 160 76H96A24 24 0 0 0 72 100ZM26.34 202.34A8 8 0 0 0 32 216H224A8 8 0 0 0 227.06 200.61A8 8 0 0 0 224 200H32A8 8 0 0 0 26.34 202.34Z").also { cache = it }

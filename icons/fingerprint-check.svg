@@ -1,9 +1,9 @@
 <svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Security" data-tags="verified,biometric ok,authenticated">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M38 173 A96 96 0 0 1 184 128"/>
-    <path d="M64 200 L64 140 A64 64 0 0 1 191 128"/>
-    <path d="M96 176 L96 140 A32 32 0 0 1 159 134"/>
-    <path d="M128 140 L128 216"/>
-    <path d="M158 186 L176 204 L210 168"/>
+    <path d="M38 155 A96 96 0 0 1 184 110"/>
+    <path d="M64 182 L64 122 A64 64 0 0 1 191 110"/>
+    <path d="M96 158 L96 122 A32 32 0 0 1 159 116"/>
+    <path d="M128 122 L128 198"/>
+    <path d="M158 168 L176 186 L210 150"/>
   </g>
 </svg>

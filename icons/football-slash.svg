@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Sports" data-tags="football,disabled,off,american football,nfl">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M52 204 A126.3 126.3 0 0 1 204 52 A126.3 126.3 0 0 1 52 204 Z"/>
+    <path d="M44 212 A140 140 0 0 1 212 44 A140 140 0 0 1 44 212 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M52 204 A126.3 126.3 0 0 1 204 52 A126.3 126.3 0 0 1 52 204 Z"/>
+    <path d="M44 212 A140 140 0 0 1 212 44 A140 140 0 0 1 44 212 Z"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M94 162 L162 94"/>
-    <path d="M94 139 L117 162"/>
-    <path d="M117 117 L139 139"/>
-    <path d="M139 94 L162 117"/>
+    <path d="M90 166 L166 90"/>
+    <path d="M90 140 L116 166"/>
+    <path d="M116 116 L140 140"/>
+    <path d="M140 90 L166 116"/>
   </g>
   <g data-role="slash" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 48 L208 208"/>

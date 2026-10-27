@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="makeup brush,powder,cosmetics,beauty">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="76" cy="172" r="44"/>
-    <path d="M148 54 L199 41 L181 111 L141 102 Z"/>
-    <path d="M141 102 L181 111 L170 141 L139 134 Z"/>
+    <circle cx="88" cy="172" r="44"/>
+    <path d="M160 54 L211 41 L193 111 L153 102 Z"/>
+    <path d="M153 102 L193 111 L182 141 L151 134 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="76" cy="172" r="44"/>
-    <path d="M148 54 L199 41 L181 111 L141 102 Z"/>
-    <path d="M141 102 L181 111 L170 141 L139 134 Z"/>
-    <path d="M154 138 L138 216"/>
+    <circle cx="88" cy="172" r="44"/>
+    <path d="M160 54 L211 41 L193 111 L153 102 Z"/>
+    <path d="M153 102 L193 111 L182 141 L151 134 Z"/>
+    <path d="M166 138 L150 216"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="76" cy="172" r="16"/>
+    <circle cx="88" cy="172" r="16"/>
   </g>
 </svg>

@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="shelves,shelf,bookcase,storage">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="77" y="77" width="29" height="51" rx="4"/>
-    <rect x="106" y="69" width="29" height="59" rx="4"/>
+    <rect x="77" y="77" width="29" height="51" rx="8"/>
+    <rect x="106" y="69" width="29" height="59" rx="8"/>
     <path d="M157 128 L171 79 L200 87 L186 136 Z"/>
-    <rect x="121" y="172" width="58" height="44" rx="4"/>
+    <rect x="121" y="172" width="58" height="44" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="47" y="40" width="162" height="176" rx="11"/>
+    <rect x="47" y="40" width="162" height="176" rx="16"/>
     <path d="M47 128 L209 128"/>
-    <rect x="77" y="77" width="29" height="51" rx="4"/>
-    <rect x="106" y="69" width="29" height="59" rx="4"/>
+    <rect x="77" y="77" width="29" height="51" rx="8"/>
+    <rect x="106" y="69" width="29" height="59" rx="8"/>
     <path d="M157 128 L171 79 L200 87 L186 136 Z"/>
-    <rect x="121" y="172" width="58" height="44" rx="4"/>
+    <rect x="121" y="172" width="58" height="44" rx="8"/>
   </g>
 </svg>

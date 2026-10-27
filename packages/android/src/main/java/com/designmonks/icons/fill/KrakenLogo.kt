@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.KrakenLogo: ImageVector
-    get() = cache ?: iconMonksVector("KrakenLogoFill", "M44.94 203.39A8 8 0 0 0 56 196H93V140A8 8 0 0 1 108.39 136.94A8 8 0 0 1 109 140V196H147V140A8 8 0 0 1 162.39 136.94A8 8 0 0 1 163 140V196H200A8 8 0 0 0 215.39 199.06A8 8 0 0 0 216 196V140A88 88 0 0 0 65.77 77.77A88 88 0 0 0 40 140V196A8 8 0 0 0 44.94 203.39Z").also { cache = it }
+    get() = cache ?: iconMonksVector("KrakenLogoFill", "M36.94 210.39A8 8 0 0 0 48 203H90V141A8 8 0 0 1 105.39 137.94A8 8 0 0 1 106 141V203H150V141A8 8 0 0 1 165.39 137.94A8 8 0 0 1 166 141V203H208A8 8 0 0 0 223.39 206.06A8 8 0 0 0 224 203V141A96 96 0 0 0 60.12 73.12A96 96 0 0 0 32 141V203A8 8 0 0 0 36.94 210.39Z").also { cache = it }

@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.BracketsContainStart: ImageVector
-    get() = cache ?: iconMonksVector("BracketsContainStartFill", "M89.66 45.66A8 8 0 0 0 84 32H48A8 8 0 0 0 40 40V216A8 8 0 0 0 48 224H84A8 8 0 0 0 87.06 208.61A8 8 0 0 0 84 208H56V48H84A8 8 0 0 0 89.66 45.66ZM92 104V152A20 20 0 0 0 112 172H204A20 20 0 0 0 224 152V104A20 20 0 0 0 204 84H112A20 20 0 0 0 92 104Z").also { cache = it }
+    get() = cache ?: iconMonksVector("BracketsContainStartFill", "M89.66 45.66A8 8 0 0 0 84 32H48A8 8 0 0 0 40 40V216A8 8 0 0 0 48 224H84A8 8 0 0 0 87.06 208.61A8 8 0 0 0 84 208H56V48H84A8 8 0 0 0 89.66 45.66ZM92 108V148A24 24 0 0 0 116 172H200A24 24 0 0 0 224 148V108A24 24 0 0 0 200 84H116A24 24 0 0 0 92 108Z").also { cache = it }

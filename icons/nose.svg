@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Health" data-tags="nose,smell,nasal,face">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M80 32 C88 88 120 124 172 156 C183.7 163.52 189 174.72 189 185 C189 199.31 178.62 212 160 212 H136"/>
-    <path d="M136 212 C118.57 212 109 201.05 109 189 C109 181.69 112.45 174.04 120 168"/>
+    <path d="M74 38 C82 94 114 130 166 162 C177.7 169.52 183 180.72 183 191 C183 205.31 172.62 218 154 218 H130"/>
+    <path d="M130 218 C112.57 218 103 207.05 103 195 C103 187.69 106.45 180.04 114 174"/>
   </g>
 </svg>

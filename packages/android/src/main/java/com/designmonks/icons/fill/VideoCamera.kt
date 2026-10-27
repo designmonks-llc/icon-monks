@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.VideoCamera: ImageVector
-    get() = cache ?: iconMonksVector("VideoCameraFill", "M24 86V170A22 22 0 0 0 46 192H154A22 22 0 0 0 176 170V156.94L220.42 179.16A8 8 0 0 0 232 172V84A8 8 0 0 0 220.42 76.84L176 99.06V86A22 22 0 0 0 154 64H46A22 22 0 0 0 24 86Z").also { cache = it }
+    get() = cache ?: iconMonksVector("VideoCameraFill", "M24 88V168A24 24 0 0 0 48 192H152A24 24 0 0 0 176 168V156.94L220.42 179.16A8 8 0 0 0 232 172V84A8 8 0 0 0 220.42 76.84L176 99.06V88A24 24 0 0 0 152 64H48A24 24 0 0 0 24 88Z").also { cache = it }

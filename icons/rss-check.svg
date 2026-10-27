@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="rss,connected,subscribed,feed,check,news">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M48 120 A88 88 0 0 1 136 208"/>
-    <path d="M48 48 A160 160 0 0 1 208 208"/>
+    <path d="M46 120 A90 90 0 0 1 136 210"/>
+    <path d="M46 46 A164 164 0 0 1 210 210"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="66" cy="190" r="22"/>
+    <circle cx="64" cy="192" r="22"/>
   </g>
   <g data-role="badge" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M162 190 L180 208 L214 172"/>

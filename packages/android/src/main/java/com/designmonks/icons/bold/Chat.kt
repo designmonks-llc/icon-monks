@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Bold.Chat: ImageVector
-    get() = cache ?: iconMonksVector("ChatBold", "M228 184V72A28 28 0 0 0 200 44H56A28 28 0 0 0 28 72V224A12 12 0 0 0 46.17 234.29L83.32 212H200A28 28 0 0 0 228 184ZM52 72Q52 68 56 68H200Q204 68 204 72V184Q204 188 200 188H80A12 12 0 0 0 73.83 189.71L52 202.81V72Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ChatBold", "M228 172V60A28 28 0 0 0 200 32H56A28 28 0 0 0 28 60V212A12 12 0 0 0 46.17 222.29L83.32 200H200A28 28 0 0 0 228 172ZM52 60Q52 56 56 56H200Q204 56 204 60V172Q204 176 200 176H80A12 12 0 0 0 73.83 177.71L52 190.81V60Z").also { cache = it }

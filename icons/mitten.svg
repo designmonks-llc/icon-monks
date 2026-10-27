@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="gloves,mittens,winter,clothing">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M84 176 V156 C60 156 40 140 40 116 C40 102.75 48.35 95 58 95 C60 95 61.94 95.31 64 96 C74 100 80 108 84 116 V96 A56 56 0 0 1 196 96 V176 Z"/>
-    <rect x="76" y="176" width="128" height="48" rx="14"/>
+    <path d="M90 176 V156 C66 156 46 140 46 116 C46 102.75 54.35 95 64 95 C66 95 67.94 95.31 70 96 C80 100 86 108 90 116 V96 A56 56 0 0 1 202 96 V176 Z"/>
+    <rect x="82" y="176" width="128" height="48" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M84 176 V156 C60 156 40 140 40 116 C40 102.75 48.35 95 58 95 C60 95 61.94 95.31 64 96 C74 100 80 108 84 116 V96 A56 56 0 0 1 196 96 V176 Z"/>
-    <rect x="76" y="176" width="128" height="48" rx="14"/>
+    <path d="M90 176 V156 C66 156 46 140 46 116 C46 102.75 54.35 95 64 95 C66 95 67.94 95.31 70 96 C80 100 86 108 90 116 V96 A56 56 0 0 1 202 96 V176 Z"/>
+    <rect x="82" y="176" width="128" height="48" rx="8"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M100 176 L180 176"/>
+    <path d="M106 176 L186 176"/>
   </g>
 </svg>

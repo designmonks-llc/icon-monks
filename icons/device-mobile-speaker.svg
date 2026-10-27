@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="speakerphone,phone,audio,speaker,phone sound">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="32" width="96" height="192" rx="20"/>
+    <rect x="32" y="32" width="96" height="192" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="32" width="96" height="192" rx="20"/>
+    <rect x="32" y="32" width="96" height="192" rx="16"/>
     <path d="M173 90 A72 72 0 0 1 173 166"/>
     <path d="M202 68 A108 108 0 0 1 202 188"/>
   </g>

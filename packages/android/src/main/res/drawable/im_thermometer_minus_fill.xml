@@ -3,5 +3,5 @@
   android:width="24dp" android:height="24dp"
   android:viewportWidth="256" android:viewportHeight="256"
   android:tint="?android:attr/colorControlNormal" android:autoMirrored="false">
-  <path android:fillColor="@android:color/white" android:pathData="M84 225.94A52 52 0 0 0 134.14 160.17A51.53 51.53 0 0 0 120 136.4V68A36 36 0 0 0 58.54 42.54A36 36 0 0 0 48 68V136.4A51.9 51.9 0 0 0 35.06 191.52A52 52 0 0 0 84 225.94ZM148.61 76.94A8 8 0 0 0 156 88H204A8 8 0 0 0 207.06 72.61A8 8 0 0 0 204 72H156A8 8 0 0 0 148.61 76.94ZM80.94 179.39A8 8 0 0 1 76 172V104A8 8 0 0 1 91.39 100.94A8 8 0 0 1 92 104V172A8 8 0 0 1 80.94 179.39Z"/>
+  <path android:fillColor="@android:color/white" android:pathData="M76 225.94A52 52 0 0 0 126.14 160.17A51.53 51.53 0 0 0 112 136.4V68A36 36 0 0 0 50.54 42.54A36 36 0 0 0 40 68V136.4A51.9 51.9 0 0 0 27.06 191.52A52 52 0 0 0 76 225.94ZM140.61 76.94A8 8 0 0 0 148 88H196A8 8 0 0 0 199.06 72.61A8 8 0 0 0 196 72H148A8 8 0 0 0 140.61 76.94ZM72.94 179.39A8 8 0 0 1 68 172V104A8 8 0 0 1 83.39 100.94A8 8 0 0 1 84 104V172A8 8 0 0 1 72.94 179.39Z"/>
 </vector>

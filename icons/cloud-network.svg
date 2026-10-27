@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="cloud network,cloud,storage,online,network">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M90 130 L159 130 A31.68 31.68 0 0 0 167 68 A43.2 43.2 0 0 0 82 74 A28.8 28.8 0 0 0 90 130 Z"/>
+    <path d="M90 138 L159 138 A31.68 31.68 0 0 0 167 76 A43 43 0 0 0 82 82 A29 29 0 0 0 90 138 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M90 130 L159 130 A31.68 31.68 0 0 0 167 68 A43.2 43.2 0 0 0 82 74 A28.8 28.8 0 0 0 90 130 Z"/>
-    <path d="M128 130 L128 200"/>
-    <path d="M48 200 L208 200"/>
+    <path d="M90 138 L159 138 A31.68 31.68 0 0 0 167 76 A43 43 0 0 0 82 82 A29 29 0 0 0 90 138 Z"/>
+    <path d="M128 138 L128 208"/>
+    <path d="M48 208 L208 208"/>
   </g>
   <g data-role="dot" fill="currentColor">
-    <circle cx="48" cy="200" r="16"/>
-    <circle cx="128" cy="200" r="16"/>
-    <circle cx="208" cy="200" r="16"/>
+    <circle cx="48" cy="208" r="16"/>
+    <circle cx="128" cy="208" r="16"/>
+    <circle cx="208" cy="208" r="16"/>
   </g>
 </svg>

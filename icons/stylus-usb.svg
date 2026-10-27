@@ -1,15 +1,15 @@
 <svg data-badge="custom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Devices" data-tags="stylus,usb,pen,charging,wired,cable">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
+    <path d="M40 216 L59 170 L179 50 A19 19 0 0 1 206 77 L86 197 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 216 L58 172 L173 58 A18 18 0 0 1 198 83 L84 198 Z"/>
-    <path d="M188 220 L188 156"/>
-    <path d="M176 168 L188 156 L200 168"/>
-    <path d="M188 208 L164 196 L164 184"/>
-    <path d="M188 196 L212 184 L212 176"/>
+    <path d="M40 216 L59 170 L179 50 A19 19 0 0 1 206 77 L86 197 Z"/>
+    <path d="M195 220 L195 153"/>
+    <path d="M183 166 L195 153 L208 166"/>
+    <path d="M195 207 L170 195 L170 182"/>
+    <path d="M195 195 L220 182 L220 174"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M133 97 L159 123"/>
+    <path d="M138 91 L165 118"/>
   </g>
 </svg>

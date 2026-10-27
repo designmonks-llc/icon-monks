@@ -5,7 +5,7 @@
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M32 136 H224"/>
     <path d="M48 136 C48 184 80 216 128 216 C176 216 208 184 208 136"/>
-    <path d="M88 136 V60 A12 12 0 0 1 100 48 H140 A20 20 0 0 1 160 68 V84"/>
+    <path d="M88 136 V64 A16 16 0 0 1 104 48 H144 A16 16 0 0 1 160 64 V84"/>
     <path d="M56 92 H88"/>
   </g>
 </svg>

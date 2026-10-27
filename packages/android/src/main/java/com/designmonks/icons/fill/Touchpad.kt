@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.Touchpad: ImageVector
-    get() = cache ?: iconMonksVector("TouchpadFill", "M32 165A8 8 0 0 1 40 157H216A8 8 0 0 1 224 165V62A23 23 0 0 0 201 39H55A23 23 0 0 0 32 62V165ZM128 217H201A23 23 0 0 0 224 194V165A8 8 0 0 1 216 173H136V209A8 8 0 0 1 128 217ZM128 217A8 8 0 0 1 120 209V173H40A8 8 0 0 1 32 165V194A23 23 0 0 0 55 217H128Z").also { cache = it }
+    get() = cache ?: iconMonksVector("TouchpadFill", "M32 165A8 8 0 0 1 40 157H216A8 8 0 0 1 224 165V63A24 24 0 0 0 200 39H56A24 24 0 0 0 32 63V165ZM128 217H200A24 24 0 0 0 224 193V165A8 8 0 0 1 216 173H136V209A8 8 0 0 1 128 217ZM128 217A8 8 0 0 1 120 209V173H40A8 8 0 0 1 32 165V193A24 24 0 0 0 56 217H128Z").also { cache = it }

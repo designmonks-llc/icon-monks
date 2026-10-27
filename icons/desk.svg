@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Home" data-tags="desk,table,workspace,office">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M136 72 V200 A8 8 0 0 0 144 208 H200 A8 8 0 0 0 208 200 V72 Z"/>
+    <path d="M136 60 V180 A16 16 0 0 0 152 196 H192 A16 16 0 0 0 208 180 V60 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 72 L224 72"/>
-    <path d="M48 72 L48 208"/>
-    <path d="M136 72 V200 A8 8 0 0 0 144 208 H200 A8 8 0 0 0 208 200 V72"/>
+    <path d="M32 60 L224 60"/>
+    <path d="M48 60 L48 196"/>
+    <path d="M136 60 V180 A16 16 0 0 0 152 196 H192 A16 16 0 0 0 208 180 V60"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M136 140 L208 140"/>
-    <path d="M160 106 L184 106"/>
-    <path d="M160 174 L184 174"/>
+    <path d="M136 128 L208 128"/>
+    <path d="M160 94 L184 94"/>
+    <path d="M160 162 L184 162"/>
   </g>
 </svg>

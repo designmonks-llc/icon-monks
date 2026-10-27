@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Commerce" data-tags="contactless off,nfc off,tap to pay,disabled">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="62" width="192" height="132" rx="13"/>
+    <rect x="32" y="62" width="192" height="132" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="62" width="192" height="132" rx="13"/>
+    <rect x="32" y="62" width="192" height="132" rx="16"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
     <path d="M122 104 A33 33 0 0 1 122 152"/>

@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.Whistle: ImageVector
-    get() = cache ?: iconMonksVector("WhistleFill", "M35.73 167.82A72 72 0 0 0 173.37 162.05A71.02 71.02 0 0 0 173.93 128H208A16 16 0 0 0 224 112V88A16 16 0 0 0 208 72H104A72 72 0 0 0 35.73 167.82ZM126.63 166.63A32 32 0 1 1 136 144A32 32 0 0 1 126.63 166.63ZM115.31 132.69A16 16 0 1 0 120 144A16 16 0 0 0 115.31 132.69Z").also { cache = it }
+    get() = cache ?: iconMonksVector("WhistleFill", "M35.73 151.82A72 72 0 0 0 173.37 146.05A71.02 71.02 0 0 0 173.93 112H208A16 16 0 0 0 224 96V72A16 16 0 0 0 208 56H104A72 72 0 0 0 35.73 151.82ZM126.63 150.63A32 32 0 1 1 136 128A32 32 0 0 1 126.63 150.63ZM115.31 116.69A16 16 0 1 0 120 128A16 16 0 0 0 115.31 116.69Z").also { cache = it }

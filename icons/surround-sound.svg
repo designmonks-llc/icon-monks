@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="surround,speakers,audio,5.1">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="100" y="72" width="56" height="112" rx="14"/>
+    <rect x="100" y="72" width="56" height="112" rx="8"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="100" y="72" width="56" height="112" rx="14"/>
+    <rect x="100" y="72" width="56" height="112" rx="8"/>
     <path d="M182 94 A64 64 0 0 1 182 162"/>
     <path d="M74 162 A64 64 0 0 1 74 94"/>
     <path d="M206 72 A96 96 0 0 1 206 184"/>

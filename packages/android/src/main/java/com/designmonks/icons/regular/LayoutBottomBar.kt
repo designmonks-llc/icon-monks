@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Regular.LayoutBottomBar: ImageVector
-    get() = cache ?: iconMonksVector("LayoutBottomBarRegular", "M24 62V194A22 22 0 0 0 46 216H210A22 22 0 0 0 232 194V62A22 22 0 0 0 210 40H46A22 22 0 0 0 24 62ZM40 62A6 6 0 0 1 46 56H210A6 6 0 0 1 216 62V152H40V62ZM216 194A6 6 0 0 1 210 200H46A6 6 0 0 1 40 194V168H216V194Z").also { cache = it }
+    get() = cache ?: iconMonksVector("LayoutBottomBarRegular", "M24 64V192A24 24 0 0 0 48 216H208A24 24 0 0 0 232 192V64A24 24 0 0 0 208 40H48A24 24 0 0 0 24 64ZM40 64A8 8 0 0 1 48 56H208A8 8 0 0 1 216 64V152H40V64ZM216 192A8 8 0 0 1 208 200H48A8 8 0 0 1 40 192V168H216V192Z").also { cache = it }

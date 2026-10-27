@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.SquareNested: ImageVector
-    get() = cache ?: iconMonksVector("SquareNestedFill", "M32 201A23 23 0 0 0 55 224H201A23 23 0 0 0 224 201V55A23 23 0 0 0 201 32H55A23 23 0 0 0 32 55V201ZM56 184V72A16 16 0 0 1 72 56H184A16 16 0 0 1 200 72V184A16 16 0 0 1 184 200H72A16 16 0 0 1 56 184ZM72 184H184V72H72V184Z").also { cache = it }
+    get() = cache ?: iconMonksVector("SquareNestedFill", "M32 200A24 24 0 0 0 56 224H200A24 24 0 0 0 224 200V56A24 24 0 0 0 200 32H56A24 24 0 0 0 32 56V200ZM56 176V80A24 24 0 0 1 80 56H176A24 24 0 0 1 200 80V176A24 24 0 0 1 176 200H80A24 24 0 0 1 56 176ZM184 80A8 8 0 0 0 176 72H80A8 8 0 0 0 72 80V176A8 8 0 0 0 80 184H176A8 8 0 0 0 184 176V80Z").also { cache = it }

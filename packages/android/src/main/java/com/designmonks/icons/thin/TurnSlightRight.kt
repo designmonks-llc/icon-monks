@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Thin.TurnSlightRight: ImageVector
-    get() = cache ?: iconMonksVector("TurnSlightRightThin", "M89.17 218.83A4 4 0 0 0 96 216V157.66L176 77.66V124A4 4 0 0 0 183.7 125.53A4 4 0 0 0 184 124V68A4 4 0 0 0 180 64H124A4 4 0 0 0 122.47 71.7A4 4 0 0 0 124 72H170.34L89.17 153.17A4 4 0 0 0 88 156V216A4 4 0 0 0 89.17 218.83Z").also { cache = it }
+    get() = cache ?: iconMonksVector("TurnSlightRightThin", "M73.17 218.83A4 4 0 0 0 80 216V146.65L176 49.72V107A4 4 0 0 0 183.7 108.53A4 4 0 0 0 184 107V40V39.98A4 4 0 0 0 182.83 37.17L182.81 37.16A4 4 0 0 0 181.53 36.3H181.51A4 4 0 0 0 180 36H114A4 4 0 0 0 112.47 43.7A4 4 0 0 0 114 44H170.41L73.16 142.19A4 4 0 0 0 72 145V216A4 4 0 0 0 73.17 218.83Z").also { cache = it }

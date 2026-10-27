@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Development" data-tags="hierarchy topology,network,tree,nodes">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="128" cy="60" r="24"/>
-    <circle cx="52" cy="188" r="20"/>
-    <circle cx="128" cy="188" r="20"/>
-    <circle cx="204" cy="188" r="20"/>
+    <circle cx="128" cy="66" r="24"/>
+    <circle cx="52" cy="194" r="20"/>
+    <circle cx="128" cy="194" r="20"/>
+    <circle cx="204" cy="194" r="20"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="128" cy="60" r="24"/>
-    <circle cx="52" cy="188" r="20"/>
-    <circle cx="128" cy="188" r="20"/>
-    <circle cx="204" cy="188" r="20"/>
-    <path d="M116 81 L62 171"/>
-    <path d="M128 84 L128 168"/>
-    <path d="M140 81 L194 171"/>
+    <circle cx="128" cy="66" r="24"/>
+    <circle cx="52" cy="194" r="20"/>
+    <circle cx="128" cy="194" r="20"/>
+    <circle cx="204" cy="194" r="20"/>
+    <path d="M116 87 L62 177"/>
+    <path d="M128 90 L128 174"/>
+    <path d="M140 87 L194 177"/>
   </g>
 </svg>

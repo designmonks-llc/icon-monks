@@ -6,7 +6,7 @@
     <rect x="40" y="48" width="176" height="168" rx="28"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="76" y="84" width="104" height="64" rx="10"/>
+    <rect x="76" y="84" width="104" height="64" rx="16"/>
     <path d="M140 184 L168 184"/>
   </g>
   <g data-role="dotcut" fill="currentColor">

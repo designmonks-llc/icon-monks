@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Education" data-tags="chalkboard,disabled,off,education">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <rect x="32" y="40" width="192" height="128" rx="14"/>
+    <rect x="32" y="40" width="192" height="128" rx="16"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="32" y="40" width="192" height="128" rx="14"/>
+    <rect x="32" y="40" width="192" height="128" rx="16"/>
     <path d="M88 168 L64 224"/>
     <path d="M168 168 L192 224"/>
   </g>

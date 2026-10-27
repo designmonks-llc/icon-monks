@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Nature" data-tags="sprout,seedling,grow,nature,eco">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M128 168 C128 128 104 104 56 104 C56 144 80 168 128 168 Z"/>
-    <path d="M128 128 C128 80 152 56 208 56 C208 104 184 128 128 128 Z"/>
+    <path d="M124 163 C123.6 119.2 97.2 92.8 44 93 C44.4 136.8 70.8 163.2 124 163 Z"/>
+    <path d="M124 119 C123.6 66.4 150 40 212 40 C211.6 92.8 185.2 119.2 124 119 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 216 L128 128"/>
-    <path d="M128 168 C128 128 104 104 56 104 C56 144 80 168 128 168 Z"/>
-    <path d="M128 128 C128 80 152 56 208 56 C208 104 184 128 128 128 Z"/>
-    <path d="M72 216 L184 216"/>
+    <path d="M124 216 L124 119"/>
+    <path d="M124 163 C123.6 119.2 97.2 92.8 44 93 C44.4 136.8 70.8 163.2 124 163 Z"/>
+    <path d="M124 119 C123.6 66.4 150 40 212 40 C211.6 92.8 185.2 119.2 124 119 Z"/>
+    <path d="M62 216 L185 216"/>
   </g>
 </svg>

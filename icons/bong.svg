@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="bong,smoking,pipe">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M108 40 V120 A52 52 0 1 0 148 120 V40 Z"/>
+    <path d="M122 40 V120 A52 52 0 1 0 162 120 V40 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M108 40 V120 A52 52 0 1 0 148 120 V40"/>
-    <path d="M100 40 L156 40"/>
-    <path d="M112 180 L72 140"/>
-    <path d="M50 123 Q48.01 119.67 52 119 L84 113 Q87.85 112.15 87 116 L85 128 Q84 131.83 80 133 L64 139 Q60.14 140.34 58 137 Z"/>
+    <path d="M122 40 V120 A52 52 0 1 0 162 120 V40"/>
+    <path d="M114 40 L170 40"/>
+    <path d="M126 180 L86 140"/>
+    <path d="M64 123 Q62.01 119.67 66 119 L98 113 Q101.85 112.15 101 116 L99 128 Q98 131.83 94 133 L78 139 Q74.14 140.34 72 137 Z"/>
   </g>
 </svg>

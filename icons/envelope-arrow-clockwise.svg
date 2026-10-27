@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Communication" data-tags="mail,resend,refresh,envelope">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M124 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 137 A62 62 0 0 0 124 200 Z"/>
+    <path d="M124 200 L48 200 A16 16 0 0 1 32 184 L32 72 A16 16 0 0 1 48 56 L208 56 A16 16 0 0 1 224 72 L224 137 A62 62 0 0 0 124 200 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M124 200 L46 200 A14 14 0 0 1 32 186 L32 70 A14 14 0 0 1 46 56 L210 56 A14 14 0 0 1 224 70 L224 137"/>
+    <path d="M124 200 L48 200 A16 16 0 0 1 32 184 L32 72 A16 16 0 0 1 48 56 L208 56 A16 16 0 0 1 224 72 L224 137"/>
     <path d="M210 184 A26 26 0 1 1 202 166"/>
     <path d="M182 166 L202 166 L202 146"/>
   </g>

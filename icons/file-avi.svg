@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Files" data-tags="avi,video,movie,file type,video file">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M56 128 V32 H152 L200 80 V128 Z"/>
+    <path d="M64 128 V32 H160 L208 80 V128 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M56 128 V32 H152 L200 80 V128"/>
-    <path d="M41 224 L63 160 L85 224"/>
-    <path d="M49 201 L77 201"/>
-    <path d="M111 160 L133 224 L155 160"/>
-    <path d="M196 160 L196 224"/>
+    <path d="M64 128 V32 H160 L208 80 V128"/>
+    <path d="M49 224 L71 160 L93 224"/>
+    <path d="M57 201 L85 201"/>
+    <path d="M119 160 L141 224 L163 160"/>
+    <path d="M204 160 L204 224"/>
   </g>
   <g data-role="detail" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M152 32 V80 H200"/>
+    <path d="M160 32 V80 H208"/>
   </g>
 </svg>

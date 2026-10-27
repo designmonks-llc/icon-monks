@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Objects" data-tags="plumbing wrench,tool,repair,plumbing,plumber">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M49 178 L172 55 L219 103 L199 123 L172 96 L149 119 L176 146 L158 164 L133 139 L72 200 Z"/>
+    <path d="M41 162 L164 39 L211 87 L191 107 L164 80 L141 103 L168 130 L150 148 L125 123 L64 184 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M49 178 L172 55 L219 103 L199 123 L172 96 L149 119 L176 146 L158 164 L133 139 L72 200 Z"/>
+    <path d="M41 162 L164 39 L211 87 L191 107 L164 80 L141 103 L168 130 L150 148 L125 123 L64 184 Z"/>
   </g>
 </svg>

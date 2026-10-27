@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Arrows" data-tags="arrow fork,arrow,direction,fork,arrows">
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M128 216 L128 144"/>
-    <path d="M128 144 L52 68"/>
-    <path d="M128 144 L204 68"/>
-    <path d="M52 116 L52 68 L100 68"/>
-    <path d="M156 68 L204 68 L204 116"/>
+    <path d="M128 202 L128 130"/>
+    <path d="M128 130 L52 54"/>
+    <path d="M128 130 L204 54"/>
+    <path d="M52 102 L52 54 L100 54"/>
+    <path d="M156 54 L204 54 L204 102"/>
   </g>
 </svg>

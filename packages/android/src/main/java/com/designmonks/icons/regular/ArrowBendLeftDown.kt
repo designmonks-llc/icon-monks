@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Regular.ArrowBendLeftDown: ImageVector
-    get() = cache ?: iconMonksVector("ArrowBendLeftDownRegular", "M221.66 61.66A8 8 0 0 0 216 48H168A88 88 0 0 0 80 136V196.69L45.66 162.34A8 8 0 0 0 32.61 171.06A8 8 0 0 0 34.34 173.66L82.34 221.66A8 8 0 0 0 93.66 221.66L141.66 173.66A8 8 0 0 0 132.94 160.61A8 8 0 0 0 130.34 162.34L96 196.69V136Q96 106.18 117.09 85.09Q138.18 64 168 64H216A8 8 0 0 0 221.66 61.66Z").also { cache = it }
+    get() = cache ?: iconMonksVector("ArrowBendLeftDownRegular", "M221.66 53.66A8 8 0 0 0 216 40H168A88 88 0 0 0 80 128V188.69L45.66 154.34A8 8 0 0 0 32.61 163.06A8 8 0 0 0 34.34 165.66L82.34 213.66A8 8 0 0 0 93.66 213.66L141.66 165.66A8 8 0 0 0 132.94 152.61A8 8 0 0 0 130.34 154.34L96 188.69V128Q96 98.18 117.09 77.09Q138.18 56 168 56H216A8 8 0 0 0 221.66 53.66Z").also { cache = it }

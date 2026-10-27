@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Fill.SquareSplitVertical: ImageVector
-    get() = cache ?: iconMonksVector("SquareSplitVerticalFill", "M32 128A8 8 0 0 1 40 120H216A8 8 0 0 1 224 128V55A23 23 0 0 0 201 32H55A23 23 0 0 0 32 55V128ZM32 128V201A23 23 0 0 0 55 224H201A23 23 0 0 0 224 201V128A8 8 0 0 1 216 136H40A8 8 0 0 1 32 128Z").also { cache = it }
+    get() = cache ?: iconMonksVector("SquareSplitVerticalFill", "M32 128A8 8 0 0 1 40 120H216A8 8 0 0 1 224 128V56A24 24 0 0 0 200 32H56A24 24 0 0 0 32 56V128ZM32 128V200A24 24 0 0 0 56 224H200A24 24 0 0 0 224 200V128A8 8 0 0 1 216 136H40A8 8 0 0 1 32 128Z").also { cache = it }

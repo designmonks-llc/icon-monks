@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Interface" data-tags="tabs,browser tabs,tab group,windows,multiple">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <path d="M40 60 A13 13 0 0 1 53 47 H86 A13 13 0 0 1 99 60 V91 H203 A13 13 0 0 1 216 104 V196 A13 13 0 0 1 203 209 H53 A13 13 0 0 1 40 196 Z"/>
+    <path d="M40 63 A16 16 0 0 1 56 47 H83 A16 16 0 0 1 99 63 V91 H200 A16 16 0 0 1 216 107 V193 A16 16 0 0 1 200 209 H56 A16 16 0 0 1 40 193 Z"/>
     <path d="M99 60 A13 13 0 0 1 112 47 H144 A13 13 0 0 1 157 60 V91 Z"/>
     <path d="M157 60 A13 13 0 0 1 170 47 H203 A13 13 0 0 1 216 60 V91 Z"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M40 60 A13 13 0 0 1 53 47 H86 A13 13 0 0 1 99 60 V91 H203 A13 13 0 0 1 216 104 V196 A13 13 0 0 1 203 209 H53 A13 13 0 0 1 40 196 Z"/>
+    <path d="M40 63 A16 16 0 0 1 56 47 H83 A16 16 0 0 1 99 63 V91 H200 A16 16 0 0 1 216 107 V193 A16 16 0 0 1 200 209 H56 A16 16 0 0 1 40 193 Z"/>
     <path d="M99 60 A13 13 0 0 1 112 47 H144 A13 13 0 0 1 157 60 V91"/>
     <path d="M157 60 A13 13 0 0 1 170 47 H203 A13 13 0 0 1 216 60 V91"/>
   </g>

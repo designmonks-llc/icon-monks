@@ -8,4 +8,4 @@ import com.designmonks.icons.iconMonksVector
 private var cache: ImageVector? = null
 
 val IconMonks.Regular.KeyReturn: ImageVector
-    get() = cache ?: iconMonksVector("KeyReturnRegular", "M213.66 50.34A8 8 0 0 0 200 56V136A8 8 0 0 1 192 144H75.31L95.66 123.66A8 8 0 0 0 86.94 110.61A8 8 0 0 0 84.34 112.34L50.35 146.34H50.34A8 8 0 0 0 50.34 157.66L84.34 191.66A8 8 0 0 0 97.39 182.94A8 8 0 0 0 95.66 180.34L75.31 160H192A24 24 0 0 0 216 136V56A8 8 0 0 0 213.66 50.34Z").also { cache = it }
+    get() = cache ?: iconMonksVector("KeyReturnRegular", "M213.66 58.34A8 8 0 0 0 200 64V144A8 8 0 0 1 192 152H75.31L95.66 131.66A8 8 0 0 0 86.94 118.61A8 8 0 0 0 84.34 120.34L50.35 154.34H50.34A8 8 0 0 0 50.34 165.66L84.34 199.66A8 8 0 0 0 97.39 190.94A8 8 0 0 0 95.66 188.34L75.31 168H192A24 24 0 0 0 216 144V64A8 8 0 0 0 213.66 58.34Z").also { cache = it }

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" data-category="Media" data-tags="music note,dollar,price,money,music">
   <g data-role="area" fill="currentColor" opacity="0.2">
-    <circle cx="88" cy="184" r="32"/>
+    <circle cx="92" cy="184" r="32"/>
   </g>
   <g data-role="line" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="88" cy="184" r="32"/>
-    <path d="M120 184 L120 40"/>
-    <path d="M120 40 C149.19 47.3 185 61.17 185 100 C185 103.74 184.7 107.78 184 112"/>
-    <path d="M204 164 H184 A12 12 0 0 0 184 188 H192 A12 12 0 0 1 192 212 H172"/>
-    <path d="M188 152 L188 164"/>
-    <path d="M188 212 L188 224"/>
+    <circle cx="92" cy="184" r="32"/>
+    <path d="M124 184 L124 40"/>
+    <path d="M124 40 C153.19 47.3 189 61.17 189 100 C189 103.74 188.7 107.78 188 112"/>
+    <path d="M208 164 H188 A12 12 0 0 0 188 188 H196 A12 12 0 0 1 196 212 H176"/>
+    <path d="M192 152 L192 164"/>
+    <path d="M192 212 L192 224"/>
   </g>
 </svg>
