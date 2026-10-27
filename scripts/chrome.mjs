@@ -1,6 +1,7 @@
 // The site header shared by every page (icon browser, static pages, showcase), drawn with Icon Monks icons.
 // It carries its own width, colours and type, so it looks and sits the same on every page whatever that page's tokens are.
 // Each page inlines HEADER_CSS, HEADER_JS and HEADER_THEME (in <head>, so a saved theme applies before first paint).
+// HEADER_JS also carries the analytics loader, so every page is measured.
 
 const pick = (byName, name, weight) => {
   const d = byName[name].paths[weight];
@@ -64,6 +65,36 @@ export const HEADER_CSS = `
   .site-gh { width: 36px; justify-content: center; padding: 0; }
 }`;
 
+// Firebase web app config (Firebase console > Project settings > Your apps). These keys are public by design.
+// Analytics stays off while apiKey is empty.
+export const FIREBASE_CONFIG = {
+  apiKey: '',
+  authDomain: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
+  measurementId: '',
+};
+const FIREBASE_VERSION = '11.0.2';
+
+// Google Analytics through Firebase, loaded as a module after the page so it never blocks rendering.
+// Pages log events with imTrack(name, params); calls made before the SDK is ready are queued.
+const ANALYTICS = FIREBASE_CONFIG.apiKey ? `
+<script>window.imTrack = (n, p) => { (window.imTrackQ = window.imTrackQ || []).push([n, p]); };</script>
+<script type="module">
+try {
+  const sdk = 'https://www.gstatic.com/firebasejs/${FIREBASE_VERSION}/';
+  const { initializeApp } = await import(sdk + 'firebase-app.js');
+  const { getAnalytics, logEvent, isSupported } = await import(sdk + 'firebase-analytics.js');
+  if (await isSupported()) {
+    const a = getAnalytics(initializeApp(${JSON.stringify(FIREBASE_CONFIG)}));
+    window.imTrack = (n, p) => { try { logEvent(a, n, p); } catch (e) {} };
+    (window.imTrackQ || []).forEach(([n, p]) => window.imTrack(n, p));
+  }
+} catch (e) {}
+</script>` : '';
+
 // Theme button: System follows the OS; Light and Dark override it and are remembered. Clicks cycle the three.
 export const HEADER_JS = `<script>(() => {
   const b = document.getElementById('site-theme'); if (!b) return;
@@ -76,4 +107,4 @@ export const HEADER_JS = `<script>(() => {
     show();
   });
   show();
-})();</script>`;
+})();</script>${ANALYTICS}`;
