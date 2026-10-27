@@ -86,6 +86,11 @@ Icon(IconMonks.Regular.Hexagon, contentDescription = null)</code></pre></div></d
     show();
   });
   show();
+})();
+// The animated tab icon (favicon.js) sits next to favicon.svg, so its path comes from the page's own icon link.
+(() => {
+  const l = document.querySelector('link[rel~="icon"][href$="favicon.svg"]'); if (!l) return;
+  const s = document.createElement('script'); s.src = l.href.replace(/favicon.svg$/, 'favicon.js'); s.defer = true; document.head.appendChild(s);
 })();</script>
 </body>
 </html>
