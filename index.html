@@ -308,7 +308,7 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
 
 <section class="hero wrap">
   <div>
-    <h1><span class="h1-brand">Icon Monks</span>70,000+ Free icons for your next <span class="rot-full">website, web apps or mobile apps</span><span class="rot" aria-hidden="true"><span class="on">website</span><span>web apps</span><span>mobile apps</span></span></h1>
+    <h1><span class="h1-brand">Icon Monks</span>70,000+ Free icons for your next <span class="rot-full">websites, web apps or mobile apps</span><span class="rot" aria-hidden="true"><span class="on">websites</span><span>web apps</span><span>mobile apps</span></span></h1>
     <p class="lede">70,000+ SVG icons on one 256-unit grid, with packages for React, Vue, Web Components, icon fonts, Flutter, SwiftUI and Jetpack Compose. MIT licensed and free for commercial use.</p>
     <div class="cta"><a class="btn primary" href="#icons">Browse icons <svg class="ui-i" viewBox="0 0 256 256" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M211.09 148.59A12 12 0 0 0 191.51 135.51L140 187.03V40A12 12 0 0 0 116.91 35.41A12 12 0 0 0 116 40V187.03L64.49 135.51A12 12 0 0 0 44.91 148.59A12 12 0 0 0 47.51 152.49L119.51 224.49A12 12 0 0 0 136.49 224.49L208.49 152.49A12 12 0 0 0 211.09 148.59Z"/></svg></a><a class="btn" href="#get-started"><svg class="ui-i" viewBox="0 0 256 256" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M154.91 47.97A8 8 0 0 0 140.26 49.96L100.26 201.96A8 8 0 0 0 114.37 208.84A8 8 0 0 0 115.74 206.04L155.74 54.04A8 8 0 0 0 154.91 47.97ZM79.89 70.68A8 8 0 0 0 65.49 67.35L25.49 123.35A8 8 0 0 0 25.49 132.65L65.49 188.65A8 8 0 0 0 79.79 182.2A8 8 0 0 0 78.51 179.35L41.83 128L78.51 76.65A8 8 0 0 0 79.89 70.68ZM185.32 64.11A8 8 0 0 0 177.49 76.65L214.17 128L177.49 179.35A8 8 0 0 0 188.23 190.79A8 8 0 0 0 190.51 188.65L230.51 132.65A8 8 0 0 0 230.51 123.35L190.51 67.35A8 8 0 0 0 185.32 64.11Z"/></svg> Install</a></div>
     <p class="facts"><b id="stat-cats">31</b> categories · <b>8</b> platforms · <b>MIT</b> license<span id="visits" hidden> · <b id="visitCount"></b> visitors</span></p>
@@ -874,7 +874,7 @@ function drawSpecimen() {
   $('spec-note').textContent = STROKE[w] ? `${w} · stroke ${STROKE[w]}/256` : (w === 'fill' ? 'fill · solid shapes' : 'duotone · 20% tint layer');
 }
 const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-{ // Hero headline: show website / web apps / mobile apps one after another
+{ // Hero headline: show websites / web apps / mobile apps one after another
   const words = [...document.querySelectorAll('h1 .rot > span')];
   let i = 0;
   if (!reduced && words.length) {
