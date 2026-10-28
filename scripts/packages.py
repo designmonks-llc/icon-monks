@@ -1199,6 +1199,30 @@ public extension Image {{
         self = icon.image(weight)
     }}
 }}
+
+/// An icon that scales with Dynamic Type, like text does.
+///
+/// `IconMonkImage(.house, weight: .bold, size: 24)` is 24 points at the default text size and grows or shrinks
+/// with the user's text size setting, following the `relativeTo` text style (`.body` by default).
+public struct IconMonkImage: View {{
+    private let icon: IconMonk
+    private let weight: IconMonkWeight
+    @ScaledMetric private var size: CGFloat
+
+    public init(_ icon: IconMonk, weight: IconMonkWeight = .regular, size: CGFloat = 24,
+                relativeTo textStyle: Font.TextStyle = .body) {{
+        self.icon = icon
+        self.weight = weight
+        self._size = ScaledMetric(wrappedValue: size, relativeTo: textStyle)
+    }}
+
+    public var body: some View {{
+        icon.image(weight)
+            .resizable()
+            .aspectRatio(contentMode: .fit)
+            .frame(width: size, height: size)
+    }}
+}}
 """)
     # SwiftPM needs the manifest at the repository root.
     if os.path.exists(os.path.join(path, 'Package.swift')):
@@ -1241,6 +1265,20 @@ Image(iconMonks: .house)
     .foregroundStyle(.purple)              // iOS 15+; use .foregroundColor(.purple) on iOS 14
 
 Image(iconMonks: .heart, weight: .fill)
+```
+
+Icon names are the same in every weight, so changing the look is one parameter, never a rename.
+
+### Dynamic Type
+
+`IconMonkImage` scales with the user's text size, so icons grow alongside your labels at accessibility sizes:
+
+```swift
+IconMonkImage(.house)                                   // 24 pt at the default text size, scales like .body
+IconMonkImage(.bell, weight: .bold, size: 20, relativeTo: .headline)
+    .foregroundStyle(.purple)
+
+Label { Text("Home") } icon: { IconMonkImage(.house, size: 17) }
 ```
 
 ## UIKit and AppKit

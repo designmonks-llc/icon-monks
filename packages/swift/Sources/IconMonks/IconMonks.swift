@@ -6091,3 +6091,27 @@ public extension Image {
         self = icon.image(weight)
     }
 }
+
+/// An icon that scales with Dynamic Type, like text does.
+///
+/// `IconMonkImage(.house, weight: .bold, size: 24)` is 24 points at the default text size and grows or shrinks
+/// with the user's text size setting, following the `relativeTo` text style (`.body` by default).
+public struct IconMonkImage: View {
+    private let icon: IconMonk
+    private let weight: IconMonkWeight
+    @ScaledMetric private var size: CGFloat
+
+    public init(_ icon: IconMonk, weight: IconMonkWeight = .regular, size: CGFloat = 24,
+                relativeTo textStyle: Font.TextStyle = .body) {
+        self.icon = icon
+        self.weight = weight
+        self._size = ScaledMetric(wrappedValue: size, relativeTo: textStyle)
+    }
+
+    public var body: some View {
+        icon.image(weight)
+            .resizable()
+            .aspectRatio(contentMode: .fit)
+            .frame(width: size, height: size)
+    }
+}
