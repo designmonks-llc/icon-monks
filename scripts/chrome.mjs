@@ -14,15 +14,47 @@ export const icon = (byName, name, size = 18, weight = 'regular') =>
 // Icon Monks is a product of Design Monks; every page credits the studio in its footer.
 export const STUDIO = { name: 'Design Monks', url: 'https://monks.company/' };
 export const STUDIO_LINK = `<a href="${STUDIO.url}" target="_blank" rel="noopener">${STUDIO.name}</a>`;
+// Who is behind Icon Monks, for the About page, footers and structured data. Leave a field empty to keep it off the site.
+export const ABOUT = {
+  founder: { name: 'Atiqur Rahaman', jobTitle: 'Founder & CEO, Design Monks & Dev Monks', sameAs: ['https://www.linkedin.com/in/atiq31416/'] },
+  email: 'hello@iconmonks.co',
+  location: 'Mount Arlington, New Jersey',   // for sentences; the owner chose not to publish the street address
+  address: { addressLocality: 'Mount Arlington', addressRegion: 'NJ', addressCountry: 'US' },
+  foundingDate: '',      // the year Design Monks was founded, e.g. '2019'
+  studioSameAs: [],      // Design Monks' own profiles (LinkedIn, Facebook, ...)
+};
+// Where else Icon Monks lives: these tie the product to one entity for search and AI engines.
+export const PRODUCT_SAME_AS = [
+  'https://github.com/designmonks-llc/icon-monks',
+  'https://www.producthunt.com/products/icon-monks',
+  'https://www.npmjs.com/package/@icon-monks/react',
+  'https://pub.dev/packages/icon_monks',
+  'https://www.facebook.com/iconmonks',
+];
 // The bottom line of every footer.
-export const CREDIT = `<p class="foot-base">Icon Monks is a product of ${STUDIO_LINK}. Free and open source under the MIT license.</p>`;
+export const CREDIT = `<p class="foot-base">Icon Monks is a product of ${STUDIO_LINK}. Free and open source under the MIT license.${ABOUT.email ? ` Contact: <a href="mailto:${ABOUT.email}">${ABOUT.email}</a>.` : ''}</p>`;
+
+// The Design Monks organization node shared by every page's structured data.
+export const orgLd = (SITE) => ({
+  '@type': 'Organization', '@id': `${SITE}#org`, name: STUDIO.name, url: STUDIO.url, logo: `${SITE}icon-512.png`,
+  sameAs: ['https://github.com/designmonks-llc', ...ABOUT.studioSameAs],
+  founder: { '@id': `${SITE}about/#founder` },
+  ...(ABOUT.foundingDate && { foundingDate: ABOUT.foundingDate }),
+  ...(ABOUT.address && { address: { '@type': 'PostalAddress', ...ABOUT.address } }),
+  ...(ABOUT.email && { email: ABOUT.email, contactPoint: { '@type': 'ContactPoint', contactType: 'customer support', email: ABOUT.email } }),
+});
+export const founderLd = (SITE) => ({
+  '@type': 'Person', '@id': `${SITE}about/#founder`, name: ABOUT.founder.name, worksFor: { '@id': `${SITE}#org` },
+  ...(ABOUT.founder.jobTitle && { jobTitle: ABOUT.founder.jobTitle }),
+  ...(ABOUT.founder.sameAs.length && { sameAs: ABOUT.founder.sameAs }),
+});
 
 // `up` is the relative path to the site root ('' on the homepage); `theme` adds the light/dark button.
 export function header({ byName, up = '', REPO, current = '' }) {
   const link = (href, label, key) => `<a href="${up}${href}"${current === key ? ' aria-current="page"' : ''}>${label}</a>`;
   return `<header class="site-head"><div class="site-head-in">
   <a class="site-brand" href="${up || './'}" aria-label="Icon Monks home"><span class="site-logo" style="-webkit-mask-image: url(${up}logo.svg); mask-image: url(${up}logo.svg)"></span></a>
-  <nav class="site-links" aria-label="Main">${link('', 'Icons', 'icons')}${link('categories/', 'Categories', 'categories')}${link('getting-started/', 'Get started', 'start')}${link('showcase/', 'Showcase', 'showcase')}</nav>
+  <nav class="site-links" aria-label="Main">${link('', 'Icons', 'icons')}${link('categories/', 'Categories', 'categories')}${link('getting-started/', 'Get started', 'start')}${link('showcase/', 'Showcase', 'showcase')}${link('guides/', 'Guides', 'guides')}${link('about/', 'About', 'about')}</nav>
   <div class="site-acts">
     <a class="site-gh" href="${REPO}" target="_blank" rel="noopener" aria-label="GitHub">${icon(byName, 'github-logo', 17, 'fill')}<span>GitHub</span></a>
     <button class="site-theme" id="site-theme" type="button" aria-label="Theme: system">${icon(byName, 'monitor', 17)}${icon(byName, 'sun', 17)}${icon(byName, 'moon', 17)}</button>

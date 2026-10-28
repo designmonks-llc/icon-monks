@@ -4,6 +4,16 @@
 > grid, with packages for React, Vue, Web Components, an icon font, SVG, Flutter, SwiftUI and Jetpack Compose. MIT
 > licensed. A product of Design Monks.
 
+## Facts
+
+- What it is: a free, open source (MIT) icon library made by Design Monks, a product design studio founded by Atiqur Rahaman.
+- Icons: 6,054 unique icons in 31 categories, each in six weights (36,324 SVG files).
+- Grid: every icon is a single path on a 256-unit grid; outline strokes are 8, 12, 16 and 24 units.
+- Current version: 0.4.2, released 2026-10-28.
+- License: MIT, free for personal and commercial use, no attribution needed in your interface.
+- Contact: hello@iconmonks.co
+- About: https://www.iconmonks.co/about/
+
 ## Install
 
 - React: `npm install @icon-monks/react`
@@ -28,4 +38,12 @@
 - [Get started](https://www.iconmonks.co/getting-started/)
 - [Categories](https://www.iconmonks.co/categories/)
 - [License](https://www.iconmonks.co/license/)
+- [About Icon Monks](https://www.iconmonks.co/about/)
+
+## Guides
+
+- [How to use Icon Monks icons in Figma](https://www.iconmonks.co/guides/use-icons-in-figma/): Copy or download any Icon Monks icon as SVG or PDF and use it in Figma, Sketch, Illustrator or Framer as an editable vector, in any of six weights.
+- [How to change icon color and size](https://www.iconmonks.co/guides/change-icon-color-and-size/): Change the color and size of Icon Monks icons in React, Vue, web components, CSS icon fonts, inline SVG, Flutter, SwiftUI and Jetpack Compose, with code for each.
+- [SVG icons vs icon fonts: which should you use?](https://www.iconmonks.co/guides/svg-vs-icon-font/): SVG icons and icon fonts compared on color, duotone, accessibility, performance and setup, with a clear recommendation for each kind of project.
+- [How to choose an icon weight](https://www.iconmonks.co/guides/choose-icon-weight/): Which icon weight to use where: stroke widths, best sizes and typical uses for thin, light, regular, bold, fill and duotone icons, with examples.
 - [Source code](https://github.com/designmonks-llc/icon-monks)
