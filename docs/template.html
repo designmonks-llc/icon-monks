@@ -244,7 +244,7 @@ __HEADER__
 
 <section class="hero wrap">
   <div>
-    <h1><span class="h1-brand">Icon Monks</span>70,000+ Free icons for your next <span class="rot-full">website, web apps or mobile apps</span><span class="rot" aria-hidden="true"><span class="on">website</span><span>web apps</span><span>mobile apps</span></span></h1>
+    <h1><span class="h1-brand">Icon Monks</span>70,000+ Free icons for your next <span class="rot-full">websites, web apps or mobile apps</span><span class="rot" aria-hidden="true"><span class="on">websites</span><span>web apps</span><span>mobile apps</span></span></h1>
     <p class="lede">__COUNT__ SVG icons on one 256-unit grid, with packages for React, Vue, Web Components, icon fonts, Flutter, SwiftUI and Jetpack Compose. MIT licensed and free for commercial use.</p>
     <div class="cta"><a class="btn primary" href="#icons">Browse icons __ICON:arrow-down:16:bold__</a><a class="btn" href="#get-started">__ICON:code:16__ Install</a></div>
     <p class="facts"><b id="stat-cats">0</b> categories · <b>8</b> platforms · <b>MIT</b> license<span id="visits" hidden> · <b id="visitCount"></b> visitors</span></p>
@@ -782,7 +782,7 @@ function drawSpecimen() {
   $('spec-note').textContent = STROKE[w] ? `${w} · stroke ${STROKE[w]}/256` : (w === 'fill' ? 'fill · solid shapes' : 'duotone · 20% tint layer');
 }
 const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-{ // Hero headline: show website / web apps / mobile apps one after another
+{ // Hero headline: show websites / web apps / mobile apps one after another
   const words = [...document.querySelectorAll('h1 .rot > span')];
   let i = 0;
   if (!reduced && words.length) {
