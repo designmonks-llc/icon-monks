@@ -1,6 +1,6 @@
 (function () {
 
-const CDN = 'https://cdn.jsdelivr.net/npm/@icon-monks/web@0.4.1/dist/icons/';
+const CDN = 'https://cdn.jsdelivr.net/npm/@icon-monks/web@0.4.2/dist/icons/';
 let BASES = [];
 const cache = new Map();
 

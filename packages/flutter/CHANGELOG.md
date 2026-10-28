@@ -1,3 +1,7 @@
+## 0.4.2
+
+- SwiftUI: new `IconMonkImage` view that scales with Dynamic Type. Icon sizes, centring and corner radii made consistent across the set.
+
 ## 0.4.1
 
 - Fuller READMEs for every package. The Flutter package documents every icon, ships an example and scores 160/160 on pub.dev. Releases publish only from tags on main.
