@@ -1,6 +1,8 @@
 // Renders the social card and app icons from build/icons.json with Playwright:
 //   og-image.png (1200x630), apple-touch-icon.png (180), icon-192.png, icon-512.png, favicon-32.png, favicon.svg
-// Run after `npm run build`: NODE_PATH=$(npm root -g) node scripts/brand.cjs
+//   og/**.png: one social card per static page, listed by scripts/pages.mjs in build/og.json
+//     (1200x630 for guides, categories and other pages; 400x400 for icon pages)
+// Run after `npm run build`: NODE_PATH=$(npm root -g) node scripts/brand.cjs && python3 scripts/og_compress.py
 const fs = require('fs');
 const path = require('path');
 const { chromium } = require('playwright');
@@ -52,6 +54,34 @@ p{font-size:30px;line-height:1.35;color:#5d6280;margin:18px 0 0}.n{margin-top:40
     await q.setContent(`<style>html,body{margin:0;background:transparent}svg{display:block;width:${size}px;height:${size}px}</style>${mark(rx)}`);
     await q.screenshot({ path: path.join(root, file), omitBackground: true });
   }
+  // Per-page cards. Icon pages get a small square card with the icon in the regular weight.
+  const cards = [...JSON.parse(fs.readFileSync(path.join(root, 'build/og.json'), 'utf8')),
+    { name: 'showcase', title: 'Icon Monks in use', sub: 'A dashboard, two mobile apps and the parts every product needs', icons: ['squares-four', 'wallet', 'chat-circle', 'bell'], kind: 'wide' }];
+  const wide = await b.newPage({ viewport: { width: 1200, height: 630 } });
+  const square = await b.newPage({ viewport: { width: 400, height: 400 } });
+  for (const c of cards) {
+    const file = path.join(root, `og/${c.name}.png`);
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    const icons = c.icons.filter((n) => by[n]);
+    if (c.kind === 'square') {
+      await square.setContent(`<style>body{margin:0;width:400px;height:400px;background:#f4f5f8;display:grid;place-items:center}
+.t{width:300px;height:300px;background:#fff;border:3px solid #dfe2ec;border-radius:56px;display:grid;place-items:center}</style><div class="t">${ico(icons[0], 'regular', 200, '#1b1e3a')}</div>`);
+      await square.screenshot({ path: file });
+      continue;
+    }
+    const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    await wide.setContent(`<style>@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Figtree:wght@500&display=swap');
+body{margin:0;width:1200px;height:630px;background:#f4f5f8;font-family:Figtree,sans-serif;color:#1b1e3a;display:grid;grid-template-columns:1fr 440px;overflow:hidden}
+.l{padding:84px 0 0 72px;display:flex;flex-direction:column}.w svg{width:240px;height:auto;display:block;margin-bottom:64px}
+h1{font:700 64px/1.05 'Bricolage Grotesque';margin:0;max-width:640px}p{font-size:30px;line-height:1.35;color:#5d6280;margin:22px 0 0;max-width:620px}
+.e{margin-top:auto;margin-bottom:64px;font:500 20px/1 monospace;letter-spacing:.08em;text-transform:uppercase;color:${ACCENT_TEXT}}
+.g{display:grid;grid-template-columns:repeat(2,168px);gap:20px;align-content:center;padding-left:24px}
+.t{width:168px;height:168px;background:#fff;border:2px solid #dfe2ec;border-radius:30px;display:grid;place-items:center}
+</style><div class="l"><div class="w">${wordmark}</div><h1>${esc(c.title)}</h1><p>${esc(c.sub)}</p><div class="e">iconmonks.co · free &amp; open source</div></div>
+<div class="g">${icons.slice(0, 4).map((n, k) => `<div class="t">${ico(n, ['regular', 'duotone', 'bold', 'fill'][k], 84, '#1b1e3a')}</div>`).join('')}</div>`, { waitUntil: 'networkidle' });
+    await wide.screenshot({ path: file });
+  }
   await b.close();
+  console.log(`wrote ${cards.length} social cards in og/`);
   console.log('wrote og-image.png, apple-touch-icon.png, icon-192.png, icon-512.png, favicon-32.png, favicon.svg');
 })();

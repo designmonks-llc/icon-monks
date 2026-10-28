@@ -5,7 +5,7 @@
 //   sitemap.xml, robots.txt, site.webmanifest for search engines (brand images come from scripts/brand.cjs)
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { buildPages } from './pages.mjs';
-import { header, icon, HEADER_CSS, HEADER_JS, HEADER_THEME, STUDIO, STUDIO_LINK, CREDIT } from './chrome.mjs';
+import { header, icon, HEADER_CSS, HEADER_JS, HEADER_THEME, STUDIO, STUDIO_LINK, CREDIT, ABOUT, PRODUCT_SAME_AS, orgLd, founderLd } from './chrome.mjs';
 
 const root = new URL('..', import.meta.url);
 const data = JSON.parse(readFileSync(new URL('build/icons.json', root)));
@@ -33,6 +33,9 @@ const SITE = 'https://www.iconmonks.co/';
 const REPO = 'https://github.com/designmonks-llc/icon-monks';
 // Headline icon count shown across the site and package docs
 const count = '70,000+';
+// The real numbers, for the FAQ, llms.txt and structured data, so search and AI engines can check them.
+const unique = data.icons.length.toLocaleString('en-US');
+const files = (data.icons.length * data.weights.length).toLocaleString('en-US');
 const cats = [...new Set(data.icons.map((i) => i.category))];
 const esc = (t) => t.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 
@@ -53,14 +56,16 @@ const WEIGHT_NOTES = {
 };
 const weightsHtml = data.weights.map((w) => `<div class="weight"><div class="weight-row">${['house', 'heart', 'bell', 'camera'].map((i) => draw(i, w)).join('')}</div><h3>${w[0].toUpperCase() + w.slice(1)}</h3><p>${WEIGHT_NOTES[w]}</p></div>`).join('\n    ');
 const catCounts = cats.map((c) => [c, data.icons.filter((i) => i.category === c).length]).sort((a, b) => b[1] - a[1]);
-const version = JSON.parse(readFileSync(new URL('package.json', root))).version;
-const pages = buildPages({ root, data, SITE, REPO, count, version });
+// `released` in package.json is the date of the current version; release PRs bump it with the version.
+// Pages show it as their last-updated date and the sitemap uses it as <lastmod>, so builds stay reproducible.
+const { version, released } = JSON.parse(readFileSync(new URL('package.json', root)));
+const pages = buildPages({ root, data, SITE, REPO, count, version, released, unique, files });
 const catsHtml = catCounts.map(([c, k]) => `<li><a href="categories/${pages.slug(c)}/">${esc(c)} icons <span>${k}</span></a></li>`).join('\n    ');
 const FAQ = [
   ['Is Icon Monks free for commercial projects?',
     'Yes. Every icon is released under the MIT license, so you can use it in personal, client and commercial work, modify it and ship it in paid products. No credit is needed in your interface; keep the license file if you redistribute the source.'],
   ['How many icons are in Icon Monks?',
-    `There are ${count} icons in ${cats.length} categories, and each one comes in six weights: thin, light, regular, bold, fill and duotone.`],
+    `Icon Monks has ${unique} unique icons in ${cats.length} categories. Each one is drawn in six weights (thin, light, regular, bold, fill and duotone), which makes ${files} SVG files, and every icon also ships in the React, Vue, web component, font, Flutter, SwiftUI and Android packages.`],
   ['Which frameworks and platforms does it support?',
     'There are packages for React, Vue 3, Web Components (plain HTML, Angular, Svelte, Astro, WordPress), an icon font, Flutter, Android (Jetpack Compose and VectorDrawable) and Apple platforms through a Swift package for SwiftUI and UIKit. Raw SVG files work everywhere else.'],
   ['What are the six weights?',
@@ -72,7 +77,7 @@ const FAQ = [
   ['Will the packages make my app bigger?',
     'Only by the icons you use. The React and Vue packages export each icon as its own module, so bundlers drop the rest, and the native packages ship vector assets rather than images.'],
   ['Who makes Icon Monks?',
-    `Icon Monks is a product of <a href="${STUDIO.url}">Design Monks</a>, a product design studio. We draw the icons for the interfaces we design and release them free under the MIT license.`],
+    `Icon Monks is a product of <a href="${STUDIO.url}">Design Monks</a>, a product design studio founded by ${ABOUT.founder.name}${ABOUT.location ? ` and based in ${ABOUT.location}` : ''}. We draw the icons for the interfaces we design and release them free under the MIT license. Read more <a href="about/">about Icon Monks</a>.`],
   ['How do I request or contribute an icon?',
     `Open an issue on <a href="${REPO}/issues">GitHub</a> to request one. To contribute, draw a source SVG on the 256 unit grid; the build generates every weight and package from it.`],
 ];
@@ -95,12 +100,13 @@ const page = chrome(readFileSync(new URL('docs/template.html', root), 'utf8'), {
   .replace('<b id="stat-icons">0</b>', `<b id="stat-icons">${count}</b>`)
   .replace('<b id="stat-cats">0</b>', `<b id="stat-cats">${cats.length}</b>`)
   .replaceAll('__COUNT__', count)
+  .replaceAll('__UNIQUE__', unique)
   .replace('<!--__WEIGHTS__-->', weightsHtml)
   .replace('<!--__CATEGORIES__-->', catsHtml)
   .replace('<!--__FAQ__-->', faqHtml);
 
 const split = page.indexOf('</style>') + '</style>'.length;
-const title = `Icon Monks: ${count} Free Icons for Websites, Web Apps & Mobile Apps`;
+const title = `Icon Monks: ${count} Free Icons for Websites & Apps`;
 const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
 const ld = {
   '@context': 'https://schema.org',
@@ -108,11 +114,14 @@ const ld = {
     { '@type': 'WebSite', '@id': `${SITE}#website`, name: 'Icon Monks', url: SITE, description, inLanguage: 'en',
       publisher: { '@id': `${SITE}#org` }, creator: { '@id': `${SITE}#org` },
       potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${SITE}?q={search_term_string}` }, 'query-input': 'required name=search_term_string' } },
-    { '@type': 'Organization', '@id': `${SITE}#org`, name: STUDIO.name, url: STUDIO.url, logo: `${SITE}icon-512.png`, sameAs: ['https://github.com/designmonks-llc', REPO] },
+    { '@type': 'WebPage', '@id': `${SITE}#webpage`, url: SITE, name: title, isPartOf: { '@id': `${SITE}#website` }, about: { '@id': `${SITE}#code` },
+      dateModified: released, speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.hero .lede', '#faq summary h3'] } },
+    orgLd(SITE),
+    founderLd(SITE),
     { '@type': 'FAQPage', '@id': `${SITE}#faq`, mainEntity: FAQ.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } })) },
     { '@type': 'SoftwareSourceCode', '@id': `${SITE}#code`, name: 'Icon Monks', description, url: SITE,
       codeRepository: REPO, license: 'https://opensource.org/licenses/MIT',
-      programmingLanguage: ['TypeScript', 'Dart', 'Kotlin', 'Swift'], version, author: { '@id': `${SITE}#org` },
+      programmingLanguage: ['TypeScript', 'Dart', 'Kotlin', 'Swift'], version, dateModified: released, author: { '@id': `${SITE}#org` }, sameAs: PRODUCT_SAME_AS,
       keywords: ['icons', 'free icons', 'open source icons', 'icon library', 'svg icons', 'react icons', 'vue icons', 'flutter icons', 'swiftui icons', 'jetpack compose icons', ...cats.map((c) => `${c.toLowerCase()} icons`)].join(', '),
       image: `${SITE}og-image.png` },
   ],
@@ -163,15 +172,9 @@ ${page.slice(split)}
 </body>
 </html>
 `;
-const today = new Date().toISOString().slice(0, 10);
 writeFileSync(new URL('sitemap.xml', root), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>${SITE}</loc>
-    <lastmod>${today}</lastmod>
-  </url>
-  <url><loc>${SITE}showcase/</loc></url>
-${pages.urls.map((u) => `  <url><loc>${u}</loc></url>`).join('\n')}
+${[SITE, `${SITE}showcase/`, ...pages.urls].map((u) => `  <url><loc>${u}</loc><lastmod>${released}</lastmod></url>`).join('\n')}
 </urlset>
 `);
 writeFileSync(new URL('robots.txt', root), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
@@ -181,6 +184,15 @@ writeFileSync(new URL('llms.txt', root), `# Icon Monks
 > ${count} free, open source icons in six weights (thin, light, regular, bold, fill, duotone), drawn on one 256-unit
 > grid, with packages for React, Vue, Web Components, an icon font, SVG, Flutter, SwiftUI and Jetpack Compose. MIT
 > licensed. A product of Design Monks.
+
+## Facts
+
+- What it is: a free, open source (MIT) icon library made by Design Monks, a product design studio founded by ${ABOUT.founder.name}.
+- Icons: ${unique} unique icons in ${cats.length} categories, each in six weights (${files} SVG files).
+- Grid: every icon is a single path on a 256-unit grid; outline strokes are 8, 12, 16 and 24 units.
+- Current version: ${version}, released ${released}.
+- License: MIT, free for personal and commercial use, no attribution needed in your interface.
+${ABOUT.email ? `- Contact: ${ABOUT.email}\n` : ''}- About: ${SITE}about/
 
 ## Install
 
@@ -199,6 +211,11 @@ ${pages.PLATFORMS.map((p) => `- [${p.short}](${SITE}${p.path}): ${p.blurb.replac
 - [Get started](${SITE}getting-started/)
 - [Categories](${SITE}categories/)
 - [License](${SITE}license/)
+- [About Icon Monks](${SITE}about/)
+
+## Guides
+
+${pages.GUIDES.map((g) => `- [${g.h1}](${SITE}${g.path}): ${g.description}`).join('\n')}
 - [Source code](${REPO})
 `);
 writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
@@ -216,8 +233,15 @@ const missingIcons = [...used].filter((n) => !pathsByName[n]);
 if (missingIcons.length) throw new Error(`docs/showcase.html uses unknown icons: ${missingIcons.join(', ')}`);
 const showcaseIcons = Object.fromEntries([...used].sort().map((n) => [n, pathsByName[n]]));
 mkdirSync(new URL('showcase/', root), { recursive: true });
+const showcaseLd = { '@context': 'https://schema.org', '@graph': [
+  { '@type': 'WebPage', '@id': `${SITE}showcase/#webpage`, url: `${SITE}showcase/`, name: 'Icon Monks in Use: Dashboard, Mobile App and UI Examples',
+    description: 'Icon Monks in a dashboard, a wallet app, a chat app and the UI parts every product needs, in six weights.',
+    isPartOf: { '@id': `${SITE}#website` }, about: { '@id': `${SITE}#code` }, publisher: { '@id': `${SITE}#org` }, dateModified: released,
+    primaryImageOfPage: `${SITE}og/showcase.png` },
+  { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Icon Monks', item: SITE }, { '@type': 'ListItem', position: 2, name: 'Showcase', item: `${SITE}showcase/` }] }] };
 writeFileSync(new URL('showcase/index.html', root), showcase
   .replace('/*ICONS*/', `const ICONS = ${JSON.stringify(showcaseIcons).replace(/</g, '\\u003c')};`)
+  .replace('<!--__LD__-->', `<script type="application/ld+json">${JSON.stringify(showcaseLd).replace(/</g, '\\u003c')}</script>`)
   .replace('__COUNT__', count));
 writeFileSync(new URL('build/artifact.html', root), page);
 console.log(`index.html + build/artifact.html: ${data.icons.length} icons; ${pages.urls.length} static pages`);
