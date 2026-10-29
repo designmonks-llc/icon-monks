@@ -50,6 +50,9 @@ test('react renders props and context', () => {
   assert.match(ctx, /fill="pink"/);
   assert.match(ctx, /aria-label="Like"/);
   assert.match(ctx, /opacity="0.2"/);
+  // A provider that sets only some defaults keeps the rest, including currentColor.
+  const partial = renderToStaticMarkup(createElement(React.IconContext.Provider, { value: { size: 20 } }, createElement(React.Heart)));
+  assert.match(partial, /fill="currentColor"/);
   const bold = renderToStaticMarkup(createElement(React.Heart, { weight: 'bold' }));
   const regular = renderToStaticMarkup(createElement(React.Heart));
   assert.notEqual(bold, regular);

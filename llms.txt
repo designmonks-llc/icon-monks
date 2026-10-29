@@ -46,4 +46,8 @@
 - [How to change icon color and size](https://www.iconmonks.co/guides/change-icon-color-and-size/): Change the color and size of Icon Monks icons in React, Vue, web components, CSS icon fonts, inline SVG, Flutter, SwiftUI and Jetpack Compose, with code for each.
 - [SVG icons vs icon fonts: which should you use?](https://www.iconmonks.co/guides/svg-vs-icon-font/): SVG icons and icon fonts compared on color, duotone, accessibility, performance and setup, with a clear recommendation for each kind of project.
 - [How to choose an icon weight](https://www.iconmonks.co/guides/choose-icon-weight/): Which icon weight to use where: stroke widths, best sizes and typical uses for thin, light, regular, bold, fill and duotone icons, with examples.
+- [How to use icons in Next.js](https://www.iconmonks.co/guides/nextjs-icons/): Add Icon Monks icons to a Next.js app: install the React package, use icons in Server and Client Components, set defaults, and keep the bundle small.
+- [How to make icons accessible](https://www.iconmonks.co/guides/accessible-icons/): When to hide icons with aria-hidden, when to label them with aria-label, and the contrast and size rules to follow, with code for web, iOS and Android.
+- [How to use icons with Tailwind CSS](https://www.iconmonks.co/guides/tailwind-css-icons/): Style icons with Tailwind CSS: size with size-6, color with text-*, plus hover and dark mode, in React, Vue, plain HTML and the Icon Monks icon font.
+- [How to choose an open source icon library](https://www.iconmonks.co/guides/choose-icon-library/): A checklist for choosing a free icon library: license, coverage, weights, platform packages, bundle size and upkeep, with honest notes on Icon Monks.
 - [Source code](https://github.com/designmonks-llc/icon-monks)
