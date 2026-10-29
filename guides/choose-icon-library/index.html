@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Choose an Open Source Icon Library | Icon Monks</title>
+<meta name="description" content="A checklist for choosing a free icon library: license, coverage, weights, platform packages, bundle size and upkeep, with honest notes on Icon Monks.">
+<link rel="canonical" href="https://www.iconmonks.co/guides/choose-icon-library/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="Design Monks">
+<meta name="publisher" content="Design Monks">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Icon Monks">
+<meta property="og:title" content="How to Choose an Open Source Icon Library | Icon Monks">
+<meta property="og:description" content="A checklist for choosing a free icon library: license, coverage, weights, platform packages, bundle size and upkeep, with honest notes on Icon Monks.">
+<meta property="og:url" content="https://www.iconmonks.co/guides/choose-icon-library/">
+<meta property="og:image" content="https://www.iconmonks.co/og/guides/choose-icon-library.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How to Choose an Open Source Icon Library | Icon Monks">
+<meta name="twitter:description" content="A checklist for choosing a free icon library: license, coverage, weights, platform packages, bundle size and upkeep, with honest notes on Icon Monks.">
+<meta name="twitter:image" content="https://www.iconmonks.co/og/guides/choose-icon-library.png">
+<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+<script>try { const t = localStorage.getItem('im-theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="../../site.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Icon Monks","item":"https://www.iconmonks.co/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://www.iconmonks.co/guides/"},{"@type":"ListItem","position":3,"name":"Choosing a library","item":"https://www.iconmonks.co/guides/choose-icon-library/"}]},{"@type":"TechArticle","headline":"How to choose an open source icon library","description":"A checklist for choosing a free icon library: license, coverage, weights, platform packages, bundle size and upkeep, with honest notes on Icon Monks.","url":"https://www.iconmonks.co/guides/choose-icon-library/","image":"https://www.iconmonks.co/og/guides/choose-icon-library.png","datePublished":"2026-10-29","dateModified":"2026-10-28","author":{"@id":"https://www.iconmonks.co/about/#founder"},"publisher":{"@type":"Organization","@id":"https://www.iconmonks.co/#org","name":"Design Monks","url":"https://monks.company/","logo":"https://www.iconmonks.co/icon-512.png","sameAs":["https://github.com/designmonks-llc"],"founder":{"@id":"https://www.iconmonks.co/about/#founder"},"address":{"@type":"PostalAddress","addressLocality":"Mount Arlington","addressRegion":"NJ","addressCountry":"US"},"email":"hello@iconmonks.co","contactPoint":{"@type":"ContactPoint","contactType":"customer support","email":"hello@iconmonks.co"}},"isPartOf":{"@id":"https://www.iconmonks.co/#website"}},{"@type":"Person","@id":"https://www.iconmonks.co/about/#founder","name":"Atiqur Rahaman","worksFor":{"@id":"https://www.iconmonks.co/#org"},"jobTitle":"Founder & CEO, Design Monks & Dev Monks","sameAs":["https://www.linkedin.com/in/atiq31416/"]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the best free icon library for React?","acceptedAnswer":{"@type":"Answer","text":"One with typed, tree-shakeable components, a permissive license and the icons your product needs. Icon Monks fits that with 6,054 icons in six weights under MIT, but test your own list of 30 icons before choosing."}},{"@type":"Question","name":"What is the best free icon library for Flutter?","acceptedAnswer":{"@type":"Answer","text":"Pick one that ships IconData constants backed by fonts, so icons work with the standard Icon widget and IconTheme. The icon_monks package on pub.dev does this in five weights."}},{"@type":"Question","name":"Can I mix icons from two libraries?","acceptedAnswer":{"@type":"Answer","text":"You can, but differences in grid, stroke width and corner radius show. If you must, use one library for each kind of icon, for example brand logos from one set and interface icons from another."}}]}]}</script>
+</head>
+<body>
+<header class="site-head"><div class="site-head-in">
+  <a class="site-brand" href="../../" aria-label="Icon Monks home"><span class="site-logo" style="-webkit-mask-image: url(../../logo.svg); mask-image: url(../../logo.svg)"></span></a>
+  <nav class="site-links" aria-label="Main"><a href="../../">Icons</a><a href="../../categories/">Categories</a><a href="../../getting-started/">Get started</a><a href="../../showcase/">Showcase</a><a href="../../guides/" aria-current="page">Guides</a><a href="../../about/">About</a></nav>
+  <div class="site-acts">
+    <a class="site-gh" href="https://github.com/designmonks-llc/icon-monks" target="_blank" rel="noopener" aria-label="GitHub"><svg class="ui-i" viewBox="0 0 256 256" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M100.94 223.39A8 8 0 0 0 104 224H156A8 8 0 0 0 164 216V188.74Q187.49 183.82 200.64 168.11Q215.32 150.57 215 122.05Q215.61 94.94 202.65 79.56L197.95 39.08A8 8 0 0 0 186.13 33L149.94 53H111.02L73.79 32.96A8 8 0 0 0 62.03 39.26L58.29 79.47Q44.81 94.44 45 121.97Q44.9 149.28 58.31 166.53A36.39 36.39 0 0 1 65.98 170.14Q70.43 172.88 78.09 179.72A121.61 121.61 0 0 0 85.19 185.67A80.01 80.01 0 0 0 96 188.73V191.05A19.63 19.63 0 0 0 102.72 191.1A8 8 0 0 1 108.21 205.8A8 8 0 0 1 105.28 206.9A36.05 36.05 0 0 1 96 207.22V216A8 8 0 0 0 100.94 223.39Z"/></svg><span>GitHub</span></a>
+    <button class="site-theme" id="site-theme" type="button" aria-label="Theme: system"><svg class="ui-i" viewBox="0 0 256 256" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M24 64V160A24 24 0 0 0 48 184H120V200H88A8 8 0 0 0 84.94 215.39A8 8 0 0 0 88 216H168A8 8 0 0 0 171.06 200.61A8 8 0 0 0 168 200H136V184H208A24 24 0 0 0 232 160V64A24 24 0 0 0 208 40H48A24 24 0 0 0 24 64ZM42.34 165.66A8 8 0 0 1 40 160V64A8 8 0 0 1 48 56H208A8 8 0 0 1 216 64V160A8 8 0 0 1 208 168H48A8 8 0 0 1 42.34 165.66Z"/></svg><svg class="ui-i" viewBox="0 0 256 256" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M122.34 65.66A8 8 0 0 0 136 60V36A8 8 0 0 0 120.61 32.94A8 8 0 0 0 120 36V60A8 8 0 0 0 122.34 65.66ZM80 88A8 8 0 0 0 85.66 74.34L68.66 57.34A8 8 0 0 0 55.61 66.06A8 8 0 0 0 57.34 68.66L74.34 85.66A8 8 0 0 0 80 88ZM168 80A8 8 0 0 0 181.66 85.66L198.66 68.66A8 8 0 0 0 189.94 55.61A8 8 0 0 0 187.34 57.34L170.34 74.34A8 8 0 0 0 168 80ZM128 180A52 52 0 1 0 91.23 164.77A52 52 0 0 0 128 180ZM128 92A36 36 0 1 1 102.54 102.54A36 36 0 0 1 128 92ZM65.66 133.66A8 8 0 0 0 60 120H36A8 8 0 0 0 32.94 135.39A8 8 0 0 0 36 136H60A8 8 0 0 0 65.66 133.66ZM190.34 122.34A8 8 0 0 0 196 136H220A8 8 0 0 0 223.06 120.61A8 8 0 0 0 220 120H196A8 8 0 0 0 190.34 122.34ZM88 176A8 8 0 0 0 74.34 170.34L57.34 187.34A8 8 0 0 0 66.06 200.39A8 8 0 0 0 68.66 198.66L85.66 181.66A8 8 0 0 0 88 176ZM176 168A8 8 0 0 0 170.34 181.66L187.34 198.66A8 8 0 0 0 200.39 189.94A8 8 0 0 0 198.66 187.34L181.66 170.34A8 8 0 0 0 176 168ZM133.66 190.34A8 8 0 0 0 120 196V220A8 8 0 0 0 135.39 223.06A8 8 0 0 0 136 220V196A8 8 0 0 0 133.66 190.34Z"/></svg><svg class="ui-i" viewBox="0 0 256 256" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M32 127.34Q31.82 165.07 57.37 192.82Q82.93 220.58 120.55 223.51Q158.16 226.43 187.7 202.97Q217.25 179.5 222.91 142.2A8 8 0 0 0 211.61 133.75A64 64 0 0 1 128.94 43.98A8 8 0 0 0 121.45 32.02Q83.81 34.59 58 62.1Q32.18 89.61 32 127.34ZM169.02 154.28A78.98 78.98 0 0 0 203.87 153.48Q196.71 175.38 177.75 190.44Q153.13 209.99 121.79 207.55Q90.44 205.11 69.15 181.99Q47.85 158.86 48 127.42Q48.15 95.98 69.66 73.05Q86.23 55.39 108.65 50.06A79.15 79.15 0 0 0 104.97 84.73A80 80 0 0 0 169.02 154.28Z"/></svg></button>
+  </div>
+</div></header>
+<main class="wrap">
+  <ol class="crumbs"><li><a href="../../">Icon Monks</a></li><li><a href="../../guides/">Guides</a></li><li aria-current="page">Choosing a library</li></ol>
+  <h1>How to choose an open source icon library</h1>
+  <p class="lede">Pick the library whose license, coverage and packages fit your product, then stick to it. The questions that matter most are: can you use it commercially, does it have the icons you need in one consistent style, does it ship native packages for every platform you build on, and is it still maintained.</p>
+  
+  
+  <h2>The checklist</h2><table><tr><th>Question</th><th>Why it matters</th><th>Icon Monks</th></tr><tr><td>Is the license permissive?</td><td>MIT, ISC or Apache 2.0 let you ship commercially without credit</td><td>MIT</td></tr><tr><td>Does it cover your product?</td><td>Mixing sets to fill gaps breaks visual consistency</td><td>6,054 icons in 31 categories, including brands and emoji</td></tr><tr><td>How many weights?</td><td>Fill and outline pairs show state; bold helps at small sizes</td><td>Six: thin, light, regular, bold, fill, duotone</td></tr><tr><td>Native packages?</td><td>Same names on web, iOS and Android speed up handoff</td><td>React, Vue, web component, icon font, SVG, Flutter, SwiftUI, Jetpack Compose</td></tr><tr><td>Is it tree-shakeable?</td><td>Only the icons you use should reach users</td><td>Yes, one module per icon</td></tr><tr><td>Is it consistent?</td><td>One grid and stroke system makes icons look like a set</td><td>One path per icon on a 256-unit grid, linted on every build</td></tr><tr><td>Is it maintained?</td><td>Frameworks change; you want fixes and new icons</td><td>Regular releases on GitHub, npm and pub.dev</td></tr></table>
+  <h2>Match the library to your stack</h2><p>For React, Vue or Next.js, choose a library with typed components and per-icon modules. For Flutter, SwiftUI or Jetpack Compose, look for a real native package rather than raw SVG files, so icons tint and scale like system icons. For plain HTML or WordPress, an icon font or web component saves a build step. Icon Monks covers all of these with one set of names.</p>
+  <h2>Where Icon Monks is not the best fit</h2><p>There is no React Native package yet. You can render the SVG strings from <code>toSvg()</code> in <code>@icon-monks/core</code> with react-native-svg in the meantime. There is also no Figma plugin yet; copy SVG from the <a href="../../">icon browser</a> instead. If you need hand-drawn or 3D styles, a different set will suit you better.</p>
+  <h2>Test before you commit</h2><p>List the 30 icons your product needs most, search for each one, and put them side by side at your real size, usually 20 or 24 px. Gaps and inconsistencies show up in minutes. Then check the license file in the repository, not just the website.</p>
+  <h2>Frequently asked questions</h2>
+  <div class="faq"><details><summary><h3>What is the best free icon library for React?</h3></summary><p>One with typed, tree-shakeable components, a permissive license and the icons your product needs. Icon Monks fits that with 6,054 icons in six weights under MIT, but test your own list of 30 icons before choosing.</p></details><details><summary><h3>What is the best free icon library for Flutter?</h3></summary><p>Pick one that ships IconData constants backed by fonts, so icons work with the standard Icon widget and IconTheme. The icon_monks package on pub.dev does this in five weights.</p></details><details><summary><h3>Can I mix icons from two libraries?</h3></summary><p>You can, but differences in grid, stroke width and corner radius show. If you must, use one library for each kind of icon, for example brand logos from one set and interface icons from another.</p></details></div>
+  <h2>More guides</h2>
+  <ul class="cats"><li><a href="../../guides/use-icons-in-figma/">Icons in Figma</a></li><li><a href="../../guides/change-icon-color-and-size/">Color and size</a></li><li><a href="../../guides/svg-vs-icon-font/">SVG vs icon font</a></li><li><a href="../../guides/choose-icon-weight/">Choosing a weight</a></li><li><a href="../../guides/nextjs-icons/">Next.js</a></li><li><a href="../../guides/accessible-icons/">Accessible icons</a></li><li><a href="../../guides/tailwind-css-icons/">Tailwind CSS</a></li></ul>
+  <p class="byline">Written by Atiqur Rahaman, Founder &amp; CEO, Design Monks &amp; Dev Monks at <a href="https://monks.company/" target="_blank" rel="noopener">Design Monks</a>. <a href="../../about/">About Icon Monks</a></p>
+  <p class="updated">Last updated <time datetime="2026-10-28">28 October 2026</time> with version 0.4.2. <a href="https://github.com/designmonks-llc/icon-monks/releases">Release notes</a></p>
+</main>
+<footer><div class="wrap foot">
+  <div><h2>Icon Monks</h2><p>70,000+ free, open source icons in six weights by <a href="https://monks.company/" target="_blank" rel="noopener">Design Monks</a>, released under the MIT license.</p></div>
+  <nav aria-label="Popular categories"><h2>Categories</h2><ul><li><a href="../../categories/interface/">Interface icons</a></li><li><a href="../../categories/arrows/">Arrows icons</a></li><li><a href="../../categories/commerce/">Commerce icons</a></li><li><a href="../../categories/media/">Media icons</a></li><li><a href="../../categories/communication/">Communication icons</a></li><li><a href="../../categories/weather/">Weather icons</a></li><li><a href="../../categories/">All categories</a></li></ul></nav>
+  <nav aria-label="Platforms"><h2>Platforms</h2><ul><li><a href="../../react-icons/">React icons</a></li><li><a href="../../vue-icons/">Vue icons</a></li><li><a href="../../web-components/">Web components</a></li><li><a href="../../icon-font/">Icon font</a></li><li><a href="../../svg-icons/">SVG icons</a></li><li><a href="../../flutter-icons/">Flutter icons</a></li><li><a href="../../swiftui-icons/">SwiftUI icons</a></li><li><a href="../../jetpack-compose-icons/">Android icons</a></li></ul></nav>
+  <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="../../getting-started/">Get started</a></li><li><a href="../../guides/">Guides</a></li><li><a href="../../about/">About</a></li><li><a href="../../license/">License</a></li><li><a href="https://github.com/designmonks-llc/icon-monks/releases">Releases</a></li><li><a href="https://github.com/designmonks-llc/icon-monks/issues">Request an icon</a></li><li><a href="https://github.com/designmonks-llc/icon-monks">GitHub</a></li></ul></nav>
+</div>
+<div class="wrap"><p class="foot-base">Icon Monks is a product of <a href="https://monks.company/" target="_blank" rel="noopener">Design Monks</a>. Free and open source under the MIT license. Contact: <a href="mailto:hello@iconmonks.co">hello@iconmonks.co</a>.</p></div></footer>
+<script>(() => {
+  const b = document.getElementById('site-theme'); if (!b) return;
+  const order = ['', 'light', 'dark'], name = { '': 'system', light: 'light', dark: 'dark' };
+  const show = () => { const t = document.documentElement.dataset.theme || ''; b.dataset.mode = name[t]; b.setAttribute('aria-label', 'Theme: ' + name[t] + '. Change theme'); b.title = 'Theme: ' + name[t]; };
+  b.addEventListener('click', () => {
+    const t = order[(order.indexOf(document.documentElement.dataset.theme || '') + 1) % 3];
+    if (t) document.documentElement.dataset.theme = t; else delete document.documentElement.dataset.theme;
+    try { localStorage.setItem('im-theme', t); } catch (e) {}
+    show();
+  });
+  show();
+})();</script>
+<script>window.imTrack = (n, p) => { (window.imTrackQ = window.imTrackQ || []).push([n, p]); };</script>
+<script type="module">
+try {
+  const sdk = 'https://www.gstatic.com/firebasejs/11.0.2/';
+  const { initializeApp } = await import(sdk + 'firebase-app.js');
+  const { getAnalytics, logEvent, isSupported } = await import(sdk + 'firebase-analytics.js');
+  if (await isSupported()) {
+    const a = getAnalytics(initializeApp({"apiKey":"AIzaSyBAORnGxq82Ze07vWr5Ruyr_p2Evyc_Hrg","authDomain":"icon-monks.firebaseapp.com","projectId":"icon-monks","storageBucket":"icon-monks.firebasestorage.app","messagingSenderId":"659314514263","appId":"1:659314514263:web:86bc5574d67b1e1c08c612","measurementId":"G-7W7FBSFGMZ"}));
+    window.imTrack = (n, p) => { try { logEvent(a, n, p); } catch (e) {} };
+    (window.imTrackQ || []).forEach(([n, p]) => window.imTrack(n, p));
+  }
+} catch (e) {}
+</script>
+</body>
+</html>

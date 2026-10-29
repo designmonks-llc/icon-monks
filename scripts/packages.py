@@ -202,13 +202,19 @@ every icon), `weights` and the raw `paths`. Names and weights are typed in TypeS
 
 
 # ---------------------------------------------------------------------------- react
-REACT_LIB = """import { createContext, createElement, forwardRef, useContext } from 'react';
+# React Server Components get a React without context, so the icons check for it and fall back to the defaults there.
+# That keeps them plain server components in Next.js: no client JavaScript, and only the icons you import are bundled.
+REACT_LIB = """import * as React from 'react';
 
-export const IconContext = createContext({ color: 'currentColor', size: '1em', weight: 'regular', mirrored: false });
+const { createElement, forwardRef } = React;
+const DEFAULTS = { color: 'currentColor', size: '1em', weight: 'regular', mirrored: false };
+
+export const IconContext = React.createContext ? React.createContext(DEFAULTS) : null;
 
 export function createIcon(displayName, paths) {
   const Icon = forwardRef(function IconMonk(props, ref) {
-    const ctx = useContext(IconContext);
+    // Merged, so a provider that sets only size or weight keeps the default color.
+    const ctx = { ...DEFAULTS, ...(IconContext ? React.useContext(IconContext) : null) };
     const { color = ctx.color, size = ctx.size, weight = ctx.weight, mirrored = ctx.mirrored, children, ...rest } = props;
     const d = paths[weight] ?? paths.regular;
     const body = weight === 'duotone'

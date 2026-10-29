@@ -124,6 +124,11 @@ ${HEADER_JS}
   const byWord = new Map();
   for (const i of icons) for (const w of wordsOf.get(i)) (byWord.get(w) || byWord.set(w, []).get(w)).push(i);
   const list = (xs) => xs.length < 2 ? xs.join('') : `${xs.slice(0, -1).join(', ')} and ${xs[xs.length - 1]}`;
+  // Families: house-plus is a variant of house, so pages can say what each variant is for and link the set.
+  const baseOf = (n) => { const p = n.split('-'); for (let k = p.length - 1; k > 0; k--) { const b = p.slice(0, k).join('-'); if (byName[b]) return b; } return null; };
+  const variantsOf = new Map();
+  for (const i of icons) { const b = baseOf(i.name); if (b) (variantsOf.get(b) || variantsOf.set(b, []).get(b)).push(i); }
+  const modifier = (mod, base) => (MODIFIERS[mod] || `a ${mod.replace(/-/g, ' ')} variant of the ${base} icon`).replace(/\{b\}/g, base);
   for (const i of icons) {
     const T = title(i.name);
     const t = T.toLowerCase();
@@ -139,10 +144,32 @@ ${HEADER_JS}
     const similar = [...score].sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name)).slice(0, 12).map(([r]) => r);
     const blurb = CATEGORY_BLURBS[i.category] || `${i.category.toLowerCase()} interfaces`;
     const searches = tags.filter((g) => !STOP.has(g)).slice(0, 6);
+    // Text written from this icon's own data: its family, its shape, what it pairs with.
+    const base = baseOf(i.name);
+    const variants = (variantsOf.get(i.name) || []).slice(0, 10);
+    const shapes = (i.paths.regular.match(/[Mm]/g) || []).length;
+    const family = (n) => n.split('-')[0];
+    // Pairs are other shapes, not variants: skip anything sharing a name part, e.g. cursor-heart for heart.
+    const pairs = [...related, ...similar].filter((r) => !r.name.split('-').some((w) => parts.includes(w)) && (r.category !== 'Brands' || i.category === 'Brands'))
+      .filter((r, k, a) => a.findIndex((x) => family(x.name) === family(r.name)) === k).slice(0, 3);
+    const shared = pairs.length ? i.tags.find((g) => g !== i.name && pairs.some((r) => r.tags.includes(g))) : null;
+    const link = (r, up) => `<a href="${up}icon/${r.name}/">${esc(title(r.name).toLowerCase())}</a>`;
+    const describe = (up) => [
+      base ? `It is ${esc(modifier(i.name.slice(base.length + 1), title(base).toLowerCase()))}, so it keeps the exact outline of the ${link(byName[base], up)} icon.` : '',
+      tags.length ? `Use it to stand for ${esc(list(tags.slice(0, 3)))}.` : '',
+      `The regular weight is a single path made of ${shapes} ${shapes === 1 ? 'shape' : 'shapes'}${i.paths.duotone && i.paths.duotone[0] ? ', and the duotone weight adds a 20% tint behind the outline' : ''}.`,
+      variants.length ? `It comes with ${variants.length === 10 ? 'ten or more' : variants.length} ${variants.length === 1 ? 'variant' : 'variants'} for states and actions: ${list(variants.map((v) => link(v, up)))}.` : '',
+    ].filter(Boolean).join(' ');
+    const pairNote = (up) => pairs.length ? `<p>Pairs well with the ${list(pairs.map((r) => link(r, up)))} ${pairs.length === 1 ? 'icon' : 'icons'}${shared ? `, which ${pairs.length === 1 ? 'shares' : 'share'} the “${esc(shared)}” theme` : ''}. Use the same weight for all of them so they read as one set.</p>` : '';
+    const third = variants.length
+      ? [`Are there variants of the ${t} icon?`, `Yes. The ${t} icon has ${variants.length === 10 ? 'ten or more' : variants.length} ${variants.length === 1 ? 'variant' : 'variants'}, including ${list(variants.slice(0, 4).map((v) => title(v.name).toLowerCase()))}. Each one keeps the same base shape and comes in all six weights.`]
+      : base
+        ? [`What is the difference between the ${t} and ${title(base).toLowerCase()} icons?`, `The ${t} icon is ${modifier(i.name.slice(base.length + 1), title(base).toLowerCase())}. Both share the same outline and come in all six weights, so you can swap one for the other to show a change of state.`]
+        : [`Which weight of the ${t} icon should I use?`, `Use regular at 24 px for most interfaces, bold at 16 px or on busy screens, thin or light for large display sizes, fill for a selected or active state, and duotone for illustrations and empty states.`];
     const qa = [
       [`Is the ${t} icon free for commercial use?`, `Yes. The ${t} icon is released under the MIT license, so you can use it in personal, client and commercial projects without paying or adding credit in your interface.`],
       [`How do I change the color and size of the ${t} icon?`, `The icon draws in currentColor, so it takes the text color around it. In React, Vue and the web component, set the size and color props; in the icon browser, pick a color and size before you download a PNG, WebP, SVG or PDF.`],
-      [`Which weight of the ${t} icon should I use?`, `Use regular at 24 px for most interfaces, bold at 16 px or on busy screens, thin or light for large display sizes, fill for a selected or active state, and duotone for illustrations and empty states.`],
+      third,
     ];
     const path = `icon/${i.name}/`;
     write(path, page({
@@ -160,6 +187,9 @@ ${HEADER_JS}
     ${data.weights.map((w) => `<figure><img src="${up}${svgFile(i.name, w)}" alt="${esc(T)} icon, ${w} weight" width="64" height="64"><figcaption>${w[0].toUpperCase() + w.slice(1)}</figcaption><a class="dl" href="${up}${svgFile(i.name, w)}" download>SVG</a></figure>`).join('\n    ')}
   </section>
   <p class="actions"><a class="btn primary" href="${up}?icon=${i.name}">Open in the icon browser</a><span class="hint">Customize size and color, then download PNG, WebP or PDF.</span></p>
+  <h2>About the ${esc(t)} icon</h2>
+  <p>${describe(up)}</p>
+  ${pairNote(up)}
   <h2>When to use the ${esc(t)} icon</h2>
   <p>It belongs to the <a href="${up}categories/${slug(i.category)}/">${esc(i.category.toLowerCase())} set</a>, made for ${esc(blurb)}.${searches.length ? ` People find it by searching for ${esc(list(searches.map((g) => `“${g}”`)))}.` : ''} Pair it with the related icons below so a screen stays in one visual style.</p>
   <h2>Use the ${esc(t)} icon in your code</h2>
@@ -378,8 +408,8 @@ SOFTWARE.</code></pre>`,
   }
   write('guides/', page({
     path: 'guides/', depth: 1,
-    title: 'Icon Guides: Figma, Color, Size, SVG vs Font and Weights | Icon Monks',
-    description: 'Short, practical guides to using icons: Figma and design tools, changing color and size in every framework, SVG vs icon fonts, and choosing an icon weight.',
+    title: 'Icon Guides for Designers and Developers | Icon Monks',
+    description: 'Practical guides to using icons: Figma, color and size, SVG vs icon fonts, weights, Next.js, Tailwind CSS, accessibility and choosing an icon library.',
     h1: 'Guides',
     lede: 'Short, practical answers to the questions designers and developers ask most about icons.',
     crumbs: [['Guides', 'guides/']],
@@ -452,7 +482,7 @@ const PLATFORMS = [
       ['Set defaults for a whole tree', code(`import { IconContext, House, Bell } from '@icon-monks/react';\n\n<IconContext.Provider value={{ size: 24, weight: 'duotone' }}>\n  <House /> <Bell />\n</IconContext.Provider>`)],
       ['Props', '<table><tr><th>Prop</th><th>Values</th></tr><tr><td><code>size</code></td><td>Number or CSS length, default <code>1em</code></td></tr><tr><td><code>color</code></td><td>Any CSS color, default <code>currentColor</code></td></tr><tr><td><code>weight</code></td><td><code>thin</code> <code>light</code> <code>regular</code> <code>bold</code> <code>fill</code> <code>duotone</code></td></tr><tr><td><code>mirrored</code></td><td>Flips the icon for right-to-left layouts</td></tr></table><p>Any other SVG attribute, such as <code>aria-label</code> or <code>className</code>, passes through to the <code>&lt;svg&gt;</code>. Every icon is also exported with an <code>Icon</code> suffix (<code>HouseIcon</code>) and as a deep import (<code>@icon-monks/react/icons/House</code>).</p>'],
     ],
-    faq: [['Does it work with Next.js and server components?', 'Yes. Icons are plain SVG components with no browser-only code, so they render on the server, in static exports and in client components.'],
+    faq: [['Does it work with Next.js and server components?', 'Yes. They render to plain SVG on the server, in static exports and in client components. From version 0.4.3 they also work as React Server Components in the App Router; see the Next.js guide.'],
       ['Will importing one icon bundle all of them?', 'No. Each icon is its own ES module, so bundlers such as Vite, webpack and Next.js include only the icons you import.'],
       ['Is it typed?', 'Yes. The package ships TypeScript declarations for every component and prop.']] },
   { path: 'vue-icons/', short: 'Vue icons', pkg: '@icon-monks/vue', lang: 'TypeScript', install: 'npm i @icon-monks/vue',
@@ -589,6 +619,44 @@ footer{border-top:1px solid var(--rule);padding-block:32px 40px;color:var(--mute
 @media (max-width:720px){.foot{grid-template-columns:repeat(2,minmax(0,1fr))}.foot>div:first-child{grid-column:1/-1}}
 `;
 
+// What a name suffix means when an icon is a variant of another ({b} is the base icon's name).
+const MODIFIERS = {
+  slash: 'the crossed-out version of the {b} icon, for when it is off, blocked or unavailable',
+  plus: 'the {b} icon with a plus badge, for adding or creating',
+  minus: 'the {b} icon with a minus badge, for removing',
+  x: 'the {b} icon with an x badge, for cancelling, closing or deleting',
+  check: 'the {b} icon with a check badge, for done, approved or verified',
+  warning: 'the {b} icon with a warning badge, for something that needs attention',
+  question: 'the {b} icon with a question badge, for help or an unknown state',
+  gear: 'the {b} icon with a gear badge, for settings and preferences',
+  lock: 'the {b} icon with a lock badge, for private or protected items',
+  'lock-open': 'the {b} icon with an open lock, for unlocked or shared items',
+  heart: 'the {b} icon with a heart, for favorites and saved items',
+  star: 'the {b} icon with a star, for featured or rated items',
+  sparkle: 'the {b} icon with a sparkle, for new, AI or magic features',
+  'magnifying-glass': 'the {b} icon with a magnifying glass, for search and inspection',
+  share: 'the {b} icon with a share arrow, for sending or sharing',
+  pencil: 'the {b} icon with a pencil, for editing',
+  lightning: 'the {b} icon with a lightning bolt, for quick actions and power',
+  clock: 'the {b} icon with a clock, for scheduled or pending items',
+  shield: 'the {b} icon with a shield, for security and protection',
+  user: 'the {b} icon with a person, for ownership and accounts',
+  pause: 'the {b} icon with a pause badge, for paused or on-hold states',
+  'push-pin': 'the {b} icon with a pin, for pinned items',
+  code: 'the {b} icon with code brackets, for developer features',
+  'arrow-up': 'the {b} icon with an up arrow, for uploading or increasing',
+  'arrow-down': 'the {b} icon with a down arrow, for downloading or decreasing',
+  circle: 'the {b} icon set inside a circle, for buttons and badges',
+  square: 'the {b} icon set inside a square, for app-style tiles',
+  dashed: 'a dashed outline of the {b} icon, for drafts, placeholders and drop zones',
+  half: 'the {b} icon half filled, for partial states and ratings',
+  open: 'the open version of the {b} icon',
+  simple: 'a simplified version of the {b} icon, for small sizes',
+  discount: 'the {b} icon with a discount badge, for sales and offers',
+  scan: 'the {b} icon in scan corners, for scanning and recognition',
+  'currency-dollar': 'the {b} icon with a dollar sign, for prices and payments',
+};
+
 // How-to articles. `published` is the first release date; dateModified follows each release.
 const GUIDES = [
   { path: 'guides/use-icons-in-figma/', short: 'Icons in Figma', published: '2026-10-28', icons: ['figma-logo', 'copy', 'download', 'palette'],
@@ -680,5 +748,94 @@ const GUIDES = [
       ['What is the default weight?', 'Regular, with a 16-unit stroke on the 256-unit grid, tuned for 24 px icons.'],
       ['Which weights does the icon font include?', 'Thin, light, regular, bold and fill. Duotone needs two colors, so it is only in the SVG, React, Vue, web component and native packages.'],
       ['Can I switch weight in code?', 'Yes. Pass weight="bold" in React, Vue and the web component, IconMonks.bold.heart in Flutter, weight: .bold in SwiftUI and IconMonks.Bold.Heart in Compose.'],
+    ] },
+  { path: 'guides/nextjs-icons/', short: 'Next.js', published: '2026-10-29', icons: ['nextjs-logo', 'react-logo', 'code', 'lightning'],
+    title: 'How to Use Icons in Next.js (App Router) | Icon Monks',
+    description: 'Add Icon Monks icons to a Next.js app: install the React package, use icons in Server and Client Components, set defaults, and keep the bundle small.',
+    h1: 'How to use icons in Next.js',
+    lede: 'Install @icon-monks/react and import icons by name. From version 0.4.3 the icons work as React Server Components, so you can use them in App Router pages and layouts. They render to plain SVG in the server HTML with no client JavaScript, and only the icons you import are bundled.',
+    steps: [
+      ['Install the package', 'Run npm install @icon-monks/react (or the pnpm, yarn or bun equivalent) in your Next.js project.'],
+      ['Import an icon', 'Import icons by name, for example import { House } from \'@icon-monks/react\', in any page, layout or component.'],
+      ['Render it', 'Use it like any component: <House size={24} />. Set weight, size and color with props.'],
+      ['Label meaningful icons', 'Add aria-label to icons that carry meaning on their own and aria-hidden="true" to icons next to text.'],
+    ],
+    sections: () => [
+      ['Server Components and the App Router', code(`// app/page.tsx (a Server Component)\nimport { House, Gear } from '@icon-monks/react';\n\nexport default function Page() {\n  return (\n    <nav>\n      <a href="/"><House aria-hidden="true" /> Home</a>\n      <a href="/settings"><Gear aria-hidden="true" /> Settings</a>\n    </nav>\n  );\n}`)
+        + '<p>From version 0.4.3 the icons need no <code>\'use client\'</code>: a Server Component renders them straight to SVG in the first HTML and sends no JavaScript for them. On version 0.4.2 and earlier, import them from a file that starts with <code>\'use client\'</code> instead.</p>'],
+      ['Set defaults with IconContext', code(`// app/icon-defaults.tsx\n'use client';\nimport { IconContext } from '@icon-monks/react';\n\nexport function IconDefaults({ children }) {\n  return <IconContext.Provider value={{ size: 20, weight: 'bold' }}>{children}</IconContext.Provider>;\n}\n\n// app/layout.tsx: wrap {children} in <IconDefaults>`)
+        + '<p>A context provider has to live in a client component, so put it in its own small file. Server Components cannot read context, so the defaults apply to icons rendered inside client components; pass props to icons in Server Components.</p>'],
+      ['Keep the bundle small', '<p>Each icon is its own ES module and the package declares <code>sideEffects: false</code>, so Next.js only bundles the icons you import. Icons used only in Server Components add nothing to the browser bundle; in client components each costs about 1 KB. Deep imports such as <code>@icon-monks/react/icons/House</code> work too.</p>'],
+      ['Pages Router, static export and Vercel', '<p>Nothing changes in the Pages Router: import and render icons as usual. Static export (<code>output: \'export\'</code>) and deploys to Vercel or any Node host work the same way, because the icons render to plain SVG.</p>'],
+    ],
+    faq: [
+      ['Do Icon Monks icons work in React Server Components?', 'Yes, from version 0.4.3. Import them in a Server Component and they render to SVG in the server HTML with no client JavaScript.'],
+      ['Why do I get a createContext error in Next.js?', 'You are on @icon-monks/react 0.4.2 or earlier. Update to 0.4.3 or later, or import the icons from a file that starts with \'use client\'.'],
+      ['Can I use the icon font in Next.js instead?', 'Yes. Import @icon-monks/font once in your root layout, then give any i or span element the classes im im-house. It is one color only, so use the React package if you need duotone.'],
+    ] },
+  { path: 'guides/accessible-icons/', short: 'Accessible icons', published: '2026-10-29', icons: ['accessibility', 'ear', 'eye', 'hand-pointing'],
+    title: 'How to Make Icons Accessible (aria-label, aria-hidden)',
+    description: 'When to hide icons with aria-hidden, when to label them with aria-label, and the contrast and size rules to follow, with code for web, iOS and Android.',
+    h1: 'How to make icons accessible',
+    lede: 'Decide what each icon is for. An icon next to a visible text label is decorative, so hide it from screen readers with aria-hidden="true". An icon that stands alone, like a close or search button, carries meaning, so give it a text label with aria-label. Then make sure it has enough contrast and a big enough tap target.',
+    sections: () => [
+      ['Decorative or meaningful?', '<table><tr><th>Situation</th><th>What to do</th><th>React example</th></tr>'
+        + '<tr><td>Icon next to text ("Settings")</td><td>Hide it</td><td><code>&lt;Gear aria-hidden="true" /&gt;</code></td></tr>'
+        + '<tr><td>Icon-only button</td><td>Label the button</td><td><code>&lt;button aria-label="Close"&gt;&lt;X aria-hidden="true" /&gt;&lt;/button&gt;</code></td></tr>'
+        + '<tr><td>Icon that conveys status on its own</td><td>Label the icon</td><td><code>&lt;Warning role="img" aria-label="Error" /&gt;</code></td></tr>'
+        + '<tr><td>Purely visual flourish</td><td>Hide it</td><td><code>aria-hidden="true"</code></td></tr></table>'],
+      ['React, Vue and inline SVG', code(`// React or Vue: any SVG attribute passes through\n<button aria-label="Search">\n  <MagnifyingGlass aria-hidden="true" />\n</button>\n\n<!-- inline SVG with its own name -->\n<svg role="img" aria-label="Verified" viewBox="0 0 256 256">…</svg>`)
+        + '<p>Icon Monks components do not hide themselves by default, so add <code>aria-hidden="true"</code> to decorative icons. The <code>toSvg()</code> helper in <code>@icon-monks/core</code> also takes a <code>title</code> option that adds a <code>&lt;title&gt;</code> element.</p>'],
+      ['Web component and icon font', code(`<!-- hidden from screen readers unless you add a label -->\n<icon-monks name="heart"></icon-monks>\n<icon-monks name="heart" label="Favorite"></icon-monks>\n\n<!-- icon font: hide the glyph, label the control -->\n<button aria-label="Delete"><i class="im im-trash" aria-hidden="true"></i></button>`)
+        + '<p>The <code>&lt;icon-monks&gt;</code> element sets <code>aria-hidden</code> for you and switches to <code>role="img"</code> with an <code>aria-label</code> when you pass <code>label</code>. Icon font glyphs are private-use characters that screen readers may read as noise, so always hide them.</p>'],
+      ['Flutter, SwiftUI and Jetpack Compose', code(`// Flutter\nIcon(IconMonks.heart, semanticLabel: 'Favorite')\n\n// SwiftUI\nIconMonkImage(.heart).accessibilityLabel("Favorite")\n\n// Jetpack Compose (null for decorative icons)\nIcon(IconMonks.Regular.Heart, contentDescription = "Favorite")`)],
+      ['Contrast and size', '<p>WCAG 2.2 asks for a 3:1 contrast ratio between an icon that carries meaning and its background, and a target of at least 24 by 24 CSS pixels for anything you click or tap. Use the bold weight at 16 px and below so strokes stay visible, and never rely on color alone: pair a red icon with a shape change, such as <a href="../../icon/warning/">warning</a> instead of a plain circle.</p>'],
+    ],
+    faq: [
+      ['Should icons have alt text?', 'Only when they carry meaning on their own. A decorative icon next to text should be hidden with aria-hidden="true", because repeating the label makes screen readers say it twice.'],
+      ['Is aria-label or a title element better for SVG icons?', 'Use aria-label on the button or link around the icon. It is read consistently by all major screen readers, while support for the SVG title element varies.'],
+      ['Do icon fonts hurt accessibility?', 'Not if you hide the glyph with aria-hidden="true" and give the control a text label. Problems come from unlabelled icon-only buttons, which affect SVG icons just as much.'],
+    ] },
+  { path: 'guides/tailwind-css-icons/', short: 'Tailwind CSS', published: '2026-10-29', icons: ['tailwind-css-logo', 'palette', 'arrows-out', 'code'],
+    title: 'How to Use Icons with Tailwind CSS | Icon Monks',
+    description: 'Style icons with Tailwind CSS: size with size-6, color with text-*, plus hover and dark mode, in React, Vue, plain HTML and the Icon Monks icon font.',
+    h1: 'How to use icons with Tailwind CSS',
+    lede: 'Icon Monks icons draw in currentColor and accept a className, so Tailwind utilities style them like text. Use size-* or w-* h-* for size and text-* for color, and every Tailwind state, including hover:, group-hover: and dark:, just works.',
+    sections: () => [
+      ['React and Vue', code(`// React\n<Heart className="size-6 text-rose-600 hover:text-rose-700 dark:text-rose-400" weight="fill" />\n\n<!-- Vue -->\n<Heart class="size-6 text-rose-600" weight="fill" />`)
+        + '<p>Class sizes win over the default <code>1em</code> size, because CSS outranks the SVG width and height attributes. Leave out the <code>color</code> prop so the <code>text-*</code> class decides the color.</p>'],
+      ['Plain HTML and the web component', code(`<!-- web component: size and color follow the element's font size and text color -->\n<icon-monks name="heart" class="text-2xl text-rose-600"></icon-monks>\n\n<!-- icon font -->\n<i class="im im-heart text-2xl text-rose-600"></i>`)
+        + '<p>Without a <code>size</code> attribute the web component is <code>1em</code> tall, so <code>text-xl</code>, <code>text-2xl</code> and so on set its size, just like the <a href="../../icon-font/">icon font</a>.</p>'],
+      ['Icons inside buttons', code(`<button class="group inline-flex items-center gap-2 rounded-lg px-4 py-2 text-slate-700 hover:bg-slate-100">\n  <Gear aria-hidden="true" className="size-5 text-slate-500 group-hover:text-slate-900" />\n  Settings\n</button>`)
+        + '<p>Use <code>gap-*</code> on a flex parent for the space between icon and label, and <code>group-hover:</code> to change the icon color when the whole button is hovered. Match the icon size to the text: <code>size-4</code> with <code>text-sm</code>, <code>size-5</code> with <code>text-base</code>.</p>'],
+      ['Duotone with Tailwind', '<p>The duotone weight paints its tint at 20% opacity of the same color, so a single <code>text-*</code> class colors both layers. No extra classes are needed.</p>'],
+    ],
+    faq: [
+      ['Do I need a Tailwind plugin for Icon Monks?', 'No. The icons use currentColor and accept a class, so the utilities you already have are enough.'],
+      ['Why is my icon the wrong size with Tailwind?', 'Check that you are not also passing a size prop or attribute that a later style overrides, and that the icon is not inside a flex row that shrinks it. Add shrink-0 if it does.'],
+      ['Can I use Icon Monks with Tailwind in Next.js or Nuxt?', 'Yes. Install the React or Vue package and add classes as shown above. See the Next.js guide for Server Component setup.'],
+    ] },
+  { path: 'guides/choose-icon-library/', short: 'Choosing a library', published: '2026-10-29', icons: ['list-checks', 'scales', 'stack', 'device-mobile'],
+    title: 'How to Choose an Open Source Icon Library | Icon Monks',
+    description: 'A checklist for choosing a free icon library: license, coverage, weights, platform packages, bundle size and upkeep, with honest notes on Icon Monks.',
+    h1: 'How to choose an open source icon library',
+    lede: 'Pick the library whose license, coverage and packages fit your product, then stick to it. The questions that matter most are: can you use it commercially, does it have the icons you need in one consistent style, does it ship native packages for every platform you build on, and is it still maintained.',
+    sections: () => [
+      ['The checklist', '<table><tr><th>Question</th><th>Why it matters</th><th>Icon Monks</th></tr>'
+        + '<tr><td>Is the license permissive?</td><td>MIT, ISC or Apache 2.0 let you ship commercially without credit</td><td>MIT</td></tr>'
+        + '<tr><td>Does it cover your product?</td><td>Mixing sets to fill gaps breaks visual consistency</td><td>6,054 icons in 31 categories, including brands and emoji</td></tr>'
+        + '<tr><td>How many weights?</td><td>Fill and outline pairs show state; bold helps at small sizes</td><td>Six: thin, light, regular, bold, fill, duotone</td></tr>'
+        + '<tr><td>Native packages?</td><td>Same names on web, iOS and Android speed up handoff</td><td>React, Vue, web component, icon font, SVG, Flutter, SwiftUI, Jetpack Compose</td></tr>'
+        + '<tr><td>Is it tree-shakeable?</td><td>Only the icons you use should reach users</td><td>Yes, one module per icon</td></tr>'
+        + '<tr><td>Is it consistent?</td><td>One grid and stroke system makes icons look like a set</td><td>One path per icon on a 256-unit grid, linted on every build</td></tr>'
+        + '<tr><td>Is it maintained?</td><td>Frameworks change; you want fixes and new icons</td><td>Regular releases on GitHub, npm and pub.dev</td></tr></table>'],
+      ['Match the library to your stack', '<p>For React, Vue or Next.js, choose a library with typed components and per-icon modules. For Flutter, SwiftUI or Jetpack Compose, look for a real native package rather than raw SVG files, so icons tint and scale like system icons. For plain HTML or WordPress, an icon font or web component saves a build step. Icon Monks covers all of these with one set of names.</p>'],
+      ['Where Icon Monks is not the best fit', '<p>There is no React Native package yet. You can render the SVG strings from <code>toSvg()</code> in <code>@icon-monks/core</code> with react-native-svg in the meantime. There is also no Figma plugin yet; copy SVG from the <a href="../../">icon browser</a> instead. If you need hand-drawn or 3D styles, a different set will suit you better.</p>'],
+      ['Test before you commit', '<p>List the 30 icons your product needs most, search for each one, and put them side by side at your real size, usually 20 or 24 px. Gaps and inconsistencies show up in minutes. Then check the license file in the repository, not just the website.</p>'],
+    ],
+    faq: [
+      ['What is the best free icon library for React?', 'One with typed, tree-shakeable components, a permissive license and the icons your product needs. Icon Monks fits that with 6,054 icons in six weights under MIT, but test your own list of 30 icons before choosing.'],
+      ['What is the best free icon library for Flutter?', 'Pick one that ships IconData constants backed by fonts, so icons work with the standard Icon widget and IconTheme. The icon_monks package on pub.dev does this in five weights.'],
+      ['Can I mix icons from two libraries?', 'You can, but differences in grid, stroke width and corner radius show. If you must, use one library for each kind of icon, for example brand logos from one set and interface icons from another.'],
     ] },
 ];
