@@ -5,7 +5,7 @@
 
 ![Icon Monks](https://www.iconmonks.co/og-image.png)
 
-Framework-free Icon Monks: 6,054 icons in 6 weights (thin, light, regular, bold, fill, duotone) as SVG files, SVG sprites and path data, for any framework or build tool. A product of [Design Monks](https://monks.company/). Browse and search every icon at
+Framework-free Icon Monks: 6,054 icons in 6 weights (thin, light, regular, bold, fill, duotone) as SVG files, SVG sprites and path data, for any framework or build tool. A product of [Design Monks](https://www.designmonks.co). Browse and search every icon at
 **[iconmonks.co](https://www.iconmonks.co/)**.
 
 ## Install
@@ -41,4 +41,4 @@ every icon), `weights` and the raw `paths`. Names and weights are typed in TypeS
 - [All platforms and source code](https://github.com/designmonks-llc/icon-monks)
 - [Request an icon or report a bug](https://github.com/designmonks-llc/icon-monks/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).

@@ -6,7 +6,7 @@
 
 ![Icon Monks](https://www.iconmonks.co/og-image.png)
 
-6,054 icons for SwiftUI and UIKit in six weights, including duotone, as a Swift package. Vector assets that stay sharp at any size and take the tint color, just like SF Symbols. A product of [Design Monks](https://monks.company/). Browse and search every icon at
+6,054 icons for SwiftUI and UIKit in six weights, including duotone, as a Swift package. Vector assets that stay sharp at any size and take the tint color, just like SF Symbols. A product of [Design Monks](https://www.designmonks.co). Browse and search every icon at
 **[iconmonks.co](https://www.iconmonks.co/)**.
 
 ## Install
@@ -63,4 +63,4 @@ they are camelCase, so `arrow-right` is `IconMonk.arrowRight`. `IconMonk.allCase
 - [All platforms and source code](https://github.com/designmonks-llc/icon-monks)
 - [Request an icon or report a bug](https://github.com/designmonks-llc/icon-monks/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).

@@ -371,7 +371,7 @@ SOFTWARE.</code></pre>`,
   <section id="who">
   <h2>Who makes Icon Monks</h2>
   <p>Icon Monks is designed and maintained by ${STUDIO_LINK}${ABOUT.foundingDate ? `, a product design studio working since ${esc(ABOUT.foundingDate)}` : ', a product design studio'}${ABOUT.location ? ` based in ${esc(ABOUT.location)}` : ''}. ${founder.name ? `The studio was founded by ${esc(founder.name)}${founder.jobTitle ? ` (${esc(founder.jobTitle)})` : ''}, who leads the project.` : ''}</p>
-  <p>Design Monks draws these icons for the websites, web apps and mobile apps it designs, and releases the same set for anyone to use.</p>
+  <p>${STUDIO_LINK} draws these icons for the websites, web apps and mobile apps it designs, and releases the same set for anyone to use.</p>
   </section>
   <h2>How the icons are drawn</h2>
   <p>Every icon starts as one source drawing on a 256-unit grid. The build turns it into six weights with 8, 12, 16 and 24-unit outline strokes plus fill and duotone, then generates every package from the same files, so an icon looks the same in React, Flutter, SwiftUI and Compose. Each icon is a single clean path with no strokes left in the file, tuned to stay sharp at 16 and 24 px. The rules are written up in the <a href="${REPO}/blob/main/STYLE.md">style guide</a>.</p>

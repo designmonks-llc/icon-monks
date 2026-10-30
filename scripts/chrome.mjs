@@ -12,7 +12,7 @@ export const icon = (byName, name, size = 18, weight = 'regular') =>
   `<svg class="ui-i" viewBox="0 0 256 256" width="${size}" height="${size}" fill="currentColor" aria-hidden="true"><path d="${pick(byName, name, weight)}"/></svg>`;
 
 // Icon Monks is a product of Design Monks; every page credits the studio in its footer.
-export const STUDIO = { name: 'Design Monks', url: 'https://monks.company/' };
+export const STUDIO = { name: 'Design Monks', url: 'https://www.designmonks.co' };
 export const STUDIO_LINK = `<a href="${STUDIO.url}" target="_blank" rel="noopener">${STUDIO.name}</a>`;
 // Who is behind Icon Monks, for the About page, footers and structured data. Leave a field empty to keep it off the site.
 export const ABOUT = {

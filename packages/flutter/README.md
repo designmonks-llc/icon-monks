@@ -8,7 +8,7 @@
 
 6,054 open source icons for Flutter in five weights: thin, light, regular, bold and fill. Every icon is drawn on
 the same 256-unit grid, so they line up with each other and with your text. A product of
-[Design Monks](https://monks.company/).
+[Design Monks](https://www.designmonks.co).
 
 - **One `IconData` per icon and weight**, ready for `Icon`, `IconButton`, `NavigationBar` and anything else that takes an icon.
 - **Works on every platform** Flutter supports: Android, iOS, web, macOS, Windows and Linux.
@@ -68,4 +68,4 @@ Names on the site are kebab-case; in Dart they are camelCase. `arrow-right` beco
 - [Source code](https://github.com/designmonks-llc/icon-monks)
 - [Request an icon or report a bug](https://github.com/designmonks-llc/icon-monks/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).
