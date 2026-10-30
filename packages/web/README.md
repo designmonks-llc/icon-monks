@@ -5,7 +5,7 @@
 
 ![Icon Monks](https://www.iconmonks.co/og-image.png)
 
-A dependency-free `<icon-monks>` custom element with 6,054 icons in six weights. Works in plain HTML, Angular, Svelte, Astro, WordPress or anything else that renders HTML. A product of [Design Monks](https://monks.company/). Browse and search every icon at
+A dependency-free `<icon-monks>` custom element with 6,054 icons in six weights. Works in plain HTML, Angular, Svelte, Astro, WordPress or anything else that renders HTML. A product of [Design Monks](https://www.designmonks.co). Browse and search every icon at
 **[iconmonks.co](https://www.iconmonks.co/)**.
 
 ## Install
@@ -62,4 +62,4 @@ jsDelivr copy of this version as the fallback.
 - [All platforms and source code](https://github.com/designmonks-llc/icon-monks)
 - [Request an icon or report a bug](https://github.com/designmonks-llc/icon-monks/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).

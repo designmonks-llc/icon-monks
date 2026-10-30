@@ -67,7 +67,7 @@ def readme_head(title, badge, intro):
 
 ![Icon Monks]({SITE}og-image.png)
 
-{intro} A product of [Design Monks](https://monks.company/). Browse and search every icon at
+{intro} A product of [Design Monks](https://www.designmonks.co). Browse and search every icon at
 **[iconmonks.co]({SITE})**.
 """
 
@@ -83,7 +83,7 @@ README_FOOT = f"""
 - [All platforms and source code]({REPO})
 - [Request an icon or report a bug]({REPO}/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).
 """
 
 
@@ -111,7 +111,7 @@ def codepoints():
 def npm_package(path, name, description, extra):
     pkg = {
         'name': name, 'version': VERSION, 'description': description, 'license': 'MIT',
-        'author': 'Design Monks (https://monks.company/)', 'homepage': 'https://www.iconmonks.co/',
+        'author': 'Design Monks (https://www.designmonks.co)', 'homepage': 'https://www.iconmonks.co/',
         'repository': {'type': 'git', 'url': 'git+https://github.com/designmonks-llc/icon-monks.git'},
         'keywords': ['icons', 'icon', 'icon-library', 'svg', 'svg-icons', 'open-source-icons', 'icon-set', 'react-icons', 'vue-icons', 'web-components', 'icon-font', 'icon-monks'],
     }
@@ -810,7 +810,7 @@ class IconMonks {{
 
 %s open source icons for Flutter in five weights: thin, light, regular, bold and fill. Every icon is drawn on
 the same 256-unit grid, so they line up with each other and with your text. A product of
-[Design Monks](https://monks.company/).
+[Design Monks](https://www.designmonks.co).
 
 - **One `IconData` per icon and weight**, ready for `Icon`, `IconButton`, `NavigationBar` and anything else that takes an icon.
 - **Works on every platform** Flutter supports: Android, iOS, web, macOS, Windows and Linux.
@@ -870,7 +870,7 @@ Names on the site are kebab-case; in Dart they are camelCase. `arrow-right` beco
 - [Source code](https://github.com/designmonks-llc/icon-monks)
 - [Request an icon or report a bug](https://github.com/designmonks-llc/icon-monks/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).
 """ % f'{len(ICONS):,}')
     write(os.path.join(path, 'CHANGELOG.md'), CHANGELOG)
 

@@ -5,7 +5,7 @@
 
 ![Icon Monks](https://www.iconmonks.co/og-image.png)
 
-Icon Monks as a web font: 6,054 icons in five weights (thin, light, regular, bold, fill) as OTF and WOFF2, with ready-made CSS classes. A product of [Design Monks](https://monks.company/). Browse and search every icon at
+Icon Monks as a web font: 6,054 icons in five weights (thin, light, regular, bold, fill) as OTF and WOFF2, with ready-made CSS classes. A product of [Design Monks](https://www.designmonks.co). Browse and search every icon at
 **[iconmonks.co](https://www.iconmonks.co/)**.
 
 ## Install
@@ -42,4 +42,4 @@ Icons size and color with the surrounding text, so `font-size` and `color` style
 - [All platforms and source code](https://github.com/designmonks-llc/icon-monks)
 - [Request an icon or report a bug](https://github.com/designmonks-llc/icon-monks/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).

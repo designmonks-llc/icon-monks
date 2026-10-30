@@ -5,7 +5,7 @@
 
 ![Icon Monks](https://www.iconmonks.co/og-image.png)
 
-6,054 icons for Android in six weights, as Jetpack Compose `ImageVector`s and classic XML `VectorDrawable`s, both in one library. A product of [Design Monks](https://monks.company/). Browse and search every icon at
+6,054 icons for Android in six weights, as Jetpack Compose `ImageVector`s and classic XML `VectorDrawable`s, both in one library. A product of [Design Monks](https://www.designmonks.co). Browse and search every icon at
 **[iconmonks.co](https://www.iconmonks.co/)**.
 
 ## Install
@@ -60,4 +60,4 @@ are snake_case with the `im_` prefix (`im_arrow_right`).
 - [All platforms and source code](https://github.com/designmonks-llc/icon-monks)
 - [Request an icon or report a bug](https://github.com/designmonks-llc/icon-monks/issues)
 
-MIT licensed. A product of [Design Monks](https://monks.company/).
+MIT licensed. A product of [Design Monks](https://www.designmonks.co).
