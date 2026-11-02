@@ -39,6 +39,8 @@ export const orgLd = (SITE) => ({
   '@type': 'Organization', '@id': `${SITE}#org`, name: STUDIO.name, url: STUDIO.url, logo: `${SITE}icon-512.png`,
   sameAs: ['https://github.com/designmonks-llc', ...ABOUT.studioSameAs],
   founder: { '@id': `${SITE}about/#founder` },
+  // Icon Monks is the studio's product brand; its profiles tie the brand to Design Monks for search and AI engines.
+  brand: { '@type': 'Brand', name: 'Icon Monks', url: SITE, logo: `${SITE}icon-512.png`, sameAs: PRODUCT_SAME_AS },
   ...(ABOUT.foundingDate && { foundingDate: ABOUT.foundingDate }),
   ...(ABOUT.address && { address: { '@type': 'PostalAddress', ...ABOUT.address } }),
   ...(ABOUT.email && { email: ABOUT.email, contactPoint: { '@type': 'ContactPoint', contactType: 'customer support', email: ABOUT.email } }),

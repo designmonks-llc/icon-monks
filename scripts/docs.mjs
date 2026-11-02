@@ -4,7 +4,7 @@
 //   data/<weight>/<n>.json  path data per weight in shards, fetched by the page (publish next to the artifact)
 //   sitemap.xml, robots.txt, site.webmanifest for search engines (brand images come from scripts/brand.cjs)
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
-import { buildPages } from './pages.mjs';
+import { buildPages, fingerprint } from './pages.mjs';
 import { header, icon, HEADER_CSS, HEADER_JS, HEADER_THEME, STUDIO, STUDIO_LINK, CREDIT, ABOUT, PRODUCT_SAME_AS, orgLd, founderLd } from './chrome.mjs';
 
 const root = new URL('..', import.meta.url);
@@ -36,6 +36,10 @@ const count = '70,000+';
 // The real numbers, for the FAQ, llms.txt and structured data, so search and AI engines can check them.
 const unique = data.icons.length.toLocaleString('en-US');
 const files = (data.icons.length * data.weights.length).toLocaleString('en-US');
+// What the 70,000+ headline counts: every icon file you can drop into a project, i.e. the SVGs plus the same set
+// again as Android vector drawables (the Swift, font and Flutter versions come on top).
+const assets = (2 * data.icons.length * data.weights.length).toLocaleString('en-US');
+const COUNT_NOTE = `The ${count} figure counts ready-to-use icon files: ${unique} icons in six weights make ${files} SVGs, and the same ${files} ship again as native Android vector drawables, ${assets} files in all before the SwiftUI, icon font and Flutter versions.`;
 const cats = [...new Set(data.icons.map((i) => i.category))];
 const esc = (t) => t.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 
@@ -65,7 +69,7 @@ const FAQ = [
   ['Is Icon Monks free for commercial projects?',
     'Yes. Every icon is released under the MIT license, so you can use it in personal, client and commercial work, modify it and ship it in paid products. No credit is needed in your interface; keep the license file if you redistribute the source.'],
   ['How many icons are in Icon Monks?',
-    `Icon Monks has ${unique} unique icons in ${cats.length} categories. Each one is drawn in six weights (thin, light, regular, bold, fill and duotone), which makes ${files} SVG files, and every icon also ships in the React, Vue, web component, font, Flutter, SwiftUI and Android packages.`],
+    `Icon Monks has ${unique} unique icons in ${cats.length} categories. Each one is drawn in six weights (thin, light, regular, bold, fill and duotone), which makes ${files} SVG files, and every icon also ships in the React, Vue, web component, font, Flutter, SwiftUI and Android packages. ${COUNT_NOTE}`],
   ['Which frameworks and platforms does it support?',
     'There are packages for React, Vue 3, Web Components (plain HTML, Angular, Svelte, Astro, WordPress), an icon font, Flutter, Android (Jetpack Compose and VectorDrawable) and Apple platforms through a Swift package for SwiftUI and UIKit. Raw SVG files work everywhere else.'],
   ['What are the six weights?',
@@ -81,6 +85,11 @@ const FAQ = [
   ['How do I request or contribute an icon?',
     `Open an issue on <a href="${REPO}/issues">GitHub</a> to request one. To contribute, draw a source SVG on the 256 unit grid; the build generates every weight and package from it.`],
 ];
+// Icons linked from the homepage as plain links, so crawlers reach icon pages without running the icon browser.
+const HOME_POPULAR = ['house', 'magnifying-glass', 'gear', 'user', 'bell', 'heart', 'star', 'envelope', 'shopping-cart', 'calendar', 'trash',
+  'plus', 'x', 'check', 'arrow-right', 'arrow-left', 'download', 'upload', 'lock', 'camera', 'phone', 'chat-circle', 'share-network', 'pencil', 'eye',
+  'map-pin', 'clock', 'folder', 'file', 'image', 'play', 'pause', 'sun', 'moon', 'cloud', 'wifi-high', 'battery-full', 'globe', 'link',
+  'credit-card', 'wallet', 'chart-bar', 'list', 'squares-four', 'sign-out', 'info', 'warning', 'question', 'sparkle', 'robot'];
 const faqHtml = FAQ.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${a}</p></details>`).join('\n    ');
 
 // Shared chrome and inline UI icons: <!--__HEADER_THEME__-->, __HEADER__, /*__HEADER_CSS__*/, <!--__HEADER_JS__-->, __STUDIO__, __CREDIT__ and __ICON:name:size[:weight]__.
@@ -96,16 +105,24 @@ const chrome = (html, opts = {}) => html
     if (!byName[n]) throw new Error(`unknown UI icon: ${n}`);
     return icon(byName, n, +size, w || 'regular');
   });
-const page = chrome(readFileSync(new URL('docs/template.html', root), 'utf8'), { current: 'icons' }).replace('/*__ICONS__*/null', JSON.stringify(meta))
+const page = chrome(readFileSync(new URL('docs/template.html', root), 'utf8'), { current: 'icons' })
   .replace('<b id="stat-icons">0</b>', `<b id="stat-icons">${count}</b>`)
   .replace('<b id="stat-cats">0</b>', `<b id="stat-cats">${cats.length}</b>`)
   .replaceAll('__COUNT__', count)
   .replaceAll('__UNIQUE__', unique)
   .replace('<!--__WEIGHTS__-->', weightsHtml)
   .replace('<!--__CATEGORIES__-->', catsHtml)
+  .replace('<!--__TOPICS__-->', pages.topics.slice(0, 30).map((t) => `<li><a href="topics/${t.slug}/">${esc(t.name)} icons <span>${t.members.length}</span></a></li>`).join('\n    '))
+  .replace('<!--__POPULAR__-->', HOME_POPULAR.filter((n) => byName[n]).map((n) => `<li><a href="icon/${n}/">${esc(n.replace(/-/g, ' '))}</a></li>`).join('\n    '))
   .replace('<!--__FAQ__-->', faqHtml);
 
-const split = page.indexOf('</style>') + '</style>'.length;
+// The site loads the icon list (names, categories, tags) as data/meta.json so the HTML stays small and the list is
+// cached between visits; the claude.ai artifact keeps it inline because it is a single page.
+writeFileSync(new URL('data/meta.json', root), JSON.stringify(meta.icons));
+const { icons: _, ...small } = meta;
+const artifactPage = page.replace('/*__ICONS__*/null', () => JSON.stringify(meta));
+const sitePage = page.replace('/*__ICONS__*/null', () => `{ ...${JSON.stringify(small)}, icons: await fetch('data/meta.json').then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }) }`);
+const split = sitePage.indexOf('</style>') + '</style>'.length;
 const title = `Icon Monks: ${count} Free Icons for Websites & Apps`;
 const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
 const ld = {
@@ -156,6 +173,7 @@ const head = `<title>${esc(title)}</title>
 <meta name="theme-color" content="#11132a" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="data/meta.json" as="fetch" crossorigin>
 <script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`;
 const noscript = `<noscript><p class="wrap">Icon Monks has ${count} icons in ${cats.length} categories: ${cats.join(', ')}. The icon browser needs JavaScript; every icon is also on <a href="https://github.com/designmonks-llc/icon-monks/tree/main/svg">GitHub as SVG</a>.</p></noscript>`;
 const full = `<!doctype html>
@@ -164,19 +182,14 @@ const full = `<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 ${head}
-${page.slice(0, split).replace(/<title>[^<]*<\/title>\n?/, '')}
+${sitePage.slice(0, split).replace(/<title>[^<]*<\/title>\n?/, '')}
 </head>
 <body>
 ${noscript}
-${page.slice(split)}
+${sitePage.slice(split)}
 </body>
 </html>
 `;
-writeFileSync(new URL('sitemap.xml', root), `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${[SITE, `${SITE}showcase/`, ...pages.urls].map((u) => `  <url><loc>${u}</loc><lastmod>${released}</lastmod></url>`).join('\n')}
-</urlset>
-`);
 writeFileSync(new URL('robots.txt', root), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
 // llms.txt: a plain summary for AI assistants and answer engines (https://llmstxt.org)
 writeFileSync(new URL('llms.txt', root), `# Icon Monks
@@ -189,6 +202,7 @@ writeFileSync(new URL('llms.txt', root), `# Icon Monks
 
 - What it is: a free, open source (MIT) icon library made by Design Monks, a product design studio founded by ${ABOUT.founder.name}.
 - Icons: ${unique} unique icons in ${cats.length} categories, each in six weights (${files} SVG files).
+- The "${count}" headline: ${COUNT_NOTE.replace(`The ${count} figure counts`, 'counts')}
 - Grid: every icon is a single path on a 256-unit grid; outline strokes are 8, 12, 16 and 24 units.
 - Current version: ${version}, released ${released}.
 - License: MIT, free for personal and commercial use, no attribution needed in your interface.
@@ -210,6 +224,7 @@ ${ABOUT.email ? `- Contact: ${ABOUT.email}\n` : ''}- About: ${SITE}about/
 ${pages.PLATFORMS.map((p) => `- [${p.short}](${SITE}${p.path}): ${p.blurb.replace(/<([^>]+)>/g, '`<$1>`')}`).join('\n')}
 - [Get started](${SITE}getting-started/)
 - [Categories](${SITE}categories/)
+- [Topics](${SITE}topics/): ${pages.topics.length} themed sets such as ${pages.topics.slice(0, 5).map((t) => t.tag).join(', ')}
 - [License](${SITE}license/)
 - [About Icon Monks](${SITE}about/)
 
@@ -239,9 +254,30 @@ const showcaseLd = { '@context': 'https://schema.org', '@graph': [
     isPartOf: { '@id': `${SITE}#website` }, about: { '@id': `${SITE}#code` }, publisher: { '@id': `${SITE}#org` }, dateModified: released,
     primaryImageOfPage: `${SITE}og/showcase.png` },
   { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Icon Monks', item: SITE }, { '@type': 'ListItem', position: 2, name: 'Showcase', item: `${SITE}showcase/` }] }] };
-writeFileSync(new URL('showcase/index.html', root), showcase
+const showcaseHtml = showcase
   .replace('/*ICONS*/', `const ICONS = ${JSON.stringify(showcaseIcons).replace(/</g, '\\u003c')};`)
   .replace('<!--__LD__-->', `<script type="application/ld+json">${JSON.stringify(showcaseLd).replace(/</g, '\\u003c')}</script>`)
-  .replace('__COUNT__', count));
-writeFileSync(new URL('build/artifact.html', root), page);
+  .replace('__COUNT__', count);
+writeFileSync(new URL('showcase/index.html', root), showcaseHtml);
+// <lastmod> per page: docs/lastmod.json remembers each page's fingerprint and the date it last changed, so a build
+// moves the date only for pages whose content changed (BUILD_DATE overrides today's date for reproducible builds).
+const today = process.env.BUILD_DATE || new Date().toISOString().slice(0, 10);
+const lastmodFile = new URL('docs/lastmod.json', root);
+let seen = {};
+try { seen = JSON.parse(readFileSync(lastmodFile, 'utf8')); } catch {}
+const prints = { ...pages.lastmod, [SITE]: fingerprint(full), [`${SITE}showcase/`]: fingerprint(showcaseHtml) };
+const dates = {};
+for (const [u, fp] of Object.entries(prints)) { const k = u.slice(SITE.length) || '/'; dates[u] = seen[k] && seen[k][0] === fp ? seen[k] : [fp, today]; }
+writeFileSync(lastmodFile, `{\n${Object.keys(dates).sort().map((u) => `${JSON.stringify(u.slice(SITE.length) || '/')}:${JSON.stringify(dates[u])}`).join(',\n')}\n}\n`);
+// Icon pages also list their SVG and social card, so Google Images can find every icon.
+const images = (u) => {
+  const m = u.match(/\/icon\/([a-z0-9-]+)\/$/);
+  return m ? `<image:image><image:loc>${SITE}svg/regular/${m[1]}.svg</image:loc></image:image><image:image><image:loc>${SITE}og/icon/${m[1]}.png</image:loc></image:image>` : '';
+};
+writeFileSync(new URL('sitemap.xml', root), `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+${[SITE, `${SITE}showcase/`, ...pages.urls].map((u) => `  <url><loc>${u}</loc><lastmod>${dates[u][1]}</lastmod>${images(u)}</url>`).join('\n')}
+</urlset>
+`);
+writeFileSync(new URL('build/artifact.html', root), artifactPage);
 console.log(`index.html + build/artifact.html: ${data.icons.length} icons; ${pages.urls.length} static pages`);

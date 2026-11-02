@@ -7,18 +7,22 @@
 // Each page names a social card under og/; scripts/brand.cjs draws them from build/og.json.
 // Pages share site.css and link to the SVG files GitHub Pages serves from svg/.
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { header, HEADER_CSS, HEADER_JS, HEADER_THEME, STUDIO, STUDIO_LINK, CREDIT, ABOUT, PRODUCT_SAME_AS, orgLd, founderLd } from './chrome.mjs';
 
 const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const pascal = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join('');
 const camel = (n) => { const p = pascal(n); return p[0].toLowerCase() + p.slice(1); };
 // Which main-nav link a page sits under: icon pages under Icons, platform guides under Get started.
-const navKey = (path) => path.startsWith('icon/') ? 'icons' : path.startsWith('categories') ? 'categories'
+const navKey = (path) => path.startsWith('icon/') ? 'icons' : path.startsWith('categories') || path.startsWith('topics') ? 'categories'
   : path.startsWith('getting-started') || PLATFORMS.some((p) => p.path === path) ? 'start'
   : path.startsWith('guides') ? 'guides' : path.startsWith('about') ? 'about' : '';
 const slug = (c) => c.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const title = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join(' ');
 const svgFile = (name, w) => `svg/${w}/${name}${w === 'regular' ? '' : '-' + w}.svg`;
+// Page content minus build dates, hashed: equal fingerprints mean nothing a reader sees has changed.
+export const fingerprint = (html) => createHash('sha1').update(html
+  .replace(/<p class="updated">[\s\S]*?<\/p>/g, '').replace(/"date(Modified|Published)":"[^"]*"/g, '')).digest('hex').slice(0, 12);
 const ld = (o) => `<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', ...o }).replace(/</g, '\\u003c')}</script>`;
 
 // '2026-10-28' -> '28 October 2026'
@@ -36,10 +40,13 @@ export function buildPages({ root, data, SITE, REPO, count, version, released, u
   const inCat = Object.fromEntries(cats.map((c) => [c, icons.filter((i) => i.category === c)]));
   const urls = [];
 
+  // A fingerprint of each page without its dates, so the sitemap's <lastmod> moves only when a page really changes.
+  const lastmod = {};
   const write = (path, html) => {
     mkdirSync(new URL(path, root), { recursive: true });
     writeFileSync(new URL(`${path}index.html`, root), html);
     urls.push(SITE + path);
+    lastmod[SITE + path] = fingerprint(html);
   };
 
   // depth = how many directories below the site root the page sits, for relative links that work on any host.
@@ -90,7 +97,7 @@ ${header({ byName, up, REPO, current: navKey(path) })}
 </main>
 <footer><div class="wrap foot">
   <div><h2>Icon Monks</h2><p>${count} free, open source icons in six weights by ${STUDIO_LINK}, released under the MIT license.</p></div>
-  <nav aria-label="Popular categories"><h2>Categories</h2><ul>${['Interface', 'Arrows', 'Commerce', 'Media', 'Communication', 'Weather'].map((c) => `<li><a href="${up}categories/${slug(c)}/">${c} icons</a></li>`).join('')}<li><a href="${up}categories/">All categories</a></li></ul></nav>
+  <nav aria-label="Popular categories"><h2>Categories</h2><ul>${['Interface', 'Arrows', 'Commerce', 'Media', 'Communication', 'Weather'].map((c) => `<li><a href="${up}categories/${slug(c)}/">${c} icons</a></li>`).join('')}<li><a href="${up}categories/">All categories</a></li><li><a href="${up}topics/">All topics</a></li></ul></nav>
   <nav aria-label="Platforms"><h2>Platforms</h2><ul>${PLATFORMS.map((p) => `<li><a href="${up}${p.path}">${p.short}</a></li>`).join('')}</ul></nav>
   <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="${up}getting-started/">Get started</a></li><li><a href="${up}guides/">Guides</a></li><li><a href="${up}about/">About</a></li><li><a href="${up}license/">License</a></li><li><a href="${REPO}/releases">Releases</a></li><li><a href="${REPO}/issues">Request an icon</a></li><li><a href="${REPO}">GitHub</a></li></ul></nav>
 </div>
@@ -128,6 +135,27 @@ ${HEADER_JS}
   const baseOf = (n) => { const p = n.split('-'); for (let k = p.length - 1; k > 0; k--) { const b = p.slice(0, k).join('-'); if (byName[b]) return b; } return null; };
   const variantsOf = new Map();
   for (const i of icons) { const b = baseOf(i.name); if (b) (variantsOf.get(b) || variantsOf.set(b, []).get(b)).push(i); }
+  // Topic pages (topics/<slug>-icons/): one per theme people search for, such as "money icons" or "ai icons".
+  // A topic is a tag shared by at least TOPIC_MIN icons (counting icons whose name contains the word), skipping
+  // modifiers ("off", "left"), words that repeat a category, and topics that mostly repeat a bigger one.
+  const catWords = new Set(cats.flatMap((c) => { const w = c.toLowerCase(); return [w, w.replace(/s$/, ''), slug(c)]; }));
+  const tagCount = new Map();
+  for (const i of icons) for (const g of new Set(i.tags)) tagCount.set(g, (tagCount.get(g) || 0) + 1);
+  const topicMembers = (g) => icons.filter((i) => i.tags.includes(g) || (!g.includes(' ') && i.name.split('-').includes(g)));
+  // Strongest matches first: the tag itself as the name, then base shapes before their variants, then shorter names.
+  const topicOrder = (g) => (a, b) => (b.name === g) - (a.name === g) || (!!baseOf(a.name)) - (!!baseOf(b.name)) || a.name.length - b.name.length || a.name.localeCompare(b.name);
+  const topics = [];
+  for (const [g] of [...tagCount].filter(([g, n]) => n >= 8 && !TOPIC_SKIP.has(g) && !catWords.has(g) && /^[a-z0-9][a-z0-9 ]*$/.test(g)).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))) {
+    const members = topicMembers(g);
+    if (members.length < TOPIC_MIN) continue;
+    const set = new Set(members);
+    // Skip near-duplicates: most of these icons are already on a bigger topic page (e.g. "btc" inside "bitcoin").
+    if (topics.some((t) => members.filter((m) => t.set.has(m)).length >= 0.8 * members.length)) continue;
+    topics.push({ tag: g, name: g.replace(/\b[a-z]/g, (c) => c.toUpperCase()).replace(/\bAi\b/, 'AI').replace(/\b3d\b/i, '3D'), slug: `${slug(g)}-icons`, members: members.sort(topicOrder(g)), set });
+  }
+  const topicOf = new Map(topics.map((t) => [t.tag, t]));
+  const topicLink = (t, up) => `<a href="${up}topics/${t.slug}/">${esc(t.name.toLowerCase().replace(/\bai\b/, 'AI'))} icons</a>`;
+
   const modifier = (mod, base) => (MODIFIERS[mod] || `a ${mod.replace(/-/g, ' ')} variant of the ${base} icon`).replace(/\{b\}/g, base);
   for (const i of icons) {
     const T = title(i.name);
@@ -174,8 +202,8 @@ ${HEADER_JS}
     const path = `icon/${i.name}/`;
     write(path, page({
       path, depth: 2,
-      title: `${T} Icon: Free SVG in 6 Weights | Icon Monks`,
-      description: `Free ${t} icon in thin, light, regular, bold, fill and duotone. Download SVG or use it in React, Vue, Flutter, SwiftUI and Jetpack Compose. MIT licensed.`,
+      title: `${T} Icon: Free SVG & PNG in 6 Weights | Icon Monks`,
+      description: `Free ${t} icon in thin, light, regular, bold, fill and duotone. Download SVG or PNG, or use it in React, Vue, Flutter, SwiftUI and Jetpack Compose. MIT licensed.`,
       h1: `${esc(T)} icon`,
       lede: `The ${esc(t)} icon is a free ${esc(i.category.toLowerCase())} icon from Icon Monks, drawn as one clean path on a 256-unit grid in six weights. It is free for personal and commercial use under the MIT license.`,
       crumbs: [[`${i.category} icons`, `categories/${slug(i.category)}/`], [T, path]],
@@ -195,7 +223,7 @@ ${HEADER_JS}
   <h2>Use the ${esc(t)} icon in your code</h2>
   <div class="codes">${Object.entries(SNIP).map(([k, f]) => `<div class="code"><h3>${k}</h3><pre><code>${esc(f(i.name, 'regular'))}</code></pre></div>`).join('')}</div>
   <p>Need setup steps? See the <a href="${up}getting-started/">getting started guide</a> or the page for <a href="${up}react-icons/">React</a>, <a href="${up}flutter-icons/">Flutter</a>, <a href="${up}swiftui-icons/">SwiftUI</a> or <a href="${up}jetpack-compose-icons/">Jetpack Compose</a>.</p>
-  ${tags.length ? `<h2>Tags</h2><ul class="tags">${tags.map((g) => `<li><a href="${up}?q=${encodeURIComponent(g)}">${esc(g)}</a></li>`).join('')}</ul>` : ''}
+  ${tags.length ? `<h2>Tags</h2><ul class="tags">${tags.map((g) => topicOf.has(g) ? `<li><a href="${up}topics/${topicOf.get(g).slug}/">${esc(g)}</a></li>` : `<li><span>${esc(g)}</span></li>`).join('')}</ul>` : ''}
   <h2>Related ${esc(i.category.toLowerCase())} icons</h2>
   <ul class="tiles">${related.map((r) => tile(r, up)).join('')}</ul>
   <p><a href="${up}categories/${slug(i.category)}/">See all ${inCat[i.category].length} ${esc(i.category.toLowerCase())} icons</a></p>
@@ -236,6 +264,62 @@ ${HEADER_JS}
   <div class="faq">${qa.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('')}</div>`,
     }));
   }
+  // Topic pages, written after the categories so each can link the sets its icons come from.
+  rmSync(new URL('topics/', root), { recursive: true, force: true });
+  for (const t of topics) {
+    const path = `topics/${t.slug}/`;
+    const n = t.members.length;
+    const low = t.name.toLowerCase().replace(/\bai\b/, 'AI');
+    // Where these icons come from, biggest set first.
+    const from = Object.entries(t.members.reduce((o, i) => ((o[i.category] = (o[i.category] || 0) + 1), o), {})).sort((a, b) => b[1] - a[1]);
+    // Related topics: the ones sharing the most icons with this one.
+    const near = topics.filter((o) => o !== t).map((o) => [o, t.members.filter((m) => o.set.has(m)).length]).filter(([, k]) => k > 0)
+      .sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name)).slice(0, 12).map(([o]) => o);
+    const top = t.members.slice(0, 3).map((i) => title(i.name).toLowerCase());
+    const qa = [
+      [`Are these ${low} icons free?`, `Yes. All ${n} ${low} icons are free for personal and commercial use under the MIT license, with no sign-up and no credit needed in your interface.${t.members.some((i) => i.category === 'Brands') ? ' Brand logos remain trademarks of their owners, so follow each brand\'s guidelines.' : ''}`],
+      [`Can I download the ${low} icons as SVG and PNG?`, `Yes. Open any icon to download it as SVG in six weights, or open it in the icon browser to pick a size and color and export PNG, WebP or PDF.`],
+      [`How do I use ${low} icons in React or Flutter?`, `Install the package for your platform and import the icon by name, for example ${pascal(t.members[0].name)} from @icon-monks/react or IconMonks.${camel(t.members[0].name)} in Flutter. Each icon page has copy-ready code for every platform.`],
+    ];
+    write(path, page({
+      path, depth: 2,
+      title: `${n} Free ${t.name} Icons: SVG, PNG, React & Flutter | Icon Monks`,
+      description: `${n} free ${low} icons in six weights, including ${list(top)}. Download SVG or PNG, or use them in React, Vue, Flutter, SwiftUI and Jetpack Compose. MIT licensed.`,
+      h1: `${esc(t.name)} icons`,
+      lede: `${n} free ${esc(low)} icons, each drawn in thin, light, regular, bold, fill and duotone on the same 256-unit grid. ${from.length > 1 ? `Most come from the ${list(from.slice(0, 2).map(([c, k]) => `${esc(c.toLowerCase())} (${k})`))} sets` : `They all come from the ${esc(from[0][0].toLowerCase())} set`}, starting with ${esc(list(top))}.`,
+      crumbs: [['Topics', 'topics/'], [`${t.name} icons`, path]],
+      image: card(`topics/${t.slug}`, `${t.name} icons`, `${n} free icons in six weights`, t.members.slice(0, 4).map((i) => i.name)),
+      jsonld: [faq(qa), { '@type': 'CollectionPage', name: `${t.name} icons`, url: SITE + path, isPartOf: { '@id': `${SITE}#website` }, dateModified: released,
+        mainEntity: { '@type': 'ItemList', numberOfItems: n, itemListElement: t.members.slice(0, 100).map((i, k) => ({ '@type': 'ListItem', position: k + 1, url: `${SITE}icon/${i.name}/`, name: `${title(i.name)} icon` })) } }],
+      body: (up) => `
+  <p class="actions"><a class="btn primary" href="${up}?q=${encodeURIComponent(t.tag)}">Open in the icon browser</a><span class="hint">Switch weights, change color and download PNG, WebP or PDF.</span></p>
+  <ul class="tiles">${t.members.map((i) => tile(i, up)).join('')}</ul>
+  ${near.length ? `<h2>Related topics</h2>
+  <ul class="cats">${near.map((o) => `<li>${topicLink(o, up)} <span>${o.members.length}</span></li>`).join('')}</ul>` : ''}
+  <h2>Categories with ${esc(low)} icons</h2>
+  <ul class="cats">${from.map(([c, k]) => `<li><a href="${up}categories/${slug(c)}/">${esc(c)} icons <span>${k}</span></a></li>`).join('')}</ul>
+  <h2>Frequently asked questions</h2>
+  <div class="faq">${qa.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('')}</div>`,
+    }));
+  }
+  const byFirst = topics.slice().sort((a, b) => a.name.localeCompare(b.name));
+  write('topics/', page({
+    path: 'topics/', depth: 1,
+    title: `Icon Topics: ${topics.length} Free Icon Sets by Theme | Icon Monks`,
+    description: `Free icon sets by theme: ${list(topics.slice(0, 6).map((t) => t.name.toLowerCase().replace(/\bai\b/, 'AI')))} and ${topics.length - 6} more. SVG, PNG, React, Vue, Flutter, SwiftUI and Compose.`,
+    h1: 'Icon topics',
+    lede: `${topics.length} themes that cut across the <a href="../categories/">categories</a>, from ${esc(list(topics.slice(0, 4).map((t) => t.name.toLowerCase().replace(/\bai\b/, 'AI'))))} icons. Each topic page shows every matching icon in six weights.`,
+    crumbs: [['Topics', 'topics/']],
+    image: card('topics', 'Icon topics', `${topics.length} themes, from money to AI`, topics.slice(0, 4).map((t) => t.members[0].name)),
+    jsonld: [{ '@type': 'CollectionPage', name: 'Icon topics', url: `${SITE}topics/`, isPartOf: { '@id': `${SITE}#website` }, dateModified: released,
+      mainEntity: { '@type': 'ItemList', numberOfItems: topics.length, itemListElement: topics.map((t, k) => ({ '@type': 'ListItem', position: k + 1, url: `${SITE}topics/${t.slug}/`, name: `${t.name} icons` })) } }],
+    body: (up) => `
+  <h2>Most popular</h2>
+  <ul class="cats">${topics.slice(0, 24).map((t) => `<li>${topicLink(t, up)} <span>${t.members.length}</span></li>`).join('')}</ul>
+  <h2>All topics, A to Z</h2>
+  <ul class="cats">${byFirst.map((t) => `<li>${topicLink(t, up)} <span>${t.members.length}</span></li>`).join('')}</ul>`,
+  }));
+
   write('categories/', page({
     path: 'categories/', depth: 1,
     title: `Icon Categories: ${count} Free Icons in ${cats.length} Sets | Icon Monks`,
@@ -392,7 +476,7 @@ SOFTWARE.</code></pre>`,
       type: 'article',
       image: card(g.path.replace(/\/$/, ''), g.h1, g.short, g.icons),
       jsonld: [{ '@type': 'TechArticle', headline: g.h1, description: g.description, url: SITE + g.path, image: `${SITE}og/${g.path.replace(/\/$/, '')}.png`,
-        datePublished: g.published, dateModified: released, author: founder.name ? { '@id': `${SITE}about/#founder` } : ORG, publisher: ORG, isPartOf: { '@id': `${SITE}#website` } },
+        datePublished: g.published, dateModified: g.published > released ? g.published : released, author: founder.name ? { '@id': `${SITE}about/#founder` } : ORG, publisher: ORG, isPartOf: { '@id': `${SITE}#website` } },
       ...(founder.name ? [founderLd(SITE)] : []),
       ...(g.steps ? [{ '@type': 'HowTo', name: g.h1, step: g.steps.map(([name, text]) => ({ '@type': 'HowToStep', name, text })) }] : []),
       faq(g.faq)],
@@ -442,10 +526,26 @@ SOFTWARE.</code></pre>`,
   writeFileSync(new URL('site.css', root), CSS + HEADER_CSS);
   mkdirSync(new URL('build/', root), { recursive: true });
   writeFileSync(new URL('build/og.json', root), JSON.stringify(cards));
-  return { urls, slug, PLATFORMS, GUIDES };
+  return { urls, slug, PLATFORMS, GUIDES, topics, lastmod };
 }
 
 const faq = (items) => ({ '@type': 'FAQPage', mainEntity: items.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } })) });
+
+// Topic pages need this many icons. TOPIC_SKIP holds tags that describe a state, direction or shape modifier
+// rather than a theme someone would search for ("off icons", "left icons").
+const TOPIC_MIN = 12;
+const TOPIC_SKIP = new Set(['brand', 'logo', 'disabled', 'off', 'hidden', 'remove', 'circle', 'square', 'add', 'left', 'right', 'up', 'down',
+  'new', 'subtract', 'slash', 'plus', 'minus', 'x', 'dashed', 'line', 'top', 'bottom', 'horizontal', 'vertical', 'center', 'diagonal', 'corner',
+  'turn', 'back', 'return', 'hold', 'paused', 'done', 'approved', 'unknown', 'instant', 'initial', 'digit', 'character', 'symbol', 'increase',
+  'decrease', 'fast', 'boolean', 'border', 'path', 'curve', 'order', 'view', 'visible', 'direction', 'alphabet', 'letter', 'number', 'shape',
+  'shapes', 'box', 'text', 'page', 'pinned', 'starred', 'open', 'close', 'closed', 'on', 'start', 'end', 'stop', 'main', 'simple', 'one', 'two',
+  'three', 'four', 'small', 'large', 'big', 'outline', 'fill', 'filled', 'icon', 'icons', 'and', 'the', 'for', 'with', 'object', 'thing', 'item',
+  'single', 'double', 'multiple', 'half', 'full', 'empty', 'alt', 'other', 'misc', 'general', 'default', 'basic', 'variant', 'arrange', 'transform',
+  'split', 'expand', 'collapse', 'format', 'frame', 'board', 'nodes', 'space', 'media',
+  'controls', 'liquid', 'seal', 'find', 'view', 'hour',
+  // Too vague or a near-copy of a bigger topic.
+  'arc', 'cell', 'elbow', 'dots', 'hot', 'smart', 'sweet', 'access', 'block arrow', 'map trifold', 'placeholder', 'select', 'stroke', 'trim',
+  'light', 'connector', 'variable', 'bar', 'sign', 'private', 'write', 'note', 'picture', 'cards', 'care', 'fork', 'ring']);
 
 // Words too common to say two icons are alike.
 const STOP = new Set(['and', 'the', 'for', 'with', 'icon', 'icons', 'line', 'simple', 'circle', 'square', 'slash', 'fill', 'outline', 'main', 'new', 'one', 'two', 'three']);
@@ -605,7 +705,7 @@ table{border-collapse:collapse;width:100%;max-width:720px;background:var(--sheet
 .dl{font:500 12px var(--mono);color:var(--saffron);text-decoration:none}.dl:hover{text-decoration:underline}
 .codes{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}.code{min-width:0}
 .tiles{list-style:none;padding:0;margin:0 0 16px;display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:8px}.tiles a{display:flex;flex-direction:column;align-items:center;gap:10px;padding:18px 6px 10px;background:var(--sheet);border:1px solid transparent;border-radius:12px;text-decoration:none}.tiles a:hover{border-color:var(--saffron)}.tiles span{font:11px/1.2 var(--mono);color:var(--muted);text-align:center;overflow-wrap:anywhere}
-.tags{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:6px}.tags a{display:inline-block;font-size:13px;text-decoration:none;border:1px solid var(--rule);border-radius:99px;padding:4px 12px;background:var(--sheet)}
+.tags{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:6px}.tags a,.tags span{display:inline-block;font-size:13px;text-decoration:none;border:1px solid var(--rule);border-radius:99px;padding:4px 12px;background:var(--sheet)}.tags span{color:var(--muted)}
 .cats{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px}.cats a{display:flex;justify-content:space-between;gap:8px;text-decoration:none;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:10px 12px;font-weight:500}.cats a:hover{border-color:var(--saffron)}.cats span{font:12px var(--mono);color:var(--muted);align-self:center}
 .catcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}.catcard{display:grid;gap:6px;padding:18px;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;text-decoration:none}.catcard:hover{border-color:var(--saffron)}.catcard .row{display:flex;gap:10px;margin-bottom:8px;overflow:hidden}.catcard .n{font-size:13px;color:var(--muted)}
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}.card{display:grid;gap:6px;align-content:start;padding:18px;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;text-decoration:none;min-width:0}a.card:hover{border-color:var(--saffron)}.card p{margin:0;color:var(--muted);font-size:14px}.card code{font-size:12px;overflow-x:auto;white-space:nowrap;display:block;color:var(--muted)}
@@ -660,7 +760,7 @@ const MODIFIERS = {
 // How-to articles. `published` is the first release date; dateModified follows each release.
 const GUIDES = [
   { path: 'guides/use-icons-in-figma/', short: 'Icons in Figma', published: '2026-10-28', icons: ['figma-logo', 'copy', 'download', 'palette'],
-    title: 'How to Use Free Icons in Figma, Sketch and Illustrator | Icon Monks',
+    title: 'How to Use Free Icons in Figma, Sketch and Illustrator',
     description: 'Copy or download any Icon Monks icon as SVG or PDF and use it in Figma, Sketch, Illustrator or Framer as an editable vector, in any of six weights.',
     h1: 'How to use Icon Monks icons in Figma',
     lede: 'The fastest way to get an Icon Monks icon into Figma is to copy its SVG from the icon browser and paste it onto the canvas. It arrives as one editable vector path in the weight, size and color you picked.',
@@ -681,7 +781,7 @@ const GUIDES = [
       ['Do I need to credit Icon Monks in my designs?', 'No. The MIT license lets you use the icons in client and commercial work with no credit needed in your interface.'],
     ] },
   { path: 'guides/change-icon-color-and-size/', short: 'Color and size', published: '2026-10-28', icons: ['palette', 'arrows-out', 'paint-brush', 'sliders-horizontal'],
-    title: 'How to Change Icon Color and Size in React, Vue, Flutter, SwiftUI & Compose',
+    title: 'How to Change Icon Color and Size (React, Flutter, iOS)',
     description: 'Change the color and size of Icon Monks icons in React, Vue, web components, CSS icon fonts, inline SVG, Flutter, SwiftUI and Jetpack Compose, with code for each.',
     h1: 'How to change icon color and size',
     lede: 'Every Icon Monks icon draws in currentColor, so by default it takes the text color and scales as a vector. To set them yourself, use the size and color props in React, Vue and the web component, CSS for fonts and inline SVG, and the platform\'s own icon APIs on Flutter, SwiftUI and Android.',
@@ -729,7 +829,7 @@ const GUIDES = [
       ['Can I use both?', 'Yes. All Icon Monks packages share the same names and shapes, so you can use the font on a marketing site and React components in the app.'],
     ] },
   { path: 'guides/choose-icon-weight/', short: 'Choosing a weight', published: '2026-10-28', icons: ['bell', 'heart', 'star', 'house'],
-    title: 'Thin, Light, Regular, Bold, Fill or Duotone: Choosing an Icon Weight',
+    title: 'How to Choose an Icon Weight: Thin to Duotone | Icon Monks',
     description: 'Which icon weight to use where: stroke widths, best sizes and typical uses for thin, light, regular, bold, fill and duotone icons, with examples.',
     h1: 'How to choose an icon weight',
     lede: 'Match the icon weight to its size and its job. Regular suits most 24 px interface icons, bold holds up at 16 px, thin and light suit large display sizes, fill marks a selected state, and duotone adds depth to illustrations and empty states.',
