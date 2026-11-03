@@ -27,7 +27,8 @@ ICONS = DATA['icons']
 WEIGHTS = DATA['weights']
 SOLID_WEIGHTS = [w for w in WEIGHTS if w != 'duotone']
 VERSION = json.load(open(os.path.join(ROOT, 'package.json')))['version']
-CHANGELOG = ('## 0.4.2\n\n- SwiftUI: new `IconMonkImage` view that scales with Dynamic Type. Icon sizes, centring and corner radii made consistent across the set.\n\n'
+CHANGELOG = ('## 0.4.3\n\n- React components now work in Next.js Server Components. `@icon-monks/core` ships an MCP server (`npx -y -p @icon-monks/core icon-monks-mcp`) so AI assistants can search icons and get SVG or code for every platform.\n\n'
+             '## 0.4.2\n\n- SwiftUI: new `IconMonkImage` view that scales with Dynamic Type. Icon sizes, centring and corner radii made consistent across the set.\n\n'
              '## 0.4.1\n\n- Fuller READMEs for every package. The Flutter package documents every icon, ships an example and scores 160/160 on pub.dev. Releases publish only from tags on main.\n\n'
              '## 0.4.0\n\n- Adds 1,322 icons (6,054 total) across 31 categories, including a new Brands category with 652 logos. '
              'Variant icons share one badge pattern, every icon passes a strict lint, and the web component loads icons '

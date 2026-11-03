@@ -1,3 +1,7 @@
+## 0.4.3
+
+- React components now work in Next.js Server Components. `@icon-monks/core` ships an MCP server (`npx -y -p @icon-monks/core icon-monks-mcp`) so AI assistants can search icons and get SVG or code for every platform.
+
 ## 0.4.2
 
 - SwiftUI: new `IconMonkImage` view that scales with Dynamic Type. Icon sizes, centring and corner radii made consistent across the set.
