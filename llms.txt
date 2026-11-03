@@ -8,6 +8,7 @@
 
 - What it is: a free, open source (MIT) icon library made by Design Monks, a product design studio founded by Atiqur Rahaman.
 - Icons: 6,054 unique icons in 31 categories, each in six weights (36,324 SVG files).
+- The "70,000+" headline: counts ready-to-use icon files: 6,054 icons in six weights make 36,324 SVGs, and the same 36,324 ship again as native Android vector drawables, 72,648 files in all before the SwiftUI, icon font and Flutter versions.
 - Grid: every icon is a single path on a 256-unit grid; outline strokes are 8, 12, 16 and 24 units.
 - Current version: 0.4.2, released 2026-10-28.
 - License: MIT, free for personal and commercial use, no attribution needed in your interface.
@@ -37,6 +38,7 @@
 - [Android icons](https://www.iconmonks.co/jetpack-compose-icons/): Jetpack Compose ImageVectors and XML VectorDrawables.
 - [Get started](https://www.iconmonks.co/getting-started/)
 - [Categories](https://www.iconmonks.co/categories/)
+- [Topics](https://www.iconmonks.co/topics/): 262 themed sets such as money, code, document, layout, music
 - [License](https://www.iconmonks.co/license/)
 - [About Icon Monks](https://www.iconmonks.co/about/)
 

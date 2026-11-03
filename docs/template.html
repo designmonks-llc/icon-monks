@@ -371,6 +371,17 @@ __HEADER__
   </ul>
 </section>
 
+<section class="wrap band" aria-labelledby="topics-title">
+  <h2 id="topics-title">Popular icons and topics</h2>
+  <p>Jump to the icons people look for most, or a theme that cuts across categories. See <a href="topics/">all topics</a>.</p>
+  <ul class="cats" id="topic-links">
+    <!--__TOPICS__-->
+  </ul>
+  <ul class="cats" id="popular-links">
+    <!--__POPULAR__-->
+  </ul>
+</section>
+
 <section class="wrap band" aria-labelledby="who-title">
   <h2 id="who-title">Made for designers and developers</h2>
   <div class="cards">
@@ -422,6 +433,8 @@ __HEADER__
 <div class="wrap">__CREDIT__</div></footer>
 
 <script>
+// Wrapped so the icon list can load as data/meta.json on the site instead of sitting inside the page.
+(async () => {
 const DATA = /*__ICONS__*/null;
 const WEIGHTS = ['thin', 'light', 'regular', 'bold', 'fill', 'duotone'];
 const STROKE = { thin: 8, light: 12, regular: 16, bold: 24 };
@@ -824,5 +837,6 @@ if (false) document.querySelector(`.tile[data-name="${state.selected}"]`)?.scrol
     $('visits').hidden = false;
   } catch (e) { /* counter is optional; stay hidden if it fails */ }
 })();
+})().catch(() => { const c = document.getElementById('count'); if (c) c.textContent = 'Could not load the icons. Check your connection and reload.'; });
 </script>
 <!--__HEADER_JS__-->

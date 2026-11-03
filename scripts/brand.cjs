@@ -3,6 +3,7 @@
 //   og/**.png: one social card per static page, listed by scripts/pages.mjs in build/og.json
 //     (1200x630 for guides, categories and other pages; 400x400 for icon pages)
 // Run after `npm run build`: NODE_PATH=$(npm root -g) node scripts/brand.cjs && python3 scripts/og_compress.py
+//   (OG_ONLY=<prefix> limits the per-page cards to names starting with <prefix>)
 const fs = require('fs');
 const path = require('path');
 const { chromium } = require('playwright');
@@ -59,7 +60,8 @@ p{font-size:30px;line-height:1.35;color:#5d6280;margin:18px 0 0}.n{margin-top:40
     { name: 'showcase', title: 'Icon Monks in use', sub: 'A dashboard, two mobile apps and the parts every product needs', icons: ['squares-four', 'wallet', 'chat-circle', 'bell'], kind: 'wide' }];
   const wide = await b.newPage({ viewport: { width: 1200, height: 630 } });
   const square = await b.newPage({ viewport: { width: 400, height: 400 } });
-  for (const c of cards) {
+  // OG_ONLY=topics/ redraws just the cards whose name starts with that prefix (handy after adding a page type).
+  for (const c of cards.filter((x) => !process.env.OG_ONLY || x.name.startsWith(process.env.OG_ONLY))) {
     const file = path.join(root, `og/${c.name}.png`);
     fs.mkdirSync(path.dirname(file), { recursive: true });
     const icons = c.icons.filter((n) => by[n]);
