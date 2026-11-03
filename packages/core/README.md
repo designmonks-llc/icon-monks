@@ -34,6 +34,23 @@ every icon), `weights` and the raw `paths`. Names and weights are typed in TypeS
 | `assets/<weight>/<name>[-<weight>].svg` | One SVG per icon and weight (`regular` has no suffix) |
 | `dist/sprite/<weight>.svg` | One sprite per weight: `<svg><use href="sprite/regular.svg#house"/></svg>` |
 | `dist/icons.json` | Names, categories and tags, for building your own search |
+| `dist/mcp.js` | An MCP server for AI coding tools (see below) |
+
+## MCP server for AI assistants
+
+The package includes a Model Context Protocol server, so Claude, Cursor, VS Code and other MCP clients can search
+icons and get SVG or import code. It has no dependencies. Add it to your client's MCP config:
+
+```json
+{
+  "mcpServers": {
+    "icon-monks": { "command": "npx", "args": ["-y", "-p", "@icon-monks/core", "icon-monks-mcp"] }
+  }
+}
+```
+
+Tools: `search_icons` (by name, concept or tag), `get_icon_svg` (any weight, size and color), `get_icon_code` (React,
+Vue, HTML, icon font, Flutter, SwiftUI, Jetpack Compose or SVG) and `list_categories`.
 
 ## Links
 

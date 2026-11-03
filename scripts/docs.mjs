@@ -215,6 +215,7 @@ ${ABOUT.email ? `- Contact: ${ABOUT.email}\n` : ''}- About: ${SITE}about/
 - Web Components: \`npm install @icon-monks/web\`
 - Icon font: \`npm install @icon-monks/font\`
 - SVG files and helpers: \`npm install @icon-monks/core\`
+- MCP server for AI coding tools: \`npx -y -p @icon-monks/core icon-monks-mcp\`
 - Flutter: \`flutter pub add icon_monks\`
 - SwiftUI: Swift Package Manager, ${REPO}
 - Android: \`implementation("com.github.designmonks-llc:icon-monks:v${version}")\` from JitPack
@@ -227,12 +228,41 @@ ${pages.PLATFORMS.map((p) => `- [${p.short}](${SITE}${p.path}): ${p.blurb.replac
 - [Topics](${SITE}topics/): ${pages.topics.length} themed sets such as ${pages.topics.slice(0, 5).map((t) => t.tag).join(', ')}
 - [License](${SITE}license/)
 - [About Icon Monks](${SITE}about/)
+- [Full icon list](${SITE}llms-full.txt): every icon name with its category and tags
 - [Compare icon libraries](${SITE}compare/): Icon Monks next to other popular open source icon sets
 
 ## Guides
 
 ${pages.GUIDES.map((g) => `- [${g.h1}](${SITE}${g.path}): ${g.description}`).join('\n')}
 - [Source code](${REPO})
+`);
+// llms-full.txt: every icon with its category, tags and import names, so AI assistants can answer "is there a ___ icon?"
+// and write correct code without crawling 6,000 pages.
+const pas = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join('');
+const cam = (n) => { const p = pas(n); return p[0].toLowerCase() + p.slice(1); };
+writeFileSync(new URL('llms-full.txt', root), `# Icon Monks: full icon list
+
+> Every icon in Icon Monks ${version} (${unique} icons in ${cats.length} categories, six weights each), with its tags.
+> Summary and install steps: ${SITE}llms.txt. Each icon has a page at ${SITE}icon/<name>/.
+
+## How names map to code
+
+Icon names are kebab-case, e.g. \`shopping-cart\`. The same icon is:
+
+- React and Vue: \`import { ShoppingCart } from '@icon-monks/react'\` (or \`@icon-monks/vue\`), then \`<ShoppingCart weight="bold" size={24} />\`
+- Web component: \`<icon-monks name="shopping-cart" weight="bold"></icon-monks>\`
+- Icon font: \`<i class="im im-shopping-cart"></i>\` (weights: \`im-thin\`, \`im-light\`, \`im-bold\`, \`im-fill\`; no duotone)
+- Flutter: \`Icon(IconMonks.shoppingCart)\`, other weights \`IconMonks.bold.shoppingCart\` (no duotone)
+- SwiftUI: \`Image(iconMonks: .shoppingCart, weight: .bold)\`
+- Jetpack Compose: \`Icon(IconMonks.Bold.ShoppingCart, contentDescription = null)\`
+- SVG file: \`${SITE}svg/<weight>/<name>[-<weight>].svg\` (regular has no suffix)
+- MCP server for AI tools: \`npx -y -p @icon-monks/core icon-monks-mcp\` (tools: search_icons, get_icon_svg, get_icon_code)
+
+Weights: ${data.weights.join(', ')}.
+
+${catCounts.map(([c, k]) => `## ${c} (${k})
+
+${data.icons.filter((i) => i.category === c).map((i) => `- ${i.name}: ${i.tags.filter((g) => g !== i.name).join(', ')}`).join('\n')}`).join('\n\n')}
 `);
 writeFileSync(new URL('site.webmanifest', root), JSON.stringify({
   name: 'Icon Monks', short_name: 'Icon Monks', description, start_url: './', scope: './', display: 'standalone',

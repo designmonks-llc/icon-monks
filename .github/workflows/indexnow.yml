@@ -1,0 +1,39 @@
+# Tells Bing (and other IndexNow engines) which pages changed, right after GitHub Pages deploys a push to main.
+# Changed pages come from docs/lastmod.json, whose dates move only when a page's content changes (scripts/docs.mjs).
+# The key file be7a791bc0f609dd360c321231e28177.txt at the site root proves the site owns the key.
+name: IndexNow
+
+on:
+  push:
+    branches: [main]
+    paths: ['docs/lastmod.json']
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - name: Wait for the Pages deploy
+        run: sleep 240
+      - name: Submit changed URLs
+        env:
+          KEY: be7a791bc0f609dd360c321231e28177
+        run: |
+          git show HEAD~1:docs/lastmod.json > /tmp/before.json 2>/dev/null || echo '{}' > /tmp/before.json
+          node -e '
+            const fs = require("fs");
+            const before = JSON.parse(fs.readFileSync("/tmp/before.json", "utf8"));
+            const after = JSON.parse(fs.readFileSync("docs/lastmod.json", "utf8"));
+            const site = "https://www.iconmonks.co/";
+            const urls = Object.keys(after).filter((k) => !before[k] || before[k][0] !== after[k][0]).map((k) => site + (k === "/" ? "" : k));
+            fs.writeFileSync("/tmp/urls.json", JSON.stringify(urls.slice(0, 10000)));
+            console.log(urls.length + " changed pages");
+          '
+          if [ "$(node -p 'require("/tmp/urls.json").length')" = "0" ]; then echo "nothing to submit"; exit 0; fi
+          node -e '
+            const urls = require("/tmp/urls.json");
+            const body = { host: "www.iconmonks.co", key: process.env.KEY, keyLocation: "https://www.iconmonks.co/" + process.env.KEY + ".txt", urlList: urls };
+            fetch("https://api.indexnow.org/indexnow", { method: "POST", headers: { "content-type": "application/json; charset=utf-8" }, body: JSON.stringify(body) })
+              .then((r) => { console.log("IndexNow answered " + r.status); if (r.status >= 400 && r.status !== 429) process.exit(1); });
+          '
