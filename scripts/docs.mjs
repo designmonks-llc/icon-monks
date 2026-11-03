@@ -227,6 +227,7 @@ ${pages.PLATFORMS.map((p) => `- [${p.short}](${SITE}${p.path}): ${p.blurb.replac
 - [Topics](${SITE}topics/): ${pages.topics.length} themed sets such as ${pages.topics.slice(0, 5).map((t) => t.tag).join(', ')}
 - [License](${SITE}license/)
 - [About Icon Monks](${SITE}about/)
+- [Compare icon libraries](${SITE}compare/): Icon Monks next to other popular open source icon sets
 
 ## Guides
 
