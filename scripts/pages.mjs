@@ -464,7 +464,7 @@ SOFTWARE.</code></pre>`,
   <h2>Contact and contributing</h2>
   <p>${ABOUT.email ? `Email <a href="mailto:${ABOUT.email}">${ABOUT.email}</a> for anything about Icon Monks. ` : ''}Request an icon or report a problem in <a href="${REPO}/issues">GitHub issues</a>. To contribute, draw a source SVG on the 256-unit grid and open a pull request; the build makes every weight and package from it.</p>
   <h2>Find Icon Monks elsewhere</h2>
-  <ul class="cats">${[...elsewhere, ...ABOUT.studioSameAs.map((u) => [new URL(u).hostname.replace(/^www\./, ''), u]), ...founder.sameAs.map((u) => [`${founder.name} on ${new URL(u).hostname.replace(/^www\./, '').split('.')[0].replace(/^./, (c) => c.toUpperCase()).replace('Linkedin', 'LinkedIn')}`, u])].map(([k, u]) => `<li><a href="${u}" rel="noopener">${esc(k)}</a></li>`).join('')}</ul>`,
+  <ul class="cats">${[...elsewhere, ...ABOUT.studioSameAs.map((u) => [`${STUDIO.name} on ${({ linkedin: 'LinkedIn', facebook: 'Facebook' })[new URL(u).hostname.replace(/^www\./, '').split('.')[0]] || new URL(u).hostname.replace(/^www\./, '')}`, u]), ...founder.sameAs.map((u) => [`${founder.name} on ${new URL(u).hostname.replace(/^www\./, '').split('.')[0].replace(/^./, (c) => c.toUpperCase()).replace('Linkedin', 'LinkedIn')}`, u])].map(([k, u]) => `<li><a href="${u}" rel="noopener">${esc(k)}</a></li>`).join('')}</ul>`,
   }));
 
   // Guides: answers to the questions people ask about using icons, each with HowTo or FAQ data.
