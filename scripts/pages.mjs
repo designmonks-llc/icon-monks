@@ -454,7 +454,7 @@ SOFTWARE.</code></pre>`,
   <table class="facts">${facts.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('')}</table>
   <section id="who">
   <h2>Who makes Icon Monks</h2>
-  <p>Icon Monks is designed and maintained by ${STUDIO_LINK}${ABOUT.foundingDate ? `, a product design studio working since ${esc(ABOUT.foundingDate)}` : ', a product design studio'}${ABOUT.location ? ` based in ${esc(ABOUT.location)}` : ''}. ${founder.name ? `The studio was founded by ${esc(founder.name)}${founder.jobTitle ? ` (${esc(founder.jobTitle)})` : ''}, who leads the project.` : ''}</p>
+  <p>Icon Monks is designed and maintained by ${STUDIO_LINK}${ABOUT.foundingDate ? `, a product design studio working since ${esc(ABOUT.foundingDate)}` : ', a product design studio'}${ABOUT.location ? `${ABOUT.foundingDate ? ',' : ''} based in ${esc(ABOUT.location)}` : ''}. ${founder.name ? `The studio was founded by ${esc(founder.name)}${founder.jobTitle ? ` (${esc(founder.jobTitle)})` : ''}, who leads the project.` : ''}</p>
   <p>${STUDIO_LINK} draws these icons for the websites, web apps and mobile apps it designs, and releases the same set for anyone to use.</p>
   </section>
   <h2>How the icons are drawn</h2>
