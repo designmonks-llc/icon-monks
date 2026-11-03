@@ -16,7 +16,7 @@ const camel = (n) => { const p = pascal(n); return p[0].toLowerCase() + p.slice(
 // Which main-nav link a page sits under: icon pages under Icons, platform guides under Get started.
 const navKey = (path) => path.startsWith('icon/') ? 'icons' : path.startsWith('categories') || path.startsWith('topics') ? 'categories'
   : path.startsWith('getting-started') || PLATFORMS.some((p) => p.path === path) ? 'start'
-  : path.startsWith('guides') ? 'guides' : path.startsWith('about') ? 'about' : '';
+  : path.startsWith('guides') || path.startsWith('compare') ? 'guides' : path.startsWith('about') ? 'about' : '';
 const slug = (c) => c.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const title = (n) => n.split('-').map((p) => p[0].toUpperCase() + p.slice(1)).join(' ');
 const svgFile = (name, w) => `svg/${w}/${name}${w === 'regular' ? '' : '-' + w}.svg`;
@@ -99,7 +99,7 @@ ${header({ byName, up, REPO, current: navKey(path) })}
   <div><h2>Icon Monks</h2><p>${count} free, open source icons in six weights by ${STUDIO_LINK}, released under the MIT license.</p></div>
   <nav aria-label="Popular categories"><h2>Categories</h2><ul>${['Interface', 'Arrows', 'Commerce', 'Media', 'Communication', 'Weather'].map((c) => `<li><a href="${up}categories/${slug(c)}/">${c} icons</a></li>`).join('')}<li><a href="${up}categories/">All categories</a></li><li><a href="${up}topics/">All topics</a></li></ul></nav>
   <nav aria-label="Platforms"><h2>Platforms</h2><ul>${PLATFORMS.map((p) => `<li><a href="${up}${p.path}">${p.short}</a></li>`).join('')}</ul></nav>
-  <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="${up}getting-started/">Get started</a></li><li><a href="${up}guides/">Guides</a></li><li><a href="${up}about/">About</a></li><li><a href="${up}license/">License</a></li><li><a href="${REPO}/releases">Releases</a></li><li><a href="${REPO}/issues">Request an icon</a></li><li><a href="${REPO}">GitHub</a></li></ul></nav>
+  <nav aria-label="Resources"><h2>Resources</h2><ul><li><a href="${up}getting-started/">Get started</a></li><li><a href="${up}guides/">Guides</a></li><li><a href="${up}compare/">Compare</a></li><li><a href="${up}about/">About</a></li><li><a href="${up}license/">License</a></li><li><a href="${REPO}/releases">Releases</a></li><li><a href="${REPO}/issues">Request an icon</a></li><li><a href="${REPO}">GitHub</a></li></ul></nav>
 </div>
 <div class="wrap">${CREDIT}</div></footer>
 ${HEADER_JS}
@@ -504,6 +504,73 @@ SOFTWARE.</code></pre>`,
   <div class="cards">${GUIDES.map((g) => `<a class="card" href="${up}${g.path}"><h2 class="card-h">${esc(g.h1)}</h2><p>${esc(g.description)}</p></a>`).join('')}</div>`,
   }));
 
+  // Comparison pages: Icon Monks next to other well-known icon libraries, with figures from their npm packages.
+  rmSync(new URL('compare/', root), { recursive: true, force: true });
+  const n = (k) => k.toLocaleString('en-US');
+  const US = { styles: 'Six weights for every icon: thin, light, regular, bold, fill and duotone', license: 'MIT, no attribution needed',
+    packages: ['React', 'Vue', 'Web Components', 'Icon font', 'Flutter', 'SwiftUI', 'Jetpack Compose and Android'] };
+  for (const c of COMPARE) {
+    const path = `compare/${c.slug}-alternative/`;
+    const us = c.us.replace('{u}', unique);
+    const qa = [
+      [`Is Icon Monks a free alternative to ${c.name}?`, `Yes. Icon Monks is free and open source under the MIT license, with ${unique} icons in six weights and packages for React, Vue, Flutter, SwiftUI and Jetpack Compose. You can use it in commercial work without credit.`],
+      [`How many icons does ${c.name} have compared with Icon Monks?`, `${c.name} has ${n(c.icons)} icons (${n(c.files)} SVG files, counted in ${c.pkg} on npm on ${longDate(COMPARE_CHECKED)}). Icon Monks has ${unique} icons, or ${files} SVG files across six weights.`],
+      [`Can I use Icon Monks and ${c.name} together?`, `You can, since both are free to use, but mixed sets rarely match in stroke and corner style. Icon Monks is large enough that most products can use it alone.`],
+    ];
+    const row = (label, a, b) => `<tr><th scope="row">${label}</th><td>${a}</td><td>${b}</td></tr>`;
+    write(path, page({
+      path, depth: 2,
+      title: `${c.name} Alternative: Icon Monks vs ${c.name} | Icon Monks`,
+      description: `Icon Monks vs ${c.name}: ${unique} free MIT icons in six weights against ${n(c.icons)}. Compare icon count, styles, license and React, Flutter, SwiftUI and Compose packages.`,
+      h1: `Icon Monks vs ${esc(c.name)}`,
+      lede: `${esc(c.name)} is a popular icon library. Here is how it compares with Icon Monks on the things that decide which set fits a product: how many icons there are, which styles, the license and the platforms you can install on.`,
+      crumbs: [['Compare', 'compare/'], [`vs ${c.name}`, path]],
+      type: 'article',
+      image: card(`compare/${c.slug}`, `Icon Monks vs ${c.name}`, `${unique} icons in six weights, free under MIT`, ['scales', 'check-circle', 'squares-four', 'code']),
+      jsonld: [{ '@type': 'TechArticle', headline: `Icon Monks vs ${c.name}`, url: SITE + path, datePublished: COMPARE_CHECKED, dateModified: COMPARE_CHECKED > released ? COMPARE_CHECKED : released,
+        author: ORG, publisher: ORG, isPartOf: { '@id': `${SITE}#website` }, about: [{ '@id': `${SITE}#code` }, { '@type': 'SoftwareSourceCode', name: c.name }] }, faq(qa)],
+      body: (up) => `
+  <h2>At a glance</h2>
+  <table class="compare"><thead><tr><th scope="col"></th><th scope="col">Icon Monks</th><th scope="col">${esc(c.name)}</th></tr></thead><tbody>
+  ${row('Icons', unique, n(c.icons))}
+  ${row('SVG files', files, n(c.files))}
+  ${row('Styles', US.styles, esc(c.styles))}
+  ${row('License', US.license, esc(c.license))}
+  ${row('Official packages', US.packages.join(', '), esc(c.packages.join(', ')))}
+  </tbody></table>
+  <p class="hint">${esc(c.name)} figures were counted in ${esc(c.pkg)} on npm on ${longDate(COMPARE_CHECKED)}. Icon Monks figures are from version ${version}.</p>
+  <h2>When ${esc(c.name)} is the better pick</h2>
+  <p>${esc(c.them)}</p>
+  <h2>When Icon Monks is the better pick</h2>
+  <p>${esc(us)} See <a href="${up}guides/choose-icon-weight/">how the six weights work</a> or <a href="${up}getting-started/">install it for your platform</a>.</p>
+  <h2>Switching to Icon Monks</h2>
+  <p>Install the package for your platform, then replace icons screen by screen. Search the <a href="${up}">icon browser</a> by the concept rather than the old name, because names differ between sets, and keep one weight per screen so the result looks consistent. Every icon has its own page with code for each platform, like the <a href="${up}icon/house/">house icon</a>.</p>
+  <h2>Frequently asked questions</h2>
+  <div class="faq">${qa.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('')}</div>
+  <h2>Other comparisons</h2>
+  <ul class="cats">${COMPARE.filter((o) => o !== c).map((o) => `<li><a href="${up}compare/${o.slug}-alternative/">vs ${esc(o.name)}</a></li>`).join('')}</ul>
+  <p class="byline">${esc(c.name)} is a trademark of its owners. Icon Monks is not affiliated with it and uses none of its artwork; every Icon Monks icon is drawn from scratch.</p>`,
+    }));
+  }
+  write('compare/', page({
+    path: 'compare/', depth: 1,
+    title: 'Icon Library Comparisons: Icon Monks vs Popular Sets | Icon Monks',
+    description: `Compare Icon Monks with ${COMPARE.slice(0, 5).map((c) => c.name).join(', ')} and more: icon counts, styles, licenses and platform packages, checked against npm.`,
+    h1: 'Compare icon libraries',
+    lede: `How Icon Monks compares with ${COMPARE.length} well-known icon libraries. Figures for the other libraries were counted in their npm packages on ${longDate(COMPARE_CHECKED)}.`,
+    crumbs: [['Compare', 'compare/']],
+    image: card('compare', 'Compare icon libraries', `Icon Monks next to ${COMPARE.length} popular sets`, ['scales', 'check-circle', 'squares-four', 'code']),
+    jsonld: [{ '@type': 'CollectionPage', name: 'Icon library comparisons', url: `${SITE}compare/`, isPartOf: { '@id': `${SITE}#website` }, dateModified: COMPARE_CHECKED > released ? COMPARE_CHECKED : released,
+      mainEntity: { '@type': 'ItemList', itemListElement: COMPARE.map((c, k) => ({ '@type': 'ListItem', position: k + 1, url: `${SITE}compare/${c.slug}-alternative/`, name: `Icon Monks vs ${c.name}` })) } }],
+    body: (up) => `
+  <table class="compare"><thead><tr><th scope="col">Library</th><th scope="col">Icons</th><th scope="col">Styles</th><th scope="col">License</th></tr></thead><tbody>
+  <tr><th scope="row">Icon Monks</th><td>${unique}</td><td>${US.styles}</td><td>${US.license}</td></tr>
+  ${COMPARE.map((c) => `<tr><th scope="row"><a href="${up}compare/${c.slug}-alternative/">${esc(c.name)}</a></th><td>${n(c.icons)}</td><td>${esc(c.styles)}</td><td>${esc(c.license.split(' (')[0])}</td></tr>`).join('\n  ')}
+  </tbody></table>
+  <p>Still deciding? Read <a href="${up}guides/choose-icon-library/">how to choose an open source icon library</a>.</p>
+  <p class="byline">All names are trademarks of their owners. Icon Monks is not affiliated with these libraries and uses none of their artwork.</p>`,
+  }));
+
   const notFound = page({
     path: '404.html', depth: 0,
     title: 'Page not found | Icon Monks',
@@ -712,7 +779,7 @@ table{border-collapse:collapse;width:100%;max-width:720px;background:var(--sheet
 .faq{display:grid;gap:8px;max-width:820px}.faq details{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:0 16px}.faq summary{cursor:pointer;padding:14px 0;list-style:none;display:flex;justify-content:space-between;gap:12px}.faq summary::-webkit-details-marker{display:none}.faq summary::after{content:"+";color:var(--saffron);font:500 20px/1 var(--mono)}.faq details[open] summary::after{content:"\\2212"}.faq summary h3{margin:0;font-size:15px}.faq details p{margin:0 0 16px;color:var(--muted)}
 .license{white-space:pre-wrap}
 .updated,.byline{font-size:13px;color:var(--muted);margin-top:40px}.updated a,.byline a{color:var(--saffron)}.byline{margin-top:24px}
-table.facts th{width:180px;font-weight:600;vertical-align:top}.steps{max-width:72ch;padding-left:22px}.steps li{margin-bottom:8px}.card .card-h{font:600 16px var(--body);margin:0 0 6px}
+table.facts th{width:180px;font-weight:600;vertical-align:top}table.compare{max-width:960px;display:block;overflow-x:auto}table.compare th,table.compare td{vertical-align:top}.steps{max-width:72ch;padding-left:22px}.steps li{margin-bottom:8px}.card .card-h{font:600 16px var(--body);margin:0 0 6px}
 a:focus-visible,summary:focus-visible{outline:2px solid var(--saffron);outline-offset:2px}
 footer{border-top:1px solid var(--rule);padding-block:32px 40px;color:var(--muted);font-size:13px}.foot{display:grid;grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr));gap:24px}.foot h2{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink);margin:0 0 12px}.foot ul{list-style:none;margin:0;padding:0;display:grid;gap:6px}.foot a{text-decoration:none}.foot a:hover{color:var(--ink);text-decoration:underline}.foot p{margin:0;max-width:46ch}
 .foot-base{margin:28px 0 0;padding-top:20px;border-top:1px solid var(--rule);max-width:none}.foot p a,.foot-base a{color:var(--ink)}.foot-base a{font-weight:500}
@@ -756,6 +823,63 @@ const MODIFIERS = {
   scan: 'the {b} icon in scan corners, for scanning and recognition',
   'currency-dollar': 'the {b} icon with a dollar sign, for prices and payments',
 };
+
+// Comparison pages (compare/<slug>-alternative/). The owner allowed naming other icon libraries on these pages only
+// (2026-11-03). Every figure comes from each library's npm package as checked on COMPARE_CHECKED; recount before
+// changing a number. `styles` and `packages` describe the published packages, not plans or community ports.
+const COMPARE_CHECKED = '2026-11-03';
+const COMPARE = [
+  { slug: 'lucide', name: 'Lucide', pkg: 'lucide-static 1.67.0', icons: 2296, files: 2296, license: 'ISC',
+    styles: 'One outline style with an adjustable stroke width',
+    packages: ['React', 'Vue', 'Svelte', 'Angular', 'Solid', 'Preact', 'React Native'],
+    them: 'You want one consistent outline style, mostly build for the web, and like being able to change the stroke width in code.',
+    us: `Icon Monks has ${'{u}'} icons to Lucide's 2,296, and each comes in six weights, including fill and duotone for selected states. It also ships native packages for Flutter, SwiftUI and Jetpack Compose.` },
+  { slug: 'heroicons', name: 'Heroicons', pkg: 'heroicons 2.2.0', icons: 324, files: 1288, license: 'MIT',
+    styles: 'Outline and solid at 24 px, plus solid at 20 px (mini) and 16 px (micro)',
+    packages: ['React', 'Vue'],
+    them: 'You build with Tailwind CSS, need a small, carefully tuned core set, and want icons drawn for exact pixel sizes.',
+    us: `Heroicons covers 324 concepts; Icon Monks covers ${'{u}'}, so you rarely hit a missing icon. You also get thin, light, bold and duotone weights and native mobile packages.` },
+  { slug: 'phosphor', name: 'Phosphor', pkg: '@phosphor-icons/core 2.1.1', icons: 1512, files: 9072, license: 'MIT',
+    styles: 'Six weights: thin, light, regular, bold, fill and duotone',
+    packages: ['React', 'Vue', 'Web Components', 'Flutter', 'Swift', 'Android', 'React Native'],
+    them: 'You already use Phosphor across a product and its 1,512 icons cover what you need.',
+    us: `Both use the same six weights, but Icon Monks has ${'{u}'} icons, about four times as many, so screens rarely need a second icon set to fill gaps.` },
+  { slug: 'tabler-icons', name: 'Tabler Icons', pkg: '@tabler/icons 3.50.0', icons: 5203, files: 6257, license: 'MIT',
+    styles: 'Outline for every icon, plus a filled version of 1,054 icons',
+    packages: ['React', 'Vue', 'Svelte', 'Angular', 'Preact', 'React Native', 'Web font'],
+    them: 'You want a very large outline set for the web and an adjustable stroke width.',
+    us: `Icon Monks has a filled version of every one of its ${'{u}'} icons, not just some, plus thin, light, bold and duotone, and native Flutter, SwiftUI and Compose packages.` },
+  { slug: 'font-awesome', name: 'Font Awesome Free', pkg: '@fortawesome/fontawesome-free 7.3.1', icons: 2609, files: 2883, license: 'CC BY 4.0 for icons (attribution required), OFL 1.1 for fonts, MIT for code',
+    styles: 'Solid (2,001 icons), regular (273) and brands (609); more styles are in the paid Pro plan',
+    packages: ['React', 'Vue', 'Angular'],
+    them: 'Your team already knows Font Awesome, or you need its paid Pro styles and brand coverage.',
+    us: `Every Icon Monks icon is MIT licensed with no attribution needed, and all ${'{u}'} icons come in all six weights for free; there is no paid tier.` },
+  { slug: 'material-symbols', name: 'Material Symbols', pkg: '@material-symbols/svg-400 0.48.2 (an npm build of Google\'s set)', icons: 3937, files: 23622, license: 'Apache 2.0',
+    styles: 'Outlined, rounded and sharp, each with a fill toggle; the variable font also offers weight and grade',
+    packages: ['Variable web font from Google Fonts', 'SVG files'],
+    them: 'You follow Material Design, especially on Android, and want the variable-font controls for weight, grade and fill.',
+    us: `Icon Monks has ${'{u}'} icons with a look that isn't tied to one design system, and ships ready-made components for React, Vue, Flutter, SwiftUI and Compose.` },
+  { slug: 'feather', name: 'Feather', pkg: 'feather-icons 4.29.2', icons: 287, files: 287, license: 'MIT',
+    styles: 'One outline style',
+    packages: ['JavaScript', 'React'],
+    them: 'You only need a few hundred simple outline icons and are happy with a set that rarely changes.',
+    us: `Feather has 287 icons; Icon Monks has ${'{u}'} in six weights, with regular releases and native mobile packages.` },
+  { slug: 'bootstrap-icons', name: 'Bootstrap Icons', pkg: 'bootstrap-icons 1.13.2', icons: 2078, files: 2078, license: 'MIT',
+    styles: 'Outline, with 705 filled versions published as separate icons',
+    packages: ['Web font', 'SVG files'],
+    them: 'You build on Bootstrap and want icons that match its look out of the box.',
+    us: `Icon Monks gives every one of its ${'{u}'} icons six matching weights and ships typed components for React and Vue plus Flutter, SwiftUI and Compose packages.` },
+  { slug: 'iconoir', name: 'Iconoir', pkg: 'iconoir 7.12.1', icons: 1383, files: 1671, license: 'MIT',
+    styles: 'Regular for every icon, plus a solid version of 288 icons',
+    packages: ['React', 'React Native', 'Flutter', 'Swift'],
+    them: 'You like Iconoir\'s drawing style and its 1,383 icons cover your product.',
+    us: `Icon Monks has ${'{u}'} icons and a fill and duotone version of every one, plus thin, light and bold, and a Jetpack Compose package for Android.` },
+  { slug: 'remix-icon', name: 'Remix Icon', pkg: 'remixicon 4.9.1', icons: 1539, files: 3229, license: 'Remix Icon License 1.0 (free to use, but the icons may not be resold as an icon pack; the npm listing still says Apache 2.0)',
+    styles: 'Line and fill for every icon',
+    packages: ['React', 'Vue', 'Web font'],
+    them: 'You want a neutral line-and-fill pair for web and design work and don\'t need native mobile packages.',
+    us: `Icon Monks is plain MIT with no extra conditions, has ${'{u}'} icons, and adds thin, light, bold and duotone weights to outline and fill.` },
+];
 
 // How-to articles. `published` is the first release date; dateModified follows each release.
 const GUIDES = [

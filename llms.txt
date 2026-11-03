@@ -41,6 +41,7 @@
 - [Topics](https://www.iconmonks.co/topics/): 262 themed sets such as money, code, document, layout, music
 - [License](https://www.iconmonks.co/license/)
 - [About Icon Monks](https://www.iconmonks.co/about/)
+- [Compare icon libraries](https://www.iconmonks.co/compare/): Icon Monks next to other popular open source icon sets
 
 ## Guides
 
