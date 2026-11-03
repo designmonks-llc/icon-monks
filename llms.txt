@@ -10,7 +10,7 @@
 - Icons: 6,054 unique icons in 31 categories, each in six weights (36,324 SVG files).
 - The "70,000+" headline: counts ready-to-use icon files: 6,054 icons in six weights make 36,324 SVGs, and the same 36,324 ship again as native Android vector drawables, 72,648 files in all before the SwiftUI, icon font and Flutter versions.
 - Grid: every icon is a single path on a 256-unit grid; outline strokes are 8, 12, 16 and 24 units.
-- Current version: 0.4.2, released 2026-10-28.
+- Current version: 0.4.3, released 2026-11-03.
 - License: MIT, free for personal and commercial use, no attribution needed in your interface.
 - Contact: hello@iconmonks.co
 - About: https://www.iconmonks.co/about/
@@ -25,7 +25,7 @@
 - MCP server for AI coding tools: `npx -y -p @icon-monks/core icon-monks-mcp`
 - Flutter: `flutter pub add icon_monks`
 - SwiftUI: Swift Package Manager, https://github.com/designmonks-llc/icon-monks
-- Android: `implementation("com.github.designmonks-llc:icon-monks:v0.4.2")` from JitPack
+- Android: `implementation("com.github.designmonks-llc:icon-monks:v0.4.3")` from JitPack
 
 ## Docs
 

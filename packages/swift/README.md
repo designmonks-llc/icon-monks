@@ -15,7 +15,7 @@ In Xcode choose **File > Add Package Dependencies** and enter `https://github.co
 to `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/designmonks-llc/icon-monks", from: "0.4.2")
+.package(url: "https://github.com/designmonks-llc/icon-monks", from: "0.4.3")
 ```
 
 Requires iOS 14, macOS 11, tvOS 14 or watchOS 7.

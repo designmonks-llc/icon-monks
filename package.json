@@ -1,8 +1,8 @@
 {
   "name": "icon-monks-monorepo",
   "private": true,
-  "version": "0.4.2",
-  "released": "2026-10-28",
+  "version": "0.4.3",
+  "released": "2026-11-03",
   "description": "Icon Monks: an open source icon family in six weights with packages for web and native platforms.",
   "license": "MIT",
   "scripts": {

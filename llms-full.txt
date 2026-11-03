@@ -1,6 +1,6 @@
 # Icon Monks: full icon list
 
-> Every icon in Icon Monks 0.4.2 (6,054 icons in 31 categories, six weights each), with its tags.
+> Every icon in Icon Monks 0.4.3 (6,054 icons in 31 categories, six weights each), with its tags.
 > Summary and install steps: https://www.iconmonks.co/llms.txt. Each icon has a page at https://www.iconmonks.co/icon/<name>/.
 
 ## How names map to code
