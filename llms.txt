@@ -22,6 +22,7 @@
 - Web Components: `npm install @icon-monks/web`
 - Icon font: `npm install @icon-monks/font`
 - SVG files and helpers: `npm install @icon-monks/core`
+- MCP server for AI coding tools: `npx -y -p @icon-monks/core icon-monks-mcp`
 - Flutter: `flutter pub add icon_monks`
 - SwiftUI: Swift Package Manager, https://github.com/designmonks-llc/icon-monks
 - Android: `implementation("com.github.designmonks-llc:icon-monks:v0.4.2")` from JitPack
@@ -41,6 +42,7 @@
 - [Topics](https://www.iconmonks.co/topics/): 262 themed sets such as money, code, document, layout, music
 - [License](https://www.iconmonks.co/license/)
 - [About Icon Monks](https://www.iconmonks.co/about/)
+- [Full icon list](https://www.iconmonks.co/llms-full.txt): every icon name with its category and tags
 - [Compare icon libraries](https://www.iconmonks.co/compare/): Icon Monks next to other popular open source icon sets
 
 ## Guides
