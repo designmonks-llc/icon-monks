@@ -20,7 +20,7 @@ export const ABOUT = {
   email: 'hello@iconmonks.co',
   location: 'Mount Arlington, New Jersey',   // for sentences; the owner chose not to publish the street address
   address: { addressLocality: 'Mount Arlington', addressRegion: 'NJ', addressCountry: 'US' },
-  foundingDate: '',      // the year Design Monks was founded, e.g. '2019'
+  foundingDate: '2022',  // the year Design Monks was founded
   studioSameAs: ['https://www.linkedin.com/company/81478348/', 'https://www.facebook.com/designmonks.co'],  // Design Monks' own profiles
 };
 // Where else Icon Monks lives: these tie the product to one entity for search and AI engines.
