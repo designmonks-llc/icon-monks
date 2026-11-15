@@ -1,6 +1,6 @@
 # Icon Monks
 
-> 70,000+ free, open source icons in six weights (thin, light, regular, bold, fill, duotone), drawn on one 256-unit
+> 6,054 free, open source icons in six weights (thin, light, regular, bold, fill, duotone), drawn on one 256-unit
 > grid, with packages for React, Vue, Web Components, an icon font, SVG, Flutter, SwiftUI and Jetpack Compose. MIT
 > licensed. A product of Design Monks.
 
@@ -8,7 +8,7 @@
 
 - What it is: a free, open source (MIT) icon library made by Design Monks, a product design studio founded by Atiqur Rahaman.
 - Icons: 6,054 unique icons in 31 categories, each in six weights (36,324 SVG files).
-- The "70,000+" headline: counts ready-to-use icon files: 6,054 icons in six weights make 36,324 SVGs, and the same 36,324 ship again as native Android vector drawables, 72,648 files in all before the SwiftUI, icon font and Flutter versions.
+- Files: the 6,054 icons in six weights make 36,324 SVGs, and the same 36,324 ship again as native Android vector drawables, 72,648 ready-to-use icon files in all before the SwiftUI, icon font and Flutter versions.
 - Grid: every icon is a single path on a 256-unit grid; outline strokes are 8, 12, 16 and 24 units.
 - Current version: 0.4.3, released 2026-11-03.
 - License: MIT, free for personal and commercial use, no attribution needed in your interface.
@@ -32,7 +32,7 @@
 - [React icons](https://www.iconmonks.co/react-icons/): Typed, tree-shakeable components with an IconContext for defaults.
 - [Vue icons](https://www.iconmonks.co/vue-icons/): Vue 3 components with provide/inject defaults.
 - [Web components](https://www.iconmonks.co/web-components/): An `<icon-monks>` element for plain HTML, Angular, Svelte, Astro and WordPress.
-- [Icon font](https://www.iconmonks.co/icon-font/): OTF and WOFF2 fonts with CSS classes in five weights.
+- [Icon font](https://www.iconmonks.co/icon-font/): OTF and WOFF2 fonts with CSS classes in five weights; duotone needs two tones, so it is SVG and components only.
 - [SVG icons](https://www.iconmonks.co/svg-icons/): Raw SVG files, sprites, metadata and a toSvg() helper.
 - [Flutter icons](https://www.iconmonks.co/flutter-icons/): IconData constants backed by bundled fonts.
 - [SwiftUI icons](https://www.iconmonks.co/swiftui-icons/): A Swift package with vector assets for SwiftUI and UIKit.

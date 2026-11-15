@@ -31,15 +31,16 @@ const meta = {
 };
 const SITE = 'https://www.iconmonks.co/';
 const REPO = 'https://github.com/designmonks-llc/icon-monks';
-// Headline icon count shown across the site and package docs
-const count = '70,000+';
 // The real numbers, for the FAQ, llms.txt and structured data, so search and AI engines can check them.
 const unique = data.icons.length.toLocaleString('en-US');
+// Headline icon count shown across the site and package docs. It is the unique icon count, so every page, the FAQ
+// and llms.txt agree; the file totals (SVGs, Android drawables) are explained in COUNT_NOTE.
+const count = unique;
 const files = (data.icons.length * data.weights.length).toLocaleString('en-US');
-// What the 70,000+ headline counts: every icon file you can drop into a project, i.e. the SVGs plus the same set
-// again as Android vector drawables (the Swift, font and Flutter versions come on top).
+// Every icon file you can drop into a project: the SVGs plus the same set again as Android vector drawables
+// (the Swift, font and Flutter versions come on top).
 const assets = (2 * data.icons.length * data.weights.length).toLocaleString('en-US');
-const COUNT_NOTE = `The ${count} figure counts ready-to-use icon files: ${unique} icons in six weights make ${files} SVGs, and the same ${files} ship again as native Android vector drawables, ${assets} files in all before the SwiftUI, icon font and Flutter versions.`;
+const COUNT_NOTE = `In files, the ${unique} icons in six weights make ${files} SVGs, and the same ${files} ship again as native Android vector drawables, ${assets} ready-to-use icon files in all before the SwiftUI, icon font and Flutter versions.`;
 const cats = [...new Set(data.icons.map((i) => i.category))];
 const esc = (t) => t.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 
@@ -69,7 +70,7 @@ const FAQ = [
   ['Is Icon Monks free for commercial projects?',
     'Yes. Every icon is released under the MIT license, so you can use it in personal, client and commercial work, modify it and ship it in paid products. No credit is needed in your interface; keep the license file if you redistribute the source.'],
   ['How many icons are in Icon Monks?',
-    `Icon Monks has ${unique} unique icons in ${cats.length} categories. Each one is drawn in six weights (thin, light, regular, bold, fill and duotone), which makes ${files} SVG files, and every icon also ships in the React, Vue, web component, font, Flutter, SwiftUI and Android packages. ${COUNT_NOTE}`],
+    `Icon Monks has ${unique} unique icons in ${cats.length} categories. Each one is drawn in six weights (thin, light, regular, bold, fill and duotone), which makes ${files} SVG files, and every icon also ships in the React, Vue, web component, font, Flutter, SwiftUI and Android packages. With the Android vector drawables that is ${assets} ready-to-use icon files, before the SwiftUI, icon font and Flutter versions.`],
   ['Which frameworks and platforms does it support?',
     'There are packages for React, Vue 3, Web Components (plain HTML, Angular, Svelte, Astro, WordPress), an icon font, Flutter, Android (Jetpack Compose and VectorDrawable) and Apple platforms through a Swift package for SwiftUI and UIKit. Raw SVG files work everywhere else.'],
   ['What are the six weights?',
@@ -124,7 +125,7 @@ const artifactPage = page.replace('/*__ICONS__*/null', () => JSON.stringify(meta
 const sitePage = page.replace('/*__ICONS__*/null', () => `{ ...${JSON.stringify(small)}, icons: await fetch('data/meta.json').then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }) }`);
 const split = sitePage.indexOf('</style>') + '</style>'.length;
 const title = `Icon Monks: ${count} Free Icons for Websites & Apps`;
-const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
+const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG, WebP or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
 const ld = {
   '@context': 'https://schema.org',
   '@graph': [
@@ -202,7 +203,7 @@ writeFileSync(new URL('llms.txt', root), `# Icon Monks
 
 - What it is: a free, open source (MIT) icon library made by Design Monks, a product design studio founded by ${ABOUT.founder.name}.
 - Icons: ${unique} unique icons in ${cats.length} categories, each in six weights (${files} SVG files).
-- The "${count}" headline: ${COUNT_NOTE.replace(`The ${count} figure counts`, 'counts')}
+- Files: ${COUNT_NOTE.replace(/^In files, /, '')}
 - Grid: every icon is a single path on a 256-unit grid; outline strokes are 8, 12, 16 and 24 units.
 - Current version: ${version}, released ${released}.
 - License: MIT, free for personal and commercial use, no attribution needed in your interface.
