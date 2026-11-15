@@ -55,4 +55,5 @@
 - [How to make icons accessible](https://www.iconmonks.co/guides/accessible-icons/): When to hide icons with aria-hidden, when to label them with aria-label, and the contrast and size rules to follow, with code for web, iOS and Android.
 - [How to use icons with Tailwind CSS](https://www.iconmonks.co/guides/tailwind-css-icons/): Style icons with Tailwind CSS: size with size-6, color with text-*, plus hover and dark mode, in React, Vue, plain HTML and the Icon Monks icon font.
 - [How to choose an open source icon library](https://www.iconmonks.co/guides/choose-icon-library/): A checklist for choosing a free icon library: license, coverage, weights, platform packages, bundle size and upkeep, with honest notes on Icon Monks.
+- [Use Icon Monks from AI coding tools with the MCP server](https://www.iconmonks.co/guides/icon-mcp-server/): Add the free Icon Monks MCP server to Claude, Cursor or VS Code so your AI assistant can search 6,054 icons and insert SVG or React, Vue, Flutter, SwiftUI and Compose code.
 - [Source code](https://github.com/designmonks-llc/icon-monks)

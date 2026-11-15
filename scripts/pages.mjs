@@ -509,6 +509,7 @@ SOFTWARE.</code></pre>`,
   const n = (k) => k.toLocaleString('en-US');
   const US = { styles: 'Six weights for every icon: thin, light, regular, bold, fill and duotone', license: 'MIT, no attribution needed',
     packages: ['React', 'Vue', 'Web Components', 'Icon font', 'Flutter', 'SwiftUI', 'Jetpack Compose and Android'] };
+  const ALL_COMPARE = [...COMPARE, FLATICON];
   for (const c of COMPARE) {
     const path = `compare/${c.slug}-alternative/`;
     const us = c.us.replace('{u}', unique);
@@ -548,8 +549,55 @@ SOFTWARE.</code></pre>`,
   <h2>Frequently asked questions</h2>
   <div class="faq">${qa.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('')}</div>
   <h2>Other comparisons</h2>
-  <ul class="cats">${COMPARE.filter((o) => o !== c).map((o) => `<li><a href="${up}compare/${o.slug}-alternative/">vs ${esc(o.name)}</a></li>`).join('')}</ul>
+  <ul class="cats">${ALL_COMPARE.filter((o) => o.slug !== c.slug).map((o) => `<li><a href="${up}compare/${o.slug}-alternative/">vs ${esc(o.name)}</a></li>`).join('')}</ul>
   <p class="byline">${esc(c.name)} is a trademark of its owners. Icon Monks is not affiliated with it and uses none of its artwork; every Icon Monks icon is drawn from scratch.</p>`,
+    }));
+  }
+  // Flaticon is a marketplace, not an npm package, so its page has its own layout and figures from flaticon.com.
+  {
+    const c = FLATICON;
+    const path = `compare/${c.slug}-alternative/`;
+    const qa = [
+      ['Is there a free Flaticon alternative with no attribution?', `Yes. Icon Monks is free under the MIT license and needs no credit, even in commercial work. Its ${unique} icons download free as SVG, PNG, WebP or PDF, and there is no paid tier.`],
+      ['Do I have to credit Flaticon icons?', `On a free account, yes. Flaticon's pricing page says free members must credit the author and add a link to Flaticon. A Premium subscription (from ${c.price}) removes that requirement.`],
+      ['Can I get Flaticon icons as SVG for free?', `Flaticon's pricing table lists PNG for free accounts and SVG, EPS, PSD and Base64 for Premium. Every Icon Monks icon is free as SVG, and also as React, Vue, Flutter, SwiftUI and Jetpack Compose components.`],
+      ['Is Icon Monks as big as Flaticon?', `No. Flaticon lists ${c.icons} icons and stickers from many designers; Icon Monks has ${unique} icons drawn as one set. Flaticon suits one-off illustrations, while Icon Monks suits product interfaces that need every icon to match.`],
+    ];
+    const row = (label, a, b) => `<tr><th scope="row">${label}</th><td>${a}</td><td>${b}</td></tr>`;
+    write(path, page({
+      path, depth: 2,
+      title: 'Flaticon Alternative: Free Icons With No Attribution | Icon Monks',
+      description: `A free Flaticon alternative: ${unique} MIT icons in six weights with no attribution and free SVG downloads, plus React, Vue, Flutter, SwiftUI and Compose packages.`,
+      h1: 'Icon Monks vs Flaticon',
+      lede: 'Flaticon is a huge icon marketplace. Icon Monks is one open source icon set built for product interfaces. Here is how they differ on license, attribution, file formats and code, so you can pick the right one.',
+      crumbs: [['Compare', 'compare/'], ['vs Flaticon', path]],
+      type: 'article',
+      image: card(`compare/${c.slug}`, 'Icon Monks vs Flaticon', `${unique} icons, free SVG, no attribution`, ['scales', 'check-circle', 'squares-four', 'code']),
+      jsonld: [{ '@type': 'TechArticle', headline: 'Icon Monks vs Flaticon', url: SITE + path, datePublished: c.checked, dateModified: c.checked > released ? c.checked : released,
+        author: ORG, publisher: ORG, isPartOf: { '@id': `${SITE}#website` }, about: [{ '@id': `${SITE}#code` }, { '@type': 'WebSite', name: 'Flaticon', url: 'https://www.flaticon.com/' }] }, faq(qa)],
+      body: (up) => `
+  <h2>At a glance</h2>
+  <table class="compare"><thead><tr><th scope="col"></th><th scope="col">Icon Monks</th><th scope="col">Flaticon</th></tr></thead><tbody>
+  ${row('What it is', 'One open source icon set, drawn as a family', esc(c.what))}
+  ${row('Icons', unique, esc(c.icons))}
+  ${row('Styles', US.styles, esc(c.styles))}
+  ${row('License', US.license, esc(c.license))}
+  ${row('Price', 'Free; there is no paid tier', esc(c.prices))}
+  ${row('Free formats', 'SVG, PNG, WebP and PDF', esc(c.freeFormats))}
+  ${row('Code', US.packages.join(', '), esc(c.packages))}
+  </tbody></table>
+  <p class="hint">Flaticon figures are from flaticon.com (home, pricing and terms pages) as checked on ${longDate(c.checked)}. Icon Monks figures are from version ${version}.</p>
+  <h2>When Flaticon is the better pick</h2>
+  <p>You need a one-off illustration-style icon or sticker for a slide, post or printed piece, want the widest possible choice of drawing styles, and are happy to credit the author or pay for Premium.</p>
+  <h2>When Icon Monks is the better pick</h2>
+  <p>You are building an app or website and need hundreds of icons that match in stroke, corner and size. Every Icon Monks icon comes in the same six weights, the SVG is free, nothing needs crediting, and you can install it as code instead of downloading files one by one. See <a href="${up}guides/choose-icon-weight/">how the six weights work</a> or <a href="${up}getting-started/">install it for your platform</a>.</p>
+  <h2>Switching to Icon Monks</h2>
+  <p>Search the <a href="${up}">icon browser</a> by concept, since names differ from Flaticon's, and keep one weight per screen so the result looks consistent. Copy the SVG into Figma or install the package for your platform. Every icon has its own page with code for each platform, like the <a href="${up}icon/house/">house icon</a>.</p>
+  <h2>Frequently asked questions</h2>
+  <div class="faq">${qa.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('')}</div>
+  <h2>Other comparisons</h2>
+  <ul class="cats">${COMPARE.map((o) => `<li><a href="${up}compare/${o.slug}-alternative/">vs ${esc(o.name)}</a></li>`).join('')}</ul>
+  <p class="byline">Flaticon is a trademark of its owners. Icon Monks is not affiliated with it and uses none of its artwork; every Icon Monks icon is drawn from scratch.</p>`,
     }));
   }
   write('compare/', page({
@@ -557,15 +605,16 @@ SOFTWARE.</code></pre>`,
     title: 'Icon Library Comparisons: Icon Monks vs Popular Sets | Icon Monks',
     description: `Compare Icon Monks with ${COMPARE.slice(0, 5).map((c) => c.name).join(', ')} and more: icon counts, styles, licenses and platform packages, checked against npm.`,
     h1: 'Compare icon libraries',
-    lede: `How Icon Monks compares with ${COMPARE.length} well-known icon libraries. Figures for the other libraries were counted in their npm packages on ${longDate(COMPARE_CHECKED)}.`,
+    lede: `How Icon Monks compares with ${COMPARE.length} well-known icon libraries and the Flaticon marketplace. Figures for the other libraries were counted in their npm packages on ${longDate(COMPARE_CHECKED)}; Flaticon's come from flaticon.com on ${longDate(FLATICON.checked)}.`,
     crumbs: [['Compare', 'compare/']],
     image: card('compare', 'Compare icon libraries', `Icon Monks next to ${COMPARE.length} popular sets`, ['scales', 'check-circle', 'squares-four', 'code']),
     jsonld: [{ '@type': 'CollectionPage', name: 'Icon library comparisons', url: `${SITE}compare/`, isPartOf: { '@id': `${SITE}#website` }, dateModified: COMPARE_CHECKED > released ? COMPARE_CHECKED : released,
-      mainEntity: { '@type': 'ItemList', itemListElement: COMPARE.map((c, k) => ({ '@type': 'ListItem', position: k + 1, url: `${SITE}compare/${c.slug}-alternative/`, name: `Icon Monks vs ${c.name}` })) } }],
+      mainEntity: { '@type': 'ItemList', itemListElement: ALL_COMPARE.map((c, k) => ({ '@type': 'ListItem', position: k + 1, url: `${SITE}compare/${c.slug}-alternative/`, name: `Icon Monks vs ${c.name}` })) } }],
     body: (up) => `
   <table class="compare"><thead><tr><th scope="col">Library</th><th scope="col">Icons</th><th scope="col">Styles</th><th scope="col">License</th></tr></thead><tbody>
   <tr><th scope="row">Icon Monks</th><td>${unique}</td><td>${US.styles}</td><td>${US.license}</td></tr>
   ${COMPARE.map((c) => `<tr><th scope="row"><a href="${up}compare/${c.slug}-alternative/">${esc(c.name)}</a></th><td>${n(c.icons)}</td><td>${esc(c.styles)}</td><td>${esc(c.license.split(' (')[0])}</td></tr>`).join('\n  ')}
+  <tr><th scope="row"><a href="${up}compare/${FLATICON.slug}-alternative/">${FLATICON.name}</a> (marketplace)</th><td>${esc(FLATICON.icons)}</td><td>${esc(FLATICON.styles)}</td><td>${esc(FLATICON.licenseShort)}</td></tr>
   </tbody></table>
   <p>Still deciding? Read <a href="${up}guides/choose-icon-library/">how to choose an open source icon library</a>.</p>
   <p class="byline">All names are trademarks of their owners. Icon Monks is not affiliated with these libraries and uses none of their artwork.</p>`,
@@ -881,6 +930,19 @@ const COMPARE = [
     us: `Icon Monks is plain MIT with no extra conditions, has ${'{u}'} icons, and adds thin, light, bold and duotone weights to outline and fill.` },
 ];
 
+// Flaticon (compare/flaticon-alternative/) is an icon marketplace with no npm package, so its figures come from
+// flaticon.com's home, pricing and terms pages as checked on `checked`. Recheck them there before changing one.
+const FLATICON = { slug: 'flaticon', name: 'Flaticon', checked: '2026-11-15',
+  what: 'A marketplace of icons and stickers from many designers, run by Magnific AI, S.L.U.',
+  icons: '18.0M+ icons and stickers',
+  styles: 'Many styles, which vary by designer; its own UIcons set has 50,400+ interface icons in 9 styles',
+  license: 'Free accounts must credit the author and link to Flaticon; Premium removes attribution',
+  licenseShort: 'Free with attribution, or Premium',
+  price: '8.25 USD a month, billed 99 USD a year',
+  prices: 'Free with attribution, or Premium at 12.99 USD a month or 99 USD a year',
+  freeFormats: 'PNG (SVG, EPS, PSD and Base64 need Premium)',
+  packages: 'Website downloads, an icon font for UIcons, a Figma plugin and an API' };
+
 // How-to articles. `published` is the first release date; dateModified follows each release.
 const GUIDES = [
   { path: 'guides/use-icons-in-figma/', short: 'Icons in Figma', published: '2026-10-28', icons: ['figma-logo', 'copy', 'download', 'palette'],
@@ -1061,5 +1123,33 @@ const GUIDES = [
       ['What is the best free icon library for React?', 'One with typed, tree-shakeable components, a permissive license and the icons your product needs. Icon Monks fits that with 6,054 icons in six weights under MIT, but test your own list of 30 icons before choosing.'],
       ['What is the best free icon library for Flutter?', 'Pick one that ships IconData constants backed by fonts, so icons work with the standard Icon widget and IconTheme. The icon_monks package on pub.dev does this in five weights; duotone is left out because font glyphs draw in one color.'],
       ['Can I mix icons from two libraries?', 'You can, but differences in grid, stroke width and corner radius show. If you must, use one library for each kind of icon, for example brand logos from one set and interface icons from another.'],
+    ] },  { path: 'guides/icon-mcp-server/', short: 'MCP server', published: '2026-11-15', icons: ['robot', 'magnifying-glass', 'brackets-curly', 'plugs-connected'],
+    title: 'Icon MCP Server: Let AI Coding Tools Find and Insert Icons | Icon Monks',
+    description: 'Add the free Icon Monks MCP server to Claude, Cursor or VS Code so your AI assistant can search 6,054 icons and insert SVG or React, Vue, Flutter, SwiftUI and Compose code.',
+    h1: 'Use Icon Monks from AI coding tools with the MCP server',
+    lede: 'Icon Monks ships a Model Context Protocol (MCP) server in @icon-monks/core. Add one line to your AI assistant\'s MCP settings and it can search the whole library by concept, then write the exact SVG or import code for your platform, instead of guessing icon names that do not exist.',
+    steps: [
+      ['Check you have Node.js', 'The server runs with npx, which comes with Node.js. It has no other dependencies.'],
+      ['Add the server to your MCP client', 'Use the command npx -y -p @icon-monks/core icon-monks-mcp. The snippets below show the config for common clients.'],
+      ['Restart or reload the client', 'Most clients load MCP servers at start-up. After a restart, the icon-monks tools appear in the tool list.'],
+      ['Ask for icons in plain words', 'For example: "add an upload icon to this button in the bold weight". The assistant searches, picks a name and inserts the code.'],
+    ],
+    sections: () => [
+      ['Config for Claude, Cursor and other clients', code(`{\n  "mcpServers": {\n    "icon-monks": {\n      "command": "npx",\n      "args": ["-y", "-p", "@icon-monks/core", "icon-monks-mcp"]\n    }\n  }\n}`)
+        + '<p>This <code>mcpServers</code> block works in Claude Desktop, Cursor (<code>.cursor/mcp.json</code>) and most other MCP clients. In Claude Code you can add it from the terminal instead:</p>'
+        + code('claude mcp add icon-monks -- npx -y -p @icon-monks/core icon-monks-mcp')
+        + '<p>VS Code reads <code>.vscode/mcp.json</code>, which names the block <code>servers</code> instead of <code>mcpServers</code>; the command and arguments are the same.</p>'],
+      ['What the server can do', '<table><tr><th>Tool</th><th>What it does</th></tr>'
+        + '<tr><td><code>search_icons</code></td><td>Finds icons by name, concept or tag, with an optional category filter</td></tr>'
+        + '<tr><td><code>get_icon_svg</code></td><td>Returns SVG markup in any of the six weights, at a size from 8 to 1024 px and in any color</td></tr>'
+        + '<tr><td><code>get_icon_code</code></td><td>Returns ready-to-paste code for React, Vue, HTML (web component), the icon font, Flutter, SwiftUI, Jetpack Compose or inline SVG</td></tr>'
+        + '<tr><td><code>list_categories</code></td><td>Lists the categories and how many icons each has</td></tr></table>'],
+      ['Why use it instead of asking the model', '<p>Language models often invent icon names or mix names from different libraries. The server answers from the real icon list in the installed package, so every name it returns exists and every snippet matches the package\'s actual API. It runs locally over standard input and output and does not send your code anywhere.</p>'],
+      ['Limits', '<p>Duotone is not available in the icon font or the Flutter package, so the server says so and suggests SVG or a component package instead. The server needs Node.js; it is not a hosted service.</p>'],
+    ],
+    faq: [
+      ['Is there an MCP server for icons?', 'Yes. Icon Monks includes one in the @icon-monks/core npm package. Run it with npx -y -p @icon-monks/core icon-monks-mcp and add it to Claude, Cursor, VS Code or any MCP client.'],
+      ['Is the Icon Monks MCP server free?', 'Yes. It is part of the MIT-licensed @icon-monks/core package, and the icons it returns are MIT licensed with no attribution needed.'],
+      ['Does the MCP server need an API key or internet access?', 'No API key. npx downloads the package the first time; after that the server reads icons from the installed package on your machine.'],
     ] },
 ];
