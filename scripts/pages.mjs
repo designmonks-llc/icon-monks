@@ -680,10 +680,10 @@ const PLATFORMS = [
       ['Can I use it in WordPress?', 'Yes. Load the script once in your theme, then use the element in any block that accepts HTML.'],
       ['How big is the script?', 'About 3 KB. Each icon is fetched the first time a page uses it, about 1 KB per icon and weight, and cached. For offline use, import <code>@icon-monks/web/all</code>, which holds every icon in every weight up front (about 23 MB).']] },
   { path: 'icon-font/', short: 'Icon font', pkg: '@icon-monks/font', lang: 'CSS', install: 'npm i @icon-monks/font',
-    blurb: 'OTF and WOFF2 fonts with CSS classes in five weights.',
+    blurb: 'OTF and WOFF2 fonts with CSS classes in five weights; duotone needs two tones, so it is SVG and components only.',
     title: (n) => `Icon Font: ${n} Free Icons as WOFF2 and CSS | Icon Monks`,
     description: (n) => `Use ${n} free icons as a web font with simple CSS classes. WOFF2 and OTF in thin, light, regular, bold and fill, with stable codepoints. MIT licensed.`,
-    h1: 'Icon font', lede: (n) => `All ${n} icons as a web font, in five weights, with one CSS class per icon.`,
+    h1: 'Icon font', lede: (n) => `All ${n} icons as a web font, with one CSS class per icon. Fonts draw in one color, so the font has five of the six weights: thin, light, regular, bold and fill. Use SVG or a component package for duotone.`,
     sections: [
       ['Link the stylesheet', code(`<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon-monks/font@${VERSION}/dist/index.css">`) + '<p>Or install it with <code>npm install @icon-monks/font</code> and add <code>import \'@icon-monks/font\';</code> to your app.</p>'],
       ['Use an icon', code(`<i class="im im-house"></i>        <!-- regular -->\n<i class="im-bold im-house"></i>   <!-- also im-thin, im-light, im-fill -->`)],
@@ -1059,7 +1059,7 @@ const GUIDES = [
     ],
     faq: [
       ['What is the best free icon library for React?', 'One with typed, tree-shakeable components, a permissive license and the icons your product needs. Icon Monks fits that with 6,054 icons in six weights under MIT, but test your own list of 30 icons before choosing.'],
-      ['What is the best free icon library for Flutter?', 'Pick one that ships IconData constants backed by fonts, so icons work with the standard Icon widget and IconTheme. The icon_monks package on pub.dev does this in five weights.'],
+      ['What is the best free icon library for Flutter?', 'Pick one that ships IconData constants backed by fonts, so icons work with the standard Icon widget and IconTheme. The icon_monks package on pub.dev does this in five weights; duotone is left out because font glyphs draw in one color.'],
       ['Can I mix icons from two libraries?', 'You can, but differences in grid, stroke width and corner radius show. If you must, use one library for each kind of icon, for example brand logos from one set and interface icons from another.'],
     ] },
 ];

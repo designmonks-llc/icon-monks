@@ -124,7 +124,7 @@ const artifactPage = page.replace('/*__ICONS__*/null', () => JSON.stringify(meta
 const sitePage = page.replace('/*__ICONS__*/null', () => `{ ...${JSON.stringify(small)}, icons: await fetch('data/meta.json').then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }) }`);
 const split = sitePage.indexOf('</style>') + '</style>'.length;
 const title = `Icon Monks: ${count} Free Icons for Websites & Apps`;
-const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
+const description = `${count} free, open source SVG icons in 6 weights, MIT licensed. Download SVG, PNG, WebP or PDF, or install for React, Vue, Flutter, SwiftUI and Jetpack Compose.`;
 const ld = {
   '@context': 'https://schema.org',
   '@graph': [

@@ -32,7 +32,7 @@
 - [React icons](https://www.iconmonks.co/react-icons/): Typed, tree-shakeable components with an IconContext for defaults.
 - [Vue icons](https://www.iconmonks.co/vue-icons/): Vue 3 components with provide/inject defaults.
 - [Web components](https://www.iconmonks.co/web-components/): An `<icon-monks>` element for plain HTML, Angular, Svelte, Astro and WordPress.
-- [Icon font](https://www.iconmonks.co/icon-font/): OTF and WOFF2 fonts with CSS classes in five weights.
+- [Icon font](https://www.iconmonks.co/icon-font/): OTF and WOFF2 fonts with CSS classes in five weights; duotone needs two tones, so it is SVG and components only.
 - [SVG icons](https://www.iconmonks.co/svg-icons/): Raw SVG files, sprites, metadata and a toSvg() helper.
 - [Flutter icons](https://www.iconmonks.co/flutter-icons/): IconData constants backed by bundled fonts.
 - [SwiftUI icons](https://www.iconmonks.co/swiftui-icons/): A Swift package with vector assets for SwiftUI and UIKit.
