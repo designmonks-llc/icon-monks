@@ -869,7 +869,7 @@ def flutter(cps):
     font_yaml = '\n'.join(f"    - family: IconMonks{FAMILY[w]}\n      fonts:\n        - asset: fonts/IconMonks-{FAMILY[w]}.otf"
                           for w in SOLID_WEIGHTS)
     write(os.path.join(path, 'pubspec.yaml'), f"""name: icon_monks
-description: Icon Monks for Flutter. 6,054 open source icons in thin, light, regular, bold and fill weights.
+description: Icon Monks for Flutter. 70,000+ open source icons in thin, light, regular, bold and fill weights.
 version: {VERSION}
 homepage: https://www.iconmonks.co/
 repository: https://github.com/designmonks-llc/icon-monks
