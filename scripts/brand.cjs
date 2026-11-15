@@ -11,8 +11,8 @@ const { chromium } = require('playwright');
 const root = path.join(__dirname, '..');
 const data = JSON.parse(fs.readFileSync(path.join(root, 'build/icons.json'), 'utf8'));
 const by = Object.fromEntries(data.icons.map((i) => [i.name, i]));
-// Headline number on the social card: the unique icon count, matching the site headline (owner's call, 2026-11-15).
-const OG_COUNT = data.icons.length.toLocaleString('en-US');
+// Headline number on the social card, set by the owner (2026-10-20) rather than the live icon count.
+const OG_COUNT = '70,000+';
 const p = (n, w) => { const d = by[n].paths[w]; return Array.isArray(d) ? (d[0] ? `<path d="${d[0]}" opacity=".2"/>` : '') + `<path d="${d[1]}"/>` : `<path d="${d}"/>`; };
 const ico = (n, w, s, c) => `<svg viewBox="0 0 256 256" width="${s}" height="${s}" fill="${c}">${p(n, w)}</svg>`;
 
