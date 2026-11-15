@@ -1123,5 +1123,33 @@ const GUIDES = [
       ['What is the best free icon library for React?', 'One with typed, tree-shakeable components, a permissive license and the icons your product needs. Icon Monks fits that with 6,054 icons in six weights under MIT, but test your own list of 30 icons before choosing.'],
       ['What is the best free icon library for Flutter?', 'Pick one that ships IconData constants backed by fonts, so icons work with the standard Icon widget and IconTheme. The icon_monks package on pub.dev does this in five weights; duotone is left out because font glyphs draw in one color.'],
       ['Can I mix icons from two libraries?', 'You can, but differences in grid, stroke width and corner radius show. If you must, use one library for each kind of icon, for example brand logos from one set and interface icons from another.'],
+    ] },  { path: 'guides/icon-mcp-server/', short: 'MCP server', published: '2026-11-15', icons: ['robot', 'magnifying-glass', 'brackets-curly', 'plugs-connected'],
+    title: 'Icon MCP Server: Let AI Coding Tools Find and Insert Icons | Icon Monks',
+    description: 'Add the free Icon Monks MCP server to Claude, Cursor or VS Code so your AI assistant can search 6,054 icons and insert SVG or React, Vue, Flutter, SwiftUI and Compose code.',
+    h1: 'Use Icon Monks from AI coding tools with the MCP server',
+    lede: 'Icon Monks ships a Model Context Protocol (MCP) server in @icon-monks/core. Add one line to your AI assistant\'s MCP settings and it can search the whole library by concept, then write the exact SVG or import code for your platform, instead of guessing icon names that do not exist.',
+    steps: [
+      ['Check you have Node.js', 'The server runs with npx, which comes with Node.js. It has no other dependencies.'],
+      ['Add the server to your MCP client', 'Use the command npx -y -p @icon-monks/core icon-monks-mcp. The snippets below show the config for common clients.'],
+      ['Restart or reload the client', 'Most clients load MCP servers at start-up. After a restart, the icon-monks tools appear in the tool list.'],
+      ['Ask for icons in plain words', 'For example: "add an upload icon to this button in the bold weight". The assistant searches, picks a name and inserts the code.'],
+    ],
+    sections: () => [
+      ['Config for Claude, Cursor and other clients', code(`{\n  "mcpServers": {\n    "icon-monks": {\n      "command": "npx",\n      "args": ["-y", "-p", "@icon-monks/core", "icon-monks-mcp"]\n    }\n  }\n}`)
+        + '<p>This <code>mcpServers</code> block works in Claude Desktop, Cursor (<code>.cursor/mcp.json</code>) and most other MCP clients. In Claude Code you can add it from the terminal instead:</p>'
+        + code('claude mcp add icon-monks -- npx -y -p @icon-monks/core icon-monks-mcp')
+        + '<p>VS Code reads <code>.vscode/mcp.json</code>, which names the block <code>servers</code> instead of <code>mcpServers</code>; the command and arguments are the same.</p>'],
+      ['What the server can do', '<table><tr><th>Tool</th><th>What it does</th></tr>'
+        + '<tr><td><code>search_icons</code></td><td>Finds icons by name, concept or tag, with an optional category filter</td></tr>'
+        + '<tr><td><code>get_icon_svg</code></td><td>Returns SVG markup in any of the six weights, at a size from 8 to 1024 px and in any color</td></tr>'
+        + '<tr><td><code>get_icon_code</code></td><td>Returns ready-to-paste code for React, Vue, HTML (web component), the icon font, Flutter, SwiftUI, Jetpack Compose or inline SVG</td></tr>'
+        + '<tr><td><code>list_categories</code></td><td>Lists the categories and how many icons each has</td></tr></table>'],
+      ['Why use it instead of asking the model', '<p>Language models often invent icon names or mix names from different libraries. The server answers from the real icon list in the installed package, so every name it returns exists and every snippet matches the package\'s actual API. It runs locally over standard input and output and does not send your code anywhere.</p>'],
+      ['Limits', '<p>Duotone is not available in the icon font or the Flutter package, so the server says so and suggests SVG or a component package instead. The server needs Node.js; it is not a hosted service.</p>'],
+    ],
+    faq: [
+      ['Is there an MCP server for icons?', 'Yes. Icon Monks includes one in the @icon-monks/core npm package. Run it with npx -y -p @icon-monks/core icon-monks-mcp and add it to Claude, Cursor, VS Code or any MCP client.'],
+      ['Is the Icon Monks MCP server free?', 'Yes. It is part of the MIT-licensed @icon-monks/core package, and the icons it returns are MIT licensed with no attribution needed.'],
+      ['Does the MCP server need an API key or internet access?', 'No API key. npx downloads the package the first time; after that the server reads icons from the installed package on your machine.'],
     ] },
 ];
