@@ -112,7 +112,8 @@ const page = chrome(readFileSync(new URL('docs/template.html', root), 'utf8'), {
   .replaceAll('__UNIQUE__', unique)
   .replace('<!--__WEIGHTS__-->', weightsHtml)
   .replace('<!--__CATEGORIES__-->', catsHtml)
-  .replace('<!--__TOPICS__-->', pages.topics.slice(0, 30).map((t) => `<li><a href="topics/${t.slug}/">${esc(t.name)} icons <span>${t.members.length}</span></a></li>`).join('\n    '))
+  .replace('<!--__TOPICS__-->', [...pages.FEATURED_TOPICS.map((s) => pages.topics.find((t) => t.slug === s)).filter(Boolean), ...pages.topics]
+    .filter((t, k, a) => a.indexOf(t) === k).slice(0, 30).map((t) => `<li><a href="topics/${t.slug}/">${esc(t.name)} icons <span>${t.members.length}</span></a></li>`).join('\n    '))
   .replace('<!--__POPULAR__-->', HOME_POPULAR.filter((n) => byName[n]).map((n) => `<li><a href="icon/${n}/">${esc(n.replace(/-/g, ' '))}</a></li>`).join('\n    '))
   .replace('<!--__FAQ__-->', faqHtml);
 
