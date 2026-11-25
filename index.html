@@ -187,6 +187,7 @@ aside.detail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 84px)
 .d-head { display: flex; align-items: start; justify-content: space-between; gap: 10px; }
 .detail h2 { font: 500 26px/1.1 var(--display); margin: 0; letter-spacing: 0; overflow-wrap: anywhere; }
 .detail .meta { font: 12px var(--mono); color: var(--muted); margin-top: 4px; }
+.detail .meta a, .detail .meta button { font: inherit; color: var(--saffron); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
 .tags { display: flex; flex-wrap: wrap; gap: 5px; }
 .tags button { font: 500 12px var(--body); border: 0; background: var(--grid); color: var(--muted); border-radius: 99px; padding: 4px 10px; cursor: pointer; }
 .tags button:hover { color: var(--ink); }
@@ -487,13 +488,29 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
   <h2 id="topics-title">Popular icons and topics</h2>
   <p>Jump to the icons people look for most, or a theme that cuts across categories. See <a href="topics/">all topics</a>.</p>
   <ul class="cats" id="topic-links">
+    <li><a href="topics/database-icons/">Database icons <span>56</span></a></li>
+    <li><a href="topics/hand-icons/">Hand icons <span>50</span></a></li>
+    <li><a href="topics/glass-icons/">Glass icons <span>82</span></a></li>
+    <li><a href="topics/delete-icons/">Delete icons <span>27</span></a></li>
+    <li><a href="topics/animation-icons/">Animation icons <span>22</span></a></li>
+    <li><a href="topics/office-icons/">Office icons <span>33</span></a></li>
+    <li><a href="topics/gear-icons/">Gear icons <span>75</span></a></li>
+    <li><a href="topics/bank-icons/">Bank icons <span>19</span></a></li>
+    <li><a href="topics/browser-icons/">Browser icons <span>28</span></a></li>
+    <li><a href="topics/cloud-icons/">Cloud icons <span>72</span></a></li>
+    <li><a href="topics/eye-icons/">Eye icons <span>34</span></a></li>
+    <li><a href="topics/star-icons/">Star icons <span>59</span></a></li>
+    <li><a href="topics/clock-icons/">Clock icons <span>70</span></a></li>
+    <li><a href="topics/focus-icons/">Focus icons <span>16</span></a></li>
+    <li><a href="topics/keyboard-icons/">Keyboard icons <span>12</span></a></li>
+    <li><a href="topics/wallet-icons/">Wallet icons <span>13</span></a></li>
+    <li><a href="topics/ai-icons/">AI icons <span>67</span></a></li>
     <li><a href="topics/money-icons/">Money icons <span>152</span></a></li>
     <li><a href="topics/code-icons/">Code icons <span>111</span></a></li>
     <li><a href="topics/document-icons/">Document icons <span>91</span></a></li>
     <li><a href="topics/layout-icons/">Layout icons <span>92</span></a></li>
     <li><a href="topics/music-icons/">Music icons <span>78</span></a></li>
     <li><a href="topics/favorite-icons/">Favorite icons <span>71</span></a></li>
-    <li><a href="topics/ai-icons/">AI icons <span>67</span></a></li>
     <li><a href="topics/chat-icons/">Chat icons <span>91</span></a></li>
     <li><a href="topics/power-icons/">Power icons <span>64</span></a></li>
     <li><a href="topics/math-icons/">Math icons <span>60</span></a></li>
@@ -501,22 +518,6 @@ footer { border-top: 1px solid var(--rule); padding-block: 32px 40px; color: var
     <li><a href="topics/table-icons/">Table icons <span>62</span></a></li>
     <li><a href="topics/car-icons/">Car icons <span>67</span></a></li>
     <li><a href="topics/shopping-icons/">Shopping icons <span>66</span></a></li>
-    <li><a href="topics/camera-icons/">Camera icons <span>65</span></a></li>
-    <li><a href="topics/phone-icons/">Phone icons <span>65</span></a></li>
-    <li><a href="topics/send-icons/">Send icons <span>62</span></a></li>
-    <li><a href="topics/alert-icons/">Alert icons <span>52</span></a></li>
-    <li><a href="topics/error-icons/">Error icons <span>53</span></a></li>
-    <li><a href="topics/search-icons/">Search icons <span>53</span></a></li>
-    <li><a href="topics/upload-icons/">Upload icons <span>54</span></a></li>
-    <li><a href="topics/share-icons/">Share icons <span>57</span></a></li>
-    <li><a href="topics/database-icons/">Database icons <span>56</span></a></li>
-    <li><a href="topics/download-icons/">Download icons <span>51</span></a></li>
-    <li><a href="topics/google-icons/">Google icons <span>51</span></a></li>
-    <li><a href="topics/warning-icons/">Warning icons <span>72</span></a></li>
-    <li><a href="topics/bitcoin-icons/">Bitcoin icons <span>49</span></a></li>
-    <li><a href="topics/clock-icons/">Clock icons <span>70</span></a></li>
-    <li><a href="topics/file-type-icons/">File Type icons <span>47</span></a></li>
-    <li><a href="topics/storage-icons/">Storage icons <span>47</span></a></li>
   </ul>
   <ul class="cats" id="popular-links">
     <li><a href="icon/house/">house</a></li>
@@ -753,7 +754,8 @@ function renderDetail() {
   if (!icon) return;
   const w = state.previewWeight || state.weight;
   $('d-name').textContent = icon.name;
-  $('d-meta').textContent = icon.category;
+  // On the site each icon has its own page; shared links point there so they land on an indexable page.
+  $('d-meta').innerHTML = HAS_PAGES ? `${icon.category} · <a href="icon/${icon.name}/">Icon page</a> · <button type="button" id="d-link">Copy link</button>` : icon.category;
   $('d-tags').innerHTML = icon.tags.slice(0, 8).map((t) => `<button type="button" data-tag="${t}">${t}</button>`).join('');
   $('d-icon').innerHTML = body(icon, w);
   $('d-icon').style.fill = state.color || 'currentColor';
@@ -916,6 +918,8 @@ document.addEventListener('keydown', (e) => {
 $('d-weights').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.previewWeight = b.dataset.w; renderDetail(); });
 $('tabs').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.tab = b.dataset.tab; store.set('im-tab', state.tab); renderDetail(); });
 $('cat').addEventListener('change', (e) => { state.cat = e.target.value; renderGrid(); });
+// The claude.ai artifact is a single page with no icon pages; the site has one per icon at icon/<name>/.
+const HAS_PAGES = !(window.claude && window.claude.use);
 // Analytics events (no-ops until the shared chrome's analytics loader is configured). Searches log once typing pauses.
 const track = (name, params) => { try { if (window.imTrack) window.imTrack(name, params); } catch {} };
 let searchTimer;
@@ -934,6 +938,13 @@ async function copyText(btn, text, label) {
   setTimeout(() => { out.textContent = label; }, 1400);
 }
 $('copy').addEventListener('click', () => { copyText($('copy'), $('snippet').textContent, 'Copy code'); track('copy_code', { icon: state.selected, platform: state.tab }); });
+$('d-meta').addEventListener('click', async (e) => {
+  const b = e.target.closest('#d-link'); if (!b || !state.selected) return;
+  const url = new URL(`icon/${state.selected}/`, location.href).href;
+  try { await navigator.clipboard.writeText(url); b.textContent = 'Copied'; } catch { b.textContent = url; }
+  setTimeout(() => { b.textContent = 'Copy link'; }, 1400);
+  track('copy_link', { icon: state.selected });
+});
 $('copy-svg').addEventListener('click', () => {
   const icon = byName[state.selected]; if (!icon) return;
   copyText($('copy-svg'), svg(icon, state.previewWeight || state.weight, 32, state.color || 'currentColor'), 'Copy SVG');
@@ -953,7 +964,12 @@ $('cat').insertAdjacentHTML('beforeend', Object.keys(cats).sort().map((c) => `<o
 const params = (() => { try { return new URLSearchParams(location.search); } catch { return new URLSearchParams(); } })();
 if (params.get('q')) { state.q = params.get('q'); $('q').value = state.q; }
 if (cats[params.get('category')]) { state.cat = params.get('category'); $('cat').value = state.cat; }
-if (byName[params.get('icon')]) state.selected = jumpTo = params.get('icon');
+if (byName[params.get('icon')]) {
+  state.selected = jumpTo = params.get('icon');
+  // A shared ?icon= link is the same content as that icon's own page, so point search engines there.
+  const canon = document.querySelector('link[rel="canonical"]');
+  if (canon && HAS_PAGES) canon.href = new URL(`icon/${state.selected}/`, location.href).href;
+}
 if (WEIGHTS.includes(params.get('weight'))) state.weight = params.get('weight');
 let urlTimer;
 function syncUrl() {

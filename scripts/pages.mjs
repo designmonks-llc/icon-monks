@@ -194,32 +194,50 @@ ${HEADER_JS}
       : base
         ? [`What is the difference between the ${t} and ${title(base).toLowerCase()} icons?`, `The ${t} icon is ${modifier(i.name.slice(base.length + 1), title(base).toLowerCase())}. Both share the same outline and come in all six weights, so you can swap one for the other to show a change of state.`]
         : [`Which weight of the ${t} icon should I use?`, `Use regular at 24 px for most interfaces, bold at 16 px or on busy screens, thin or light for large display sizes, fill for a selected or active state, and duotone for illustrations and empty states.`];
+    const brandName = i.category === 'Brands' && i.name.endsWith('-logo') ? T.replace(/ Logo$/, '') : null;
     const qa = [
-      [`Is the ${t} icon free for commercial use?`, `Yes. The ${t} icon is released under the MIT license, so you can use it in personal, client and commercial projects without paying or adding credit in your interface.`],
+      brandName
+        ? [`Is this the official ${brandName} logo?`, `No. It is a single-color icon drawn by Icon Monks in the proportions of the ${brandName} mark, so it matches the other icons in a toolbar, footer or integration list. For the official full-color logo, use ${brandName}'s own brand assets and follow its guidelines. The drawing is MIT licensed; the ${brandName} name and logo stay trademarks of their owner.`]
+        : [`Is the ${t} icon free for commercial use?`, `Yes. The ${t} icon is released under the MIT license, so you can use it in personal, client and commercial projects without paying or adding credit in your interface.`],
       [`How do I change the color and size of the ${t} icon?`, `The icon draws in currentColor, so it takes the text color around it. In React, Vue and the web component, set the size and color props; in the icon browser, pick a color and size before you download a PNG, WebP, SVG or PDF.`],
       third,
     ];
     const path = `icon/${i.name}/`;
+    // Brand logos: people searching "<brand> logo svg" want a download, so the title and copy say that first and
+    // the page is honest that this is a monoline redrawing, not the official full-color mark.
+    const logo = brandName !== null;
+    const brand = brandName;
+    const cardImage = card(`icon/${i.name}`, `${T} icon`, '', [i.name], 'square');
+    const imageLd = [
+      { '@type': 'ImageObject', name: `${T} icon`, contentUrl: SITE + cardImage, encodingFormat: 'image/png', width: 400, height: 400, thumbnailUrl: SITE + cardImage, dateModified: released,
+        license: 'https://opensource.org/licenses/MIT', acquireLicensePage: `${SITE}license/`, creditText: 'Icon Monks', creator: ORG, copyrightNotice: 'Design Monks' },
+      { '@type': 'ImageObject', name: `${T} icon (SVG)`, contentUrl: SITE + svgFile(i.name, 'regular'), encodingFormat: 'image/svg+xml', dateModified: released,
+        license: 'https://opensource.org/licenses/MIT', acquireLicensePage: `${SITE}license/`, creditText: 'Icon Monks', creator: ORG, copyrightNotice: 'Design Monks' },
+    ];
     write(path, page({
       path, depth: 2,
-      title: `${T} Icon: Free SVG & PNG in 6 Weights | Icon Monks`,
-      description: `Free ${t} icon in thin, light, regular, bold, fill and duotone. Download SVG or PNG, or use it in React, Vue, Flutter, SwiftUI and Jetpack Compose. MIT licensed.`,
-      h1: `${esc(T)} icon`,
-      lede: `The ${esc(t)} icon is a free ${esc(i.category.toLowerCase())} icon from Icon Monks, drawn as one clean path on a 256-unit grid in six weights. It is free for personal and commercial use under the MIT license.`,
+      title: logo ? `${brand} Logo SVG & PNG: Free Icon in 6 Weights | Icon Monks` : `${T} Icon: Free SVG & PNG in 6 Weights | Icon Monks`,
+      description: logo
+        ? `Download the ${brand} logo as a free SVG or PNG icon in thin, light, regular, bold, fill and duotone, or use it in React, Vue, Flutter, SwiftUI and Jetpack Compose. Drawn by Icon Monks, MIT licensed.`
+        : `Free ${t} icon in thin, light, regular, bold, fill and duotone. Download SVG or PNG, or use it in React, Vue, Flutter, SwiftUI and Jetpack Compose. MIT licensed.`,
+      h1: logo ? `${esc(brand)} logo icon` : `${esc(T)} icon`,
+      lede: logo
+        ? `The ${esc(brand)} logo icon is Icon Monks' single-color drawing of the ${esc(brand)} mark, matched to the rest of the set in six weights so it sits next to interface icons in sign-in buttons, footers and integration lists. The drawing is MIT licensed; the ${esc(brand)} name and logo remain trademarks of their owner.`
+        : `The ${esc(t)} icon is a free ${esc(i.category.toLowerCase())} icon from Icon Monks, drawn as one clean path on a 256-unit grid in six weights. It is free for personal and commercial use under the MIT license.`,
       crumbs: [[`${i.category} icons`, `categories/${slug(i.category)}/`], [T, path]],
-      image: card(`icon/${i.name}`, `${T} icon`, '', [i.name], 'square'), square: true,
-      jsonld: [{ '@type': 'ImageObject', name: `${T} icon`, contentUrl: SITE + svgFile(i.name, 'regular'), encodingFormat: 'image/svg+xml', dateModified: released,
-        license: 'https://opensource.org/licenses/MIT', acquireLicensePage: `${SITE}license/`, creditText: 'Icon Monks', creator: ORG, copyrightNotice: 'Design Monks' }, faq(qa)],
+      image: cardImage, square: true,
+      jsonld: [...imageLd, faq(qa)],
       body: (up) => `
   <section class="weights" aria-label="Weights">
     ${data.weights.map((w) => `<figure><img src="${up}${svgFile(i.name, w)}" alt="${esc(T)} icon, ${w} weight" width="64" height="64"><figcaption>${w[0].toUpperCase() + w.slice(1)}</figcaption><a class="dl" href="${up}${svgFile(i.name, w)}" download>SVG</a></figure>`).join('\n    ')}
   </section>
   <p class="actions"><a class="btn primary" href="${up}?icon=${i.name}">Open in the icon browser</a><span class="hint">Customize size and color, then download PNG, WebP or PDF.</span></p>
   <h2>About the ${esc(t)} icon</h2>
+  ${ICON_NOTES[i.name] ? `<p>${esc(ICON_NOTES[i.name])}</p>` : ''}
   <p>${describe(up)}</p>
   ${pairNote(up)}
   <h2>When to use the ${esc(t)} icon</h2>
-  <p>It belongs to the <a href="${up}categories/${slug(i.category)}/">${esc(i.category.toLowerCase())} set</a>, made for ${esc(blurb)}.${searches.length ? ` People find it by searching for ${esc(list(searches.map((g) => `“${g}”`)))}.` : ''} Pair it with the related icons below so a screen stays in one visual style.</p>
+  <p>It belongs to the <a href="${up}categories/${slug(i.category)}/">${esc(i.category.toLowerCase())} set</a>, made for ${esc(blurb)}. Pair it with the related icons below so a screen stays in one visual style.</p>
   <h2>Use the ${esc(t)} icon in your code</h2>
   <div class="codes">${Object.entries(SNIP).map(([k, f]) => `<div class="code"><h3>${k}</h3><pre><code>${esc(f(i.name, 'regular'))}</code></pre></div>`).join('')}</div>
   <p>Need setup steps? See the <a href="${up}getting-started/">getting started guide</a> or the page for <a href="${up}react-icons/">React</a>, <a href="${up}flutter-icons/">Flutter</a>, <a href="${up}swiftui-icons/">SwiftUI</a> or <a href="${up}jetpack-compose-icons/">Jetpack Compose</a>.</p>
@@ -286,7 +304,7 @@ ${HEADER_JS}
       title: `${n} Free ${t.name} Icons: SVG, PNG, React & Flutter | Icon Monks`,
       description: `${n} free ${low} icons in six weights, including ${list(top)}. Download SVG or PNG, or use them in React, Vue, Flutter, SwiftUI and Jetpack Compose. MIT licensed.`,
       h1: `${esc(t.name)} icons`,
-      lede: `${n} free ${esc(low)} icons, each drawn in thin, light, regular, bold, fill and duotone on the same 256-unit grid. ${from.length > 1 ? `Most come from the ${list(from.slice(0, 2).map(([c, k]) => `${esc(c.toLowerCase())} (${k})`))} sets` : `They all come from the ${esc(from[0][0].toLowerCase())} set`}, starting with ${esc(list(top))}.`,
+      lede: `${TOPIC_NOTES[t.slug] ? `${esc(TOPIC_NOTES[t.slug])} ` : ''}${n} free ${esc(low)} icons, each drawn in thin, light, regular, bold, fill and duotone on the same 256-unit grid. ${from.length > 1 ? `Most come from the ${list(from.slice(0, 2).map(([c, k]) => `${esc(c.toLowerCase())} (${k})`))} sets` : `They all come from the ${esc(from[0][0].toLowerCase())} set`}, starting with ${esc(list(top))}.`,
       crumbs: [['Topics', 'topics/'], [`${t.name} icons`, path]],
       image: card(`topics/${t.slug}`, `${t.name} icons`, `${n} free icons in six weights`, t.members.slice(0, 4).map((i) => i.name)),
       jsonld: [faq(qa), { '@type': 'CollectionPage', name: `${t.name} icons`, url: SITE + path, isPartOf: { '@id': `${SITE}#website` }, dateModified: released,
@@ -642,7 +660,7 @@ SOFTWARE.</code></pre>`,
   writeFileSync(new URL('site.css', root), CSS + HEADER_CSS);
   mkdirSync(new URL('build/', root), { recursive: true });
   writeFileSync(new URL('build/og.json', root), JSON.stringify(cards));
-  return { urls, slug, PLATFORMS, GUIDES, topics, lastmod };
+  return { urls, slug, PLATFORMS, GUIDES, topics, lastmod, FEATURED_TOPICS };
 }
 
 const faq = (items) => ({ '@type': 'FAQPage', mainEntity: items.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } })) });
@@ -682,6 +700,64 @@ const CATEGORY_BLURBS = {
   Charts: 'dashboards, analytics and data visualization', Education: 'learning platforms, schools and courses', Animals: 'pets, wildlife and playful interfaces',
 };
 
+// Hand-written openings for icon pages that Search Console shows on page one or two without clicks: a sentence or
+// two on what the icon is for, in the words people search with, ahead of the generated description.
+const ICON_NOTES = {
+  flowchart: 'The flowchart icon shows connected boxes in a process diagram. Use it for workflow builders, automation and process-mapping features, diagram tools and any screen that needs a flow chart symbol next to charts, tables and reports.',
+  'copy-slash': 'The copy slash icon is the copy icon with a slash through it, for copying that is turned off: a protected document, a read-only field or a block on duplicating an item. Pair it with the copy icon so the enabled and disabled states match.',
+  passkey: 'The passkey icon stands for passwordless sign-in with a passkey, the FIDO and WebAuthn credential kept on a device or in a password manager. Use it on sign-in buttons, security settings and account recovery screens next to the fingerprint, key and lock icons.',
+  'text-to-speech': 'The text to speech icon marks a feature that reads text aloud: TTS buttons in readers and chat apps, accessibility settings, and voice output in AI assistants. Pair it with the speaker and microphone icons for a complete voice toolbar.',
+  'app-switcher': 'The app switcher icon shows the multitasking view that lists open apps. Use it for task switching, recent apps, window management and dock settings, and for the Android overview button in guides and screenshots.',
+  database: 'The database icon is the stacked-cylinders symbol for a data store. Use it for databases, storage settings, data sources and infrastructure dashboards, and pair it with the server, cloud and hard drive icons.',
+  gizmo: 'The gizmo icon shows the three-axis transform handle used in 3D editors and game engines. Use it for move, rotate and scale tools, 3D viewports and modelling or animation apps.',
+  'reduce-motion': 'The reduce motion icon marks the accessibility setting that limits animation. Use it in settings screens, accessibility menus and motion preferences next to the contrast, text size and screen reader icons.',
+  'git-cherry-pick': 'The git cherry pick icon shows the command that copies a single commit onto another branch. Use it in version control tools, commit menus and code review interfaces next to the merge, rebase and branch icons.',
+  'data-saver': 'The data saver icon marks the setting that limits background data on mobile networks. Use it in network settings, browser preferences and status indicators next to the wifi and cellular icons.',
+  'clock-code': 'The clock code icon pairs a clock with a code symbol, for scheduled jobs, cron tasks and build times. Use it in developer dashboards, automation settings and CI tools.',
+  glass: 'The glass icon is a plain drinking glass or tumbler. Use it for water, drinks and hydration features, restaurant and delivery menus, and kitchen or home apps, and pair it with the cup, bottle and fork and knife icons.',
+  'mcp-logo': 'The MCP logo icon represents the Model Context Protocol, the open standard that connects AI assistants to tools and data. Use it to label MCP servers, integrations and connectors in AI products and developer docs.',
+  'heygen-logo': 'The HeyGen logo icon stands for HeyGen, the AI video and avatar platform. Use it in integration lists, export menus and tool pickers next to other AI and video brand marks.',
+  'excalidraw-logo': 'The Excalidraw logo icon stands for Excalidraw, the hand-drawn style whiteboard. Use it in integration lists, embed menus and tool pickers next to other design and collaboration brands.',
+  'microsoft-loop-logo': 'The Microsoft Loop logo icon stands for Microsoft Loop, the collaborative workspace in Microsoft 365. Use it in app launchers, integration lists and share menus next to the other Microsoft product marks.',
+  'google-colab-logo': 'The Google Colab logo icon stands for Google Colaboratory, the hosted notebook environment. Use it in notebook launchers, integration lists and data science tool pickers.',
+  'playwright-logo': 'The Playwright logo icon stands for Playwright, the browser testing framework. Use it in CI dashboards, test reports and developer tool pickers next to other testing and framework marks.',
+  'android-studio-logo': 'The Android Studio logo icon stands for the Android Studio IDE. Use it in download pages, setup guides and tool pickers next to the Android, Kotlin and Gradle marks.',
+  'google-ads-logo': 'The Google Ads logo icon stands for Google Ads, the advertising platform. Use it in marketing dashboards, integration lists and campaign settings next to the analytics and search marks.',
+  'procreate-logo': 'The Procreate logo icon stands for Procreate, the iPad illustration app. Use it in tool pickers, export menus and design tool lists next to the other creative app marks.',
+  'claude-logo': 'The Claude logo icon stands for Claude, the AI assistant made by Anthropic. Use it in model pickers, integration lists and AI feature labels next to the other AI brand marks.',
+  'amplitude-logo': 'The Amplitude logo icon stands for Amplitude, the product analytics platform. Use it in analytics dashboards, integration lists and data source pickers.',
+  'mollie-logo': 'The Mollie logo icon stands for Mollie, the European payment provider. Use it in checkout flows, payment method lists and billing settings next to the other payment marks.',
+  'hopper-logo': 'The Hopper logo icon stands for Hopper, the flight and hotel booking app. Use it in travel apps, deal comparisons and integration lists.',
+  'metabase-logo': 'The Metabase logo icon stands for Metabase, the open source business intelligence tool. Use it in dashboard embeds, integration lists and analytics tool pickers.',
+  'arc-browser-logo': 'The Arc browser logo icon stands for Arc, the browser by The Browser Company. Use it in browser pickers, compatibility tables and download pages next to the other browser marks.',
+  'bitwarden-logo': 'The Bitwarden logo icon stands for Bitwarden, the open source password manager. Use it in security settings, integration lists and sign-in helpers next to the passkey and lock icons.',
+  'google-assistant-logo': 'The Google Assistant logo icon stands for Google Assistant, the voice assistant on Android and smart speakers. Use it in voice features, smart home apps and integration lists.',
+  'apple-books-logo': 'The Apple Books logo icon stands for Apple Books, the reading app on iPhone, iPad and Mac. Use it in reading apps, store links and share menus.',
+  'microsoft-to-do-logo': 'The Microsoft To Do logo icon stands for Microsoft To Do, the task app in Microsoft 365. Use it in task integrations, app launchers and productivity tool pickers.',
+};
+// Hand-written openings for the topic pages with the most search impressions, keyed by slug.
+const TOPIC_NOTES = {
+  'database-icons': 'Database icons cover the data layer of a product: databases, tables, storage, backups, queries and sync. Use them in admin panels, infrastructure dashboards, data source pickers and settings screens, and pair them with the server, cloud and file icons so the whole stack reads as one set.',
+  'hand-icons': 'Hand icons show gestures and pointers: tap, swipe, grab, point, wave and hold. Use them in onboarding tours, tutorial overlays, cursor states and accessibility settings, where a hand explains an interaction faster than a sentence.',
+  'glass-icons': 'Glass icons cover drinking glasses, tumblers and glassware for water, wine, beer and cocktails. Use them in restaurant and delivery menus, hydration trackers, event planners and kitchen or home apps.',
+  'delete-icons': 'Delete icons cover removing, clearing and discarding: trash cans, crosses, erasers and slashed variants of common objects. Use the trash can for items that can be restored and a cross or slash for immediate removal, and keep one choice consistent across a product.',
+  'animation-icons': 'Animation icons cover motion, keyframes, easing, playback and transitions. Use them in video and motion design tools, prototyping apps, animation settings and the reduce motion option in accessibility menus.',
+  'office-icons': 'Office icons cover desks, documents, printers, meetings and the everyday objects of office work. Use them in productivity apps, HR and admin tools, booking systems and workplace dashboards.',
+  'gear-icons': 'Gear icons are the standard symbol for settings and configuration, with variants for user, security, notification and system settings. Use a single gear for the main settings entry and the variants for sections inside it.',
+  'bank-icons': 'Bank icons cover banks, accounts, transfers, cards and vaults. Use them in fintech apps, payment flows, budgeting tools and account settings next to the wallet and coin icons.',
+  'browser-icons': 'Browser icons cover windows, tabs, address bars, bookmarks and the logos of popular browsers. Use them in compatibility tables, download pages, developer tools and in-app browser controls.',
+  'cloud-icons': 'Cloud icons cover storage, sync, upload, download and cloud services, plus the weather clouds. Use them for backups, hosting and infrastructure dashboards, file sync status and connectivity indicators.',
+  'eye-icons': 'Eye icons cover visibility, watching and privacy: show and hide a password, view counts, watchers, and the slashed variant for hidden content. Pair the eye and eye slash icons so the toggle reads clearly in both states.',
+  'star-icons': 'Star icons cover favorites, ratings, bookmarks and highlights. Use the outline for an unselected state and the fill weight for the selected state, so a rating or favorite toggle works without a color change.',
+  'clock-icons': 'Clock icons cover time, schedules, history, timers and deadlines. Use them for timestamps, recent items, reminders and duration pickers, and pair them with the calendar and hourglass icons.',
+  'focus-icons': 'Focus icons cover concentration modes, do not disturb, camera focus and target states. Use them in notification settings, camera controls and productivity timers.',
+  'keyboard-icons': 'Keyboard icons cover keyboards, keys and shortcuts. Use them in settings, shortcut hints, input method switches and gaming or accessibility controls.',
+  'wallet-icons': 'Wallet icons cover wallets, cards, cash and crypto balances. Use them in payment flows, account overviews and fintech dashboards next to the bank, coin and credit card icons.',
+};
+// Topics the homepage lists first: the ones people search for most, ahead of the biggest sets.
+const FEATURED_TOPICS = ['database-icons', 'hand-icons', 'glass-icons', 'delete-icons', 'animation-icons', 'office-icons', 'gear-icons', 'bank-icons',
+  'browser-icons', 'cloud-icons', 'eye-icons', 'star-icons', 'clock-icons', 'focus-icons', 'keyboard-icons', 'wallet-icons', 'ai-icons', 'money-icons'];
+
 const code = (t) => `<pre><code>${esc(t)}</code></pre>`;
 const SITE_URL = 'https://www.iconmonks.co/';
 const VERSION = JSON.parse(readFileSync(new URL('../package.json', import.meta.url))).version;
@@ -689,9 +765,9 @@ const VERSION = JSON.parse(readFileSync(new URL('../package.json', import.meta.u
 const PLATFORMS = [
   { path: 'react-icons/', short: 'React icons', pkg: '@icon-monks/react', lang: 'TypeScript', install: 'npm i @icon-monks/react',
     blurb: 'Typed, tree-shakeable components with an IconContext for defaults.',
-    title: (n) => `React Icons: ${n} Free SVG Components | Icon Monks`,
-    description: (n) => `Install ${n} free React icon components in six weights. Typed, tree-shakeable, with size, color and weight props and an IconContext for defaults. MIT licensed.`,
-    h1: 'React icons', lede: (n) => `${n} free icon components for React, each in six weights. Typed for TypeScript, tree-shakeable, and styled with plain props.`,
+    title: (n) => `React Icon Library: ${n} Free SVG Icon Components | Icon Monks`,
+    description: (n) => `An open source React icon library with ${n} free SVG icon components in six weights. Typed, tree-shakeable, with size, color and weight props and an IconContext for defaults. MIT licensed.`,
+    h1: 'React icon library', lede: (n) => `${n} free SVG icon components for React, each in six weights. Typed for TypeScript, tree-shakeable, and styled with plain props.`,
     sections: [
       ['Install', code('npm install @icon-monks/react')],
       ['Use an icon', code(`import { House, Heart } from '@icon-monks/react';\n\nexport function Nav() {\n  return (\n    <>\n      <House />\n      <Heart size={32} color="crimson" weight="fill" />\n    </>\n  );\n}`)],
